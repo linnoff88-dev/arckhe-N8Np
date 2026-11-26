@@ -18,7 +18,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T22:23:25+00:00
 Texto:
 Dublado
@@ -26,7 +26,7 @@ Dublado
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T22:23:15+00:00
 Texto:
 https://www.youtube.com/watch?v=S74M8h3gOOA
@@ -35,7 +35,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T22:18:09+00:00
 Texto:
 Aqui vêo alguns hacks práticos para esse sistema multi-agente no n8n ficar mais rápido, barato e com mais impacto — inclusive na hora de vender como serviço.
@@ -127,7 +127,7 @@ Aqui vêo alguns hacks práticos para esse sistema multi-agente no n8n ficar mai
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T22:17:11+00:00
 Texto:
 =============
@@ -135,7 +135,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T22:17:05+00:00
 Texto:
 Instagram/X/TikTok?
@@ -156,7 +156,7 @@ Adicione um campo content\_format no input. O Script ajusta estrutura para slide
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T22:17:05+00:00
 Texto:
 conteúdo e vendas assistidos por IA\n\nComo começar em 7 dias:\n1) Mapear 3 tarefas repetitivas\n2) Conectar fontes de dados\n3) Pilotar um fluxo com IA + métrica clara\n\nCTA: quer a planilha de diagnóstico? Comente “AI-native”.",
@@ -257,7 +257,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T22:17:05+00:00
 Texto:
 r(): carrega medos, desejos, transformaçêo e obstáculos do doc.
@@ -370,7 +370,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T22:17:05+00:00
 Texto:
 a
@@ -378,7 +378,7 @@ a
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T22:17:05+00:00
 Texto:
 read\_avat
@@ -386,7 +386,7 @@ read\_avat
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T22:17:05+00:00
 Texto:
 Aqui vai um passo a passo direto para montar no n8n o sistema de conteúdo com múltiplos agentes que pesquisa, analisa seus outliers no LinkedIn, escreve o post e escolhe 3 hooks virais. Vou dar os prompts prontos, nós do n8n, exemplos de cURL com as chaves de API nos headers e um checklist de testes.
@@ -481,7 +481,7 @@ Adicione quatro Sub-Agents abaixo dele (no próprio node, se seu n8n permitir, o
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T22:14:52+00:00
 Texto:
 ==============
@@ -489,7 +489,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T22:14:48+00:00
 Texto:
 Como criar no n8n um sistema de múltiplos agentes que produz posts virais para LinkedIn (e também Instagram, X/Twitter e TikTok) usando dados reais, pesquisa e ganchos comprovados, sem precisar escrever código.
@@ -528,7 +528,7 @@ Resumo por etapas:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T22:13:56+00:00
 Texto:
 =============
@@ -536,7 +536,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T22:13:49+00:00
 Texto:
 Esse sistema de crescimento social com multi-agentes no n8n funciona como uma automaçêo em quatro etapas que usa dados reais do seu perfil e ganchos virais testados para gerar posts com alto potencial de engajamento.
@@ -564,7 +564,7 @@ Segue o resumo detalhado por etapas:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T22:12:46+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 🤩 Ultimate model guide (1).pdf
@@ -572,7 +572,7 @@ Midia: MessageMediaDocument -> 🤩 Ultimate model guide (1).pdf
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T22:12:46+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 🧠 Loveable memory System. (1) (1).pdf
@@ -580,7 +580,7 @@ Midia: MessageMediaDocument -> 🧠 Loveable memory System. (1) (1).pdf
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T22:12:31+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> $10,000 LinkedIn agent.json
@@ -588,7 +588,7 @@ Midia: MessageMediaDocument -> $10,000 LinkedIn agent.json
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T22:12:23+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12798_019.jpg
@@ -596,7 +596,7 @@ Midia: MessageMediaPhoto -> photo_12798_019.jpg
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T22:12:17+00:00
 Texto:
 j100 - Crescimento Social nas Redes Sociais
@@ -604,7 +604,7 @@ j100 - Crescimento Social nas Redes Sociais
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T22:12:16+00:00
 Texto:
 .
@@ -612,7 +612,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T22:12:15+00:00
 Texto:
 .
@@ -620,7 +620,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T22:12:14+00:00
 Texto:
 .
@@ -628,7 +628,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T22:12:12+00:00
 Texto:
 .
@@ -636,7 +636,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T22:12:10+00:00
 Texto:
 .
@@ -644,7 +644,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T22:12:09+00:00
 Texto:
 https://chatgpt.com/c/689d0b26-93ac-8322-ae24-f0e7a7521498
@@ -653,7 +653,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T22:12:07+00:00
 Texto:
 1
@@ -661,7 +661,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T22:12:00+00:00
 Texto: [Sem texto]
 

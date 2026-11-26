@@ -43,7 +43,7 @@
       ],
       "parameters": {
         "url": "{{ $env.API_BASE_URL }}",
-        "body": "={\n  \"model\": \"Qubico/flux1-dev\",\n  \"task_type\": \"txt2img\",\n  \"input\": {\n    \"prompt\": \"Ultra-realistic vertical nature landscape, {{ $json['Background (EN)'] }}, featuring {{ $json['Prompt (EN)'] }}, high detail, soft atmospheric lighting, cinematic golden hour glow, vertical composition, photorealistic texture, natural depth of field, calm and serene mood, no people, no buildings, HDR, 8k resolution, masterpiece\",\n    \"negative_prompt\": \"taking a photo of a room, recording a video of a room, photos app, video recorder, illegible text, blurry text, low quality text, DSLR, unnatural\",\n    \"width\": 540,\n    \"height\": 960\n  }\n}",
+        "body": "={\n  \"model\": \"Qubico/flux1-dev\",\n  \"task_type\": \"txt2img\",\n  \"input\": {\n    \"prompt\": \"Ultra-realistic vertical nature landscape, {{ $json['Background (EN)'] }}, featuring {{ $json['Prompt (EN)'] }}, high detail, soft atmospheric lighting, cARCKHÉtic golden hour glow, vertical composition, photorealistic texture, natural depth of field, calm and serene mood, no people, no buildings, HDR, 8k resolution, masterpiece\",\n    \"negative_prompt\": \"taking a photo of a room, recording a video of a room, photos app, video recorder, illegible text, blurry text, low quality text, DSLR, unnatural\",\n    \"width\": 540,\n    \"height\": 960\n  }\n}",
         "method": "POST",
         "options": {},
         "sendBody": true,
@@ -250,7 +250,7 @@
       ],
       "parameters": {
         "url": "{{ $env.API_BASE_URL }}",
-        "body": "={\n  \"model\": \"kling\",\n  \"task_type\": \"video_generation\",\n  \"input\": {\n    \"prompt\": \"Cinematic vertical video from image of {{ $('Get data from Google Sheet').item.json['Background (EN)'] }}, with {{ $('Get data from Google Sheet').item.json['Prompt (EN)'] }}, animated subtly from image, with soft light, mist, swaying trees, slow zoom effect, no people or buildings\",\n    \"negative_prompt\": \"blurry motion, distorted faces, unnatural lighting, over produced, bad quality\",\n    \"cfg_scale\": 0.5,\n    \"duration\": 5,\n    \"mode\": \"std\",\n    \"image_url\": \"{{ $('Get image').item.json.data.output.image_url }}\",\n    \"version\": \"1.0\",\n    \"camera_control\": {\n      \"type\": \"simple\",\n      \"config\": {\n        \"horizontal\": 0,\n        \"vertical\": 0,\n        \"pan\": 0,\n        \"tilt\": 0,\n        \"roll\": 0,\n        \"zoom\": 5\n      }\n    }\n  }\n}",
+        "body": "={\n  \"model\": \"kling\",\n  \"task_type\": \"video_generation\",\n  \"input\": {\n    \"prompt\": \"CARCKHÉtic vertical video from image of {{ $('Get data from Google Sheet').item.json['Background (EN)'] }}, with {{ $('Get data from Google Sheet').item.json['Prompt (EN)'] }}, animated subtly from image, with soft light, mist, swaying trees, slow zoom effect, no people or buildings\",\n    \"negative_prompt\": \"blurry motion, distorted faces, unnatural lighting, over produced, bad quality\",\n    \"cfg_scale\": 0.5,\n    \"duration\": 5,\n    \"mode\": \"std\",\n    \"image_url\": \"{{ $('Get image').item.json.data.output.image_url }}\",\n    \"version\": \"1.0\",\n    \"camera_control\": {\n      \"type\": \"simple\",\n      \"config\": {\n        \"horizontal\": 0,\n        \"vertical\": 0,\n        \"pan\": 0,\n        \"tilt\": 0,\n        \"roll\": 0,\n        \"zoom\": 5\n      }\n    }\n  }\n}",
         "method": "POST",
         "options": {},
         "sendBody": true,
@@ -336,7 +336,7 @@
         "color": 3,
         "width": 1180,
         "height": 240,
-        "content": "## Create Video Background\nCreate a cinematic vertical video from the generated image using PiAPI Kling."
+        "content": "## Create Video Background\nCreate a cARCKHÉtic vertical video from the generated image using PiAPI Kling."
       },
       "typeVersion": 1,
       "notes": "This stickyNote node performs automated tasks as part of the workflow."

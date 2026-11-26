@@ -44,13 +44,13 @@
     "id": 10361,
     "author": "Luana",
     "date": "2025-06-23T17:17:26+00:00",
-    "text": "@INEMAtds vc usa proxy no blotato para fazer as postagens no tiktok?",
+    "text": "@linnoff88-dev vc usa proxy no blotato para fazer as postagens no tiktok?",
     "has_media": false,
     "media_type": null
   },
   {
     "id": 10340,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-22T21:40:12+00:00",
     "text": "dublado",
     "has_media": false,
@@ -58,7 +58,7 @@
   },
   {
     "id": 10339,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-22T21:40:10+00:00",
     "text": "https://www.youtube.com/watch?v=RvuPRX-b7Lc",
     "has_media": true,
@@ -66,15 +66,15 @@
   },
   {
     "id": 10338,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-22T21:39:36+00:00",
-    "text": "Aqui estêo os **principais hacks e otimizações** usados no sistema apresentado no vídeo para automatizar vídeos virais de ASMR com IA, economizar tempo e aumentar as chances de viralizaçêo:\n\n---\n\n### **Hacks de Geraçêo de Conteúdo**\n\n1. **Prompt Estruturado e Rico em Detalhes**\n\n   * Usa estrutura clara com campos como: `sujeito`, `cenário`, `açêo`, `som`, `estilo`, `movimento de câmera`, etc.\n   * Garante que o prompt gere vídeos consistentes e visualmente impactantes.\n   * Exemplo:\n\n     * Objeto: *glass kiwi*\n     * Prompt gera: corte hiper-realista, som do vidro, ângulo cinematográfico, iluminaçêo suave.\n\n2. **Reaproveitamento de ideias com lista rotativa**\n\n   * Mantém planilha com as **7 últimas frutas usadas**.\n   * Garante que a IA gere algo **sempre novo**, evitando repetiçêo.\n\n3. **Uso de parser estruturado**\n\n   * Força a IA a entregar saída em dois campos separados: `fruta` e `legenda`.\n   * Evita erros de formataçêo e facilita automaçêo no n8n.\n\n---\n\n### **Hacks Técnicos e de Automaçêo**\n\n4. **Automaçêo total com n8n**\n\n   * Sistema executa sozinho: ideia → vídeo → postagem → planilha.\n   * Pode ser configurado para rodar **X vezes por dia**, ex: a cada hora.\n\n5. **Delay com verificaçêo contínua**\n\n   * Usa espera de 5 min + checagem por ID até o vídeo estar pronto.\n   * Impede que o fluxo trave ou falhe por vídeo ainda em processamento.\n\n6. **Limpeza do JSON antes do envio**\n\n   * Remove `\\n` e `\"` duplos do prompt antes de enviar à API do FAL.\n   * Evita falhas de parsing na geraçêo de vídeo.\n\n---\n\n### **Hacks de Postagem nas Redes**\n\n7. **Uso do Botato para multiplataforma**\n\n   * Um só vídeo postado automaticamente em YouTube, TikTok e Instagram.\n   * Suporte também para Threads, Pinterest, X (Twitter), Facebook e LinkedIn.\n\n8. **Transformaçêo de URL via Botato**\n\n   * O link da FAL é convertido para link da Botato, que hospeda e posta o vídeo.\n   * Necessário para que o vídeo seja aceito pelas redes sociais.\n\n9. **Publicaçêo com configurações separadas**\n\n   * Cada rede tem seu próprio node de postagem.\n   * Evita que uma falha em uma rede afete as outras.\n\n---\n\n### **Hacks de Performance e Alcance**\n\n10. **Volume como fator de viralizaçêo**\n\n* Publica vídeos em massa (até 24 por dia), aumentando chance de viral.\n* Quanto mais vídeos únicos por dia, maior o alcance potencial.\n\n11. **Vídeos com áudio ativado (ASMR)**\n\n* Gera vídeos com som integrado — muito mais engajadores.\n* Áudio é essencial para o formato ASMR e aumenta tempo de retençêo.\n\n12. **Aproveitamento de tendências**\n\n* Vídeos com frutas ou objetos de vidro sendo cortados estêo em alta.\n* Aproveita o momento para crescer no algoritmo das plataformas.\n\n-",
+    "text": "Aqui estêo os **principais hacks e otimizações** usados no sistema apresentado no vídeo para automatizar vídeos virais de ASMR com IA, economizar tempo e aumentar as chances de viralizaçêo:\n\n---\n\n### **Hacks de Geraçêo de Conteúdo**\n\n1. **Prompt Estruturado e Rico em Detalhes**\n\n   * Usa estrutura clara com campos como: `sujeito`, `cenário`, `açêo`, `som`, `estilo`, `movimento de câmera`, etc.\n   * Garante que o prompt gere vídeos consistentes e visualmente impactantes.\n   * Exemplo:\n\n     * Objeto: *glass kiwi*\n     * Prompt gera: corte hiper-realista, som do vidro, ângulo cARCKHÉtográfico, iluminaçêo suave.\n\n2. **Reaproveitamento de ideias com lista rotativa**\n\n   * Mantém planilha com as **7 últimas frutas usadas**.\n   * Garante que a IA gere algo **sempre novo**, evitando repetiçêo.\n\n3. **Uso de parser estruturado**\n\n   * Força a IA a entregar saída em dois campos separados: `fruta` e `legenda`.\n   * Evita erros de formataçêo e facilita automaçêo no n8n.\n\n---\n\n### **Hacks Técnicos e de Automaçêo**\n\n4. **Automaçêo total com n8n**\n\n   * Sistema executa sozinho: ideia → vídeo → postagem → planilha.\n   * Pode ser configurado para rodar **X vezes por dia**, ex: a cada hora.\n\n5. **Delay com verificaçêo contínua**\n\n   * Usa espera de 5 min + checagem por ID até o vídeo estar pronto.\n   * Impede que o fluxo trave ou falhe por vídeo ainda em processamento.\n\n6. **Limpeza do JSON antes do envio**\n\n   * Remove `\\n` e `\"` duplos do prompt antes de enviar à API do FAL.\n   * Evita falhas de parsing na geraçêo de vídeo.\n\n---\n\n### **Hacks de Postagem nas Redes**\n\n7. **Uso do Botato para multiplataforma**\n\n   * Um só vídeo postado automaticamente em YouTube, TikTok e Instagram.\n   * Suporte também para Threads, Pinterest, X (Twitter), Facebook e LinkedIn.\n\n8. **Transformaçêo de URL via Botato**\n\n   * O link da FAL é convertido para link da Botato, que hospeda e posta o vídeo.\n   * Necessário para que o vídeo seja aceito pelas redes sociais.\n\n9. **Publicaçêo com configurações separadas**\n\n   * Cada rede tem seu próprio node de postagem.\n   * Evita que uma falha em uma rede afete as outras.\n\n---\n\n### **Hacks de Performance e Alcance**\n\n10. **Volume como fator de viralizaçêo**\n\n* Publica vídeos em massa (até 24 por dia), aumentando chance de viral.\n* Quanto mais vídeos únicos por dia, maior o alcance potencial.\n\n11. **Vídeos com áudio ativado (ASMR)**\n\n* Gera vídeos com som integrado — muito mais engajadores.\n* Áudio é essencial para o formato ASMR e aumenta tempo de retençêo.\n\n12. **Aproveitamento de tendências**\n\n* Vídeos com frutas ou objetos de vidro sendo cortados estêo em alta.\n* Aproveita o momento para crescer no algoritmo das plataformas.\n\n-",
     "has_media": false,
     "media_type": null
   },
   {
     "id": 10337,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-22T21:38:43+00:00",
     "text": "=============",
     "has_media": false,
@@ -82,7 +82,7 @@
   },
   {
     "id": 10336,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-22T21:38:21+00:00",
     "text": "Aqui está o **passo a passo completo** para criar o sistema que gera e publica automaticamente vídeos virais de ASMR com frutas de vidro sendo cortadas, usando **n8n**, **Google Veo V3** (via FAL.ai) e **Botato**:\n\n---\n\n### **1. Preparar os dados iniciais**\n\n* Crie uma **Google Sheet** com duas colunas: `object` (nome da fruta) e `url` (link do vídeo).\n* Preencha com 7 exemplos anteriores para iniciar o sistema.\n\n---\n\n### **2. Criar o fluxo no n8n**\n\n#### **Parte 1: Geraçêo da Ideia (Idea Agent)**\n\n* **Trigger agendado**: escolha a frequência (ex: 3x ao dia).\n* **Node Google Sheets (leitura)**: leia os 7 últimos objetos (frutas) do sheet.\n* **Node de agregaçêo**: junte os 7 objetos em uma lista.\n* **Node OpenAI (ou outro LLM)**: gere:\n\n  * Uma **nova fruta** que ainda nêo foi usada.\n  * Uma **legenda** curta para a postagem.\n* Use um **structured output parser** para garantir saída separada: `object` e `caption`.\n\n---\n\n### **3. Criar o prompt de vídeo (Prompt Agent)**\n\n* Novo node LLM com instruções claras:\n\n  * Geraçêo de prompt para **vídeo ASMR hiper-realista**.\n  * Formato 9:16 (vertical), foco em som, textura e corte visual.\n  * Defina estrutura de output: `subject`, `setting`, `action`, `style`, `sound`, `camera motion`, `composition`, `ambience`, `aspect ratio`.\n\n---\n\n### **4. Enviar para o FAL com modelo Google Veo V3**\n\n* Crie conta em [FAL.ai](https://fal.ai/) e gere uma **API Key**.\n* Use um **node HTTP Request**:\n\n  * Método: POST\n  * Header: Authorization = `Key SUA_API_KEY`\n  * Body JSON:\n\n    ```    {\n      \"prompt\": \"PROMPT GERADO\",\n      \"aspect_ratio\": \"9:16\",\n      \"generate_audio\": true\n    }\n    ```\n* Armazene o `request_id` retornado.\n\n---\n\n### **5. Verificar se o vídeo foi gerado**\n\n* Use `setTimeout` + `loop` de checagem:\n\n  * A cada 10 segundos, verifique com o `request_id` se o vídeo está pronto.\n  * Se estiver pronto, armazene o `video_url`.\n\n---\n\n### **6. Atualizar a planilha**\n\n* **Node Google Sheets**:\n\n  * Delete a linha 2 (mais antiga).\n  * Adicione nova linha com:\n\n    * `object`: nome da nova fruta.\n    * `url`: link do vídeo gerado.\n\n---\n\n### **7. Publicar nas redes sociais (Botato)**\n\n* Crie conta em [Botato](https://botato.io/) e gere uma **API Key**.\n* Conecte suas redes sociais (YouTube, TikTok, Instagram).\n* Em cada node HTTP (um por rede), envie:\n\n  * `title` = legenda do vídeo\n  * `url` = URL do vídeo\n  * Credencial de autenticaçêo: `Header Auth` com `Botato-API-Key`.\n\n---\n\n### **8. Verificaçêo final**\n\n* Você pode adicionar um node para verificar se a postagem foi realizada com sucesso via painel do Botato (`Published Posts`).\n\n---\n\n### **9. Download do template**\n\n* O autor disponibiliza:\n\n  * Template JSON do fluxo no n8n.\n  * Planilha modelo.\n  * Tudo na **comunidade gratuita Free School** (link na descriçêo do vídeo).\n\n---\n\n### **Resumo das Ferramentas**\n\n| Etapa          | Ferramenta          | Funçêo                     |\n| -------------- | ------------------- | -------------------------- |\n| Ideia e prompt | n8n + OpenAI        | Criar objeto e descriçêo   |\n| Vídeo          | FAL + Google Veo V3 | Gerar vídeo ASMR com áudio |\n| Postagem       | Botato              | Publicar automaticamente   |\n| Dados          | Google Sheets       | Manter histórico rotativo  |",
     "has_media": true,
@@ -90,7 +90,7 @@
   },
   {
     "id": 10335,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-22T21:37:57+00:00",
     "text": "==========",
     "has_media": false,
@@ -98,7 +98,7 @@
   },
   {
     "id": 10334,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-22T21:37:51+00:00",
     "text": "**Resumo do vídeo “This AI System Posts Viral ASMR Shorts Hourly**\n\nComo construir um sistema completo de automaçêo usando **n8n**, **Google Veo V3** e **Botato** para gerar e postar vídeos virais de ASMR com frutas de vidro sendo cortadas — de forma **totalmente automática** e **sem código**.\n\n### Etapas do sistema apresentado:\n\n1. **Geraçêo da Ideia (Ideia Agent)**\n\n   * Sistema verifica as últimas 7 frutas já utilizadas.\n   * Gera uma nova fruta ainda nêo usada e uma legenda.\n   * Usa um **parser estruturado** para garantir que o output tenha dois campos: fruta e legenda.\n\n2. **Geraçêo do Vídeo (Prompt Agent)**\n\n   * Com base na fruta escolhida, gera um prompt para vídeo hiper-realista no estilo ASMR.\n   * O prompt é enviado via API para o modelo **Google Veo V3** usando a plataforma **FAL.ai**.\n   * O modelo gera o vídeo com **áudio integrado**, que é essencial para o efeito ASMR.\n\n3. **Verificaçêo e Espera**\n\n   * O sistema espera cerca de 5 minutos até o vídeo ser finalizado.\n   * Faz verificações contínuas para garantir que o vídeo esteja pronto antes de prosseguir.\n\n4. **Atualizaçêo da Planilha Google**\n\n   * Remove a linha mais antiga da planilha e insere a nova fruta com o link do vídeo.\n   * Garante que a lista contenha sempre os 7 vídeos mais recentes.\n\n5. **Publicaçêo nas Redes Sociais**\n\n   * Utiliza a plataforma **Botato** para publicar automaticamente no **YouTube**, **Instagram** e **TikTok**.\n   * O vídeo é convertido para um link do Botato antes de ser postado.\n   * Também é possível postar em outras 6 redes como X (Twitter), LinkedIn, Threads, etc.\n\n6. **Detalhes Técnicos**\n\n   * Integraçêo via APIs do FAL e Botato com autenticaçêo via Header (API Key).\n   * Vídeos gerados em formato vertical (9:16).\n   * Geraçêo média de **vídeos de 8 segundos a US\\$ 6 por vídeo** (incluindo áudio).\n   * Custo por segundo com áudio: **US\\$ 0,75**.\n\n7. **Personalizaçêo e Escalabilidade**\n\n   * O fluxo pode ser programado para rodar quantas vezes quiser por dia.\n   * O objetivo é volume e constância para aumentar chances de viralizaçêo.\n\n\n### Exemplos citados:\n\n* Um dos primeiros vídeos gerados (com prompt inicial) teve **35 mil views em um dia**.\n* Os prompts evoluíram e estêo gerando resultados ainda melhores.\n\n### Objetivo:\n\nMostrar como automatizar tendências virais com IA, aumentar a produçêo de conteúdo e crescer canais nas redes sociais de forma escalável e criativa.",
     "has_media": false,
@@ -106,7 +106,7 @@
   },
   {
     "id": 10333,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-22T21:36:56+00:00",
     "text": "=========",
     "has_media": false,
@@ -114,7 +114,7 @@
   },
   {
     "id": 10332,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-22T21:36:01+00:00",
     "text": "Este Sistema de IA Publica Vídeos Virais de ASMR a Cada Hora \n\nComo construir um sistema de conteúdo totalmente automatizado com IA, usando o n8n e o Veo 3 do Google, para gerar e publicar vídeos de ASMR com frutas sendo cortadas em vidro no YouTube, Instagram e TikTok — tudo de forma totalmente automática. Sem necessidade de programaçêo.\n\nDesde a geraçêo da ideia até a criaçêo e publicaçêo do vídeo, eu explico exatamente como o fluxo funciona, como configurei os prompts e como você pode replicar o sistema por conta própria. Todas as ferramentas, prompts e recursos sêo gratuitos — basta assistir ao vídeo para ter acesso a tudo o que precisa.",
     "has_media": false,
@@ -122,7 +122,7 @@
   },
   {
     "id": 10331,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-22T21:34:57+00:00",
     "text": "",
     "has_media": true,
@@ -131,7 +131,7 @@
   },
   {
     "id": 10330,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-22T21:34:44+00:00",
     "text": "",
     "has_media": true,
@@ -140,7 +140,7 @@
   },
   {
     "id": 10329,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-22T21:34:37+00:00",
     "text": "",
     "has_media": true,
@@ -149,7 +149,7 @@
   },
   {
     "id": 10328,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-22T21:32:29+00:00",
     "text": "ap37 - Vídeos Virais de ASMR",
     "has_media": false,
@@ -157,7 +157,7 @@
   },
   {
     "id": 10327,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-22T21:32:27+00:00",
     "text": "..",
     "has_media": false,
@@ -165,7 +165,7 @@
   },
   {
     "id": 10326,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-22T21:32:27+00:00",
     "text": ".",
     "has_media": false,
@@ -173,7 +173,7 @@
   },
   {
     "id": 10325,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-22T21:32:27+00:00",
     "text": ".",
     "has_media": false,
@@ -181,7 +181,7 @@
   },
   {
     "id": 10324,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-22T21:32:27+00:00",
     "text": ".",
     "has_media": false,
@@ -189,7 +189,7 @@
   },
   {
     "id": 10323,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-22T21:32:27+00:00",
     "text": ".",
     "has_media": false,
@@ -197,7 +197,7 @@
   },
   {
     "id": 10322,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-22T21:32:26+00:00",
     "text": "https://chatgpt.com/c/685875bf-50a8-8009-92ba-932c70a19de4",
     "has_media": true,
@@ -205,7 +205,7 @@
   },
   {
     "id": 10321,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-22T21:32:26+00:00",
     "text": "1",
     "has_media": false,
@@ -213,7 +213,7 @@
   },
   {
     "id": 10320,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-22T21:32:16+00:00",
     "text": "",
     "has_media": false,

@@ -10,7 +10,7 @@ Midias baixadas: 2
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:32:12+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Resumen noticias IA.json
@@ -18,7 +18,7 @@ Midia: MessageMediaDocument -> Resumen noticias IA.json
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:32:05+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12699_002.jpg
@@ -26,7 +26,7 @@ Midia: MessageMediaPhoto -> photo_12699_002.jpg
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:30:10+00:00
 Texto:
 e32 - Resume de Youtube
@@ -34,7 +34,7 @@ e32 - Resume de Youtube
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:30:00+00:00
 Texto:
 .
@@ -42,7 +42,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:29:58+00:00
 Texto:
 ..
@@ -50,7 +50,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:29:58+00:00
 Texto:
 .
@@ -58,7 +58,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:29:57+00:00
 Texto:
 .
@@ -66,7 +66,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:29:56+00:00
 Texto:
 .
@@ -74,7 +74,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:29:56+00:00
 Texto:
 .
@@ -82,7 +82,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:29:54+00:00
 Texto:
 1
@@ -90,7 +90,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:29:49+00:00
 Texto: [Sem texto]
 

@@ -10,7 +10,7 @@ Midias baixadas: 9
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T23:27:50+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_4508_001.jpg
@@ -18,7 +18,7 @@ Midia: MessageMediaPhoto -> photo_4508_001.jpg
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T04:39:56+00:00
 Texto:
 **Resumo Geral**
@@ -94,7 +94,7 @@ Esse fluxo é **uma alternativa poderosa ao Perplexity ou ao ChatGPT gratuito**,
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T04:36:49+00:00
 Texto:
 [https://www.youtube.com/watch?v=TeFCb5-4e5U](https://www.youtube.com/watch?v=TeFCb5-4e5U)
@@ -103,7 +103,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T04:31:19+00:00
 Texto:
 Pesquisa Avançada que Supera Perplexity e OpenAI
@@ -127,7 +127,7 @@ Tudo o que você precisa para configurar esse fluxo de trabalho está no templat
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T04:30:33+00:00
 Texto:
 https://openrouter.ai/settings/keys
@@ -140,7 +140,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T04:29:30+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_4383_006.jpg
@@ -148,7 +148,7 @@ Midia: MessageMediaPhoto -> photo_4383_006.jpg
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T04:29:22+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Deep Research Prompts.pdf
@@ -156,7 +156,7 @@ Midia: MessageMediaDocument -> Deep Research Prompts.pdf
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T04:29:22+00:00
 Texto:
 ap11
@@ -165,7 +165,7 @@ Midia: MessageMediaDocument -> Deep Research Template (file -_ make a copy).xlsx
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T04:28:57+00:00
 Texto:
 ap11
@@ -174,7 +174,7 @@ Midia: MessageMediaDocument -> Deep_Research.json
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T04:28:43+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_4379_010.jpg
@@ -182,7 +182,7 @@ Midia: MessageMediaPhoto -> photo_4379_010.jpg
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T04:27:02+00:00
 Texto:
 ap11 - Pesquisa Avançada Top
@@ -190,7 +190,7 @@ ap11 - Pesquisa Avançada Top
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T04:26:59+00:00
 Texto:
 .
@@ -198,7 +198,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T04:26:59+00:00
 Texto:
 .
@@ -206,7 +206,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T04:26:58+00:00
 Texto:
 .
@@ -214,7 +214,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T04:26:57+00:00
 Texto:
 https://chatgpt.com/c/67ea15d4-abf8-8009-b24f-35c50d718ef5
@@ -223,7 +223,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T04:26:57+00:00
 Texto:
 1
@@ -231,7 +231,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T04:26:50+00:00
 Texto: [Sem texto]
 

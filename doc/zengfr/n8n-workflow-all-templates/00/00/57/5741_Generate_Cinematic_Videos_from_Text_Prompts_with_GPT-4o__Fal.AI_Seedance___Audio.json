@@ -2,7 +2,7 @@
   "id": "FqIyXIEKFojlkN9k",
   "meta": {
     "site": "https://github.com/zengfr/n8n-workflow-all-templates",
-    "name": "Generate Cinematic Videos from Text Prompts with GPT-4o, Fal.AI Seedance & Audio",
+    "name": "Generate CARCKHÉtic Videos from Text Prompts with GPT-4o, Fal.AI Seedance & Audio",
     "wechat": "youandme10086",
     "id": 5741,
     "update_time": "2025-11-10"
@@ -766,7 +766,7 @@
         -220
       ],
       "parameters": {
-        "text": "=Instructions:\n\nCreate a captivating, vivid, and detailed short video story based on the idea provided below. The story should feel immersive, emotional, and cinematic — suitable for visual storytelling.\nPlease ensure the following:\n\nInclude a rich, visually descriptive setting (lighting, weather, architecture, colors).\n\nDescribe the main characters clearly: their appearance, mood, clothing, and motivations.\n\nBuild a sense of mood, tension, or emotional arc.\n\nKeep the tone aligned with the theme of the original idea.\n\nFormat your output as long-form narrative text.\n\nIdea: {{ $json.story }}",
+        "text": "=Instructions:\n\nCreate a captivating, vivid, and detailed short video story based on the idea provided below. The story should feel immersive, emotional, and cARCKHÉtic — suitable for visual storytelling.\nPlease ensure the following:\n\nInclude a rich, visually descriptive setting (lighting, weather, architecture, colors).\n\nDescribe the main characters clearly: their appearance, mood, clothing, and motivations.\n\nBuild a sense of mood, tension, or emotional arc.\n\nKeep the tone aligned with the theme of the original idea.\n\nFormat your output as long-form narrative text.\n\nIdea: {{ $json.story }}",
         "options": {},
         "promptType": "define",
         "hasOutputParser": true

@@ -10,7 +10,7 @@ Midias baixadas: 9
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T20:35:21+00:00
 Texto:
 **15. RAG Interativo: Gestêo de informações em segundos**
@@ -88,7 +88,7 @@ O RAG interativo permite **gerenciar informações de forma fluida usando ferram
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T20:34:43+00:00
 Texto:
 RAG Interativo 🔥  
@@ -110,7 +110,7 @@ Esta automaçêo se conecta diretamente ao RAG Semântico que vimos na aula pass
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T20:33:24+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 1__Archivos_RAG_Semantico__Supabase___n8n_.json
@@ -118,7 +118,7 @@ Midia: MessageMediaDocument -> 1__Archivos_RAG_Semantico__Supabase___n8n_.json
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T20:33:24+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Rag_Semantico.json
@@ -126,7 +126,7 @@ Midia: MessageMediaDocument -> Rag_Semantico.json
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T20:33:24+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> MCP_RAG_Comunidad.json
@@ -134,7 +134,7 @@ Midia: MessageMediaDocument -> MCP_RAG_Comunidad.json
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T20:33:24+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Eliminar_del_RAG.json
@@ -142,7 +142,7 @@ Midia: MessageMediaDocument -> Eliminar_del_RAG.json
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T20:33:14+00:00
 Texto:
 Elimina
@@ -151,7 +151,7 @@ Midia: MessageMediaPhoto -> photo_6942_007.jpg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T20:32:25+00:00
 Texto:
 Semantico
@@ -160,7 +160,7 @@ Midia: MessageMediaPhoto -> photo_6941_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T20:31:45+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6940_009.jpg
@@ -168,7 +168,7 @@ Midia: MessageMediaPhoto -> photo_6940_009.jpg
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T20:29:59+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6939_010.jpg
@@ -176,7 +176,7 @@ Midia: MessageMediaPhoto -> photo_6939_010.jpg
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T20:23:01+00:00
 Texto:
 e15 - RAG Interativo
@@ -184,7 +184,7 @@ e15 - RAG Interativo
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T20:22:59+00:00
 Texto:
 .
@@ -192,7 +192,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T20:22:58+00:00
 Texto:
 .
@@ -200,7 +200,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T20:22:58+00:00
 Texto:
 ..
@@ -208,7 +208,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T20:22:58+00:00
 Texto:
 .
@@ -216,7 +216,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T20:22:58+00:00
 Texto:
 https://chatgpt.com/c/681132e6-ec9c-8009-b30d-acb11c436a3c
@@ -225,7 +225,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T20:22:57+00:00
 Texto:
 1
@@ -233,7 +233,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T20:22:50+00:00
 Texto: [Sem texto]
 

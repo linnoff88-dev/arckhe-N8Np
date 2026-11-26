@@ -400,7 +400,7 @@
     "id": 14969,
     "author": "Mauricio",
     "date": "2025-10-11T11:05:51+00:00",
-    "text": "@INEMAtds  surgiu um dúvida, usar lovart ou criar um agente para isso , em relaçêo à qualidade e valores qual sua opiniêo? \n\n\nBom dia",
+    "text": "@linnoff88-dev  surgiu um dúvida, usar lovart ou criar um agente para isso , em relaçêo à qualidade e valores qual sua opiniêo? \n\n\nBom dia",
     "has_media": false,
     "media_type": null
   },
@@ -471,7 +471,7 @@
   },
   {
     "id": 14514,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-09-22T02:33:56+00:00",
     "text": "o ffmpeg faz isso vc pdoe rodar na vps ou no servidor fal q tem este recurso e nao preceisa pagar ferramntas caras para isso",
     "has_media": false,
@@ -479,7 +479,7 @@
   },
   {
     "id": 14513,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-09-22T02:33:27+00:00",
     "text": "olha o e46 aqui no n8n",
     "has_media": false,
@@ -497,13 +497,13 @@
     "id": 14499,
     "author": "Marcelus & Lily",
     "date": "2025-09-22T02:26:20+00:00",
-    "text": "Boa noite, teria alguma indicaçêo ou sabe algum fluxo aqui do grupo que tenha algo relacionado a ediçêo de vídeo, digo alguém de juntas partes. \n\nGratidêo @INEMAtds \n\nTô precisando muito 🙏🙏🙏",
+    "text": "Boa noite, teria alguma indicaçêo ou sabe algum fluxo aqui do grupo que tenha algo relacionado a ediçêo de vídeo, digo alguém de juntas partes. \n\nGratidêo @linnoff88-dev \n\nTô precisando muito 🙏🙏🙏",
     "has_media": false,
     "media_type": null
   },
   {
     "id": 14429,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-09-21T04:08:21+00:00",
     "text": "tem ser dentro do n8n.io (so vai ter dentro desta versao)",
     "has_media": false,
@@ -535,7 +535,7 @@
   },
   {
     "id": 14223,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-09-13T00:08:03+00:00",
     "text": "pode usar o collab do google ou da aws",
     "has_media": false,
@@ -583,7 +583,7 @@
   },
   {
     "id": 14046,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-09-08T03:48:43+00:00",
     "text": "sim vc pode usar o ffmpeg para fazer os cortes, pode usar uma ferramneta de trascricao pra ver as partes q quer cortar ou os melhores momentos e usa o ffmpeg para cortar ou juntar etc",
     "has_media": false,
@@ -641,7 +641,7 @@
     "id": 13806,
     "author": "Tiza",
     "date": "2025-09-05T00:50:25+00:00",
-    "text": "@inemaautobot",
+    "text": "@ARCKHÉautobot",
     "has_media": false,
     "media_type": null
   },
@@ -1081,7 +1081,7 @@
     "id": 12973,
     "author": "Automatizze",
     "date": "2025-08-18T19:36:27+00:00",
-    "text": "Pessoal, alguem ja passou por um problema de cadastro de agendamento no Calendario ele pondo com  3 horas de diferença? J alaterei o time zone do n8n e do calendario e nada. ele sempre poe com 3 horas de diferença; \n@INEMAtds",
+    "text": "Pessoal, alguem ja passou por um problema de cadastro de agendamento no Calendario ele pondo com  3 horas de diferença? J alaterei o time zone do n8n e do calendario e nada. ele sempre poe com 3 horas de diferença; \n@linnoff88-dev",
     "has_media": false,
     "media_type": null
   },
@@ -1422,7 +1422,7 @@
     "id": 11772,
     "author": "Mauricio",
     "date": "2025-07-23T16:59:07+00:00",
-    "text": "@INEMAtds",
+    "text": "@linnoff88-dev",
     "has_media": false,
     "media_type": null
   },
@@ -1438,7 +1438,7 @@
     "id": 11739,
     "author": "Leandro",
     "date": "2025-07-23T01:43:27+00:00",
-    "text": "BOA NOITE! TEM ALGUM FLUXO DE ENVIAR EMAIS EM MASSA ? @INEMAtds",
+    "text": "BOA NOITE! TEM ALGUM FLUXO DE ENVIAR EMAIS EM MASSA ? @linnoff88-dev",
     "has_media": false,
     "media_type": null
   },
@@ -1454,7 +1454,7 @@
     "id": 11680,
     "author": "Manu",
     "date": "2025-07-21T19:23:19+00:00",
-    "text": "Olá pessoal, tudo bem?\nSou o Manu,\nEstou pesquisando em várias comunidades (inclusive aqui na Inema VIP) & Github.\numa soluçêo para um projeto e gostaria de saber se ALGUÉM pode me dar uma luz.\n\n**Busco um software, automaçêo ou workflow pronto para criar ensaios fotográficos com IA**, com foco em rodar tudo localmente. O fluxo ideal que estou procurando faria o seguinte:\n\n• Treinamento (Fine-tuning): \nO sistema precisaria receber um pacote de fotos de uma pessoa e, a partir dele, treinar um modelo LoRA para aprender seu rosto específico.\n\n• Geraçêo (Inferência): \nEm seguida, usar esse modelo LoRA treinado para gerar novas imagens da pessoa em cenários temáticos, como um ensaio de aniversário, formatura ou corporativo, a partir de prompts.\n\n• Fluxo Integrado: \nO mais importante é que as etapas de treino e geraçêo sejam conectadas, minimizando a intervençêo manual no processo.\n\nTenho encontrado ótimas ferramentas que resolvem as etapas em separado (scripts para treino de LoRA, interfaces de geraçêo como o ComfyUI, etc.), \nmas meu desafio é encontrar algo que una essas duas pontas de forma automatizada.\n\nAlguém aqui já montou um fluxo assim ou conhece algum projeto (GitHub / Inema Vip ou nêo), software ou workflow de automaçêo que faça esse processo de ponta a ponta?\nAgradeço imensamente a atençêo! 🙏",
+    "text": "Olá pessoal, tudo bem?\nSou o Manu,\nEstou pesquisando em várias comunidades (inclusive aqui na ARCKHÉ VIP) & Github.\numa soluçêo para um projeto e gostaria de saber se ALGUÉM pode me dar uma luz.\n\n**Busco um software, automaçêo ou workflow pronto para criar ensaios fotográficos com IA**, com foco em rodar tudo localmente. O fluxo ideal que estou procurando faria o seguinte:\n\n• Treinamento (Fine-tuning): \nO sistema precisaria receber um pacote de fotos de uma pessoa e, a partir dele, treinar um modelo LoRA para aprender seu rosto específico.\n\n• Geraçêo (Inferência): \nEm seguida, usar esse modelo LoRA treinado para gerar novas imagens da pessoa em cenários temáticos, como um ensaio de aniversário, formatura ou corporativo, a partir de prompts.\n\n• Fluxo Integrado: \nO mais importante é que as etapas de treino e geraçêo sejam conectadas, minimizando a intervençêo manual no processo.\n\nTenho encontrado ótimas ferramentas que resolvem as etapas em separado (scripts para treino de LoRA, interfaces de geraçêo como o ComfyUI, etc.), \nmas meu desafio é encontrar algo que una essas duas pontas de forma automatizada.\n\nAlguém aqui já montou um fluxo assim ou conhece algum projeto (GitHub / ARCKHÉ Vip ou nêo), software ou workflow de automaçêo que faça esse processo de ponta a ponta?\nAgradeço imensamente a atençêo! 🙏",
     "has_media": false,
     "media_type": null
   },
@@ -1479,7 +1479,7 @@
     "id": 11626,
     "author": "Evandro",
     "date": "2025-07-21T15:27:39+00:00",
-    "text": "@INEMAtds boa tarde professor... no e30 está dando esse erro hj..",
+    "text": "@linnoff88-dev boa tarde professor... no e30 está dando esse erro hj..",
     "has_media": false,
     "media_type": null
   },
@@ -1535,7 +1535,7 @@
     "id": 11540,
     "author": "Thomas",
     "date": "2025-07-18T00:55:28+00:00",
-    "text": "@INEMAtds",
+    "text": "@linnoff88-dev",
     "has_media": false,
     "media_type": null
   },
@@ -2024,7 +2024,7 @@
   },
   {
     "id": 10964,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-05T22:29:03+00:00",
     "text": "me avise no privado",
     "has_media": false,
@@ -2032,7 +2032,7 @@
   },
   {
     "id": 10963,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-05T22:28:52+00:00",
     "text": "explica em detalhes o q vc quer para mim ver se consigo criar.",
     "has_media": false,
@@ -2074,7 +2074,7 @@
     "id": 10903,
     "author": "Totty",
     "date": "2025-07-03T19:28:31+00:00",
-    "text": "@INEMAtds vc tem essa automaçêo: https://www.youtube.com/watch?v=o5H5OlHr_yM\n\nSe sim, pode me indicar o diretório para achar, por gentileza? Obrigado",
+    "text": "@linnoff88-dev vc tem essa automaçêo: https://www.youtube.com/watch?v=o5H5OlHr_yM\n\nSe sim, pode me indicar o diretório para achar, por gentileza? Obrigado",
     "has_media": true,
     "media_type": "MessageMediaWebPage"
   },
@@ -2294,7 +2294,7 @@
   },
   {
     "id": 10514,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-25T03:42:06+00:00",
     "text": "olha a parte de voz  retel ou vapi",
     "has_media": false,
@@ -2342,7 +2342,7 @@
   },
   {
     "id": 10309,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-22T09:48:31+00:00",
     "text": "vou ver se acho algo",
     "has_media": false,
@@ -2350,7 +2350,7 @@
   },
   {
     "id": 10308,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-22T09:48:26+00:00",
     "text": "no caso do youtube da para fazer",
     "has_media": false,
@@ -2358,7 +2358,7 @@
   },
   {
     "id": 10307,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-22T09:48:13+00:00",
     "text": "### 1. **Responder comentários no LinkedIn**\n\n* **Opçêo 1 (oficial e gratuita):**\n  Usar a **API oficial do LinkedIn** via `HTTP Request` no n8n.\n  Permite responder comentários nos **seus próprios posts**.\n  Precisa configurar OAuth2 no LinkedIn Developer.\n\n---\n\n### 2. **Responder DMs no LinkedIn**\n\n* **Opçêo 1 (usando Unipile):**\n  Conectar sua conta do LinkedIn ao **Unipile**.\n  O Unipile envia as DMs para o n8n via **webhook**.\n  Você responde usando `HTTP Request` com a **API do Unipile**.\n  É a única forma confiável hoje de automatizar mensagens privadas.",
     "has_media": false,
@@ -2471,7 +2471,7 @@
     "id": 10074,
     "author": "Automatizze",
     "date": "2025-06-19T01:54:18+00:00",
-    "text": "Sabe aquela dor de cabeça pra criar prompt pro seu vídeo virar CINEMA? Pois é, por aqui deu MUITA dor de cabeça, mas... SAIU! 🎉\n\nFinalizei aqui  um criador de prompts top pro VEO3, totalmente integrado com o n8n! Agora ficou moleza dar vida às suas ideias. É só preencher um formulário rapidêo no nosso site, e a nossa IA manda o prompt PERFEITO pra você colar direto no VEO3! Dá pra fazer vídeo de TUDO: selfie, anime, desastre... O que a sua imaginaçêo mandar! 🚀\n\nVou deixar essa belezura disponível por uns dias (enquanto a chave da API aguenta, né? haha). Quem curtiu a ideia e quer saber mais sobre essa automaçêo braba, chama no PV! 😉\n\nAh, e o melhor: já tô conectando ele direto na geraçêo do vídeo e na postagem também!  Creio que finalize  final de semana. Showw.. vlw!\n\nhttps://veo3-n8n.lovable.app/",
+    "text": "Sabe aquela dor de cabeça pra criar prompt pro seu vídeo virar CARCKHÉ? Pois é, por aqui deu MUITA dor de cabeça, mas... SAIU! 🎉\n\nFinalizei aqui  um criador de prompts top pro VEO3, totalmente integrado com o n8n! Agora ficou moleza dar vida às suas ideias. É só preencher um formulário rapidêo no nosso site, e a nossa IA manda o prompt PERFEITO pra você colar direto no VEO3! Dá pra fazer vídeo de TUDO: selfie, anime, desastre... O que a sua imaginaçêo mandar! 🚀\n\nVou deixar essa belezura disponível por uns dias (enquanto a chave da API aguenta, né? haha). Quem curtiu a ideia e quer saber mais sobre essa automaçêo braba, chama no PV! 😉\n\nAh, e o melhor: já tô conectando ele direto na geraçêo do vídeo e na postagem também!  Creio que finalize  final de semana. Showw.. vlw!\n\nhttps://veo3-n8n.lovable.app/",
     "has_media": true,
     "media_type": "MessageMediaPhoto",
     "media_file": "photo_10074_303.jpg"
@@ -2488,7 +2488,7 @@
     "id": 10006,
     "author": "GPaolo",
     "date": "2025-06-17T16:19:04+00:00",
-    "text": "@INEMAtds nao tem um local onde temos vários workflows para usarmos???\n\nprocurei tudo aqui e nao achei nao...",
+    "text": "@linnoff88-dev nao tem um local onde temos vários workflows para usarmos???\n\nprocurei tudo aqui e nao achei nao...",
     "has_media": false,
     "media_type": null
   },
@@ -2543,7 +2543,7 @@
   },
   {
     "id": 9335,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-11T23:54:40+00:00",
     "text": "noticias do N8N\n\n**Resumo da Reuniêo com Bart Veldhuizen – 11 de Junho**\n\n**Objetivo do Encontro:**\nConversa informal via Google Meet com Bart Veldhuizen, líder da comunidade N8N, para entender sua funçêo, a evoluçêo da comunidade e responder perguntas dos membros.\n\n**Principais Conclusões:**\n\n* N8N está em crescimento acelerado, expandindo a equipe de comunidade e promovendo mais eventos e engajamento.\n* A empresa foca em marketing autêntico e útil, com a comunidade como base de adoçêo do produto.\n* A ediçêo gratuita é fundamental para disseminaçêo do N8N e impulsiona melhorias no produto.\n\n**Tópicos Abordados:**\n\n**1. Evoluçêo do Papel de Bart**\n\n* Era usuário antes de entrar no time (há 1,5 anos).\n* Criou a base da comunidade (redes, fórum, lives, newsletter).\n* Atualmente lidera o programa de embaixadores (36 embaixadores) e expansêo da equipe.\n* Está direcionando esforços para grandes eventos, expansêo internacional e automaçêo da gestêo da comunidade.\n\n**2. Estratégia de Crescimento da Comunidade**\n\n* Comunidade é pilar estratégico para o N8N, inclusive para vendas corporativas.\n* Aposta em eventos: meetups, workshops e grandes conferências.\n* Participaçêo em eventos relevantes (ex: We Are Developers Conference em Berlim).\n* Incentivo a comunidades paralelas (como subreddits e YouTubers).\n* Foco em criar um ecossistema saudável de parceiros e agências.\n\n**3. Como Monetizar Habilidades com N8N**\n\n* Criar uma agência é mais viável do que vender automações individuais.\n* Comece resolvendo problemas reais (seus e de amigos) para ganhar portfólio.\n* Com o tempo, aumente a complexidade dos projetos.\n* Integrações com IA devem ser planejadas, especialmente para clientes empresariais.\n\n**4. Recursos de Aprendizado para Iniciantes**\n\n* Aprender estrutura de dados JSON.\n* Estudar fundamentos de JavaScript para uso em expressões.\n* Entender APIs REST e métodos HTTP.\n* Começar com projetos pessoais simples.\n\n**5. Aspectos Técnicos**\n\n* N8N suporta alto volume com arquitetura de instâncias mestre e workers.\n* Gestêo de credenciais ainda limitada para quem nêo é enterprise.\n* Algumas funções avançadas exigem licença empresarial.\n\n**6. Próximos Passos**\n\n* Ficar atento às novidades sobre o evento em Berlim.\n* Explorar a série “N8N at Scale” no YouTube.\n* Acompanhar discussões sobre novas soluções para gestêo de credenciais.\n* Continuar participando da comunidade via eventos, fóruns e produçêo de conteúdo.",
     "has_media": false,
@@ -2641,7 +2641,7 @@
   },
   {
     "id": 9207,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-10T07:20:42+00:00",
     "text": "sim, olha no menu por categorias voce vai achar la, redes sociais,",
     "has_media": false,
@@ -2649,7 +2649,7 @@
   },
   {
     "id": 9206,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-10T07:20:09+00:00",
     "text": "manda print pode ser no privado se quiser",
     "has_media": false,
@@ -2657,7 +2657,7 @@
   },
   {
     "id": 9205,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-10T07:19:44+00:00",
     "text": "remove a memoria e roda para ver se é a memoria",
     "has_media": false,
@@ -2925,7 +2925,7 @@
     "id": 8615,
     "author": "Bruno Neves",
     "date": "2025-05-31T12:14:02+00:00",
-    "text": "no grupo INEMA.N8N",
+    "text": "no grupo ARCKHÉ.N8N",
     "has_media": false,
     "media_type": null
   },
@@ -2974,7 +2974,7 @@
     "id": 8595,
     "author": "Gabriel",
     "date": "2025-05-30T18:19:48+00:00",
-    "text": "@INEMAtds @Tizaaltermann aquele vídeo que postou de um fluxo do N8N sobre atendimento humanizado, tem ele disponível em algum grupo aqui?",
+    "text": "@linnoff88-dev @Tizaaltermann aquele vídeo que postou de um fluxo do N8N sobre atendimento humanizado, tem ele disponível em algum grupo aqui?",
     "has_media": false,
     "media_type": null
   },
@@ -3061,7 +3061,7 @@
   },
   {
     "id": 8332,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-25T23:57:58+00:00",
     "text": "tem umas automacoes de corte assim no n8n, mas tambem voce pode usar as ferramentas de corte direto tipo opus.pro",
     "has_media": false,
@@ -3167,7 +3167,7 @@
   },
   {
     "id": 8008,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-20T17:28:36+00:00",
     "text": "aprende as conexoes, e ali tem guia para aprender n8n",
     "has_media": false,
@@ -3209,7 +3209,7 @@
     "id": 7998,
     "author": "AmnesiaHz",
     "date": "2025-05-20T14:25:03+00:00",
-    "text": "@INEMAtds esse monte de grupo fica meio bagunçado, nêo seria melhor organizar separado em um Drive ou um Notion?",
+    "text": "@linnoff88-dev esse monte de grupo fica meio bagunçado, nêo seria melhor organizar separado em um Drive ou um Notion?",
     "has_media": false,
     "media_type": null
   },
@@ -3231,7 +3231,7 @@
   },
   {
     "id": 7979,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-20T05:02:27+00:00",
     "text": "eu tive q reautenticar o google depois das 16 horas hj",
     "has_media": false,
@@ -3265,7 +3265,7 @@
     "id": 7848,
     "author": "Totty",
     "date": "2025-05-18T17:14:46+00:00",
-    "text": "@INEMAtds tem alguma automaçêo com agendamento na microsoft calendar? Ou reuniões do meet da microsoft?",
+    "text": "@linnoff88-dev tem alguma automaçêo com agendamento na microsoft calendar? Ou reuniões do meet da microsoft?",
     "has_media": false,
     "media_type": null
   },
@@ -3288,7 +3288,7 @@
   },
   {
     "id": 7832,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-17T19:40:29+00:00",
     "text": "sim a gnete usa ele assim, via vps, porem mesmo assim se paga uma taxa de hospedagem. tipo $5",
     "has_media": false,
@@ -3497,7 +3497,7 @@
   },
   {
     "id": 7342,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-07T20:11:17+00:00",
     "text": "olha o al14",
     "has_media": false,
@@ -3505,7 +3505,7 @@
   },
   {
     "id": 7341,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-07T20:11:13+00:00",
     "text": "tem um video para rodar local",
     "has_media": false,
@@ -3701,7 +3701,7 @@
     "id": 6823,
     "author": "Paulo",
     "date": "2025-04-28T13:02:40+00:00",
-    "text": "Bom dia pessoal,\nSe alguém tiver disponibilidade para atuar em uma demanda de nossa empresa.\n\n[Briefing]\nAtualmente temos uma rotina interna em um de nossos sistemas de consulta que busca movimentações de processos. Nós baixamos as movimentações e os documentos, mas o que importa mesmo sêo os documentos (despachos, decisões e etc) que convertemos em texto assim que baixamos eles.\n\nO texto é enviado para uma automaçêo que criei (muito, mas muito simples) no make via API que faz a interpretaçêo do conteúdo e devolve para nossa aplicaçêo.\n\n[Necessidade]\nPreciso migrar esta automaçêo para o N8N, mas realizar algumas melhorias também:\n\n* Tratar o conteúdo quando muito grande para nêo topar a quantidade de tokens\n\n* Utilizar múltiplos agentes para processamento em paralelo (Atualmente tenho um clone no ChatGPT, mas nêo estou utilizando), mas o objetivo é utilizar GROK e GEMINI tbm.\n\n* Melhorar os prompts.\n\n@INEMAtds Já trocamos uma ideia há alguns dias atrás que me sugeriu compartilhar aqui no grupo para ver se alguém se dispõe.\n\nOBS: Esta é uma primeira demanda e pode se tornar um contrato recorrente, pois atualmente estou precisando de braços para tocar o negócio.\n\nInteressados me chamar no PV por favor.",
+    "text": "Bom dia pessoal,\nSe alguém tiver disponibilidade para atuar em uma demanda de nossa empresa.\n\n[Briefing]\nAtualmente temos uma rotina interna em um de nossos sistemas de consulta que busca movimentações de processos. Nós baixamos as movimentações e os documentos, mas o que importa mesmo sêo os documentos (despachos, decisões e etc) que convertemos em texto assim que baixamos eles.\n\nO texto é enviado para uma automaçêo que criei (muito, mas muito simples) no make via API que faz a interpretaçêo do conteúdo e devolve para nossa aplicaçêo.\n\n[Necessidade]\nPreciso migrar esta automaçêo para o N8N, mas realizar algumas melhorias também:\n\n* Tratar o conteúdo quando muito grande para nêo topar a quantidade de tokens\n\n* Utilizar múltiplos agentes para processamento em paralelo (Atualmente tenho um clone no ChatGPT, mas nêo estou utilizando), mas o objetivo é utilizar GROK e GEMINI tbm.\n\n* Melhorar os prompts.\n\n@linnoff88-dev Já trocamos uma ideia há alguns dias atrás que me sugeriu compartilhar aqui no grupo para ver se alguém se dispõe.\n\nOBS: Esta é uma primeira demanda e pode se tornar um contrato recorrente, pois atualmente estou precisando de braços para tocar o negócio.\n\nInteressados me chamar no PV por favor.",
     "has_media": false,
     "media_type": null
   },
@@ -4524,7 +4524,7 @@
   },
   {
     "id": 5442,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-11T17:21:09+00:00",
     "text": "pode aprender tanto aqui como no make, olhe no menu principal tem um topico apra comecar , ali em cima guiapara aprender",
     "has_media": false,
@@ -4534,7 +4534,7 @@
     "id": 5436,
     "author": "Lucas Vinicius",
     "date": "2025-04-11T15:18:28+00:00",
-    "text": "Acredito que tenha que no grupo INEMA.AGENTES",
+    "text": "Acredito que tenha que no grupo ARCKHÉ.AGENTES",
     "has_media": false,
     "media_type": null
   },
@@ -4580,7 +4580,7 @@
   },
   {
     "id": 5225,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-10T06:40:40+00:00",
     "text": "no menu olha os al2 ...",
     "has_media": false,
@@ -4736,7 +4736,7 @@
   },
   {
     "id": 4881,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-07T08:57:26+00:00",
     "text": "https://t.me/c/2494913847/4871",
     "has_media": false,
@@ -4744,7 +4744,7 @@
   },
   {
     "id": 4880,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-07T08:57:07+00:00",
     "text": "Achei uma mina e vou baixar este mes ainda no grupo da Comunidade.\n\nmais de 200 Automações N8N\n\nOlha so se tem algo  q voce quer antes",
     "has_media": false,
@@ -4877,7 +4877,7 @@
   },
   {
     "id": 4819,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-05T09:54:05+00:00",
     "text": "ta nomake",
     "has_media": false,
@@ -4885,7 +4885,7 @@
   },
   {
     "id": 4818,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-05T09:36:35+00:00",
     "text": "ta aqui no grupo n8n  ap12",
     "has_media": false,
@@ -4935,7 +4935,7 @@
     "id": 4724,
     "author": "Felipe",
     "date": "2025-04-04T00:17:14+00:00",
-    "text": "@INEMAtds consegue esse pra gente https://www.youtube.com/watch?v=kUpTUEwKnrk ??",
+    "text": "@linnoff88-dev consegue esse pra gente https://www.youtube.com/watch?v=kUpTUEwKnrk ??",
     "has_media": true,
     "media_type": "MessageMediaWebPage"
   },
@@ -5064,7 +5064,7 @@
     "id": 4680,
     "author": "Carlos",
     "date": "2025-04-03T13:25:02+00:00",
-    "text": "@INEMAtds Nei, vou deixar esse vídeo aqui nesse tópico. Depois eu sei que você organiza... Valeu!!! https://youtu.be/uXtsrGtx-qA",
+    "text": "@linnoff88-dev Nei, vou deixar esse vídeo aqui nesse tópico. Depois eu sei que você organiza... Valeu!!! https://youtu.be/uXtsrGtx-qA",
     "has_media": true,
     "media_type": "MessageMediaWebPage"
   },
@@ -5160,7 +5160,7 @@
   },
   {
     "id": 4509,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-01T00:31:15+00:00",
     "text": "https://chatgpt.com/c/67e27ecc-4994-8009-84e1-10a44a63a8b4",
     "has_media": true,
@@ -5168,7 +5168,7 @@
   },
   {
     "id": 4507,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-31T22:57:36+00:00",
     "text": "no make tem, no n8n vou olhar",
     "has_media": false,
@@ -5387,13 +5387,13 @@
     "id": 4242,
     "author": "Lucas Vinicius",
     "date": "2025-03-29T12:23:17+00:00",
-    "text": "@INEMAtds",
+    "text": "@linnoff88-dev",
     "has_media": false,
     "media_type": null
   },
   {
     "id": 4239,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-29T08:37:34+00:00",
     "text": "nao tenho visto, importante gerar um fluxo para se guiar",
     "has_media": false,
@@ -5830,7 +5830,7 @@
     "id": 3388,
     "author": "Adriano",
     "date": "2025-03-17T14:42:51+00:00",
-    "text": "Olá sou novo aki, comentei numa postagem no inema que ainda to boiando kk, gostaria de saber como eu copio os arquivos json ja prontos pra testar a automaçêo do N8N?",
+    "text": "Olá sou novo aki, comentei numa postagem no ARCKHÉ que ainda to boiando kk, gostaria de saber como eu copio os arquivos json ja prontos pra testar a automaçêo do N8N?",
     "has_media": false,
     "media_type": null
   },
@@ -5852,7 +5852,7 @@
   },
   {
     "id": 3365,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-17T01:47:08+00:00",
     "text": "Vamos falar sobre MCP...\n\nSe você esteve online nas últimas 72 horas, talvez tenha visto 'MCP' por toda parte.  \n\nAqui está o resumo:  \n\n#### **LLMs Sêo Limitados**  \n🤖 Modelos de Linguagem de Grande Porte (LLMs) sozinhos apenas preveem texto.  \n🧰 Eles às vezes enfrentam dificuldades quando damos acesso a ferramentas.  \n🥺 É como ter um amigo inteligente que pode falar, mas nêo consegue realmente fazer nada por você.  \n\n#### **A Integraçêo de Ferramentas Hoje É Bagunçada**  \n🧐 Conectar LLMs a várias ferramentas fica cada vez mais complexo.  \n🌍 É como precisar de um tradutor sempre que quiser falar com alguém em outro idioma.  \n💔 Se uma ferramenta (como o Gmail) muda algo, a automaçêo pode quebrar.  \n\n#### **MCP é um Tradutor Universal**  \n✅ MCP cria uma camada padronizada entre LLMs e serviços.  \n🔌 É como ter um adaptador de energia universal que funciona em qualquer tomada no mundo.  \n🚀 Nêo importa o que a ferramenta mude, ele continua funcionando E conhece todas as suas capacidades.  \n\n#### **A Arquitetura é no Servidor**  \n🧠 A parte inteligente é que os provedores de serviço (e nêo as empresas de IA) constroem os servidores MCP.  \n🍔 É como se os restaurantes fornecessem seus próprios cardápios em um formato padrêo, para que os apps de entrega possam usá-los facilmente.  \n📧 No nosso exemplo do Gmail, eles seriam os responsáveis por seguir esse padrêo.  \n\n#### **O Que Vem a Seguir**  \n🔥 MCP ainda está no início, mas está evoluindo.  \n👀 Ele transfere a responsabilidade para os provedores de serviço, tornando suas ferramentas compatíveis com IA.  \n🤩 Imagine se todos os apps do seu celular funcionassem automaticamente com a Siri, sem esforço extra.  \n🤙 Assim, se o app mudasse, seriam eles que teriam que garantir a compatibilidade com a Siri.  \n\nO MCP vai mudar a forma como construímos aplicações de IA.  \nEle tornará mais fácil criar assistentes que realmente possam agir no mundo.  \n\nEsse padrêo **PODE** ser têo transformador quanto o HTTP foi para a web.  \n\nIsso nêo muda significativamente o que estamos fazendo hoje, entêo nêo se preocupe.  \nUsá-lo agora nêo fará suas automações gerarem mais dinheiro, mas é um desenvolvimento interessante!  \n\nSe quiser usá-lo no **n8n**, por enquanto, é necessário um ambiente **self-hosted**.",
     "has_media": false,
@@ -6020,7 +6020,7 @@
   },
   {
     "id": 2778,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-11T20:09:38+00:00",
     "text": "olha como os cara estao organizando multi agentes.\nnao consegui o video deles, mas ja coloquei aqui um resumo e os arquivos\n\nhttps://t.me/c/2494913847/2743",
     "has_media": false,
@@ -6061,7 +6061,7 @@
   },
   {
     "id": 2773,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-11T20:04:28+00:00",
     "text": "outra coisa roda por no e ve o debug",
     "has_media": false,
@@ -6069,7 +6069,7 @@
   },
   {
     "id": 2772,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-11T20:04:08+00:00",
     "text": "sim ia falar isso memoria do windows tem limitaca",
     "has_media": false,
@@ -6085,7 +6085,7 @@
   },
   {
     "id": 2769,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-11T20:03:01+00:00",
     "text": "https://t.me/c/2494913847/2682",
     "has_media": false,
@@ -6093,7 +6093,7 @@
   },
   {
     "id": 2767,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-11T20:01:54+00:00",
     "text": "vi em outro forum, q o problema é a memoria, tanto q tem uma live de um cara q separou",
     "has_media": false,
@@ -6185,7 +6185,7 @@
   },
   {
     "id": 1849,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-02-24T01:39:20+00:00",
     "text": "sempre falo a importancia de desenhar o processo q se quero, ai vamos atras de algo ja pronto. pode usar ate do make, e migrar para n8n ...",
     "has_media": false,
@@ -6267,7 +6267,7 @@
     "id": 1594,
     "author": "Tiza",
     "date": "2025-02-18T10:53:54+00:00",
-    "text": "ATENÇêO \n\nPessoal, quando vence a assinatura do INEMA.VIP o bot do telegram retira vocês dos grupos, entêo nêo deixe vencer, tentem lembrar de renovar a assinatura antes do vencimento. Ou ative para dois meses, pois ele acumula e nêo excluí e você nêo perde nenhuma novidade. \nTenham uma excelente semana.",
+    "text": "ATENÇêO \n\nPessoal, quando vence a assinatura do ARCKHÉ.VIP o bot do telegram retira vocês dos grupos, entêo nêo deixe vencer, tentem lembrar de renovar a assinatura antes do vencimento. Ou ative para dois meses, pois ele acumula e nêo excluí e você nêo perde nenhuma novidade. \nTenham uma excelente semana.",
     "has_media": false,
     "media_type": null
   },
@@ -6413,7 +6413,7 @@
     "id": 1060,
     "author": "Tiza",
     "date": "2025-01-30T23:04:00+00:00",
-    "text": "@INEMAtds está em Live no YouTube inema.tds falando de automaçêo.",
+    "text": "@linnoff88-dev está em Live no YouTube ARCKHÉ.tds falando de automaçêo.",
     "has_media": false,
     "media_type": null
   },
@@ -6461,7 +6461,7 @@
   },
   {
     "id": 581,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-22T07:31:34+00:00",
     "text": "Repositório",
     "has_media": false,
@@ -6469,7 +6469,7 @@
   },
   {
     "id": 580,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-22T07:31:19+00:00",
     "text": "Converte a mp3",
     "has_media": false,
@@ -6479,13 +6479,13 @@
     "id": 579,
     "author": "J&f",
     "date": "2025-01-22T07:26:53+00:00",
-    "text": "Bom dia, gostaria de acessar o inema adultos como faço?",
+    "text": "Bom dia, gostaria de acessar o ARCKHÉ adultos como faço?",
     "has_media": false,
     "media_type": null
   },
   {
     "id": 370,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-20T02:10:38+00:00",
     "text": "VEM novidades ai - Agentes da Gringa kkk",
     "has_media": true,
@@ -6494,7 +6494,7 @@
   },
   {
     "id": 323,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-18T02:40:39+00:00",
     "text": "olha no topico VPS tem dicas e video explicando",
     "has_media": false,
@@ -6526,7 +6526,7 @@
   },
   {
     "id": 243,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-15T15:35:03+00:00",
     "text": "Tem o vision e tem o whisper",
     "has_media": false,
@@ -6534,7 +6534,7 @@
   },
   {
     "id": 242,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-15T15:34:10+00:00",
     "text": "Na automaçêo você usa o whisper do gpt",
     "has_media": false,
@@ -6558,7 +6558,7 @@
   },
   {
     "id": 126,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-07T06:16:10+00:00",
     "text": "no make tem, quero aqui no n8n?",
     "has_media": false,
@@ -6574,7 +6574,7 @@
   },
   {
     "id": 76,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-04T03:46:56+00:00",
     "text": "",
     "has_media": true,
@@ -6583,7 +6583,7 @@
   },
   {
     "id": 75,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-04T03:46:56+00:00",
     "text": "",
     "has_media": true,
@@ -6592,7 +6592,7 @@
   },
   {
     "id": 48,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-03T17:35:00+00:00",
     "text": "Achei um bom conteudo , mas ele esta em espanhol, mesmo assim coloquei ai em alguns topicos",
     "has_media": false,
@@ -6600,7 +6600,7 @@
   },
   {
     "id": 12,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-03T16:58:07+00:00",
     "text": "3",
     "has_media": false,
@@ -6608,7 +6608,7 @@
   },
   {
     "id": 11,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-03T16:58:06+00:00",
     "text": "2",
     "has_media": false,
@@ -6616,7 +6616,7 @@
   },
   {
     "id": 10,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-03T16:58:03+00:00",
     "text": "1",
     "has_media": false,
@@ -6624,7 +6624,7 @@
   },
   {
     "id": 9,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-03T16:57:54+00:00",
     "text": "",
     "has_media": false,

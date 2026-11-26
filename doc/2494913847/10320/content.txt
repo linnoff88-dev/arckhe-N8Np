@@ -90,12 +90,12 @@ MENSAGEM 6
 Autor: Luana
 Data: 2025-06-23T17:17:26+00:00
 Texto:
-@INEMAtds vc usa proxy no blotato para fazer as postagens no tiktok?
+@linnoff88-dev vc usa proxy no blotato para fazer as postagens no tiktok?
 
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-22T21:40:12+00:00
 Texto:
 dublado
@@ -103,7 +103,7 @@ dublado
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-22T21:40:10+00:00
 Texto:
 https://www.youtube.com/watch?v=RvuPRX-b7Lc
@@ -112,7 +112,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-22T21:39:36+00:00
 Texto:
 Aqui estêo os **principais hacks e otimizações** usados no sistema apresentado no vídeo para automatizar vídeos virais de ASMR com IA, economizar tempo e aumentar as chances de viralizaçêo:
@@ -128,7 +128,7 @@ Aqui estêo os **principais hacks e otimizações** usados no sistema apresentad
    * Exemplo:
 
      * Objeto: *glass kiwi*
-     * Prompt gera: corte hiper-realista, som do vidro, ângulo cinematográfico, iluminaçêo suave.
+     * Prompt gera: corte hiper-realista, som do vidro, ângulo cARCKHÉtográfico, iluminaçêo suave.
 
 2. **Reaproveitamento de ideias com lista rotativa**
 
@@ -202,7 +202,7 @@ Aqui estêo os **principais hacks e otimizações** usados no sistema apresentad
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-22T21:38:43+00:00
 Texto:
 =============
@@ -210,7 +210,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-22T21:38:21+00:00
 Texto:
 Aqui está o **passo a passo completo** para criar o sistema que gera e publica automaticamente vídeos virais de ASMR com frutas de vidro sendo cortadas, usando **n8n**, **Google Veo V3** (via FAL.ai) e **Botato**:
@@ -330,7 +330,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-22T21:37:57+00:00
 Texto:
 ==========
@@ -338,7 +338,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-22T21:37:51+00:00
 Texto:
 **Resumo do vídeo “This AI System Posts Viral ASMR Shorts Hourly**
@@ -400,7 +400,7 @@ Mostrar como automatizar tendências virais com IA, aumentar a produçêo de con
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-22T21:36:56+00:00
 Texto:
 =========
@@ -408,7 +408,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-22T21:36:01+00:00
 Texto:
 Este Sistema de IA Publica Vídeos Virais de ASMR a Cada Hora 
@@ -420,7 +420,7 @@ Desde a geraçêo da ideia até a criaçêo e publicaçêo do vídeo, eu explico
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-22T21:34:57+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Glass Fruit ASMR (file -_ make a copy).xlsx
@@ -428,7 +428,7 @@ Midia: MessageMediaDocument -> Glass Fruit ASMR (file -_ make a copy).xlsx
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-22T21:34:44+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Glass_Fruit_ASMR.json
@@ -436,7 +436,7 @@ Midia: MessageMediaDocument -> Glass_Fruit_ASMR.json
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-22T21:34:37+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10329_018.jpg
@@ -444,7 +444,7 @@ Midia: MessageMediaPhoto -> photo_10329_018.jpg
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-22T21:32:29+00:00
 Texto:
 ap37 - Vídeos Virais de ASMR
@@ -452,7 +452,7 @@ ap37 - Vídeos Virais de ASMR
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-22T21:32:27+00:00
 Texto:
 ..
@@ -460,7 +460,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-22T21:32:27+00:00
 Texto:
 .
@@ -468,7 +468,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-22T21:32:27+00:00
 Texto:
 .
@@ -476,7 +476,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-22T21:32:27+00:00
 Texto:
 .
@@ -484,7 +484,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-22T21:32:27+00:00
 Texto:
 .
@@ -492,7 +492,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-22T21:32:26+00:00
 Texto:
 https://chatgpt.com/c/685875bf-50a8-8009-92ba-932c70a19de4
@@ -501,7 +501,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-22T21:32:26+00:00
 Texto:
 1
@@ -509,7 +509,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-22T21:32:16+00:00
 Texto: [Sem texto]
 

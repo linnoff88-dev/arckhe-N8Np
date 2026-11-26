@@ -10,14 +10,14 @@ Midias baixadas: 6
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T01:45:48+00:00
 Texto: [Sem texto]
 
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T01:45:10+00:00
 Texto:
 https://www.youtube.com/watch?v=UwemeU5uKXM
@@ -57,7 +57,7 @@ porem pelo que entendi ele nao é tao preciso quanto as tolls seria isso?
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T03:00:13+00:00
 Texto: [Sem texto]
 
@@ -72,7 +72,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-21T03:27:07+00:00
 Texto:
 ### **Este Agente de IA Automatiza Tudo (n8n)** 
@@ -145,7 +145,7 @@ Se precisar de mais detalhes ou exemplos específicos, é só pedir!
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-21T03:25:32+00:00
 Texto:
 ===========================
@@ -153,7 +153,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-21T03:25:23+00:00
 Texto:
 produto?" 
@@ -180,7 +180,7 @@ Esse modelo permite criar prompts claros e altamente eficientes para qualquer ag
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-21T03:25:23+00:00
 Texto:
 Aqui está o modelo de **AI Agent Prompting Template** ajustado para português, mantendo a estrutura e as explicações claras: 
@@ -298,7 +298,7 @@ Aqui está o modelo de **AI Agent Prompting Template** ajustado para português,
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-21T03:25:02+00:00
 Texto:
 ========================================
@@ -306,7 +306,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-21T03:24:59+00:00
 Texto:
 Template do Prompt
@@ -314,7 +314,7 @@ Template do Prompt
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-21T03:24:14+00:00
 Texto:
 ===============================
@@ -322,7 +322,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-21T03:24:09+00:00
 Texto:
 Aqui está um resumo do conteúdo e as ferramentas essenciais mencionadas: 
@@ -371,7 +371,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-21T03:22:57+00:00
 Texto:
 **Este Agente de IA Automatiza Tudo (n8n)**   
@@ -401,7 +401,7 @@ Este é especial, aproveite! 🍫
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-21T03:21:33+00:00
 Texto:
 j2
@@ -410,7 +410,7 @@ Midia: MessageMediaDocument -> AI_Agent_Workflow.json
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-21T03:21:33+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> AI Agent Prompting Template 🤖 (2).docx
@@ -418,7 +418,7 @@ Midia: MessageMediaDocument -> AI Agent Prompting Template 🤖 (2).docx
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-21T03:15:41+00:00
 Texto:
 j2
@@ -427,7 +427,7 @@ Midia: MessageMediaPhoto -> photo_411_019.jpg
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-21T03:15:01+00:00
 Texto:
 j2n - AI Agent will Automate Anything (n8n)
@@ -435,7 +435,7 @@ j2n - AI Agent will Automate Anything (n8n)
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-21T03:14:23+00:00
 Texto:
 j68n8 - AI Agent will Automate Anything (n8n)
@@ -443,7 +443,7 @@ j68n8 - AI Agent will Automate Anything (n8n)
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-21T03:14:23+00:00
 Texto:
 9
@@ -451,7 +451,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-21T03:14:22+00:00
 Texto:
 8
@@ -459,7 +459,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-21T03:14:22+00:00
 Texto:
 7
@@ -467,7 +467,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-21T03:14:21+00:00
 Texto:
 4
@@ -475,7 +475,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-21T03:14:21+00:00
 Texto:
 3
@@ -483,7 +483,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-21T03:14:20+00:00
 Texto:
 https://chatgpt.com/c/678f0eb5-da24-8009-be25-86c8e9201e6d
@@ -492,7 +492,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-21T03:14:20+00:00
 Texto:
 1
@@ -500,7 +500,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-21T03:14:15+00:00
 Texto: [Sem texto]
 

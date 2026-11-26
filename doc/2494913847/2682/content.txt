@@ -10,7 +10,7 @@ Midias baixadas: 5
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-22T20:39:54+00:00
 Texto:
 🚀 Modelo Definitivo de RAG Agente com n8n
@@ -51,7 +51,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T22:04:36+00:00
 Texto:
 ### **Resumo do Vídeo: "I Built the ULTIMATE n8n RAG AI Agent Template"**
@@ -89,7 +89,7 @@ O vídeo apresenta um **modelo avançado de Agente RAG (Retrieval-Augmented Gene
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T22:02:40+00:00
 Texto:
 ap3
@@ -98,7 +98,7 @@ Midia: MessageMediaDocument -> Ultimate_Agentic_RAG_AI_Agent_Template (1).json
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T22:01:18+00:00
 Texto:
 https://www.youtube.com/watch?v=mQt1hOjBH9o
@@ -107,7 +107,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T22:00:14+00:00
 Texto:
 **Agentic RAG e Limitações do RAG Tradicional 📊**  
@@ -121,7 +121,7 @@ Aqui está o link para a postagem  sobre o modelo do Cole.
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T21:59:47+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_2690_006.jpg
@@ -129,7 +129,7 @@ Midia: MessageMediaPhoto -> photo_2690_006.jpg
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T21:58:38+00:00
 Texto:
 ap3 - Agentic RAG e Limitações do RAG Tradicional
@@ -137,7 +137,7 @@ ap3 - Agentic RAG e Limitações do RAG Tradicional
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T21:58:29+00:00
 Texto:
 .
@@ -145,7 +145,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T21:58:29+00:00
 Texto:
 .
@@ -153,7 +153,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T21:58:29+00:00
 Texto:
 ..
@@ -161,7 +161,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T21:58:29+00:00
 Texto:
 .
@@ -169,7 +169,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T21:58:28+00:00
 Texto:
 https://chatgpt.com/c/67cf5ab5-107c-8009-bab2-3512947992e1
@@ -178,7 +178,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T21:58:28+00:00
 Texto:
 1
@@ -186,7 +186,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T21:58:14+00:00
 Texto: [Sem texto]
 

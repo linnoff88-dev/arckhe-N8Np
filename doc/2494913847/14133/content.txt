@@ -10,7 +10,7 @@ Midias baixadas: 3
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-17T16:46:54+00:00
 Texto:
 Nêo teve.
@@ -50,7 +50,7 @@ cade o json?
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-11T03:42:18+00:00
 Texto:
 https://www.youtube.com/watch?v=TDHFkKSTJ30
@@ -59,7 +59,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-11T03:41:36+00:00
 Texto:
 ### Hacks para usar bem o Text-to-Workflow
@@ -104,7 +104,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-11T03:41:18+00:00
 Texto:
 ===================
@@ -112,7 +112,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-11T03:41:14+00:00
 Texto:
 Com base no vídeo e no transcript, dá para separar claramente o que funciona bem e o que ainda nêo funciona no Text-to-Workflow do n8n:
@@ -138,7 +138,7 @@ Com base no vídeo e no transcript, dá para separar claramente o que funciona b
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-11T03:40:44+00:00
 Texto:
 ================
@@ -146,7 +146,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-11T03:40:41+00:00
 Texto:
 Resumo :
@@ -183,7 +183,7 @@ Principais pontos do vídeo:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-11T03:40:05+00:00
 Texto:
 =============
@@ -191,7 +191,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-11T03:40:00+00:00
 Texto:
 De Texto para Workflow do n8n de alguma forma tornou a construçêo de agentes ainda mais fácil
@@ -204,7 +204,7 @@ Eu passo por três exemplos ao vivo para que você veja quais tipos de prompts f
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-11T03:39:36+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14142_014.jpg
@@ -212,7 +212,7 @@ Midia: MessageMediaPhoto -> photo_14142_014.jpg
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-11T03:39:12+00:00
 Texto:
 ap61 - BUILDING  O Vibe Code do N8N
@@ -220,7 +220,7 @@ ap61 - BUILDING  O Vibe Code do N8N
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-11T03:39:11+00:00
 Texto:
 .
@@ -228,7 +228,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-11T03:39:10+00:00
 Texto:
 .
@@ -236,7 +236,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-11T03:39:09+00:00
 Texto:
 .
@@ -244,7 +244,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-11T03:39:09+00:00
 Texto:
 .
@@ -252,7 +252,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-11T03:39:09+00:00
 Texto:
 .
@@ -260,7 +260,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-11T03:39:09+00:00
 Texto:
 https://chatgpt.com/c/68c23be2-e674-832e-a57d-2809609d16f0
@@ -269,7 +269,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-11T03:39:08+00:00
 Texto:
 1
@@ -277,7 +277,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-11T03:39:02+00:00
 Texto: [Sem texto]
 

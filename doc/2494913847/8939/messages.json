@@ -1,7 +1,7 @@
 [
   {
     "id": 8956,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-08T02:12:55+00:00",
     "text": "Aqui está o **passo a passo direto** para criar o bot de tarefas com n8n, Telegram, OpenAI (Whisper) e Airtable:\n\n---\n\n### 1. Criar Bot no Telegram\n\n* Vá ao Telegram e busque por `BotFather`.\n* Use o comando `/newbot`.\n* Defina nome e username (tem que terminar com “bot”).\n* Copie o **token de acesso** gerado.\n\n---\n\n### 2. Configurar n8n\n\n#### 2.1 Criar workflow\n\n* Nomeie o fluxo.\n\n#### 2.2 Adicionar gatilho Telegram\n\n* Nó: `Telegram Trigger`.\n* Evento: `On Message`.\n* Adicione uma nova credencial e cole o token do bot.\n\n---\n\n### 3. Lidar com texto e voz\n\n#### 3.1 Criar nó `IF`\n\n* Condiçêo: se a mensagem contém `voice` (áudio).\n\n#### 3.2 Caminho do áudio:\n\n* Baixe o áudio: `Telegram → Get File`.\n* Transcreva: `OpenAI → Whisper → Transcribe Audio`.\n\n#### 3.3 Caminho do texto:\n\n* Capture diretamente: `msg.text`.\n\n---\n\n### 4. Unificar dados\n\n* Adicione dois nós `Set`.\n* Renomeie o campo para `agentInput` tanto para texto quanto transcriçêo.\n* Resultado: campo padrêo para ambos os caminhos.\n\n---\n\n### 5. Configurar IA (Agent Tools)\n\n#### 5.1 Definir modelo\n\n* Modelo: GPT-4o mini (ou outro da OpenAI).\n* Memória: Window buffer.\n* Sessêo: use o `chat_id` do Telegram como ID.\n* Prompt: instrua a IA a extrair:\n\n  * `title`, `description`, `due_date`, `priority`.\n\n#### 5.2 Incluir variável de data\n\n* Use `{{now}}` no prompt para permitir frases como “amanhê”.\n\n---\n\n### 6. Conectar Airtable\n\n#### 6.1 Criar token\n\n* Vá em Airtable [https://airtable.com/invite/r/OCq1Acz2](https://airtable.com/invite/r/OCq1Acz2) \n→ Conta → **Personal Access Token**.\n* Permissões: Read + Write + Read schema.\n* Especifique o **base** (opcional, mas recomendado).\n\n#### 6.2 Adicionar nó Airtable\n\n* Operaçêo: `Create Record`.\n* Base e Tabela: selecione.\n* Mapear campos:\n\n  * `{{fromAI.title}}`\n  * `{{fromAI.description}}`\n  * `{{fromAI.due_date}}`\n  * `{{fromAI.priority}}`\n\n---\n\n### 7. Enviar resposta ao Telegram\n\n* Nó: `Telegram → Send Message`.\n* Use `chat_id` para enviar de volta o resultado.\n* Mensagem: `{{fromAI.output}}` (ou conteúdo formatado manualmente).\n\n---\n\n### 8. Testar e ativar\n\n* Teste com texto e áudio.\n* Ative o workflow.\n* Verifique se os dados estêo indo corretamente para o Airtable e retornando no Telegram.\n\n---",
     "has_media": true,
@@ -9,7 +9,7 @@
   },
   {
     "id": 8955,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-08T02:12:29+00:00",
     "text": "-=================",
     "has_media": false,
@@ -17,7 +17,7 @@
   },
   {
     "id": 8954,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-08T02:12:25+00:00",
     "text": "**Resumo completo do tutorial: Bot de Gerenciamento de Tarefas com n8n e Telegram**\n\nVamos criar um bot no Telegram integrado ao n8n, capaz de:\n\n### Funçêo principal:\n\n* Receber mensagens de texto ou áudio via Telegram.\n* Extrair tarefas da mensagem (transcrita ou digitada).\n* Adicionar essas tarefas automaticamente a uma tabela do Airtable.\n\n---\n\n### Etapas do processo:\n\n1. **Criaçêo do Bot no Telegram**\n\n   * Usar o BotFather para gerar o token de acesso.\n   * Nomear o bot e copiar o token para usar no n8n.\n\n2. **Configuraçêo do fluxo no n8n**\n\n   * Criar gatilho com `Telegram Trigger` (evento: onMessage).\n   * Capturar texto ou arquivo de voz.\n\n3. **Processamento de áudio (caso de mensagem de voz)**\n\n   * Usar um nó `IF` para separar voz de texto.\n   * Fazer download do áudio.\n   * Transcrever com o modelo Whisper da OpenAI.\n\n4. **Normalizaçêo do conteúdo**\n\n   * Unificar o nome do campo de entrada (`agentInput`) vindo do texto ou do áudio.\n   * Garantir que o agente de IA receba um campo padrêo, independente do formato de entrada.\n\n5. **Criaçêo do prompt para o agente IA**\n\n   * Instruir a IA para:\n\n     * Extrair **título**, **descriçêo**, **data de entrega** e **prioridade**.\n     * Garantir compatibilidade com os campos do Airtable (mesmos nomes e valores válidos, como dropdowns).\n     * Usar a variável `{{now}}` para interpretar datas relativas como “amanhê”.\n\n6. **Configuraçêo do modelo de IA**\n\n   * Usar modelo OpenAI (como GPT-4o mini).\n   * Sessêo baseada no chat ID do Telegram.\n   * Definir memória e janela de contexto.\n\n7. **Integraçêo com Airtable**\n\n   * Criar token pessoal com permissões de leitura e escrita.\n   * Mapear campos: título, descriçêo, data e prioridade.\n   * Passar as respostas da IA para preencher os registros no Airtable.\n\n8. **Resposta ao usuário no Telegram**\n\n   * Enviar mensagem de confirmaçêo com as tarefas detectadas e adicionadas.\n\n---\n\n### Resultados da automaçêo:\n\n* O áudio com tarefas foi processado, transcrito, e três tarefas foram adicionadas ao Airtable com sucesso.\n* As tarefas retornaram no Telegram com as datas e prioridades já organizadas.\n\n---\n\n### Possibilidades de expansêo:\n\n* Ler tarefas existentes no Airtable e responder ao usuário.\n* Armazenar dados em bancos maiores.\n* Criar sistemas de chat com IA internos à equipe.\n\n---\n\n### Conclusêo:\n\nEsse projeto mostra como usar **n8n + Telegram + OpenAI + Airtable** para criar um **organizador pessoal por voz ou texto**, de forma simples e eficiente.",
     "has_media": false,
@@ -25,7 +25,7 @@
   },
   {
     "id": 8953,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-08T02:11:24+00:00",
     "text": "=======",
     "has_media": false,
@@ -33,7 +33,7 @@
   },
   {
     "id": 8951,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-08T02:10:15+00:00",
     "text": "**Para iniciantes!**\n\nPasso a passo como criar um bot no Telegram usando o n8n, que vai te ajudar a se manter organizado adicionando tarefas ao Airtable. Explico como configurar o bot, incluindo como obter o token de acesso e configurar os gatilhos para diferentes tipos de mensagens. \n\nTambém como usar o modelo Whisper da OpenAI para processar arquivos de áudio.",
     "has_media": false,
@@ -41,7 +41,7 @@
   },
   {
     "id": 8950,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-08T02:09:39+00:00",
     "text": "",
     "has_media": true,
@@ -50,7 +50,7 @@
   },
   {
     "id": 8949,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-08T02:09:33+00:00",
     "text": "",
     "has_media": true,
@@ -59,7 +59,7 @@
   },
   {
     "id": 8948,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-08T02:09:29+00:00",
     "text": "",
     "has_media": true,
@@ -68,7 +68,7 @@
   },
   {
     "id": 8947,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-08T02:06:57+00:00",
     "text": "mt02 - Gerenciador de Tarefas no Telegram",
     "has_media": false,
@@ -76,7 +76,7 @@
   },
   {
     "id": 8946,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-08T02:06:56+00:00",
     "text": ".",
     "has_media": false,
@@ -84,7 +84,7 @@
   },
   {
     "id": 8945,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-08T02:06:55+00:00",
     "text": ".",
     "has_media": false,
@@ -92,7 +92,7 @@
   },
   {
     "id": 8944,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-08T02:06:55+00:00",
     "text": "..",
     "has_media": false,
@@ -100,7 +100,7 @@
   },
   {
     "id": 8943,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-08T02:06:55+00:00",
     "text": ".",
     "has_media": false,
@@ -108,7 +108,7 @@
   },
   {
     "id": 8942,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-08T02:06:55+00:00",
     "text": ".",
     "has_media": false,
@@ -116,7 +116,7 @@
   },
   {
     "id": 8941,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-08T02:06:54+00:00",
     "text": "https://chatgpt.com/c/6844f023-0a5c-8009-89a4-856d1d784f32",
     "has_media": true,
@@ -124,7 +124,7 @@
   },
   {
     "id": 8940,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-08T02:06:54+00:00",
     "text": "1",
     "has_media": false,
@@ -132,7 +132,7 @@
   },
   {
     "id": 8939,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-08T02:06:47+00:00",
     "text": "",
     "has_media": false,

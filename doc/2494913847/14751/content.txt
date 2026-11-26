@@ -34,7 +34,7 @@ eu fiz isso mestre, obrigado
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-12T14:05:31+00:00
 Texto:
 olhe se isso ajuda, outra opcao seria pedir para o chat olhar os json e listas os campos e as planilhas citadas
@@ -42,7 +42,7 @@ olhe se isso ajuda, outra opcao seria pedir para o chat olhar os json e listas o
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-12T14:04:06+00:00
 Texto:
 Baseado na transcriçêo detalhada, o sistema utiliza **duas planilhas principais** no Google Sheets:
@@ -106,7 +106,7 @@ tem as tabelas do sheets ?
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:52:59+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14789_007.jpg
@@ -114,7 +114,7 @@ Midia: MessageMediaPhoto -> photo_14789_007.jpg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:51:12+00:00
 Texto:
 Passo a passo direto para criar a automaçêo de vídeos UGC com modelo virtual:
@@ -160,7 +160,7 @@ Passo a passo direto para criar a automaçêo de vídeos UGC com modelo virtual:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:50:46+00:00
 Texto:
 ===============
@@ -168,7 +168,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:50:44+00:00
 Texto:
 expressões), armazene no Supabase com tags, e re-use os mesmos prompts faciais (seed + params) para gerar imagens novas mantendo a coerência.
@@ -202,7 +202,7 @@ Observações finais
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:50:44+00:00
 Texto:
 Hacks (com explicaçêo curta)
@@ -280,7 +280,7 @@ Resposta: crie 5 imagens base do avatar (rostos, ângulos,
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:49:45+00:00
 Texto:
 ============
@@ -288,7 +288,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:49:43+00:00
 Texto:
 Resumo da explicaçêo da automaçêo apresentada:
@@ -318,7 +318,7 @@ A automaçêo gera vídeos UGC (conteúdo gerado por usuário) totalmente autom�
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:49:16+00:00
 Texto:
 =================
@@ -326,7 +326,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:49:13+00:00
 Texto:
 e49. Modelos virtuais para seus produtos
@@ -402,7 +402,7 @@ A planilha é atualizada com a URL do vídeo final combinado, pronto para public
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:48:35+00:00
 Texto:
 =============
@@ -410,7 +410,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:48:31+00:00
 Texto:
 ================
@@ -418,7 +418,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:48:27+00:00
 Texto:
 UGC automático com modelo virtual
@@ -446,7 +446,7 @@ Isso pode ser aplicado se você é agência, eCommerce, SaaS, consultor… ou si
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:46:15+00:00
 Texto:
 ===============
@@ -454,7 +454,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:46:07+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Creador UGC (2).json
@@ -462,7 +462,7 @@ Midia: MessageMediaDocument -> Creador UGC (2).json
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:46:07+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Combinar Clips (1).json
@@ -470,7 +470,7 @@ Midia: MessageMediaDocument -> Combinar Clips (1).json
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:46:07+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Crear Imagen ChatGPT (1).json
@@ -478,7 +478,7 @@ Midia: MessageMediaDocument -> Crear Imagen ChatGPT (1).json
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:46:07+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Crear Imagen Nanobanana (1).json
@@ -486,7 +486,7 @@ Midia: MessageMediaDocument -> Crear Imagen Nanobanana (1).json
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:46:07+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Crear Imagen Seedream (1).json
@@ -494,7 +494,7 @@ Midia: MessageMediaDocument -> Crear Imagen Seedream (1).json
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:46:07+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Crear Video (1).json
@@ -502,7 +502,7 @@ Midia: MessageMediaDocument -> Crear Video (1).json
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:45:48+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14768_026.jpg
@@ -510,7 +510,7 @@ Midia: MessageMediaPhoto -> photo_14768_026.jpg
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:45:07+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14767_027.jpg
@@ -518,7 +518,7 @@ Midia: MessageMediaPhoto -> photo_14767_027.jpg
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:44:32+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14766_028.jpg
@@ -526,7 +526,7 @@ Midia: MessageMediaPhoto -> photo_14766_028.jpg
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:43:54+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14765_029.jpg
@@ -534,7 +534,7 @@ Midia: MessageMediaPhoto -> photo_14765_029.jpg
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:43:27+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14764_030.jpg
@@ -542,7 +542,7 @@ Midia: MessageMediaPhoto -> photo_14764_030.jpg
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:42:39+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14763_031.jpg
@@ -550,7 +550,7 @@ Midia: MessageMediaPhoto -> photo_14763_031.jpg
 ------------------------------
 
 MENSAGEM 32
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:41:36+00:00
 Texto:
 e49 - UGC automático com modelo virtual
@@ -558,7 +558,7 @@ e49 - UGC automático com modelo virtual
 ------------------------------
 
 MENSAGEM 33
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:41:35+00:00
 Texto:
 .
@@ -566,7 +566,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 34
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:41:34+00:00
 Texto:
 .
@@ -574,7 +574,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 35
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:41:34+00:00
 Texto:
 .
@@ -582,7 +582,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 36
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:41:34+00:00
 Texto:
 .
@@ -590,7 +590,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 37
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:41:33+00:00
 Texto:
 .
@@ -598,7 +598,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 38
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:41:33+00:00
 Texto:
 .
@@ -606,7 +606,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 39
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:41:33+00:00
 Texto:
 .
@@ -614,7 +614,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 40
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:41:33+00:00
 Texto:
 .
@@ -622,7 +622,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 41
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:41:32+00:00
 Texto:
 https://chatgpt.com/c/68df452a-860c-8321-9b23-e0321d51bce2
@@ -631,7 +631,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 42
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:41:32+00:00
 Texto:
 1
@@ -639,7 +639,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 43
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:41:27+00:00
 Texto: [Sem texto]
 

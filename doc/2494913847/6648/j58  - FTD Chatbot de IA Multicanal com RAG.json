@@ -447,7 +447,7 @@
       "credentials": {
         "telegramApi": {
           "id": "[REMOVED]",
-          "name": "Telegram INEMAFTD"
+          "name": "Telegram ARCKHÉFTD"
         }
       }
     },
@@ -506,7 +506,7 @@
       "credentials": {
         "telegramApi": {
           "id": "[REMOVED]",
-          "name": "Telegram INEMAFTD"
+          "name": "Telegram ARCKHÉFTD"
         }
       }
     },
@@ -857,7 +857,7 @@
             {
               "id": "[REMOVED]",
               "leftValue": "={{ $('Gmail Trigger').item.json.From }}",
-              "rightValue": "inemaftd@gmail.com",
+              "rightValue": "ARCKHÉftd@gmail.com",
               "operator": {
                 "type": "string",
                 "operation": "contains"

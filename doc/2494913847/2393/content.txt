@@ -10,7 +10,7 @@ Midias baixadas: 4
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:52:11+00:00
 Texto:
 at12
@@ -19,7 +19,7 @@ Midia: MessageMediaDocument -> __RAG_Agent_Demo.json
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:52:10+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Upload_to_Supabase_Demo.json
@@ -27,7 +27,7 @@ Midia: MessageMediaDocument -> Upload_to_Supabase_Demo.json
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:51:45+00:00
 Texto:
 at12
@@ -36,7 +36,7 @@ Midia: MessageMediaPhoto -> photo_2403_003.jpg
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:51:45+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_2402_004.jpg
@@ -44,7 +44,7 @@ Midia: MessageMediaPhoto -> photo_2402_004.jpg
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:51:24+00:00
 Texto:
 at-12 - **RAG AI Agent - Supabase & Postgres**
@@ -52,7 +52,7 @@ at-12 - **RAG AI Agent - Supabase & Postgres**
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:51:22+00:00
 Texto:
 .
@@ -60,7 +60,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:51:21+00:00
 Texto:
 .
@@ -68,7 +68,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:51:21+00:00
 Texto:
 .
@@ -76,7 +76,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:51:21+00:00
 Texto:
 .
@@ -84,7 +84,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:51:20+00:00
 Texto:
 .
@@ -92,7 +92,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:51:20+00:00
 Texto:
 .
@@ -100,7 +100,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:51:19+00:00
 Texto:
 1
@@ -108,7 +108,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:51:11+00:00
 Texto: [Sem texto]
 

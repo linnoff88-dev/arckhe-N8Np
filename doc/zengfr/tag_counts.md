@@ -1301,7 +1301,7 @@
 | [runway](tags/runway.md) | 5 |
 | [receptionist](tags/receptionist.md) | 5 |
 | [qualified](tags/qualified.md) | 5 |
-| [cinematic](tags/cinematic.md) | 5 |
+| [cARCKHÉtic](tags/cARCKHÉtic.md) | 5 |
 | [e](tags/e.md) | 5 |
 | [energy](tags/energy.md) | 5 |
 | [course](tags/course.md) | 5 |

@@ -10,7 +10,7 @@ Midias baixadas: 3
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T07:33:16+00:00
 Texto:
 **Resumo completo do vídeo “The Best RAG System On YouTube (Steal This!)”**
@@ -110,7 +110,7 @@ O criador apresenta o sistema RAG (Retrieval-Augmented Generation) mais completo
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T07:30:37+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> RAG_System_2_0.json
@@ -118,7 +118,7 @@ Midia: MessageMediaDocument -> RAG_System_2_0.json
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T07:30:21+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_8395_003.jpg
@@ -126,7 +126,7 @@ Midia: MessageMediaPhoto -> photo_8395_003.jpg
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T07:29:45+00:00
 Texto:
 ap30 - RAG Pipeline 2.0
@@ -134,7 +134,7 @@ ap30 - RAG Pipeline 2.0
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T07:29:27+00:00
 Texto:
 ..
@@ -142,7 +142,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T07:29:27+00:00
 Texto:
 .
@@ -150,7 +150,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T07:29:27+00:00
 Texto:
 ..
@@ -158,7 +158,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T07:29:26+00:00
 Texto:
 .
@@ -166,7 +166,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T07:29:26+00:00
 Texto:
 https://chatgpt.com/c/68356a32-6cf8-8009-93c3-9c0f736bb21b
@@ -175,7 +175,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T07:29:25+00:00
 Texto:
 1
@@ -183,7 +183,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T07:29:17+00:00
 Texto: [Sem texto]
 

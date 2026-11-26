@@ -10,7 +10,7 @@ Midias baixadas: 7
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T07:56:50+00:00
 Texto:
 **hacks mais práticos** para turbinar esse fluxo de RAG + Supabase + n8n e evitar dores de cabeça.
@@ -111,7 +111,7 @@ Se nêo houver informaçêo suficiente, peça ao usuário para enviar documentos
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T07:56:41+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 100M MONEY MODELS, HOW TO MAKE MONEY by Alex Hormozi (1).pdf
@@ -119,7 +119,7 @@ Midia: MessageMediaDocument -> 100M MONEY MODELS, HOW TO MAKE MONEY by Alex Horm
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T07:56:41+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> pdfcoffee_com_alex_hormozi_100m_offers_how_to_make_offers_so_good.pdf
@@ -127,7 +127,7 @@ Midia: MessageMediaDocument -> pdfcoffee_com_alex_hormozi_100m_offers_how_to_mak
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T07:56:41+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 100M_Leads_How_to_Get_Strangers_To_Want_To_Buy_Your_Stuff_Alex_Hormozi.pdf
@@ -135,7 +135,7 @@ Midia: MessageMediaDocument -> 100M_Leads_How_to_Get_Strangers_To_Want_To_Buy_Yo
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T07:51:42+00:00
 Texto:
 ===============
@@ -143,7 +143,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T07:51:38+00:00
 Texto:
 Insert documents e se a tabela/documentos nêo estêo vazios.
@@ -190,7 +190,7 @@ A: Restringir Top-K final, resumir trechos antes de enviar ao LLM e usar modelos
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T07:51:38+00:00
 Texto:
 Aqui vai um passo a passo direto, em formato checklist, para você reproduzir o fluxo RAG + Supabase + n8n.
@@ -295,7 +295,7 @@ d) Webhook Respond (opcional)
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T07:50:04+00:00
 Texto:
 =================
@@ -303,7 +303,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T07:50:01+00:00
 Texto:
 Resumo completo do conteúdo da masterclass sobre RAG & Supabase:
@@ -372,7 +372,7 @@ A masterclass mostra:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T07:49:07+00:00
 Texto:
 Recursos
@@ -384,7 +384,7 @@ Recursos
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T07:47:21+00:00
 Texto:
 **🔥 n8n: **[**https://n8n.i**](https://n8n.partnerlinks.io/rkk4h07a86pv)**o**
@@ -397,7 +397,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T07:43:41+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 🧽 RAG & Supabase Masterclass.json
@@ -405,7 +405,7 @@ Midia: MessageMediaDocument -> 🧽 RAG & Supabase Masterclass.json
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T07:43:31+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13297_013.jpg
@@ -413,7 +413,7 @@ Midia: MessageMediaPhoto -> photo_13297_013.jpg
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T07:43:28+00:00
 Texto:
 Masterclass RAG & Supabase
@@ -421,7 +421,7 @@ Masterclass RAG & Supabase
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T07:43:28+00:00
 Texto:
 .
@@ -429,7 +429,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T07:43:28+00:00
 Texto:
 .
@@ -437,7 +437,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T07:43:24+00:00
 Texto:
 .
@@ -445,7 +445,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T07:43:23+00:00
 Texto:
 .
@@ -453,7 +453,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T07:43:22+00:00
 Texto:
 .
@@ -461,7 +461,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T07:43:22+00:00
 Texto:
 .
@@ -469,7 +469,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T07:43:22+00:00
 Texto:
 https://chatgpt.com/c/68ac1358-18fc-8325-bc0e-31e25b20d7d5
@@ -478,7 +478,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T07:43:21+00:00
 Texto:
 1
@@ -486,7 +486,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T07:43:15+00:00
 Texto: [Sem texto]
 

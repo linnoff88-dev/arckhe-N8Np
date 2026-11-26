@@ -10,7 +10,7 @@ Midias baixadas: 2
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:44:00+00:00
 Texto:
 🤖 Agente de IA no Telegram com LangChain e Novas Ferramentas
@@ -44,7 +44,7 @@ Template em JSON
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:42:47+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Agentic_Telegram_AI_bot_with_with_LangChain_nodes_and_new_tools.txt
@@ -52,7 +52,7 @@ Midia: MessageMediaDocument -> Agentic_Telegram_AI_bot_with_with_LangChain_nodes
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:42:40+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_4130_003.jpg
@@ -60,7 +60,7 @@ Midia: MessageMediaPhoto -> photo_4130_003.jpg
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:41:58+00:00
 Texto:
 mw8 - **Agentic Telegram AI bot with with**
@@ -68,7 +68,7 @@ mw8 - **Agentic Telegram AI bot with with**
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:41:57+00:00
 Texto:
 .
@@ -76,7 +76,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:41:56+00:00
 Texto:
 ..
@@ -84,7 +84,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:41:56+00:00
 Texto:
 .
@@ -92,7 +92,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:41:56+00:00
 Texto:
 .
@@ -100,7 +100,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:41:56+00:00
 Texto:
 .
@@ -108,7 +108,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:41:56+00:00
 Texto:
 .
@@ -116,7 +116,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:41:55+00:00
 Texto:
 1
@@ -124,7 +124,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:41:49+00:00
 Texto: [Sem texto]
 

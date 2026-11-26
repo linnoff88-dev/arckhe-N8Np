@@ -184,7 +184,7 @@
           "summarizationMethodAndPrompts": {
             "values": {
               "prompt": "Write a concise summary of the following:\n\n\n\"{text}\"\n\n",
-              "combineMapPrompt": "=Write a concise summary of the following:\n\n\n\n\n\nCONCISE SUMMARY: {{ $json.output }}"
+              "combARCKHÉpPrompt": "=Write a concise summary of the following:\n\n\n\n\n\nCONCISE SUMMARY: {{ $json.output }}"
             }
           }
         }

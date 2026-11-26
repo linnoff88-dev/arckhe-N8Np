@@ -10,7 +10,7 @@ Midias baixadas: 9
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T08:39:03+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14947_001.jpg
@@ -18,7 +18,7 @@ Midia: MessageMediaPhoto -> photo_14947_001.jpg
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T08:33:33+00:00
 Texto:
 ⚠️Importante: Este recurso está na versêo beta mais recente 1.113.0. Certifique-se de atualizar sua instância!
@@ -28,7 +28,7 @@ ATUALIZAÇêO: Acabei de ouvir da equipe do n8n que o recurso (que estava em bet
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T08:33:18+00:00
 Texto:
 ============
@@ -36,7 +36,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T08:32:49+00:00
 Texto:
 As novas Tabelas de Dados Nativas do n8n tornaram a criaçêo de agentes muito mais fácil
@@ -56,7 +56,7 @@ Modelos do Google Sheets:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T08:31:43+00:00
 Texto:
 dublado
@@ -64,7 +64,7 @@ dublado
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T08:24:53+00:00
 Texto:
 https://www.youtube.com/watch?v=QCjMBOEhpLE
@@ -73,7 +73,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T08:24:22+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Cópia de Contacts.xlsx
@@ -81,7 +81,7 @@ Midia: MessageMediaDocument -> Cópia de Contacts.xlsx
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T08:24:22+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Cópia de Sales Data.xlsx
@@ -89,7 +89,7 @@ Midia: MessageMediaDocument -> Cópia de Sales Data.xlsx
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T08:24:22+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Cópia de Test.xlsx
@@ -97,7 +97,7 @@ Midia: MessageMediaDocument -> Cópia de Test.xlsx
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T08:24:13+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Data Table Hacks.json
@@ -105,7 +105,7 @@ Midia: MessageMediaDocument -> Data Table Hacks.json
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T08:24:04+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14936_011.jpg
@@ -113,7 +113,7 @@ Midia: MessageMediaPhoto -> photo_14936_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T08:23:49+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14935_012.jpg
@@ -121,7 +121,7 @@ Midia: MessageMediaPhoto -> photo_14935_012.jpg
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T08:22:55+00:00
 Texto:
 ap66 - Tabelas Nativas no N8N
@@ -129,7 +129,7 @@ ap66 - Tabelas Nativas no N8N
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T08:22:54+00:00
 Texto:
 .
@@ -137,7 +137,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T08:22:53+00:00
 Texto:
 .
@@ -145,7 +145,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T08:22:53+00:00
 Texto:
 ..
@@ -153,7 +153,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T08:22:52+00:00
 Texto:
 .
@@ -161,7 +161,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T08:22:52+00:00
 Texto:
 .
@@ -169,7 +169,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T08:22:52+00:00
 Texto:
 https://chatgpt.com/c/68e61e76-3054-8329-b524-63888b0410ec
@@ -178,7 +178,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T08:22:51+00:00
 Texto:
 1
@@ -186,7 +186,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T08:22:46+00:00
 Texto: [Sem texto]
 

@@ -10,7 +10,7 @@ Midias baixadas: 2
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-16T06:08:16+00:00
 Texto:
 O **N8N Assistant**, desenvolvido por Chris Roberts, é um assistente especializado em fluxos de trabalho no n8n. Ele auxilia na criaçêo de fluxos e na codificaçêo de nós de código, oferecendo suporte técnico e orientaçêo para otimizar processos de automaçêo. 
@@ -36,7 +36,7 @@ Este assistente é ideal para desenvolvedores e profissionais que buscam otimiza
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-16T06:07:15+00:00
 Texto:
 https://chatgpt.com/g/g-pyj2n5ymY-n8n-assistant
@@ -45,7 +45,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-16T06:06:53+00:00
 Texto:
 ========
@@ -53,7 +53,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-16T06:06:49+00:00
 Texto:
 O **N8N Assistant**, desenvolvido por Nskha, é um assistente de inteligência artificial projetado para auxiliar na criaçêo, soluçêo de problemas e aprimoramento de fluxos de trabalho no n8n. Ele oferece orientaçêo especializada, gera fluxos de trabalho em JSON e fornece soluções inovadoras para revolucionar suas tarefas de automaçêo. 
@@ -81,7 +81,7 @@ Este assistente é ideal para desenvolvedores e entusiastas de automaçêo que b
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-16T06:05:18+00:00
 Texto:
 https://chatgpt.com/g/g-SVatmGSdQ-n8n-assistant-by-nskha
@@ -90,7 +90,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-16T06:05:16+00:00
 Texto:
 =======
@@ -98,7 +98,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-16T06:05:13+00:00
 Texto:
 Alguns Assistentes podem Ajudar muito nos projetos e nos Problemas , vou citar alguns deles
@@ -106,7 +106,7 @@ Alguns Assistentes podem Ajudar muito nos projetos e nos Problemas , vou citar a
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-16T06:03:31+00:00
 Texto:
 .
@@ -114,7 +114,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-16T06:03:30+00:00
 Texto:
 .
@@ -122,7 +122,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-16T06:03:30+00:00
 Texto:
 .
@@ -130,7 +130,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-16T06:03:30+00:00
 Texto:
 .
@@ -138,7 +138,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-16T06:03:30+00:00
 Texto:
 .
@@ -146,7 +146,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-16T06:03:29+00:00
 Texto:
 .
@@ -154,7 +154,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-16T06:03:29+00:00
 Texto:
 1
@@ -162,7 +162,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-16T06:03:23+00:00
 Texto: [Sem texto]
 

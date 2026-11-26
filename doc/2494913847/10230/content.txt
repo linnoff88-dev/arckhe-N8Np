@@ -18,7 +18,7 @@ Show,  vou refazer ele, aproveitando a oportunidade,  tem alguma automaçêo do 
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-25T02:05:51+00:00
 Texto:
 Mas olha q é simples
@@ -26,7 +26,7 @@ Mas olha q é simples
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-25T02:05:38+00:00
 Texto:
 Nêo. Já catei e nêo achei
@@ -42,7 +42,7 @@ Boa noite,  tem o json desse fluxo ?
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T04:50:14+00:00
 Texto:
 https://www.youtube.com/watch?v=Z58_o16FFoo
@@ -51,7 +51,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T04:45:05+00:00
 Texto:
 https://www.ultravox.ai/pricing
@@ -60,7 +60,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T04:44:55+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10241_007.jpg
@@ -68,7 +68,7 @@ Midia: MessageMediaPhoto -> photo_10241_007.jpg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T04:43:51+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10240_008.jpg
@@ -76,7 +76,7 @@ Midia: MessageMediaPhoto -> photo_10240_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T04:43:27+00:00
 Texto:
 Agente de Voz com Ultravox.ai
@@ -84,7 +84,7 @@ Agente de Voz com Ultravox.ai
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T04:43:26+00:00
 Texto:
 .
@@ -92,7 +92,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T04:43:25+00:00
 Texto:
 .
@@ -100,7 +100,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T04:43:25+00:00
 Texto:
 .
@@ -108,7 +108,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T04:43:25+00:00
 Texto:
 .
@@ -116,7 +116,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T04:43:25+00:00
 Texto:
 ..
@@ -124,7 +124,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T04:43:24+00:00
 Texto:
 .
@@ -132,7 +132,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T04:43:24+00:00
 Texto:
 .
@@ -140,7 +140,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T04:43:23+00:00
 Texto:
 1
@@ -148,7 +148,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T04:43:18+00:00
 Texto: [Sem texto]
 

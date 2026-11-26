@@ -10,7 +10,7 @@ Midias baixadas: 4
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T04:08:00+00:00
 Texto:
 evitar repetições (memória)
@@ -89,7 +89,7 @@ Perguntas frequentes rápidas
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T04:08:00+00:00
 Texto:
 **hacks práticos** extraídos do vídeo, em português, diretos ao ponto para você aplicar agora com Poppy + n8n. Depois dos hacks coloquei uma lista com exemplos e respostas rápidas para as perguntas mais comuns.
@@ -198,7 +198,7 @@ Lista com exemplos e respostas rápidas (por hack)
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T04:05:45+00:00
 Texto:
 ============
@@ -206,7 +206,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T04:05:42+00:00
 Texto:
 ## Resumo do vídeo: "How to Automate ANY Content with Poppy and n8n (no code)"
@@ -259,7 +259,7 @@ O vídeo mostra como integrar o **Poppy AI** com o **n8n** para automatizar a cr
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T04:04:21+00:00
 Texto:
 ===============
@@ -267,7 +267,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T04:04:16+00:00
 Texto:
 Como automatizar QUALQUER conteúdo com Poppy e n8n (sem código)
@@ -281,7 +281,7 @@ A partir daí, você pode conectar o Poppy com o n8n para automatizar pesquisas,
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T04:03:07+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14800_007.jpg
@@ -289,7 +289,7 @@ Midia: MessageMediaPhoto -> photo_14800_007.jpg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T04:02:35+00:00
 Texto:
 https://www.youtube.com/watch?v=FgP_AEfnfok
@@ -298,7 +298,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T04:02:09+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14798_009.jpg
@@ -306,7 +306,7 @@ Midia: MessageMediaPhoto -> photo_14798_009.jpg
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T04:02:04+00:00
 Texto:
 ap65 - Poppy  e N8N
@@ -314,7 +314,7 @@ ap65 - Poppy  e N8N
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T04:01:44+00:00
 Texto:
 .
@@ -322,7 +322,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T04:01:44+00:00
 Texto:
 .
@@ -330,7 +330,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T04:01:44+00:00
 Texto:
 .
@@ -338,7 +338,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T04:01:43+00:00
 Texto:
 .
@@ -346,7 +346,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T04:01:43+00:00
 Texto:
 https://chatgpt.com/c/68df4a48-4a3c-8321-acc2-7eb95409c484
@@ -355,7 +355,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T04:01:42+00:00
 Texto:
 1
@@ -363,7 +363,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T04:01:38+00:00
 Texto: [Sem texto]
 

@@ -21,7 +21,7 @@ MENSAGEM 2
 Autor: Charles
 Data: 2025-07-27T00:12:18+00:00
 Texto:
-@INEMAtds
+@linnoff88-dev
 
 ------------------------------
 
@@ -66,7 +66,7 @@ Midia: MessageMediaDocument -> 2Ftmp2FSPX_classic_2025-06-12T195409.png
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-13T01:41:19+00:00
 Texto:
 nao vi. vou ver
@@ -98,7 +98,7 @@ vou tentar baixar o fluxo
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-25T18:07:50+00:00
 Texto:
 Tá ali em cima abaixo da imagem
@@ -130,7 +130,7 @@ Boa tarde
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T22:38:56+00:00
 Texto:
 Exchange,Símbolo
@@ -150,7 +150,7 @@ KRAKEN,XRPUSD
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T22:38:53+00:00
 Texto:
 Cripto
@@ -158,7 +158,7 @@ Cripto
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T22:36:54+00:00
 Texto:
 Mercado,Accion
@@ -178,7 +178,7 @@ COINBASE,XRPUSD
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-26T03:18:41+00:00
 Texto:
 Prompt:
@@ -229,7 +229,7 @@ A análise deve ser **estruturada e clara**, garantindo que o agente consiga int
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-26T03:13:52+00:00
 Texto:
 📊 e9n. Análise Técnica com IA: Dicas de Trading
@@ -318,7 +318,7 @@ Recebemos alertas no Telegram apenas para as ações com recomendaçêo de venda
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-26T03:03:31+00:00
 Texto:
 📊 Análise técnica com IA: Dicas de Trading
@@ -343,7 +343,7 @@ E ainda salva tudo na sua planilha com a URL do gráfico incluída! 🔗📊
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-26T03:02:32+00:00
 Texto:
 e9n
@@ -352,7 +352,7 @@ Midia: MessageMediaDocument -> Acciones (Hacer copia).xlsx
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-26T03:02:16+00:00
 Texto:
 e9n
@@ -361,7 +361,7 @@ Midia: MessageMediaDocument -> Analizador_de_acciones (1).json
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-26T03:01:57+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_3907_024.jpg
@@ -369,7 +369,7 @@ Midia: MessageMediaPhoto -> photo_3907_024.jpg
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-26T02:57:45+00:00
 Texto:
 e9n -📊 Análise técnica com IA: Dicas de Trading
@@ -377,7 +377,7 @@ e9n -📊 Análise técnica com IA: Dicas de Trading
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-26T02:57:42+00:00
 Texto:
 .
@@ -385,7 +385,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-26T02:57:40+00:00
 Texto:
 ..
@@ -393,7 +393,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-26T02:57:40+00:00
 Texto:
 .
@@ -401,7 +401,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-26T02:57:40+00:00
 Texto:
 .
@@ -409,7 +409,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-26T02:57:39+00:00
 Texto:
 .
@@ -417,7 +417,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-26T02:57:39+00:00
 Texto:
 .
@@ -425,7 +425,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 32
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-26T02:57:38+00:00
 Texto:
 1
@@ -433,7 +433,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 33
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-26T02:57:31+00:00
 Texto: [Sem texto]
 

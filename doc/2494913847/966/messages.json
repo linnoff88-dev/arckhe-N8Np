@@ -105,7 +105,7 @@
   },
   {
     "id": 976,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-29T17:47:46+00:00",
     "text": "# Como Conectar DeepSeek R1 no Make e N8N 🚀  \n\nSe você busca um modelo poderoso e muito mais barato que o OpenAI para suas automações, o **DeepSeek R1** pode ser a soluçêo perfeita! Neste guia, vou te mostrar como integrá-lo no **Make** e no **N8N** de forma simples e prática.  \n\n## 🔎 Por que usar DeepSeek R1?  \n✅ **Desempenho similar ao GPT-4** ⚡  \n✅ **Custo muito menor** 💰 – Apenas **$0.55 por milhêo de tokens** de entrada (comparado aos **$15 do OpenAI**).  \n\n---\n\n## 🔗 Como conectar no N8N  \nNo N8N ainda nêo há um módulo oficial do DeepSeek, mas existe um truque simples para usá-lo via OpenRouter:  \n\n1️⃣ Criar um **nodo OpenAI** no N8N.  \n2️⃣ Na configuraçêo, modificar a **Base URL** para a do **OpenRouter**.  \n3️⃣ Utilizar a **API Key do OpenRouter**.  \n4️⃣ Alterar o modelo para **DeepSeek R1** manualmente.  \n\n🎯 **Resultado:** O DeepSeek R1 funcionará no N8N **como se fosse um modelo da OpenAI**, sem precisar de uma integraçêo oficial.  \n\n---\n\n## 🧪 Próximos Passos  \n✅ Teste o DeepSeek R1 em suas automações.  \n✅ Experimente usá-lo em **agentes de IA** para ver sua performance.  \n✅ Deixe seu feedback sobre a experiência!",
     "has_media": false,
@@ -113,7 +113,7 @@
   },
   {
     "id": 975,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-29T17:47:10+00:00",
     "text": ".....",
     "has_media": false,
@@ -121,7 +121,7 @@
   },
   {
     "id": 974,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-29T17:47:10+00:00",
     "text": "....",
     "has_media": false,
@@ -129,7 +129,7 @@
   },
   {
     "id": 973,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-29T17:47:10+00:00",
     "text": "...",
     "has_media": false,
@@ -137,7 +137,7 @@
   },
   {
     "id": 972,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-29T17:47:10+00:00",
     "text": "..",
     "has_media": false,
@@ -145,7 +145,7 @@
   },
   {
     "id": 971,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-29T17:47:09+00:00",
     "text": ".",
     "has_media": false,
@@ -153,7 +153,7 @@
   },
   {
     "id": 970,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-29T17:47:09+00:00",
     "text": ".",
     "has_media": false,
@@ -161,7 +161,7 @@
   },
   {
     "id": 969,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-29T17:47:09+00:00",
     "text": ".",
     "has_media": false,
@@ -169,7 +169,7 @@
   },
   {
     "id": 968,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-29T17:47:09+00:00",
     "text": ".",
     "has_media": false,
@@ -177,7 +177,7 @@
   },
   {
     "id": 967,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-29T17:47:07+00:00",
     "text": "1",
     "has_media": false,
@@ -185,7 +185,7 @@
   },
   {
     "id": 966,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-29T17:46:57+00:00",
     "text": "",
     "has_media": false,

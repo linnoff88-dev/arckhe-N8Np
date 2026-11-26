@@ -10,7 +10,7 @@ Midias baixadas: 10
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-08T01:17:31+00:00
 Texto:
 |                     |
@@ -43,7 +43,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-08T01:17:30+00:00
 Texto:
 Aqui estêo os principais parâmetros disponíveis para a chamada `https://youtube.googleapis.com/youtube/v3/search?` (método `search.list`) da YouTube Data API v3:
@@ -124,7 +124,7 @@ Aqui estêo os principais parâmetros disponíveis para a chamada `https://youtu
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-06T15:34:06+00:00
 Texto:
 Adicionado if, quando um video é excluido e ai tem ativar a configuracao pemitindo continuar com eero no fletch
@@ -133,7 +133,7 @@ Midia: MessageMediaDocument -> als3 - original.json
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-17T18:01:54+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Raspagem Trends Youtube.xlsx
@@ -141,7 +141,7 @@ Midia: MessageMediaDocument -> Raspagem Trends Youtube.xlsx
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-17T17:40:12+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7825_005.jpg
@@ -149,7 +149,7 @@ Midia: MessageMediaPhoto -> photo_7825_005.jpg
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-17T17:39:51+00:00
 Texto:
 tem ativar o youtube API no console do google projetos
@@ -158,7 +158,7 @@ e criar uma chave de api e cadastrar como key
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-17T17:29:54+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7823_007.jpg
@@ -166,7 +166,7 @@ Midia: MessageMediaPhoto -> photo_7823_007.jpg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-25T18:16:33+00:00
 Texto:
 Eubja
@@ -240,7 +240,7 @@ Tem  grupo de prompt pronto para cria história SEO Thumbnail
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:29:23+00:00
 Texto:
 https://www.youtube.com/watch?v=KYQxRRxAy3I
@@ -249,7 +249,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:26:17+00:00
 Texto:
 ! Abaixo está o **passo a passo completo do fluxo ** “Faceless Video Research System That Makes You $20K/yr”, com foco na criaçêo de **dois fluxos automatizados no n8n**: um para **pesquisar vídeos recentes** e outro para **monitorar o crescimento diário das visualizações**.
@@ -363,7 +363,7 @@ Você terá:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:25:40+00:00
 Texto:
 ==
@@ -371,7 +371,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:25:39+00:00
 Texto:
 =
@@ -379,7 +379,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:25:39+00:00
 Texto:
 =========
@@ -387,7 +387,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:25:14+00:00
 Texto:
 Resumo completo  **"Faceless Video Research System That Makes You $20K/yr [n8n No-Code]"**:
@@ -453,7 +453,7 @@ Ensina como criar um sistema automatizado usando **n8n, API do YouTube e Google 
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:22:52+00:00
 Texto:
 [Tutorial + Modelo] Sistema de Pesquisa de Vídeos Sem Mostrar o Rosto Que Gera $20 Mil por Ano [n8n Sem Código]
@@ -463,7 +463,7 @@ Como automatizar a pesquisa de vídeos no YouTube e encontrar temas de alto dese
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:22:20+00:00
 Texto:
 al3
@@ -472,7 +472,7 @@ Midia: MessageMediaDocument -> Faceless Youtube Idea Search.xlsx
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:22:10+00:00
 Texto:
 al3
@@ -481,7 +481,7 @@ Midia: MessageMediaDocument -> 12_5_Youtube_Faceless_Video_Research.json
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:22:00+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_5067_026.jpg
@@ -489,7 +489,7 @@ Midia: MessageMediaPhoto -> photo_5067_026.jpg
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:20:14+00:00
 Texto:
 .
@@ -497,7 +497,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:20:13+00:00
 Texto:
 al3 - Raspagem Trends Youtube
@@ -505,7 +505,7 @@ al3 - Raspagem Trends Youtube
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:20:11+00:00
 Texto:
 .
@@ -513,7 +513,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:20:11+00:00
 Texto:
 .
@@ -521,7 +521,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:20:10+00:00
 Texto:
 .
@@ -529,7 +529,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 32
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:20:10+00:00
 Texto:
 ..
@@ -537,7 +537,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 33
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:20:10+00:00
 Texto:
 .
@@ -545,7 +545,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 34
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:20:10+00:00
 Texto:
 https://chatgpt.com/c/67f60356-62b8-8009-beec-b53849f013a8
@@ -554,7 +554,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 35
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:20:09+00:00
 Texto:
 1
@@ -562,7 +562,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 36
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:20:02+00:00
 Texto: [Sem texto]
 

@@ -10,7 +10,7 @@ Midias baixadas: 3
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T22:01:19+00:00
 Texto:
 https://www.youtube.com/watch?v=Vm8QOo9MiC4
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T22:00:22+00:00
 Texto:
 =============
@@ -27,7 +27,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T22:00:18+00:00
 Texto:
 roteiros escritos por IA em vídeos prontos para o YouTube.”
@@ -35,7 +35,7 @@ roteiros escritos por IA em vídeos prontos para o YouTube.”
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T22:00:18+00:00
 Texto:
 Resumo completo
@@ -172,7 +172,7 @@ Com o Sora 2 e o n8n, você cria um estúdio de vídeo automatizado que trabalha
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T21:59:38+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Create Anything with Sora 2.json
@@ -180,7 +180,7 @@ Midia: MessageMediaDocument -> Create Anything with Sora 2.json
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T21:59:32+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15412_006.jpg
@@ -188,7 +188,7 @@ Midia: MessageMediaPhoto -> photo_15412_006.jpg
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T21:58:53+00:00
 Texto:
 ap70 - Crie qq coisa com Sora2
@@ -196,7 +196,7 @@ ap70 - Crie qq coisa com Sora2
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T21:58:28+00:00
 Texto:
 .
@@ -204,7 +204,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T21:58:28+00:00
 Texto:
 .
@@ -212,7 +212,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T21:58:27+00:00
 Texto:
 .
@@ -220,7 +220,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T21:58:27+00:00
 Texto:
 .
@@ -228,7 +228,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T21:58:27+00:00
 Texto:
 .
@@ -236,7 +236,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T21:58:26+00:00
 Texto:
 1
@@ -244,7 +244,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T21:58:21+00:00
 Texto: [Sem texto]
 

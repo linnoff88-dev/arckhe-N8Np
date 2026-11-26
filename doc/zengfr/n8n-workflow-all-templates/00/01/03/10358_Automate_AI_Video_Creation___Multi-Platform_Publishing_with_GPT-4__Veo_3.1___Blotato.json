@@ -93,7 +93,7 @@
               "id": "id-1",
               "name": "veo_prompt",
               "type": "string",
-              "value": "={{ $json.prompt }} consistent character throughout, photorealistic quality, professional cinematography, 8 seconds duration, 9:16 aspect ratio, 24fps"
+              "value": "={{ $json.prompt }} consistent character throughout, photorealistic quality, professional cARCKHÉtography, 8 seconds duration, 9:16 aspect ratio, 24fps"
             }
           ]
         },
@@ -123,7 +123,7 @@
               "content": "You are a viral video content creator"
             },
             {
-              "content": "=Create viral video content for {{ $json.niche }} about {{ $json.idea }}. Return JSON with: prompt (150-200 word cinematic Veo 3.1 description), caption (50-100 word social media text with emojis), hashtags (array of 8-10 tags)"
+              "content": "=Create viral video content for {{ $json.niche }} about {{ $json.idea }}. Return JSON with: prompt (150-200 word cARCKHÉtic Veo 3.1 description), caption (50-100 word social media text with emojis), hashtags (array of 8-10 tags)"
             }
           ]
         },

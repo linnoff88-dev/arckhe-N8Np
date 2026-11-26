@@ -59,7 +59,7 @@ Serve também para tiktok?
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:14:47+00:00
 Texto:
 https://www.youtube.com/watch?v=4K_xtccRESM
@@ -68,7 +68,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:14:30+00:00
 Texto:
 ### **🧠 Fluxo Completo do Agente de IA 2.0 para Vídeos Anônimos Animados**
@@ -196,7 +196,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:10:55+00:00
 Texto:
 ===============
@@ -204,7 +204,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:10:40+00:00
 Texto:
 **Resumo direto do tutorial [V2.0 – Agente de IA para Vídeos Anônimos Animados]**
@@ -269,7 +269,7 @@ Criar vídeos anônimos curtos e animados com IA e publicar automaticamente no Y
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:07:36+00:00
 Texto:
 [Tutorial + Modelo] V2.0: O Agente de IA Definitivo para Vídeos Anônimos Animados no YouTube – 95% de Reduçêo de Custos com o DeepSeek AI! (Sem Código)
@@ -280,7 +280,7 @@ Esse fluxo de trabalho combina DeepSeek AI, ElevenLabs, OpenAI, Flux, Hailuo AI 
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:06:54+00:00
 Texto:
 al2
@@ -289,7 +289,7 @@ Midia: MessageMediaDocument -> Video Post.xlsx
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:06:38+00:00
 Texto:
 al2
@@ -298,7 +298,7 @@ Midia: MessageMediaDocument -> Tutorial_11_3___Hailuoai_Faceless_Video (1).json
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:06:21+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_5049_014.jpg
@@ -306,7 +306,7 @@ Midia: MessageMediaPhoto -> photo_5049_014.jpg
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:06:16+00:00
 Texto:
 ..
@@ -314,7 +314,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:06:15+00:00
 Texto:
 .
@@ -322,7 +322,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:01:59+00:00
 Texto:
 al2 - Videos Deepseek Elevenlabs flux
@@ -330,7 +330,7 @@ al2 - Videos Deepseek Elevenlabs flux
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:01:58+00:00
 Texto:
 .
@@ -338,7 +338,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:01:57+00:00
 Texto:
 .
@@ -346,7 +346,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:01:57+00:00
 Texto:
 ...
@@ -354,7 +354,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:01:57+00:00
 Texto:
 ..
@@ -362,7 +362,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:01:56+00:00
 Texto:
 .
@@ -370,7 +370,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:01:56+00:00
 Texto:
 ...
@@ -378,7 +378,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:01:56+00:00
 Texto:
 ..
@@ -386,7 +386,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:01:56+00:00
 Texto:
 .
@@ -394,7 +394,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:01:56+00:00
 Texto:
 https://chatgpt.com/c/67f5ff73-6b40-8009-9588-10a416c658a9
@@ -403,7 +403,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:01:55+00:00
 Texto:
 1
@@ -411,7 +411,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:01:50+00:00
 Texto: [Sem texto]
 

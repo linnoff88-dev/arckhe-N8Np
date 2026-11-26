@@ -89,7 +89,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:54:42+00:00
 Texto:
 https://console.apify.com/actors/p7UMdpQnjKmmpR21D/input
@@ -98,7 +98,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:54:33+00:00
 Texto:
 https://huggingface.co/facebook/musicgen-small
@@ -107,7 +107,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:54:22+00:00
 Texto:
 ec4n8
@@ -116,7 +116,7 @@ Midia: MessageMediaDocument -> Musica_HF (1) (2).json
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:54:22+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Apify_YouTube (1) (2).json
@@ -124,7 +124,7 @@ Midia: MessageMediaDocument -> Apify_YouTube (1) (2).json
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:53:07+00:00
 Texto:
 voce pode copiar este Actor direto no Apify
@@ -134,7 +134,7 @@ voce pode copiar este Actor direto no Apify
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:52:02+00:00
 Texto:
 Aula 4
@@ -218,7 +218,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:51:55+00:00
 Texto:
 ec4n8 - Curso - Prática Apify e Amazon
@@ -226,7 +226,7 @@ ec4n8 - Curso - Prática Apify e Amazon
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:51:55+00:00
 Texto:
 .
@@ -234,7 +234,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:51:55+00:00
 Texto:
 ..
@@ -242,7 +242,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:51:55+00:00
 Texto:
 .
@@ -250,7 +250,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:51:55+00:00
 Texto:
 ..
@@ -258,7 +258,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:51:55+00:00
 Texto:
 .
@@ -266,7 +266,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:51:55+00:00
 Texto:
 .
@@ -274,7 +274,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:51:41+00:00
 Texto:
 1
@@ -282,7 +282,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:51:35+00:00
 Texto: [Sem texto]
 

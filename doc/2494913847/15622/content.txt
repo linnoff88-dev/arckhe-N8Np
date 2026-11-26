@@ -18,7 +18,7 @@ vc pode compartilhar o json do swith aqui para mim apareceu quebrado.
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-07T00:18:50+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> ap71-1 UGC Ads Veo & Sora.json
@@ -26,33 +26,33 @@ Midia: MessageMediaDocument -> ap71-1 UGC Ads Veo & Sora.json
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-06T07:25:53+00:00
 Texto:
 exemplos
-Midia: MessageMediaDocument -> conteudos_inema_vip_10 (1).csv
+Midia: MessageMediaDocument -> conteudos_ARCKHÉ_vip_10 (1).csv
 
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-06T07:23:59+00:00
 Texto:
-Abaixo está um **prompt-padrêo** completo e reutilizável para você gerar automaticamente novos **conteúdos no formato ****INEMA.VIP** (como os 10 anteriores).
+Abaixo está um **prompt-padrêo** completo e reutilizável para você gerar automaticamente novos **conteúdos no formato ****ARCKHÉ.VIP** (como os 10 anteriores).
 Esse modelo serve tanto para ChatGPT quanto para automaçêo em n8n, Make ou planilhas.
 
 ---
 
-### **[PROMPT PADRêO – GERAÇêO DE CONTEÚDOS ****INEMA.VIP****]**
+### **[PROMPT PADRêO – GERAÇêO DE CONTEÚDOS ****ARCKHÉ.VIP****]**
 
 **Objetivo:**
-Gerar conteúdos curtos e cinematográficos (para vídeos 16:9) com foco em transformaçêo humana, autoconhecimento e uso prático da Inteligência Artificial — seguindo a estrutura horizontal da planilha (Geral, Persona, Produto, Cena).
+Gerar conteúdos curtos e cARCKHÉtográficos (para vídeos 16:9) com foco em transformaçêo humana, autoconhecimento e uso prático da Inteligência Artificial — seguindo a estrutura horizontal da planilha (Geral, Persona, Produto, Cena).
 
 ---
 
 **INSTRUÇêO BASE**
 
-Crie **10 conteúdos diferentes** sobre o tema abaixo, seguindo o formato do modelo INEMA.VIP:
+Crie **10 conteúdos diferentes** sobre o tema abaixo, seguindo o formato do modelo ARCKHÉ.VIP:
 Cada conteúdo deve provocar reflexêo, gerar identificaçêo e estimular açêo prática dentro da comunidade.
 
 **Tema:**
@@ -60,7 +60,7 @@ Cada conteúdo deve provocar reflexêo, gerar identificaçêo e estimular açêo
 
 **Diretrizes:**
 
-1. Todos os vídeos devem seguir formato **16:9 cinematográfico**.
+1. Todos os vídeos devem seguir formato **16:9 cARCKHÉtográfico**.
 2. As **descrições da cena e falas** sêo em **inglês**, mas o **diálogo e texto na tela** sêo **em português**.
 3. O foco é sempre **autoconhecimento + IA + comportamento humano + prática real**.
 4. Estrutura de cada conteúdo (colunas da planilha):
@@ -82,14 +82,14 @@ Nêo repita blocos de instruçêo — apenas as linhas finais, prontas para expo
 
 > Assunto: *O impacto da IA na criatividade e no futuro do trabalho*
 
-Resultado: 10 linhas no mesmo formato dos anteriores, variando temas, personagens, falas e ângulos, mas mantendo a consistência narrativa INEMA.VIP.
+Resultado: 10 linhas no mesmo formato dos anteriores, variando temas, personagens, falas e ângulos, mas mantendo a consistência narrativa ARCKHÉ.VIP.
 
 ---
 
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-06T07:16:59+00:00
 Texto:
 =======
@@ -97,7 +97,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-06T07:15:09+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> UGC Ads Veo & Sora.xlsx
@@ -105,7 +105,7 @@ Midia: MessageMediaDocument -> UGC Ads Veo & Sora.xlsx
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-06T07:14:21+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15631_007.jpg
@@ -113,7 +113,7 @@ Midia: MessageMediaPhoto -> photo_15631_007.jpg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-06T07:13:47+00:00
 Texto:
 ap71 3 - UGC ADS Gerador Detalhado
@@ -121,7 +121,7 @@ ap71 3 - UGC ADS Gerador Detalhado
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-06T07:13:10+00:00
 Texto:
 .
@@ -129,7 +129,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-06T07:13:10+00:00
 Texto:
 .
@@ -137,7 +137,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-06T07:13:09+00:00
 Texto:
 https://chatgpt.com/c/690c05e7-7c60-8325-a52e-89402b7f5c56
@@ -148,7 +148,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-06T07:13:09+00:00
 Texto:
 https://chatgpt.com/c/690bf34f-5988-8329-8ce0-b97a4098a4a5
@@ -158,7 +158,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-06T07:13:09+00:00
 Texto:
 https://chatgpt.com/c/690c0ce7-b818-832a-acca-9f9a2a6d6426
@@ -167,7 +167,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-06T07:13:08+00:00
 Texto:
 1
@@ -175,7 +175,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-06T07:12:59+00:00
 Texto: [Sem texto]
 

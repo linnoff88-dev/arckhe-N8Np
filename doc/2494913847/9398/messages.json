@@ -19,7 +19,7 @@
     "id": 13818,
     "author": "Larissa",
     "date": "2025-09-05T03:02:22+00:00",
-    "text": "tambem aceito indicações de mais fluxo s para implementaçêo, Inema para quem gosta de estudar ajuda muito. Vamo que vamo galera!!!",
+    "text": "tambem aceito indicações de mais fluxo s para implementaçêo, ARCKHÉ para quem gosta de estudar ajuda muito. Vamo que vamo galera!!!",
     "has_media": false,
     "media_type": null
   },
@@ -50,7 +50,7 @@
   },
   {
     "id": 10030,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-17T22:59:10+00:00",
     "text": "Aqui estêo as automações relacionadas a ferramentas Google disponíveis:\n\n1. Pesquisa avançada de empresas com IA e Google Sheets\n   - Pesquisa e coleta automática de dados, atualizando planilhas.\n   - Link: https://drive.google.com/file/d/1hlb6bqp88uUvQZYlIyLssuRfbz5gxrIN/view\n\n2. Chat with Google Sheet\n   - Interface de chat para consultar dados dinâmicos em planilhas Google Sheets usando IA.\n   - Link: https://drive.google.com/file/d/1I6ZZeVC0DDcjou4SNh9y1oVopS1NXwtT/view\n\n3. Extraçêo de detalhes de gastos via Gmail para Google Sheets\n   - Extrai dados financeiros de emails, inclusive PDFs, para controle financeiro.\n   - Link: https://drive.google.com/file/d/13is2Yq3F427ULltUfV-FjAuYBhdizZ98/view\n\n4. Google Analytics SEO Report\n   - Coleta dados do Google Analytics, gera análises SEO com IA e salva relatórios.\n   - Link: https://drive.google.com/file/d/1_CXl5ryFMc_qPuObr7QWiKto1wwVmFzF/view\n\n5. AI Agent para dados do Search Console via chat\n   - Chat AI para consulta interativa dos dados do Google Search Console.\n   - Link: https://drive.google.com/file/d/13Qcl16uusXXwYvA2tf0YbK9EAxar4zC5/view\n\n6. Scraping de livros para Google Sheets\n   - Extrai e organiza dados de livros da web automaticamente em planilhas.\n   - Link: https://drive.google.com/file/d/1KLVWqzxNeJXs59NAuSWnYrBB3bz1RCUT/view\n\n7. Análise SEO com Google Analytics e IA\n   - Coleta semanal de dados Analytics com sugestões SEO automáticas.\n   - Link: https://drive.google.com/file/d/1eIiZKjXBrfpd4CVBqRf1BnB2svGh_Ddw/view\n\n8. Rastreamento de Despesas via Chat e Google Sheets\n   - Registro e processamento automático de despesas em planilhas.\n   - Link: https://drive.google.com/file/d/1MwRnwIof9Fp-tcrBeLDPh_TbrHwPSNe5/view\n\n9. API Schema Crawler and Extractor\n   - Pesquisa e extrai documentaçêo de APIs organizando dados em Google Sheets e Drive.\n   - Link: https://drive.google.com/file/d/1jiyLHr2xbNXRYzdwMG55a1rpgV7QwyHf/view\n\n10. Análise de Relatórios Trimestrais de Receita com RAG\n    - Análise automatizada de relatórios financeiros trimestrais com geraçêo em Google Docs.\n    - Link: https://drive.google.com/file/d/1hYDIGy7FFkWE4HkKR8k-v7LZ8FwXMBAf/view\n\nNenhuma automaçêo específica para Google Ads foi identificada até o momento.",
     "has_media": false,
@@ -58,15 +58,15 @@
   },
   {
     "id": 10029,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-17T22:59:10+00:00",
-    "text": "exemplos de busca de informacoe no @inemaautobot",
+    "text": "exemplos de busca de informacoe no @ARCKHÉautobot",
     "has_media": false,
     "media_type": null
   },
   {
     "id": 10028,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-17T22:55:52+00:00",
     "text": "Aqui está o **passo a passo completo** da automaçêo explicada no vídeo, usando **Airtable + n8n + IA (Perplexity, Claude, Gemini ou ChatGPT)**. Ele cobre desde a criaçêo do projeto até a geraçêo e revisêo de guias publicitários.\n\n---\n\n## Etapa 1 – Estrutura Inicial no Airtable\n\n1. **Crie 3 abas principais**:\n\n   * `Projetos`: nome do projeto, cliente, status.\n   * `Serviços`: nome do serviço, descriçêo, status, tipo de açêo, ID do projeto.\n   * `Guiões`: onde serêo gerados os ângulos e roteiros finais.\n\n2. **Adicione campos manuais e automáticos**:\n\n   * Campos manuais: descriçêo, tipo de guiêo, feedback do cliente.\n   * Campos automáticos: status do processo, campos gerados por IA (detalhes, ângulos, guiêo).\n\n3. **Adicione botões (opcional se for versêo gratuita)**:\n\n   * Botêo para \"Gerar Detalhes\"\n   * Botêo para \"Gerar Ângulos\"\n   * Botêo para \"Gerar Guiêo\"\n   * Botêo para \"Revisar Guiêo\"\n\n---\n\n## Etapa 2 – Criaçêo do Webhook no n8n\n\n1. **Crie um node Webhook** com método `POST`.\n2. **Defina os campos que serêo recebidos**:\n\n   * `record_id`\n   * `action` (ex: gerar\\_detalhes, gerar\\_angulos, etc.)\n\n---\n\n## Etapa 3 – Fluxo de Ações com Switch\n\n1. **Adicione um `Switch` logo após o Webhook**:\n\n   * Condiçêo: `action` igual a:\n\n     * `gerar_detalhes`\n     * `gerar_angulos`\n     * `gerar_guiao`\n     * `gerar_feedback`\n\n2. **Para cada fluxo, crie um caminho separado no n8n**:\n\n   * Cada caminho deve obter os dados via `Airtable → Get Record` usando `record_id`.\n\n---\n\n## Etapa 4 – Gerar Detalhes com Perplexity\n\n1. **Monte o `user_prompt` com os dados do serviço**:\n\n   * Nome do serviço\n   * Descriçêo\n   * Notas do cliente\n\n2. **Configure o `HTTP Request` com Perplexity**:\n\n   * Endpoint: `https://api.perplexity.ai/completions`\n   * Authorization: `Bearer <SUA_API_KEY>`\n   * Body: JSON com:\n\n     ```     {\n       \"model\": \"sonar-reasoning\",\n       \"messages\": [\n         {\n           \"role\": \"system\",\n           \"content\": \"Você é um analista de marketing que escreve análises profundas sobre serviços e perfis de cliente.\"\n         },\n         {\n           \"role\": \"user\",\n           \"content\": \"{{user_prompt}}\"\n         }\n       ]\n     }\n     ```\n\n3. **Limpe o texto entre tags `sync` com `Function`**:\n\n   * Remova o conteúdo entre `sync` para deixar só o conteúdo útil.\n\n4. **Atualize a aba `Serviços` no Airtable**:\n\n   * Campos: `status = detalhes gerados`, `detalhes = resposta do Perplexity`.\n\n---\n\n## Etapa 5 – Gerar Ângulos com Gemini/Claude\n\n1. **Crie prompt com:**\n\n   * Detalhes do serviço\n   * Cliente ideal\n   * Ângulos anteriores (se houver)\n\n2. **Use Gemini ou Claude (HTTP ou API nativa)**:\n\n   * Gere um array JSON com:\n\n     * `titulo`\n     * `conceito`\n     * `estrutura`\n     * `visual`\n     * `gatilhos`\n     * `técnicas`\n     * `viés cognitivo`\n\n3. **Utilize `Split in Batches` para separar cada ângulo**.\n\n4. **Crie registros em `Guiões` (create record)** com os dados gerados.\n\n5. **Atualize status no Airtable para `ângulos gerados`.**\n\n---\n\n## Etapa 6 – Gerar Guiões\n\n1. **Crie `Switch` baseado no tipo de guiêo** (AIDA, PAS, 4Ps, etc.).\n\n2. **Monte prompt personalizado** com:\n\n   * Dados do ângulo\n   * Duraçêo desejada\n   * Estrutura escolhida\n   * Transcriçêo do anúncio vencedor (opcional)\n\n3. **Use Claude, ChatGPT ou outro modelo** para gerar o guiêo.\n\n4. **Atualize no Airtable**:\n\n   * Campo `guiao`\n   * Campo `status = guiao gerado`\n\n---\n\n## Etapa 7 – Revisêo de Guiêo (Feedback)\n\n1. **Usuário envia comentário direto no Airtable**.\n\n2. **Webhook recebe o comentário e record\\_id.**\n\n3. **Prompt para revisêo com IA**:\n\n   * Inclui: guiêo original + feedback do cliente\n\n4. **IA responde com novo guiêo melhorado**.\n\n5. **Atualiza campo `guiao` e `status = revisado` no Airtable**.\n\n---\n\n## Etapa 8 – Exibiçêo Final e Filtros\n\n1. **Crie views no Airtable**:\n\n   * View só com status “guiao revisado”\n   * View com estrela (★) para facilitar navegaçêo\n\n2. **Cliente final pode revisar e ajustar diretamente no Airtable.**\n\n---",
     "has_media": false,
@@ -74,7 +74,7 @@
   },
   {
     "id": 10027,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-17T22:55:30+00:00",
     "text": "======",
     "has_media": false,
@@ -82,7 +82,7 @@
   },
   {
     "id": 10026,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-17T22:55:26+00:00",
     "text": "**Resumo completo – Parte 2 da Automaçêo de Anúncios com Airtable, n8n e IA**\n\nEsta segunda parte  aprofunda a criaçêo de um sistema de automaçêo de anúncios com base em **AirTable, n8n, Perplexity, Gemini, ChatGPT e Claude**, criando todo o processo desde a coleta de dados até geraçêo e revisêo de guias de anúncios publicitários.\n\n### Estrutura da Automaçêo Explicada\n\n1. **Revisêo da Parte 1**:\n\n   * Automaçêo para coleta de dados do Meta Ads (semanais, mensais e por anúncio).\n   * Transcriçêo de anúncios vencedores com áudio.\n\n2. **Nova Etapa (Parte 2)**:\n\n   * Expansêo do sistema simulando uma **agência de marketing com múltiplos serviços**.\n   * Preenchimento manual de informações de projetos e serviços no Airtable.\n\n3. **Geraçêo automática por etapas**:\n\n   * **Gerar Detalhes do Serviço**: definiçêo de serviço, cliente ideal, descriçêo detalhada, etc.\n   * **Gerar Ângulos Publicitários**: a partir dos detalhes gerados, cria sugestões de abordagem para anúncios.\n   * **Gerar Guiões**: cria roteiros completos com base na estrutura (AIDA, PAS, 4Ps, etc.).\n   * **Gerar Feedback**: revisa e melhora guias existentes com base em comentários manuais.\n\n### Detalhamento técnico e operacional\n\n* **Webhook no n8n** é acionado por botêo ou automaçêo no Airtable.\n* Um **switch (condicional)** no n8n redireciona o fluxo conforme a açêo (detalhes, ângulos, guiêo, feedback).\n* Utilizaçêo de **Perplexity (via API REST)** para gerar detalhes dos serviços.\n* Utilizaçêo de **modelos como Gemini ou Claude** para gerar os ângulos e guias.\n* Aplicaçêo de **parsers e estruturas JSON** para garantir organizaçêo e evitar erros de formataçêo.\n* **Atualizaçêo automática** do Airtable com:\n\n  * Estado (\"gerando\", \"detalhes gerados\", \"ângulos gerados\", etc.).\n  * Campos como título, estrutura, sugestões visuais, gatilhos, técnicas de resposta, e viés cognitivo.\n\n### Estruturas de guias usadas:\n\n* **Modelos AIDA, PAS, 4Ps, FAP**, etc.\n* Cada tipo de guiêo tem sua própria automaçêo e prompt adaptado.\n* Feedback é aplicado com base nos ajustes fornecidos pelo cliente (ex: início mais impactante).\n\n---\n\n### Tópicos listados com exemplos\n\n1. **Integraçêo com Airtable**\n   Exemplo: botêo no Airtable aciona webhook com `record_id` e açêo `gerar_detalhes`.\n\n2. **Geraçêo de detalhes com Perplexity**\n   Prompt inclui: descriçêo do serviço + notas + público-alvo → resultado: perfil do serviço completo.\n\n3. **Criaçêo de ângulos publicitários**\n   IA recebe os detalhes e retorna JSON com:\n\n   * Título\n   * Conceito\n   * Estrutura\n   * Visual sugerido\n   * Gatilhos emocionais\n   * Técnicas de resposta direta\n\n4. **Geraçêo de guias com diferentes estruturas**\n   IA (Claude ou GPT) retorna roteiros completos com base em estrutura escolhida (ex: AIDA).\n\n5. **Sistema de feedback com IA**\n   Exemplo: cliente pede mais impacto → IA reescreve o início com frase como “Deixa de te matar de trabalhar como um escravo...”.\n\n6. **Separaçêo de ideias por Split e criaçêo de registros**\n   Cada novo guia ou ângulo é armazenado individualmente no Airtable como novo registro.\n\n7. **Flexibilidade e personalizaçêo por projeto/cliente**\n   Pode ser replicado para múltiplos projetos, serviços e estruturas publicitárias.\n\n8. **Feedback visual via status e campos**\n   Campos como `status = guion revisado` e uso de estrela (★) para marcar guias prontos.\n\n9. **Escalabilidade da automaçêo**\n   Possível gerar múltiplos guias ao mesmo tempo para diversos tipos de estruturas.\n\n10. **Interface amigável e adaptável ao cliente**\n    Clientes podem interagir com campos no Airtable sem ver a lógica por trás.",
     "has_media": false,
@@ -90,7 +90,7 @@
   },
   {
     "id": 10025,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-17T22:54:49+00:00",
     "text": "Parte 2  ======================",
     "has_media": false,
@@ -122,7 +122,7 @@
   },
   {
     "id": 9754,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-15T04:12:49+00:00",
     "text": "ta tudo explicado olha acima",
     "has_media": false,
@@ -130,7 +130,7 @@
   },
   {
     "id": 9753,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-15T04:12:36+00:00",
     "text": "esta tudo explicado aqui",
     "has_media": false,
@@ -138,7 +138,7 @@
   },
   {
     "id": 9752,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-15T04:11:59+00:00",
     "text": "ta tudo ai.",
     "has_media": false,
@@ -146,7 +146,7 @@
   },
   {
     "id": 9751,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-15T04:11:48+00:00",
     "text": "toda descricao e passo a passo aqui",
     "has_media": false,
@@ -178,7 +178,7 @@
   },
   {
     "id": 9529,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-13T18:44:52+00:00",
     "text": "tem outra tambem ai, , mas o cara nao liberou o video, por isso coloquei as dicas aqui",
     "has_media": false,
@@ -210,7 +210,7 @@
   },
   {
     "id": 9430,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-12T19:31:31+00:00",
     "text": "Aqui estêo os **principais hacks e truques **, organizados por etapa da automaçêo e criaçêo de anúncios:\n\n---\n\n### **Hacks de Automaçêo com n8n + Meta Ads**\n\n1. **Filtragem inteligente por status ativo**\n\n   * Evita puxar campanhas/ad sets/anúncios pausados ou antigos.\n   * Usa condições `effective_status == ACTIVE` para focar no que importa.\n\n2. **Delay estratégico para evitar bloqueios da API**\n\n   * Adiciona um **nó de espera de 30 segundos** antes de puxar dados detalhados.\n   * Isso impede que o Meta bloqueie por excesso de requisições simultâneas.\n\n3. **Extraçêo máxima de métricas com poucos nós**\n\n   * Usa o campo `fields` para pegar todas as métricas de uma só vez:\n\n     * CTR, CPC, CPM, custo, conversões, visualizações, etc.\n\n4. **Condiçêo combinada no final**\n\n   * Só registra o anúncio no Airtable se:\n\n     * O anúncio estiver ativo\n     * Os **insights existirem**\n     * O **vídeo ID estiver presente**\n\n---\n\n### **Hacks de Organizaçêo no Airtable**\n\n5. **Agrupamento por data, campanha e ad set**\n\n   * Permite uma visêo semanal/mensal por nível hierárquico.\n   * Muito útil para diagnóstico visual e comparações.\n\n6. **Criaçêo de campos com fórmulas**\n\n   * Campos como **ROAS** e **engajamento** sêo calculados automaticamente.\n   * Exemplo: `ROAS = Valor de conversêo ÷ Gasto`\n\n7. **Botêo ou checkbox para ativar automações**\n\n   * Aciona Webhook no n8n quando clicado.\n   * Funciona mesmo em contas gratuitas usando botêo.\n\n---\n\n### **Hacks com vídeos e OpenAI**\n\n8. **Transcriçêo de vídeos do Meta direto pela URL**\n\n   * Extraçêo da **SD URL do vídeo** com HTTP Request básico (sem API externa).\n   * Permite baixar o vídeo e extrair o áudio com **Whisper da OpenAI**.\n\n9. **Uso de vídeos vencedores como referência**\n\n   * Transcreve o anúncio que teve melhor desempenho.\n   * Usa a transcriçêo como input para criar novos roteiros com IA.\n\n---\n\n### **Hacks de Criaçêo de Anúncios com IA**\n\n10. **Prompting com contexto real (dados + transcriçêo)**\n\n    * Ao gerar ângulos e roteiros, inclui:\n\n      * Nome da campanha\n      * Público-alvo\n      * Produto/serviço\n      * Transcriçêo de anúncio de sucesso\n\n11. **Formatos variados de roteiros prontos**\n\n    * Automatiza geraçêo nos formatos:\n\n      * AIDA\n      * PAST\n      * 4Ps\n      * FAB\n      * Storytelling\n\n12. **Customizaçêo rápida via prompt**\n\n    * Exemplo: mudar o nome do protagonista ou o nicho (ex: \"Pedro Sánchez\", advogado).\n    * Geraçêo do novo roteiro adaptado automaticamente.\n\n---",
     "has_media": false,
@@ -218,7 +218,7 @@
   },
   {
     "id": 9429,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-12T19:31:29+00:00",
     "text": "=============",
     "has_media": false,
@@ -226,7 +226,7 @@
   },
   {
     "id": 9428,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-12T19:31:17+00:00",
     "text": "Segue o **passo a passo detalhado** para automatizar **a extraçêo de métricas de anúncios do Meta Ads** e **gerar roteiros publicitários com IA**, usando **n8n**, **Airtable** e **OpenAI**.\n\n---\n\n### **PARTE 1 – Extraçêo e organizaçêo de métricas**\n\n#### **1. Criar um App no Meta for Developers**\n\n* Acesse: [https://developers.facebook.com/](https://developers.facebook.com/)\n* Crie um app do tipo **Business**\n* Preencha: nome do app, e-mail, política de privacidade\n* Vá em **Marketing API → Ferramentas**\n* Gere o token no **Graph API Explorer** com essas permissões:\n\n  * `ads_management`\n  * `ads_read`\n  * `pages_read_engagement`\n  * `pages_manage_posts`\n  * `business_management`\n  * `read_insights`\n* Copie o token gerado\n\n---\n\n#### **2. Configurar credencial no n8n**\n\n* Vá em **Credentials > Facebook Graph API**\n* Adicione o **access token**\n* Teste a conexêo\n\n---\n\n#### **3. Criar fluxo no n8n**\n\n##### **Passo 1: Agendador**\n\n* Use o nó **Cron** para rodar toda segunda-feira às 07:00\n\n##### **Passo 2: Buscar contas de anúncios**\n\n* Nó: **HTTP Request**\n* Endpoint: `/me/adaccounts`\n* Método: GET\n\n##### **Passo 3: Listar campanhas**\n\n* Para cada conta (`split`), buscar `/adaccounts/{id}/campaigns`\n* Campos: `id`, `name`, `effective_status`\n\n##### **Passo 4: Filtrar campanhas ativas**\n\n* Condiçêo: `effective_status == ACTIVE`\n\n##### **Passo 5: Listar ad sets**\n\n* Endpoint: `/campaigns/{id}/adsets`\n* Campos: `id`, `name`, `effective_status`\n\n##### **Passo 6: Filtrar ad sets ativos**\n\n##### **Passo 7: Aguardar 30 segundos**\n\n* Nó: **Wait**\n\n##### **Passo 8: Listar anúncios**\n\n* Endpoint: `/adsets/{id}/ads`\n* Campos:\n\n  * `id`, `name`, `effective_status`\n  * Creative: `image_url`, `video_url`, `permalink_url`\n  * Insights: `clicks`, `impressions`, `cpm`, `cpc`, `ctr`, `spend`, `frequency`, `conversions`, `view_time`, etc.\n\n##### **Passo 9: Filtrar anúncios com insights**\n\n* Condiçêo:\n\n  * `effective_status == ACTIVE`\n  * `insights != null`\n  * `video_id != null` (se trabalhar com vídeos)\n\n##### **Passo 10: Enviar para Airtable**\n\n* Configure uma tabela com os campos:\n\n  * `Data`, `Campanha`, `Ad Set`, `Anúncio`\n  * `CPC`, `CPM`, `Cliques`, `Impressões`, `Gasto`, `Conversões`, `Tempo médio`, `% Visualizado`, `Video ID`, `Transcriçêo`\n* Use o nó **Airtable > Create Record**\n\n---\n\n### **PARTE 2 – Transcriçêo e criaçêo de roteiros com IA**\n\n#### **11. Automatizar transcriçêo de vídeos**\n\n* Botêo ou checkbox no Airtable ativa Webhook\n* n8n:\n\n  * `Webhook` → Recebe `record_id`\n  * `Airtable > Get Record` → Puxa o registro\n  * `Facebook Graph API` → Usa `video_id` para pegar `permalink_url`\n  * `HTTP Request` → Baixa o vídeo\n  * `OpenAI > Transcribe Audio` (modelo Whisper) → Transcreve\n  * `Airtable > Update Record` → Salva a transcriçêo\n\n---\n\n#### **12. Criar briefing do projeto com IA**\n\n* Dados do cliente e serviços no Airtable\n* Use **Perplexity** via API ou manualmente para enriquecer as informações\n\n---\n\n#### **13. Gerar ângulos publicitários**\n\n* Prompt exemplo:\n\n  `  Com base nesses dados de serviço e público-alvo, gere 5 ângulos publicitários criativos para anúncios que usem storytelling, gatilhos emocionais e técnicas de copywriting.\n  `\n\n---\n\n#### 1**4. Gerar roteiros\n**\n* Escolher formato (ex: AIDA, PAST, 4Ps, FAB, Storytelling)\n* Prompt exemplo:\n\n   ` Crie um roteiro de 1 a 3 minutos usando o método AIDA com base nesse ângulo: “A automaçêo que as agências nêo querem que você conheça”.\n  Contexto: [transcriçêo de vídeo vencedor + dados da empresa]\n  Público: pequenos empresários do setor jurídico`",
     "has_media": true,
@@ -234,7 +234,7 @@
   },
   {
     "id": 9427,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-12T19:31:14+00:00",
     "text": "============",
     "has_media": false,
@@ -242,7 +242,7 @@
   },
   {
     "id": 9426,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-12T19:31:02+00:00",
     "text": "**Resumo completo d(dividido por tópicos e exemplos práticos):Objetivo:**Automatizar a coleta de métricas de campanhas de anúncios e usar essas informações para criar anúncios mais eficientes e personalizados de forma escalável.\n---\n**PARTE 1: Extraçêo e visualizaçêo de métricas**\n1. **Por que isso importa?**\n   * Automatizar economiza horas de trabalho manual.\n   * Aumenta o valor percebido por clientes e agências.   * Facilita a análise de desempenho de campanhas com muitos anúncios ativos.\n2. **O que é extraído (exemplos):**\n   * Gasto total\n   * CPC, CPM   * Cliques, impressões\n   * Tempo médio de visualizaçêo   * % de visualizaçêo > 25%\n   * Conversões e valor de conversêo   * ROAS e engajamento\n   * Transcriçêo do vídeo\n3. **Ferramentas utilizadas:**\n   * **n8n ou **[**Make.com**](https://make.com/)   * **Airtable** para visualizaçêo e organizaçêo\n   * **Meta Graph API** para puxar dados de campanhas\n4. **Fluxo técnico de automaçêo:**\n   * Meta Ads → Contas → Campanhas → Conjuntos de Anúncios → Anúncios → Métricas   * Adiciona delays (ex: 30 segundos) para evitar bloqueios da API\n   * Filtro automático para campanhas e anúncios ativos   * Mapeamento das métricas no Airtable agrupadas por data, campanha e ad set\n---\n**PARTE 2: Geraçêo de ideias e roteiros de anúncios**\n1. **Coleta de dados do cliente/projeto:**\n   * Informações da empresa, serviços e produtos\n   * Uso do **Perplexity** para buscar dados complementares na internet\n2. **Geraçêo automática de ângulos publicitários**\n   * Exemplo de ângulo: \"A automaçêo que as agências nêo querem que você conheça\"   * Para cada ângulo sêo gerados:\n     * Resumo da ideia\n     * Estrutura de anúncio recomendada (ex: problema → demonstraçêo → depoimento → oferta)     * Triggers emocionais (ex: curiosidade, escassez, esperança)\n     * Objeções e técnicas de resposta direta\n3. **Criaçêo de roteiros com IA**\n   * Roteiros entre 1 a 3 minutos com formatos:\n     * AIDA\n     * PAST     * 4Ps\n     * FAB     * Storytelling\n   * Personalizaçêo por nicho (ex: advogados, coaches, etc.)   * Possibilidade de usar **anúncios vencedores anteriores** como referência\n4. **Transcriçêo de vídeos (automatizada)**\n   * Clique no Airtable ativa um webhook\n   * O n8n extrai a URL do vídeo e transcreve com **OpenAI**   * A transcriçêo é salva no Airtable e usada para gerar novos roteiros\n---\n**Diferenciais práticos e técnicos:**\n\n* **Tokens da API do Meta:** obtidos via Graph API Explorer com permissões específicas* **Automaçêo escalável:** aplicável para centenas de clientes\n* **Uso do Airtable Pro:** permite automatizações via botêo ou checkbox* **Visualizaçêo amigável:** métricas agrupadas por data, campanha e conjunto\n* **Reuso de campanhas vencedoras:** gera consistência e melhor conversêo\n---\n**Conclusêo prática:**\nSó a automaçêo da coleta de métricas já elimina horas de trabalho repetitivo semanalmente. Juntando com os roteiros automáticos baseados em dados reais e transcrições, esse sistema completo pode ser um **serviço de alto valor para agências de marketing** ou profissionais que gerenciam múltiplas campanhas.",
     "has_media": true,
@@ -250,7 +250,7 @@
   },
   {
     "id": 9425,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-12T19:31:00+00:00",
     "text": "============",
     "has_media": false,
@@ -258,7 +258,7 @@
   },
   {
     "id": 9424,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-12T19:30:45+00:00",
     "text": "**e24.1 Automatize métricas e crie anúncios de alto desempenho**\n\nAutomatizar a coleta de métricas de campanhas publicitárias e a usá-las para gerar melhores anúncios, de forma eficiente e escalável.\nEsse fluxo traz um valor enorme, especialmente para quem trabalha com marketing e gestêo de campanhas.\n\n**🔹 Estrutura Primeira Parte: Automaçêo da extraçêo de métricasSegunda Parte: Criaçêo de ângulos e roteiros para anúncios com base nessas métricas**\n---\n**🚀 Primeira Parte: Extraçêo e Visualizaçêo de Métricas**1️⃣**O que automatizamos**\nColetamos as métricas dos anúncios do Meta Ads e salvamos em um banco de dados (exemplo: Airtable).Isso pode ser feito semanalmente, mensalmente ou por anúncio.\n2️⃣**Quais informações extraímos**\n* Gastos\n* Custo por clique (CPC)* Custo por mil impressões (CPM)\n* Cliques* Impressões\n* Frequência* Tempo médio de visualizaçêo\n* Porcentagem de visualizaçêo (>25%)* Conversões\n* Valor da conversêo (Customer Value)* Transcriçêo do vídeo (para análise posterior)\n* ROAS, engajamento, fórmulas personalizadas\n3️⃣**Automaçêo técnica**Utilizamos N8N ou Make.\nFluxo:Meta Ads → Contas → Campanhas → Conjuntos de Anúncios → Anúncios → Métricas\n* Filtramos apenas campanhas/anúncios ativos, se desejado.\n* Adicionamos tempos de espera para evitar bloqueios da API.* As métricas sêo registradas no Airtable, agrupadas por:\n  * Data\n  * Campanha  * Conjunto de Anúncios (Ad Set)\n4️⃣**Benefícios**\nAntes: trabalho manual, várias horas por semanaAgora: automatizado, a equipe recebe as métricas atualizadas no início da semana\nGera um valor diferencial que pode ser vendido para agências de marketing\n---\n**🗂️ Segunda Parte: Criaçêo de Ângulos e Roteiros**1️⃣**Coleta de informações do projeto**Definimos as informações essenciais do negócio ou projeto (serviços, produtos, público-alvo).\nUsamos o Perplexity para enriquecer com dados adicionais da internet.\n2️⃣**Geraçêo de ângulos publicitários**Automatizamos a criaçêo de ideias de ângulos para anúncios:\nExemplo: “A automaçêo secreta que as agências nêo querem que você conheça.”\nCada ângulo contém:\n* Resumo* Estrutura recomendada\n* Ideia de vídeo* Gatilhos emocionais\n* Objeções a serem combatidas* Técnicas de resposta direta\n3️⃣**Criaçêo de roteiros automáticos**\nGeramos roteiros completos de 1 a 3 minutos usando estruturas como:\n* AIDA* PAST\n* 4Ps* FAB\n* Storytelling\nCom possibilidade de personalizaçêo:\n* Direcionamento para um nicho específico (ex: advogados)* Inclusêo de transcriçêo de um anúncio vencedor como referência\n4️⃣**Uso de anúncios vencedores**\nTranscrevemos anúncios que performaram bemEssas informações alimentam o gerador de roteiros para tomar como base o que já teve bons resultados\n---\n**🛠️ Processo técnico chave**\n* Configuraçêo do App do Meta para obter o token correto\n* Uso do Graph API para extrair métricas* Construçêo de workflows no N8N ou Make\n* Uso do Airtable para centralizar e visualizar os dados\n* Integraçêo com OpenAI para transcrever vídeos",
     "has_media": false,
@@ -266,7 +266,7 @@
   },
   {
     "id": 9423,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-12T19:30:19+00:00",
     "text": "[https://airtable.com/appG4kDD0mtp8HLHy/tblntjnsj30umOOx1/viwcVncqfEqCfFz6U?blocks=hide](https://airtable.com/appG4kDD0mtp8HLHy/tblntjnsj30umOOx1/viwcVncqfEqCfFz6U?blocks=hide)",
     "has_media": true,
@@ -274,7 +274,7 @@
   },
   {
     "id": 9422,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-12T19:30:17+00:00",
     "text": "",
     "has_media": true,
@@ -283,7 +283,7 @@
   },
   {
     "id": 9421,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-12T19:30:05+00:00",
     "text": "",
     "has_media": true,
@@ -292,7 +292,7 @@
   },
   {
     "id": 9420,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-12T19:30:00+00:00",
     "text": "",
     "has_media": true,
@@ -301,7 +301,7 @@
   },
   {
     "id": 9419,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-12T19:29:55+00:00",
     "text": "",
     "has_media": true,
@@ -310,7 +310,7 @@
   },
   {
     "id": 9418,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-12T19:29:47+00:00",
     "text": "",
     "has_media": true,
@@ -319,7 +319,7 @@
   },
   {
     "id": 9406,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-12T19:27:58+00:00",
     "text": "e24-1 Meta ADS",
     "has_media": false,
@@ -327,7 +327,7 @@
   },
   {
     "id": 9405,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-12T19:27:49+00:00",
     "text": ".",
     "has_media": false,
@@ -335,7 +335,7 @@
   },
   {
     "id": 9404,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-12T19:27:49+00:00",
     "text": ".",
     "has_media": false,
@@ -343,7 +343,7 @@
   },
   {
     "id": 9403,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-12T19:27:49+00:00",
     "text": ".",
     "has_media": false,
@@ -351,7 +351,7 @@
   },
   {
     "id": 9402,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-12T19:27:48+00:00",
     "text": ".",
     "has_media": false,
@@ -359,7 +359,7 @@
   },
   {
     "id": 9401,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-12T19:27:48+00:00",
     "text": "https://chatgpt.com/c/6851f1f5-aab4-8009-bcc3-62da26a237ac",
     "has_media": true,
@@ -367,7 +367,7 @@
   },
   {
     "id": 9400,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-12T19:27:48+00:00",
     "text": "[https://chatgpt.com/c/684b286a-231c-8009-95be-a2dfc8fa100c](https://chatgpt.com/c/684b286a-231c-8009-95be-a2dfc8fa100c)",
     "has_media": true,
@@ -375,7 +375,7 @@
   },
   {
     "id": 9399,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-12T19:27:47+00:00",
     "text": "1",
     "has_media": false,
@@ -383,7 +383,7 @@
   },
   {
     "id": 9398,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-12T19:27:41+00:00",
     "text": "",
     "has_media": false,

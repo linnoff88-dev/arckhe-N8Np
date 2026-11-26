@@ -326,7 +326,7 @@
           "summarizationMethodAndPrompts": {
             "values": {
               "prompt": "=Write a concise summary of the following:\n\n\n{{ $('Download Snapshot').item.json.answer_text }}\n\n",
-              "combineMapPrompt": "=Write a concise summary of the following:\n\n\n\n\n\nCONCISE SUMMARY: {{ $('Download Snapshot').item.json.answer_text }}"
+              "combARCKHÉpPrompt": "=Write a concise summary of the following:\n\n\n\n\n\nCONCISE SUMMARY: {{ $('Download Snapshot').item.json.answer_text }}"
             }
           }
         },

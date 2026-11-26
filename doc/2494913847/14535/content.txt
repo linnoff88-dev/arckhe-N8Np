@@ -10,7 +10,7 @@ Midias baixadas: 1
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T03:38:41+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14546_001.jpg
@@ -18,7 +18,7 @@ Midia: MessageMediaPhoto -> photo_14546_001.jpg
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T03:38:01+00:00
 Texto:
 nm101 - Sistema Pets
@@ -26,7 +26,7 @@ nm101 - Sistema Pets
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T03:38:01+00:00
 Texto:
 .
@@ -34,7 +34,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T03:38:01+00:00
 Texto:
 .
@@ -42,7 +42,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T03:38:00+00:00
 Texto:
 .
@@ -50,7 +50,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T03:38:00+00:00
 Texto:
 .
@@ -58,7 +58,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T03:38:00+00:00
 Texto:
 .
@@ -66,7 +66,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T03:38:00+00:00
 Texto:
 .
@@ -74,7 +74,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T03:37:59+00:00
 Texto:
 1
@@ -82,7 +82,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T03:37:54+00:00
 Texto: [Sem texto]
 

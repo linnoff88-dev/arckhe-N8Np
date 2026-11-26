@@ -1,7 +1,7 @@
 [
   {
     "id": 7219,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:43:45+00:00",
     "text": ".**Resumo do vídeo “Dê-me 15 minutos e eu lhe darei toda a minha estratégia de agente de IA” – YouTube**\n[Link: https://www.youtube.com/watch?v=Nj9yzBp14EM](https://www.youtube.com/watch?v=Nj9yzBp14EM)\n\n**Resumo completo:**\n\nO vídeo apresenta o método de 5 etapas que o autor usa para criar sistemas de automaçêo e agentes de IA com alto retorno sobre investimento (ROI), sem necessidade de saber programar. Ele afirma ter gerado mais de 240 mil dólares em 6 meses aplicando essa metodologia.\n\n**As 5 etapas da estratégia:**\n\n1. **Fundamentos (Foundations):**\n\n   * Entender como funcionam LLMs (Modelos de Linguagem de Grande Escala), APIs, JSON, RAG (retrieval augmented generation) e bancos de dados vetoriais.\n   * Foco na aplicaçêo prática dos conceitos, sem aprofundar tecnicamente.\n   * Importância de compreender chamadas HTTP e estrutura JSON antes de iniciar automações.\n\n2. **Identificar oportunidades de alto ROI:**\n\n   * Avaliar processos que sejam repetitivos, que consomem tempo, propensos a erro e escaláveis.\n   * Um sistema escalável aumenta o ROI com o crescimento do negócio, como no exemplo de um sistema de leads que economiza horas do time de vendas.\n\n3. **Mapeamento de processos (Process Mapping):**\n\n   * Antes de construir, desenhar o processo completo em etapas com gatilhos, fontes de dados, transformações e destino dos dados.\n   * Isso reduz erros, melhora a eficiência e permite reutilizaçêo e escalabilidade.\n   * Exemplo visual usando um fluxo de atendimento automatizado via e-mail.\n\n4. **Workflows vs Agentes de IA:**\n\n   * Nêo forçar o uso de agentes de IA onde um simples workflow resolve.\n   * Workflows sêo lineares, baratos e mais rápidos em muitos casos.\n   * Agentes sêo úteis quando decisões precisam ser dinâmicas ou interativas.\n\n5. **Prova de conceito (POC) e guarda-corpos:**\n\n   * Errar rápido e corrigir logo é essencial.\n   * Nêo é possível prever todos os problemas — é importante testar com usuários reais.\n   * Sempre haverá melhorias possíveis; o sistema nunca está 100% pronto.\n   * Implementar validações e fluxos alternativos para lidar com erros, duplicações, e alto volume de dados.\n\n\n\n**Exemplos e dicas importantes:**\n\n* Entenda bem JSON e APIs antes de automatizar.\n* Comece com fluxos simples.\n* Use LLMs apenas onde há ganho real.\n* Mapeie o processo antes de construir.\n* Teste, melhore, e implemente proteções ao longo do tempo.",
     "has_media": true,
@@ -9,7 +9,7 @@
   },
   {
     "id": 7218,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:42:38+00:00",
     "text": ".",
     "has_media": false,
@@ -17,7 +17,7 @@
   },
   {
     "id": 7217,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:42:38+00:00",
     "text": ".",
     "has_media": false,
@@ -25,7 +25,7 @@
   },
   {
     "id": 7216,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:42:38+00:00",
     "text": ".",
     "has_media": false,
@@ -33,7 +33,7 @@
   },
   {
     "id": 7215,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:42:37+00:00",
     "text": ".",
     "has_media": false,
@@ -41,7 +41,7 @@
   },
   {
     "id": 7214,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:40:57+00:00",
     "text": "",
     "has_media": true,
@@ -50,7 +50,7 @@
   },
   {
     "id": 7213,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:40:53+00:00",
     "text": "resumo",
     "has_media": false,
@@ -58,7 +58,7 @@
   },
   {
     "id": 7212,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:39:46+00:00",
     "text": "",
     "has_media": true,
@@ -67,7 +67,7 @@
   },
   {
     "id": 7211,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:38:49+00:00",
     "text": "",
     "has_media": true,
@@ -76,7 +76,7 @@
   },
   {
     "id": 7210,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:38:20+00:00",
     "text": "",
     "has_media": true,
@@ -85,7 +85,7 @@
   },
   {
     "id": 7209,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:37:41+00:00",
     "text": "",
     "has_media": true,
@@ -94,7 +94,7 @@
   },
   {
     "id": 7208,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:35:52+00:00",
     "text": "",
     "has_media": true,
@@ -103,7 +103,7 @@
   },
   {
     "id": 7207,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:35:48+00:00",
     "text": "5",
     "has_media": false,
@@ -111,7 +111,7 @@
   },
   {
     "id": 7206,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:35:34+00:00",
     "text": "",
     "has_media": true,
@@ -120,7 +120,7 @@
   },
   {
     "id": 7205,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:35:15+00:00",
     "text": "",
     "has_media": true,
@@ -129,7 +129,7 @@
   },
   {
     "id": 7204,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:34:51+00:00",
     "text": "",
     "has_media": true,
@@ -138,7 +138,7 @@
   },
   {
     "id": 7203,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:34:38+00:00",
     "text": "",
     "has_media": true,
@@ -147,7 +147,7 @@
   },
   {
     "id": 7202,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:34:13+00:00",
     "text": "",
     "has_media": true,
@@ -156,7 +156,7 @@
   },
   {
     "id": 7201,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:34:08+00:00",
     "text": "4",
     "has_media": false,
@@ -164,7 +164,7 @@
   },
   {
     "id": 7199,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:32:09+00:00",
     "text": "",
     "has_media": true,
@@ -173,7 +173,7 @@
   },
   {
     "id": 7198,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:31:05+00:00",
     "text": "",
     "has_media": true,
@@ -182,7 +182,7 @@
   },
   {
     "id": 7197,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:30:22+00:00",
     "text": "",
     "has_media": true,
@@ -191,7 +191,7 @@
   },
   {
     "id": 7196,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:29:51+00:00",
     "text": "",
     "has_media": true,
@@ -200,7 +200,7 @@
   },
   {
     "id": 7195,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:29:47+00:00",
     "text": "3",
     "has_media": false,
@@ -208,7 +208,7 @@
   },
   {
     "id": 7194,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:29:03+00:00",
     "text": "",
     "has_media": true,
@@ -217,7 +217,7 @@
   },
   {
     "id": 7193,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:28:32+00:00",
     "text": "",
     "has_media": true,
@@ -226,7 +226,7 @@
   },
   {
     "id": 7192,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:28:03+00:00",
     "text": "",
     "has_media": true,
@@ -235,7 +235,7 @@
   },
   {
     "id": 7191,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:28:00+00:00",
     "text": "2",
     "has_media": false,
@@ -243,7 +243,7 @@
   },
   {
     "id": 7190,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:27:47+00:00",
     "text": "",
     "has_media": true,
@@ -252,7 +252,7 @@
   },
   {
     "id": 7189,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:27:32+00:00",
     "text": "",
     "has_media": true,
@@ -261,7 +261,7 @@
   },
   {
     "id": 7188,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:27:06+00:00",
     "text": "",
     "has_media": true,
@@ -270,7 +270,7 @@
   },
   {
     "id": 7187,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:26:27+00:00",
     "text": "",
     "has_media": true,
@@ -279,7 +279,7 @@
   },
   {
     "id": 7186,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:25:11+00:00",
     "text": "",
     "has_media": true,
@@ -288,7 +288,7 @@
   },
   {
     "id": 7185,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:24:27+00:00",
     "text": "",
     "has_media": true,
@@ -297,7 +297,7 @@
   },
   {
     "id": 7184,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:23:24+00:00",
     "text": "",
     "has_media": true,
@@ -306,7 +306,7 @@
   },
   {
     "id": 7183,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:22:30+00:00",
     "text": "",
     "has_media": true,
@@ -315,7 +315,7 @@
   },
   {
     "id": 7182,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:21:57+00:00",
     "text": "",
     "has_media": true,
@@ -324,7 +324,7 @@
   },
   {
     "id": 7180,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:20:09+00:00",
     "text": "ap20 - Agente em 15 Minutos",
     "has_media": false,
@@ -332,7 +332,7 @@
   },
   {
     "id": 7179,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:20:06+00:00",
     "text": "..",
     "has_media": false,
@@ -340,7 +340,7 @@
   },
   {
     "id": 7178,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:20:06+00:00",
     "text": ".",
     "has_media": false,
@@ -348,7 +348,7 @@
   },
   {
     "id": 7177,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:20:06+00:00",
     "text": ".",
     "has_media": false,
@@ -356,7 +356,7 @@
   },
   {
     "id": 7176,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:20:06+00:00",
     "text": ".",
     "has_media": false,
@@ -364,7 +364,7 @@
   },
   {
     "id": 7175,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:20:05+00:00",
     "text": ".",
     "has_media": false,
@@ -372,7 +372,7 @@
   },
   {
     "id": 7174,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:20:05+00:00",
     "text": "1",
     "has_media": false,
@@ -380,7 +380,7 @@
   },
   {
     "id": 7173,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-05T19:20:00+00:00",
     "text": "",
     "has_media": false,

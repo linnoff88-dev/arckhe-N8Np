@@ -10,7 +10,7 @@ Midias baixadas: 6
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T06:11:23+00:00
 Texto:
 https://www.youtube.com/watch?v=uaMJ_Hv3u6Q
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T06:08:41+00:00
 Texto:
 Resumo completo:
@@ -79,7 +79,7 @@ Resumo por tópicos:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T06:07:27+00:00
 Texto:
 Um Agente de IA para Automatizar Reels do Instagram no Estilo de Postagens do Threads/X (Sem Código)  
@@ -91,7 +91,7 @@ Esse fluxo de trabalho com IA gera legendas, divide textos longos em Threads env
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T06:06:54+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6792_004.jpg
@@ -99,7 +99,7 @@ Midia: MessageMediaPhoto -> photo_6792_004.jpg
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T06:06:28+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Instagram Post.xlsx
@@ -107,7 +107,7 @@ Midia: MessageMediaDocument -> Instagram Post.xlsx
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T06:06:23+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Tutorial_3_1_How_I_Built_an_AI_Agent_to_Automate_Instagram_Reels.json
@@ -115,7 +115,7 @@ Midia: MessageMediaDocument -> Tutorial_3_1_How_I_Built_an_AI_Agent_to_Automate_
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T06:04:54+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6789_007.jpg
@@ -123,7 +123,7 @@ Midia: MessageMediaPhoto -> photo_6789_007.jpg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T06:00:55+00:00
 Texto:
 als10 - Reels do Instagram em Postagens no Threads/X (Twitter)
@@ -131,7 +131,7 @@ als10 - Reels do Instagram em Postagens no Threads/X (Twitter)
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T06:00:48+00:00
 Texto:
 ....
@@ -139,7 +139,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T06:00:48+00:00
 Texto:
 ...
@@ -147,7 +147,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T06:00:48+00:00
 Texto:
 ..
@@ -155,7 +155,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T06:00:48+00:00
 Texto:
 .
@@ -163,7 +163,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T06:00:47+00:00
 Texto:
 .
@@ -171,7 +171,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T06:00:47+00:00
 Texto:
 .
@@ -179,7 +179,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T06:00:47+00:00
 Texto:
 .
@@ -187,7 +187,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T06:00:47+00:00
 Texto:
 https://chatgpt.com/c/680f1972-cb3c-8009-8150-93b71d09f501
@@ -196,7 +196,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T06:00:46+00:00
 Texto:
 1
@@ -204,7 +204,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T06:00:43+00:00
 Texto: [Sem texto]
 

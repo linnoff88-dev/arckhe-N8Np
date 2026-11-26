@@ -75,21 +75,21 @@ Segundo é que nêo importa se vendi o serviço pro Otávio ou pro Joêo, se com
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T23:29:21+00:00
 Texto: [Sem texto]
 
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T03:26:20+00:00
 Texto: [Sem texto]
 
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T03:21:03+00:00
 Texto:
 Aqui está o **passo a passo completo para reconstruir o app Cal AI (rastreador de calorias) sem programaçêo**, usando **Lovable + n8n**:
@@ -250,7 +250,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T03:20:42+00:00
 Texto:
 ======================
@@ -258,7 +258,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T03:20:24+00:00
 Texto:
 tem dublado em portugues
@@ -266,7 +266,7 @@ tem dublado em portugues
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T03:20:14+00:00
 Texto:
 **Resumo do vídeo "Como reconstruí o aplicativo viral de US\$ 30 milhões da Cal AI em minutos (sem codificaçêo!)"**
@@ -346,7 +346,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T03:11:58+00:00
 Texto:
 =====================
@@ -354,7 +354,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T03:11:54+00:00
 Texto:
 se weight: target\_calories = TDEE - (weight\_loss\_target\_kg \* 7700 / 7)
@@ -445,7 +445,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T03:11:54+00:00
 Texto:
 eda inicial e recuo
@@ -595,7 +595,7 @@ Goal Adjustment:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T03:11:54+00:00
 Texto:
 qu
@@ -603,7 +603,7 @@ qu
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T03:11:54+00:00
 Texto:
 "al24 Lovable + n8n = Cal.ai
@@ -675,7 +675,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T03:09:33+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 23_2_Lovable___n8n___Cal_ai.json
@@ -683,7 +683,7 @@ Midia: MessageMediaDocument -> 23_2_Lovable___n8n___Cal_ai.json
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T03:09:26+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7258_020.jpg
@@ -691,7 +691,7 @@ Midia: MessageMediaPhoto -> photo_7258_020.jpg
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T03:08:54+00:00
 Texto:
 al24 - n8n + lovable clone qq app (exemplo Cal.ai)
@@ -699,7 +699,7 @@ al24 - n8n + lovable clone qq app (exemplo Cal.ai)
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T03:08:38+00:00
 Texto:
 .
@@ -707,7 +707,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T03:08:38+00:00
 Texto:
 .
@@ -715,7 +715,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T03:08:38+00:00
 Texto:
 .
@@ -723,7 +723,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T03:08:38+00:00
 Texto:
 .
@@ -731,7 +731,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T03:08:37+00:00
 Texto:
 .
@@ -739,7 +739,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T03:08:37+00:00
 Texto:
 .
@@ -747,7 +747,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T03:08:37+00:00
 Texto:
 https://chatgpt.com/c/68197ce9-a5c4-8009-bc89-1a34f32d8b54?model=gpt-4o
@@ -756,7 +756,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T03:08:36+00:00
 Texto:
 1
@@ -764,7 +764,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T03:08:23+00:00
 Texto: [Sem texto]
 

@@ -10,7 +10,7 @@ Midias baixadas: 8
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T01:23:45+00:00
 Texto:
 ---
@@ -121,7 +121,7 @@ Os prompts que ele cita sêo 3 tipos:
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T01:23:29+00:00
 Texto:
 ================
@@ -129,7 +129,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:53:20+00:00
 Texto:
 "cenas": [
@@ -177,7 +177,7 @@ Use Veo3 Fast, 2 cenas em vez de 4, fotos iniciais bem iluminadas, e processe ce
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:53:20+00:00
 Texto:
 3) Prompt para VÍDEO LONGO SEQUENCIAL (mesmo ator, 4 cenas de \~8s → 30+ s)
@@ -261,12 +261,12 @@ Entregue somente o prompt final.
 
 Ex```emplo rápido
 
-Produ```to: Garrafa térmica Inema 500
+Produ```to: Garrafa térmica ARCKHÉ 500
 Superfície: mármore branco
 Composiçêo: produto central, logo legível, xícara desfocada ao fundo
 
 Saí```da esperada (resumo):
-Mockup 16:9, mármore branco, garrafa Inema 500 fiel (logo e cores HEX), luz suave, sombras realistas, sem textos.
+Mockup 16:9, mármore branco, garrafa ARCKHÉ 500 fiel (logo e cores HEX), luz suave, sombras realistas, sem textos.
 
 # 5) Prompt-Agente para SAÍDA ÚNICA EM JSON (imagem+vídeo por cena)
 
@@ -299,7 +299,7 @@ JSON alvo:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:53:20+00:00
 Texto:
 Aqui está o pack de prompts prontos para copiar e colar. Organizei por tópicos e, ao final de cada tópico, incluí exemplos e respostas rápidas às dúvidas mais comuns. Tudo já adaptado para 16:9 por padrêo (e com notas para 9:16 quando você quiser vertical).
@@ -333,13 +333,13 @@ Entregue somente o prompt final da imagem.
 ```
 Exemplo rápido
 
-Pr```oduto: Garrafa térmica Inema 500
-Análise visual: Marca “Inema”, HEX #101820 (preto) e #FFD200 (âmbar), tipografia sans moderna, logotipo centrado.
+Pr```oduto: Garrafa térmica ARCKHÉ 500
+Análise visual: Marca “ARCKHÉ”, HEX #101820 (preto) e #FFD200 (âmbar), tipografia sans moderna, logotipo centrado.
 Ambiente: mesa de madeira perto de janela
 Pessoas: 25-40 casual
 
 ```Saída esperada (resumo):
-Foto horizontal 16:9, luz natural de janela, mêo segurando Garrafa térmica Inema 500 intacta (logo visível, cores HEX #101820 e #FFD200 preservadas), mesa de madeira, fundo desfocado suave, estética amadora, sem textos.
+Foto horizontal 16:9, luz natural de janela, mêo segurando Garrafa térmica ARCKHÉ 500 intacta (logo visível, cores HEX #101820 e #FFD200 preservadas), mesa de madeira, fundo desfocado suave, estética amadora, sem textos.
 
 Respostas rápidas
 
@@ -393,7 +393,7 @@ Respostas rápidas
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:51:23+00:00
 Texto:
 =================
@@ -401,7 +401,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:51:19+00:00
 Texto:
 Aqui estêo os **hacks práticos** para você turbinar essa automaçêo UGC no n8n com KIE AI, GPT-4o e Evolution API:
@@ -453,7 +453,7 @@ Aqui estêo os **hacks práticos** para você turbinar essa automaçêo UGC no n
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:50:32+00:00
 Texto:
 =====================
@@ -461,7 +461,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:50:28+00:00
 Texto:
 das com respostas
@@ -481,7 +481,7 @@ Como garantir consistência de marca?
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:50:28+00:00
 Texto:
 usar 16:9; para vertical, 9:16.
@@ -617,7 +617,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:50:28+00:00
 Texto:
 Segue um passo a passo prático para você replicar a automaçêo UGC no n8n, com prompts prontos, estrutura de nós, exemplos e checklist final.
@@ -724,7 +724,7 @@ Parâmetros:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:49:19+00:00
 Texto:
 =======================
@@ -732,7 +732,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:48:15+00:00
 Texto:
 ## Resumo geral
@@ -822,7 +822,7 @@ O vídeo ensina como criar automaticamente atores virtuais com inteligência art
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:47:59+00:00
 Texto:
 =======================
@@ -830,7 +830,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:46:50+00:00
 Texto:
 e40. Gera UGC automático com IA
@@ -923,7 +923,7 @@ Resources
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:46:38+00:00
 Texto:
 ---------------------=========================
@@ -931,7 +931,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:46:05+00:00
 Texto:
 Gere vídeos UGC automáticos com IA 🔥🔥🔥 ISSO É TOP!!
@@ -958,7 +958,7 @@ Você pode aplicar isso se for uma marca de produto, ecommerce, agência ou se v
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:43:36+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13208_018.jpg
@@ -966,7 +966,7 @@ Midia: MessageMediaPhoto -> photo_13208_018.jpg
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:43:11+00:00
 Texto:
 https://docs.kie.ai/
@@ -975,7 +975,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:43:00+00:00
 Texto:
 https://kie.ai/dashboard
@@ -984,7 +984,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:42:56+00:00
 Texto:
 https://kie.ai
@@ -993,7 +993,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:42:04+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> UGC producto.json
@@ -1001,7 +1001,7 @@ Midia: MessageMediaDocument -> UGC producto.json
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:42:00+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13203_023.jpg
@@ -1009,7 +1009,7 @@ Midia: MessageMediaPhoto -> photo_13203_023.jpg
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:40:25+00:00
 Texto:
 e40 - UGC Videos Automaticos
@@ -1017,7 +1017,7 @@ e40 - UGC Videos Automaticos
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:40:10+00:00
 Texto:
 .
@@ -1025,7 +1025,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:40:09+00:00
 Texto:
 .
@@ -1033,7 +1033,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:40:09+00:00
 Texto:
 .
@@ -1041,7 +1041,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:40:08+00:00
 Texto:
 .
@@ -1049,7 +1049,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:40:07+00:00
 Texto:
 .
@@ -1057,7 +1057,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:40:07+00:00
 Texto:
 https://chatgpt.com/c/68abb0af-cdb4-832f-a3b3-356b3cc33998
@@ -1066,7 +1066,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:40:06+00:00
 Texto:
 1
@@ -1074,7 +1074,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 32
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:39:06+00:00
 Texto: [Sem texto]
 

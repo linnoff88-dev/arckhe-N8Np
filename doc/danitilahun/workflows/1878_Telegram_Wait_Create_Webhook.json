@@ -577,7 +577,7 @@
         "url": "https://backend.blotato.com/v2/videos/creations",
         "method": "POST",
         "options": {},
-        "jsonBody": "={\n  \"script\": \"{{ $json.videoPrompt }}\",\n  \"style\": \"cinematic\",\n  \"template\": {\n    \"id\": \"base/pov/wakeup\"\n  }\n}\n",
+        "jsonBody": "={\n  \"script\": \"{{ $json.videoPrompt }}\",\n  \"style\": \"cARCKHÉtic\",\n  \"template\": {\n    \"id\": \"base/pov/wakeup\"\n  }\n}\n",
         "sendBody": true,
         "sendHeaders": true,
         "specifyBody": "json",

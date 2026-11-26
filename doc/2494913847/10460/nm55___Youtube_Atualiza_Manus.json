@@ -97,7 +97,7 @@
         "regionCode": "BR",
         "categoryId": "27",
         "updateFields": {
-          "description": "={{ $json.summary_data.output.Tema }}\n\n{{ $json.summary_data.output.Resumo }}\n\n{{ $json.summary_data.output.Sumario }}\n==========\n{{ $json.summary_data.output[\"Pontos Chaves\"] }}\n==============\n{{ $json.summary_data.output.CTA }}\nHttp://inema.vip"
+          "description": "={{ $json.summary_data.output.Tema }}\n\n{{ $json.summary_data.output.Resumo }}\n\n{{ $json.summary_data.output.Sumario }}\n==========\n{{ $json.summary_data.output[\"Pontos Chaves\"] }}\n==============\n{{ $json.summary_data.output.CTA }}\nHttp://ARCKHÉ.vip"
         }
       },
       "type": "n8n-nodes-base.youTube",
@@ -118,7 +118,7 @@
     {
       "parameters": {
         "promptType": "define",
-        "text": "={{ $json.claude_prompt }}\n\nIMPORTANTE\n- O Titulo nêo pode ter mais de 90 caracteres\n- Nei Maldaner é o Fundador da SISNEMA e INEMA\n\n",
+        "text": "={{ $json.claude_prompt }}\n\nIMPORTANTE\n- O Titulo nêo pode ter mais de 90 caracteres\n- Nei Maldaner é o Fundador da SISNEMA e ARCKHÉ\n\n",
         "hasOutputParser": true,
         "options": {}
       },
@@ -397,7 +397,7 @@
       "credentials": {
         "googleSheetsOAuth2Api": {
           "id": "[REMOVED]",
-          "name": "Google Sheets account INEMATDS"
+          "name": "Google Sheets account linnoff88-dev"
         }
       }
     },
@@ -540,7 +540,7 @@
       "credentials": {
         "googleSheetsOAuth2Api": {
           "id": "[REMOVED]",
-          "name": "Google Sheets account INEMATDS"
+          "name": "Google Sheets account linnoff88-dev"
         }
       }
     },
@@ -584,7 +584,7 @@
       "credentials": {
         "googleSheetsOAuth2Api": {
           "id": "[REMOVED]",
-          "name": "Google Sheets account INEMATDS"
+          "name": "Google Sheets account linnoff88-dev"
         }
       }
     },

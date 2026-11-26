@@ -237,7 +237,7 @@
           "summarizationMethodAndPrompts": {
             "values": {
               "prompt": "=Write a summary of the following:\n\n\n{{ JSON.stringify($json.data) }}\n\nInclude important information such as won status and expected revenue for each opportunity. Also include a short description of each oppotunity and keep opportunities separate.\n\nCONCISE SUMMARY: ",
-              "combineMapPrompt": "=Write a summary of the following:\n\n{{ JSON.stringify($json.data) }}\n\nInclude important information such as won status and expected revenue for each opportunity. Also include a short description of each oppotunity and keep opportunities separate.\n\nCONCISE SUMMARY: "
+              "combARCKHÉpPrompt": "=Write a summary of the following:\n\n{{ JSON.stringify($json.data) }}\n\nInclude important information such as won status and expected revenue for each opportunity. Also include a short description of each oppotunity and keep opportunities separate.\n\nCONCISE SUMMARY: "
             }
           }
         }

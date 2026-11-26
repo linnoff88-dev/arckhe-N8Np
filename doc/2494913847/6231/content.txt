@@ -10,7 +10,7 @@ Midias baixadas: 8
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T03:57:48+00:00
 Texto:
 esta ali em cima tem os links
@@ -37,7 +37,7 @@ Por favor, nêo estou encontrando o link da aula e nem o sql para criar o banco.
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T06:20:00+00:00
 Texto:
 e13. Crie seu App: Lovable + Supabase + N8N
@@ -106,7 +106,7 @@ SQL Tabelas Supabase
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T06:19:19+00:00
 Texto:
 =====================
@@ -114,7 +114,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T06:19:05+00:00
 Texto:
 Nova Automaçêo: Crie seu App: Lovable + Supabase + N8N
@@ -137,7 +137,7 @@ Isso é o que faz a diferença entre ter uma ideia e lançar sua própria ferram
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T06:16:38+00:00
 Texto:
 ===========
@@ -145,7 +145,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T06:16:30+00:00
 Texto:
 as tabelas
@@ -153,7 +153,7 @@ as tabelas
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T06:16:18+00:00
 Texto:
 https://supabase.com/docs/guides/ai/langchain?database-method=sql
@@ -162,7 +162,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T06:15:51+00:00
 Texto:
 aqui para ver a discussao ate gerar o prompt
@@ -170,7 +170,7 @@ aqui para ver a discussao ate gerar o prompt
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T06:15:38+00:00
 Texto:
 https://chatgpt.com/share/68088567-1fd4-8009-accd-60e69f7ec957
@@ -179,7 +179,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T06:10:24+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> App_miembros_skool.json
@@ -187,7 +187,7 @@ Midia: MessageMediaDocument -> App_miembros_skool.json
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T06:10:02+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6248_013.jpg
@@ -195,7 +195,7 @@ Midia: MessageMediaPhoto -> photo_6248_013.jpg
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T06:09:21+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6247_014.jpg
@@ -203,7 +203,7 @@ Midia: MessageMediaPhoto -> photo_6247_014.jpg
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T06:09:02+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6246_015.jpg
@@ -211,7 +211,7 @@ Midia: MessageMediaPhoto -> photo_6246_015.jpg
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T06:08:38+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6245_016.jpg
@@ -219,7 +219,7 @@ Midia: MessageMediaPhoto -> photo_6245_016.jpg
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T06:04:59+00:00
 Texto:
 .
@@ -227,7 +227,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T06:04:57+00:00
 Texto:
 e13 - n8n e Lovable
@@ -235,7 +235,7 @@ e13 - n8n e Lovable
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T06:04:26+00:00
 Texto:
 .
@@ -243,7 +243,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T06:04:25+00:00
 Texto:
 ..
@@ -251,7 +251,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T06:04:25+00:00
 Texto:
 .
@@ -259,7 +259,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T06:04:25+00:00
 Texto:
 ...
@@ -267,7 +267,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T06:04:25+00:00
 Texto:
 ..
@@ -275,7 +275,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T06:04:24+00:00
 Texto:
 .
@@ -283,7 +283,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T06:04:24+00:00
 Texto:
 ..
@@ -291,7 +291,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T06:04:24+00:00
 Texto:
 .
@@ -299,7 +299,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T06:04:24+00:00
 Texto:
 https://chatgpt.com/c/68088328-873c-8009-8308-55a6d5287e35
@@ -308,7 +308,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T06:04:23+00:00
 Texto:
 1
@@ -316,7 +316,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T06:04:15+00:00
 Texto: [Sem texto]
 

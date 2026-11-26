@@ -10,7 +10,7 @@ Midias baixadas: 2
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T02:22:03+00:00
 Texto:
 As siglas **STDIO** e **SSE** citadas no contexto do vídeo e do n8n referem-se a **tipos de conexêo entre ferramentas de automaçêo e agentes de inteligência artificial (IA)**. Veja o que significa cada uma:
@@ -54,7 +54,7 @@ No vídeo, “STDO” provavelmente é uma confusêo com:
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T02:21:09+00:00
 Texto:
 =======================
@@ -62,7 +62,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T02:19:53+00:00
 Texto:
 **Resumo do vídeo: 🤩 MCPs Nativos no N8n – Leve suas automações ao futuro**
@@ -105,7 +105,7 @@ Os MCPs nativos transformam o n8n em uma plataforma de automaçêo ainda mais po
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T02:17:29+00:00
 Texto:
 https://www.youtube.com/watch?v=JZPr1nI5oi4
@@ -114,7 +114,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T02:16:34+00:00
 Texto:
 **VÍDEO EXPLICATIVO: Os MCPs nativos já chegaram ao N8n! 🚨**  
@@ -135,7 +135,7 @@ E o futuro da automaçêo é esse: **conectar inteligência artificial com ferra
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T02:14:11+00:00
 Texto:
 ex-1 - MCP Nativo - Explicacao Pratica
@@ -143,7 +143,7 @@ ex-1 - MCP Nativo - Explicacao Pratica
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T02:14:09+00:00
 Texto:
 ..
@@ -151,7 +151,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T02:14:08+00:00
 Texto:
 .
@@ -159,7 +159,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T02:14:08+00:00
 Texto:
 .
@@ -167,7 +167,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T02:14:08+00:00
 Texto:
 ..
@@ -175,7 +175,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T02:14:08+00:00
 Texto:
 .
@@ -183,7 +183,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T02:14:07+00:00
 Texto:
 https://chatgpt.com/c/67f9cb25-29f4-8009-8771-6699d2445648
@@ -192,7 +192,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T02:14:07+00:00
 Texto:
 1
@@ -200,7 +200,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T02:13:59+00:00
 Texto: [Sem texto]
 

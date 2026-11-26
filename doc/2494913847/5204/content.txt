@@ -34,12 +34,12 @@ MENSAGEM 3
 Autor: André
 Data: 2025-04-10T17:07:53+00:00
 Texto:
-Boa tarde, já estou rodando o MCP nativo, Obrigado Comunidade @INEMAtds
+Boa tarde, já estou rodando o MCP nativo, Obrigado Comunidade @linnoff88-dev
 
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:34:57+00:00
 Texto:
 Este MCP nao é o Nativo q esta saindo. mas o funcionamento é o mesmo
@@ -47,7 +47,7 @@ Este MCP nao é o Nativo q esta saindo. mas o funcionamento é o mesmo
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:34:39+00:00
 Texto:
 ===
@@ -55,7 +55,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:34:19+00:00
 Texto:
 **09/04 – MCPs: O Futuro das Automações**
@@ -107,7 +107,7 @@ O que sêo os MCPs, por que estêo gerando tanto interesse no mundo da automaç�
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:29:19+00:00
 Texto:
 🔥 MCPs (Protocolos de Contexto de Modelo)
@@ -125,7 +125,7 @@ Uma ferramenta pela qual, por enquanto, com Introduçêo— mas que representa u
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:25:10+00:00
 Texto:
 https://github.com/nerding-io/n8n-nodes-mcp?tab=readme-ov-file
@@ -134,7 +134,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:24:44+00:00
 Texto:
 https://github.com/modelcontextprotocol/servers
@@ -143,7 +143,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:24:16+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Model Context Protocols (MCP) en Automatización con n8n.pdf
@@ -151,7 +151,7 @@ Midia: MessageMediaDocument -> Model Context Protocols (MCP) en Automatización
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:24:04+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> MCP_ejemplos.json
@@ -159,7 +159,7 @@ Midia: MessageMediaDocument -> MCP_ejemplos.json
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:23:55+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_5213_012.jpg
@@ -167,7 +167,7 @@ Midia: MessageMediaPhoto -> photo_5213_012.jpg
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:23:23+00:00
 Texto:
 e-tc10 - MCP Exemplos
@@ -175,7 +175,7 @@ e-tc10 - MCP Exemplos
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:23:21+00:00
 Texto:
 .
@@ -183,7 +183,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:23:20+00:00
 Texto:
 ..
@@ -191,7 +191,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:23:20+00:00
 Texto:
 .
@@ -199,7 +199,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:23:20+00:00
 Texto:
 .
@@ -207,7 +207,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:23:20+00:00
 Texto:
 .
@@ -215,7 +215,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:23:19+00:00
 Texto:
 https://chatgpt.com/c/67f761c0-b248-8009-92c2-826253dc44ec
@@ -224,7 +224,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:23:19+00:00
 Texto:
 1
@@ -232,7 +232,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:23:08+00:00
 Texto: [Sem texto]
 

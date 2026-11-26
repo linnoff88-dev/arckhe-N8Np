@@ -10,7 +10,7 @@ Midias baixadas: 4
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-23T03:22:46+00:00
 Texto:
 ### 🚀 Hacks para o Sistema de Suporte Automatizado
@@ -87,7 +87,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-23T03:22:05+00:00
 Texto:
 =====================
@@ -95,7 +95,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-23T03:22:01+00:00
 Texto:
 ### 🔥 Passo 1 – Configurar o formulário de entrada
@@ -185,7 +185,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-23T03:21:27+00:00
 Texto:
 ==================
@@ -193,7 +193,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-23T03:21:24+00:00
 Texto:
 ### Resumo do vídeo sobre o sistema de suporte automatizado
@@ -260,7 +260,7 @@ O sistema é **escalável, robusto e totalmente automatizado**, permitindo que e
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-23T03:19:16+00:00
 Texto:
 ===============
@@ -268,7 +268,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-23T03:19:13+00:00
 Texto:
 e31. Sistema de suporte (tickets) inteligente
@@ -356,7 +356,7 @@ Este sistema é uma soluçêo robusta, escalável e totalmente automatizada para
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-23T03:18:33+00:00
 Texto:
 ==============
@@ -364,7 +364,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-23T03:18:30+00:00
 Texto:
 Suporte técnico (gestêo de tickets) automatizado
@@ -390,7 +390,7 @@ Se você presta serviço, isso vai mudar o jogo.
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-23T03:17:21+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Codigo tabla tickets.txt
@@ -398,7 +398,7 @@ Midia: MessageMediaDocument -> Codigo tabla tickets.txt
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-23T03:17:14+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Tickets.json
@@ -406,7 +406,7 @@ Midia: MessageMediaDocument -> Tickets.json
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-23T03:17:10+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11751_012.jpg
@@ -414,7 +414,7 @@ Midia: MessageMediaPhoto -> photo_11751_012.jpg
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-23T03:16:47+00:00
 Texto:
 e31 - Suporte com Ticket Inteligente
@@ -422,7 +422,7 @@ e31 - Suporte com Ticket Inteligente
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-23T03:16:45+00:00
 Texto:
 .
@@ -430,7 +430,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-23T03:16:45+00:00
 Texto:
 .
@@ -438,7 +438,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-23T03:16:45+00:00
 Texto:
 ..
@@ -446,7 +446,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-23T03:16:44+00:00
 Texto:
 .
@@ -454,7 +454,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-23T03:16:44+00:00
 Texto:
 .
@@ -462,7 +462,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-23T03:16:44+00:00
 Texto:
 https://chatgpt.com/c/6880536c-ddec-8009-8e9b-68126602cbe1
@@ -471,7 +471,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-23T03:16:43+00:00
 Texto:
 1
@@ -479,7 +479,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-23T03:16:35+00:00
 Texto: [Sem texto]
 

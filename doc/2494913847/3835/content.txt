@@ -10,7 +10,7 @@ Midias baixadas: 8
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T20:35:07+00:00
 Texto:
 Aqui estêo as **dicas práticas que o autor do vídeo dá sobre como e quando usar o agente de engenharia de prompt no n8n**, organizadas por situaçêo e tipo de modelo de linguagem:
@@ -93,7 +93,7 @@ Aqui estêo as **dicas práticas que o autor do vídeo dá sobre como e quando u
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T20:34:51+00:00
 Texto:
 =============
@@ -101,7 +101,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T20:33:34+00:00
 Texto:
 ### Resumo Geral
@@ -185,7 +185,7 @@ Esse fluxo permite sair do modo "tentativa e erro" e ter um processo claro e pod
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T20:30:32+00:00
 Texto:
 https://www.youtube.com/watch?v=c-NdrhFbUxY
@@ -194,7 +194,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T10:36:48+00:00
 Texto:
 **Prompt para Assistente Virtual em Atendimento Médico
@@ -229,7 +229,7 @@ Este prompt garante que o modelo atue de forma eficiente, clara e cuidadosa, sem
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T10:35:50+00:00
 Texto:
 ====
@@ -237,7 +237,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T10:35:46+00:00
 Texto:
 Pergunte para ele fazer o prompt apropriado
@@ -245,7 +245,7 @@ Pergunte para ele fazer o prompt apropriado
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T10:35:24+00:00
 Texto:
 =================
@@ -253,7 +253,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T10:25:14+00:00
 Texto:
 **Fluxo de trabalho ✏️ do engenheiro de prompt n8n**
@@ -288,7 +288,7 @@ Eleve suas habilidades de engenharia de prompts com fluxos de trabalho meticulos
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T10:14:51+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Tool_Call_for_Google_Prompt_Engineer (3).json
@@ -296,7 +296,7 @@ Midia: MessageMediaDocument -> Tool_Call_for_Google_Prompt_Engineer (3).json
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T10:08:05+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_3847_011.jpg
@@ -304,7 +304,7 @@ Midia: MessageMediaPhoto -> photo_3847_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T10:04:56+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Prompt_Engineer.json
@@ -312,7 +312,7 @@ Midia: MessageMediaDocument -> Prompt_Engineer.json
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T10:04:56+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Tool_Call_for_Anthropic_Prompt_Engineer.json
@@ -320,7 +320,7 @@ Midia: MessageMediaDocument -> Tool_Call_for_Anthropic_Prompt_Engineer.json
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T10:04:56+00:00
 Texto:
 mrg1
@@ -329,7 +329,7 @@ Midia: MessageMediaDocument -> Tool_Call_for_OpenAI_Prompt_Engineer.json
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T10:04:56+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Tool_Call_for_Google_Prompt_Engineer.json
@@ -337,7 +337,7 @@ Midia: MessageMediaDocument -> Tool_Call_for_Google_Prompt_Engineer.json
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T10:03:39+00:00
 Texto:
 mrg1 - Fluxo de Trabalho do Engenheiro de Prompt N8N
@@ -345,7 +345,7 @@ mrg1 - Fluxo de Trabalho do Engenheiro de Prompt N8N
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T10:03:36+00:00
 Texto:
 ..
@@ -353,7 +353,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T10:03:35+00:00
 Texto:
 .
@@ -361,7 +361,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T10:03:35+00:00
 Texto:
 .
@@ -369,7 +369,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T10:03:35+00:00
 Texto:
 .
@@ -377,7 +377,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T10:03:35+00:00
 Texto:
 https://chatgpt.com/c/67e27ecc-4994-8009-84e1-10a44a63a8b4
@@ -386,7 +386,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T10:03:34+00:00
 Texto:
 1
@@ -394,7 +394,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T10:03:18+00:00
 Texto: [Sem texto]
 

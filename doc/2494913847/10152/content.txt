@@ -26,7 +26,7 @@ Muito bom serviço,  acho que vale uma aula para explicar o beneficio, pouca gen
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-20T23:53:15+00:00
 Texto:
 **Nome:** Node Reference Library
@@ -72,7 +72,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-20T23:50:56+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10171_004.jpg
@@ -80,7 +80,7 @@ Midia: MessageMediaPhoto -> photo_10171_004.jpg
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-20T23:50:35+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10170_005.jpg
@@ -88,7 +88,7 @@ Midia: MessageMediaPhoto -> photo_10170_005.jpg
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-20T23:50:03+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10169_006.jpg
@@ -96,7 +96,7 @@ Midia: MessageMediaPhoto -> photo_10169_006.jpg
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-20T23:49:23+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10168_007.jpg
@@ -104,7 +104,7 @@ Midia: MessageMediaPhoto -> photo_10168_007.jpg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-20T23:48:52+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10167_008.jpg
@@ -112,7 +112,7 @@ Midia: MessageMediaPhoto -> photo_10167_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-20T23:48:25+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10166_009.jpg
@@ -120,7 +120,7 @@ Midia: MessageMediaPhoto -> photo_10166_009.jpg
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-20T23:47:52+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10165_010.jpg
@@ -128,7 +128,7 @@ Midia: MessageMediaPhoto -> photo_10165_010.jpg
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-20T23:47:29+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10164_011.jpg
@@ -136,7 +136,7 @@ Midia: MessageMediaPhoto -> photo_10164_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-20T23:46:24+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 3891_workflow_3891.json
@@ -144,7 +144,7 @@ Midia: MessageMediaDocument -> 3891_workflow_3891.json
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-20T23:46:00+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10161_013.jpg
@@ -152,7 +152,7 @@ Midia: MessageMediaPhoto -> photo_10161_013.jpg
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-20T23:45:56+00:00
 Texto:
 nm51 - Biblioteca - Nodes Referencia
@@ -160,7 +160,7 @@ nm51 - Biblioteca - Nodes Referencia
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-20T23:45:56+00:00
 Texto:
 .
@@ -168,7 +168,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-20T23:45:56+00:00
 Texto:
 .
@@ -176,7 +176,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-20T23:45:55+00:00
 Texto:
 .
@@ -184,7 +184,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-20T23:45:55+00:00
 Texto:
 .
@@ -192,7 +192,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-20T23:45:55+00:00
 Texto:
 .
@@ -200,7 +200,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-20T23:45:55+00:00
 Texto:
 .
@@ -208,7 +208,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-20T23:45:54+00:00
 Texto:
 1
@@ -216,7 +216,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-20T23:45:49+00:00
 Texto: [Sem texto]
 

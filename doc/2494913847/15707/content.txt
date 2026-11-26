@@ -10,7 +10,7 @@ Midias baixadas: 6
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T04:37:52+00:00
 Texto:
 tendencia
@@ -33,7 +33,7 @@ tendencia
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T04:37:52+00:00
 Texto:
 ### **Hacks do sistema “Sua experiência convertida em conteúdo” (n8n)**
@@ -170,7 +170,7 @@ Mantenha nomes idênticos ao longo de todo o fluxo:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T04:36:34+00:00
 Texto:
 =================
@@ -178,7 +178,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T04:36:32+00:00
 Texto:
 **Passo a passo direto – Automaçêo “Sua experiência convertida em conteúdo” (n8n)**
@@ -249,7 +249,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T04:35:35+00:00
 Texto:
 ============
@@ -257,7 +257,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T04:35:32+00:00
 Texto:
 Resumo completo e estruturado:
@@ -398,7 +398,7 @@ Se o usuário pedir alterações:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T04:33:10+00:00
 Texto:
 ==============
@@ -406,7 +406,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T04:33:07+00:00
 Texto:
 e59. Sua experiência transformada em conteúdo
@@ -483,7 +483,7 @@ Blueprint: **Blog Único SEO**
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T04:32:26+00:00
 Texto:
 ================
@@ -491,7 +491,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T04:32:23+00:00
 Texto:
 Crie blogs 100% personalizados com IA e sua voz real!
@@ -531,7 +531,7 @@ E como sempre, deixo o passo a passo, os prompts, os scripts e as ideias pra esc
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T04:29:21+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15719_011.jpg
@@ -539,7 +539,7 @@ Midia: MessageMediaPhoto -> photo_15719_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T04:28:58+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Blog SEO personalizado (1).json
@@ -547,7 +547,7 @@ Midia: MessageMediaDocument -> Blog SEO personalizado (1).json
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T04:28:51+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15717_013.jpg
@@ -555,7 +555,7 @@ Midia: MessageMediaPhoto -> photo_15717_013.jpg
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T04:28:32+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15716_014.jpg
@@ -563,7 +563,7 @@ Midia: MessageMediaPhoto -> photo_15716_014.jpg
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T04:28:12+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15715_015.jpg
@@ -571,7 +571,7 @@ Midia: MessageMediaPhoto -> photo_15715_015.jpg
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T04:28:09+00:00
 Texto:
 e59 - Crie Blogs com Sua VOZ
@@ -579,7 +579,7 @@ e59 - Crie Blogs com Sua VOZ
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T04:27:53+00:00
 Texto:
 ..
@@ -587,7 +587,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T04:27:53+00:00
 Texto:
 .
@@ -595,7 +595,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T04:27:53+00:00
 Texto:
 .
@@ -603,7 +603,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T04:27:52+00:00
 Texto:
 .
@@ -611,7 +611,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T04:27:52+00:00
 Texto:
 https://chatgpt.com/c/690ec37a-a294-832d-8b2d-2e43bd13e242
@@ -620,7 +620,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T04:27:51+00:00
 Texto:
 1
@@ -628,7 +628,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T04:27:47+00:00
 Texto: [Sem texto]
 

@@ -10,7 +10,7 @@ Midias baixadas: 10
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T01:08:35+00:00
 Texto:
 https://www.youtube.com/watch?v=Oxx2XA7fGCc
@@ -21,7 +21,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T01:06:33+00:00
 Texto:
 vou ver se acho
@@ -37,7 +37,7 @@ Boa noite,, nêo tem algum vídeo explicando?
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T02:59:09+00:00
 Texto: [Sem texto]
 
@@ -52,7 +52,7 @@ Midia: MessageMediaDocument
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T03:38:43+00:00
 Texto:
 =============
@@ -60,7 +60,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T03:38:38+00:00
 Texto:
 **ideias de conteúdos, títulos e ganchos para vídeos**.   
@@ -112,7 +112,7 @@ Essas **dicas avançadas** mostram que **DeepSeek AI + n8n + Notion** podem faze
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T03:38:38+00:00
 Texto:
 Além dos hacks que já mencionei,  **outras ideias avançadas** que podem ser aproveitadas para otimizar seu fluxo de trabalho. Aqui estêo **mais insights e dicas que nêo foram citadas antes**: 
@@ -204,7 +204,7 @@ Se você tem uma reuniêo às 10h, a IA pode lembrar você de revisar os materia
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T03:34:56+00:00
 Texto:
 ===========
@@ -212,7 +212,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T03:34:48+00:00
 Texto:
 criar um **sistema de notificações** para acompanhar quando a IA termina de gerar um conteúdo. 
@@ -268,7 +268,7 @@ Esses hacks mostram **como usar o DeepSeek AI de forma estratégica**, combinand
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T03:34:48+00:00
 Texto:
 Vários **hacks** e estratégias para otimizar a automaçêo com **DeepSeek AI, n8n e Notion**. Aqui estêo os principais **hacks mencionados**: 
@@ -367,7 +367,7 @@ Vários **hacks** e estratégias para otimizar a automaçêo com **DeepSeek AI, 
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T03:32:18+00:00
 Texto:
 ==========
@@ -375,7 +375,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T03:32:09+00:00
 Texto:
 um gancho forte." 
@@ -393,7 +393,7 @@ Com essa automaçêo, você pode **economizar horas** na criaçêo de conteúdo 
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T03:32:09+00:00
 Texto:
 ### **Explicaçêo da Automaçêo com DeepSeek AI e Dicas Práticas para Implementaçêo** 
@@ -482,7 +482,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T03:31:49+00:00
 Texto:
 ==============
@@ -490,7 +490,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T03:25:12+00:00
 Texto:
 j69-  Como o DeepSeek AI automatiza meu trabalho 
@@ -525,7 +525,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T03:24:55+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> ___DeepSeek_R1 (1).json
@@ -533,7 +533,7 @@ Midia: MessageMediaDocument -> ___DeepSeek_R1 (1).json
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T03:24:55+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> deepseek intelligence.json
@@ -541,7 +541,7 @@ Midia: MessageMediaDocument -> deepseek intelligence.json
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T03:24:55+00:00
 Texto:
 j69
@@ -550,7 +550,7 @@ Midia: MessageMediaDocument -> AI Agent Prompting Template 🤖 (1).docx
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T03:24:17+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_1259_020.jpg
@@ -558,7 +558,7 @@ Midia: MessageMediaPhoto -> photo_1259_020.jpg
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T03:24:17+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_1258_021.jpg
@@ -566,7 +566,7 @@ Midia: MessageMediaPhoto -> photo_1258_021.jpg
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T03:20:10+00:00
 Texto:
 .
@@ -574,7 +574,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T03:20:09+00:00
 Texto:
 j69n Como o DeepSeek AI automatiza meu trabalho
@@ -582,7 +582,7 @@ j69n Como o DeepSeek AI automatiza meu trabalho
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T03:20:09+00:00
 Texto:
 ..
@@ -590,7 +590,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T03:20:09+00:00
 Texto:
 .
@@ -598,7 +598,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T03:20:09+00:00
 Texto:
 .
@@ -606,7 +606,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T03:20:09+00:00
 Texto:
 .
@@ -614,7 +614,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T03:20:08+00:00
 Texto:
 https://chatgpt.com/c/67a429da-200c-8009-833f-c99790c8a753
@@ -623,7 +623,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T03:20:07+00:00
 Texto:
 1
@@ -631,7 +631,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T03:19:55+00:00
 Texto: [Sem texto]
 

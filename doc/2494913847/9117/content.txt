@@ -10,7 +10,7 @@ Midias baixadas: 4
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T23:51:37+00:00
 Texto:
 dublado
@@ -18,7 +18,7 @@ dublado
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T23:51:32+00:00
 Texto:
 https://www.youtube.com/watch?v=ar37oypyATQ
@@ -27,7 +27,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T23:51:11+00:00
 Texto:
 Como criar um agente de automaçêo para navegador usando **n8n** e **Airtop**, sem escrever nenhuma linha de código. Esse agente simula ações humanas como digitar, clicar, navegar e extrair informações de sites em tempo real.
@@ -109,7 +109,7 @@ O vídeo mostra como qualquer pessoa pode criar um agente de automaçêo que sim
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T23:49:21+00:00
 Texto:
 OAgente de Navegador Definitivo Sem Código (n8n + Airtop)
@@ -127,7 +127,7 @@ Você vai aprender:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T23:46:56+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Ultimate_Browser_Agent.json
@@ -135,7 +135,7 @@ Midia: MessageMediaDocument -> Ultimate_Browser_Agent.json
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T23:46:49+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9125_006.jpg
@@ -143,7 +143,7 @@ Midia: MessageMediaPhoto -> photo_9125_006.jpg
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T23:46:45+00:00
 Texto:
 ap33- Agente AirTop Operador
@@ -151,7 +151,7 @@ ap33- Agente AirTop Operador
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T23:46:44+00:00
 Texto:
 .
@@ -159,7 +159,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T23:46:38+00:00
 Texto:
 .
@@ -167,7 +167,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T23:46:38+00:00
 Texto:
 .
@@ -175,7 +175,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T23:46:38+00:00
 Texto:
 .
@@ -183,7 +183,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T23:46:38+00:00
 Texto:
 https://chatgpt.com/c/68461fe5-e69c-8009-aeba-58c9739e9314
@@ -192,7 +192,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T23:46:36+00:00
 Texto:
 1
@@ -200,7 +200,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T23:46:31+00:00
 Texto: [Sem texto]
 

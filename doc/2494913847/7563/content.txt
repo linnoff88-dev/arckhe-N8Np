@@ -26,7 +26,7 @@ Estava procurando isso 🙏🏼
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T03:48:51+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7584_003.jpg
@@ -34,7 +34,7 @@ Midia: MessageMediaPhoto -> photo_7584_003.jpg
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T03:48:19+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7583_004.jpg
@@ -42,7 +42,7 @@ Midia: MessageMediaPhoto -> photo_7583_004.jpg
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T02:11:00+00:00
 Texto:
 https://www.youtube.com/watch?v=jkEEVYFzT1U
@@ -51,7 +51,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T02:10:29+00:00
 Texto:
 **Resumo do vídeo: "This AI System Creates & Posts Faceless Shorts 24/7 (free n8n template)"**
@@ -70,7 +70,7 @@ O vídeo mostra como criar um sistema automatizado que gera, renderiza e publica
    Um agente de IA cria 8 "cenas de batalha" com base no personagem principal (ex: gorila) e oponente (ex: leões, tigres, etc.).
 
 4. **Geraçêo das imagens close-up**:
-   Para cada luta, sêo geradas imagens cinematográficas dos dois oponentes usando o modelo **Flux** via **PI API**. Sêo 16 imagens no total.
+   Para cada luta, sêo geradas imagens cARCKHÉtográficas dos dois oponentes usando o modelo **Flux** via **PI API**. Sêo 16 imagens no total.
 
 5. **Geraçêo das imagens dos vencedores**:
    Outro prompt decide o vencedor de cada batalha e gera imagens com o resultado final, totalizando mais 8 imagens.
@@ -103,7 +103,7 @@ O vídeo mostra como criar um sistema automatizado que gera, renderiza e publica
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T02:09:49+00:00
 Texto:
 ==========
@@ -111,7 +111,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T02:09:45+00:00
 Texto:
 Resumo do Conteúdo:
@@ -133,7 +133,7 @@ Este tutorial é ideal para quem busca automatizar a produçêo de conteúdo dig
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T02:08:49+00:00
 Texto:
 =======
@@ -141,7 +141,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T02:08:41+00:00
 Texto:
 Este Sistema de IA Cria e Publica Shorts Sem Rosto 24/7
@@ -156,7 +156,7 @@ Você mesmo pode configurar isso de forma totalmente gratuita baixando os recurs
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T02:06:58+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Viral Shorts Creatomate Code.pdf
@@ -164,7 +164,7 @@ Midia: MessageMediaDocument -> Viral Shorts Creatomate Code.pdf
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T02:06:58+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> AI Versus Shorts Cost Breakdown.pdf
@@ -172,7 +172,7 @@ Midia: MessageMediaDocument -> AI Versus Shorts Cost Breakdown.pdf
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T02:06:58+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Viral Shorts (file -_ make a copy).xlsx
@@ -180,7 +180,7 @@ Midia: MessageMediaDocument -> Viral Shorts (file -_ make a copy).xlsx
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T02:06:46+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> AI_Versus.json
@@ -188,7 +188,7 @@ Midia: MessageMediaDocument -> AI_Versus.json
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T02:06:38+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7572_015.jpg
@@ -196,7 +196,7 @@ Midia: MessageMediaPhoto -> photo_7572_015.jpg
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T02:02:32+00:00
 Texto:
 ap23 - **Posts Faceless Shorts 24/7**
@@ -204,7 +204,7 @@ ap23 - **Posts Faceless Shorts 24/7**
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T02:02:31+00:00
 Texto:
 ..
@@ -212,7 +212,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T02:02:31+00:00
 Texto:
 .
@@ -220,7 +220,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T02:02:31+00:00
 Texto:
 .
@@ -228,7 +228,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T02:02:31+00:00
 Texto:
 .
@@ -236,7 +236,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T02:02:30+00:00
 Texto:
 .
@@ -244,7 +244,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T02:02:30+00:00
 Texto:
 https://chatgpt.com/c/6822a860-77b0-8009-a191-e29812a0ba5b
@@ -253,7 +253,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T02:02:29+00:00
 Texto:
 1
@@ -261,7 +261,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T02:02:21+00:00
 Texto: [Sem texto]
 

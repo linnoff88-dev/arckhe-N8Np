@@ -115,7 +115,7 @@ Gente, boa tarde! Alguma automaçêo para o Pinterest?
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T15:32:19+00:00
 Texto:
 Lá em cima
@@ -131,7 +131,7 @@ KD O TEMPLATE
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:43:57+00:00
 Texto:
 https://www.youtube.com/watch?v=pstPjvlTJy0
@@ -140,7 +140,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:42:39+00:00
 Texto:
 🎥 Desta vez, trazemos uma verdadeira joia da automaçêo criada pelo especialista em n8n. Se você já se perguntou como levar suas automações para o próximo nível, esta aula é para você!  
@@ -159,7 +159,7 @@ Porque entender o funcionamento de agentes e multiagentes no n8n nêo apenas exp
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:41:11+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_2812_018.jpg
@@ -167,7 +167,7 @@ Midia: MessageMediaPhoto -> photo_2812_018.jpg
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:41:11+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_2811_019.jpg
@@ -175,7 +175,7 @@ Midia: MessageMediaPhoto -> photo_2811_019.jpg
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:41:11+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_2810_020.jpg
@@ -183,7 +183,7 @@ Midia: MessageMediaPhoto -> photo_2810_020.jpg
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:41:11+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_2809_021.jpg
@@ -191,7 +191,7 @@ Midia: MessageMediaPhoto -> photo_2809_021.jpg
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:41:11+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_2808_022.jpg
@@ -199,7 +199,7 @@ Midia: MessageMediaPhoto -> photo_2808_022.jpg
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:41:11+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_2807_023.jpg
@@ -207,7 +207,7 @@ Midia: MessageMediaPhoto -> photo_2807_023.jpg
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:41:11+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_2806_024.jpg
@@ -215,21 +215,21 @@ Midia: MessageMediaPhoto -> photo_2806_024.jpg
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:26:23+00:00
 Texto: [Sem texto]
 
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:22:50+00:00
 Texto: [Sem texto]
 
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:21:56+00:00
 Texto:
 ============
@@ -237,7 +237,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-18T02:51:31+00:00
 Texto:
 ###  n8n "De Zero a Hero": Implementaçêo de Agentes e Multiagentes   
@@ -340,7 +340,7 @@ Apresenta  sobre **agentes e multiagentes no n8n**. Este conteúdo cobre desde d
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-18T02:47:16+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Agente_IA.json
@@ -348,7 +348,7 @@ Midia: MessageMediaDocument -> Agente_IA.json
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-18T02:47:16+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Agente_Post_Blog.json
@@ -356,7 +356,7 @@ Midia: MessageMediaDocument -> Agente_Post_Blog.json
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-18T02:47:16+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Agente_Post_Linkedin.json
@@ -364,7 +364,7 @@ Midia: MessageMediaDocument -> Agente_Post_Linkedin.json
 ------------------------------
 
 MENSAGEM 32
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-18T02:47:16+00:00
 Texto:
 e5 Carlos
@@ -373,7 +373,7 @@ Midia: MessageMediaDocument -> Agente_Post_X.json
 ------------------------------
 
 MENSAGEM 33
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-18T02:47:16+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Agente_Transcripcion_YouTube.json
@@ -381,7 +381,7 @@ Midia: MessageMediaDocument -> Agente_Transcripcion_YouTube.json
 ------------------------------
 
 MENSAGEM 34
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-18T02:47:16+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> MultiAgentes.json
@@ -389,7 +389,7 @@ Midia: MessageMediaDocument -> MultiAgentes.json
 ------------------------------
 
 MENSAGEM 35
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-18T02:47:16+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> MultiAgentes_v2.json
@@ -397,7 +397,7 @@ Midia: MessageMediaDocument -> MultiAgentes_v2.json
 ------------------------------
 
 MENSAGEM 36
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-18T02:43:52+00:00
 Texto:
 eu nao testei, mas compartilho aqui e bom proveito, estou focando este mes em make para ajudar a galera subir de nivel
@@ -405,7 +405,7 @@ eu nao testei, mas compartilho aqui e bom proveito, estou focando este mes em ma
 ------------------------------
 
 MENSAGEM 37
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-18T02:43:19+00:00
 Texto:
 ### Implementaçêo de Agentes e Multiagentes no n8n    
@@ -503,7 +503,7 @@ Esta aula fornece as bases necessárias para implementar soluções avançadas d
 ------------------------------
 
 MENSAGEM 38
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-18T02:42:25+00:00
 Texto:
 0
@@ -511,7 +511,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 39
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-18T02:42:24+00:00
 Texto:
 9
@@ -519,7 +519,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 40
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-18T02:42:24+00:00
 Texto:
 8
@@ -527,7 +527,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 41
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-18T02:42:23+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_331_041.jpg
@@ -535,7 +535,7 @@ Midia: MessageMediaPhoto -> photo_331_041.jpg
 ------------------------------
 
 MENSAGEM 42
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-18T02:42:22+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_330_042.jpg
@@ -543,7 +543,7 @@ Midia: MessageMediaPhoto -> photo_330_042.jpg
 ------------------------------
 
 MENSAGEM 43
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-18T02:42:22+00:00
 Texto:
 4
@@ -551,7 +551,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 44
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-18T02:42:21+00:00
 Texto:
 ec5n8 - Multi Agentes N8N
@@ -559,7 +559,7 @@ ec5n8 - Multi Agentes N8N
 ------------------------------
 
 MENSAGEM 45
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-18T02:42:21+00:00
 Texto:
 2
@@ -567,7 +567,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 46
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-18T02:42:20+00:00
 Texto:
 https://chatgpt.com/c/678b11ff-7de8-8009-9306-ebe55639186c
@@ -576,7 +576,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 47
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-18T02:42:13+00:00
 Texto: [Sem texto]
 

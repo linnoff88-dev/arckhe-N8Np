@@ -115,7 +115,7 @@
           "summarizationMethodAndPrompts": {
             "values": {
               "prompt": "=Write a concise summary of the following sales inquiry:\n\" {{ $json.text }}\"\nInclude structured information such as project budget, timelines, industry and a general summary\n\nCONCISE SUMMARY: \n",
-              "combineMapPrompt": "=Write a concise summary of the following sales inquiry:\n\"{{ $json.text }}\"\nExtract information such as project budget, timelines and a general summary.\n\nCONCISE SUMMARY: \n"
+              "combARCKHÉpPrompt": "=Write a concise summary of the following sales inquiry:\n\"{{ $json.text }}\"\nExtract information such as project budget, timelines and a general summary.\n\nCONCISE SUMMARY: \n"
             }
           }
         }

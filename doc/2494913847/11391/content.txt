@@ -10,7 +10,7 @@ Midias baixadas: 6
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-14T23:53:15+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11406_001.jpg
@@ -18,7 +18,7 @@ Midia: MessageMediaPhoto -> photo_11406_001.jpg
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-14T23:52:33+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11405_002.jpg
@@ -26,7 +26,7 @@ Midia: MessageMediaPhoto -> photo_11405_002.jpg
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-14T23:51:19+00:00
 Texto:
 O vídeo explica como levar agentes de IA para o próximo nível com **memória de longo prazo usando Zep** e **n8n**. Aqui está o resumo:
@@ -64,7 +64,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-14T23:49:45+00:00
 Texto:
 O vídeo ensina como usar o **Zep** com o **n8n** para dar aos agentes de IA uma memória de longo prazo real, armazenada em um **grafo relacional**. Isso permite que os agentes entendam entidades, relacionamentos e conexões entre usuários, ficando mais inteligentes e contextuais.
@@ -74,7 +74,7 @@ Ele alerta que usar Zep sem planejamento pode gerar custos altos ao escalar. Por
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-14T23:48:51+00:00
 Texto:
 Desbloqueie a Próxima Evoluçêo dos Agentes com Memória Humana (n8n + Zep)
@@ -89,7 +89,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-14T23:44:19+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> ZEP Memory.json
@@ -97,7 +97,7 @@ Midia: MessageMediaDocument -> ZEP Memory.json
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-14T23:44:06+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11399_007.jpg
@@ -105,7 +105,7 @@ Midia: MessageMediaPhoto -> photo_11399_007.jpg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-14T23:43:01+00:00
 Texto:
 ap44 - Memoria 2.0
@@ -113,7 +113,7 @@ ap44 - Memoria 2.0
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-14T23:42:45+00:00
 Texto:
 ...
@@ -121,7 +121,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-14T23:42:45+00:00
 Texto:
 ..
@@ -129,7 +129,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-14T23:42:45+00:00
 Texto:
 .
@@ -137,7 +137,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-14T23:42:44+00:00
 Texto:
 ..
@@ -145,7 +145,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-14T23:42:44+00:00
 Texto:
 .
@@ -153,7 +153,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-14T23:42:43+00:00
 Texto:
 1
@@ -161,7 +161,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-14T23:42:40+00:00
 Texto: [Sem texto]
 

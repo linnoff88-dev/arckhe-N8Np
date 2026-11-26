@@ -10,7 +10,7 @@ Midias baixadas: 28
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:43:45+00:00
 Texto:
 .**Resumo do vídeo “Dê-me 15 minutos e eu lhe darei toda a minha estratégia de agente de IA” – YouTube**
@@ -66,7 +66,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:42:38+00:00
 Texto:
 .
@@ -74,7 +74,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:42:38+00:00
 Texto:
 .
@@ -82,7 +82,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:42:38+00:00
 Texto:
 .
@@ -90,7 +90,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:42:37+00:00
 Texto:
 .
@@ -98,7 +98,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:40:57+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7214_006.jpg
@@ -106,7 +106,7 @@ Midia: MessageMediaPhoto -> photo_7214_006.jpg
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:40:53+00:00
 Texto:
 resumo
@@ -114,7 +114,7 @@ resumo
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:39:46+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7212_008.jpg
@@ -122,7 +122,7 @@ Midia: MessageMediaPhoto -> photo_7212_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:38:49+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7211_009.jpg
@@ -130,7 +130,7 @@ Midia: MessageMediaPhoto -> photo_7211_009.jpg
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:38:20+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7210_010.jpg
@@ -138,7 +138,7 @@ Midia: MessageMediaPhoto -> photo_7210_010.jpg
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:37:41+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7209_011.jpg
@@ -146,7 +146,7 @@ Midia: MessageMediaPhoto -> photo_7209_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:35:52+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7208_012.jpg
@@ -154,7 +154,7 @@ Midia: MessageMediaPhoto -> photo_7208_012.jpg
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:35:48+00:00
 Texto:
 5
@@ -162,7 +162,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:35:34+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7206_014.jpg
@@ -170,7 +170,7 @@ Midia: MessageMediaPhoto -> photo_7206_014.jpg
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:35:15+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7205_015.jpg
@@ -178,7 +178,7 @@ Midia: MessageMediaPhoto -> photo_7205_015.jpg
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:34:51+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7204_016.jpg
@@ -186,7 +186,7 @@ Midia: MessageMediaPhoto -> photo_7204_016.jpg
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:34:38+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7203_017.jpg
@@ -194,7 +194,7 @@ Midia: MessageMediaPhoto -> photo_7203_017.jpg
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:34:13+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7202_018.jpg
@@ -202,7 +202,7 @@ Midia: MessageMediaPhoto -> photo_7202_018.jpg
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:34:08+00:00
 Texto:
 4
@@ -210,7 +210,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:32:09+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7199_020.jpg
@@ -218,7 +218,7 @@ Midia: MessageMediaPhoto -> photo_7199_020.jpg
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:31:05+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7198_021.jpg
@@ -226,7 +226,7 @@ Midia: MessageMediaPhoto -> photo_7198_021.jpg
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:30:22+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7197_022.jpg
@@ -234,7 +234,7 @@ Midia: MessageMediaPhoto -> photo_7197_022.jpg
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:29:51+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7196_023.jpg
@@ -242,7 +242,7 @@ Midia: MessageMediaPhoto -> photo_7196_023.jpg
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:29:47+00:00
 Texto:
 3
@@ -250,7 +250,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:29:03+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7194_025.jpg
@@ -258,7 +258,7 @@ Midia: MessageMediaPhoto -> photo_7194_025.jpg
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:28:32+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7193_026.jpg
@@ -266,7 +266,7 @@ Midia: MessageMediaPhoto -> photo_7193_026.jpg
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:28:03+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7192_027.jpg
@@ -274,7 +274,7 @@ Midia: MessageMediaPhoto -> photo_7192_027.jpg
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:28:00+00:00
 Texto:
 2
@@ -282,7 +282,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:27:47+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7190_029.jpg
@@ -290,7 +290,7 @@ Midia: MessageMediaPhoto -> photo_7190_029.jpg
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:27:32+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7189_030.jpg
@@ -298,7 +298,7 @@ Midia: MessageMediaPhoto -> photo_7189_030.jpg
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:27:06+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7188_031.jpg
@@ -306,7 +306,7 @@ Midia: MessageMediaPhoto -> photo_7188_031.jpg
 ------------------------------
 
 MENSAGEM 32
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:26:27+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7187_032.jpg
@@ -314,7 +314,7 @@ Midia: MessageMediaPhoto -> photo_7187_032.jpg
 ------------------------------
 
 MENSAGEM 33
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:25:11+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7186_033.jpg
@@ -322,7 +322,7 @@ Midia: MessageMediaPhoto -> photo_7186_033.jpg
 ------------------------------
 
 MENSAGEM 34
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:24:27+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7185_034.jpg
@@ -330,7 +330,7 @@ Midia: MessageMediaPhoto -> photo_7185_034.jpg
 ------------------------------
 
 MENSAGEM 35
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:23:24+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7184_035.jpg
@@ -338,7 +338,7 @@ Midia: MessageMediaPhoto -> photo_7184_035.jpg
 ------------------------------
 
 MENSAGEM 36
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:22:30+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7183_036.jpg
@@ -346,7 +346,7 @@ Midia: MessageMediaPhoto -> photo_7183_036.jpg
 ------------------------------
 
 MENSAGEM 37
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:21:57+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7182_037.jpg
@@ -354,7 +354,7 @@ Midia: MessageMediaPhoto -> photo_7182_037.jpg
 ------------------------------
 
 MENSAGEM 38
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:20:09+00:00
 Texto:
 ap20 - Agente em 15 Minutos
@@ -362,7 +362,7 @@ ap20 - Agente em 15 Minutos
 ------------------------------
 
 MENSAGEM 39
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:20:06+00:00
 Texto:
 ..
@@ -370,7 +370,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 40
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:20:06+00:00
 Texto:
 .
@@ -378,7 +378,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 41
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:20:06+00:00
 Texto:
 .
@@ -386,7 +386,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 42
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:20:06+00:00
 Texto:
 .
@@ -394,7 +394,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 43
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:20:05+00:00
 Texto:
 .
@@ -402,7 +402,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 44
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:20:05+00:00
 Texto:
 1
@@ -410,7 +410,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 45
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-05T19:20:00+00:00
 Texto: [Sem texto]
 

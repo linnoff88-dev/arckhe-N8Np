@@ -10,7 +10,7 @@ Midias baixadas: 10
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-06T17:52:12+00:00
 Texto:
 Resumo prático e completo do vídeo
@@ -98,7 +98,7 @@ Em essência, Jack ensina a montar **um ecossistema de mídia social autônomo**
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-06T17:51:22+00:00
 Texto:
 resj
@@ -106,7 +106,7 @@ resj
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-06T17:50:48+00:00
 Texto:
 https://www.youtube.com/watch?v=wo3wYm2lBjo
@@ -115,7 +115,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-06T17:50:11+00:00
 Texto:
 =====================
@@ -123,7 +123,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-06T17:50:08+00:00
 Texto:
 Este NOVO Sistema de IA Vai Explodir Suas Redes (INSANO)
@@ -150,7 +150,7 @@ Geraçêo 2 — para você postar diretamente no Instagram, LinkedIn, X etc. (em
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-06T17:48:31+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 💸 Lead Engine Blueprint.pdf
@@ -158,7 +158,7 @@ Midia: MessageMediaDocument -> 💸 Lead Engine Blueprint.pdf
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-06T17:48:18+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 🔥 Automation 1.json
@@ -166,7 +166,7 @@ Midia: MessageMediaDocument -> 🔥 Automation 1.json
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-06T17:48:18+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 🔮 Automation 2.json
@@ -174,7 +174,7 @@ Midia: MessageMediaDocument -> 🔮 Automation 2.json
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-06T17:48:18+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> cobuild part 4.json
@@ -182,7 +182,7 @@ Midia: MessageMediaDocument -> cobuild part 4.json
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-06T17:48:09+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14838_010.jpg
@@ -190,7 +190,7 @@ Midia: MessageMediaPhoto -> photo_14838_010.jpg
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-06T17:47:14+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14837_011.jpg
@@ -198,7 +198,7 @@ Midia: MessageMediaPhoto -> photo_14837_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-06T17:45:32+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14836_012.jpg
@@ -206,7 +206,7 @@ Midia: MessageMediaPhoto -> photo_14836_012.jpg
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-06T17:45:14+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14835_013.jpg
@@ -214,7 +214,7 @@ Midia: MessageMediaPhoto -> photo_14835_013.jpg
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-06T17:42:26+00:00
 Texto:
 **j107- Social Media OS**
@@ -222,7 +222,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-06T17:42:25+00:00
 Texto:
 ..
@@ -230,7 +230,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-06T17:42:24+00:00
 Texto:
 .
@@ -238,7 +238,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-06T17:42:24+00:00
 Texto:
 .
@@ -246,7 +246,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-06T17:42:24+00:00
 Texto:
 .
@@ -254,7 +254,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-06T17:42:23+00:00
 Texto:
 .
@@ -262,7 +262,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-06T17:42:23+00:00
 Texto:
 https://chatgpt.com/c/68e3ff43-200c-832a-8305-85e4d1c321a9
@@ -271,7 +271,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-06T17:42:19+00:00
 Texto:
 1
@@ -279,7 +279,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-06T17:42:15+00:00
 Texto: [Sem texto]
 

@@ -10,7 +10,7 @@ Midias baixadas: 5
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:49:47+00:00
 Texto:
 https://www.youtube.com/watch?v=NRBixX2F7pw
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T02:56:04+00:00
 Texto:
 **Credentials**
@@ -131,7 +131,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T02:56:02+00:00
 Texto:
 ..
@@ -139,7 +139,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T02:56:00+00:00
 Texto:
 .
@@ -147,7 +147,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T02:55:59+00:00
 Texto:
 .
@@ -155,7 +155,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T02:55:59+00:00
 Texto:
 .
@@ -163,7 +163,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T02:55:51+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 17_1.json
@@ -171,7 +171,7 @@ Midia: MessageMediaDocument -> 17_1.json
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T02:54:51+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_5524_008.jpg
@@ -179,7 +179,7 @@ Midia: MessageMediaPhoto -> photo_5524_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T02:49:28+00:00
 Texto:
 **al8 - Sistema de vídeo AI multilíngue sem rosto**
@@ -187,7 +187,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T02:49:26+00:00
 Texto:
 .
@@ -195,7 +195,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T02:49:25+00:00
 Texto:
 ..
@@ -203,7 +203,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T02:49:25+00:00
 Texto:
 .
@@ -211,7 +211,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T02:49:25+00:00
 Texto:
 ..
@@ -219,7 +219,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T02:49:25+00:00
 Texto:
 .
@@ -227,7 +227,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T02:49:24+00:00
 Texto:
 .
@@ -235,7 +235,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T02:49:24+00:00
 Texto:
 https://chatgpt.com/c/67f9e2f9-4338-8009-9e24-066b45cd00f0
@@ -244,7 +244,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T02:49:23+00:00
 Texto:
 1
@@ -252,7 +252,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T02:49:10+00:00
 Texto: [Sem texto]
 

@@ -10,7 +10,7 @@ Midias baixadas: 3
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-22T01:31:23+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> AI_Agent_Workflow (2).json
@@ -18,7 +18,7 @@ Midia: MessageMediaDocument -> AI_Agent_Workflow (2).json
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-22T01:31:23+00:00
 Texto:
 nao validei
@@ -27,7 +27,7 @@ Midia: MessageMediaDocument -> ___DeepSeek_r1_Agent.json
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-22T01:30:13+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_539_003.jpg
@@ -35,7 +35,7 @@ Midia: MessageMediaPhoto -> photo_539_003.jpg
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-22T01:30:06+00:00
 Texto:
 6
@@ -43,7 +43,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-22T01:30:05+00:00
 Texto:
 5
@@ -51,7 +51,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-22T01:30:03+00:00
 Texto:
 4
@@ -59,7 +59,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-22T01:30:01+00:00
 Texto:
 3
@@ -67,7 +67,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-22T01:30:00+00:00
 Texto:
 2
@@ -75,7 +75,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-22T01:29:58+00:00
 Texto:
 1
@@ -83,7 +83,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-22T01:29:44+00:00
 Texto: [Sem texto]
 

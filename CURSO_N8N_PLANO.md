@@ -12,8 +12,8 @@
 | Item | Valor |
 |------|-------|
 | **Local** | `/home/nmaldaner/projetos/N8Np` |
-| **GitHub** | https://github.com/inematds/N8Np |
-| **GitHub Pages** | https://inematds.github.io/N8Np/ |
+| **GitHub** | https://github.com/linnoff88-dev/N8Np |
+| **GitHub Pages** | https://linnoff88-dev.github.io/arckhe-/ |
 | **Telegram VIP** | https://t.me/c/2494913847/ |
 
 ### Repositorios Externos (Clonados em doc/)
@@ -490,7 +490,7 @@ find doc/zengfr -name "*.json" | wc -l
 ```
 
 ### Via Interface Web
-- Acesse: https://inematds.github.io/N8Np/
+- Acesse: https://linnoff88-dev.github.io/arckhe-/
 - Use os filtros de fonte e categoria
 - Baixe workflows individuais
 

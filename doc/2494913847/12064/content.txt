@@ -10,7 +10,7 @@ Midias baixadas: 6
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-30T21:11:58+00:00
 Texto:
 ### ⚙️ **HACKS PARA OTIMIZAÇêO DO SISTEMA**
@@ -103,7 +103,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-30T21:09:35+00:00
 Texto:
 ==============
@@ -111,7 +111,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-30T21:09:14+00:00
 Texto:
 ### 11. **Exemplo final de nota registrada no CRM**
@@ -136,7 +136,7 @@ Cliente mostrou interesse mas nêo demonstrou urgência. A objeçêo orçamentá
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-30T21:09:14+00:00
 Texto:
 ### 🚀 **Passo a Passo da Automaçêo Inteligente de Avaliaçêo de Chamadas**
@@ -299,7 +299,7 @@ Resultado final:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-30T21:08:44+00:00
 Texto:
 ================
@@ -307,7 +307,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-30T21:08:40+00:00
 Texto:
 **Resumo completo: Auditoria de Chamadas com GHL + N8N**
@@ -449,7 +449,7 @@ Esse sistema oferece **valor extremo**, reduz trabalho manual, melhora decisões
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-30T21:07:30+00:00
 Texto:
 ===============
@@ -457,7 +457,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-30T21:07:02+00:00
 Texto:
 **🧩 Casos de uso reais:
@@ -486,7 +486,7 @@ Na próxima será incorporado um **prompt especializado para closers**, com crit
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-30T21:07:02+00:00
 Texto:
 **e34. Auditoria de vendas com GHL + N8N**
@@ -612,7 +612,7 @@ O modelo extrai dados como:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-30T21:04:21+00:00
 Texto:
 =====================
@@ -620,7 +620,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-30T21:04:18+00:00
 Texto:
 **Sistema inteligente para avaliar chamadas 🔥**
@@ -702,7 +702,7 @@ A ideia é clara:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-30T21:02:45+00:00
 Texto:
 .
@@ -710,7 +710,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-30T21:02:42+00:00
 Texto:
 ===========
@@ -718,7 +718,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-30T20:58:50+00:00
 Texto:
 [CloudConvert Job Builder](https://cloudconvert.com/api/v2/jobs/builder)
@@ -727,7 +727,7 @@ https://cloudconvert.com/api/v2/jobs/builder
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-30T20:58:21+00:00
 Texto:
 [Developers GHL](https://developers.gohighlevel.com/)
@@ -736,7 +736,7 @@ https://developers.gohighlevel.com/
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-30T20:57:52+00:00
 Texto:
 [API GoHighLevel](https://highlevel.stoplight.io/docs/integrations/0443d7d1a4bd0-standard-response-fields)
@@ -745,7 +745,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-30T20:56:53+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> HairSolution Llamadas (1).json
@@ -753,7 +753,7 @@ Midia: MessageMediaDocument -> HairSolution Llamadas (1).json
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-30T20:56:53+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> SolutechIA Llamadas.json
@@ -761,7 +761,7 @@ Midia: MessageMediaDocument -> SolutechIA Llamadas.json
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-30T20:56:42+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12073_019.jpg
@@ -769,7 +769,7 @@ Midia: MessageMediaPhoto -> photo_12073_019.jpg
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-30T20:55:20+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12072_020.jpg
@@ -777,7 +777,7 @@ Midia: MessageMediaPhoto -> photo_12072_020.jpg
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-30T20:48:13+00:00
 Texto:
 e34- Auditoria de Vendas
@@ -785,7 +785,7 @@ e34- Auditoria de Vendas
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-30T20:48:11+00:00
 Texto:
 ..
@@ -793,7 +793,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-30T20:48:10+00:00
 Texto:
 .
@@ -801,7 +801,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-30T20:48:10+00:00
 Texto:
 .
@@ -809,7 +809,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-30T20:48:10+00:00
 Texto:
 .
@@ -817,7 +817,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-30T20:48:10+00:00
 Texto:
 https://chatgpt.com/c/688a8472-adfc-832c-b089-3677816638ad
@@ -826,7 +826,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-30T20:48:09+00:00
 Texto:
 1
@@ -834,7 +834,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-30T20:48:01+00:00
 Texto: [Sem texto]
 

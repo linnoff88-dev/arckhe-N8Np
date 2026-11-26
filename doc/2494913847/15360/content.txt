@@ -10,7 +10,7 @@ Midias baixadas: 9
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T20:59:34+00:00
 Texto:
 [This n8n Sales Automation Won $5,000 in Jus
@@ -20,7 +20,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T20:57:52+00:00
 Texto:
 automaçêo em uma **soluçêo que remove dor**, nêo em uma ferramenta técnica.
@@ -75,7 +75,7 @@ Os hacks mostram três lições fundamentais:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T20:57:52+00:00
 Texto:
 ## HACKS DE AUTOMAÇêO (ESTRUTURA E PERFORMANCE)
@@ -206,7 +206,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T20:56:42+00:00
 Texto:
 automaçêo.
@@ -271,7 +271,7 @@ automaçêo.
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T20:56:42+00:00
 Texto:
 Aqui está o **passo a passo completo e detalhado** de **como foi construída e como funciona a automaçêo de vendas com n8n** que venceu o hackathon — desde o propósito até a execuçêo prática.
@@ -402,7 +402,7 @@ Após a confirmaçêo do agendamento:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T20:54:04+00:00
 Texto:
 =================
@@ -410,7 +410,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T20:54:00+00:00
 Texto:
 JavaScript simples, gerados com ajuda do ChatGPT   |
@@ -452,7 +452,7 @@ A automaçêo de Brett mostra uma tendência clara:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T20:54:00+00:00
 Texto:
 Aqui está uma **abordagem completa** do projeto vencedor do hackathon, detalhando **a automaçêo, o propósito estratégico e o processo de construçêo** — organizada em três blocos principais.
@@ -560,7 +560,7 @@ Se o cliente responde fora do horário:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T20:53:48+00:00
 Texto:
 ==================
@@ -568,7 +568,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T20:51:58+00:00
 Texto:
 com link de agendamento → CRM atualizado.
@@ -578,7 +578,7 @@ com link de agendamento → CRM atualizado.
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T20:51:58+00:00
 Texto:
 Resumo completo do vídeo “This n8n Sales Automation Won $5,000 in Just 14 days”
@@ -699,7 +699,7 @@ Embora **nêo seja programador**, Brett é **copywriter e especialista em market
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T20:48:06+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> [CONTEST-TEMPLATE] Bob Finds Leads (1).json
@@ -707,7 +707,7 @@ Midia: MessageMediaDocument -> [CONTEST-TEMPLATE] Bob Finds Leads (1).json
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T20:48:06+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Copy of [CONTEST-TEMPLATE] Bob Finds Leads - Database.xlsx
@@ -715,7 +715,7 @@ Midia: MessageMediaDocument -> Copy of [CONTEST-TEMPLATE] Bob Finds Leads - Data
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T20:47:40+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15372_014.jpg
@@ -723,7 +723,7 @@ Midia: MessageMediaPhoto -> photo_15372_014.jpg
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T20:47:28+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15371_015.jpg
@@ -731,7 +731,7 @@ Midia: MessageMediaPhoto -> photo_15371_015.jpg
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T20:47:14+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15370_016.jpg
@@ -739,7 +739,7 @@ Midia: MessageMediaPhoto -> photo_15370_016.jpg
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T20:46:58+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15369_017.jpg
@@ -747,7 +747,7 @@ Midia: MessageMediaPhoto -> photo_15369_017.jpg
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T20:46:30+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15368_018.jpg
@@ -755,7 +755,7 @@ Midia: MessageMediaPhoto -> photo_15368_018.jpg
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T20:45:47+00:00
 Texto:
 .ap68 - 5k - Sistema de Vendas
@@ -763,7 +763,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T20:45:45+00:00
 Texto:
 .
@@ -771,7 +771,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T20:45:45+00:00
 Texto:
 .
@@ -779,7 +779,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T20:45:45+00:00
 Texto:
 .
@@ -787,7 +787,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T20:45:45+00:00
 Texto:
 .
@@ -795,7 +795,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T20:45:45+00:00
 Texto:
 https://chatgpt.com/c/6907c41a-7620-8331-9438-cd78746b6746
@@ -804,7 +804,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T20:45:44+00:00
 Texto:
 1
@@ -812,7 +812,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T20:45:37+00:00
 Texto: [Sem texto]
 

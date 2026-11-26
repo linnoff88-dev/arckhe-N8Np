@@ -1,7 +1,7 @@
 [
   {
     "id": 4387,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-31T04:34:28+00:00",
     "text": "o q acontece q em geral apra realismo o flux é o melhor e ai gente usa no replicate ele. ja o luma ta mais caro do q usar o kling",
     "has_media": false,
@@ -9,7 +9,7 @@
   },
   {
     "id": 4386,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-31T04:33:50+00:00",
     "text": "usa o ap5 q ta melhor",
     "has_media": false,
@@ -33,7 +33,7 @@
   },
   {
     "id": 3435,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-17T23:02:55+00:00",
     "text": "Tem o ap5 com informações e nova versêo",
     "has_media": false,
@@ -41,7 +41,7 @@
   },
   {
     "id": 2987,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-12T06:20:00+00:00",
     "text": "https://www.youtube.com/watch?v=Gc03J27xmBc&t=12s",
     "has_media": true,
@@ -49,7 +49,7 @@
   },
   {
     "id": 2966,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-12T03:46:20+00:00",
     "text": "**Faceless Shorts System V1**\n\nPiapi: [https://piapi.ai/](https://piapi.ai/)\n\nElevenLabs: [https://elevenlabs.io](https://elevenlabs.io/app/home)\n\nHere is the source code for the Creatomate template:\n\n\n`{\n  \"output_format\": \"mp4\",\n  \"width\": 1080,\n  \"height\": 1920,\n  \"elements\": [\n    {\n      \"id\": \"87e27d0a-394f-4083-8cab-081494799f3b\",\n      \"name\": \"Video-1\",\n      \"type\": \"video\",\n      \"track\": 1,\n      \"time\": 0,\n      \"duration\": 5,\n      \"source\": \"23b9827b-8424-4db7-8be0-dc17abdec21a\",\n      \"dynamic\": true\n    },\n    {\n      \"id\": \"91fd56b8-43a2-4c54-9e7f-274f9c82a1e5\",\n      \"name\": \"Video-2\",\n      \"type\": \"video\",\n      \"track\": 1,\n      \"time\": 5,\n      \"duration\": 5,\n      \"source\": \"23b9827b-8424-4db7-8be0-dc17abdec21a\",\n      \"dynamic\": true\n    },\n    {\n      \"id\": \"389075bc-c76b-423a-bc7d-8aea1e560e28\",\n      \"name\": \"Video-3\",\n      \"type\": \"video\",\n      \"track\": 1,\n      \"time\": 10,\n      \"duration\": 5,\n      \"source\": \"23b9827b-8424-4db7-8be0-dc17abdec21a\",\n      \"dynamic\": true\n    },\n    {\n      \"id\": \"6f8a2d3c-51b9-4e67-a5d2-9c7b384b6e2f\",\n      \"name\": \"Video-4\",\n      \"type\": \"video\",\n      \"track\": 1,\n      \"time\": 15,\n      \"duration\": 5,\n      \"source\": \"23b9827b-8424-4db7-8be0-dc17abdec21a\",\n      \"dynamic\": true\n    },\n    {\n      \"id\": \"5e92f4a7-12c3-4d8b-b5f3-7a6e8d2b9c1e\",\n      \"name\": \"Audio-Track\",\n      \"type\": \"audio\",\n      \"track\": 2,\n      \"time\": 0,\n      \"duration\": 20,\n      \"source\": \"placeholder\",\n      \"dynamic\": true\n    }\n  ]\n}`",
     "has_media": true,
@@ -65,7 +65,7 @@
   },
   {
     "id": 2704,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-11T01:36:19+00:00",
     "text": "ainda nbao consegui o video, nem trascrissao, assim q liberar eu publico",
     "has_media": false,
@@ -81,7 +81,7 @@
   },
   {
     "id": 2680,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-10T21:55:04+00:00",
     "text": "",
     "has_media": true,
@@ -90,7 +90,7 @@
   },
   {
     "id": 2665,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-10T21:42:23+00:00",
     "text": "ap1",
     "has_media": true,
@@ -99,7 +99,7 @@
   },
   {
     "id": 2664,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-10T21:41:01+00:00",
     "text": "",
     "has_media": true,
@@ -108,7 +108,7 @@
   },
   {
     "id": 2663,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-10T21:37:57+00:00",
     "text": "Criaçêo e Publicaçêo de Shorts no YouTube sem Rosto 📺\n\nComo automatizar a criaçêo de conteúdo configurando um fluxo de trabalho para gerar vídeo e áudio, renderizar tudo junto e postar automaticamente no YouTube – totalmente sem intervençêo manual.",
     "has_media": false,
@@ -116,7 +116,7 @@
   },
   {
     "id": 2662,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-10T21:37:21+00:00",
     "text": "ap1 - **Faceless YouTube Short**",
     "has_media": false,
@@ -124,7 +124,7 @@
   },
   {
     "id": 2661,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-10T21:37:17+00:00",
     "text": "..",
     "has_media": false,
@@ -132,7 +132,7 @@
   },
   {
     "id": 2660,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-10T21:37:16+00:00",
     "text": ".",
     "has_media": false,
@@ -140,7 +140,7 @@
   },
   {
     "id": 2659,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-10T21:37:16+00:00",
     "text": "..",
     "has_media": false,
@@ -148,7 +148,7 @@
   },
   {
     "id": 2658,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-10T21:37:16+00:00",
     "text": ".",
     "has_media": false,
@@ -156,7 +156,7 @@
   },
   {
     "id": 2657,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-10T21:37:16+00:00",
     "text": ".",
     "has_media": false,
@@ -164,7 +164,7 @@
   },
   {
     "id": 2656,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-10T21:37:15+00:00",
     "text": "1",
     "has_media": false,
@@ -172,7 +172,7 @@
   },
   {
     "id": 2655,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-10T21:37:06+00:00",
     "text": "",
     "has_media": false,

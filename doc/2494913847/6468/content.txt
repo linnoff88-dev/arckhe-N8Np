@@ -10,7 +10,7 @@ Midias baixadas: 10
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T04:48:44+00:00
 Texto:
 **Resumo do vídeo: Este agente n8n cria e edita imagens com a nova API de imagens da OpenAI**
@@ -48,7 +48,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T04:42:36+00:00
 Texto:
 video dublado
@@ -56,7 +56,7 @@ video dublado
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T04:42:28+00:00
 Texto:
 https://www.youtube.com/watch?v=YqEtFVAV7M8
@@ -65,7 +65,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T04:42:14+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6487_004.jpg
@@ -73,7 +73,7 @@ Midia: MessageMediaPhoto -> photo_6487_004.jpg
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T04:41:44+00:00
 Texto:
 API de imagem OpenAI Agentes 🤖 🖼️ n8n
@@ -115,7 +115,7 @@ Recursos
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T04:41:00+00:00
 Texto:
 Como usar a API de imagem da OpenAI via n8n 📸Se você quiser começar a construir todos esses casos de uso super legais em torno da geraçêo de imagens.
@@ -123,7 +123,7 @@ Como usar a API de imagem da OpenAI via n8n 📸Se você quiser começar a const
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T04:39:42+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Main AI Agent Orchestrator.json
@@ -131,7 +131,7 @@ Midia: MessageMediaDocument -> Main AI Agent Orchestrator.json
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T04:39:42+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Create Image Subflow.json
@@ -139,7 +139,7 @@ Midia: MessageMediaDocument -> Create Image Subflow.json
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T04:39:42+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Edit Image Subflow.json
@@ -147,7 +147,7 @@ Midia: MessageMediaDocument -> Edit Image Subflow.json
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T04:39:42+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Write to Google Sheet Subflow.json
@@ -155,7 +155,7 @@ Midia: MessageMediaDocument -> Write to Google Sheet Subflow.json
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T04:39:26+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6480_011.jpg
@@ -163,7 +163,7 @@ Midia: MessageMediaPhoto -> photo_6480_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T04:38:59+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6479_012.jpg
@@ -171,7 +171,7 @@ Midia: MessageMediaPhoto -> photo_6479_012.jpg
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T04:38:17+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6478_013.jpg
@@ -179,7 +179,7 @@ Midia: MessageMediaPhoto -> photo_6478_013.jpg
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T04:37:48+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6477_014.jpg
@@ -187,7 +187,7 @@ Midia: MessageMediaPhoto -> photo_6477_014.jpg
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T04:32:22+00:00
 Texto:
 mrg12 - Agente de Imagem OpenAI
@@ -195,7 +195,7 @@ mrg12 - Agente de Imagem OpenAI
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T04:32:20+00:00
 Texto:
 .
@@ -203,7 +203,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T04:32:20+00:00
 Texto:
 .
@@ -211,7 +211,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T04:32:20+00:00
 Texto:
 .
@@ -219,7 +219,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T04:32:20+00:00
 Texto:
 .
@@ -227,7 +227,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T04:32:19+00:00
 Texto:
 .
@@ -235,7 +235,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T04:32:19+00:00
 Texto:
 1
@@ -243,7 +243,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T04:32:13+00:00
 Texto: [Sem texto]
 

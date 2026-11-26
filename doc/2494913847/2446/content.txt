@@ -10,7 +10,7 @@ Midias baixadas: 2
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:59:47+00:00
 Texto:
 at8
@@ -19,7 +19,7 @@ Midia: MessageMediaDocument -> Supabase_Postgres.json
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:59:35+00:00
 Texto:
 at8
@@ -28,7 +28,7 @@ Midia: MessageMediaPhoto -> photo_2456_002.jpg
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:59:22+00:00
 Texto:
 at-08 - **Supabase & Postgres RAG Agent**
@@ -36,7 +36,7 @@ at-08 - **Supabase & Postgres RAG Agent**
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:59:21+00:00
 Texto:
 .
@@ -44,7 +44,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:59:20+00:00
 Texto:
 .
@@ -52,7 +52,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:59:20+00:00
 Texto:
 .
@@ -60,7 +60,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:59:20+00:00
 Texto:
 .
@@ -68,7 +68,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:59:20+00:00
 Texto:
 .
@@ -76,7 +76,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:59:19+00:00
 Texto:
 .
@@ -84,7 +84,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:59:19+00:00
 Texto:
 .
@@ -92,7 +92,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:59:18+00:00
 Texto:
 1
@@ -100,7 +100,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:59:13+00:00
 Texto: [Sem texto]
 

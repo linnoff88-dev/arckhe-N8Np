@@ -18,7 +18,7 @@ Vou me aprofundar nisso
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T08:23:17+00:00
 Texto:
 é tem usar nao a chve de api e sim do auth 2.0
@@ -26,7 +26,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T08:22:57+00:00
 Texto:
 O erro **"Client authentication failed"** que você está enfrentando **nêo tem relaçêo com a Google Docs API em si**, e **nem com a ativaçêo da API no console**.
@@ -47,7 +47,7 @@ O problema está na **configuraçêo do Google OAuth 2.0**,  (autenticaçêo do 
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T08:21:57+00:00
 Texto:
 Problema do Google DOCS
@@ -55,7 +55,7 @@ Problema do Google DOCS
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T08:21:33+00:00
 Texto:
 ======
@@ -63,7 +63,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T08:19:08+00:00
 Texto:
 ai coloca o workflow em ativo (sem rodar o teste)
@@ -71,7 +71,7 @@ ai coloca o workflow em ativo (sem rodar o teste)
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T08:18:41+00:00
 Texto:
 ======
@@ -79,7 +79,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T08:18:38+00:00
 Texto:
 para verificar se esta ativado
@@ -87,7 +87,7 @@ para verificar se esta ativado
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T08:18:28+00:00
 Texto:
 https://api.telegram.org/bot################/getWebhookInfo
@@ -95,7 +95,7 @@ https://api.telegram.org/bot################/getWebhookInfo
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T08:18:04+00:00
 Texto:
 isso para ativar
@@ -103,7 +103,7 @@ isso para ativar
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T08:17:57+00:00
 Texto:
 #### Token do teu bot
@@ -112,7 +112,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T08:17:24+00:00
 Texto:
 https://api.telegram.org/bot#############/setWebhook?url=https://###########/webhook/wbot
@@ -120,7 +120,7 @@ https://api.telegram.org/bot#############/setWebhook?url=https://###########/web
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T08:14:49+00:00
 Texto:
 https://platform.deepseek.com/api_keys
@@ -129,7 +129,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T06:44:11+00:00
 Texto:
 🐋🤖 **Agente DeepSeek AI + Telegram** + Memória de Longo Prazo 🧠
@@ -165,7 +165,7 @@ Modelo JSON
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T06:43:22+00:00
 Texto:
 mw4
@@ -174,7 +174,7 @@ Midia: MessageMediaDocument -> 🐋🤖_DeepSeek_AI_Agent_+_Telegram_+_LONG_TERM
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T06:43:09+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_4040_016.jpg
@@ -182,7 +182,7 @@ Midia: MessageMediaPhoto -> photo_4040_016.jpg
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T06:42:44+00:00
 Texto:
 mw4 - Agente DeepSeek + Telegram+ LONG TERM Memory
@@ -190,7 +190,7 @@ mw4 - Agente DeepSeek + Telegram+ LONG TERM Memory
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T06:42:42+00:00
 Texto:
 .
@@ -198,7 +198,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T06:42:41+00:00
 Texto:
 ..
@@ -206,7 +206,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T06:42:41+00:00
 Texto:
 .
@@ -214,7 +214,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T06:42:41+00:00
 Texto:
 ..
@@ -222,7 +222,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T06:42:41+00:00
 Texto:
 .
@@ -230,7 +230,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T06:42:41+00:00
 Texto:
 https://chatgpt.com/c/67e4f285-9ed0-8009-aff6-a83240433eae
@@ -239,7 +239,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T06:42:40+00:00
 Texto:
 1
@@ -247,7 +247,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T06:42:34+00:00
 Texto: [Sem texto]
 

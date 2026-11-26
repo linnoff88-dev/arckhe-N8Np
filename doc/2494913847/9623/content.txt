@@ -43,7 +43,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T17:56:10+00:00
 Texto:
 =======================
@@ -51,7 +51,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T17:56:05+00:00
 Texto:
 relatórios
@@ -85,7 +85,7 @@ Todos os arquivos foram criados seguindo as melhores práticas do n8n, com trata
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T17:56:05+00:00
 Texto:
 ## 📋 Resumo dos Arquivos Entregues
@@ -238,7 +238,7 @@ curl -X POST https://sua-evolution-api.com/webhook/set \
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T17:55:18+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> farmacia-credentials (1).json
@@ -246,7 +246,7 @@ Midia: MessageMediaDocument -> farmacia-credentials (1).json
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T17:55:18+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> farmacia-database-schema.sql
@@ -254,7 +254,7 @@ Midia: MessageMediaDocument -> farmacia-database-schema.sql
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T17:55:18+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> farmacia-environment.json
@@ -262,7 +262,7 @@ Midia: MessageMediaDocument -> farmacia-environment.json
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T17:55:18+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> farmacia-setup-guide.md
@@ -270,7 +270,7 @@ Midia: MessageMediaDocument -> farmacia-setup-guide.md
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T17:55:18+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Farmácia - Guia de Instalaçêo e Configuraçêo.pdf
@@ -278,7 +278,7 @@ Midia: MessageMediaDocument -> Farmácia - Guia de Instalaçêo e Configuraçêo
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T17:54:54+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9641_013.jpg
@@ -286,7 +286,7 @@ Midia: MessageMediaPhoto -> photo_9641_013.jpg
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T17:48:42+00:00
 Texto:
 o primeiro tem arrumar mais
@@ -294,7 +294,7 @@ o primeiro tem arrumar mais
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T17:48:30+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> nm38___Faramacia_4__Monitoramento.json
@@ -302,7 +302,7 @@ Midia: MessageMediaDocument -> nm38___Faramacia_4__Monitoramento.json
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T17:48:30+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> nm38___Farmacia_3___Relatorios.json
@@ -310,7 +310,7 @@ Midia: MessageMediaDocument -> nm38___Farmacia_3___Relatorios.json
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T17:48:30+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> nm38___Farmacia_2_Resposta.json
@@ -318,7 +318,7 @@ Midia: MessageMediaDocument -> nm38___Farmacia_2_Resposta.json
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T17:48:30+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> nm38___Farmacia_Main.json
@@ -326,7 +326,7 @@ Midia: MessageMediaDocument -> nm38___Farmacia_Main.json
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T17:44:50+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9635_019.jpg
@@ -334,7 +334,7 @@ Midia: MessageMediaPhoto -> photo_9635_019.jpg
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T17:44:18+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9634_020.jpg
@@ -342,7 +342,7 @@ Midia: MessageMediaPhoto -> photo_9634_020.jpg
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T17:43:50+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9633_021.jpg
@@ -350,7 +350,7 @@ Midia: MessageMediaPhoto -> photo_9633_021.jpg
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T17:43:20+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9631_022.jpg
@@ -358,7 +358,7 @@ Midia: MessageMediaPhoto -> photo_9631_022.jpg
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T17:42:49+00:00
 Texto:
 nm38 - Farmacia Vibe Code Claude
@@ -366,7 +366,7 @@ nm38 - Farmacia Vibe Code Claude
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T17:42:46+00:00
 Texto:
 .
@@ -374,7 +374,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T17:42:46+00:00
 Texto:
 .
@@ -382,7 +382,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T17:42:46+00:00
 Texto:
 .
@@ -390,7 +390,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T17:42:45+00:00
 Texto:
 https://chatgpt.com/c/684cc451-dc2c-8009-810d-1697ce37d90d
@@ -399,7 +399,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T17:42:45+00:00
 Texto:
 https://claude.ai/chat/590a032c-a358-4e81-b693-9d791f891d59
@@ -408,7 +408,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T17:42:45+00:00
 Texto:
 1
@@ -416,7 +416,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T17:42:38+00:00
 Texto: [Sem texto]
 

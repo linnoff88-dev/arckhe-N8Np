@@ -10,7 +10,7 @@ Midias baixadas: 10
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T20:29:12+00:00
 Texto:
 ## 🔧 HACKS PARA OTIMIZAÇêO DA AUTOMATIZAÇêO
@@ -117,7 +117,7 @@ Divida o prompt do agente em partes:
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T20:25:03+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12601_002.jpg
@@ -125,7 +125,7 @@ Midia: MessageMediaPhoto -> photo_12601_002.jpg
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T20:19:19+00:00
 Texto:
 dublado
@@ -133,7 +133,7 @@ dublado
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T20:19:15+00:00
 Texto:
 https://www.youtube.com/watch?v=PthLcgcRoas
@@ -142,7 +142,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T20:16:02+00:00
 Texto:
 ==============
@@ -150,7 +150,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T20:15:56+00:00
 Texto:
 **passo a passo completo** para criar a automaçêo “Substitua sua secretária com IA” usando **n8n + Lovable + Airtable + GoHighLevel**, conforme explicado no vídeo:
@@ -323,7 +323,7 @@ Você terá uma **secretária virtual com IA** que:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T20:14:34+00:00
 Texto:
 ==================
@@ -331,7 +331,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T20:14:31+00:00
 Texto:
 ## **Resumo Geral**
@@ -442,7 +442,7 @@ Substituir uma secretária humana de alto custo por um sistema de IA que:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T20:13:56+00:00
 Texto:
 exemplo do chat
@@ -451,7 +451,7 @@ Midia: MessageMediaDocument -> memory-chat.html
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T20:12:16+00:00
 Texto:
 **j99) Secretária de IA por R\$ 10 mil/mês**
@@ -484,7 +484,7 @@ Simples, mas **incrivelmente poderoso**.
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T20:03:58+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12590_011.jpg
@@ -492,7 +492,7 @@ Midia: MessageMediaPhoto -> photo_12590_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T20:03:48+00:00
 Texto:
 **Substitua sua secretária de R\$ 10 mil por mês em apenas 36 minutos**
@@ -529,7 +529,7 @@ Sem perder tempo com spam ou mensagens de baixa prioridade.
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T19:59:48+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 🧠 Loveable memory System. (1).pdf
@@ -537,7 +537,7 @@ Midia: MessageMediaDocument -> 🧠 Loveable memory System. (1).pdf
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T19:59:40+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 🔥 Replace Your $4k_mo Secretary (1).json
@@ -545,7 +545,7 @@ Midia: MessageMediaDocument -> 🔥 Replace Your $4k_mo Secretary (1).json
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T19:59:35+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12586_015.jpg
@@ -553,7 +553,7 @@ Midia: MessageMediaPhoto -> photo_12586_015.jpg
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T19:59:07+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12585_016.jpg
@@ -561,7 +561,7 @@ Midia: MessageMediaPhoto -> photo_12585_016.jpg
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T19:58:30+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12584_017.jpg
@@ -569,7 +569,7 @@ Midia: MessageMediaPhoto -> photo_12584_017.jpg
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T19:58:09+00:00
 Texto:
 j99 - IronMade Secretaria
@@ -577,7 +577,7 @@ j99 - IronMade Secretaria
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T19:58:07+00:00
 Texto:
 .
@@ -585,7 +585,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T19:58:04+00:00
 Texto:
 ..
@@ -593,7 +593,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T19:58:03+00:00
 Texto:
 .
@@ -601,7 +601,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T19:58:03+00:00
 Texto:
 .
@@ -609,7 +609,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T19:58:02+00:00
 Texto:
 .
@@ -617,7 +617,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T19:58:01+00:00
 Texto:
 https://chatgpt.com/c/689a44f2-37ac-832b-99a2-7af9ded2cc4a
@@ -626,7 +626,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T19:58:00+00:00
 Texto:
 1
@@ -634,7 +634,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T19:57:50+00:00
 Texto: [Sem texto]
 

@@ -10,7 +10,7 @@ Midias baixadas: 8
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T18:35:02+00:00
 Texto:
 ### Hacks de Conversa
@@ -100,7 +100,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T18:34:41+00:00
 Texto:
 ==================
@@ -108,7 +108,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T18:34:38+00:00
 Texto:
 Bearer SUA_CHAVE_GHL" \
@@ -202,7 +202,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T18:34:38+00:00
 Texto:
 Segue um passo a passo direto para implementar o lead magnet no WhatsApp que gera relatório automático e alimenta o CRM. Mantive tudo enxuto, mas completo, com exemplos.
@@ -332,7 +332,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T18:33:22+00:00
 Texto:
 ====================
@@ -340,7 +340,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T18:33:19+00:00
 Texto:
 Resumo do propósito da aula e43 
@@ -416,7 +416,7 @@ Definir 3 quick wins típicos do seu nicho, a matriz de priorizaçêo (ICE) e a 
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T18:32:29+00:00
 Texto:
 ====================
@@ -424,7 +424,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T18:32:26+00:00
 Texto:
 e43. WhatsApp que vende: informe automático
@@ -503,7 +503,7 @@ Valor: entrega imediata, qualifica o lead e enriquece o CRM com dados acionávei
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T18:31:57+00:00
 Texto:
 ================
@@ -511,7 +511,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T18:31:53+00:00
 Texto:
 Ímê Digital no WhatsApp com relatório automático 🔥
@@ -556,7 +556,7 @@ Resultado: leads quentes, qualificados e que já percebem o seu valor antes da p
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T18:30:48+00:00
 Texto:
 =============
@@ -564,7 +564,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T18:29:35+00:00
 Texto:
 https://marketplace-gohighlevel-com.translate.goog/docs/ghl/custom-fields/get-custom-field-by-id?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc&_x_tr_hist=true
@@ -573,7 +573,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T18:29:00+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Consultor automatico Wixyn.json
@@ -581,7 +581,7 @@ Midia: MessageMediaDocument -> Consultor automatico Wixyn.json
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T18:28:00+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13925_014.jpg
@@ -589,7 +589,7 @@ Midia: MessageMediaPhoto -> photo_13925_014.jpg
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T18:27:16+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13924_015.jpg
@@ -597,7 +597,7 @@ Midia: MessageMediaPhoto -> photo_13924_015.jpg
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T18:24:22+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13923_016.jpg
@@ -605,7 +605,7 @@ Midia: MessageMediaPhoto -> photo_13923_016.jpg
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T18:24:03+00:00
 Texto:
 e43 - Ímê Digital no WhatsApp
@@ -613,7 +613,7 @@ e43 - Ímê Digital no WhatsApp
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T18:24:01+00:00
 Texto:
 .
@@ -621,7 +621,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T18:24:01+00:00
 Texto:
 .
@@ -629,7 +629,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T18:24:00+00:00
 Texto:
 .
@@ -637,7 +637,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T18:24:00+00:00
 Texto:
 .
@@ -645,7 +645,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T18:24:00+00:00
 Texto:
 .
@@ -653,7 +653,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T18:23:59+00:00
 Texto:
 .
@@ -661,7 +661,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T18:23:59+00:00
 Texto:
 https://chatgpt.com/c/68bb2a7f-25d4-8333-88bc-af6954e8fbd9
@@ -670,7 +670,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T18:23:59+00:00
 Texto:
 1
@@ -678,7 +678,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T18:23:54+00:00
 Texto: [Sem texto]
 

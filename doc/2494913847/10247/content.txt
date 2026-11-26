@@ -92,7 +92,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T06:02:56+00:00
 Texto:
 **Editor de Mídia Social Multiplataforma**
@@ -174,7 +174,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T06:01:22+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 2_1_Cross_Platform_Content_Generator.json
@@ -182,7 +182,7 @@ Midia: MessageMediaDocument -> 2_1_Cross_Platform_Content_Generator.json
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T06:01:22+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 2_2_Cross_Platform_Content_Publisher.json
@@ -190,7 +190,7 @@ Midia: MessageMediaDocument -> 2_2_Cross_Platform_Content_Publisher.json
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T06:00:54+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10256_005.jpg
@@ -198,7 +198,7 @@ Midia: MessageMediaPhoto -> photo_10256_005.jpg
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T05:59:17+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10255_006.jpg
@@ -206,7 +206,7 @@ Midia: MessageMediaPhoto -> photo_10255_006.jpg
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T05:57:36+00:00
 Texto:
 mv01 - **Editor de mídia social multiplataforma**
@@ -214,7 +214,7 @@ mv01 - **Editor de mídia social multiplataforma**
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T05:57:34+00:00
 Texto:
 ..
@@ -222,7 +222,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T05:57:33+00:00
 Texto:
 .
@@ -230,7 +230,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T05:57:33+00:00
 Texto:
 .
@@ -238,7 +238,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T05:57:33+00:00
 Texto:
 .
@@ -246,7 +246,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T05:57:33+00:00
 Texto:
 https://chatgpt.com/c/68564af1-8c6c-8009-a941-47f3aff1fa62
@@ -255,7 +255,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T05:57:32+00:00
 Texto:
 1
@@ -263,7 +263,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T05:57:26+00:00
 Texto: [Sem texto]
 

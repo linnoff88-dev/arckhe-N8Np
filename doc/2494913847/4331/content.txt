@@ -10,7 +10,7 @@ Midias baixadas: 13
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T22:33:14+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> YouTube.csv
@@ -18,7 +18,7 @@ Midia: MessageMediaDocument -> YouTube.csv
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T22:33:14+00:00
 Texto:
 airtable
@@ -27,7 +27,7 @@ Midia: MessageMediaDocument -> LinkedIn.csv
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T22:33:14+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Instagram.csv
@@ -35,7 +35,7 @@ Midia: MessageMediaDocument -> Instagram.csv
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T22:19:49+00:00
 Texto:
 https://www.youtube.com/watch?v=qbv-FV1WM_Q
@@ -44,7 +44,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T22:19:04+00:00
 Texto:
 Aqui vai um **passo a passo completo e prático** para construir o **Painel de Insights de Redes Sociais com IA**, baseado no vídeo "Build this AI-Powered Social Dashboard (Loveable)".
@@ -174,7 +174,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T22:18:45+00:00
 Texto:
 ==============
@@ -182,7 +182,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T22:04:16+00:00
 Texto:
 **Resumo “Build this AI-Powered Social Dashboard (Loveable)”**
@@ -266,16 +266,16 @@ Criar um painel interativo que centralize os dados das redes sociais e ofereça 
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T22:02:04+00:00
 Texto:
 **j81) Construa este Painel Social com IA**
 
 
 **Ferramentas 🧰**  
-🔥 Loveable: https://lovable.dev/?via=inematds (*)  
+🔥 Loveable: https://lovable.dev/?via=linnoff88-dev (*)  
 🚀 n8n: https://n8n.io  
-🤖 Make: https://make.com/en/register?pc=inematds
+🤖 Make: https://make.com/en/register?pc=linnoff88-dev
 📊 Airtable: [https://airtable.com/invite/r/OCq1Acz2](https://airtable.com/invite/r/OCq1Acz2)  
 🔮 Qwen 2.5: https://chat.qwen.ai  
 🤩 Claude: https://claude.ai/new  
@@ -292,7 +292,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T21:58:47+00:00
 Texto:
 **Construa este Painel Social com IA (Loveable)**  
@@ -312,7 +312,7 @@ Se você estiver planejando vender isso para clientes, só será necessário UM 
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T21:47:10+00:00
 Texto:
 =
@@ -320,7 +320,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T21:47:10+00:00
 Texto:
 =====================
@@ -328,7 +328,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T21:47:03+00:00
 Texto:
 prompt
@@ -337,7 +337,7 @@ Midia: MessageMediaDocument -> 📊 Social Media Dashboard Prompt.docx
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T21:46:52+00:00
 Texto:
 n8n
@@ -346,7 +346,7 @@ Midia: MessageMediaDocument -> LinkedIN___Instgram_Scraper.json
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T21:46:38+00:00
 Texto:
 make
@@ -355,7 +355,7 @@ Midia: MessageMediaDocument -> YouTube Data Scraper.json
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T21:46:17+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_4344_015.jpg
@@ -363,7 +363,7 @@ Midia: MessageMediaPhoto -> photo_4344_015.jpg
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T21:45:36+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_4343_016.jpg
@@ -371,7 +371,7 @@ Midia: MessageMediaPhoto -> photo_4343_016.jpg
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T21:45:10+00:00
 Texto:
 .
@@ -379,7 +379,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T21:45:06+00:00
 Texto:
 Make
@@ -388,7 +388,7 @@ Midia: MessageMediaPhoto -> photo_4341_018.jpg
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T21:37:45+00:00
 Texto:
 j81 - Painel Social com IA (Loveable)
@@ -396,7 +396,7 @@ j81 - Painel Social com IA (Loveable)
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T21:37:43+00:00
 Texto:
 ..
@@ -404,7 +404,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T21:37:43+00:00
 Texto:
 .
@@ -412,7 +412,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T21:37:43+00:00
 Texto:
 ..
@@ -420,7 +420,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T21:37:43+00:00
 Texto:
 Misto entre MAKE e N8N e DEV lovable
@@ -428,7 +428,7 @@ Misto entre MAKE e N8N e DEV lovable
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T21:37:43+00:00
 Texto:
 .
@@ -436,7 +436,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T21:37:42+00:00
 Texto:
 .
@@ -444,7 +444,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T21:37:42+00:00
 Texto:
 https://chatgpt.com/c/67e9b8a2-cfc0-8009-ac34-e687ad5bc6e0
@@ -453,7 +453,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T21:37:41+00:00
 Texto:
 1
@@ -461,7 +461,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T21:37:35+00:00
 Texto: [Sem texto]
 

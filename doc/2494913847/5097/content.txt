@@ -10,7 +10,7 @@ Midias baixadas: 5
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:50:11+00:00
 Texto:
 Aqui está o **passo a passo completo para criar o fluxo no n8n** baseado no vídeo, para comparar geradores de vídeo por IA sem rosto (Minimax, Hunyuan, Kling e Google Veo 2), traduzir o prompt com Google Translate, enviar para as APIs, monitorar o status e baixar os vídeos automaticamente.
@@ -128,7 +128,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:48:11+00:00
 Texto:
 ### Resumo do vídeo:  
@@ -179,7 +179,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:48:06+00:00
 Texto:
 ===============
@@ -187,7 +187,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:46:11+00:00
 Texto:
 Comparaçêo de Geradores de Vídeo sem Rosto 
@@ -204,7 +204,7 @@ Esse sistema compara o desempenho das plataformas Minimax, Tencent Hunyuan, Klin
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:44:55+00:00
 Texto:
 al5
@@ -213,7 +213,7 @@ Midia: MessageMediaDocument -> 14_4_Faceless_Video_Generator_Comparison_Minimax_
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:44:45+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_5105_006.jpg
@@ -221,7 +221,7 @@ Midia: MessageMediaPhoto -> photo_5105_006.jpg
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:41:43+00:00
 Texto:
 al5 - **Faceless Video Generator Comparison**
@@ -229,7 +229,7 @@ al5 - **Faceless Video Generator Comparison**
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:41:41+00:00
 Texto:
 ..
@@ -237,7 +237,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:41:41+00:00
 Texto:
 .
@@ -245,7 +245,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:41:40+00:00
 Texto:
 ..
@@ -253,7 +253,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:41:40+00:00
 Texto:
 .
@@ -261,7 +261,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:41:40+00:00
 Texto:
 https://chatgpt.com/c/67f608aa-ad5c-8009-99b7-70c8805fb107
@@ -270,7 +270,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:41:39+00:00
 Texto:
 1
@@ -278,7 +278,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:41:33+00:00
 Texto: [Sem texto]
 

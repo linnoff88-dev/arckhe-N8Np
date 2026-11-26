@@ -45,7 +45,7 @@ MENSAGEM 4
 Autor: Marília
 Data: 2025-07-22T06:25:26+00:00
 Texto:
-Dá vontade de pagar mais, só nêo tenho dinheiro ainda. Mas quando o retorno chegar. Com certeza eu vou retribuir a ajuda do INEMA.
+Dá vontade de pagar mais, só nêo tenho dinheiro ainda. Mas quando o retorno chegar. Com certeza eu vou retribuir a ajuda do ARCKHÉ.
 
 ------------------------------
 
@@ -67,7 +67,7 @@ Midia: MessageMediaDocument
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T16:41:04+00:00
 Texto:
 dublado
@@ -75,7 +75,7 @@ dublado
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T16:40:57+00:00
 Texto:
 https://www.youtube.com/watch?v=cCD303XsUjI
@@ -84,7 +84,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T16:21:37+00:00
 Texto:
 ## 🏆 **10 Hacks para o Agente RAG no N8N**
@@ -192,7 +192,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T16:19:35+00:00
 Texto:
 ===========
@@ -200,7 +200,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T16:18:42+00:00
 Texto:
 ### 🔄 **Etapa 7: Expansões sugeridas**
@@ -223,7 +223,7 @@ Você terá um agente conversacional:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T16:18:42+00:00
 Texto:
 ## 🟢 **Passo a Passo: Do Zero ao Agente RAG no N8N com Supabase**
@@ -370,7 +370,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T15:59:54+00:00
 Texto:
 ==============
@@ -378,7 +378,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T15:59:51+00:00
 Texto:
 **“Do Zero ao Agente RAG: Curso Completo para Iniciantes (sem código)”** no YouTube mostra um passo a passo para criar um agente RAG sem escrever uma linha de código, usando o **N8N**  e o **Supabase** como base de dados vetorial e memória. Aqui está o resumo completo com todos os tópicos e exemplos:
@@ -475,7 +475,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T15:57:43+00:00
 Texto:
 =============
@@ -483,7 +483,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T15:55:34+00:00
 Texto:
 **Do zero ao agente RAG: curso completo para iniciantes (sem código)**
@@ -499,7 +499,7 @@ Este curso foi desenvolvido para iniciantes. Nêo requer programaçêo. Você ap
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T15:54:57+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> RAG Agent.json
@@ -507,7 +507,7 @@ Midia: MessageMediaDocument -> RAG Agent.json
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T15:54:48+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11639_018.jpg
@@ -515,7 +515,7 @@ Midia: MessageMediaPhoto -> photo_11639_018.jpg
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T15:54:38+00:00
 Texto:
 Ap47 - Zero ao Agente RAG
@@ -523,7 +523,7 @@ Ap47 - Zero ao Agente RAG
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T15:54:19+00:00
 Texto:
 .
@@ -531,7 +531,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T15:54:15+00:00
 Texto:
 .
@@ -539,7 +539,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T15:54:11+00:00
 Texto:
 .
@@ -547,7 +547,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T15:54:07+00:00
 Texto:
 .
@@ -555,7 +555,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T15:54:03+00:00
 Texto:
 .
@@ -563,7 +563,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T15:53:59+00:00
 Texto:
 https://chatgpt.com/c/687e6365-7990-8009-a3fe-449f5da03ad0
@@ -572,7 +572,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T15:53:55+00:00
 Texto:
 1
@@ -580,7 +580,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T15:53:32+00:00
 Texto: [Sem texto]
 

@@ -59,7 +59,7 @@ Qual o comando JSON para pegar o comando que vem do agente gpt?
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T04:00:18+00:00
 Texto:
 Será q ele nêo está pegando o Prompts defauult em vez do teu?
@@ -75,7 +75,7 @@ boa noite, eu segui todo o fluxo colocando minhas credenciais e conferindo o pas
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-18T21:46:01+00:00
 Texto:
 ### 🔍 **Quais automações ele criou e por quê?**
@@ -158,7 +158,7 @@ Publicar automaticamente o conteúdo aprovado no LinkedIn.
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-18T21:45:59+00:00
 Texto:
 ==========
@@ -166,7 +166,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-18T21:45:06+00:00
 Texto:
 ### 🔍 **Por que foram feitas várias automações no N8N?**
@@ -228,7 +228,7 @@ No vídeo, o criador do agente de IA **separou o processo em várias automaçõe
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-18T21:44:09+00:00
 Texto:
 https://www.youtube.com/watch?v=Spy33CJh2TA&t=4s
@@ -237,7 +237,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-18T21:40:23+00:00
 Texto:
 ### 📢 **Passo a Passo para Criar um Agente IA que Publica em Redes Sociais **
@@ -324,7 +324,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-18T21:35:19+00:00
 Texto:
 ================
@@ -332,7 +332,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-18T21:35:14+00:00
 Texto:
 Aqui estêo as **principais dicas e aprendizados** sobre a **criaçêo do Agente de IA para Publicaçêo Automática em Redes Sociais**:
@@ -406,7 +406,7 @@ Esse processo transforma um **simples fluxo de automaçêo** em um sistema **int
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-18T21:33:38+00:00
 Texto:
 ====
@@ -414,7 +414,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-18T21:33:34+00:00
 Texto:
 Aqui detalha a criaçêo de um **Agente de Inteligência Artificial para Publicaçêo Automática em Redes Sociais**, integrando **WhatsApp, IA, geraçêo de imagens e publicaçêo no LinkedIn**. Aqui está um resumo estruturado do processo:
@@ -496,7 +496,7 @@ Esse **Agente IA de Redes Sociais** permite **publicar conteúdo com facilidade*
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-18T21:32:50+00:00
 Texto:
 ==============
@@ -504,7 +504,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-18T21:32:46+00:00
 Texto:
 e5n8. Agente de Redes Sociais (Publicaçêo + Imagem)**  
@@ -577,7 +577,7 @@ Com essa automaçêo, você pode **gerenciar redes sociais sem esforço**, mante
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-18T21:31:50+00:00
 Texto:
 **Nova Automaçêo: Agente de IA para Redes Sociais no N8N**  
@@ -595,7 +595,7 @@ Se a ideia de ter um **gestor automático de redes sociais no bolso** parece int
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-18T21:30:31+00:00
 Texto:
 e5n8
@@ -604,7 +604,7 @@ Midia: MessageMediaDocument -> 1__Flujo_1_Agente_RRSS.json
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-18T21:30:31+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 2__Flujo_creaci_n_imagen.json
@@ -612,7 +612,7 @@ Midia: MessageMediaDocument -> 2__Flujo_creaci_n_imagen.json
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-18T21:30:31+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 3__Flujo_Creaci_n_publicaci_n.json
@@ -620,7 +620,7 @@ Midia: MessageMediaDocument -> 3__Flujo_Creaci_n_publicaci_n.json
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-18T21:30:08+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_1621_024.jpg
@@ -628,7 +628,7 @@ Midia: MessageMediaPhoto -> photo_1621_024.jpg
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-18T21:30:08+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_1620_025.jpg
@@ -636,7 +636,7 @@ Midia: MessageMediaPhoto -> photo_1620_025.jpg
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-18T21:30:08+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_1619_026.jpg
@@ -644,7 +644,7 @@ Midia: MessageMediaPhoto -> photo_1619_026.jpg
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-18T21:28:50+00:00
 Texto:
 e5n8 - Cria Postagem Redes Sociais pelo whatsapp
@@ -652,7 +652,7 @@ e5n8 - Cria Postagem Redes Sociais pelo whatsapp
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-18T21:28:47+00:00
 Texto:
 ..
@@ -660,7 +660,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-18T21:28:47+00:00
 Texto:
 .
@@ -668,7 +668,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-18T21:28:47+00:00
 Texto:
 ...
@@ -676,7 +676,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-18T21:28:46+00:00
 Texto:
 ..
@@ -684,7 +684,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 32
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-18T21:28:46+00:00
 Texto:
 .
@@ -692,7 +692,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 33
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-18T21:28:46+00:00
 Texto:
 .
@@ -700,7 +700,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 34
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-18T21:28:46+00:00
 Texto:
 ..
@@ -708,7 +708,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 35
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-18T21:28:46+00:00
 Texto:
 .
@@ -716,7 +716,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 36
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-18T21:28:45+00:00
 Texto:
 https://chatgpt.com/c/67b4f863-eb34-8009-92fe-76b6d20497da
@@ -725,7 +725,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 37
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-18T21:28:45+00:00
 Texto:
 1
@@ -733,7 +733,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 38
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-18T21:28:38+00:00
 Texto: [Sem texto]
 

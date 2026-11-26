@@ -10,7 +10,7 @@ Midias baixadas: 2
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-22T04:06:09+00:00
 Texto:
 **PDF -> JPG -> ARQUIVO ZIP**
@@ -32,7 +32,7 @@ Essa é uma soluçêo completa *no-code* que automatiza o que normalmente seria 
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-22T04:03:47+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> PDF____JPG____ZIP_FILE.json
@@ -40,7 +40,7 @@ Midia: MessageMediaDocument -> PDF____JPG____ZIP_FILE.json
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-22T04:03:34+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10288_003.jpg
@@ -48,7 +48,7 @@ Midia: MessageMediaPhoto -> photo_10288_003.jpg
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-22T04:02:43+00:00
 Texto:
 nm39 - PDF - JPG - ZIP
@@ -56,7 +56,7 @@ nm39 - PDF - JPG - ZIP
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-22T04:02:41+00:00
 Texto:
 .
@@ -64,7 +64,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-22T04:02:41+00:00
 Texto:
 ..
@@ -72,7 +72,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-22T04:02:40+00:00
 Texto:
 .
@@ -80,7 +80,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-22T04:02:40+00:00
 Texto:
 .
@@ -88,7 +88,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-22T04:02:40+00:00
 Texto:
 .
@@ -96,7 +96,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-22T04:02:39+00:00
 Texto:
 1
@@ -104,7 +104,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-22T04:02:33+00:00
 Texto: [Sem texto]
 

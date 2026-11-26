@@ -201,7 +201,7 @@
           "summarizationMethodAndPrompts": {
             "values": {
               "prompt": "=",
-              "combineMapPrompt": "=Write a concise summary of the following:\n\nEducational qualification: {{ $json.output[\"Educational qualification\"] }}\nJob History: {{ $json.output[\"Job History\"] }}\nSkills: {{ $json.output.Skills }}\n\nUse 300 words or less. Be concise and conversational."
+              "combARCKHÉpPrompt": "=Write a concise summary of the following:\n\nEducational qualification: {{ $json.output[\"Educational qualification\"] }}\nJob History: {{ $json.output[\"Job History\"] }}\nSkills: {{ $json.output.Skills }}\n\nUse 300 words or less. Be concise and conversational."
             }
           }
         }

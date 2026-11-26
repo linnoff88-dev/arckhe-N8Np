@@ -10,7 +10,7 @@ Midias baixadas: 7
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-25T03:48:31+00:00
 Texto:
 ========
@@ -18,7 +18,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-25T03:37:22+00:00
 Texto:
 Aqui vêo **hacks práticos** para melhorar, acelerar e proteger sua automaçêo de controle de navegador com **N8N + Airtop + IA**, economizando créditos e evitando travamentos:
@@ -118,7 +118,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-25T03:37:01+00:00
 Texto:
 ==================
@@ -126,7 +126,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-25T03:36:59+00:00
 Texto:
 Aqui está o **passo a passo completo** para criar seu próprio "Operator IA" com **N8N + Airtop**, usando **IA para controlar o navegador remotamente**, com integraçêo opcional via WhatsApp ou Telegram:
@@ -234,7 +234,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-25T03:36:40+00:00
 Texto:
 =============
@@ -242,7 +242,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-25T03:36:38+00:00
 Texto:
 **Resumo – "Controlar qualquer site com IA e N8N" 
@@ -317,7 +317,7 @@ Como **automatizar a navegaçêo na web com IA dentro do N8N**, usando a ferrame
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-25T03:36:20+00:00
 Texto:
 ========
@@ -325,7 +325,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-25T03:36:16+00:00
 Texto:
 🧑🏻‍💻 e25. Controle qualquer site com IA e N8N
@@ -391,7 +391,7 @@ Com essa aula, você já pode montar seu próprio sistema tipo *Operator* da Ope
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-25T03:35:45+00:00
 Texto:
 ==========
@@ -399,7 +399,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-25T03:35:42+00:00
 Texto:
 🔥 Controle qualquer site com IA 😱
@@ -427,7 +427,7 @@ Você pede algo pelo chat e a IA navega por você. **Literalmente.**
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-25T03:35:09+00:00
 Texto:
 ============
@@ -435,7 +435,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-25T03:33:26+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Navegar_WEB.json
@@ -443,7 +443,7 @@ Midia: MessageMediaDocument -> Navegar_WEB.json
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-25T03:33:26+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Arrancar_browser.json
@@ -451,7 +451,7 @@ Midia: MessageMediaDocument -> Arrancar_browser.json
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-25T03:33:10+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10497_014.jpg
@@ -459,7 +459,7 @@ Midia: MessageMediaPhoto -> photo_10497_014.jpg
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-25T03:33:05+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10496_015.jpg
@@ -467,7 +467,7 @@ Midia: MessageMediaPhoto -> photo_10496_015.jpg
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-25T03:32:08+00:00
 Texto:
 e25 - Agente Navegador - AirTop
@@ -475,7 +475,7 @@ e25 - Agente Navegador - AirTop
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-25T03:32:06+00:00
 Texto:
 .
@@ -483,7 +483,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-25T03:32:06+00:00
 Texto:
 .
@@ -491,7 +491,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-25T03:32:06+00:00
 Texto:
 .
@@ -499,7 +499,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-25T03:32:06+00:00
 Texto:
 .
@@ -507,7 +507,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-25T03:32:06+00:00
 Texto:
 .
@@ -515,7 +515,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-25T03:32:06+00:00
 Texto:
 .
@@ -523,7 +523,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-25T03:32:05+00:00
 Texto:
 https://chatgpt.com/c/685b688b-3140-8009-a12c-c85972771a88
@@ -532,7 +532,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-25T03:32:05+00:00
 Texto:
 1
@@ -540,7 +540,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-25T03:31:59+00:00
 Texto: [Sem texto]
 

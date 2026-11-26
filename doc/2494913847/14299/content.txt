@@ -10,7 +10,7 @@ Midias baixadas: 19
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-20T05:27:54+00:00
 Texto:
 Podem usar o Claude Code para migrar este projeto
@@ -18,7 +18,7 @@ Podem usar o Claude Code para migrar este projeto
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-20T03:15:28+00:00
 Texto:
 Comando para o Relatorio
@@ -28,7 +28,7 @@ npx ccusage@lastest
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-20T03:14:13+00:00
 Texto:
 usando para testes com o claude desktop
@@ -37,7 +37,7 @@ Midia: MessageMediaPhoto -> photo_14399_003.jpg
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T03:08:58+00:00
 Texto:
 ### Hacks de Desenvolvimento
@@ -83,7 +83,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T03:07:56+00:00
 Texto:
 ====================
@@ -91,7 +91,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T03:07:54+00:00
 Texto:
 sumo a partir do log de turnos
@@ -106,7 +106,7 @@ sumo a partir do log de turnos
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T03:07:54+00:00
 Texto:
 mbers (marcar isAvailable=false)
@@ -233,7 +233,7 @@ Se o u```suário mencionar risco iminente de dano a si ou a terceiros:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T03:07:54+00:00
 Texto:
 nu
@@ -241,7 +241,7 @@ nu
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T03:07:54+00:00
 Texto:
 Aqui vai um passo a passo direto para você replicar o projeto do vídeo (Vapi + n8n + Bolt.new + Firebase + Google Sheets), com exemplos práticos.
@@ -388,7 +388,7 @@ Etapas
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T03:07:22+00:00
 Texto:
 ====================
@@ -396,7 +396,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T03:07:21+00:00
 Texto:
 =====================
@@ -404,7 +404,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T03:07:18+00:00
 Texto:
 ### Contexto do Hackathon
@@ -480,7 +480,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T03:06:40+00:00
 Texto:
 ==================================
@@ -488,7 +488,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T03:06:37+00:00
 Texto:
 Resumo do vídeo: *This Vapi + n8n Voice Agent Won \$5,000 in Just 21 Days*
@@ -534,7 +534,7 @@ Resumo do vídeo: *This Vapi + n8n Voice Agent Won \$5,000 in Just 21 Days*
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T03:05:55+00:00
 Texto:
 ====================
@@ -542,7 +542,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T03:05:52+00:00
 Texto:
 Este Vapi + n8n Voice Agent ganhou US\$ 5.000 em apenas 21 dias
@@ -558,7 +558,7 @@ Essa conversa é ao mesmo tempo inspiradora e prática, mostrando o que é poss�
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T03:05:25+00:00
 Texto:
 =========================
@@ -566,7 +566,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T03:05:06+00:00
 Texto:
 =========================
@@ -574,7 +574,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T03:05:01+00:00
 Texto:
 Agosto - Azim K
@@ -670,7 +670,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T03:03:59+00:00
 Texto:
 ============================
@@ -678,7 +678,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T03:03:54+00:00
 Texto:
 Aqui está o resumo estruturado do vídeo **“I Built a Voice AI Web App In 2 Weeks (Nate Herk's Hackathon)”**:
@@ -754,7 +754,7 @@ Aqui está o resumo estruturado do vídeo **“I Built a Voice AI Web App In 2 W
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T03:02:48+00:00
 Texto:
 https://www.youtube.com/watch?v=zLQyCSunKGI
@@ -763,7 +763,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T03:01:54+00:00
 Texto:
 [This Vapi + n8n Voice Agent Won $5,000 in J
@@ -773,7 +773,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T03:01:22+00:00
 Texto:
 ====================
@@ -781,7 +781,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T03:01:07+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14321_025.jpg
@@ -789,7 +789,7 @@ Midia: MessageMediaPhoto -> photo_14321_025.jpg
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T02:59:16+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14320_026.jpg
@@ -797,7 +797,7 @@ Midia: MessageMediaPhoto -> photo_14320_026.jpg
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T02:58:22+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14319_027.jpg
@@ -805,7 +805,7 @@ Midia: MessageMediaPhoto -> photo_14319_027.jpg
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T02:57:36+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14318_028.jpg
@@ -813,7 +813,7 @@ Midia: MessageMediaPhoto -> photo_14318_028.jpg
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T02:56:35+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14317_029.jpg
@@ -821,7 +821,7 @@ Midia: MessageMediaPhoto -> photo_14317_029.jpg
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T02:55:35+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14316_030.jpg
@@ -829,7 +829,7 @@ Midia: MessageMediaPhoto -> photo_14316_030.jpg
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T02:54:41+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14315_031.jpg
@@ -837,7 +837,7 @@ Midia: MessageMediaPhoto -> photo_14315_031.jpg
 ------------------------------
 
 MENSAGEM 32
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T02:53:44+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14314_032.jpg
@@ -845,7 +845,7 @@ Midia: MessageMediaPhoto -> photo_14314_032.jpg
 ------------------------------
 
 MENSAGEM 33
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T02:52:47+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14313_033.jpg
@@ -853,7 +853,7 @@ Midia: MessageMediaPhoto -> photo_14313_033.jpg
 ------------------------------
 
 MENSAGEM 34
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T02:52:01+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14312_034.jpg
@@ -861,7 +861,7 @@ Midia: MessageMediaPhoto -> photo_14312_034.jpg
 ------------------------------
 
 MENSAGEM 35
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T02:46:26+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> project-bolt-sb1-ffthe2qc (1).zip
@@ -869,7 +869,7 @@ Midia: MessageMediaDocument -> project-bolt-sb1-ffthe2qc (1).zip
 ------------------------------
 
 MENSAGEM 36
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T02:46:26+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Inbound Assistant (1).json
@@ -877,7 +877,7 @@ Midia: MessageMediaDocument -> Inbound Assistant (1).json
 ------------------------------
 
 MENSAGEM 37
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T02:46:26+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> All_n8n_Workflow_Blueprints.zip
@@ -885,7 +885,7 @@ Midia: MessageMediaDocument -> All_n8n_Workflow_Blueprints.zip
 ------------------------------
 
 MENSAGEM 38
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T02:39:49+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14307_038.jpg
@@ -893,7 +893,7 @@ Midia: MessageMediaPhoto -> photo_14307_038.jpg
 ------------------------------
 
 MENSAGEM 39
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T02:39:44+00:00
 Texto:
 ap62 - Vapi Inbound Assistent - Mental Assistente
@@ -901,7 +901,7 @@ ap62 - Vapi Inbound Assistent - Mental Assistente
 ------------------------------
 
 MENSAGEM 40
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T02:39:43+00:00
 Texto:
 .
@@ -909,7 +909,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 41
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T02:39:43+00:00
 Texto:
 .
@@ -917,7 +917,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 42
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T02:39:43+00:00
 Texto:
 .
@@ -925,7 +925,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 43
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T02:39:43+00:00
 Texto:
 .
@@ -933,7 +933,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 44
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T02:39:43+00:00
 Texto:
 https://chatgpt.com/c/68cb6da2-9310-832a-8e1d-0e27b2393966
@@ -942,7 +942,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 45
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T02:39:42+00:00
 Texto:
 1
@@ -950,7 +950,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 46
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T02:39:37+00:00
 Texto: [Sem texto]
 

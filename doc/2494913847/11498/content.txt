@@ -18,7 +18,7 @@ Opa. Esse eu vou estudar
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-22T01:31:35+00:00
 Texto:
 em desenvolvimento mas a parte superior ja funciona em portugues, so mudar o nome no email
@@ -27,7 +27,7 @@ Midia: MessageMediaDocument -> m23 - Auditoria de IA 2.json
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-22T01:27:03+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> report_SISNEMA_INFORMATICA_2025_07_22T01_16_16_639456+00_00_draftn.pdf
@@ -35,7 +35,7 @@ Midia: MessageMediaDocument -> report_SISNEMA_INFORMATICA_2025_07_22T01_16_16_63
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-20T05:35:01+00:00
 Texto:
 estou traduzindo para portugues.
@@ -43,7 +43,7 @@ estou traduzindo para portugues.
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-20T05:23:32+00:00
 Texto:
 ajustando formataçêo
@@ -52,7 +52,7 @@ Midia: MessageMediaDocument -> modified.json
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-19T04:09:40+00:00
 Texto:
 https://chatgpt.com/c/687b11ae-e498-8009-a889-b9d734ed2b52
@@ -61,7 +61,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-19T04:07:27+00:00
 Texto:
 https://enchanting-figolla-6b2fa2.netlify.app
@@ -70,7 +70,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T20:39:40+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11526_008.jpg
@@ -78,7 +78,7 @@ Midia: MessageMediaPhoto -> photo_11526_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T20:37:23+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11524_009.jpg
@@ -86,7 +86,7 @@ Midia: MessageMediaPhoto -> photo_11524_009.jpg
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T20:36:02+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11523_010.jpg
@@ -94,7 +94,7 @@ Midia: MessageMediaPhoto -> photo_11523_010.jpg
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T20:34:29+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11522_011.jpg
@@ -102,7 +102,7 @@ Midia: MessageMediaPhoto -> photo_11522_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T20:29:40+00:00
 Texto:
 ### 🟢 Como foi feita a conversêo de Make para n8n (passo a passo)
@@ -175,7 +175,7 @@ Em menos de 1 hora:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T20:29:15+00:00
 Texto:
 ===============
@@ -183,7 +183,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T20:28:11+00:00
 Texto:
 Aqui vai o **passo a passo resumido** para você criar o **Self-Serve AI Audit App** como lead magnet usando **make** e **n8n**. Vou dividir em **3 etapas principais**: front-end (app), automaçêo (Make/n8n) e entrega do relatório.
@@ -309,7 +309,7 @@ Inclua:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T20:25:45+00:00
 Texto:
 ===========
@@ -317,7 +317,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T20:13:00+00:00
 Texto:
 Resumo:
@@ -364,7 +364,7 @@ Um tutorial completo sobre como criar o app **Self-Serve AI Audit** como isca di
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T20:10:58+00:00
 Texto:
 ============
@@ -372,7 +372,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T20:02:45+00:00
 Texto:
 Roube Meu App de Auditoria de IA – MELHOR Isca Digital, Tudo Seu (Bomba de Valor 💣)
@@ -401,7 +401,7 @@ Perfeito para consultores e agências que querem qualificar leads automaticament
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T20:01:14+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> mock_data.txt
@@ -409,7 +409,7 @@ Midia: MessageMediaDocument -> mock_data.txt
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T20:01:08+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Self-Serve AI Audit_n8n.json
@@ -417,7 +417,7 @@ Midia: MessageMediaDocument -> Self-Serve AI Audit_n8n.json
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T20:01:03+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11508_021.jpg
@@ -425,7 +425,7 @@ Midia: MessageMediaPhoto -> photo_11508_021.jpg
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T20:00:19+00:00
 Texto:
 m23 - App de Auditoria de IA
@@ -433,7 +433,7 @@ m23 - App de Auditoria de IA
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T20:00:03+00:00
 Texto:
 .
@@ -441,7 +441,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T20:00:02+00:00
 Texto:
 .
@@ -449,7 +449,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T20:00:02+00:00
 Texto:
 .
@@ -457,7 +457,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T20:00:01+00:00
 Texto:
 .
@@ -465,7 +465,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T20:00:00+00:00
 Texto:
 .
@@ -473,7 +473,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T19:59:59+00:00
 Texto:
 .
@@ -481,7 +481,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T19:59:59+00:00
 Texto:
 https://chatgpt.com/c/6879540b-5e0c-8009-be2e-58bc074fd07b
@@ -490,7 +490,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T19:59:57+00:00
 Texto:
 1
@@ -498,7 +498,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T19:59:51+00:00
 Texto: [Sem texto]
 

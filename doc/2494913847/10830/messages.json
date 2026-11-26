@@ -1,7 +1,7 @@
 [
   {
     "id": 10854,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-02T22:39:59+00:00",
     "text": "https://www.youtube.com/watch?v=xWhX61651H8",
     "has_media": true,
@@ -9,7 +9,7 @@
   },
   {
     "id": 10853,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-02T22:39:46+00:00",
     "text": "**Hacks e Dicas Práticas para RAG no n8n**\n\n1. **Aumente o número de chunks buscados**\n   Defina o limite do Supabase Vector Store para 20 ou mais. Mais chunks = mais opções para o reranker escolher, aumentando a precisêo.\n\n2. **Filtragem dinâmica por metadados**\n   Crie um nó de IA antes do Vector Store que entende a pergunta e monta automaticamente o filtro de metadados, deixando o agente “inteligente” para buscar só o que interessa.\n\n3. **Filtre por relevância mínima**\n   Adicione um passo para só aceitar chunks com score de relevância acima de 0.7 (ou o valor que preferir), evitando respostas ruins.\n\n4. **Metadados ricos**\n   Sempre que possível, adicione mais campos aos metadados: datas, autores, categorias, IDs, etc. Isso facilita buscas avançadas no futuro.\n\n5. **Automatize extraçêo de metadados**\n   Use IA para analisar PDFs e gerar campos como “capítulos”, “seções”, “tópicos” automaticamente, facilitando segmentações e buscas específicas.\n\n6. **Use templates prontos**\n   Importe workflows e exemplos de comunidades como a Free School Community do vídeo, para nêo perder tempo do zero.\n\n7. **Salve logs detalhados**\n   Ative logs de todos os passos do agente para identificar facilmente onde a busca falha ou acerta e ajustar os filtros/metadados.\n\n8. **Reranker alternativo**\n   Se surgir suporte, teste outros rerankers além do Cohere, comparando a performance em diferentes tipos de dados/textos.\n\n9. **Divida perguntas complexas**\n   Para perguntas amplas (“explique regras 1 a 10”), divida a consulta em várias, uma para cada metadado, e junte as respostas no final.\n\n10. **Aproveite funções condicionais**\n    Combine filtros por metadado + score + condiçêo de fallback (ex: se nêo encontrar nada relevante, faça nova busca mais ampla).",
     "has_media": false,
@@ -17,7 +17,7 @@
   },
   {
     "id": 10852,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-02T22:39:27+00:00",
     "text": "=============",
     "has_media": false,
@@ -25,7 +25,7 @@
   },
   {
     "id": 10851,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-02T22:39:24+00:00",
     "text": "**Passo a Passo – Novo RAG com Reranker e Metadados no n8n**\n\n1. **Pré-requisitos**\n\n   * n8n na versêo 1.98 ou superior.\n   * Conta e banco vetorial criado no Supabase.\n   * Chave de API da Cohere (para reranker).\n\n2. **Fluxo Básico**\n\n   * Estruture um fluxo no n8n conectando seu chatbot (pode ser ChatGPT ou outro modelo), Supabase e RAG Agents.\n   * Garanta que já está fazendo a vetorizaçêo dos seus documentos no Supabase.\n\n3. **Adicionando Metadados**\n\n   * Ao dividir seus documentos em chunks para enviar ao Supabase, adicione campos extras (metadados) relevantes, como:\n\n     * “número\\_da\\_regra”, “data”, “nome\\_do\\_projeto”, etc.\n   * No nó de vetorizaçêo (Default Data Loader), use a opçêo de adicionar metadados: insira os campos desejados para cada chunk.\n\n4. **Configurando o Reranker**\n\n   * No nó do Supabase Vector Store, aumente o número de chunks retornados (ex: 20).\n   * Ative a opçêo de reranking e selecione “Cohere” como reranker.\n   * Insira sua chave de API Cohere e selecione o modelo (ex: v3.5).\n   * O n8n buscará 20 chunks, reranqueará e devolverá apenas os mais relevantes (ex: top 3).\n\n5. **Utilizando Filtros por Metadados na Busca**\n\n   * No nó do Supabase Vector Store, adicione um filtro por metadados:\n\n     * Nome do campo (ex: “número\\_da\\_regra”).\n     * Valor para filtrar (ex: “27” para buscar a regra 27).\n   * Você pode automatizar para que o agente extraia do texto da pergunta o filtro correto e envie para o nó.\n\n6. **Testando a Busca Inteligente**\n\n   * Faça perguntas específicas, como “fale sobre a regra 27”.\n   * O agente irá filtrar, buscar chunks pelo metadado e reranquear os resultados.\n   * Você terá respostas muito mais precisas e contextualizadas.\n\n7. **(Opcional) Automatize o Preenchimento dos Filtros**\n\n   * Crie um nó de agente responsável por interpretar a pergunta e preencher automaticamente o filtro de metadados.\n   * Assim, o usuário pode perguntar “quais as regras do projeto X em 2024?” e o filtro será montado automaticamente.\n\n---\n\n**Resumo dos principais nós no fluxo:**\n\n* Loader de documento → Divisêo em chunks + metadados\n* Supabase Vector Store (com reranker e filtros de metadados)\n* RAG Agent → Modelo de IA (ChatGPT, Gemini, etc.)\n* Resposta ao usuário\n\n---\n\n**Exemplo prático de metadados:**\n\n* PDF de regras de golfe: ao dividir, adicionar campo “número\\_da\\_regra”.\n* Reuniões: adicionar campo “data”.",
     "has_media": false,
@@ -33,7 +33,7 @@
   },
   {
     "id": 10850,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-02T22:38:57+00:00",
     "text": "=========",
     "has_media": false,
@@ -41,7 +41,7 @@
   },
   {
     "id": 10849,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-02T22:38:54+00:00",
     "text": "**Resumo : Como o novo RAG com Reranker e Metadados deixa os agentes n8n muito mais inteligentes**\n\n1. **O que mudou no novo RAG do n8n**\n\n   * O RAG tradicional só trazia os “vetores” mais próximos da pergunta, nem sempre os mais relevantes.\n   * Agora, com o reranker, ele busca vários resultados, avalia quais realmente sêo relevantes, e só entrega os melhores para o agente de IA.\n   * Isso torna as respostas muito mais precisas e inteligentes.\n\n2. **Como funciona a busca e o reranking**\n\n   * Quando você faz uma pergunta, ela vira um vetor.\n   * O sistema busca os “chunks” (pedaços de texto) mais próximos no banco vetorial (por exemplo, Supabase).\n   * Com o reranker ativado, em vez de pegar só 3 ou 4, ele pode buscar 20, analisar todos e entregar os 3 mais relevantes com uma pontuaçêo.\n   * Exemplo prático: Perguntando sobre a ordem de jogo no golfe, o reranker avalia 20 trechos e retorna os 3 mais relevantes para a resposta.\n\n3. **Por que o reranker faz diferença**\n\n   * Sem reranker: O sistema pode retornar pedaços de texto pouco relacionados à sua pergunta.\n   * Com reranker: Ele só traz o que realmente importa, reduzindo erros e respostas fora de contexto.\n   * É possível até filtrar por uma pontuaçêo mínima de relevância.\n\n4. **Uso de metadados para filtragem**\n\n   * Metadados sêo informações extras associadas a cada trecho, como número da regra, data, nome do projeto, etc.\n   * Ao buscar, o agente pode filtrar por esses metadados para trazer resultados ainda mais precisos.\n   * Exemplo: Buscar apenas as regras de número 27, mesmo que o texto do chunk nêo cite “regra 27”.\n\n5. **Como adicionar metadados na vetorizaçêo**\n\n   * No fluxo de vetorizaçêo, ao carregar os dados, você pode adicionar campos como “número da regra”, “data”, “ID”, etc.\n   * Exemplo: Ao dividir um PDF de regras de golfe, cada chunk recebe um campo “número da regra”.\n\n6. **Como usar filtros por metadados na busca**\n\n   * No Supabase Vector Store, é possível configurar filtros por metadados.\n   * O ideal é que um agente determine, baseado na pergunta do usuário, quais filtros aplicar.\n   * Exemplo prático: Perguntando “fale sobre a regra 27”, o agente filtra para trazer apenas chunks que têm o metadado “número da regra = 27”.\n\n7. **Resultados com e sem filtro por metadados**\n\n   * Sem filtro: Pode demorar várias buscas para encontrar o que realmente interessa.\n   * Com filtro: Já traz o resultado correto na primeira tentativa, só com os chunks certos.\n\n8. **Aplicações práticas de metadados**\n\n   * Você pode usar metadados para buscar por data, nome do cliente, projeto, departamento, etc.\n   * Exemplo: Buscar transcrições de reuniões só de um determinado dia, usando o campo “data”.\n\n---\n\n**Exemplos e respostas:**\n\n* **O que é reranker?**\n  É uma etapa que reordena os resultados encontrados no banco vetorial, escolhendo os mais relevantes para responder à pergunta.\n\n* **Por que usar metadados?**\n  Para filtrar e encontrar com precisêo só as informações que realmente correspondem ao que foi pedido, mesmo quando o texto do chunk nêo cita isso explicitamente.\n\n* **Como funciona na prática?**\n  Você pode adicionar campos como “regra”, “data”, “projeto”, etc., e filtrar a busca usando esses campos, tornando o agente de IA mais eficiente.\n\n* **Como adicionar metadados?**\n  No processo de vetorizaçêo (ao dividir e subir os textos), inclua os campos de metadados que desejar.\n\n* **Como usar filtro por metadados?**\n  No node do Supabase Vector Store, adicione o filtro com nome do campo e valor que deseja filtrar (por exemplo, “número da regra = 27”).",
     "has_media": false,
@@ -49,7 +49,7 @@
   },
   {
     "id": 10848,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-02T22:36:12+00:00",
     "text": "",
     "has_media": true,
@@ -58,7 +58,7 @@
   },
   {
     "id": 10847,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-02T22:35:41+00:00",
     "text": "",
     "has_media": true,
@@ -67,7 +67,7 @@
   },
   {
     "id": 10846,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-02T22:34:54+00:00",
     "text": "",
     "has_media": true,
@@ -76,7 +76,7 @@
   },
   {
     "id": 10845,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-02T22:32:52+00:00",
     "text": "",
     "has_media": true,
@@ -85,7 +85,7 @@
   },
   {
     "id": 10844,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-02T22:32:19+00:00",
     "text": "",
     "has_media": true,
@@ -94,7 +94,7 @@
   },
   {
     "id": 10843,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-02T22:31:32+00:00",
     "text": "",
     "has_media": true,
@@ -103,7 +103,7 @@
   },
   {
     "id": 10842,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-02T22:31:30+00:00",
     "text": "",
     "has_media": true,
@@ -112,7 +112,7 @@
   },
   {
     "id": 10841,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-02T22:27:32+00:00",
     "text": "",
     "has_media": true,
@@ -121,7 +121,7 @@
   },
   {
     "id": 10840,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-02T22:27:27+00:00",
     "text": "",
     "has_media": true,
@@ -130,7 +130,7 @@
   },
   {
     "id": 10839,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-02T22:26:09+00:00",
     "text": "ap39 - ** RAG Agents (Reranking & Metadata)**",
     "has_media": false,
@@ -138,7 +138,7 @@
   },
   {
     "id": 10838,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-02T22:26:07+00:00",
     "text": ".",
     "has_media": false,
@@ -146,7 +146,7 @@
   },
   {
     "id": 10837,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-02T22:26:06+00:00",
     "text": ".",
     "has_media": false,
@@ -154,7 +154,7 @@
   },
   {
     "id": 10836,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-02T22:26:06+00:00",
     "text": "..",
     "has_media": false,
@@ -162,7 +162,7 @@
   },
   {
     "id": 10835,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-02T22:26:05+00:00",
     "text": ".",
     "has_media": false,
@@ -170,7 +170,7 @@
   },
   {
     "id": 10834,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-02T22:26:04+00:00",
     "text": ".",
     "has_media": false,
@@ -178,7 +178,7 @@
   },
   {
     "id": 10833,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-02T22:26:04+00:00",
     "text": ".",
     "has_media": false,
@@ -186,7 +186,7 @@
   },
   {
     "id": 10832,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-02T22:26:04+00:00",
     "text": "https://chatgpt.com/c/6865b22c-ba74-8009-ae50-9d164df61756",
     "has_media": true,
@@ -194,7 +194,7 @@
   },
   {
     "id": 10831,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-02T22:26:03+00:00",
     "text": "1",
     "has_media": false,
@@ -202,7 +202,7 @@
   },
   {
     "id": 10830,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-02T22:25:59+00:00",
     "text": "",
     "has_media": false,

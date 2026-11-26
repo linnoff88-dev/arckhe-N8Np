@@ -10,7 +10,7 @@ Midias baixadas: 10
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-24T15:57:27+00:00
 Texto:
 https://www.youtube.com/watch?v=lnm0PMi-4mE
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-24T15:55:06+00:00
 Texto:
 ## 🧠 HACKS PARA UM RAG EFICIENTE COM METADADOS
@@ -146,7 +146,7 @@ Isso permite:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-24T15:53:37+00:00
 Texto:
 =============
@@ -154,7 +154,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-24T15:53:33+00:00
 Texto:
 ## 🔧 Requisitos antes de começar
@@ -287,7 +287,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-24T15:40:11+00:00
 Texto:
 ============
@@ -295,7 +295,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-24T15:40:07+00:00
 Texto:
 ## O que é RAG?
@@ -385,7 +385,7 @@ RAG é uma soluçêo poderosa para construir **assistentes inteligentes**, mas o
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-24T15:39:38+00:00
 Texto:
 ==================
@@ -393,7 +393,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-24T15:39:34+00:00
 Texto:
 **Resumo do vídeo “Smarter RAG Starts with Metadata (Beginner’s Guide)”**
@@ -474,7 +474,7 @@ Como construir um fluxo RAG (Geraçêo Aumentada por Recuperaçêo) inteligente,
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-24T15:38:12+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11801_009.jpg
@@ -482,7 +482,7 @@ Midia: MessageMediaPhoto -> photo_11801_009.jpg
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-24T15:37:42+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11800_010.jpg
@@ -490,7 +490,7 @@ Midia: MessageMediaPhoto -> photo_11800_010.jpg
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-24T15:37:18+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11799_011.jpg
@@ -498,7 +498,7 @@ Midia: MessageMediaPhoto -> photo_11799_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-24T15:36:43+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11798_012.jpg
@@ -506,7 +506,7 @@ Midia: MessageMediaPhoto -> photo_11798_012.jpg
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-24T15:34:13+00:00
 Texto:
 **RAG mais inteligente começa com metadados (Guia para iniciantes)**
@@ -524,7 +524,7 @@ Se você está construindo qualquer tipo de assistente ou agente de IA, esse é 
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-24T15:32:55+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> YouTube Videos (file -_ make a copy).xlsx
@@ -532,7 +532,7 @@ Midia: MessageMediaDocument -> YouTube Videos (file -_ make a copy).xlsx
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-24T15:32:08+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> YouTube Chat Metadata.json
@@ -540,7 +540,7 @@ Midia: MessageMediaDocument -> YouTube Chat Metadata.json
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-24T15:32:03+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11794_016.jpg
@@ -548,7 +548,7 @@ Midia: MessageMediaPhoto -> photo_11794_016.jpg
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-24T15:31:37+00:00
 Texto:
 ap48 - Youtube Transcriçêo RAG
@@ -556,7 +556,7 @@ ap48 - Youtube Transcriçêo RAG
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-24T15:31:35+00:00
 Texto:
 .
@@ -564,7 +564,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-24T15:31:35+00:00
 Texto:
 .
@@ -572,7 +572,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-24T15:31:35+00:00
 Texto:
 .
@@ -580,7 +580,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-24T15:31:34+00:00
 Texto:
 .
@@ -588,7 +588,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-24T15:31:34+00:00
 Texto:
 https://chatgpt.com/c/6882523d-d4a4-8009-b2fa-0192e18bc5c6
@@ -597,7 +597,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-24T15:31:34+00:00
 Texto:
 1
@@ -605,7 +605,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-24T15:31:29+00:00
 Texto: [Sem texto]
 

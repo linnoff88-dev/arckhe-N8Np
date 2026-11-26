@@ -176,7 +176,7 @@
 "summarizationMethodAndPrompts": {
 "values": {
 "prompt": "=Write a concise summary of the following in max 100 words:\n\n\"{{ $json.data }}\"\n\nDo not enter the total number of words used.",
-"combineMapPrompt": "=Write a concise summary of the following in max 100 words:\n\n\"{{ $json.data }}\"\n"
+"combARCKHÉpPrompt": "=Write a concise summary of the following in max 100 words:\n\n\"{{ $json.data }}\"\n"
 }
 }
 },

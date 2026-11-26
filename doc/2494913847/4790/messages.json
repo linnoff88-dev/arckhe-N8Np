@@ -1,7 +1,7 @@
 [
   {
     "id": 7472,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-10T17:13:27+00:00",
     "text": "coloca a pergunta no assuntos gerais, atinge mais gente q aqui neste topico. e detalhe o q é para ser bem especificio",
     "has_media": false,
@@ -41,7 +41,7 @@
   },
   {
     "id": 4817,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-05T09:29:26+00:00",
     "text": "Evolution API: Parte 2 | WhatsApp mais natural**\n\nComo trabalhar com os módulos da Evolution API diretamente no N8N, sem precisar usar módulos HTTP personalizados. Isso simplifica muito o trabalho com o WhatsApp e outras funcionalidades relacionadas.\n\n🔌**Instalaçêo do módulo da Evolution API**  Acessamos a seçêo *Community Nodes* do N8N e buscamos:  \n**n8n-nodes-evolution-api**.\nSelecionamos e instalamos o nó criado pela Orion Design.\nDepois de instalado, já conseguimos visualizar os módulos no painel de ações com o nome \"Evolution\".\n🔐**Configuraçêo de credenciais**  Criamos uma nova credencial do tipo **Evolution API**.\nInserimos a URL da instância da Evolution (a geral, nêo uma específica).\nTambém adicionamos a **API Key**, que é obtida no Portainer (editando o stack da Evolution).\n📤**Envio de mensagens com a Evolution API**  \nCom tudo configurado, podemos enviar:\n- Texto  - Imagens  \n- Vídeos  - Áudios  \n- Documentos  - Contatos  \n- Localizaçêo  - Botões interativos  \n- Respostas a mensagens  - E até **status/histórias do WhatsApp** (ainda em fase de testes)\n👉 Testamos o envio de status ou histórias, uma funçêo muito poderosa que ainda está sendo testada.\n🧠**Agrupamento de mensagens antes do envio**  \nCriamos uma lógica para agrupar todas as mensagens enviadas nos primeiros 30 segundos. Isso traz dois benefícios:\n1. Melhora a naturalidade da resposta do chatbot  2. Reduz o consumo de tokens no OpenAI\nPara isso:\n- Usamos o Redis como banco de dados rápido  \n- Armazenamos todas as mensagens recebidas nesse intervalo  - Verificamos se já se passaram 30 segundos desde a última mensagem  \n- Se sim, enviamos todas as mensagens agrupadas para o webhook do chatbot\n🛠️**Configuraçêo avançada da Evolution API**  Dentro de cada instância, na aba \"Settings\":\n- Bloqueamos chamadas se houver um chatbot ativo  \n- Ativamos a pré-visualizaçêo de links  - Permitimos o recebimento de eventos como status, mensagens, áudios e arquivos\nNa aba \"Events\":\n- Ativamos o webhook do N8N  \n- Colamos a URL do webhook (ambiente de testes ou produçêo)  - Ativamos a opçêo **Base64 Webhook** para arquivos\n📱**Vinculaçêo do número do WhatsApp**  \nNo WhatsApp:\n- Vamos em “Dispositivos vinculados”  - Escaneamos o QR code a partir da Evolution  \nPronto! O número está conectado e funcionando.\n🧰**Novas funcionalidades do N8N**  \n- Agora é possível criar **pastas** para organizar os workflows  \n- Vimos como atualizar a versêo do N8N diretamente pelo Portainer (botêo “Update”)  - Também exploramos a criaçêo de **novas instâncias da Evolution com o canal Bailys** (que permite conectar o WhatsApp tradicional)\n💬**Perguntas frequentes respondidasQual é melhor: Evolution API ou WhatsApp Cloud API?**👉 O ideal é ter as duas: usar **Evolution** para conversas comuns e **Cloud API** para envios em massa.\n**Qual base de conhecimento usar: Supabase ou Pinecone?**👉 Ambas sêo boas. O **Supabase** é mais conveniente se for instalado junto com a Evolution no VPS, pois é **open source** e gratuito.\n**Recursos:**  \nChatbot_Evolution_API",
     "has_media": false,
@@ -49,7 +49,7 @@
   },
   {
     "id": 4816,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-05T09:29:17+00:00",
     "text": "===============",
     "has_media": false,
@@ -57,7 +57,7 @@
   },
   {
     "id": 4815,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-05T09:29:10+00:00",
     "text": "RAC em um NAS. Explicamos que, até o momento, conseguimos instalar o Supabase corretamente apenas com o setup do Orion em **Ubuntu 24**.\n\n✅ **Conclusêo**  \nConseguimos montar um fluxo completo integrando a Evolution API com o N8N, onde:\n\n- Recebemos qualquer tipo de mensagem  \n- Processamos e classificamos o conteúdo  \n- Respondemos de forma coerente, segmentada e com atrasos naturais  \n- Tudo conectado a uma **base de conhecimento dinâmica**\n\nEsse sistema permite criar **assistentes muito mais naturais, escaláveis e adaptados** a diferentes tipos de usuários e conteúdos.",
     "has_media": false,
@@ -65,7 +65,7 @@
   },
   {
     "id": 4814,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-05T09:29:10+00:00",
     "text": "Parte 1** do conteúdo sobre Evolution API e WhatsApp Web:\n\n**Evolution API: WhatsApp Web nos seus fluxos**\n\n📌 **Objetivo da aula**  \nAprendemos a instalar e configurar a Evolution API para integrá-la com agentes criados no N8N, permitindo **enviar e receber mensagens pelo WhatsApp**, incluindo texto, áudios, imagens e figurinhas (stickers). Além disso, exploramos como **gerenciar as respostas do agente com atrasos naturais** e como **dividir mensagens longas** para que pareçam mais humanas.\n\n🧰 **Passos principais e configuraçêo**\n\n1. **Instalaçêo e acesso ao Orion**  \nAcessamos o ambiente de instalaçêo com o comando já utilizado em aulas anteriores.  \nSelecionamos a **opçêo 06** para instalar a Evolution API.  \nÉ necessário ter uma **VPS ativa** para hospedar nossa instância e garantir que tudo funcione corretamente.\n\n2. **Configuraçêo da Evolution API**  \nAcessamos a URL do painel de gerenciamento após a instalaçêo.  \nCriamos uma nova instância (ex: \"cocreacion\") usando o canal gratuito **Baylys**.  \nConfiguramos a instância para:\n\n- Rejeitar chamadas  \n- Ignorar grupos (se necessário)  \n- Marcar mensagens como lidas  \n- Sincronizar o histórico  \n\nColamos o **webhook de entrada do N8N** e ativamos a opçêo para **receber arquivos em base64**.  \nAtivamos **apenas** o evento `message.upsert`.\n\n3. **Conexêo com o WhatsApp**  \nGeramos o QR code a partir da Evolution API.  \nEscaneamos o QR com o aplicativo do WhatsApp, como se fosse o WhatsApp Web.  \nConfirmamos que a linha está conectada.\n\n🛠️ **Construçêo do fluxo no N8N**\n\n4. **Recepçêo e filtragem de mensagens**  \nCriamos um **webhook POST** no N8N para receber as mensagens.  \nAdicionamos filtros para ignorar eventos como \"lido\" ou \"entregue\" e também para **nêo responder mensagens enviadas por nós mesmos** (`fromMe = false`).\n\n5. **Normalizaçêo de variáveis**  \nExtraímos variáveis principais como número do WhatsApp, nome, ID da mensagem e tipo de conteúdo.  \nDetectamos se o conteúdo é texto, áudio, imagem ou sticker e salvamos numa variável chamada `message_type`.\n\n6. **Processamento por tipo de mensagem**  \n\n- **Texto**: Enviado diretamente ao agente  \n- **Áudios**: Convertidos de base64 para `.ogg` e transcritos com o OpenAI  \n- **Imagens**: Analisadas com um prompt simples como “Você é um assistente, analise esta imagem...”  \n- **Stickers**: Tratados da mesma forma que imagens  \n\nTodas as respostas sêo armazenadas na **mesma variável**, para que o agente as processe uniformemente.\n\n🧠 **Resposta do agente e formataçêo natural**\n\n7. **Interaçêo com o agente**  \nConfiguramos o agente com um **prompt base** (ex: um Coach).  \nUsamos o OpenAI com **temperatura 0** para garantir respostas coerentes e baseadas no conhecimento.  \nArmazenamos a conversa por número de telefone usando **windows buffer memory**.\n\n8. **Formataçêo da resposta**  \nSe a resposta tiver mais de **120 caracteres**, dividimos em partes com um LLM.  \nCriamos uma estrutura JSON com: parte 1, parte 2, parte 3...  \nSimulamos que o bot está \"escrevendo\" com **delays proporcionais ao tamanho da resposta**, para parecer mais humano.\n\n9. **Envio da resposta**  \nUtilizamos **HTTP Request** para enviar a resposta pelo WhatsApp.  \nMapeamos a URL, chave de API, instância, número e texto.  \nAdicionamos um delay calculado como: `tamanho * 50` milissegundos.  \nSe houver mais partes, adicionamos etapas para enviar cada uma em sequência.\n\n📚 **Gestêo do conhecimento**  \nUtilizamos o **Supabase** como base de conhecimento.  \nCriamos um **RAC (Repositório de Conhecimento)** no Supabase carregando arquivos a partir de uma pasta.  \nIntegramos esse RAC ao agente para que ele possa acessar as informações ao responder.  \nSe o volume de informaçêo for pequeno, também é possível incluir diretamente no **prompt** do agente.\n\n💬 **Perguntas destacadas**\n\n- **Jannet** pergunta se é possível automatizar a divisêo da resposta em partes. Explicamos que atualmente é feito manualmente, mas pode ser controlado com lógica condicional ou com um agente que calcule o número de partes necessárias.  \n- **Víctor** pergunta sobre hospedar o",
     "has_media": false,
@@ -73,7 +73,7 @@
   },
   {
     "id": 4812,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-05T09:26:43+00:00",
     "text": "===============",
     "has_media": false,
@@ -81,7 +81,7 @@
   },
   {
     "id": 4807,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-05T09:16:02+00:00",
     "text": "========",
     "has_media": false,
@@ -89,7 +89,7 @@
   },
   {
     "id": 4805,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-05T09:14:22+00:00",
     "text": ".",
     "has_media": false,
@@ -97,7 +97,7 @@
   },
   {
     "id": 4804,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-05T09:14:22+00:00",
     "text": ".",
     "has_media": false,
@@ -105,7 +105,7 @@
   },
   {
     "id": 4803,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-05T09:14:21+00:00",
     "text": "**Domine a Evolution API com um PRO 🔥**  \n\nImplementar uma automaçêo avançada com a Evolution API no N8N, **sem módulos HTTP**, **sem complicações** e com resultados que falam por si só. 🔥💡**O que conseguimos com essa automaçêo?**✅ Agrupar várias mensagens do WhatsApp como uma só ideia antes de responder (resposta mais natural!)  ✅ Economizar tokens e evitar processamentos desnecessários nos LLMs  \n✅ Configurar o envio de mensagens, imagens, áudios, vídeos, documentos… e até histórias do WhatsApp! 😱✅ Armazenar temporariamente as mensagens e decidir **quando** responder\nE tudo isso com uma configuraçêo técnica sólida, limpa e altamente escalável.\n💬 Se você está criando assistentes conversacionais no WhatsApp, isso muda o jogo.  📁 O blueprint atualizado já está disponível",
     "has_media": false,
@@ -113,7 +113,7 @@
   },
   {
     "id": 4801,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-05T09:10:55+00:00",
     "text": "",
     "has_media": true,
@@ -122,7 +122,7 @@
   },
   {
     "id": 4800,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-05T09:10:35+00:00",
     "text": "",
     "has_media": true,
@@ -131,7 +131,7 @@
   },
   {
     "id": 4799,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-05T09:10:29+00:00",
     "text": "ea2 - Evolution API Whatsapp",
     "has_media": false,
@@ -139,7 +139,7 @@
   },
   {
     "id": 4798,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-05T09:10:27+00:00",
     "text": ".",
     "has_media": false,
@@ -147,7 +147,7 @@
   },
   {
     "id": 4797,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-05T09:10:27+00:00",
     "text": ".",
     "has_media": false,
@@ -155,7 +155,7 @@
   },
   {
     "id": 4796,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-05T09:10:26+00:00",
     "text": ".",
     "has_media": false,
@@ -163,7 +163,7 @@
   },
   {
     "id": 4795,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-05T09:10:26+00:00",
     "text": ".",
     "has_media": false,
@@ -171,7 +171,7 @@
   },
   {
     "id": 4794,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-05T09:10:26+00:00",
     "text": ".",
     "has_media": false,
@@ -179,7 +179,7 @@
   },
   {
     "id": 4793,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-05T09:10:25+00:00",
     "text": ".",
     "has_media": false,
@@ -187,7 +187,7 @@
   },
   {
     "id": 4792,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-05T09:10:25+00:00",
     "text": "https://chatgpt.com/c/67f0f1eb-fb3c-8009-af25-f314102d7864",
     "has_media": true,
@@ -195,7 +195,7 @@
   },
   {
     "id": 4791,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-05T09:10:25+00:00",
     "text": "1",
     "has_media": false,
@@ -203,7 +203,7 @@
   },
   {
     "id": 4790,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-05T09:10:18+00:00",
     "text": "",
     "has_media": false,

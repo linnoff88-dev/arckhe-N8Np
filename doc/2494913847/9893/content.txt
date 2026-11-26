@@ -26,7 +26,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T06:10:39+00:00
 Texto:
 https://www.youtube.com/watch?v=4YtC8BZPnjw
@@ -35,7 +35,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T06:10:15+00:00
 Texto:
 https://site.financialmodelingprep.com/developer/docs/pricing
@@ -44,7 +44,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T06:10:09+00:00
 Texto:
 Aqui está o **passo a passo completo** para criar um **Assistente de Investimentos com IA automatizado** usando **OpenAI, Supabase, FMP API, Google Drive e n8n**, sem codificaçêo.
@@ -160,7 +160,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T06:08:57+00:00
 Texto:
 ==========
@@ -168,7 +168,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T06:08:39+00:00
 Texto:
 **Resumo do conteúdo – Assistente de Investimentos com IA automatizado usando RAG, OpenAI, n8n e Supabase**
@@ -222,7 +222,7 @@ Este projeto ensina como criar um assistente de investimentos inteligente que an
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T06:07:57+00:00
 Texto:
 Seu Assistente de Investimentos Financeiros
@@ -236,7 +236,7 @@ Esse sistema recupera e analisa dados financeiros, acompanha informações em te
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T06:07:12+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Template_4_I_Built_an_AI_Agent_to_be_Your_Financial_Investment_Assistant.json
@@ -244,7 +244,7 @@ Midia: MessageMediaDocument -> Template_4_I_Built_an_AI_Agent_to_be_Your_Financi
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T06:07:07+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9902_010.jpg
@@ -252,7 +252,7 @@ Midia: MessageMediaPhoto -> photo_9902_010.jpg
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T06:05:29+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9901_011.jpg
@@ -260,7 +260,7 @@ Midia: MessageMediaPhoto -> photo_9901_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T06:05:26+00:00
 Texto:
 al42 - Agente de Investimento
@@ -268,7 +268,7 @@ al42 - Agente de Investimento
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T06:05:25+00:00
 Texto:
 ..
@@ -276,7 +276,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T06:05:25+00:00
 Texto:
 .
@@ -284,7 +284,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T06:05:25+00:00
 Texto:
 .
@@ -292,7 +292,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T06:05:24+00:00
 Texto:
 .
@@ -300,7 +300,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T06:05:24+00:00
 Texto:
 https://chatgpt.com/c/684e6208-6a7c-8009-ae21-d67d7819a3c0
@@ -309,7 +309,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T06:05:23+00:00
 Texto:
 1
@@ -317,7 +317,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T06:05:15+00:00
 Texto: [Sem texto]
 

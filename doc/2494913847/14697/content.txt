@@ -18,7 +18,7 @@ Show
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:11:53+00:00
 Texto:
 Volta ao Split In Batches até concluir todos os itens
@@ -65,7 +65,7 @@ Perguntas frequentes com respostas
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:11:53+00:00
 Texto:
 Passo a passo direto do vídeo (n8n + Apify + IA + Google Sheets)
@@ -185,7 +185,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:11:44+00:00
 Texto:
 =================
@@ -193,7 +193,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:10:28+00:00
 Texto:
 anúncios via Apify (ou API/HTTP request), aplicar filtros de qualidade, extrair dados essenciais (texto, imagens, vídeos, engajamento), usar IA em camadas para gerar resumos e copies reescritos, armazenar tudo em Google Sheets ou um DB vetorial, e usar esses outputs para criar imagens, roteiros UGC e novas campanhas. Hacks chave: filtrar antes de analisar, processar em batches com loop+wait, re-enfileirar vídeos em processing, usar embeddings para agrupar, e versionar prompts. Sempre monitorar custos e adicionar controle humano para calibrar.
@@ -279,7 +279,7 @@ TÓPICOS COM EXEMPLOS E PERGUNTAS/RESPOSTAS
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:10:28+00:00
 Texto:
 HACKS PRÁTICOS
@@ -383,7 +383,7 @@ A automaçêo deve primeiro obter
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:08:27+00:00
 Texto:
 ==================
@@ -391,7 +391,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:08:24+00:00
 Texto:
 ### Resumo da Automaçêo – Scraping de Anúncios do Meta Ads
@@ -438,7 +438,7 @@ Como construir uma **automaçêo prática para identificar produtos vencedores**
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:07:46+00:00
 Texto:
 ============
@@ -446,7 +446,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:07:44+00:00
 Texto:
 Ensina a criar uma **automaçêo completa** para encontrar produtos virais a partir da biblioteca de anúncios do **Meta Ads**, filtrando por qualidade e analisando automaticamente imagens, vídeos e textos com **IA (Gemini / OpenAI)**.
@@ -490,7 +490,7 @@ Ensina a criar uma **automaçêo completa** para encontrar produtos virais a par
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:05:18+00:00
 Texto:
 ==================
@@ -498,7 +498,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:05:14+00:00
 Texto:
 🤑 Encontre produtos virais de forma automática
@@ -531,7 +531,7 @@ Isso é ouro puro se você é agência, SaaS, ecom ou consultor e quer acelerar 
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:03:29+00:00
 Texto:
 ==============
@@ -539,7 +539,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:02:14+00:00
 Texto:
 https://apify.com/curious_coder/facebook-ads-library-scraper
@@ -548,7 +548,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:02:03+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> escrapeador_facebook.json
@@ -556,7 +556,7 @@ Midia: MessageMediaDocument -> escrapeador_facebook.json
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:02:01+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14708_016.jpg
@@ -564,7 +564,7 @@ Midia: MessageMediaPhoto -> photo_14708_016.jpg
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:00:26+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14707_017.jpg
@@ -572,7 +572,7 @@ Midia: MessageMediaPhoto -> photo_14707_017.jpg
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:00:15+00:00
 Texto:
 e50 - Ache Produtos virais Automática
@@ -580,7 +580,7 @@ e50 - Ache Produtos virais Automática
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:00:14+00:00
 Texto:
 .
@@ -588,7 +588,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:00:13+00:00
 Texto:
 .
@@ -596,7 +596,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:00:13+00:00
 Texto:
 ..
@@ -604,7 +604,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:00:13+00:00
 Texto:
 .
@@ -612,7 +612,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:00:12+00:00
 Texto:
 .
@@ -620,7 +620,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:00:12+00:00
 Texto:
 .
@@ -628,7 +628,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:00:12+00:00
 Texto:
 https://chatgpt.com/c/68df386b-38d8-8333-b832-f8d560c12411
@@ -637,7 +637,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:00:11+00:00
 Texto:
 1
@@ -645,7 +645,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:00:07+00:00
 Texto: [Sem texto]
 

@@ -10,7 +10,7 @@ Midias baixadas: 6
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-18T02:57:35+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Nm67 -v2  Firewall N8N (1).json
@@ -18,7 +18,7 @@ Midia: MessageMediaDocument -> Nm67 -v2  Firewall N8N (1).json
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-18T02:57:10+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12967_002.jpg
@@ -26,7 +26,7 @@ Midia: MessageMediaPhoto -> photo_12967_002.jpg
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-18T02:56:44+00:00
 Texto:
 O que você tem aqui é um **workflow de firewall para IA dentro do n8n**, com camadas de segurança bem definidas. Vou resumir os blocos na ordem do fluxo da imagem:
@@ -83,7 +83,7 @@ Ele:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-18T02:56:23+00:00
 Texto:
 ================
@@ -91,7 +91,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-17T23:39:59+00:00
 Texto:
 Vou criar uma versêo funcional baseada no seu workflow original, mas com as melhorias essenciais.Agora criei uma **versêo funcional** que deve abrir corretamente no n8n! 🎯
@@ -146,7 +146,7 @@ D**evem ser PERMITIDOS:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-17T23:30:34+00:00
 Texto:
 em desenvolvimento
@@ -155,7 +155,7 @@ Midia: MessageMediaDocument -> Nm67 -v2  Firewall N8N.json
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-17T23:09:43+00:00
 Texto:
 em desenvolvimentos ainda
@@ -164,7 +164,7 @@ Midia: MessageMediaDocument -> Nm67 - Firewall N8N.json
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-17T23:03:15+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12960_008.jpg
@@ -172,7 +172,7 @@ Midia: MessageMediaPhoto -> photo_12960_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-17T23:02:36+00:00
 Texto:
 Nm67 - Firewall N8N
@@ -180,7 +180,7 @@ Nm67 - Firewall N8N
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-17T23:02:33+00:00
 Texto:
 .
@@ -188,7 +188,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-17T23:02:32+00:00
 Texto:
 .
@@ -196,7 +196,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-17T23:02:32+00:00
 Texto:
 .
@@ -204,7 +204,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-17T23:02:31+00:00
 Texto:
 .
@@ -212,7 +212,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-17T23:02:30+00:00
 Texto:
 .
@@ -220,7 +220,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-17T23:02:29+00:00
 Texto:
 .
@@ -228,7 +228,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-17T23:02:27+00:00
 Texto:
 https://chatgpt.com/g/g-p-68a2888d77c081919c1a35dbce864837-firewall/c/68a2954b-91f4-832f-b216-6c2d1c1172b5
@@ -237,7 +237,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-17T23:02:24+00:00
 Texto:
 1
@@ -245,7 +245,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-17T23:02:17+00:00
 Texto: [Sem texto]
 

@@ -10,7 +10,7 @@ Midias baixadas: 16
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T20:56:06+00:00
 Texto:
 https://www.youtube.com/watch?v=9NDADEWNH6c
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T20:51:00+00:00
 Texto:
 Aqui está um **resumo prático e direto** do conteúdo do vídeo **“AI Agent’s Greatest Flaw”**, com **exemplos reais** usados pelo autor:
@@ -105,7 +105,7 @@ Agentes de IA podem ser enganados com **comandos ocultos** dentro de mensagens c
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T20:50:02+00:00
 Texto:
 Resumo **“AI Agent’s Greatest Flaw”**:
@@ -125,7 +125,7 @@ Resumo **“AI Agent’s Greatest Flaw”**:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T20:48:52+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 🛡️ AI Security Agent 🛡️.docx
@@ -133,7 +133,7 @@ Midia: MessageMediaDocument -> 🛡️ AI Security Agent 🛡️.docx
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T20:47:37+00:00
 Texto:
 Coloca um Agent antes para avaliar risco
@@ -141,7 +141,7 @@ Coloca um Agent antes para avaliar risco
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T20:47:21+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7366_006.jpg
@@ -149,7 +149,7 @@ Midia: MessageMediaPhoto -> photo_7366_006.jpg
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T20:46:51+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7365_007.jpg
@@ -157,7 +157,7 @@ Midia: MessageMediaPhoto -> photo_7365_007.jpg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T20:45:57+00:00
 Texto:
 USER 
@@ -167,7 +167,7 @@ ASSISTENT
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T20:45:42+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7363_009.jpg
@@ -175,7 +175,7 @@ Midia: MessageMediaPhoto -> photo_7363_009.jpg
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T20:44:40+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7362_010.jpg
@@ -183,7 +183,7 @@ Midia: MessageMediaPhoto -> photo_7362_010.jpg
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T20:44:11+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7361_011.jpg
@@ -191,7 +191,7 @@ Midia: MessageMediaPhoto -> photo_7361_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T20:43:02+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7360_012.jpg
@@ -199,7 +199,7 @@ Midia: MessageMediaPhoto -> photo_7360_012.jpg
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T20:42:30+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7359_013.jpg
@@ -207,7 +207,7 @@ Midia: MessageMediaPhoto -> photo_7359_013.jpg
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T20:42:00+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7358_014.jpg
@@ -215,7 +215,7 @@ Midia: MessageMediaPhoto -> photo_7358_014.jpg
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T20:41:39+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7357_015.jpg
@@ -223,7 +223,7 @@ Midia: MessageMediaPhoto -> photo_7357_015.jpg
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T20:40:51+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7356_016.jpg
@@ -231,7 +231,7 @@ Midia: MessageMediaPhoto -> photo_7356_016.jpg
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T20:40:30+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7355_017.jpg
@@ -239,7 +239,7 @@ Midia: MessageMediaPhoto -> photo_7355_017.jpg
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T20:39:51+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7354_018.jpg
@@ -247,7 +247,7 @@ Midia: MessageMediaPhoto -> photo_7354_018.jpg
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T20:39:26+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7353_019.jpg
@@ -255,7 +255,7 @@ Midia: MessageMediaPhoto -> photo_7353_019.jpg
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T20:38:33+00:00
 Texto:
 Proteja seus Cenarios e Agentes IA
@@ -263,7 +263,7 @@ Proteja seus Cenarios e Agentes IA
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T20:38:31+00:00
 Texto:
 .
@@ -271,7 +271,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T20:38:31+00:00
 Texto:
 .
@@ -279,7 +279,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T20:38:31+00:00
 Texto:
 .
@@ -287,7 +287,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T20:38:31+00:00
 Texto:
 .
@@ -295,7 +295,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T20:38:30+00:00
 Texto:
 .
@@ -303,7 +303,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T20:38:30+00:00
 Texto:
 https://chatgpt.com/c/681bc6fb-8964-8009-998f-5746d154c8cf
@@ -312,7 +312,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T20:38:30+00:00
 Texto:
 1
@@ -320,7 +320,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T20:38:22+00:00
 Texto: [Sem texto]
 

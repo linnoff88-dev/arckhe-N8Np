@@ -1,7 +1,7 @@
 [
   {
     "id": 8792,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-05T18:35:19+00:00",
     "text": "",
     "has_media": true,
@@ -10,7 +10,7 @@
   },
   {
     "id": 8791,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-05T18:35:13+00:00",
     "text": "",
     "has_media": true,
@@ -19,7 +19,7 @@
   },
   {
     "id": 3390,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-17T15:30:18+00:00",
     "text": "https://www.youtube.com/live/2hGXiOaTWEk?si=wUugm0GMeDZi3fYd",
     "has_media": true,
@@ -27,7 +27,7 @@
   },
   {
     "id": 3264,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T18:32:29+00:00",
     "text": "",
     "has_media": true,
@@ -36,7 +36,7 @@
   },
   {
     "id": 3263,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T18:32:29+00:00",
     "text": "",
     "has_media": true,
@@ -45,7 +45,7 @@
   },
   {
     "id": 3262,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T18:32:29+00:00",
     "text": "",
     "has_media": true,
@@ -54,7 +54,7 @@
   },
   {
     "id": 3261,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T18:32:29+00:00",
     "text": "",
     "has_media": true,
@@ -63,7 +63,7 @@
   },
   {
     "id": 3260,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T18:32:29+00:00",
     "text": "",
     "has_media": true,
@@ -72,7 +72,7 @@
   },
   {
     "id": 3259,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T18:32:29+00:00",
     "text": "e7n8",
     "has_media": true,
@@ -81,7 +81,7 @@
   },
   {
     "id": 3212,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T01:42:08+00:00",
     "text": "### e7n8. Extraia informações de arquivos sem complicações  \n\nNesta sessêo, exploramos a maneira mais eficiente e econômica de extrair informações de arquivos como **PDFs, imagens e documentos em diversos formatos**. Utilizamos um cenário de **faturamento** para demonstrar como automatizar o processo de extraçêo e armazenamento de dados com **N8N e Llama Cloud**.  \n\n---\n\n### **Processo de Extraçêo**  \n\n#### **1. Recebimento de Arquivos**  \n📌 Uma **fatura** é enviada para um **bot do Telegram**.  \n📌 A automaçêo detecta o tipo de arquivo (**imagem ou PDF**).  \n\n#### **2. Processamento do Arquivo**  \n📌 O arquivo é enviado para uma **API do Llama Cloud**.  \n📌 Ele é carregado na API para processamento.  \n📌 A automaçêo acompanha o status da extraçêo até receber a confirmaçêo da conclusêo.  \n\n#### **3. Transformaçêo e Estruturaçêo dos Dados**  \n📌 Os dados extraídos sêo convertidos para **Markdown**.  \n📌 Em seguida, sêo transformados em um **JSON** com os seguintes campos:  \n   - Número da fatura  \n   - Data de emissêo  \n   - **CIF/NIF**  \n   - Subtotal  \n   - IVA  \n   - **Valor total**  \n📌 Um modelo da **OpenAI** formata os dados extraídos corretamente.  \n\n#### **4. Armazenamento e Visualizaçêo**  \n📌 O arquivo original é **salvo no Google Drive**.  \n📌 As informações estruturadas sêo **armazenadas no Google Sheets**.  \n📌 Um **mensagem de confirmaçêo** com os dados extraídos é enviada via **Telegram**.  \n\n---\n\n### **Otimizações na Automaçêo**  \n\n✅ **Uso de um Switch no N8N** → Diferencia documentos e imagens para seguir fluxos específicos.  \n✅ **Merge de File ID** → Unifica o tratamento dos arquivos, independente do formato.  \n✅ **Espera dinâmica** → Um loop monitora o status da API até que os dados estejam prontos.  \n✅ **Seleçêo automática da melhor qualidade de imagem** → Sempre usa a versêo de **maior qualidade** das fotos enviadas ao Telegram.  \n✅ **Aproveitamento da versêo gratuita do Llama Cloud** → Permite extrair informações de **até 3.333 páginas/mês sem custo**.  \n\n---\n\n### **Conclusêo**  \n\nCom essa abordagem, conseguimos **otimizar a extraçêo de dados de faturas e documentos**, **sem precisar converter formatos ou realizar processos custosos**. Esse método reduz **tempo, esforço e custo**, proporcionando um fluxo de trabalho **mais eficiente e escalável**.  \n\n---\n\n### **Recursos**  \n🔗 **Llama Cloud AI**  \n🔗 **Blueprint Faturamento**",
     "has_media": false,
@@ -89,7 +89,7 @@
   },
   {
     "id": 3211,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T01:41:22+00:00",
     "text": "========",
     "has_media": false,
@@ -97,7 +97,7 @@
   },
   {
     "id": 3210,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T01:41:19+00:00",
     "text": "Extraia informações de arquivos sem complicações (Faturamento)  \n\n Essa nova automaçêo simplifica o processo de extraçêo de dados como nunca antes. Muitos me disseram que era um verdadeiro desafio extrair informações de faturas e documentos sem precisar converter formatos... **Pois isso acabou!** 🎉  \n\nCom essa ferramenta, você pode extrair dados de qualquer documento PDF, imagem e vários outros formatos de forma **automática, super simples e bem organizada**. Sem precisar converter de PDF para imagem, sem processos desnecessários e **sem complicações**.  \n\n✅ Extraia informações com um único passo  \n✅ Adeus às conversões, olá eficiência  \n✅ **Ultra barato** (muitos nem vêo precisar pagar! 💰🔥)  \n\nEssa é uma daquelas automações que vêo te economizar **tempo e dinheiro desde o primeiro minuto**. 🚀",
     "has_media": false,
@@ -105,7 +105,7 @@
   },
   {
     "id": 3209,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T01:40:30+00:00",
     "text": "https://cloud.llamaindex.ai",
     "has_media": true,
@@ -113,7 +113,7 @@
   },
   {
     "id": 3208,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T01:40:14+00:00",
     "text": "https://cloud.llamaindex.ai/project/faf262c3-3ac0-4a1f-8126-8a7203c47c03/api-key",
     "has_media": true,
@@ -121,7 +121,7 @@
   },
   {
     "id": 3207,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T01:39:38+00:00",
     "text": "e7n8",
     "has_media": true,
@@ -130,7 +130,7 @@
   },
   {
     "id": 3206,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T01:39:22+00:00",
     "text": "",
     "has_media": true,
@@ -139,7 +139,7 @@
   },
   {
     "id": 3205,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T01:39:11+00:00",
     "text": "",
     "has_media": true,
@@ -148,7 +148,7 @@
   },
   {
     "id": 3204,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T01:38:46+00:00",
     "text": "e7n8 - Extraçêo de Faturas",
     "has_media": false,
@@ -156,7 +156,7 @@
   },
   {
     "id": 3203,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T01:38:43+00:00",
     "text": ".",
     "has_media": false,
@@ -164,7 +164,7 @@
   },
   {
     "id": 3202,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T01:38:39+00:00",
     "text": ".",
     "has_media": false,
@@ -172,7 +172,7 @@
   },
   {
     "id": 3201,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T01:38:39+00:00",
     "text": ".",
     "has_media": false,
@@ -180,7 +180,7 @@
   },
   {
     "id": 3200,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T01:38:39+00:00",
     "text": ".",
     "has_media": false,
@@ -188,7 +188,7 @@
   },
   {
     "id": 3199,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T01:38:39+00:00",
     "text": ".",
     "has_media": false,
@@ -196,7 +196,7 @@
   },
   {
     "id": 3198,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T01:38:39+00:00",
     "text": ".",
     "has_media": false,
@@ -204,7 +204,7 @@
   },
   {
     "id": 3197,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T01:38:37+00:00",
     "text": ".",
     "has_media": false,
@@ -212,7 +212,7 @@
   },
   {
     "id": 3196,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T01:38:36+00:00",
     "text": "1",
     "has_media": false,
@@ -220,7 +220,7 @@
   },
   {
     "id": 3195,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T01:38:31+00:00",
     "text": "",
     "has_media": false,

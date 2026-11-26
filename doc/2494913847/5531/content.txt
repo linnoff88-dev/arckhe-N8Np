@@ -10,7 +10,7 @@ Midias baixadas: 6
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:22:15+00:00
 Texto:
 **Traduçêo Completa do Vídeo "Long-Form Faceless Video AI Agent System: Retro-Future Jazz Music Videos For $5k/mo (n8n Template)"**
@@ -83,7 +83,7 @@ O criador do vídeo mostra um sistema de agente de IA para criar vídeos de mús
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:19:42+00:00
 Texto:
 https://www.youtube.com/watch?v=xG9azD9jlos
@@ -92,7 +92,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:09:17+00:00
 Texto:
 **suit, white shirt, and slim tie soars above a **classic mid-century suburban st**reet, propelled by two fut**uristic, chrome-plated jet thrusters attached to his hands. His hair is neatly combed in a vintage style, and his expression is one of confidence and focus as he glides effortlessly through the air. The scene is captured in striking black-and-w**hite, evoking the** aesthetic of classic science **fiction films from th**e[ atomic age. Below, vintage automobiles and palm-lined streets stretch](https://gdrxrpfqehlcglamyemm.supabase.co/storage/v1/object/public/n8n/) int[o the dis](http://json.name/)tance, a perfect blend of mid[-century ](http://json.name/)Americana and **optimistic futurism. The** `jet thrusters emit a soft glow, their sleek design inspired by 1950s sci-fi illustrations, featuring smooth curves, metallic finishes, and glowing energy cores. The overall composition reflects a "future as imagined in the past" feel, seamlessly blending nostalgia with advanced technology in a retro-futuristic utopian world.
@@ -118,7 +118,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:09:17+00:00
 Texto:
 **al9 - Vídeos de música de jazz retrô do futuro**
@@ -183,7 +183,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:09:05+00:00
 Texto:
 ..
@@ -191,7 +191,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:09:05+00:00
 Texto:
 .
@@ -199,7 +199,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:09:04+00:00
 Texto:
 ..
@@ -207,17 +207,17 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:09:04+00:00
 Texto:
 **[Tutorial + Modelo] Sistema de agente de IA de vídeo sem rosto de formato longo: vídeos de música de jazz retrô do futuro por US$ 5k/mês (modelo n8n)**
 
- Acabei de fazer um tutorial mostrando como criar sem esforço vídeos musicais Retro-Future Jazz lucrativos e sem rosto usando um fluxo de trabalho alimentado por IA. Com ferramentas como Flux AI, Suno e Minimax AI, além de uma configuraçêo n8n passo a passo, você automatizará tudo, desde visuais cinematográficos até faixas de jazz e renderizaçêo final de vídeo - sem necessidade de codificaçêo!
+ Acabei de fazer um tutorial mostrando como criar sem esforço vídeos musicais Retro-Future Jazz lucrativos e sem rosto usando um fluxo de trabalho alimentado por IA. Com ferramentas como Flux AI, Suno e Minimax AI, além de uma configuraçêo n8n passo a passo, você automatizará tudo, desde visuais cARCKHÉtográficos até faixas de jazz e renderizaçêo final de vídeo - sem necessidade de codificaçêo!
 
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:09:04+00:00
 Texto:
 .
@@ -225,7 +225,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:08:31+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Tutorial_17_2_Faceless_AI_Workflow_Retro_Future_Jazz_Music_Videos.json
@@ -233,7 +233,7 @@ Midia: MessageMediaDocument -> Tutorial_17_2_Faceless_AI_Workflow_Retro_Future_J
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:08:24+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_5544_011.jpg
@@ -241,7 +241,7 @@ Midia: MessageMediaPhoto -> photo_5544_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:07:43+00:00
 Texto:
 al9 -** Vídeos de música de jazz retrô do futuro**
@@ -249,7 +249,7 @@ al9 -** Vídeos de música de jazz retrô do futuro**
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:07:41+00:00
 Texto:
 ..
@@ -257,7 +257,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:07:41+00:00
 Texto:
 .
@@ -265,7 +265,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:07:41+00:00
 Texto:
 ..
@@ -273,7 +273,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:07:41+00:00
 Texto:
 .
@@ -281,7 +281,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:07:40+00:00
 Texto:
 ....
@@ -289,7 +289,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:07:40+00:00
 Texto:
 ...
@@ -297,7 +297,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:07:40+00:00
 Texto:
 .
@@ -305,7 +305,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:07:40+00:00
 Texto:
 .
@@ -313,7 +313,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:07:40+00:00
 Texto:
 .
@@ -321,7 +321,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:07:39+00:00
 Texto:
 https://chatgpt.com/c/67f9dc2c-9aa4-8009-9778-b7a3584b4807
@@ -330,7 +330,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:07:39+00:00
 Texto:
 1
@@ -338,7 +338,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:07:33+00:00
 Texto: [Sem texto]
 

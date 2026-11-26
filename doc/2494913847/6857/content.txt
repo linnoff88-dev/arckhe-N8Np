@@ -10,7 +10,7 @@ Midias baixadas: 10
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T22:32:09+00:00
 Texto:
 https://www.youtube.com/watch?v=LQ1zeqJsUg4
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T22:31:17+00:00
 Texto:
 **Resumo – How I Built an AI Agent to Repurpose Podcasts into Engaging Threads (100% Automated)**
@@ -78,7 +78,7 @@ O processo é dividido em três workflows principais:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T22:29:30+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6876_003.jpg
@@ -86,7 +86,7 @@ Midia: MessageMediaPhoto -> photo_6876_003.jpg
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T22:29:03+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6875_004.jpg
@@ -94,7 +94,7 @@ Midia: MessageMediaPhoto -> photo_6875_004.jpg
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T22:28:38+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6874_005.jpg
@@ -102,7 +102,7 @@ Midia: MessageMediaPhoto -> photo_6874_005.jpg
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T22:27:43+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6873_006.jpg
@@ -110,7 +110,7 @@ Midia: MessageMediaPhoto -> photo_6873_006.jpg
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T22:26:47+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6872_007.jpg
@@ -118,7 +118,7 @@ Midia: MessageMediaPhoto -> photo_6872_007.jpg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T22:26:04+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6871_008.jpg
@@ -126,7 +126,7 @@ Midia: MessageMediaPhoto -> photo_6871_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T22:25:17+00:00
 Texto:
 Agente de IA para Reaproveitar Podcasts em Threads Envolventes (100% Automatizado)
@@ -138,7 +138,7 @@ Este sistema com IA transcreve, gera e publica conteúdos envolventes no Threads
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T22:23:36+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Tutorial_2_How_I_Built_an_AI_Agent_to_Repurpose_Podcasts_into_Engaging.json
@@ -146,7 +146,7 @@ Midia: MessageMediaDocument -> Tutorial_2_How_I_Built_an_AI_Agent_to_Repurpose_P
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T22:23:27+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6868_011.jpg
@@ -154,7 +154,7 @@ Midia: MessageMediaPhoto -> photo_6868_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T22:21:06+00:00
 Texto:
 als09 - Reaproveitar Podcasts em Threads Envolventes
@@ -162,7 +162,7 @@ als09 - Reaproveitar Podcasts em Threads Envolventes
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T22:21:04+00:00
 Texto:
 .
@@ -170,7 +170,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T22:21:04+00:00
 Texto:
 ..
@@ -178,7 +178,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T22:21:04+00:00
 Texto:
 .
@@ -186,7 +186,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T22:21:04+00:00
 Texto:
 ...
@@ -194,7 +194,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T22:21:03+00:00
 Texto:
 ..
@@ -202,7 +202,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T22:21:03+00:00
 Texto:
 .
@@ -210,7 +210,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T22:21:03+00:00
 Texto:
 https://chatgpt.com/c/680fff2f-f17c-8009-9c68-b6543ab2b614
@@ -219,7 +219,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T22:21:03+00:00
 Texto:
 1
@@ -227,7 +227,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T22:21:00+00:00
 Texto: [Sem texto]
 

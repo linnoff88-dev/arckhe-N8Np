@@ -10,7 +10,7 @@ Midias baixadas: 3
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:23:48+00:00
 Texto:
 ## 🚀 HACKS PARA OTIMIZAR SUA AUTOMATIZAÇêO
@@ -113,7 +113,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:21:39+00:00
 Texto:
 ==============
@@ -121,7 +121,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:21:35+00:00
 Texto:
 Aqui está o **passo a passo completo e prático** para montar o sistema apresentado no vídeo, que gera **imagens e vídeos profissionais de produtos com IA**, direto pelo **Telegram**, usando **n8n, GPT-5, KIE/Key e Veo3 Fast**:
@@ -240,7 +240,7 @@ Exemplo de instruçêo no prompt:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:19:34+00:00
 Texto:
 ===============
@@ -248,7 +248,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:19:31+00:00
 Texto:
 Resumo 
@@ -284,7 +284,7 @@ Ferramentas usadas:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:16:46+00:00
 Texto:
 ==============
@@ -292,7 +292,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:16:41+00:00
 Texto:
 37. Converta suas Fotos em Anúncios TOP
@@ -353,7 +353,7 @@ O fluxo inclui validaçêo e feedback para ajustar o resultado antes da geraçê
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:14:33+00:00
 Texto:
 ===========
@@ -361,7 +361,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:14:30+00:00
 Texto:
 Gere fotos e vídeos profissionais dos seus produtos direto no Telegram
@@ -384,7 +384,7 @@ e37. Transforme suas Fotos em Anúncios TOP
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:12:00+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Creador de anuncios con VEO 3.json
@@ -392,7 +392,7 @@ Midia: MessageMediaDocument -> Creador de anuncios con VEO 3.json
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:11:28+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12678_011.jpg
@@ -400,7 +400,7 @@ Midia: MessageMediaPhoto -> photo_12678_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:09:53+00:00
 Texto:
 e37 - Fotos em Anúncios TOP
@@ -408,7 +408,7 @@ e37 - Fotos em Anúncios TOP
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:09:51+00:00
 Texto:
 .
@@ -416,7 +416,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:09:51+00:00
 Texto:
 .
@@ -424,7 +424,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:09:50+00:00
 Texto:
 .
@@ -432,7 +432,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:09:49+00:00
 Texto:
 .
@@ -440,7 +440,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:09:48+00:00
 Texto:
 .
@@ -448,7 +448,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:09:47+00:00
 Texto:
 https://chatgpt.com/c/689bf225-9b0c-8323-8c60-7e305d3d2225
@@ -457,7 +457,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:09:46+00:00
 Texto:
 1
@@ -465,7 +465,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:09:41+00:00
 Texto: [Sem texto]
 

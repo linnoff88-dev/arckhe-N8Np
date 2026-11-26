@@ -10,7 +10,7 @@ Midias baixadas: 5
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:33:32+00:00
 Texto:
 https://www.youtube.com/watch?v=wKfu7xkZpFk
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:32:31+00:00
 Texto:
 Resumo do processo apresentado:
@@ -62,7 +62,7 @@ Transformaçêo automática de qualquer vídeo do YouTube em um novo vídeo curt
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:31:01+00:00
 Texto:
 Agente de IA para Transformar Vídeos do YouTube em Meus Próprios Vídeos com Avatar de IA 
@@ -74,7 +74,7 @@ Como transformar vídeos do YouTube em vídeos envolventes com avatar de IA auto
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:30:17+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Heygen Video (1).xlsx
@@ -82,7 +82,7 @@ Midia: MessageMediaDocument -> Heygen Video (1).xlsx
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:30:12+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Tutorial_7_2_How_I_Built_an_AI_Agent_to_Turn_YouTube_Videos_into.json
@@ -90,7 +90,7 @@ Midia: MessageMediaDocument -> Tutorial_7_2_How_I_Built_an_AI_Agent_to_Turn_YouT
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:30:04+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9778_006.jpg
@@ -98,7 +98,7 @@ Midia: MessageMediaPhoto -> photo_9778_006.jpg
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:28:32+00:00
 Texto:
 al36 - Próprios Vídeos com Avatar Youtube
@@ -106,7 +106,7 @@ al36 - Próprios Vídeos com Avatar Youtube
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:28:25+00:00
 Texto:
 ..
@@ -114,7 +114,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:28:24+00:00
 Texto:
 .
@@ -122,7 +122,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:28:24+00:00
 Texto:
 .
@@ -130,7 +130,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:28:24+00:00
 Texto:
 .
@@ -138,7 +138,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:28:24+00:00
 Texto:
 https://chatgpt.com/c/684e4bc1-c07c-8009-b91b-19c1b4c09f39
@@ -147,7 +147,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:28:23+00:00
 Texto:
 1
@@ -155,7 +155,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:28:19+00:00
 Texto: [Sem texto]
 

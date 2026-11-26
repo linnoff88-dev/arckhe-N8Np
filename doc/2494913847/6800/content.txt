@@ -10,7 +10,7 @@ Midias baixadas: 6
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T12:31:15+00:00
 Texto:
 https://www.youtube.com/watch?v=7cSqOve5o2M
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T12:30:57+00:00
 Texto:
 **Resumo - Como Construir um Agente de IA com DeepSeek AI para Transformar Vídeos do YouTube em Blogs via Telegram (Sem Código)**
@@ -60,7 +60,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T12:28:51+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6818_003.jpg
@@ -68,7 +68,7 @@ Midia: MessageMediaPhoto -> photo_6818_003.jpg
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T12:27:50+00:00
 Texto:
 Um Agente de IA com DeepSeek AI para Transformar Vídeos do YouTube em Posts de Blog via Telegram (Sem Código)"**  
@@ -85,7 +85,7 @@ Resumo do que esse processo faz:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T12:26:45+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6815_005.jpg
@@ -93,7 +93,7 @@ Midia: MessageMediaPhoto -> photo_6815_005.jpg
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T12:25:59+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Template_7_3_How_I_Built_an_AI_Agent_with_DeepSeek_AI_to_Turn_YouTube.json
@@ -101,7 +101,7 @@ Midia: MessageMediaDocument -> Template_7_3_How_I_Built_an_AI_Agent_with_DeepSee
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T12:25:57+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6812_007.jpg
@@ -109,7 +109,7 @@ Midia: MessageMediaPhoto -> photo_6812_007.jpg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T12:24:23+00:00
 Texto:
 als06 - Transformar Vídeo do YouTube em Blog via Telegram
@@ -117,7 +117,7 @@ als06 - Transformar Vídeo do YouTube em Blog via Telegram
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T12:24:22+00:00
 Texto:
 ..
@@ -125,7 +125,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T12:24:20+00:00
 Texto:
 .
@@ -133,7 +133,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T12:24:20+00:00
 Texto:
 ..
@@ -141,7 +141,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T12:24:20+00:00
 Texto:
 .
@@ -149,7 +149,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T12:24:20+00:00
 Texto:
 ...
@@ -157,7 +157,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T12:24:19+00:00
 Texto:
 ..
@@ -165,7 +165,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T12:24:19+00:00
 Texto:
 .
@@ -173,7 +173,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T12:24:19+00:00
 Texto:
 .
@@ -181,7 +181,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T12:24:19+00:00
 Texto:
 https://chatgpt.com/c/680f733b-b544-8009-8337-9107985efddc
@@ -190,7 +190,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T12:24:16+00:00
 Texto:
 1
@@ -198,7 +198,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T12:23:56+00:00
 Texto: [Sem texto]
 

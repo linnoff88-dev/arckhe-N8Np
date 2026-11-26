@@ -10,7 +10,7 @@ Midias baixadas: 5
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:25:14+00:00
 Texto:
 https://www.youtube.com/watch?v=wKfu7xkZpFk
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:23:25+00:00
 Texto:
 Resumo:
@@ -82,7 +82,7 @@ Exemplo de resposta:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:21:10+00:00
 Texto:
 als13 - Transforme Vídeos do YouTube em Vídeos com Avatar de IA
@@ -96,7 +96,7 @@ Este sistema baseado em IA extrai transcrições, gera vídeos com avatar e acom
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:20:41+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Heygen Video.xlsx
@@ -104,7 +104,7 @@ Midia: MessageMediaDocument -> Heygen Video.xlsx
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:20:33+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Tutorial_7_2_How_I_Built_an_AI_Agent_to_Turn_YouTube_Videos_into.json
@@ -112,7 +112,7 @@ Midia: MessageMediaDocument -> Tutorial_7_2_How_I_Built_an_AI_Agent_to_Turn_YouT
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:20:27+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6728_006.jpg
@@ -120,7 +120,7 @@ Midia: MessageMediaPhoto -> photo_6728_006.jpg
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:16:57+00:00
 Texto:
 als13 - Transforme Vídeos do YouTube em Vídeos com Avatar
@@ -128,7 +128,7 @@ als13 - Transforme Vídeos do YouTube em Vídeos com Avatar
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:16:56+00:00
 Texto:
 .
@@ -136,7 +136,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:16:55+00:00
 Texto:
 Heygen
@@ -144,7 +144,7 @@ Heygen
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:16:54+00:00
 Texto:
 .
@@ -152,7 +152,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:16:54+00:00
 Texto:
 ...
@@ -160,7 +160,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:16:54+00:00
 Texto:
 ..
@@ -168,7 +168,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:16:54+00:00
 Texto:
 .
@@ -176,7 +176,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:16:54+00:00
 Texto:
 https://chatgpt.com/c/680f0f12-c238-8009-82b4-aa8a7e8fc55e
@@ -185,7 +185,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:16:53+00:00
 Texto:
 1
@@ -193,7 +193,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:16:49+00:00
 Texto: [Sem texto]
 

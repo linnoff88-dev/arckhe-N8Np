@@ -10,7 +10,7 @@ Midias baixadas: 8
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T04:52:11+00:00
 Texto:
 https://www.youtube.com/watch?v=vzwgJILxHzY
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T04:51:50+00:00
 Texto:
 ## Resumo Geral
@@ -79,7 +79,7 @@ Essa atualizaçêo torna possível montar **fluxos completos de automaçêo com 
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T04:50:27+00:00
 Texto:
 ==========
@@ -87,7 +87,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T04:50:23+00:00
 Texto:
 MCP nativos: ferramenta de gatilho e cliente MCP
@@ -96,7 +96,7 @@ Criei um sistema de automaçêo de mídia social no n8n usando o novo gatilho of
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T04:50:22+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Template_20_2___Ultimate_Social_Media_Server.json
@@ -104,7 +104,7 @@ Midia: MessageMediaDocument -> Template_20_2___Ultimate_Social_Media_Server.json
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T04:50:22+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Tutorial_20_2___Post_Threads.json
@@ -112,7 +112,7 @@ Midia: MessageMediaDocument -> Tutorial_20_2___Post_Threads.json
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T04:50:22+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Tutorial_20_2___Web_Research.json
@@ -120,7 +120,7 @@ Midia: MessageMediaDocument -> Tutorial_20_2___Web_Research.json
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T04:49:58+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_5399_008.jpg
@@ -128,7 +128,7 @@ Midia: MessageMediaPhoto -> photo_5399_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T04:49:18+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_5398_009.jpg
@@ -136,7 +136,7 @@ Midia: MessageMediaPhoto -> photo_5398_009.jpg
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T04:48:57+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_5397_010.jpg
@@ -144,7 +144,7 @@ Midia: MessageMediaPhoto -> photo_5397_010.jpg
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T04:47:32+00:00
 Texto:
 .aln1 - MCP nativos: Tools Gatilho e Cliente MCP
@@ -152,7 +152,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T04:47:31+00:00
 Texto:
 ..
@@ -160,7 +160,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T04:47:31+00:00
 Texto:
 .
@@ -168,7 +168,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T04:47:30+00:00
 Texto:
 ..
@@ -176,7 +176,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T04:47:30+00:00
 Texto:
 .
@@ -184,7 +184,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T04:47:30+00:00
 Texto:
 https://chatgpt.com/c/67f89eae-4ab8-8009-a6de-459a216a9d3d
@@ -193,7 +193,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T04:47:29+00:00
 Texto:
 1
@@ -201,7 +201,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T04:47:24+00:00
 Texto: [Sem texto]
 

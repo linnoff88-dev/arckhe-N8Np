@@ -10,7 +10,7 @@ Midias baixadas: 14
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-05T12:52:52+00:00
 Texto:
 Aqui estêo os links diretos para as APIs de busca que você pode utilizar como alternativas ao SerpApi:
@@ -27,7 +27,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-05T12:52:38+00:00
 Texto:
 =======
@@ -35,7 +35,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-05T11:41:20+00:00
 Texto:
 **Crie 30 Posts com IA em Apenas 10 Minutos**
@@ -113,7 +113,7 @@ Exploramos duas automações que permitem gerar e publicar conteúdo automaticam
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-05T11:40:49+00:00
 Texto:
 **A Automaçêo de Conteúdo que Todos Deveriam Ver**
@@ -135,7 +135,7 @@ E se você chegou há pouco tempo na comunidade… vai ficar impressionado.
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-05T11:40:42+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> ChatGPT Image 2 jun 2025, 12_35_18.png
@@ -143,7 +143,7 @@ Midia: MessageMediaDocument -> ChatGPT Image 2 jun 2025, 12_35_18.png
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-05T11:40:42+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> output1 (3).png
@@ -151,7 +151,7 @@ Midia: MessageMediaDocument -> output1 (3).png
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-05T11:40:42+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> output1 (2).png
@@ -159,7 +159,7 @@ Midia: MessageMediaDocument -> output1 (2).png
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-05T11:40:42+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> output1 (1).png
@@ -167,7 +167,7 @@ Midia: MessageMediaDocument -> output1 (1).png
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-05T11:39:58+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> blueprint (29) (1).json
@@ -175,7 +175,7 @@ Midia: MessageMediaDocument -> blueprint (29) (1).json
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-05T11:39:58+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> blueprint (30) (1).json
@@ -183,7 +183,7 @@ Midia: MessageMediaDocument -> blueprint (30) (1).json
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-05T11:39:58+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Agente_Webinar_29M (1).json
@@ -191,7 +191,7 @@ Midia: MessageMediaDocument -> Agente_Webinar_29M (1).json
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-05T11:39:58+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 2__Imagen (1).json
@@ -199,7 +199,7 @@ Midia: MessageMediaDocument -> 2__Imagen (1).json
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-05T11:39:29+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_8742_013.jpg
@@ -207,7 +207,7 @@ Midia: MessageMediaPhoto -> photo_8742_013.jpg
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-05T11:38:22+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_8741_014.jpg
@@ -215,7 +215,7 @@ Midia: MessageMediaPhoto -> photo_8741_014.jpg
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-05T11:36:49+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_8738_015.jpg
@@ -223,7 +223,7 @@ Midia: MessageMediaPhoto -> photo_8738_015.jpg
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-05T11:34:29+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_8737_016.jpg
@@ -231,7 +231,7 @@ Midia: MessageMediaPhoto -> photo_8737_016.jpg
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-05T11:32:26+00:00
 Texto:
 etc02 - 30 Post
@@ -239,7 +239,7 @@ etc02 - 30 Post
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-05T11:32:24+00:00
 Texto:
 .
@@ -247,7 +247,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-05T11:32:24+00:00
 Texto:
 .
@@ -255,7 +255,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-05T11:32:24+00:00
 Texto:
 .
@@ -263,7 +263,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-05T11:32:24+00:00
 Texto:
 https://chatgpt.com/c/68417efe-a718-8009-92ac-ee5a0b6be440
@@ -272,7 +272,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-05T11:32:23+00:00
 Texto:
 1
@@ -280,7 +280,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-05T11:32:18+00:00
 Texto: [Sem texto]
 

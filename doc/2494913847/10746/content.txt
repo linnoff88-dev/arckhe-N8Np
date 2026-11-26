@@ -128,7 +128,7 @@ Autor: Psycrazy
 Data: 2025-07-19T23:07:09+00:00
 Texto:
 Vc já explicou essa situaçêo ao chat GPT e pediu ajuda?
-Porque se você perceber, tudo que tem no INEMA é gerado via GPT.
+Porque se você perceber, tudo que tem no ARCKHÉ é gerado via GPT.
 
 ------------------------------
 
@@ -151,7 +151,7 @@ Estou aguardando.
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T04:08:30+00:00
 Texto:
 Aqui vêo **10 hacks práticos e inteligentes** para melhorar e turbinar essa automaçêo de gestêo de tarefas com Telegram, N8N, Supabase e Google Calendar:
@@ -244,7 +244,7 @@ Aqui vêo **10 hacks práticos e inteligentes** para melhorar e turbinar essa au
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T04:08:03+00:00
 Texto:
 ===========
@@ -252,7 +252,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T04:08:00+00:00
 Texto:
 Aqui está o **passo a passo completo** da automaçêo, dividido em **etapas práticas** para você replicar:
@@ -361,7 +361,7 @@ Aqui está o **passo a passo completo** da automaçêo, dividido em **etapas pr�
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T04:06:41+00:00
 Texto:
 ===============
@@ -369,7 +369,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T04:06:38+00:00
 Texto:
 **Resumo  – Automatizaçêo Completa de Tarefas com IA, Telegram e N8N**
@@ -448,7 +448,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T04:05:39+00:00
 Texto:
 ==================
@@ -456,7 +456,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T04:05:35+00:00
 Texto:
 **e26. Automatize Tarefas e Ganhe Horas Diárias**
@@ -571,7 +571,7 @@ Essa automaçêo:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T04:02:50+00:00
 Texto:
 =========
@@ -579,7 +579,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T04:01:50+00:00
 Texto:
 Automatize Tarefas e Ganhe Horas por Dia
@@ -602,7 +602,7 @@ O que você seria capaz de fazer com isso?
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T03:56:48+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> e26___MCP_Server___Calendario__Tarefas_Supabase.json
@@ -610,7 +610,7 @@ Midia: MessageMediaDocument -> e26___MCP_Server___Calendario__Tarefas_Supabase.j
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T03:56:48+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> e26___Supabase_Postgres.json
@@ -618,7 +618,7 @@ Midia: MessageMediaDocument -> e26___Supabase_Postgres.json
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T03:56:48+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> e26__1_Automatize_Tarefas_MCP.json
@@ -626,7 +626,7 @@ Midia: MessageMediaDocument -> e26__1_Automatize_Tarefas_MCP.json
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T03:53:41+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10758_029.jpg
@@ -634,7 +634,7 @@ Midia: MessageMediaPhoto -> photo_10758_029.jpg
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T03:52:12+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10757_030.jpg
@@ -642,7 +642,7 @@ Midia: MessageMediaPhoto -> photo_10757_030.jpg
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T03:50:08+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10756_031.jpg
@@ -650,7 +650,7 @@ Midia: MessageMediaPhoto -> photo_10756_031.jpg
 ------------------------------
 
 MENSAGEM 32
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T03:48:33+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10754_032.jpg
@@ -658,7 +658,7 @@ Midia: MessageMediaPhoto -> photo_10754_032.jpg
 ------------------------------
 
 MENSAGEM 33
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T03:45:26+00:00
 Texto:
 e26 - Automatize Tarefas MCP
@@ -666,7 +666,7 @@ e26 - Automatize Tarefas MCP
 ------------------------------
 
 MENSAGEM 34
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T03:45:24+00:00
 Texto:
 ..
@@ -674,7 +674,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 35
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T03:45:23+00:00
 Texto:
 .
@@ -682,7 +682,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 36
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T03:45:23+00:00
 Texto:
 .
@@ -690,7 +690,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 37
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T03:45:23+00:00
 Texto:
 .
@@ -698,7 +698,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 38
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T03:45:23+00:00
 Texto:
 .
@@ -706,7 +706,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 39
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T03:45:22+00:00
 Texto:
 1
@@ -714,7 +714,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 40
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T03:45:17+00:00
 Texto: [Sem texto]
 

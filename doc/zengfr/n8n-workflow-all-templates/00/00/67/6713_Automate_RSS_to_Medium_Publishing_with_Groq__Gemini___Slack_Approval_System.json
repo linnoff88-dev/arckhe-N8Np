@@ -271,7 +271,7 @@
         "messages": {
           "messageValues": [
             {
-              "message": "You are a professional image prompt engineer. Your task is to generate concise, highly descriptive prompts suitable for AI image generation based on article content.  Always create a vivid visual concept that aligns with the tone, subject, and theme of the input text. Use stylistic and visual descriptors relevant to photography, illustration, painting, or graphic design.  Follow these rules strictly:  Start with the main subject of the article.  Describe setting, mood, and style.  Use artistic keywords (e.g., “vector art”, “digital painting”, “cinematic lighting”).  Output only the image prompt — no introduction, explanation, or formatting.  The final prompt should be clear, specific, and optimized for tools like Midjourney or DALL·E. Keep length between 25–75 words."
+              "message": "You are a professional image prompt engineer. Your task is to generate concise, highly descriptive prompts suitable for AI image generation based on article content.  Always create a vivid visual concept that aligns with the tone, subject, and theme of the input text. Use stylistic and visual descriptors relevant to photography, illustration, painting, or graphic design.  Follow these rules strictly:  Start with the main subject of the article.  Describe setting, mood, and style.  Use artistic keywords (e.g., “vector art”, “digital painting”, “cARCKHÉtic lighting”).  Output only the image prompt — no introduction, explanation, or formatting.  The final prompt should be clear, specific, and optimized for tools like Midjourney or DALL·E. Keep length between 25–75 words."
             }
           ]
         },

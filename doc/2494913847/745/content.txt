@@ -10,7 +10,7 @@ Midias baixadas: 19
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-15T02:18:03+00:00
 Texto:
 https://www.youtube.com/watch?v=lrEoRH6aZWw
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-15T01:52:09+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> e2__Agente_de_Whatsapp.json
@@ -27,7 +27,7 @@ Midia: MessageMediaDocument -> e2__Agente_de_Whatsapp.json
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-15T01:52:04+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7705_003.jpg
@@ -99,7 +99,7 @@ Data: 2025-03-25T22:49:25+00:00
 Texto:
 Pessoal, boa noite.
 
-Entrei no vip, mas estou extremamente perdido, por onde eu começo a aprender sobre ia aqui no Inema VIP?
+Entrei no vip, mas estou extremamente perdido, por onde eu começo a aprender sobre ia aqui no ARCKHÉ VIP?
 
 ------------------------------
 
@@ -300,7 +300,7 @@ Certo, vou pesquisar.
 ------------------------------
 
 MENSAGEM 36
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T01:47:33+00:00
 Texto:
 voce tem chamar uma api para gerar a image, pode usar no fal.ai ou replicate.com
@@ -308,7 +308,7 @@ voce tem chamar uma api para gerar a image, pode usar no fal.ai ou replicate.com
 ------------------------------
 
 MENSAGEM 37
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T01:16:49+00:00
 Texto:
 usando o fal.ai, replicate.com vc pode gerar qq foitos ou videos de la. mas tambem outras tem api como leonardo.ai e o ideogram ...
@@ -382,7 +382,7 @@ Poxa eu tô perdido n tô entendendo nada alguém me ajuda. Eu preciso automatiz
 ------------------------------
 
 MENSAGEM 46
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T02:58:30+00:00
 Texto: [Sem texto]
 
@@ -939,12 +939,12 @@ MENSAGEM 114
 Autor: Victor
 Data: 2025-01-25T10:17:44+00:00
 Texto:
-@INEMAtds b dia!, faltou os arquivos
+@linnoff88-dev b dia!, faltou os arquivos
 
 ------------------------------
 
 MENSAGEM 115
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-25T01:58:31+00:00
 Texto:
 ### Criar um Agente de IA no WhatsApp com N8N  
@@ -1041,7 +1041,7 @@ Nesta explicaçêo, você aprenderá a configurar um agente de inteligência art
 ------------------------------
 
 MENSAGEM 116
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-25T01:58:27+00:00
 Texto:
 =====================
@@ -1049,7 +1049,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 117
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-25T01:57:18+00:00
 Texto:
 ### Criar um Agente de IA no WhatsApp com N8N  
@@ -1146,7 +1146,7 @@ Nesta explicaçêo, você aprenderá a configurar um agente de inteligência art
 ------------------------------
 
 MENSAGEM 118
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-25T01:57:14+00:00
 Texto:
 =========================
@@ -1154,7 +1154,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 119
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-25T01:56:54+00:00
 Texto:
 Resumo do Agente de IA para WhatsApp com N8N 
@@ -1213,7 +1213,7 @@ Essa ferramenta é ideal para quem busca automatizar processos e aumentar a efic
 ------------------------------
 
 MENSAGEM 120
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-25T01:54:58+00:00
 Texto:
 e1
@@ -1222,7 +1222,7 @@ Midia: MessageMediaDocument -> Asistente_personal_N8N.json
 ------------------------------
 
 MENSAGEM 121
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-25T01:54:58+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Clickup_tarea.json
@@ -1230,7 +1230,7 @@ Midia: MessageMediaDocument -> Clickup_tarea.json
 ------------------------------
 
 MENSAGEM 122
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-25T01:54:30+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_761_122.jpg
@@ -1238,7 +1238,7 @@ Midia: MessageMediaPhoto -> photo_761_122.jpg
 ------------------------------
 
 MENSAGEM 123
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-25T01:54:30+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_760_123.jpg
@@ -1246,7 +1246,7 @@ Midia: MessageMediaPhoto -> photo_760_123.jpg
 ------------------------------
 
 MENSAGEM 124
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-25T01:49:14+00:00
 Texto:
 ==================
@@ -1254,7 +1254,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 125
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-25T01:46:34+00:00
 Texto:
 9
@@ -1262,7 +1262,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 126
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-25T01:46:34+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_753_126.jpg
@@ -1270,7 +1270,7 @@ Midia: MessageMediaPhoto -> photo_753_126.jpg
 ------------------------------
 
 MENSAGEM 127
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-25T01:46:34+00:00
 Texto:
 e1n8n - Agente IA WhatsApp N8N
@@ -1278,7 +1278,7 @@ e1n8n - Agente IA WhatsApp N8N
 ------------------------------
 
 MENSAGEM 128
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-25T01:46:33+00:00
 Texto:
 6
@@ -1286,7 +1286,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 129
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-25T01:46:33+00:00
 Texto:
 5
@@ -1294,7 +1294,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 130
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-25T01:46:32+00:00
 Texto:
 4
@@ -1302,7 +1302,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 131
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-25T01:46:32+00:00
 Texto:
 3
@@ -1310,7 +1310,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 132
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-25T01:46:31+00:00
 Texto:
 https://chatgpt.com/c/679440b4-b96c-8009-8ecc-857b8d80b1e2
@@ -1319,7 +1319,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 133
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-25T01:46:30+00:00
 Texto:
 1
@@ -1327,7 +1327,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 134
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-25T01:46:17+00:00
 Texto: [Sem texto]
 

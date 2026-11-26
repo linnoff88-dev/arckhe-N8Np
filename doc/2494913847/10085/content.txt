@@ -10,7 +10,7 @@ Midias baixadas: 5
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-19T12:02:46+00:00
 Texto:
 Prompt do Executor (uma ideia dele)
@@ -80,14 +80,14 @@ Exemplo de objeto "settings":
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-19T11:46:20+00:00
 Texto: [Sem texto]
 
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-19T11:44:47+00:00
 Texto:
 dublado
@@ -95,7 +95,7 @@ dublado
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-19T11:44:44+00:00
 Texto:
 https://www.youtube.com/watch?v=Ik8OHT3w4pE
@@ -104,7 +104,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-19T11:44:28+00:00
 Texto:
 ===================
@@ -112,7 +112,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-19T11:43:27+00:00
 Texto:
 ============
@@ -120,7 +120,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-19T11:35:09+00:00
 Texto:
 O agente de IA criado no n8n permite a construçêo automática de outros agentes, realizando tarefas específicas com base em comandos em linguagem natural. A seguir, um resumo dos principais tópicos abordados:
@@ -148,7 +148,7 @@ O agente de IA criado no n8n permite a construçêo automática de outros agente
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-19T11:33:46+00:00
 Texto:
 ========
@@ -156,7 +156,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-19T11:33:24+00:00
 Texto:
 Como criar um agente de IA no n8n que é capaz de construir outros agentes de IA automaticamente. O processo é simplificado ao ponto de que o usuário apenas precisa fazer um pedido em linguagem natural (como criar um agente que integre Slack, Gmail, Google Calendar e Google Sheets) e o agente constrói o fluxo de trabalho desejado. O vídeo detalha o funcionamento de um modelo onde, após configurar tudo, o agente processa a tarefa solicitada (como enviar e-mails e criar eventos no calendário) e gera um link direto para acessar o fluxo de trabalho no n8n.
@@ -168,7 +168,7 @@ Também aborda as limitações e desafios de usar IA para a construçêo automá
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-19T11:31:48+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> n8n Documentation (file -_ make a copy).docx
@@ -176,7 +176,7 @@ Midia: MessageMediaDocument -> n8n Documentation (file -_ make a copy).docx
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-19T11:30:54+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> n8n_Developer_Agent.json
@@ -184,7 +184,7 @@ Midia: MessageMediaDocument -> n8n_Developer_Agent.json
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-19T11:30:42+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10094_012.jpg
@@ -192,7 +192,7 @@ Midia: MessageMediaPhoto -> photo_10094_012.jpg
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-19T11:30:22+00:00
 Texto:
 ap36 - n8n Developer Agente
@@ -200,7 +200,7 @@ ap36 - n8n Developer Agente
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-19T11:30:22+00:00
 Texto:
 .
@@ -208,7 +208,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-19T11:30:22+00:00
 Texto:
 .
@@ -216,7 +216,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-19T11:30:21+00:00
 Texto:
 .
@@ -224,7 +224,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-19T11:30:21+00:00
 Texto:
 .
@@ -232,7 +232,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-19T11:30:21+00:00
 Texto:
 https://chatgpt.com/c/6853f3fa-e30c-8009-a95d-ae7e87c619bc
@@ -241,7 +241,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-19T11:30:20+00:00
 Texto:
 1
@@ -249,7 +249,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-19T11:30:03+00:00
 Texto: [Sem texto]
 

@@ -18,7 +18,7 @@ ja esta funcionando ?
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-19T17:45:58+00:00
 Texto:
 so testada, tem alguem fazer validar em um amebiente real
@@ -98,7 +98,7 @@ alguem com problemas na hora de criar as tabelas, com o sql
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:28:05+00:00
 Texto:
 ele nao fez na primeira vez, ai tive q pedir para recriar
@@ -137,7 +137,7 @@ Alguém testou?
 
 Quais seriam esses erros? arquivo 02 e 03 (monitoramento e atendimento inicial)
 
-@INEMAtds
+@linnoff88-dev
 
 ------------------------------
 
@@ -157,7 +157,7 @@ Alguém testou?
 
 Quais seriam esses erros? arquivo 02 e 03 (monitoramento e atendimento inicial)
 
-@INEMAtds
+@linnoff88-dev
 
 ------------------------------
 
@@ -198,7 +198,7 @@ MENSAGEM 23
 Autor: Taylor
 Data: 2025-06-29T02:16:55+00:00
 Texto:
-@INEMAtds nêo entendi . Quais tiveram problemas ?
+@linnoff88-dev nêo entendi . Quais tiveram problemas ?
 
 ------------------------------
 
@@ -214,14 +214,14 @@ MENSAGEM 25
 Autor: Jefecito
 Data: 2025-06-26T13:34:10+00:00
 Texto:
-@INEMAtds o ideal para gerar esses fluxos com manus, genspark ou claude é usar aqueles nodes de exemplo (ou nodes atualizados) que você publicou. 
+@linnoff88-dev o ideal para gerar esses fluxos com manus, genspark ou claude é usar aqueles nodes de exemplo (ou nodes atualizados) que você publicou. 
 
 Porque a referência que esses agentes possuem internamente sobre esses nodes sêo um pouco antigas e muitas delas podem apresentar mal funcionamento mesmo apresentando estarem corretas pós importaçêo.
 
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-26T04:42:19+00:00
 Texto:
 =========
@@ -229,7 +229,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-26T03:19:48+00:00
 Texto:
 Tecnologias e Arquitetura
@@ -360,7 +360,7 @@ O **Sistema de Automaçêo Imobiliária** entregue representa uma soluçêo comp
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-26T03:19:48+00:00
 Texto:
 # Resumo Executivo - Sistema de Automaçêo Imobiliária
@@ -485,7 +485,7 @@ Criamos um **sistema completo de automaçêo imobiliária** usando n8n como plat
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-26T03:17:35+00:00
 Texto:
 orientações feita pelo chatgpt para ele
@@ -494,7 +494,7 @@ Midia: MessageMediaDocument -> pasted_content.txt
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-26T03:15:53+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Sistema de Automaçêo Imobiliária.md
@@ -502,7 +502,7 @@ Midia: MessageMediaDocument -> Sistema de Automaçêo Imobiliária.md
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-26T03:15:43+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> nm56_2.json
@@ -510,7 +510,7 @@ Midia: MessageMediaDocument -> nm56_2.json
 ------------------------------
 
 MENSAGEM 32
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-26T03:15:43+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> nm56_3.json
@@ -518,7 +518,7 @@ Midia: MessageMediaDocument -> nm56_3.json
 ------------------------------
 
 MENSAGEM 33
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-26T03:15:32+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10604_033.jpg
@@ -526,7 +526,7 @@ Midia: MessageMediaPhoto -> photo_10604_033.jpg
 ------------------------------
 
 MENSAGEM 34
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-26T03:14:22+00:00
 Texto:
 2
@@ -535,7 +535,7 @@ Midia: MessageMediaPhoto -> photo_10603_034.jpg
 ------------------------------
 
 MENSAGEM 35
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-26T02:53:50+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> sistema-automacao-imobiliaria.zip
@@ -543,7 +543,7 @@ Midia: MessageMediaDocument -> sistema-automacao-imobiliaria.zip
 ------------------------------
 
 MENSAGEM 36
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-26T02:53:20+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 09-sistema-hitl-telegram.json
@@ -551,7 +551,7 @@ Midia: MessageMediaDocument -> 09-sistema-hitl-telegram.json
 ------------------------------
 
 MENSAGEM 37
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-26T02:53:20+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 08-integracao-email.json
@@ -559,7 +559,7 @@ Midia: MessageMediaDocument -> 08-integracao-email.json
 ------------------------------
 
 MENSAGEM 38
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-26T02:53:20+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 07-integracao-whatsapp.json
@@ -567,7 +567,7 @@ Midia: MessageMediaDocument -> 07-integracao-whatsapp.json
 ------------------------------
 
 MENSAGEM 39
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-26T02:53:20+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 06-relacionamento-follow-up.json
@@ -575,7 +575,7 @@ Midia: MessageMediaDocument -> 06-relacionamento-follow-up.json
 ------------------------------
 
 MENSAGEM 40
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-26T02:53:20+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 05-captacao-proprietarios.json
@@ -583,7 +583,7 @@ Midia: MessageMediaDocument -> 05-captacao-proprietarios.json
 ------------------------------
 
 MENSAGEM 41
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-26T02:53:20+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 04-agendamento-visitas.json
@@ -591,7 +591,7 @@ Midia: MessageMediaDocument -> 04-agendamento-visitas.json
 ------------------------------
 
 MENSAGEM 42
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-26T02:53:20+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 03-atendimento-inicial.json
@@ -599,7 +599,7 @@ Midia: MessageMediaDocument -> 03-atendimento-inicial.json
 ------------------------------
 
 MENSAGEM 43
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-26T02:53:20+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 02-monitoramento-metricas.json
@@ -607,7 +607,7 @@ Midia: MessageMediaDocument -> 02-monitoramento-metricas.json
 ------------------------------
 
 MENSAGEM 44
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-26T02:53:20+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 01-orquestrador-central.json
@@ -615,7 +615,7 @@ Midia: MessageMediaDocument -> 01-orquestrador-central.json
 ------------------------------
 
 MENSAGEM 45
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-26T02:52:58+00:00
 Texto:
 2,3 tiveram problemas
@@ -623,7 +623,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 46
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-26T02:52:48+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10591_046.jpg
@@ -631,7 +631,7 @@ Midia: MessageMediaPhoto -> photo_10591_046.jpg
 ------------------------------
 
 MENSAGEM 47
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-26T02:52:18+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10590_047.jpg
@@ -639,7 +639,7 @@ Midia: MessageMediaPhoto -> photo_10590_047.jpg
 ------------------------------
 
 MENSAGEM 48
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-26T02:51:59+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10589_048.jpg
@@ -647,7 +647,7 @@ Midia: MessageMediaPhoto -> photo_10589_048.jpg
 ------------------------------
 
 MENSAGEM 49
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-26T02:51:36+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10588_049.jpg
@@ -655,7 +655,7 @@ Midia: MessageMediaPhoto -> photo_10588_049.jpg
 ------------------------------
 
 MENSAGEM 50
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-26T02:51:10+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10587_050.jpg
@@ -663,7 +663,7 @@ Midia: MessageMediaPhoto -> photo_10587_050.jpg
 ------------------------------
 
 MENSAGEM 51
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-26T02:50:40+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10586_051.jpg
@@ -671,7 +671,7 @@ Midia: MessageMediaPhoto -> photo_10586_051.jpg
 ------------------------------
 
 MENSAGEM 52
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-26T02:49:46+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10585_052.jpg
@@ -679,7 +679,7 @@ Midia: MessageMediaPhoto -> photo_10585_052.jpg
 ------------------------------
 
 MENSAGEM 53
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-26T02:48:55+00:00
 Texto:
 nm56- Manus Imobiliaria
@@ -687,7 +687,7 @@ nm56- Manus Imobiliaria
 ------------------------------
 
 MENSAGEM 54
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-26T02:48:54+00:00
 Texto:
 .
@@ -695,7 +695,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 55
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-26T02:48:53+00:00
 Texto:
 .
@@ -703,7 +703,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 56
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-26T02:48:53+00:00
 Texto:
 .
@@ -711,7 +711,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 57
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-26T02:48:52+00:00
 Texto:
 .
@@ -719,7 +719,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 58
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-26T02:48:52+00:00
 Texto:
 .
@@ -727,7 +727,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 59
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-26T02:48:52+00:00
 Texto:
 1
@@ -735,7 +735,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 60
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-26T02:48:36+00:00
 Texto: [Sem texto]
 

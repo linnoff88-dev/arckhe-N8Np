@@ -10,7 +10,7 @@ Midias baixadas: 3
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T05:02:34+00:00
 Texto:
 **Raspador de agente de IA baseado em visêo**  
@@ -48,7 +48,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T04:59:10+00:00
 Texto:
 mw1
@@ -57,7 +57,7 @@ Midia: MessageMediaDocument -> ✨_Vision_Based_AI_Agent_Scraper_with_Google_She
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T04:58:52+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_3995_003.jpg
@@ -65,7 +65,7 @@ Midia: MessageMediaPhoto -> photo_3995_003.jpg
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T04:58:20+00:00
 Texto:
 mw1 - Vision-Based AI Agent Scraper - with Google Sheets, ScrapingBee, and Gemini
@@ -73,7 +73,7 @@ mw1 - Vision-Based AI Agent Scraper - with Google Sheets, ScrapingBee, and Gemin
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T04:58:18+00:00
 Texto:
 .
@@ -81,7 +81,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T04:58:16+00:00
 Texto:
 .
@@ -89,7 +89,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T04:58:16+00:00
 Texto:
 .
@@ -97,7 +97,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T04:58:16+00:00
 Texto:
 .
@@ -105,7 +105,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T04:58:15+00:00
 Texto:
 .
@@ -113,7 +113,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T04:58:15+00:00
 Texto:
 https://chatgpt.com/c/67e4db47-7f8c-8009-b34f-f0e4bc3cf64d
@@ -122,7 +122,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T04:58:14+00:00
 Texto:
 1
@@ -130,7 +130,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T04:58:04+00:00
 Texto: [Sem texto]
 

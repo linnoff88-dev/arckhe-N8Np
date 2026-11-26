@@ -10,7 +10,7 @@ Midias baixadas: 13
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T23:44:03+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11959_001.jpg
@@ -18,7 +18,7 @@ Midia: MessageMediaPhoto -> photo_11959_001.jpg
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T23:15:37+00:00
 Texto:
 # Ensure torch >= 2.4.0
@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T23:15:30+00:00
 Texto:
 git clone https://github.com/Wan-Video/Wan2.1.git
@@ -36,7 +36,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T23:11:46+00:00
 Texto:
 https://github.com/Wan-Video/Wan2.1
@@ -45,7 +45,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T23:08:11+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11953_005.jpg
@@ -53,7 +53,7 @@ Midia: MessageMediaPhoto -> photo_11953_005.jpg
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T22:53:15+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11951_006.jpg
@@ -61,7 +61,7 @@ Midia: MessageMediaPhoto -> photo_11951_006.jpg
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T22:44:46+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument
@@ -69,7 +69,7 @@ Midia: MessageMediaDocument
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T19:25:32+00:00
 Texto:
 O RunPod é uma plataforma de computaçêo em nuvem especializada em IA e aprendizado de máquina, onde você pode alugar GPUs poderosas sob demanda, de forma simples, flexível e escalável.
@@ -143,7 +143,7 @@ O RunPod é uma soluçêo acessível, flexível e prática para quem quer usar G
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T04:53:34+00:00
 Texto:
 https://www.youtube.com/watch?v=dk0pW6XlT6A
@@ -152,7 +152,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T04:53:20+00:00
 Texto:
 ## ⚙️ **Hacks para otimizar seu sistema de vídeos ASMR com IA**
@@ -262,7 +262,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T04:52:43+00:00
 Texto:
 ==================
@@ -270,7 +270,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T04:52:41+00:00
 Texto:
 ## 🔧 **PASSO A PASSO PARA CRIAR VÍDEOS ASMR COM IA NO PILOTO AUTOMÁTICO**
@@ -412,7 +412,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T04:52:30+00:00
 Texto:
 =============
@@ -420,7 +420,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T04:52:00+00:00
 Texto:
 **Objetivo:** Ensinar como criar vídeos ASMR com IA no piloto automático, sem custo e sem necessidade de codificaçêo (ou com mínima ediçêo).
@@ -500,7 +500,7 @@ Esse sistema permite que você crie vídeos ASMR gerados por IA de forma automat
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T04:51:28+00:00
 Texto:
 Crie vídeos ASMR de IA ilimitados de $0 no piloto automático (sem necessidade de código)
@@ -512,7 +512,7 @@ Bum, você tem um vídeo ASMR de IA pronto para ser lançado.
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T04:50:54+00:00
 Texto:
 ===============
@@ -520,7 +520,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T04:48:57+00:00
 Texto:
 Runpod: [https://www.runpod.io/](https://www.runpod.io/) 
@@ -533,7 +533,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T04:48:38+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> workflow.json
@@ -541,7 +541,7 @@ Midia: MessageMediaDocument -> workflow.json
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T04:48:34+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11926_019.jpg
@@ -549,7 +549,7 @@ Midia: MessageMediaPhoto -> photo_11926_019.jpg
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T04:48:15+00:00
 Texto:
 al47 - videos **$0 ASMR**
@@ -557,7 +557,7 @@ al47 - videos **$0 ASMR**
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T04:48:15+00:00
 Texto:
 .
@@ -565,7 +565,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T04:48:14+00:00
 Texto:
 .
@@ -573,7 +573,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T04:48:14+00:00
 Texto:
 ..
@@ -581,7 +581,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T04:48:14+00:00
 Texto:
 .
@@ -589,7 +589,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T04:48:13+00:00
 Texto:
 .
@@ -597,7 +597,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T04:48:13+00:00
 Texto:
 https://chatgpt.com/c/68870036-2448-8323-b656-07b78394765f
@@ -606,7 +606,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T04:48:12+00:00
 Texto:
 1
@@ -614,7 +614,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T04:48:08+00:00
 Texto: [Sem texto]
 

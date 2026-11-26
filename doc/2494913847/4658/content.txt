@@ -10,7 +10,7 @@ Midias baixadas: 5
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-03T10:30:12+00:00
 Texto:
 https://www.youtube.com/watch?v=VBw5PEV-zKw
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-03T10:27:44+00:00
 Texto:
 ### O que é **Recursive Splitter com Overlap**
@@ -80,7 +80,7 @@ Agora a **frase permanece completa** e faz sentido nos dois vetores.
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-03T10:25:48+00:00
 Texto:
 =====
@@ -88,7 +88,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-03T10:25:42+00:00
 Texto:
 ### Recomendações diretas para otimizar banco vetorial com n8n + Pinecone:
@@ -126,7 +126,7 @@ Para melhor resultado, **extraia só o texto útil, use Recursive Splitter com o
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-03T10:24:57+00:00
 Texto:
 ============
@@ -134,7 +134,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-03T10:23:50+00:00
 Texto:
 ### Conclusêo
@@ -149,7 +149,7 @@ garantir **compatibilidade de embedding**, você:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-03T10:23:50+00:00
 Texto:
 **“Vector Database Optimization with n8n: Metadata, Text Splitting, & Embeddings”**:
@@ -253,7 +253,7 @@ Como **otimizar a inserçêo de dados em um banco vetorial (Pinecone)** usando o
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-03T10:19:21+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Vector_Database_Optimization_Demo.json
@@ -261,7 +261,7 @@ Midia: MessageMediaDocument -> Vector_Database_Optimization_Demo.json
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-03T10:18:20+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_4669_009.jpg
@@ -269,7 +269,7 @@ Midia: MessageMediaPhoto -> photo_4669_009.jpg
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-03T10:17:33+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_4668_010.jpg
@@ -277,7 +277,7 @@ Midia: MessageMediaPhoto -> photo_4668_010.jpg
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-03T10:17:26+00:00
 Texto:
 aRAG3 - Exemplos e Usos Pinecone
@@ -285,7 +285,7 @@ aRAG3 - Exemplos e Usos Pinecone
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-03T10:17:26+00:00
 Texto:
 .
@@ -293,7 +293,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-03T10:17:25+00:00
 Texto:
 .
@@ -301,7 +301,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-03T10:17:16+00:00
 Texto:
 .
@@ -309,7 +309,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-03T10:17:16+00:00
 Texto:
 .
@@ -317,7 +317,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-03T10:17:16+00:00
 Texto:
 .
@@ -325,7 +325,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-03T10:17:15+00:00
 Texto:
 ..
@@ -333,7 +333,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-03T10:17:15+00:00
 Texto:
 https://chatgpt.com/c/67ee571f-6d8c-8009-b415-a1aec8f16da3
@@ -342,7 +342,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-03T10:17:14+00:00
 Texto:
 1
@@ -350,7 +350,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-03T10:17:08+00:00
 Texto: [Sem texto]
 

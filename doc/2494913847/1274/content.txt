@@ -10,7 +10,7 @@ Midias baixadas: 7
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T01:39:14+00:00
 Texto:
 https://www.youtube.com/watch?v=UwemeU5uKXM
@@ -21,7 +21,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-20T06:25:23+00:00
 Texto:
 eu estou vendo, em alguns o video é privado, quando é publico coloco aqui
@@ -37,7 +37,7 @@ Seria legal ver o vídeo
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-18T21:47:27+00:00
 Texto:
 Eu fiz live. Vou ver se acho
@@ -53,14 +53,14 @@ boa noite, existe algum video guide desse AI Agent prompting template?
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T02:59:21+00:00
 Texto: [Sem texto]
 
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T04:12:17+00:00
 Texto:
 **DeepSeek R1 + Telegram + n8n** e crie um chatbot inteligente que responde perguntas e agenda compromissos.   
@@ -86,7 +86,7 @@ Esses hacks transformam o DeepSeek R1 em uma ferramenta **poderosa e eficiente p
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T04:12:17+00:00
 Texto:
 Aqui estêo alguns **hacks e estratégias avançadas** que podemos  otimizar automações e o uso do **DeepSeek R1** no **n8n** e **Make.com**: 
@@ -157,7 +157,7 @@ Aqui estêo alguns **hacks e estratégias avançadas** que podemos  otimizar aut
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T04:10:31+00:00
 Texto:
 =======
@@ -165,7 +165,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T04:10:22+00:00
 Texto:
 **notificações automáticas** para um grupo. 
@@ -176,7 +176,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T04:10:22+00:00
 Texto:
 ### **Automaçêo com DeepSeek R1 no n8n e ****Make.com** 
@@ -269,7 +269,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T04:06:30+00:00
 Texto:
 ===
@@ -277,7 +277,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T04:06:25+00:00
 Texto:
 **68-  Agente de IA RAG... INSANO**   
@@ -308,7 +308,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T04:05:40+00:00
 Texto:
 j68
@@ -317,7 +317,7 @@ Midia: MessageMediaDocument -> deepseek intelligence (1).json
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T04:05:40+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> AI Agent Prompting Template 🤖 (2).docx
@@ -325,7 +325,7 @@ Midia: MessageMediaDocument -> AI Agent Prompting Template 🤖 (2).docx
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T04:05:20+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_1283_016.jpg
@@ -333,7 +333,7 @@ Midia: MessageMediaPhoto -> photo_1283_016.jpg
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T04:05:03+00:00
 Texto:
 j68n - AI  RAG Agent
@@ -341,7 +341,7 @@ j68n - AI  RAG Agent
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T04:04:35+00:00
 Texto:
 .
@@ -349,7 +349,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T04:04:28+00:00
 Texto:
 .
@@ -357,7 +357,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T04:04:28+00:00
 Texto:
 .
@@ -365,7 +365,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T04:04:27+00:00
 Texto:
 .
@@ -373,7 +373,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T04:04:27+00:00
 Texto:
 .
@@ -381,7 +381,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T04:04:27+00:00
 Texto:
 .
@@ -389,7 +389,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T04:04:26+00:00
 Texto:
 1
@@ -397,7 +397,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-06T04:04:17+00:00
 Texto: [Sem texto]
 

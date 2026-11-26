@@ -663,7 +663,7 @@
         "color": 3,
         "width": 768,
         "height": 608,
-        "content": "# Phase 3: Video Generation\n\n## What you do:\n\nNothing! Just wait for the magic to happen\n\n## What the system does:\n\n2. Generates 2 distinct videos with VEO3 (one per script segment)\n3. Checks generation status every 10 seconds\n4. Merges the 2 segments into one fluid video\n5. Sends you the final video on Telegram\n\n## In case of problems:\n\nIf generation fails → Automatic error message\nIf it takes too long → The system automatically re-checks\n\n## Result:\n\n✅ Complete UGC video in vertical format (9:16)\n✅ Cinematic quality with VEO3\n✅ Ready to publish on TikTok, Instagram, YouTube Shorts"
+        "content": "# Phase 3: Video Generation\n\n## What you do:\n\nNothing! Just wait for the magic to happen\n\n## What the system does:\n\n2. Generates 2 distinct videos with VEO3 (one per script segment)\n3. Checks generation status every 10 seconds\n4. Merges the 2 segments into one fluid video\n5. Sends you the final video on Telegram\n\n## In case of problems:\n\nIf generation fails → Automatic error message\nIf it takes too long → The system automatically re-checks\n\n## Result:\n\n✅ Complete UGC video in vertical format (9:16)\n✅ CARCKHÉtic quality with VEO3\n✅ Ready to publish on TikTok, Instagram, YouTube Shorts"
       },
       "typeVersion": 1
     },

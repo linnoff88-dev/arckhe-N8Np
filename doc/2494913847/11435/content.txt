@@ -10,7 +10,7 @@ Midias baixadas: 3
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-16T17:57:53+00:00
 Texto:
 ## 🚀 Como o JWT funciona no cliente (passo a passo)
@@ -119,7 +119,7 @@ if (payload.role === 'admin') {
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-16T17:57:08+00:00
 Texto:
 ============
@@ -127,7 +127,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-16T17:57:02+00:00
 Texto:
 ### 1. **Header Auth (Autenticaçêo por Cabeçalho)**
@@ -269,7 +269,7 @@ Vantage**ns do JWT:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-16T17:56:44+00:00
 Texto:
 ============
@@ -277,7 +277,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-16T17:55:24+00:00
 Texto:
 Resumo:
@@ -301,7 +301,7 @@ Ele demonstra cada método no Postman, mostrando como bloquear acessos sem auten
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-16T17:52:28+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Webhook Protection.json
@@ -309,7 +309,7 @@ Midia: MessageMediaDocument -> Webhook Protection.json
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-16T17:52:02+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11443_007.jpg
@@ -317,7 +317,7 @@ Midia: MessageMediaPhoto -> photo_11443_007.jpg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-16T17:51:36+00:00
 Texto:
 ap46 - Proteja se Webhook
@@ -325,7 +325,7 @@ ap46 - Proteja se Webhook
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-16T17:51:35+00:00
 Texto:
 .....
@@ -333,7 +333,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-16T17:51:34+00:00
 Texto:
 ....
@@ -341,7 +341,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-16T17:51:34+00:00
 Texto:
 ...
@@ -349,7 +349,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-16T17:51:34+00:00
 Texto:
 ..
@@ -357,7 +357,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-16T17:51:31+00:00
 Texto:
 https://chatgpt.com/c/6877e5e4-58e4-8009-82dc-deac9c1ebc09
@@ -366,7 +366,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-16T17:51:25+00:00
 Texto:
 1
@@ -374,7 +374,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-16T17:51:09+00:00
 Texto: [Sem texto]
 

@@ -27,7 +27,7 @@
           "values": [
             {
               "fieldLabel": "Music",
-              "placeholder": "Describe your music (e.g., epic cinematic music, instrumental, fantasy style)",
+              "placeholder": "Describe your music (e.g., epic cARCKHÉtic music, instrumental, fantasy style)",
               "requiredField": true
             }
           ]

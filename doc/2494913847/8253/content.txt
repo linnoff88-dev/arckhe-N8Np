@@ -10,7 +10,7 @@ Midias baixadas: 13
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:59:12+00:00
 Texto:
 **6. Hostinger (VPS)**
@@ -28,7 +28,7 @@ Midia: MessageMediaDocument -> 6 (1).mp4
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:58:36+00:00
 Texto:
 **6. Hostinger VPS (20:24) - A soluçêo automatizada**✅**Dicas e Hacks:One-Click Install**: A Hostinger simplifica o processo, pois já tem uma imagem do n8n pronta.**Mais barato com planos longos**: Se você pagar 24 meses de uma vez, o preço do VPS fica muito mais barato do que se pagar mensalmente.
@@ -37,7 +37,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:57:33+00:00
 Texto:
 ==============
@@ -45,7 +45,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:57:29+00:00
 Texto:
 [https://www.docker.com/](https://www.docker.com/)
@@ -55,7 +55,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:57:06+00:00
 Texto:
 **5. Hospedagem Local com Docker (16:00) - Para quem quer controle total**
@@ -68,7 +68,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:56:39+00:00
 Texto:
 **5. Hospedagem Local com Docker**
@@ -85,7 +85,7 @@ Midia: MessageMediaDocument -> 5 (1).mp4
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:56:33+00:00
 Texto:
 ===========
@@ -93,7 +93,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:56:27+00:00
 Texto:
 [https://www.docker.com/](https://www.docker.com/)
@@ -103,7 +103,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:55:59+00:00
 Texto:
 **5. Hospedagem Local com Docker (16:00) - Para quem quer controle total**
@@ -116,7 +116,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:55:30+00:00
 Texto:
 ================
@@ -124,7 +124,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:55:29+00:00
 Texto:
 ============
@@ -132,7 +132,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:53:53+00:00
 Texto:
 ### **4. Heroku**
@@ -150,7 +150,7 @@ Midia: MessageMediaDocument -> 4.mp4
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:53:44+00:00
 Texto:
 ====================
@@ -158,7 +158,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:53:42+00:00
 Texto:
 https://www.heroku.com/
@@ -167,7 +167,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:53:26+00:00
 Texto:
 **4. Heroku (11:50) - O método "um clique"**
@@ -180,7 +180,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:52:40+00:00
 Texto:
 =================
@@ -188,7 +188,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:52:36+00:00
 Texto:
 [https://www.digitalocean.com/](https://www.digitalocean.com/)
@@ -199,7 +199,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:52:29+00:00
 Texto:
 ### **3. Digital Ocean**
@@ -217,7 +217,7 @@ Midia: MessageMediaDocument -> 3.mp4
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:52:08+00:00
 Texto:
 **3. Digital Ocean (07:20) - One-Click Install**
@@ -230,7 +230,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:51:15+00:00
 Texto:
 ==============================
@@ -238,7 +238,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:51:12+00:00
 Texto:
 https://railway.app/
@@ -247,7 +247,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:50:53+00:00
 Texto:
 **2. Railway (04:37) - Alternativa mais flexível**
@@ -260,7 +260,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:50:39+00:00
 Texto:
 ---
@@ -280,7 +280,7 @@ Midia: MessageMediaDocument -> 2.mp4
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:49:51+00:00
 Texto:
 ======================
@@ -288,7 +288,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:49:48+00:00
 Texto:
 https://render.com/
@@ -297,7 +297,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:49:27+00:00
 Texto:
 **1. Render (00:26) - O jeito mais simples**
@@ -310,7 +310,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:49:15+00:00
 Texto:
 ### **1. Render (Mais Simples)**
@@ -328,7 +328,7 @@ Midia: MessageMediaDocument -> 1.mp4
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:47:13+00:00
 Texto:
 =================
@@ -336,7 +336,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:47:08+00:00
 Texto:
 **Resumo dos melhores "hacks"
@@ -351,7 +351,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:46:18+00:00
 Texto:
 **Conclusêo
@@ -366,7 +366,7 @@ Mais fácil**: Render (para quem quer rapidez).**Mais personalizável**: Railway
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:45:53+00:00
 Texto:
 ===============
@@ -374,7 +374,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 32
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:45:12+00:00
 Texto:
 Esse vídeo apresenta seis maneiras diferentes de hospedar o **n8n** de forma autônoma. Aqui está um resumo detalhado:
@@ -429,7 +429,7 @@ Esse vídeo apresenta seis maneiras diferentes de hospedar o **n8n** de forma au
 ------------------------------
 
 MENSAGEM 33
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:44:55+00:00
 Texto:
 [https://www.youtube.com/watch?v=kq5bmrjPPAY](https://www.youtube.com/watch?v=kq5bmrjPPAY)
@@ -438,7 +438,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 34
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:44:31+00:00
 Texto:
 VPS N8N em 3 Minutos - 6 Opcoes
@@ -446,7 +446,7 @@ VPS N8N em 3 Minutos - 6 Opcoes
 ------------------------------
 
 MENSAGEM 35
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:44:29+00:00
 Texto:
 .
@@ -454,7 +454,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 36
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:44:29+00:00
 Texto:
 ..
@@ -462,7 +462,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 37
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:44:29+00:00
 Texto:
 .
@@ -470,7 +470,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 38
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:44:29+00:00
 Texto:
 .
@@ -478,7 +478,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 39
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:44:28+00:00
 Texto:
 .
@@ -486,7 +486,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 40
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:44:28+00:00
 Texto:
 .
@@ -494,7 +494,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 41
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:44:28+00:00
 Texto:
 .
@@ -502,7 +502,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 42
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:44:28+00:00
 Texto:
 1
@@ -510,7 +510,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 43
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T10:44:21+00:00
 Texto: [Sem texto]
 

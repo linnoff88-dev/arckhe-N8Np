@@ -10,7 +10,7 @@ Midias baixadas: 5
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-13T18:36:19+00:00
 Texto:
 No contexto do [**Lovable.dev**](https://lovable.dev/), quando falamos em **arquivo anexo**, geralmente nos referimos a um **arquivo que é enviado como parte de uma interaçêo com um agente de IA**, especialmente em fluxos de automaçêo ou análise de conteúdo.
@@ -52,7 +52,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-13T18:36:13+00:00
 Texto:
 A automaçêo apresentada é um **agente de inteligência artificial com memória persistente**, criado para **lembrar de tudo que foi conversado com o usuário** ao longo do tempo. Diferente de sistemas tradicionais que perdem o contexto, esse agente **salva automaticamente cada interaçêo** em um banco de dados (Airtable) e pode usá-las em conversas futuras.
@@ -74,7 +74,7 @@ A automaçêo apresentada é um **agente de inteligência artificial com memóri
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-13T18:36:05+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 🧠 Loveable memory System..pdf
@@ -82,7 +82,7 @@ Midia: MessageMediaDocument -> 🧠 Loveable memory System..pdf
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-13T18:35:15+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 🧠 Memory Workflow.json
@@ -90,7 +90,7 @@ Midia: MessageMediaDocument -> 🧠 Memory Workflow.json
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-13T18:35:08+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9521_005.jpg
@@ -98,7 +98,7 @@ Midia: MessageMediaPhoto -> photo_9521_005.jpg
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-13T18:35:04+00:00
 Texto:
 jx2 - Agente de Memoria
@@ -106,7 +106,7 @@ jx2 - Agente de Memoria
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-13T18:34:56+00:00
 Texto:
 .
@@ -114,7 +114,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-13T18:34:55+00:00
 Texto:
 .
@@ -122,7 +122,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-13T18:34:55+00:00
 Texto:
 .
@@ -130,7 +130,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-13T18:34:55+00:00
 Texto:
 .
@@ -138,7 +138,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-13T18:34:55+00:00
 Texto:
 https://chatgpt.com/c/684c6e0a-8fd4-8009-877b-285a77e11cd7
@@ -147,7 +147,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-13T18:34:54+00:00
 Texto:
 1
@@ -155,7 +155,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-13T18:34:47+00:00
 Texto: [Sem texto]
 

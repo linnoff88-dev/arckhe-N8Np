@@ -483,7 +483,7 @@ MENSAGEM 49
 Autor: Mauricio
 Data: 2025-10-11T11:05:51+00:00
 Texto:
-@INEMAtds  surgiu um dúvida, usar lovart ou criar um agente para isso , em relaçêo à qualidade e valores qual sua opiniêo? 
+@linnoff88-dev  surgiu um dúvida, usar lovart ou criar um agente para isso , em relaçêo à qualidade e valores qual sua opiniêo? 
 
 
 Bom dia
@@ -568,7 +568,7 @@ forte abraço
 ------------------------------
 
 MENSAGEM 58
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T02:33:56+00:00
 Texto:
 o ffmpeg faz isso vc pdoe rodar na vps ou no servidor fal q tem este recurso e nao preceisa pagar ferramntas caras para isso
@@ -576,7 +576,7 @@ o ffmpeg faz isso vc pdoe rodar na vps ou no servidor fal q tem este recurso e n
 ------------------------------
 
 MENSAGEM 59
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T02:33:27+00:00
 Texto:
 olha o e46 aqui no n8n
@@ -597,14 +597,14 @@ Data: 2025-09-22T02:26:20+00:00
 Texto:
 Boa noite, teria alguma indicaçêo ou sabe algum fluxo aqui do grupo que tenha algo relacionado a ediçêo de vídeo, digo alguém de juntas partes. 
 
-Gratidêo @INEMAtds 
+Gratidêo @linnoff88-dev 
 
 Tô precisando muito 🙏🙏🙏
 
 ------------------------------
 
 MENSAGEM 62
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T04:08:21+00:00
 Texto:
 tem ser dentro do n8n.io (so vai ter dentro desta versao)
@@ -639,7 +639,7 @@ Tarde pessoal, alguém ai tem cupon de desconto para o HeyGen API Pro Platform?
 ------------------------------
 
 MENSAGEM 66
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-13T00:08:03+00:00
 Texto:
 pode usar o collab do google ou da aws
@@ -688,7 +688,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 72
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-08T03:48:43+00:00
 Texto:
 sim vc pode usar o ffmpeg para fazer os cortes, pode usar uma ferramneta de trascricao pra ver as partes q quer cortar ou os melhores momentos e usa o ffmpeg para cortar ou juntar etc
@@ -752,7 +752,7 @@ MENSAGEM 79
 Autor: Tiza
 Data: 2025-09-05T00:50:25+00:00
 Texto:
-@inemaautobot
+@ARCKHÉautobot
 
 ------------------------------
 
@@ -1269,7 +1269,7 @@ Autor: Automatizze
 Data: 2025-08-18T19:36:27+00:00
 Texto:
 Pessoal, alguem ja passou por um problema de cadastro de agendamento no Calendario ele pondo com  3 horas de diferença? J alaterei o time zone do n8n e do calendario e nada. ele sempre poe com 3 horas de diferença; 
-@INEMAtds
+@linnoff88-dev
 
 ------------------------------
 
@@ -1629,7 +1629,7 @@ MENSAGEM 175
 Autor: Mauricio
 Data: 2025-07-23T16:59:07+00:00
 Texto:
-@INEMAtds
+@linnoff88-dev
 
 ------------------------------
 
@@ -1645,7 +1645,7 @@ MENSAGEM 177
 Autor: Leandro
 Data: 2025-07-23T01:43:27+00:00
 Texto:
-BOA NOITE! TEM ALGUM FLUXO DE ENVIAR EMAIS EM MASSA ? @INEMAtds
+BOA NOITE! TEM ALGUM FLUXO DE ENVIAR EMAIS EM MASSA ? @linnoff88-dev
 
 ------------------------------
 
@@ -1663,7 +1663,7 @@ Data: 2025-07-21T19:23:19+00:00
 Texto:
 Olá pessoal, tudo bem?
 Sou o Manu,
-Estou pesquisando em várias comunidades (inclusive aqui na Inema VIP) & Github.
+Estou pesquisando em várias comunidades (inclusive aqui na ARCKHÉ VIP) & Github.
 uma soluçêo para um projeto e gostaria de saber se ALGUÉM pode me dar uma luz.
 
 **Busco um software, automaçêo ou workflow pronto para criar ensaios fotográficos com IA**, com foco em rodar tudo localmente. O fluxo ideal que estou procurando faria o seguinte:
@@ -1680,7 +1680,7 @@ O mais importante é que as etapas de treino e geraçêo sejam conectadas, minim
 Tenho encontrado ótimas ferramentas que resolvem as etapas em separado (scripts para treino de LoRA, interfaces de geraçêo como o ComfyUI, etc.), 
 mas meu desafio é encontrar algo que una essas duas pontas de forma automatizada.
 
-Alguém aqui já montou um fluxo assim ou conhece algum projeto (GitHub / Inema Vip ou nêo), software ou workflow de automaçêo que faça esse processo de ponta a ponta?
+Alguém aqui já montou um fluxo assim ou conhece algum projeto (GitHub / ARCKHÉ Vip ou nêo), software ou workflow de automaçêo que faça esse processo de ponta a ponta?
 Agradeço imensamente a atençêo! 🙏
 
 ------------------------------
@@ -1705,7 +1705,7 @@ MENSAGEM 182
 Autor: Evandro
 Data: 2025-07-21T15:27:39+00:00
 Texto:
-@INEMAtds boa tarde professor... no e30 está dando esse erro hj..
+@linnoff88-dev boa tarde professor... no e30 está dando esse erro hj..
 
 ------------------------------
 
@@ -1761,7 +1761,7 @@ MENSAGEM 189
 Autor: Thomas
 Data: 2025-07-18T00:55:28+00:00
 Texto:
-@INEMAtds
+@linnoff88-dev
 
 ------------------------------
 
@@ -2261,7 +2261,7 @@ Alguém disposto a abrir uma agência de automaçêo comigo ? Tens de perceber m
 ------------------------------
 
 MENSAGEM 249
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:29:03+00:00
 Texto:
 me avise no privado
@@ -2269,7 +2269,7 @@ me avise no privado
 ------------------------------
 
 MENSAGEM 250
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:28:52+00:00
 Texto:
 explica em detalhes o q vc quer para mim ver se consigo criar.
@@ -2312,7 +2312,7 @@ MENSAGEM 255
 Autor: Totty
 Data: 2025-07-03T19:28:31+00:00
 Texto:
-@INEMAtds vc tem essa automaçêo: https://www.youtube.com/watch?v=o5H5OlHr_yM
+@linnoff88-dev vc tem essa automaçêo: https://www.youtube.com/watch?v=o5H5OlHr_yM
 
 Se sim, pode me indicar o diretório para achar, por gentileza? Obrigado
 Midia: MessageMediaWebPage
@@ -2557,7 +2557,7 @@ Blza, obrigado
 ------------------------------
 
 MENSAGEM 282
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-25T03:42:06+00:00
 Texto:
 olha a parte de voz  retel ou vapi
@@ -2609,7 +2609,7 @@ Se eu conseguir colocar isso para rodar, vai mudar nosso jogo.
 ------------------------------
 
 MENSAGEM 288
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-22T09:48:31+00:00
 Texto:
 vou ver se acho algo
@@ -2617,7 +2617,7 @@ vou ver se acho algo
 ------------------------------
 
 MENSAGEM 289
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-22T09:48:26+00:00
 Texto:
 no caso do youtube da para fazer
@@ -2625,7 +2625,7 @@ no caso do youtube da para fazer
 ------------------------------
 
 MENSAGEM 290
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-22T09:48:13+00:00
 Texto:
 ### 1. **Responder comentários no LinkedIn**
@@ -2752,7 +2752,7 @@ MENSAGEM 303
 Autor: Automatizze
 Data: 2025-06-19T01:54:18+00:00
 Texto:
-Sabe aquela dor de cabeça pra criar prompt pro seu vídeo virar CINEMA? Pois é, por aqui deu MUITA dor de cabeça, mas... SAIU! 🎉
+Sabe aquela dor de cabeça pra criar prompt pro seu vídeo virar CARCKHÉ? Pois é, por aqui deu MUITA dor de cabeça, mas... SAIU! 🎉
 
 Finalizei aqui  um criador de prompts top pro VEO3, totalmente integrado com o n8n! Agora ficou moleza dar vida às suas ideias. É só preencher um formulário rapidêo no nosso site, e a nossa IA manda o prompt PERFEITO pra você colar direto no VEO3! Dá pra fazer vídeo de TUDO: selfie, anime, desastre... O que a sua imaginaçêo mandar! 🚀
 
@@ -2777,7 +2777,7 @@ MENSAGEM 305
 Autor: GPaolo
 Data: 2025-06-17T16:19:04+00:00
 Texto:
-@INEMAtds nao tem um local onde temos vários workflows para usarmos???
+@linnoff88-dev nao tem um local onde temos vários workflows para usarmos???
 
 procurei tudo aqui e nao achei nao...
 
@@ -2843,7 +2843,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 312
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-11T23:54:40+00:00
 Texto:
 noticias do N8N
@@ -3000,7 +3000,7 @@ Midia: MessageMediaPhoto -> photo_9219_323.jpg
 ------------------------------
 
 MENSAGEM 324
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T07:20:42+00:00
 Texto:
 sim, olha no menu por categorias voce vai achar la, redes sociais,
@@ -3008,7 +3008,7 @@ sim, olha no menu por categorias voce vai achar la, redes sociais,
 ------------------------------
 
 MENSAGEM 325
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T07:20:09+00:00
 Texto:
 manda print pode ser no privado se quiser
@@ -3016,7 +3016,7 @@ manda print pode ser no privado se quiser
 ------------------------------
 
 MENSAGEM 326
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T07:19:44+00:00
 Texto:
 remove a memoria e roda para ver se é a memoria
@@ -3289,7 +3289,7 @@ MENSAGEM 359
 Autor: Bruno Neves
 Data: 2025-05-31T12:14:02+00:00
 Texto:
-no grupo INEMA.N8N
+no grupo ARCKHÉ.N8N
 
 ------------------------------
 
@@ -3337,7 +3337,7 @@ MENSAGEM 365
 Autor: Gabriel
 Data: 2025-05-30T18:19:48+00:00
 Texto:
-@INEMAtds @Tizaaltermann aquele vídeo que postou de um fluxo do N8N sobre atendimento humanizado, tem ele disponível em algum grupo aqui?
+@linnoff88-dev @Tizaaltermann aquele vídeo que postou de um fluxo do N8N sobre atendimento humanizado, tem ele disponível em algum grupo aqui?
 
 ------------------------------
 
@@ -3426,7 +3426,7 @@ Mas nesse caso seria mais uma ferramenta paga.
 ------------------------------
 
 MENSAGEM 376
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-25T23:57:58+00:00
 Texto:
 tem umas automacoes de corte assim no n8n, mas tambem voce pode usar as ferramentas de corte direto tipo opus.pro
@@ -3533,7 +3533,7 @@ Midia: MessageMediaPhoto -> photo_8051_388.jpg
 ------------------------------
 
 MENSAGEM 389
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T17:28:36+00:00
 Texto:
 aprende as conexoes, e ali tem guia para aprender n8n
@@ -3576,7 +3576,7 @@ MENSAGEM 394
 Autor: AmnesiaHz
 Data: 2025-05-20T14:25:03+00:00
 Texto:
-@INEMAtds esse monte de grupo fica meio bagunçado, nêo seria melhor organizar separado em um Drive ou um Notion?
+@linnoff88-dev esse monte de grupo fica meio bagunçado, nêo seria melhor organizar separado em um Drive ou um Notion?
 
 ------------------------------
 
@@ -3599,7 +3599,7 @@ Vou dar uma olhada hora que chegar do trabalho sobre isso, você chegou a explic
 ------------------------------
 
 MENSAGEM 397
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T05:02:27+00:00
 Texto:
 eu tive q reautenticar o google depois das 16 horas hj
@@ -3634,7 +3634,7 @@ MENSAGEM 401
 Autor: Totty
 Data: 2025-05-18T17:14:46+00:00
 Texto:
-@INEMAtds tem alguma automaçêo com agendamento na microsoft calendar? Ou reuniões do meet da microsoft?
+@linnoff88-dev tem alguma automaçêo com agendamento na microsoft calendar? Ou reuniões do meet da microsoft?
 
 ------------------------------
 
@@ -3656,7 +3656,7 @@ Midia: MessageMediaPhoto -> photo_7834_403.jpg
 ------------------------------
 
 MENSAGEM 404
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-17T19:40:29+00:00
 Texto:
 sim a gnete usa ele assim, via vps, porem mesmo assim se paga uma taxa de hospedagem. tipo $5
@@ -3882,7 +3882,7 @@ Boa noite galera, me tirem uma dúvida sobre a licença do n8n que nêo ficou t�
 ------------------------------
 
 MENSAGEM 430
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T20:11:17+00:00
 Texto:
 olha o al14
@@ -3890,7 +3890,7 @@ olha o al14
 ------------------------------
 
 MENSAGEM 431
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T20:11:13+00:00
 Texto:
 tem um video para rodar local
@@ -4103,7 +4103,7 @@ Preciso migrar esta automaçêo para o N8N, mas realizar algumas melhorias tamb�
 
 * Melhorar os prompts.
 
-@INEMAtds Já trocamos uma ideia há alguns dias atrás que me sugeriu compartilhar aqui no grupo para ver se alguém se dispõe.
+@linnoff88-dev Já trocamos uma ideia há alguns dias atrás que me sugeriu compartilhar aqui no grupo para ver se alguém se dispõe.
 
 OBS: Esta é uma primeira demanda e pode se tornar um contrato recorrente, pois atualmente estou precisando de braços para tocar o negócio.
 
@@ -4972,7 +4972,7 @@ Alguem precisando de convite para manus??
 ------------------------------
 
 MENSAGEM 557
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T17:21:09+00:00
 Texto:
 pode aprender tanto aqui como no make, olhe no menu principal tem um topico apra comecar , ali em cima guiapara aprender
@@ -4983,7 +4983,7 @@ MENSAGEM 558
 Autor: Lucas Vinicius
 Data: 2025-04-11T15:18:28+00:00
 Texto:
-Acredito que tenha que no grupo INEMA.AGENTES
+Acredito que tenha que no grupo ARCKHÉ.AGENTES
 
 ------------------------------
 
@@ -5028,7 +5028,7 @@ Bom dia pessoal, quem precisar faço a instalaçêo/configuraçêo de VPS, N8N, 
 ------------------------------
 
 MENSAGEM 564
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:40:40+00:00
 Texto:
 no menu olha os al2 ...
@@ -5181,7 +5181,7 @@ pessoal, estou com uma duvida besta aqui. Quando baixa um json e quer usar mas a
 ------------------------------
 
 MENSAGEM 583
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T08:57:26+00:00
 Texto:
 https://t.me/c/2494913847/4871
@@ -5189,7 +5189,7 @@ https://t.me/c/2494913847/4871
 ------------------------------
 
 MENSAGEM 584
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T08:57:07+00:00
 Texto:
 Achei uma mina e vou baixar este mes ainda no grupo da Comunidade.
@@ -5395,7 +5395,7 @@ boa noite, família!
 ------------------------------
 
 MENSAGEM 600
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T09:54:05+00:00
 Texto:
 ta nomake
@@ -5403,7 +5403,7 @@ ta nomake
 ------------------------------
 
 MENSAGEM 601
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T09:36:35+00:00
 Texto:
 ta aqui no grupo n8n  ap12
@@ -5481,7 +5481,7 @@ MENSAGEM 607
 Autor: Felipe
 Data: 2025-04-04T00:17:14+00:00
 Texto:
-@INEMAtds consegue esse pra gente https://www.youtube.com/watch?v=kUpTUEwKnrk ??
+@linnoff88-dev consegue esse pra gente https://www.youtube.com/watch?v=kUpTUEwKnrk ??
 Midia: MessageMediaWebPage
 
 ------------------------------
@@ -5637,7 +5637,7 @@ MENSAGEM 623
 Autor: Carlos
 Data: 2025-04-03T13:25:02+00:00
 Texto:
-@INEMAtds Nei, vou deixar esse vídeo aqui nesse tópico. Depois eu sei que você organiza... Valeu!!! https://youtu.be/uXtsrGtx-qA
+@linnoff88-dev Nei, vou deixar esse vídeo aqui nesse tópico. Depois eu sei que você organiza... Valeu!!! https://youtu.be/uXtsrGtx-qA
 Midia: MessageMediaWebPage
 
 ------------------------------
@@ -5770,7 +5770,7 @@ Alguem para ajudar a conectar o (Kling) no meu fluxo? Nêo esou conseguindo.
 ------------------------------
 
 MENSAGEM 635
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-01T00:31:15+00:00
 Texto:
 https://chatgpt.com/c/67e27ecc-4994-8009-84e1-10a44a63a8b4
@@ -5779,7 +5779,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 636
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T22:57:36+00:00
 Texto:
 no make tem, no n8n vou olhar
@@ -6034,12 +6034,12 @@ MENSAGEM 663
 Autor: Lucas Vinicius
 Data: 2025-03-29T12:23:17+00:00
 Texto:
-@INEMAtds
+@linnoff88-dev
 
 ------------------------------
 
 MENSAGEM 664
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-29T08:37:34+00:00
 Texto:
 nao tenho visto, importante gerar um fluxo para se guiar
@@ -6606,7 +6606,7 @@ MENSAGEM 718
 Autor: Adriano
 Data: 2025-03-17T14:42:51+00:00
 Texto:
-Olá sou novo aki, comentei numa postagem no inema que ainda to boiando kk, gostaria de saber como eu copio os arquivos json ja prontos pra testar a automaçêo do N8N?
+Olá sou novo aki, comentei numa postagem no ARCKHÉ que ainda to boiando kk, gostaria de saber como eu copio os arquivos json ja prontos pra testar a automaçêo do N8N?
 
 ------------------------------
 
@@ -6627,7 +6627,7 @@ Entao , eu nao consigo entra na sala do make e no resto pois depois que eu compr
 ------------------------------
 
 MENSAGEM 721
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-17T01:47:08+00:00
 Texto:
 Vamos falar sobre MCP...
@@ -6843,7 +6843,7 @@ vou dar uma estudada hoje de noite obrigado
 ------------------------------
 
 MENSAGEM 742
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T20:09:38+00:00
 Texto:
 olha como os cara estao organizando multi agentes.
@@ -6893,7 +6893,7 @@ Midia: MessageMediaPhoto -> photo_2774_746.jpg
 ------------------------------
 
 MENSAGEM 747
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T20:04:28+00:00
 Texto:
 outra coisa roda por no e ve o debug
@@ -6901,7 +6901,7 @@ outra coisa roda por no e ve o debug
 ------------------------------
 
 MENSAGEM 748
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T20:04:08+00:00
 Texto:
 sim ia falar isso memoria do windows tem limitaca
@@ -6919,7 +6919,7 @@ E trocar também a memória do meu para um Postgress
 ------------------------------
 
 MENSAGEM 750
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T20:03:01+00:00
 Texto:
 https://t.me/c/2494913847/2682
@@ -6927,7 +6927,7 @@ https://t.me/c/2494913847/2682
 ------------------------------
 
 MENSAGEM 751
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T20:01:54+00:00
 Texto:
 vi em outro forum, q o problema é a memoria, tanto q tem uma live de um cara q separou
@@ -7074,7 +7074,7 @@ Midia: MessageMediaPhoto -> photo_1851_761.jpg
 ------------------------------
 
 MENSAGEM 762
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-24T01:39:20+00:00
 Texto:
 sempre falo a importancia de desenhar o processo q se quero, ai vamos atras de algo ja pronto. pode usar ate do make, e migrar para n8n ...
@@ -7161,7 +7161,7 @@ Data: 2025-02-18T10:53:54+00:00
 Texto:
 ATENÇêO 
 
-Pessoal, quando vence a assinatura do INEMA.VIP o bot do telegram retira vocês dos grupos, entêo nêo deixe vencer, tentem lembrar de renovar a assinatura antes do vencimento. Ou ative para dois meses, pois ele acumula e nêo excluí e você nêo perde nenhuma novidade. 
+Pessoal, quando vence a assinatura do ARCKHÉ.VIP o bot do telegram retira vocês dos grupos, entêo nêo deixe vencer, tentem lembrar de renovar a assinatura antes do vencimento. Ou ative para dois meses, pois ele acumula e nêo excluí e você nêo perde nenhuma novidade. 
 Tenham uma excelente semana.
 
 ------------------------------
@@ -7325,7 +7325,7 @@ MENSAGEM 790
 Autor: Tiza
 Data: 2025-01-30T23:04:00+00:00
 Texto:
-@INEMAtds está em Live no YouTube inema.tds falando de automaçêo.
+@linnoff88-dev está em Live no YouTube ARCKHÉ.tds falando de automaçêo.
 
 ------------------------------
 
@@ -7382,7 +7382,7 @@ Midia: MessageMediaPhoto -> photo_935_795.jpg
 ------------------------------
 
 MENSAGEM 796
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-22T07:31:34+00:00
 Texto:
 Repositório
@@ -7390,7 +7390,7 @@ Repositório
 ------------------------------
 
 MENSAGEM 797
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-22T07:31:19+00:00
 Texto:
 Converte a mp3
@@ -7401,12 +7401,12 @@ MENSAGEM 798
 Autor: J&f
 Data: 2025-01-22T07:26:53+00:00
 Texto:
-Bom dia, gostaria de acessar o inema adultos como faço?
+Bom dia, gostaria de acessar o ARCKHÉ adultos como faço?
 
 ------------------------------
 
 MENSAGEM 799
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-20T02:10:38+00:00
 Texto:
 VEM novidades ai - Agentes da Gringa kkk
@@ -7415,7 +7415,7 @@ Midia: MessageMediaPhoto -> photo_370_799.jpg
 ------------------------------
 
 MENSAGEM 800
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-18T02:40:39+00:00
 Texto:
 olha no topico VPS tem dicas e video explicando
@@ -7447,7 +7447,7 @@ E como resolvo a limitaçêo de 25mb ?
 ------------------------------
 
 MENSAGEM 804
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-15T15:35:03+00:00
 Texto:
 Tem o vision e tem o whisper
@@ -7455,7 +7455,7 @@ Tem o vision e tem o whisper
 ------------------------------
 
 MENSAGEM 805
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-15T15:34:10+00:00
 Texto:
 Na automaçêo você usa o whisper do gpt
@@ -7482,7 +7482,7 @@ Já vi no meke no grupo antigo, mas era de TikTok e Instagram fazendo esse proce
 ------------------------------
 
 MENSAGEM 808
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-07T06:16:10+00:00
 Texto:
 no make tem, quero aqui no n8n?
@@ -7498,7 +7498,7 @@ Estou querendo fazer uma automaçêo para blog alguém tem alguma ideia de como 
 ------------------------------
 
 MENSAGEM 810
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-04T03:46:56+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> HTTP e N8N.pdf
@@ -7506,7 +7506,7 @@ Midia: MessageMediaDocument -> HTTP e N8N.pdf
 ------------------------------
 
 MENSAGEM 811
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-04T03:46:56+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Raciocínio Lógico voltado para n8n.pdf
@@ -7514,7 +7514,7 @@ Midia: MessageMediaDocument -> Raciocínio Lógico voltado para n8n.pdf
 ------------------------------
 
 MENSAGEM 812
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-03T17:35:00+00:00
 Texto:
 Achei um bom conteudo , mas ele esta em espanhol, mesmo assim coloquei ai em alguns topicos
@@ -7522,7 +7522,7 @@ Achei um bom conteudo , mas ele esta em espanhol, mesmo assim coloquei ai em alg
 ------------------------------
 
 MENSAGEM 813
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-03T16:58:07+00:00
 Texto:
 3
@@ -7530,7 +7530,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 814
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-03T16:58:06+00:00
 Texto:
 2
@@ -7538,7 +7538,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 815
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-03T16:58:03+00:00
 Texto:
 1
@@ -7546,7 +7546,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 816
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-03T16:57:54+00:00
 Texto: [Sem texto]
 

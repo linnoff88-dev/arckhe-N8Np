@@ -10,7 +10,7 @@ Midias baixadas: 11
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T22:39:59+00:00
 Texto:
 https://www.youtube.com/watch?v=xWhX61651H8
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T22:39:46+00:00
 Texto:
 **Hacks e Dicas Práticas para RAG no n8n**
@@ -57,7 +57,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T22:39:27+00:00
 Texto:
 =============
@@ -65,7 +65,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T22:39:24+00:00
 Texto:
 **Passo a Passo – Novo RAG com Reranker e Metadados no n8n**
@@ -133,7 +133,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T22:38:57+00:00
 Texto:
 =========
@@ -141,7 +141,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T22:38:54+00:00
 Texto:
 **Resumo : Como o novo RAG com Reranker e Metadados deixa os agentes n8n muito mais inteligentes**
@@ -214,7 +214,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T22:36:12+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10848_007.jpg
@@ -222,7 +222,7 @@ Midia: MessageMediaPhoto -> photo_10848_007.jpg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T22:35:41+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10847_008.jpg
@@ -230,7 +230,7 @@ Midia: MessageMediaPhoto -> photo_10847_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T22:34:54+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10846_009.jpg
@@ -238,7 +238,7 @@ Midia: MessageMediaPhoto -> photo_10846_009.jpg
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T22:32:52+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10845_010.jpg
@@ -246,7 +246,7 @@ Midia: MessageMediaPhoto -> photo_10845_010.jpg
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T22:32:19+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10844_011.jpg
@@ -254,7 +254,7 @@ Midia: MessageMediaPhoto -> photo_10844_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T22:31:32+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10843_012.jpg
@@ -262,7 +262,7 @@ Midia: MessageMediaPhoto -> photo_10843_012.jpg
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T22:31:30+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Rules_of_Golf_Simplified.pdf
@@ -270,7 +270,7 @@ Midia: MessageMediaDocument -> Rules_of_Golf_Simplified.pdf
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T22:27:32+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> RAG_Reranking.json
@@ -278,7 +278,7 @@ Midia: MessageMediaDocument -> RAG_Reranking.json
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T22:27:27+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10840_015.jpg
@@ -286,7 +286,7 @@ Midia: MessageMediaPhoto -> photo_10840_015.jpg
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T22:26:09+00:00
 Texto:
 ap39 - ** RAG Agents (Reranking & Metadata)**
@@ -294,7 +294,7 @@ ap39 - ** RAG Agents (Reranking & Metadata)**
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T22:26:07+00:00
 Texto:
 .
@@ -302,7 +302,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T22:26:06+00:00
 Texto:
 .
@@ -310,7 +310,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T22:26:06+00:00
 Texto:
 ..
@@ -318,7 +318,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T22:26:05+00:00
 Texto:
 .
@@ -326,7 +326,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T22:26:04+00:00
 Texto:
 .
@@ -334,7 +334,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T22:26:04+00:00
 Texto:
 .
@@ -342,7 +342,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T22:26:04+00:00
 Texto:
 https://chatgpt.com/c/6865b22c-ba74-8009-ae50-9d164df61756
@@ -351,7 +351,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T22:26:03+00:00
 Texto:
 1
@@ -359,7 +359,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T22:25:59+00:00
 Texto: [Sem texto]
 

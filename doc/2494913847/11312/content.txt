@@ -10,7 +10,7 @@ Midias baixadas: 7
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-13T06:24:11+00:00
 Texto:
 https://www.youtube.com/live/iZqgcJj6CzM?si=ouqdUEi-3e7PLHO7
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-13T06:23:47+00:00
 Texto:
 https://www.youtube.com/live/D7uSxrOzvhI?si=czMyNNVKIsO1x_N9
@@ -28,7 +28,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-13T03:42:06+00:00
 Texto:
 ================
@@ -36,7 +36,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-13T03:42:00+00:00
 Texto:
 -- Enable the pgvector extension to work with embedding vectors
@@ -81,7 +81,7 @@ $$;
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-13T03:40:12+00:00
 Texto:
 criar extensao do supabase vector store
@@ -91,7 +91,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-13T03:25:56+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11344_006.jpg
@@ -99,7 +99,7 @@ Midia: MessageMediaPhoto -> photo_11344_006.jpg
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-13T02:32:02+00:00
 Texto:
 ### 🚀 Hacks do Pipeline (mostrados no vídeo)
@@ -181,7 +181,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-13T02:30:51+00:00
 Texto:
 ====================
@@ -189,7 +189,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-13T02:30:44+00:00
 Texto:
 =============
@@ -197,7 +197,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-13T02:29:40+00:00
 Texto:
 ============
@@ -205,7 +205,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-13T02:29:37+00:00
 Texto:
 Aqui vai o **passo a passo completo e direto** para você replicar o pipeline RAG com **Google Drive + Superbase**:
@@ -319,7 +319,7 @@ Aqui vai o **passo a passo completo e direto** para você replicar o pipeline RA
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-13T02:29:12+00:00
 Texto:
 =====================
@@ -327,7 +327,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-13T02:28:20+00:00
 Texto:
 Como construir um pipeline **RAG (Retrieval-Augmented Generation)** usando **Google Drive**, **Superbase** e **vetores de IA**. O objetivo é permitir que arquivos do Google Docs sejam automaticamente ingeridos, atualizados e excluídos em uma base vetorial dinâmica, que pode ser consultada por um agente de IA.
@@ -394,7 +394,7 @@ Aqui está o resumo completo com tópicos:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-13T02:24:42+00:00
 Texto:
 ========
@@ -402,7 +402,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-13T02:24:38+00:00
 Texto:
 **Pipeline RAG dinâmico com Supabase**
@@ -416,7 +416,7 @@ Esta configuraçêo atualiza automaticamente seu banco de dados de vetores sempr
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-13T02:23:56+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Dynamic RAG Pipeline Simple.json
@@ -424,7 +424,7 @@ Midia: MessageMediaDocument -> Dynamic RAG Pipeline Simple.json
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-13T02:23:48+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11331_017.jpg
@@ -432,7 +432,7 @@ Midia: MessageMediaPhoto -> photo_11331_017.jpg
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-13T02:23:20+00:00
 Texto:
 ap43 - **Pipeline RAG dinâmico com Supabase**
@@ -440,7 +440,7 @@ ap43 - **Pipeline RAG dinâmico com Supabase**
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-13T02:23:17+00:00
 Texto:
 .
@@ -448,7 +448,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-13T02:23:16+00:00
 Texto:
 .
@@ -456,7 +456,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-13T02:23:13+00:00
 Texto:
 ...
@@ -464,7 +464,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-13T02:23:12+00:00
 Texto:
 ..
@@ -472,7 +472,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-13T02:23:03+00:00
 Texto:
 https://chatgpt.com/c/68731934-4d98-8009-95c6-4bdeae8b3626
@@ -481,7 +481,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-13T02:23:02+00:00
 Texto:
 1
@@ -489,7 +489,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-13T02:22:53+00:00
 Texto: [Sem texto]
 

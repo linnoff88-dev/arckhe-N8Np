@@ -10,7 +10,7 @@ Midias baixadas: 5
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:26:31+00:00
 Texto:
 https://www.youtube.com/watch?v=AwJ08JHQmjQ
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:25:29+00:00
 Texto:
 Abaixo está o **passo a passo completo** para criar um **Agente de IA para Restaurante no WhatsApp**, usando **n8n, OpenAI, Google Sheets e Google Calendar** — sem precisar programar.
@@ -125,7 +125,7 @@ Abaixo está o **passo a passo completo** para criar um **Agente de IA para Rest
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:25:29+00:00
 Texto:
 ======
@@ -133,7 +133,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:25:29+00:00
 Texto:
 **Resumo do conteúdo :**
@@ -184,7 +184,7 @@ Um sistema de automaçêo com IA foi criado para atender restaurantes via WhatsA
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:22:52+00:00
 Texto:
 Agente de IA para Restaurante
@@ -198,7 +198,7 @@ Responde dúvidas, recebe pedidos e sincroniza automaticamente com o Google Agen
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:22:09+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> n8n online order.xlsx
@@ -206,7 +206,7 @@ Midia: MessageMediaDocument -> n8n online order.xlsx
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:22:02+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Tutorial_3_3_I_Built_an_AI_Agent_for_Content_Research_Auto_Posting.json
@@ -214,7 +214,7 @@ Midia: MessageMediaDocument -> Tutorial_3_3_I_Built_an_AI_Agent_for_Content_Rese
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:21:55+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9836_008.jpg
@@ -222,7 +222,7 @@ Midia: MessageMediaPhoto -> photo_9836_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:19:04+00:00
 Texto:
 al39 - **Restaurante AI Agente**
@@ -230,7 +230,7 @@ al39 - **Restaurante AI Agente**
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:19:03+00:00
 Texto:
 ..
@@ -238,7 +238,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:19:02+00:00
 Texto:
 .
@@ -246,7 +246,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:19:02+00:00
 Texto:
 .
@@ -254,7 +254,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:19:02+00:00
 Texto:
 ..
@@ -262,7 +262,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:19:01+00:00
 Texto:
 .
@@ -270,7 +270,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:19:01+00:00
 Texto:
 https://chatgpt.com/c/684e5816-9e68-8009-96bd-b59449443a5e
@@ -279,7 +279,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:19:00+00:00
 Texto:
 1
@@ -287,7 +287,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:18:55+00:00
 Texto: [Sem texto]
 

@@ -10,7 +10,7 @@ Midias baixadas: 1
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:49:59+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> ai_automation_agency_content_package.zip
@@ -18,7 +18,7 @@ Midia: MessageMediaDocument -> ai_automation_agency_content_package.zip
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:49:59+00:00
 Texto:
 pesquisa de IA generativa, destacando as diferenças estratégicas entre as abordagens."
@@ -26,7 +26,7 @@ pesquisa de IA generativa, destacando as diferenças estratégicas entre as abor
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:49:59+00:00
 Texto:
 Prompt:
@@ -102,7 +102,7 @@ O conteúdo deve demonstrar uma compreensêo de ponta da otimizaçêo de pesquis
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:49:59+00:00
 Texto:
 **Experiência Manus #4: Agências RIP SEO/GEO?!**  
@@ -117,7 +117,7 @@ Todos os resultados que obtivemos, que mais uma vez foram impressionantes, consi
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:49:59+00:00
 Texto:
 Experiência Manus #4: Agências RIP SEO/GEO
@@ -125,7 +125,7 @@ Experiência Manus #4: Agências RIP SEO/GEO
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:47:03+00:00
 Texto:
 mm4 - Experiência Manus #4: Agências RIP SEO/GEO
@@ -133,7 +133,7 @@ mm4 - Experiência Manus #4: Agências RIP SEO/GEO
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:47:01+00:00
 Texto:
 .
@@ -141,7 +141,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:47:01+00:00
 Texto:
 ...
@@ -149,7 +149,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:47:01+00:00
 Texto:
 ..
@@ -157,7 +157,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:47:01+00:00
 Texto:
 .
@@ -165,7 +165,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:47:01+00:00
 Texto:
 ..
@@ -173,7 +173,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:47:00+00:00
 Texto:
 .
@@ -181,7 +181,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:47:00+00:00
 Texto:
 .
@@ -189,7 +189,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:47:00+00:00
 Texto:
 1
@@ -197,7 +197,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:46:54+00:00
 Texto: [Sem texto]
 

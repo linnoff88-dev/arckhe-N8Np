@@ -26,7 +26,7 @@ Alguem conseguiu usar esse? O meu da erro de parâmetro ao gerar o video nas ult
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T08:40:38+00:00
 Texto:
 `t`p`s://json2video-test`.`s3.amazonaws.com/sites/top10/0`0`2_Transition_{{rankpos}}b`.`mov",
@@ -167,7 +167,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T08:40:38+00:00
 Texto:
 `i`m`agePrompt": "Persep`o`lis ruins with Persian warrior`s` and a vast empire map fr`o`m Greece to Indi`a`",
@@ -301,7 +301,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T08:40:38+00:00
 Texto:
 `{`
@@ -368,7 +368,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T08:14:04+00:00
 Texto:
 flux-pro
@@ -377,7 +377,7 @@ freepik-classic
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T08:08:50+00:00
 Texto:
 kkkk
@@ -385,7 +385,7 @@ kkkk
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T08:08:47+00:00
 Texto:
 https://assets.json2video.com/clients/DK8KBVWMeh/renders/2025-04-05-42069.mp4
@@ -393,7 +393,7 @@ https://assets.json2video.com/clients/DK8KBVWMeh/renders/2025-04-05-42069.mp4
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T07:36:18+00:00
 Texto:
 {
@@ -466,7 +466,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T06:34:28+00:00
 Texto:
 https://json2video.com/ai-voices/azure/languages/portuguese/
@@ -475,7 +475,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T06:34:13+00:00
 Texto:
 pt-BR-MacerioMultilingualNeural
@@ -483,7 +483,7 @@ pt-BR-MacerioMultilingualNeural
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T06:28:01+00:00
 Texto:
 **Google Drive and Dropbox**[**#**](https://json2video.com/docs/v2/api-reference/json-syntax/element/image#google-drive-and-dropbox)
@@ -528,7 +528,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T06:26:47+00:00
 Texto:
 https://json2video.com/docs/v2/api-reference/json-syntax/element/image
@@ -537,7 +537,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T06:26:18+00:00
 Texto:
 `{
@@ -558,7 +558,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T05:41:17+00:00
 Texto:
 https://json2video.com/dashboard/templates/
@@ -567,7 +567,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T05:40:36+00:00
 Texto:
 probbelma ainda preco, custo alto, no caso o youtube esta fazendo isso para a gente
@@ -575,7 +575,7 @@ probbelma ainda preco, custo alto, no caso o youtube esta fazendo isso para a ge
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T04:32:05+00:00
 Texto:
 se for isso será $0,25 cents vou testar
@@ -583,7 +583,7 @@ se for isso será $0,25 cents vou testar
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T04:31:33+00:00
 Texto:
 na versao paga seria voce consimir os creditos q la diz q pode criar 200 videos de 1 minuto por $50
@@ -623,7 +623,7 @@ Vendo este vídeo dublado em Português surgiu a dúvida se dá certo construir 
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-04T02:19:51+00:00
 Texto:
 ajustado para openai
@@ -632,7 +632,7 @@ Midia: MessageMediaDocument -> ap13__Top_10_Videos.json
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-03T21:00:02+00:00
 Texto:
 Dublado em Portugues
@@ -640,7 +640,7 @@ Dublado em Portugues
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-03T20:59:49+00:00
 Texto:
 https://www.youtube.com/watch?v=lF2bvXoV-Zg
@@ -649,7 +649,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-03T20:59:29+00:00
 Texto:
 **Resumo geral:**  
@@ -712,7 +712,7 @@ Como automatizar a criaçêo de vídeos longos no estilo "Top 10" para o YouTube
   - Imagem gerada por IA
   - Narraçêo com voz realista
   - Texto no rodapé com o nome
-- Outro exemplo: Top 10 personagens clássicos do cinema
+- Outro exemplo: Top 10 personagens clássicos do cARCKHÉ
   - Inclui Forrest Gump, Dorothy, Marty McFly etc.
 
 ---
@@ -740,7 +740,7 @@ Como automatizar a criaçêo de vídeos longos no estilo "Top 10" para o YouTube
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-03T20:57:54+00:00
 Texto:
 ==========
@@ -748,7 +748,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-03T20:57:43+00:00
 Texto:
 **Como automatizar 100% o conteúdo de formato longo com o n8n**
@@ -768,7 +768,7 @@ No final, você terá um sistema que **pega um tópico, encontra conteúdo ranqu
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-03T20:56:17+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Top Ten Videos Prompts.pdf
@@ -776,7 +776,7 @@ Midia: MessageMediaDocument -> Top Ten Videos Prompts.pdf
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-03T20:56:17+00:00
 Texto:
 ap13
@@ -785,7 +785,7 @@ Midia: MessageMediaDocument -> Top Ten Videos Template (file -_ make a copy).xls
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-03T20:46:01+00:00
 Texto:
 ap13
@@ -794,7 +794,7 @@ Midia: MessageMediaDocument -> Top_10_Videos (2).json
 ------------------------------
 
 MENSAGEM 32
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-03T20:45:50+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_4696_032.jpg
@@ -802,7 +802,7 @@ Midia: MessageMediaPhoto -> photo_4696_032.jpg
 ------------------------------
 
 MENSAGEM 33
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-03T20:39:56+00:00
 Texto:
 ap13 - Videos R**ankings Top 10**
@@ -810,7 +810,7 @@ ap13 - Videos R**ankings Top 10**
 ------------------------------
 
 MENSAGEM 34
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-03T20:39:54+00:00
 Texto:
 ..
@@ -818,7 +818,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 35
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-03T20:39:53+00:00
 Texto:
 .
@@ -826,7 +826,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 36
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-03T20:39:52+00:00
 Texto:
 .
@@ -834,7 +834,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 37
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-03T20:39:52+00:00
 Texto:
 .
@@ -842,7 +842,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 38
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-03T20:39:52+00:00
 Texto:
 https://chatgpt.com/c/67ef249d-74dc-8009-90a8-cf6a13ddfb19
@@ -851,7 +851,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 39
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-03T20:39:51+00:00
 Texto:
 1
@@ -859,7 +859,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 40
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-03T20:39:43+00:00
 Texto: [Sem texto]
 

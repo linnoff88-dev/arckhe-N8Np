@@ -18,7 +18,7 @@ Faz um de recrutamento
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T01:06:59+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14479_002.jpg
@@ -26,7 +26,7 @@ Midia: MessageMediaPhoto -> photo_14479_002.jpg
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T13:39:13+00:00
 Texto:
 ### Hacks de arquitetura
@@ -67,7 +67,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T13:38:56+00:00
 Texto:
 ===============
@@ -75,7 +75,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T13:38:54+00:00
 Texto:
 gancho inicial)
@@ -167,7 +167,7 @@ Min 40–46: Polir UI (loading, copiar), teste ponta a ponta, primeiro post gera
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T13:38:54+00:00
 Texto:
 Aqui vai um passo a passo direto para recriar o sistema do vídeo, do zero ao funcionando. Sem código complexo, só o necessário.
@@ -270,7 +270,7 @@ Passo a passo prático
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T13:37:40+00:00
 Texto:
 ===============
@@ -278,7 +278,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T13:37:37+00:00
 Texto:
 [https://www.youtube.com/watch?v=2m7Os3LD_j0](https://www.youtube.com/watch?v=2m7Os3LD_j0)
@@ -287,7 +287,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T13:37:25+00:00
 Texto:
 ===========
@@ -295,7 +295,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T13:37:21+00:00
 Texto:
 ou “+Y reuniões marcadas”. Cobrança inicial para setup e mensalidade por operaçêo/manutençêo. Mostre o painel funcionando com dados do próprio cliente.
@@ -317,7 +317,7 @@ Entrega mínima viável em 46 minutos
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T13:37:09+00:00
 Texto:
 Resumo 
@@ -385,7 +385,7 @@ Venda o resultado: “+X leads/semana”
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T13:17:26+00:00
 Texto:
 ==============
@@ -393,7 +393,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T13:17:22+00:00
 Texto:
 j105-Como Construir um Sistema de IA de 100 mil dólares em 46 minutos
@@ -414,7 +414,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T13:16:57+00:00
 Texto:
 ================
@@ -422,7 +422,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T13:16:54+00:00
 Texto:
 Como construir um sistema de IA de 100 mil dólares em 46 minutos (sem código)
@@ -439,7 +439,7 @@ Este é um guia extremamente simples, mas incrivelmente detalhado, de A a Z sobr
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T13:16:19+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 🩵 Bolt AI System Prompt..pdf
@@ -447,7 +447,7 @@ Midia: MessageMediaDocument -> 🩵 Bolt AI System Prompt..pdf
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T13:16:19+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 0 to 100k dashboard.json
@@ -455,7 +455,7 @@ Midia: MessageMediaDocument -> 0 to 100k dashboard.json
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T13:16:09+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14451_018.jpg
@@ -463,7 +463,7 @@ Midia: MessageMediaPhoto -> photo_14451_018.jpg
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T13:16:04+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14450_019.jpg
@@ -471,7 +471,7 @@ Midia: MessageMediaPhoto -> photo_14450_019.jpg
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T13:12:29+00:00
 Texto:
 Como Construir um Sistema de IA de 100 mil dólares em 46 minutos
@@ -479,7 +479,7 @@ Como Construir um Sistema de IA de 100 mil dólares em 46 minutos
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T13:12:23+00:00
 Texto:
 j105 - Construa Sistema de IA de 100k em 46min
@@ -487,7 +487,7 @@ j105 - Construa Sistema de IA de 100k em 46min
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T13:12:22+00:00
 Texto:
 .
@@ -495,7 +495,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T13:12:22+00:00
 Texto:
 .
@@ -503,7 +503,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T13:12:22+00:00
 Texto:
 .
@@ -511,7 +511,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T13:12:22+00:00
 Texto:
 .
@@ -519,7 +519,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T13:12:21+00:00
 Texto:
 .
@@ -527,7 +527,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T13:12:21+00:00
 Texto:
 https://chatgpt.com/c/68cff882-2dc0-832d-aeb6-e3408d7fa093
@@ -536,7 +536,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T13:12:21+00:00
 Texto:
 1
@@ -544,7 +544,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T13:12:15+00:00
 Texto: [Sem texto]
 

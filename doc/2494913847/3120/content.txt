@@ -58,7 +58,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-17T19:10:13+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Company_Details_Elite_Realty.xlsx
@@ -66,7 +66,7 @@ Midia: MessageMediaDocument -> Company_Details_Elite_Realty.xlsx
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-17T19:07:40+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7830_008.jpg
@@ -74,7 +74,7 @@ Midia: MessageMediaPhoto -> photo_7830_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-13T21:49:42+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_3130_009.jpg
@@ -82,7 +82,7 @@ Midia: MessageMediaPhoto -> photo_3130_009.jpg
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-13T21:27:41+00:00
 Texto:
 acb2
@@ -91,7 +91,7 @@ Midia: MessageMediaDocument -> Outbound_Personalized_Email_Project (1).json
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-13T21:26:07+00:00
 Texto:
 ### **Gerador de Leads Outbound com Google Maps como Scraper**  
@@ -108,7 +108,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-13T21:25:52+00:00
 Texto:
 acb2 - Gerador de Leads Outbound com Google Maps como Scraper
@@ -116,7 +116,7 @@ acb2 - Gerador de Leads Outbound com Google Maps como Scraper
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-13T21:25:51+00:00
 Texto:
 .
@@ -124,7 +124,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-13T21:25:50+00:00
 Texto:
 .
@@ -132,7 +132,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-13T21:25:49+00:00
 Texto:
 .
@@ -140,7 +140,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-13T21:25:49+00:00
 Texto:
 .
@@ -148,7 +148,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-13T21:25:49+00:00
 Texto:
 .
@@ -156,7 +156,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-13T21:25:48+00:00
 Texto:
 1
@@ -164,7 +164,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-13T21:25:41+00:00
 Texto: [Sem texto]
 

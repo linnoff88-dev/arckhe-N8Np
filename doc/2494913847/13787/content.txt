@@ -10,7 +10,7 @@ Midias baixadas: 11
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T17:55:52+00:00
 Texto:
 ## **Por que a Avaliaçêo de Workflows com IA é Diferente**
@@ -89,7 +89,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T17:55:01+00:00
 Texto:
 ===============
@@ -97,7 +97,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T17:54:57+00:00
 Texto:
 ### **1. Why AI Workflow Evaluation is Different**
@@ -186,7 +186,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T17:52:21+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13886_004.jpg
@@ -194,7 +194,7 @@ Midia: MessageMediaPhoto -> photo_13886_004.jpg
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T17:51:57+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13885_005.jpg
@@ -202,7 +202,7 @@ Midia: MessageMediaPhoto -> photo_13885_005.jpg
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T17:50:58+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13884_006.jpg
@@ -210,7 +210,7 @@ Midia: MessageMediaPhoto -> photo_13884_006.jpg
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T17:50:13+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13883_007.jpg
@@ -218,7 +218,7 @@ Midia: MessageMediaPhoto -> photo_13883_007.jpg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T17:49:43+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13882_008.jpg
@@ -226,7 +226,7 @@ Midia: MessageMediaPhoto -> photo_13882_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T02:49:56+00:00
 Texto:
 https://www.youtube.com/watch?v=-zFd1nPn6U0
@@ -235,7 +235,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T02:47:54+00:00
 Texto:
 ========================
@@ -243,7 +243,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T02:47:51+00:00
 Texto:
 ### 🧠 **HACKS DE AVALIAÇêO DE WORKFLOWS NO n8n**
@@ -306,7 +306,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T02:47:01+00:00
 Texto:
 ====================
@@ -314,7 +314,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T02:46:59+00:00
 Texto:
 O vídeo ensina como usar o recurso de **avaliaçêo de fluxos (evaluations)** no **n8n** para validar mudanças em automações de IA, com base em dados objetivos, nêo achismos. A abordagem transforma o processo de ajuste de automações em uma prática científica baseada em testes controlados.
@@ -391,7 +391,7 @@ O vídeo ensina como usar o recurso de **avaliaçêo de fluxos (evaluations)** n
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T02:45:47+00:00
 Texto:
 =====================
@@ -399,7 +399,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T02:45:42+00:00
 Texto:
 ### 1. **Introduçêo**
@@ -504,7 +504,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T02:45:38+00:00
 Texto:
 Guia para Iniciantes sobre Avaliaçêo de Workflows no n8n 
@@ -521,7 +521,7 @@ Todos os **modelos de Google Sheets e arquivos do Google Docs** necessários par
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-04T22:13:04+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Ticket Tagging Evaluation.json
@@ -529,7 +529,7 @@ Midia: MessageMediaDocument -> Ticket Tagging Evaluation.json
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-04T22:13:04+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> RAG Evaluation.json
@@ -537,7 +537,7 @@ Midia: MessageMediaDocument -> RAG Evaluation.json
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-04T22:12:54+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13798_019.jpg
@@ -545,7 +545,7 @@ Midia: MessageMediaPhoto -> photo_13798_019.jpg
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-04T22:11:30+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13797_020.jpg
@@ -553,7 +553,7 @@ Midia: MessageMediaPhoto -> photo_13797_020.jpg
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-04T22:05:25+00:00
 Texto:
 ap58 - **Workflow Evaluation**
@@ -561,7 +561,7 @@ ap58 - **Workflow Evaluation**
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-04T22:05:24+00:00
 Texto:
 ..
@@ -569,7 +569,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-04T22:05:23+00:00
 Texto:
 .
@@ -577,7 +577,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-04T22:05:23+00:00
 Texto:
 .
@@ -585,7 +585,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-04T22:05:23+00:00
 Texto:
 .
@@ -593,7 +593,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-04T22:05:23+00:00
 Texto:
 .
@@ -601,7 +601,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-04T22:05:22+00:00
 Texto:
 .
@@ -609,7 +609,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-04T22:05:22+00:00
 Texto:
 https://chatgpt.com/c/68ba0ba4-64ec-8323-af86-298cb95f1a20
@@ -618,7 +618,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-04T22:05:22+00:00
 Texto:
 1
@@ -626,7 +626,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-04T22:05:18+00:00
 Texto: [Sem texto]
 

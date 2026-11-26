@@ -74,10 +74,10 @@ Qual o grupo de whatsapp?
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-11T00:11:53+00:00
 Texto:
-no youtube @inematds
+no youtube @linnoff88-dev
 
 ------------------------------
 
@@ -98,7 +98,7 @@ onde vai ser o link da live
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-10T18:35:21+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> My_workflow_4.json
@@ -106,7 +106,7 @@ Midia: MessageMediaDocument -> My_workflow_4.json
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-10T18:34:58+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7494_013.jpg
@@ -114,7 +114,7 @@ Midia: MessageMediaPhoto -> photo_7494_013.jpg
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-10T18:34:25+00:00
 Texto:
 e so colar no n8n
@@ -122,7 +122,7 @@ e so colar no n8n
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-10T18:34:18+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7492_015.jpg
@@ -130,7 +130,7 @@ Midia: MessageMediaPhoto -> photo_7492_015.jpg
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-10T18:34:13+00:00
 Texto:
 voce tenha exemplos no projeto do calude.ai
@@ -138,7 +138,7 @@ voce tenha exemplos no projeto do calude.ai
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-10T18:33:24+00:00
 Texto:
 Make a carbon copy of the first agent workflow in this image
@@ -146,7 +146,7 @@ Make a carbon copy of the first agent workflow in this image
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-10T18:32:57+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7489_018.jpg
@@ -154,7 +154,7 @@ Midia: MessageMediaPhoto -> photo_7489_018.jpg
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-10T18:32:00+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7488_019.jpg
@@ -162,7 +162,7 @@ Midia: MessageMediaPhoto -> photo_7488_019.jpg
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-10T18:31:46+00:00
 Texto:
 nm28 - Cria app N8N de imagens Workflow
@@ -170,7 +170,7 @@ nm28 - Cria app N8N de imagens Workflow
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-10T18:31:44+00:00
 Texto:
 .
@@ -178,7 +178,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-10T18:31:44+00:00
 Texto:
 .
@@ -186,7 +186,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-10T18:31:44+00:00
 Texto:
 .
@@ -194,7 +194,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-10T18:31:43+00:00
 Texto:
 .
@@ -202,7 +202,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-10T18:31:43+00:00
 Texto:
 https://chatgpt.com/c/681f963a-c5f8-8009-972f-cf6449515684
@@ -211,7 +211,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-10T18:31:43+00:00
 Texto:
 1
@@ -219,7 +219,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-10T18:31:38+00:00
 Texto: [Sem texto]
 

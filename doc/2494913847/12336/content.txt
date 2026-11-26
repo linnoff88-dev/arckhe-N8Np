@@ -10,7 +10,7 @@ Midias baixadas: 2
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T02:49:31+00:00
 Texto:
 ---
@@ -114,7 +114,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T02:48:54+00:00
 Texto:
 =============
@@ -122,7 +122,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T02:48:49+00:00
 Texto:
 **passo a passo detalhado para criar uma automaçêo de backup de workflows no N8N para o GitHub**:
@@ -250,7 +250,7 @@ Criar uma automaçêo no **N8N** que salve diariamente todos os workflows ativos
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T02:48:07+00:00
 Texto:
 =============
@@ -258,7 +258,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T02:48:03+00:00
 Texto:
 **Resumo  (backup automático de fluxos no Make e N8N)**
@@ -327,7 +327,7 @@ Ensinar como automatizar o backup dos fluxos de automaçêo no **Make** (para Go
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T02:45:55+00:00
 Texto:
 ==============
@@ -335,7 +335,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T02:45:35+00:00
 Texto:
 🚨Backup no GitHub das suas automações
@@ -383,7 +383,7 @@ Desenhamos um fluxo que extrai todos os *workflows* do N8N, os converte em arqui
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T02:43:46+00:00
 Texto:
 ===============
@@ -391,7 +391,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T02:43:34+00:00
 Texto:
 **Imprescindible: Backup dos seus fluxos no N8N e Make de forma automática**
@@ -422,7 +422,7 @@ Implemente isso o quanto antes. Esse é o tipo de automaçêo que só é valoriz
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T02:40:12+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> N8N Backup Github.json
@@ -430,7 +430,7 @@ Midia: MessageMediaDocument -> N8N Backup Github.json
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T02:40:02+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12348_011.jpg
@@ -438,7 +438,7 @@ Midia: MessageMediaPhoto -> photo_12348_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T02:39:03+00:00
 Texto:
 nm65 - Backup N8N no GitHub
@@ -446,7 +446,7 @@ nm65 - Backup N8N no GitHub
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T02:38:59+00:00
 Texto:
 .
@@ -454,7 +454,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T02:38:56+00:00
 Texto:
 .
@@ -462,7 +462,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T02:38:52+00:00
 Texto:
 .
@@ -470,7 +470,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T02:38:50+00:00
 Texto:
 .
@@ -478,7 +478,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T02:38:44+00:00
 Texto:
 .
@@ -486,7 +486,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T02:38:42+00:00
 Texto:
 .
@@ -494,7 +494,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T02:38:39+00:00
 Texto:
 .
@@ -502,7 +502,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T02:38:37+00:00
 Texto:
 .
@@ -510,7 +510,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T02:38:35+00:00
 Texto:
 .
@@ -518,7 +518,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T02:38:29+00:00
 Texto:
 1
@@ -526,7 +526,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T02:38:19+00:00
 Texto: [Sem texto]
 

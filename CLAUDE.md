@@ -128,7 +128,7 @@ Midia: [media type] -> [filename]
 ```
 
 ### Common Authors
-- **INEMA**: Primary content contributor (workflows, courses, documentation)
+- **ARCKHÉ**: Primary content contributor (workflows, courses, documentation)
 - Various community members sharing use cases and questions
 
 ## Course Materials

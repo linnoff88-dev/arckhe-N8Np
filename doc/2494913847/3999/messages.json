@@ -1,7 +1,7 @@
 [
   {
     "id": 4014,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-27T05:27:38+00:00",
     "text": "Aqui está o **resumo e análise do funcionamento da automaçêo de \n## Resumo do Processo:\n\n1. **Escuta por Requisições Entrantes**\n   - Um endpoint `/ytube` é configurado para aguardar requisições POST.\n   - Essas requisições devem conter uma URL de um vídeo do YouTube.\n\n2. **Captura da URL do YouTube**\n   - Assim que recebe a requisiçêo, a automaçêo extrai a URL do corpo da mensagem.\n\n3. **Extraçêo do ID do Vídeo**\n   - Utiliza uma expressêo regular (regex) para localizar e isolar o ID do vídeo na URL recebida.\n\n4. **Busca de Detalhes do Vídeo**\n   - Consulta a API do YouTube (ou um serviço equivalente) para obter:\n     - Título\n     - Descriçêo\n     - Outras informações úteis (como duraçêo, canal, etc.)\n\n5. **Coleta da Transcriçêo**\n   - Busca a transcriçêo do vídeo (caso esteja disponível).\n   - Divide a transcriçêo em blocos menores, facilitando o processamento posterior.\n\n6. **Preparaçêo da Transcriçêo**\n   - Junta os blocos em um único texto contínuo.\n   - Este texto será usado como base para o resumo.\n\n7. **Geraçêo do Resumo com IA**\n   - Um modelo de linguagem (LLM), como o ChatGPT ou similar, processa o texto e cria um resumo estruturado.\n   - O resumo é gerado em **formato Markdown** (com títulos, tópicos, listas, etc.), pronto para ser exibido ou publicado.\n\n8. **Criaçêo da Resposta**\n   - A automaçêo monta um objeto de resposta que contém:\n     - O resumo\n     - Os dados do vídeo (título, descriçêo, etc.)\n     - A URL original\n\n9. **Envio da Resposta**\n   - O conteúdo final é enviado:\n     - De volta à origem (por exemplo, uma plataforma como Make ou n8n)\n     - E também via **mensagem no Telegram**, com o título e a URL do vídeo.\n\n---\n\n## Análise Técnica e Estratégica:\n\n### Pontos Positivos:\n- **Automaçêo Inteligente**: Integraçêo entre coleta, processamento com IA e distribuiçêo.\n- **Multicanal**: Responde no webhook e também no Telegram, otimizando o alcance.\n- **Formatos Prontos para Uso**: Utiliza Markdown, ideal para envio por bots, blogs, ou outros canais.\n\n### Possibilidades de Expansêo:\n- Traduzir transcrições para outras línguas antes de resumir.\n- Gerar **títulos virais** e **descrições otimizadas para SEO** com base no conteúdo.\n- Extrair **palavras-chave** e sugerir **hashtags** para redes sociais.\n- Criar imagens-resumo (com ferramentas como DALL·E, Midjourney ou Leonardo.ai) para complementar o conteúdo.\n\n### Aplicações Práticas:\n- Criadores de conteúdo: publicar rapidamente resumos dos vídeos no blog, Telegram ou redes sociais.\n- Empresas: transformar reuniões gravadas em resumos rápidos.\n- Educaçêo: criar resumos de aulas em vídeo automaticamente.",
     "has_media": false,
@@ -9,7 +9,7 @@
   },
   {
     "id": 4013,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-27T05:25:07+00:00",
     "text": "===========",
     "has_media": false,
@@ -17,7 +17,7 @@
   },
   {
     "id": 4012,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-27T05:25:00+00:00",
     "text": "**O que isso faz?**  \n1. **Escuta por requisições recebidas**: Ele começa esperando uma requisiçêo do tipo POST no endpoint `/ytube`, esperando receber uma URL do YouTube.\n\n2. **Captura a URL do YouTube**: Assim que a requisiçêo chega, ele extrai a URL do vídeo da mensagem.\n\n3. **Extrai o ID do vídeo**: Usando um pequeno truque com expressêo regular (regex), ele identifica e extrai o ID do vídeo a partir da URL.\n\n4. **Busca os detalhes do vídeo**: Em seguida, ele acessa o YouTube para obter detalhes como o título, descriçêo e outras informações do vídeo.\n\n5. **Obtém a transcriçêo**: A automaçêo recupera a transcriçêo do vídeo e a divide em partes mais fáceis de processar.\n\n6. **Prepara a transcriçêo**: Ela junta todas essas partes em um único bloco de texto, deixando tudo pronto para a análise.\n\n7. **Resume a transcriçêo**: Um modelo de linguagem (pense nele como um assistente inteligente) entra em açêo e cria um resumo bem organizado da transcriçêo, no formato Markdown.\n\n8. **Cria uma resposta**: Por fim, o sistema agrupa o resumo, os detalhes do vídeo e a URL original em um objeto de resposta.\n\n9. **Envia a resposta**: O resumo é entêo enviado de volta por meio da resposta original do webhook e também por uma mensagem no Telegram com o título do vídeo e a URL.",
     "has_media": false,
@@ -25,7 +25,7 @@
   },
   {
     "id": 4011,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-27T05:24:00+00:00",
     "text": "Nó de Transcrissêo do Youtube foi descontinuado.",
     "has_media": false,
@@ -33,7 +33,7 @@
   },
   {
     "id": 4010,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-27T05:23:37+00:00",
     "text": "mw2",
     "has_media": true,
@@ -42,7 +42,7 @@
   },
   {
     "id": 4009,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-27T05:23:18+00:00",
     "text": "",
     "has_media": true,
@@ -51,7 +51,7 @@
   },
   {
     "id": 4008,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-27T05:18:04+00:00",
     "text": ".",
     "has_media": false,
@@ -59,7 +59,7 @@
   },
   {
     "id": 4007,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-27T05:18:01+00:00",
     "text": "mw2 - Resumo e Analise Video Youtube",
     "has_media": false,
@@ -67,7 +67,7 @@
   },
   {
     "id": 4006,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-27T05:17:53+00:00",
     "text": ".",
     "has_media": false,
@@ -75,7 +75,7 @@
   },
   {
     "id": 4005,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-27T05:17:53+00:00",
     "text": ".",
     "has_media": false,
@@ -83,7 +83,7 @@
   },
   {
     "id": 4004,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-27T05:17:52+00:00",
     "text": ".",
     "has_media": false,
@@ -91,7 +91,7 @@
   },
   {
     "id": 4003,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-27T05:17:50+00:00",
     "text": ".",
     "has_media": false,
@@ -99,7 +99,7 @@
   },
   {
     "id": 4002,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-27T05:17:50+00:00",
     "text": ".",
     "has_media": false,
@@ -107,7 +107,7 @@
   },
   {
     "id": 4001,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-27T05:17:49+00:00",
     "text": "https://chatgpt.com/c/67e4df14-0b90-8009-b31b-964d1580c16e",
     "has_media": true,
@@ -115,7 +115,7 @@
   },
   {
     "id": 4000,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-27T05:17:49+00:00",
     "text": "1",
     "has_media": false,
@@ -123,7 +123,7 @@
   },
   {
     "id": 3999,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-27T05:17:44+00:00",
     "text": "",
     "has_media": false,

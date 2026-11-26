@@ -10,7 +10,7 @@ Midias baixadas: 9
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-23T18:06:09+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13109_001.jpg
@@ -18,7 +18,7 @@ Midia: MessageMediaPhoto -> photo_13109_001.jpg
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-23T18:03:40+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13108_002.jpg
@@ -26,7 +26,7 @@ Midia: MessageMediaPhoto -> photo_13108_002.jpg
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-23T17:58:49+00:00
 Texto:
 Aqui está o **passo a passo detalhado** para **recriar o chatbot estilo “Hormozi GPT”** usando **Pinecone Assistant**, **n8n** e um **GPT customizado**, conforme descrito no vídeo e no conteúdo da Skool (mesmo sem acesso direto):
@@ -155,7 +155,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-23T17:58:02+00:00
 Texto:
 ## **O que sêo os JSON que ele compartilhou?**
@@ -197,7 +197,7 @@ Esse **JSON é o corpo do request** enviado via HTTP para o Pinecone Assistant.
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-23T17:56:58+00:00
 Texto:
 ======================
@@ -205,7 +205,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-23T17:56:21+00:00
 Texto:
 ## **Resumo Geral**
@@ -292,7 +292,7 @@ O criador mostra como **reconstruir o Hermozi GPT** (um chatbot caro com RAG e L
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-23T17:55:47+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Mozi Bot CustomGPT.json
@@ -300,7 +300,7 @@ Midia: MessageMediaDocument -> Mozi Bot CustomGPT.json
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-23T17:55:47+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Mozi Bot (Chat Trigger).json
@@ -308,7 +308,7 @@ Midia: MessageMediaDocument -> Mozi Bot (Chat Trigger).json
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-23T17:55:47+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Custom GPT Starter Prompt.pdf
@@ -316,7 +316,7 @@ Midia: MessageMediaDocument -> Custom GPT Starter Prompt.pdf
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-23T17:55:47+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Custom GPT Schema.pdf
@@ -324,7 +324,7 @@ Midia: MessageMediaDocument -> Custom GPT Schema.pdf
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-23T17:55:33+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13097_011.jpg
@@ -332,7 +332,7 @@ Midia: MessageMediaPhoto -> photo_13097_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-23T17:24:21+00:00
 Texto:
 **Reconstruí o chatbot de US$ 6 mil da Hormozi em 5 minutos... 
@@ -363,7 +363,7 @@ Veja q às vezes as melhores soluções sêo as mais preguiçosas
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-23T17:21:57+00:00
 Texto:
 m32 - ChatBot Hormozi $6k
@@ -371,7 +371,7 @@ m32 - ChatBot Hormozi $6k
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-23T17:21:55+00:00
 Texto:
 .
@@ -379,7 +379,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-23T17:21:50+00:00
 Texto:
 .
@@ -387,7 +387,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-23T17:21:47+00:00
 Texto:
 .
@@ -395,7 +395,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-23T17:21:43+00:00
 Texto:
 ..
@@ -403,7 +403,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-23T17:21:41+00:00
 Texto:
 .
@@ -411,7 +411,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-23T17:21:36+00:00
 Texto:
 https://chatgpt.com/c/68a9f9ce-13ac-8328-8ea4-af6500e7f630
@@ -420,7 +420,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-23T17:21:35+00:00
 Texto:
 1
@@ -428,7 +428,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-23T17:21:20+00:00
 Texto: [Sem texto]
 

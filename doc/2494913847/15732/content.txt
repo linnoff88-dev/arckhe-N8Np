@@ -10,7 +10,7 @@ Midias baixadas: 4
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T06:12:45+00:00
 Texto:
 ====================
@@ -18,7 +18,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T06:12:40+00:00
 Texto:
 ChatGPT** para gerar ou revisar os *system prompts*.
@@ -46,7 +46,7 @@ Ele trata o prompt como um **documento vivo**, que evolui com o agente, os usuá
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T06:12:40+00:00
 Texto:
 ---
@@ -108,7 +108,7 @@ Ele mostra que **usa o próprio
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T06:12:08+00:00
 Texto:
 =======================
@@ -116,7 +116,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T05:32:28+00:00
 Texto:
 https://www.youtube.com/watch?v=zWLZ3bVVwD8
@@ -125,7 +125,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T05:32:12+00:00
 Texto:
 e Créditos
@@ -169,7 +169,7 @@ O criador ainda convida os interessados a entrarem em sua **comunidade paga**, q
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T05:32:12+00:00
 Texto:
 ## 🧠 Visêo Geral
@@ -303,7 +303,7 @@ O Vapi oferece até **10 números gratuitos** para testes.
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T05:29:50+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15743_008.jpg
@@ -311,7 +311,7 @@ Midia: MessageMediaPhoto -> photo_15743_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T05:10:06+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15742_009.jpg
@@ -319,7 +319,7 @@ Midia: MessageMediaPhoto -> photo_15742_009.jpg
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T05:08:12+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15741_010.jpg
@@ -327,7 +327,7 @@ Midia: MessageMediaPhoto -> photo_15741_010.jpg
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T05:08:09+00:00
 Texto:
 .ap73 - Agentes de VOZ - VAPI
@@ -335,7 +335,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T05:07:49+00:00
 Texto:
 .
@@ -343,7 +343,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T05:07:48+00:00
 Texto:
 .
@@ -351,7 +351,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T05:07:48+00:00
 Texto:
 .
@@ -359,7 +359,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T05:07:48+00:00
 Texto:
 .
@@ -367,7 +367,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T05:07:48+00:00
 Texto:
 .
@@ -375,7 +375,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T05:07:48+00:00
 Texto:
 .
@@ -383,7 +383,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T05:07:47+00:00
 Texto:
 1
@@ -391,7 +391,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T05:07:40+00:00
 Texto: [Sem texto]
 

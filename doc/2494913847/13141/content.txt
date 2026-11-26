@@ -10,7 +10,7 @@ Midias baixadas: 7
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:05:08+00:00
 Texto:
 https://www.youtube.com/watch?v=pxzo2lXhWJE
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:04:34+00:00
 Texto:
 ====================
@@ -27,7 +27,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:04:31+00:00
 Texto:
 No vídeo e também na prática de quem monta esse tipo de fluxo no **n8n**, aparecem vários "hacks" (atalhos e boas práticas) que aceleram muito a construçêo de sistemas multiagente. Vou organizar em blocos:
@@ -84,7 +84,7 @@ No vídeo e também na prática de quem monta esse tipo de fluxo no **n8n**, apa
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:04:01+00:00
 Texto:
 ====================
@@ -92,7 +92,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:01:28+00:00
 Texto:
 Antes de abrir o **n8n** ele rascunhou a ideia em um quadro digital.
@@ -107,7 +107,7 @@ Ou seja, ele usou esses **whiteboard tools** apenas para organizar a lógica e v
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:00:33+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13164_006.jpg
@@ -115,7 +115,7 @@ Midia: MessageMediaPhoto -> photo_13164_006.jpg
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:00:04+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13163_007.jpg
@@ -123,7 +123,7 @@ Midia: MessageMediaPhoto -> photo_13163_007.jpg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-24T23:59:44+00:00
 Texto:
 ==================
@@ -131,7 +131,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-24T23:59:41+00:00
 Texto:
 k: Google Sheets/Airtable com data, título, tópicos, links e coluna Feedback. Um segundo workflow lê esse feedback e ajusta os prompts.
@@ -202,7 +202,7 @@ Resposta: diminua max\_results no Tavily, use modelos mini nos passos intermedi�
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-24T23:59:41+00:00
 Texto:
 lts = ($json.results || [])
@@ -364,7 +364,7 @@ Responda apenas no JSON exigido.
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-24T23:59:41+00:00
 Texto:
 resu
@@ -372,7 +372,7 @@ resu
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-24T23:59:41+00:00
 Texto:
 ,. Abaixo vai um guia direto, replicável e completo para você construir exatamente o sistema do vídeo no n8n: pesquisa inicial → planejamento de tópicos → pesquisas por tópico → redaçêo por seçêo → ediçêo em HTML → envio como rascunho no Gmail. Incluí prompts prontos, schemas do Structured Output Parser, expressões e funções de apoio.
@@ -514,7 +514,7 @@ const
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-24T23:59:16+00:00
 Texto:
 ================
@@ -522,7 +522,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-24T23:54:59+00:00
 Texto:
 # Passo a Passo do Fluxo
@@ -581,7 +581,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-24T23:54:16+00:00
 Texto:
 ==============
@@ -589,7 +589,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-24T23:54:13+00:00
 Texto:
 # Visêo geral rápida
@@ -618,7 +618,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-24T18:15:28+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Copy of Newsletter Automation Resource Pack.docx
@@ -626,7 +626,7 @@ Midia: MessageMediaDocument -> Copy of Newsletter Automation Resource Pack.docx
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-24T18:13:58+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> AI Newsletter System.json
@@ -634,7 +634,7 @@ Midia: MessageMediaDocument -> AI Newsletter System.json
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-24T18:13:51+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13149_019.jpg
@@ -642,7 +642,7 @@ Midia: MessageMediaPhoto -> photo_13149_019.jpg
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-24T18:13:22+00:00
 Texto:
 ap56 - Boletim Informativo MultiAgente
@@ -650,7 +650,7 @@ ap56 - Boletim Informativo MultiAgente
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-24T18:13:20+00:00
 Texto:
 .
@@ -658,7 +658,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-24T18:13:20+00:00
 Texto:
 .
@@ -666,7 +666,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-24T18:13:19+00:00
 Texto:
 .
@@ -674,7 +674,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-24T18:13:18+00:00
 Texto:
 .
@@ -682,7 +682,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-24T18:13:18+00:00
 Texto:
 https://chatgpt.com/c/68ab5681-88a4-832f-b0a5-d6e814f73a23?model=gpt-5
@@ -691,7 +691,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-24T18:13:17+00:00
 Texto:
 1
@@ -699,7 +699,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-24T18:13:07+00:00
 Texto: [Sem texto]
 

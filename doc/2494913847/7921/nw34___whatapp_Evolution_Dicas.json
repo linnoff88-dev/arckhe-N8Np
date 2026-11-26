@@ -676,7 +676,7 @@
     {
       "parameters": {
         "method": "POST",
-        "url": "=https://api.inema.online/message/sendText/{{ $('Switch').item.json.instancia }}",
+        "url": "=https://api.ARCKHÉ.online/message/sendText/{{ $('Switch').item.json.instancia }}",
         "sendQuery": true,
         "queryParameters": {
           "parameters": [
@@ -733,7 +733,7 @@
       "credentials": {
         "postgres": {
           "id": "[REMOVED]",
-          "name": "Postgres inematds supabase.com"
+          "name": "Postgres linnoff88-dev supabase.com"
         }
       }
     }

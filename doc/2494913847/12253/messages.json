@@ -1,15 +1,15 @@
 [
   {
     "id": 12273,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-06T00:05:29+00:00",
-    "text": "https://chatgpt.com/g/g-688c56775eb48191babbb8929dc8611b-inema-ec8",
+    "text": "https://chatgpt.com/g/g-688c56775eb48191babbb8929dc8611b-ARCKHÉ-ec8",
     "has_media": true,
     "media_type": "MessageMediaWebPage"
   },
   {
     "id": 12272,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-06T00:05:03+00:00",
     "text": "quero fazer uma automacao da minha ong de pets\n\nquero um cadastro de anamais para gerenciar vacinacao e outroas informacoes, tambem uma agendamento de castracao e  um sistema de tirar duvidas usando rag supabase , o canal de entrada e saida é o whatapp web (com eveolutionapi) e gmail,  deve entrar texto, voxz e imagem e sair apenas texto\nmemoria quero manter 5 interqacoes semrpe q alguem mandar emnsagem como memoria curta  e na longa registrar todas conversas e interacoes  na base de dados do supabase\n\nquero um sistema tipo agente e subagente ligados a um agente geral\n\nquero isso no n8n a minha versao é 1.104.2\n\ntudo deve ser compative e so quero os arquivo json prontos , melhor se for em um so workflow",
     "has_media": false,
@@ -17,7 +17,7 @@
   },
   {
     "id": 12271,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-06T00:05:01+00:00",
     "text": "prompt Inicial",
     "has_media": false,
@@ -25,7 +25,7 @@
   },
   {
     "id": 12270,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-06T00:04:02+00:00",
     "text": "[instruçêo master]\naja como especialista em criar automações N8N, completas, funcionais e validadas\nantes de tudo, pergunte quais dúvidas você tenha sobre este projeto\nuse os modelos de exemplo\n[conteúdo da fase 3]\n— cabeçalho de contexto (referência às fases 1 e 2)\n— solicitaçêo de dúvidas\n— lista de nodes e placeholders\n— metadados (timezone, retryOnFail)\n— instruções de estilo (Switch/Set, sem Function)\n— ordem de execuçêo e importaçêo de sub-workflows\n\n## 🧾 **INSTRUÇêO TÉCNICA PARA GERAÇêO DE WORKFLOW N8N**\n\n### 📌 **CONTEXTO DO PROJETO**\n\n**Sistema:** ONG Pets – Automaçêo Completa\n**Objetivo Principal:** Cadastro de animais, agendamento de castraçêo e dúvidas via RAG\n**Complexidade:** Avançada\n**Versêo n8n:** 1.104.2\n\n---\n\n### 🏗️ **ARQUITETURA DEFINIDA**\n\n**Tipo:** Modular\n**Padrêo:** Agentes com orquestrador e RAG conectado ao Supabase\n**Execuçêo:** Sequencial com controle por roteador\n\n#### **FLUXO PRINCIPAL:**\n\n```📥 Entrada WhatsApp (EvolutionAPI) + Gmail  → 🛡️ Validaçêo de formato (texto, imagem, voz)  \n→ 🧠 Orquestrador identifica intençêo  → 🔀 Encaminha para subagente adequado  \n→ ⚙️ Execuçêo de ações (cadastro, agendamento, resposta RAG)  → 💾 Registros no Supabase (memória curta e longa)  \n→ 📤 Resposta textual ao canal de origem```\n---\n### 🧩 B**LOCOS OBRIGATÓRIOS E CONFIGURAÇÕES\n**#### 🔧 E**NTRADA E TRIGGERS\n*** Trigger WhatsApp via EvolutionAPI* Trigger Gmail (node IMAP ou Gmail)\n* Identificaçêo do canal de origem* Captura de anexos, áudio e texto\n#### 🔧 P**ROCESSAMENTO E VALIDAÇêO\n*** Conversêo de voz em texto (speech-to-text)\n* OCR para imagens* Validaçêo de dados obrigatórios\n#### 🔧 R**OTEAMENTO INTELIGENTE\n*** Orquestrador detecta intençêo com base em conteúdo\n* Switch para redirecionar entre: Cadastro, Agendamento, RAG\n\n#### 🔧 A**GENTES ESPECIALIZADOS\n**\n* Agente Cadastro Animal: nome, raça, vacinaçêo, histórico\n* Agente Agendamento Castraçêo: datas, confirmaçêo, status\n* Agente RAG: busca contexto no Supabase e responde\n#### 🔧 M**EMÓRIA E DADOS\n*** Memória curta com últimas 5 interações em variável por usuário\n* Supabase com tabelas:\n\n  * p`ets `(id, nome, espécie, vacinaçêo, dono\\_id)\n  * a`gendamentos `(id, data, status, pet\\_id)\n  * h`istorico `(id, user\\_id, mensagem, resposta, timestamp)\n\n#### 🔧 C**ONHECIMENTO E IA\n*** Indexaçêo de documentos internos no Supabase\n* RAG com recuperaçêo semântica\n* Geraçêo de resposta baseada no prompt + contexto\n\n#### 🔧 S**AÍDA E NOTIFICAÇÕES\n*** Resposta via EvolutionAPI para WhatsApp\n* Resposta via Gmail com texto formatado\n* Notificaçêo interna para falhas (ex: canal Telegram admin)",
     "has_media": false,
@@ -33,7 +33,7 @@
   },
   {
     "id": 12269,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-06T00:03:59+00:00",
     "text": "prompt de criacao FASE 3",
     "has_media": false,
@@ -41,7 +41,7 @@
   },
   {
     "id": 12268,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-06T00:01:17+00:00",
     "text": "https://apps.abacus.ai/chatllm/?appId=9acf57f3e&convoId=de278a876",
     "has_media": true,
@@ -49,7 +49,7 @@
   },
   {
     "id": 12267,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-06T00:00:56+00:00",
     "text": "",
     "has_media": true,
@@ -58,7 +58,7 @@
   },
   {
     "id": 12266,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-06T00:00:47+00:00",
     "text": "",
     "has_media": true,
@@ -67,7 +67,7 @@
   },
   {
     "id": 12265,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-06T00:00:20+00:00",
     "text": "",
     "has_media": true,
@@ -76,7 +76,7 @@
   },
   {
     "id": 12264,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-06T00:00:14+00:00",
     "text": "nm64 - Abacus - ONG Pets - Vibe Code",
     "has_media": false,
@@ -84,7 +84,7 @@
   },
   {
     "id": 12263,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-06T00:00:12+00:00",
     "text": ".",
     "has_media": false,
@@ -92,7 +92,7 @@
   },
   {
     "id": 12262,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-06T00:00:10+00:00",
     "text": ".",
     "has_media": false,
@@ -100,7 +100,7 @@
   },
   {
     "id": 12261,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-06T00:00:08+00:00",
     "text": ".",
     "has_media": false,
@@ -108,7 +108,7 @@
   },
   {
     "id": 12260,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-06T00:00:07+00:00",
     "text": ".",
     "has_media": false,
@@ -116,7 +116,7 @@
   },
   {
     "id": 12259,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-05T23:59:57+00:00",
     "text": "...",
     "has_media": false,
@@ -124,7 +124,7 @@
   },
   {
     "id": 12258,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-05T23:59:56+00:00",
     "text": "..",
     "has_media": false,
@@ -132,7 +132,7 @@
   },
   {
     "id": 12257,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-05T23:59:56+00:00",
     "text": ".",
     "has_media": false,
@@ -140,7 +140,7 @@
   },
   {
     "id": 12256,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-05T23:59:55+00:00",
     "text": "1..",
     "has_media": false,
@@ -148,7 +148,7 @@
   },
   {
     "id": 12255,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-05T23:59:55+00:00",
     "text": "1.",
     "has_media": false,
@@ -156,7 +156,7 @@
   },
   {
     "id": 12254,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-05T23:59:54+00:00",
     "text": "1",
     "has_media": false,
@@ -164,7 +164,7 @@
   },
   {
     "id": 12253,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-05T23:59:49+00:00",
     "text": "",
     "has_media": false,

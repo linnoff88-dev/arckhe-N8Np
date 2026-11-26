@@ -10,7 +10,7 @@ Midias baixadas: 5
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T22:55:15+00:00
 Texto:
 **Resumo do vídeo "Easy Faceless AI Workflow: Viral Animated Cat AI Videos (100M+ Views)"**
@@ -87,7 +87,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T22:55:03+00:00
 Texto:
 ==========================
@@ -95,10 +95,10 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T22:54:20+00:00
 Texto:
-vida, com pelos delicados, jaz estirado no chêo, parcialmente sobre um dispositivo robótico esmagado. Há manchas de fluido vermelho ao redor da cena, aumentando a atmosfera sombria. Uma tigela de comida tombada está próxima. O beco é ladeado por prédios europeus antigos, com sacadas e lanternas penduradas nas paredes. Uma lixeira verde tombada está à esquerda, contribuindo com a sensaçêo de caos. Ao fundo, um ganso branco solitário caminha tranquilamente, como se nada estivesse acontecendo. A iluminaçêo é sombria e cinematográfica, com o céu nublado filtrando luz suave pelo beco. A perspectiva está ligeiramente inclinada, tornando a imagem dinâmica e inquietante. A cena tem um estilo hiper-realista, mas surreal, com um equilíbrio entre detalhes nítidos e elementos exagerados que aumentam a tensêo dramática."
+vida, com pelos delicados, jaz estirado no chêo, parcialmente sobre um dispositivo robótico esmagado. Há manchas de fluido vermelho ao redor da cena, aumentando a atmosfera sombria. Uma tigela de comida tombada está próxima. O beco é ladeado por prédios europeus antigos, com sacadas e lanternas penduradas nas paredes. Uma lixeira verde tombada está à esquerda, contribuindo com a sensaçêo de caos. Ao fundo, um ganso branco solitário caminha tranquilamente, como se nada estivesse acontecendo. A iluminaçêo é sombria e cARCKHÉtográfica, com o céu nublado filtrando luz suave pelo beco. A perspectiva está ligeiramente inclinada, tornando a imagem dinâmica e inquietante. A cena tem um estilo hiper-realista, mas surreal, com um equilíbrio entre detalhes nítidos e elementos exagerados que aumentam a tensêo dramática."
   ]
 }
 ```
@@ -133,7 +133,7 @@ S**AÍDA SOMENTE DO TÍTULO,** sem quebras de linha, emojis ou pontuações.
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T22:54:19+00:00
 Texto:
 **al06 - Vídeos animados de gatos com fluxo de trabalho de IA sem rosto e fáceis de criar**
@@ -190,7 +190,7 @@ Para cada cena, precisamos destacar o personagem principal. Trate cada cena como
 
 Em primeiro plano, um gato branco sem vida, com pelos delicados, jaz estirado no chêo, parcialmente sobre um dispositivo robótico esmagado. Há manchas de fluido vermelho ao redor da cena, aumentando a atmosfera sombria. Uma tigela de comida tombada está próxima. O beco é ladeado por prédios europeus antigos, com sacadas e lanternas penduradas nas paredes. Uma lixeira verde tombada está à esquerda, contribuindo com a sensaçêo de caos. Ao fundo, um ganso branco solitário caminha tranquilamente, como se nada estivesse acontecendo.
 
-A iluminaçêo é sombria e cinematográfica, com o céu nublado filtrando luz suave pelo beco. A perspectiva está ligeiramente inclinada, tornando a imagem dinâmica e inquietante. A cena tem um estilo hiper-realista, mas surreal, com um equilíbrio entre detalhes nítidos e elementos exagerados que aumentam a tensêo dramática."
+A iluminaçêo é sombria e cARCKHÉtográfica, com o céu nublado filtrando luz suave pelo beco. A perspectiva está ligeiramente inclinada, tornando a imagem dinâmica e inquietante. A cena tem um estilo hiper-realista, mas surreal, com um equilíbrio entre detalhes nítidos e elementos exagerados que aumentam a tensêo dramática."
 
 **NÚMERO DE PROMPTS DE IMAGEM:** {{ $json['Number of Video'] }}
 
@@ -207,7 +207,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T22:53:26+00:00
 Texto:
 =================
@@ -215,7 +215,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T22:51:43+00:00
 Texto:
 **[Tutorial + Modelo] Fluxo de trabalho fácil de IA sem rosto: vídeos virais animados de IA de gatos (100M+ visualizações)**
@@ -225,7 +225,7 @@ Acabamos de fazer um tutorial mostrando como automatizar a criaçêo de vídeos 
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T22:50:36+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Tutorial_15_1_Faceless_AI_Workflow_Cat_Video_Fully_Automated_Template.json
@@ -233,7 +233,7 @@ Midia: MessageMediaDocument -> Tutorial_15_1_Faceless_AI_Workflow_Cat_Video_Full
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T22:50:28+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_5471_008.jpg
@@ -241,7 +241,7 @@ Midia: MessageMediaPhoto -> photo_5471_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T22:49:17+00:00
 Texto:
 al6 - Videos Dark Gatinhos
@@ -249,7 +249,7 @@ al6 - Videos Dark Gatinhos
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T22:49:14+00:00
 Texto:
 ..
@@ -257,7 +257,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T22:49:14+00:00
 Texto:
 ..
@@ -265,7 +265,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T22:49:14+00:00
 Texto:
 ..
@@ -273,7 +273,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T22:49:13+00:00
 Texto:
 .
@@ -281,7 +281,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T22:49:13+00:00
 Texto:
 ..
@@ -289,7 +289,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T22:49:13+00:00
 Texto:
 .
@@ -297,7 +297,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T22:49:13+00:00
 Texto:
 https://chatgpt.com/c/67f99d1a-fc30-8009-88d0-fd46c42d2ddd
@@ -306,7 +306,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T22:49:09+00:00
 Texto:
 1
@@ -314,7 +314,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T22:48:55+00:00
 Texto: [Sem texto]
 

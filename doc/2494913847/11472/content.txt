@@ -18,7 +18,7 @@ Obrigado..eu estava vendo tbm..👍🏽
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-24T16:08:52+00:00
 Texto:
 eu fiz uma live agora a pouco e expliquei sobre o google conexao
@@ -71,7 +71,7 @@ MENSAGEM 8
 Autor: Evandro
 Data: 2025-07-21T15:23:09+00:00
 Texto:
-boa tarde @INEMAtds hj está dando erro na conexêo com o meu drive..pode me ajudar..?
+boa tarde @linnoff88-dev hj está dando erro na conexêo com o meu drive..pode me ajudar..?
 
 ------------------------------
 
@@ -106,12 +106,12 @@ MENSAGEM 12
 Autor: Evandro
 Data: 2025-07-19T23:01:39+00:00
 Texto:
-boa noite @INEMAtds o chatgpt acima nêo está abrindo... o senhor compartilhou com nós mas nêo abre
+boa noite @linnoff88-dev o chatgpt acima nêo está abrindo... o senhor compartilhou com nós mas nêo abre
 
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-18T00:53:33+00:00
 Texto:
 https://chatgpt.com/c/68799a11-3fd8-8009-b0fe-cd6bb64a4dd2
@@ -120,7 +120,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-18T00:53:22+00:00
 Texto:
 Aqui vai o prompt perfeito para o Claude Opus criar um workflow n8n com Vibe Code, já otimizado para:
@@ -296,7 +296,7 @@ if (aiResponse.category == "Urgente") {
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-18T00:53:11+00:00
 Texto:
 exemplo de uma instrucao de prompt
@@ -304,7 +304,7 @@ exemplo de uma instrucao de prompt
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-18T00:52:43+00:00
 Texto:
 ==================
@@ -312,7 +312,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T18:38:31+00:00
 Texto:
 Resumo :
@@ -351,7 +351,7 @@ Como criar **automaçêo completa no N8N usando IA**, sem precisar tocar em nenh
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T18:31:11+00:00
 Texto:
 ====
@@ -359,7 +359,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T18:26:27+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11492_019.jpg
@@ -367,7 +367,7 @@ Midia: MessageMediaPhoto -> photo_11492_019.jpg
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T18:22:17+00:00
 Texto:
 ===================
@@ -375,7 +375,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T18:22:11+00:00
 Texto:
 e30. Automatize fluxos do N8N
@@ -437,7 +437,7 @@ O maior diferencial competitivo nêo será técnico, mas estratégico e criativo
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T18:21:33+00:00
 Texto:
 =================
@@ -445,7 +445,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T18:21:23+00:00
 Texto:
 Nova JOIA: Automaçêo no “Automático” 🔥
@@ -483,7 +483,7 @@ E se você já entendeu isso… você está na frente.
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T18:21:09+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Ejemplo N8N Base.docx
@@ -491,7 +491,7 @@ Midia: MessageMediaDocument -> Ejemplo N8N Base.docx
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T18:20:17+00:00
 Texto:
 O arquivo abaixo, salve como txt no drive
@@ -499,7 +499,7 @@ O arquivo abaixo, salve como txt no drive
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T18:20:15+00:00
 Texto:
 --------------------------
@@ -507,7 +507,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T18:18:24+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11483_027.jpg
@@ -515,7 +515,7 @@ Midia: MessageMediaPhoto -> photo_11483_027.jpg
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T18:17:39+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Agente desarrollador n8n.json
@@ -523,7 +523,7 @@ Midia: MessageMediaDocument -> Agente desarrollador n8n.json
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T18:17:15+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11481_029.jpg
@@ -531,7 +531,7 @@ Midia: MessageMediaPhoto -> photo_11481_029.jpg
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T18:15:35+00:00
 Texto:
 e30 - Automatize seus Fluxo
@@ -539,7 +539,7 @@ e30 - Automatize seus Fluxo
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T18:15:14+00:00
 Texto:
 .
@@ -547,7 +547,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 32
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T18:15:12+00:00
 Texto:
 .
@@ -555,7 +555,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 33
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T18:15:11+00:00
 Texto:
 .
@@ -563,7 +563,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 34
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T18:15:10+00:00
 Texto:
 .
@@ -571,7 +571,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 35
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T18:15:02+00:00
 Texto:
 1..
@@ -579,7 +579,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 36
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T18:15:02+00:00
 Texto:
 https://chatgpt.com/c/68793d1c-63e0-8009-9b05-b5d187290903
@@ -588,7 +588,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 37
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T18:15:02+00:00
 Texto:
 1
@@ -596,7 +596,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 38
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T18:14:54+00:00
 Texto: [Sem texto]
 

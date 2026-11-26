@@ -99,8 +99,8 @@ docs/
 
 ## Contato
 
-- **Repositorio:** https://github.com/inematds/N8Np
-- **Site atual:** https://inematds.github.io/N8Np/
+- **Repositorio:** https://github.com/linnoff88-dev/N8Np
+- **Site atual:** https://linnoff88-dev.github.io/arckhe-/
 - **Comunidade:** https://t.me/n8np
 
 ---

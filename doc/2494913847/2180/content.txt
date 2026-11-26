@@ -10,7 +10,7 @@ Midias baixadas: 6
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T02:11:09+00:00
 Texto:
 https://www.youtube.com/watch?v=nNNFBabP82U
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T02:10:30+00:00
 Texto:
 =========
@@ -27,7 +27,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T02:10:05+00:00
 Texto:
 usuários engajados.  
@@ -44,7 +44,7 @@ Agora, é só testar essas dicas e transformar sua ideia em um **produto real**!
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T02:10:04+00:00
 Texto:
 ### **Dicas e Hacks para Construir Apps com n8n + ****Loveable.dev**** 🚀**  
@@ -141,7 +141,7 @@ Aqui estêo algumas estratégias avançadas para otimizar sua automaçêo e cria
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T02:08:11+00:00
 Texto:
 ============
@@ -149,7 +149,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T02:08:05+00:00
 Texto:
 ---
@@ -188,7 +188,7 @@ Este guia mostrou como usar n8n + Loveable.dev para criar uma aplicaçêo web in
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T02:08:05+00:00
 Texto:
 ### **Passo a Passo: Construindo uma Automaçêo com n8n + ****Loveable.dev**  
@@ -276,7 +276,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T02:07:30+00:00
 Texto:
 =============
@@ -284,7 +284,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T02:07:26+00:00
 Texto:
 ### **Resumo"Build Anything with n8n + Loveable"**  
@@ -349,7 +349,7 @@ Mostra como combinar ferramentas **no-code** e IA para criar aplicações web av
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T02:06:29+00:00
 Texto:
 ========
@@ -357,7 +357,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T02:06:24+00:00
 Texto:
 ### **Construa QUALQUER COISA com n8n + Loveable**  
@@ -371,7 +371,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T02:04:46+00:00
 Texto:
 ========
@@ -379,7 +379,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T02:04:35+00:00
 Texto:
 ​O **Lovable.dev** é uma plataforma inovadora que utiliza inteligência artificial para transformar descrições em linguagem natural em aplicações web totalmente funcionais. Projetada para simplificar e acelerar o desenvolvimento de software, ela permite que usuários, mesmo sem conhecimento técnico avançado, criem produtos digitais de alta qualidade de forma rápida e eficiente. citeturn0search0
@@ -409,7 +409,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T02:03:22+00:00
 Texto:
 ========
@@ -417,7 +417,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T02:03:17+00:00
 Texto:
 O **CodePen** é uma plataforma online voltada para desenvolvedores front-end experimentarem, compartilharem e colaborarem em códigos HTML, CSS e JavaScript. Ele funciona como um ambiente de desenvolvimento interativo, permitindo testar ideias rapidamente e visualizar as alterações em tempo real.
@@ -440,7 +440,7 @@ Se você busca um **playground de código interativo**, o CodePen é uma excelen
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T02:02:49+00:00
 Texto:
 **Construa QUALQUER COISA com n8n + Loveable**  
@@ -456,7 +456,7 @@ Isso é simplesmente ÉPICO.
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T02:02:04+00:00
 Texto:
 j77n8
@@ -465,7 +465,7 @@ Midia: MessageMediaDocument -> ___Build_Anything_with_Loveable (1).json
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T02:01:36+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_2190_018.jpg
@@ -473,7 +473,7 @@ Midia: MessageMediaPhoto -> photo_2190_018.jpg
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T01:58:20+00:00
 Texto:
 **j77n8 - Build ANYTHING with n8n + Loveable**
@@ -481,7 +481,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T01:58:18+00:00
 Texto:
 .
@@ -489,7 +489,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T01:58:18+00:00
 Texto:
 .
@@ -497,7 +497,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T01:58:17+00:00
 Texto:
 .
@@ -505,7 +505,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T01:58:17+00:00
 Texto:
 .
@@ -513,7 +513,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T01:58:17+00:00
 Texto:
 .
@@ -521,7 +521,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T01:58:17+00:00
 Texto:
 .
@@ -529,7 +529,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T01:58:17+00:00
 Texto:
 https://chatgpt.com/c/67c67b63-e25c-8009-a2c0-ebd93a64181f
@@ -538,7 +538,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T01:58:16+00:00
 Texto:
 1
@@ -546,7 +546,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T01:58:09+00:00
 Texto: [Sem texto]
 

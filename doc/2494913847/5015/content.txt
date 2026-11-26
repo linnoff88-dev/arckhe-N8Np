@@ -27,7 +27,7 @@ Como faço para rodar ou visualizar o conteúdo desse arquivo, por favor?
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:00:59+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Youtube Post (1).xlsx
@@ -35,7 +35,7 @@ Midia: MessageMediaDocument -> Youtube Post (1).xlsx
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T04:57:11+00:00
 Texto:
 https://www.youtube.com/watch?v=K-cTuj_QVac
@@ -44,7 +44,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T04:56:53+00:00
 Texto:
 ### **🔁 FLUXO 1 – Criaçêo automática do vídeo faceless**
@@ -102,7 +102,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T04:56:30+00:00
 Texto:
 ==================
@@ -110,7 +110,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T04:54:51+00:00
 Texto:
 **Resumo : "How I Built an AI Agent with DeepSeek AI to Create Faceless YouTube Videos (No-Code)"**
@@ -199,7 +199,7 @@ Postado no canal do YouTube automaticamente.
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T04:53:55+00:00
 Texto:
 ===============
@@ -207,7 +207,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T04:53:51+00:00
 Texto:
 Ensina como criar vídeos curtos para o YouTube (estilo *faceless*, ou seja, sem mostrar o rosto) de forma totalmente automatizada e sem precisar programar. Utilizando uma combinaçêo de ferramentas de inteligência artificial como DeepSeek AI, ElevenLabs, Flux AI e Google Cloud, o criador mostra como gerar histórias, transformar esses textos em áudio, criar imagens ilustrativas e unir tudo em um vídeo, usando um fluxo organizado com integrações entre as plataformas.
@@ -219,7 +219,7 @@ Além de mostrar como usar essas ferramentas, o tutorial detalha a configuraçê
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T04:53:24+00:00
 Texto:
 ### O que ensina:
@@ -244,7 +244,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T04:50:12+00:00
 Texto:
 al1 v2
@@ -253,7 +253,7 @@ Midia: MessageMediaDocument -> New_Tutorial_6_1_How_I_Built_an_AI_Agent_with_Dee
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T04:49:58+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_5023_012.jpg
@@ -261,7 +261,7 @@ Midia: MessageMediaPhoto -> photo_5023_012.jpg
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T04:49:54+00:00
 Texto:
 .
@@ -269,7 +269,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T04:49:54+00:00
 Texto:
 ..
@@ -277,7 +277,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T04:49:53+00:00
 Texto:
 .
@@ -285,7 +285,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T04:49:53+00:00
 Texto:
 .
@@ -293,7 +293,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T04:49:53+00:00
 Texto:
 .
@@ -301,7 +301,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T04:49:51+00:00
 Texto:
 https://chatgpt.com/c/67f5f9ec-e5fc-8009-b2db-e966ff660ac1
@@ -310,7 +310,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T04:49:51+00:00
 Texto:
 1
@@ -318,7 +318,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T04:49:38+00:00
 Texto: [Sem texto]
 

@@ -10,7 +10,7 @@ Midias baixadas: 4
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:38:21+00:00
 Texto:
 https://www.youtube.com/watch?v=LUBbnJ6qffc
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:38:02+00:00
 Texto:
 Segue o **passo a passo completo** para criar um chatbot de IA multicanal com RAG (Retrieval-Augmented Generation), utilizando **n8n**, **DeepSeek**, **OpenAI** e **Pinecone**, com suporte a **WhatsApp, Slack e Telegram**, sem precisar programar:
@@ -156,7 +156,7 @@ Segue o **passo a passo completo** para criar um chatbot de IA multicanal com RA
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:37:54+00:00
 Texto:
 ==============
@@ -164,7 +164,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:37:41+00:00
 Texto:
 Resumo do conteúdo :
@@ -211,7 +211,7 @@ Como criar um agente de IA multicanal com base de conhecimento personalizada usa
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:35:44+00:00
 Texto:
 Construa um Chatbot de IA Multicanal com RAG e Base de Conhecimento Personalizada 
@@ -223,7 +223,7 @@ Como construir um chatbot de IA com base de conhecimento interna para WhatsApp, 
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:34:50+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Template_12_Build_a_Multichannel_RAG_based_AI_Chatbot_with_Custom.json
@@ -231,7 +231,7 @@ Midia: MessageMediaDocument -> Template_12_Build_a_Multichannel_RAG_based_AI_Cha
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:34:43+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9853_007.jpg
@@ -239,7 +239,7 @@ Midia: MessageMediaPhoto -> photo_9853_007.jpg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:33:46+00:00
 Texto:
 al40 - Multicanal **RAG Chatbot**
@@ -247,7 +247,7 @@ al40 - Multicanal **RAG Chatbot**
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:33:40+00:00
 Texto:
 .
@@ -255,7 +255,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:33:39+00:00
 Texto:
 .
@@ -263,7 +263,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:33:39+00:00
 Texto:
 .
@@ -271,7 +271,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:33:39+00:00
 Texto:
 .
@@ -279,7 +279,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:33:38+00:00
 Texto:
 https://chatgpt.com/c/684e5ae6-0f8c-8009-9fb0-9e0d4f9084a1
@@ -288,7 +288,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:33:38+00:00
 Texto:
 1
@@ -296,7 +296,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:33:33+00:00
 Texto: [Sem texto]
 

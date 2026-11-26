@@ -29,7 +29,7 @@ MENSAGEM 3
 Autor: Daniel N
 Data: 2025-07-11T14:39:32+00:00
 Texto:
-@INEMAtds
+@linnoff88-dev
 
 ------------------------------
 
@@ -74,7 +74,7 @@ Tens alguma sugestêo de ia de vídeo e imagem pra rodar na vps? Para gerar post
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T06:00:16+00:00
 Texto:
 se voce  outras vao custar mais,  a menos q rodar local no teu pc
@@ -85,7 +85,7 @@ MENSAGEM 10
 Autor: Luiz EasyImports
 Data: 2025-06-15T05:46:12+00:00
 Texto:
-@INEMAtds sabe setem alguma q possa substituir fal?
+@linnoff88-dev sabe setem alguma q possa substituir fal?
 
 ------------------------------
 
@@ -98,7 +98,7 @@ Consegui, meu problema agora é com essa API texto - imagem, U$10 me quebrou
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:10:30+00:00
 Texto:
 pode sim,  voce pode mudar tudo q quiser, muda na planilha e depois onde ele busca e tambem nos prompts
@@ -109,7 +109,7 @@ MENSAGEM 13
 Autor: Luiz EasyImports
 Data: 2025-06-15T00:25:47+00:00
 Texto:
-@INEMAtds uma dúvida, posso trocar a categoria e as marcas? Eu poderia colocar ao invés disso PAÍS e CIDADES por exemplo ou entêo vamos além, se puséssemos CAMPEONATO e TIMES. O que mais precisaria ser alterado no sistema?
+@linnoff88-dev uma dúvida, posso trocar a categoria e as marcas? Eu poderia colocar ao invés disso PAÍS e CIDADES por exemplo ou entêo vamos além, se puséssemos CAMPEONATO e TIMES. O que mais precisaria ser alterado no sistema?
 
 ------------------------------
 
@@ -253,7 +253,7 @@ Midia: MessageMediaDocument -> document_9315_030.ogg
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-09T23:38:37+00:00
 Texto:
 pode usar no local com ffmpeg e usar o wan21 ai nao tem custo.
@@ -299,7 +299,7 @@ Postagens automáticas no TIK TOK SHOP EUA pagando os tributos em dia e contador
 ------------------------------
 
 MENSAGEM 35
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T17:51:25+00:00
 Texto:
 q erro
@@ -307,7 +307,7 @@ q erro
 ------------------------------
 
 MENSAGEM 36
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T17:51:11+00:00
 Texto:
 aqui tens o passo a passo dublado em portugues por isso
@@ -356,7 +356,7 @@ nao consegui botar pra funcionar
 ------------------------------
 
 MENSAGEM 41
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T16:44:05+00:00
 Texto:
 qq coisa me fala, fiz funcionar ela
@@ -484,7 +484,7 @@ Sou novo no canal. Poderiam me dizer se existe um passo a passo ou por onde devo
 ------------------------------
 
 MENSAGEM 57
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T05:07:35+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 9uY_e_j6PZzYZGmPpG6K9_output.mp4
@@ -492,7 +492,7 @@ Midia: MessageMediaDocument -> 9uY_e_j6PZzYZGmPpG6K9_output.mp4
 ------------------------------
 
 MENSAGEM 58
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T05:07:35+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> TYHhC1mPc57JiHPMoD5Ia_output.mp4
@@ -500,7 +500,7 @@ Midia: MessageMediaDocument -> TYHhC1mPc57JiHPMoD5Ia_output.mp4
 ------------------------------
 
 MENSAGEM 59
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T05:07:35+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> qnOjlWLYiDvqfouvKelam_output.mp4
@@ -508,7 +508,7 @@ Midia: MessageMediaDocument -> qnOjlWLYiDvqfouvKelam_output.mp4
 ------------------------------
 
 MENSAGEM 60
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T05:07:35+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> YoJVirCESfP4vA50uJH5e_output.mp4
@@ -516,7 +516,7 @@ Midia: MessageMediaDocument -> YoJVirCESfP4vA50uJH5e_output.mp4
 ------------------------------
 
 MENSAGEM 61
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T05:07:35+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Z20jDDJMoI7BkRcqOGA6P_output.mp4
@@ -524,7 +524,7 @@ Midia: MessageMediaDocument -> Z20jDDJMoI7BkRcqOGA6P_output.mp4
 ------------------------------
 
 MENSAGEM 62
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T05:07:35+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> -U76tmxvfqEhb-7thm6Ul_output.mp4
@@ -532,7 +532,7 @@ Midia: MessageMediaDocument -> -U76tmxvfqEhb-7thm6Ul_output.mp4
 ------------------------------
 
 MENSAGEM 63
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T05:07:35+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Fc4yLuijJqXJIWQqA70ph_output.mp4
@@ -540,7 +540,7 @@ Midia: MessageMediaDocument -> Fc4yLuijJqXJIWQqA70ph_output.mp4
 ------------------------------
 
 MENSAGEM 64
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T05:07:35+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> OJkpCvMgiG5m4AexmibZs_output.mp4
@@ -548,7 +548,7 @@ Midia: MessageMediaDocument -> OJkpCvMgiG5m4AexmibZs_output.mp4
 ------------------------------
 
 MENSAGEM 65
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T05:07:35+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> mpA-MUkCCueRoq4ie-qw8_output.mp4
@@ -556,7 +556,7 @@ Midia: MessageMediaDocument -> mpA-MUkCCueRoq4ie-qw8_output.mp4
 ------------------------------
 
 MENSAGEM 66
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T05:00:41+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> -4Jj2aNe4HZQfsLmeL93o_output.mp4
@@ -564,7 +564,7 @@ Midia: MessageMediaDocument -> -4Jj2aNe4HZQfsLmeL93o_output.mp4
 ------------------------------
 
 MENSAGEM 67
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T05:00:41+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 6ue2p-K7hd4PEy7weayfk_output.mp4
@@ -572,7 +572,7 @@ Midia: MessageMediaDocument -> 6ue2p-K7hd4PEy7weayfk_output.mp4
 ------------------------------
 
 MENSAGEM 68
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T05:00:41+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> hQlm7nk4HRpLwPKZwvwjW_output.mp4
@@ -580,7 +580,7 @@ Midia: MessageMediaDocument -> hQlm7nk4HRpLwPKZwvwjW_output.mp4
 ------------------------------
 
 MENSAGEM 69
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T05:00:41+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> _CmPrcO_4uVgSgwH0y875_output.mp4
@@ -588,7 +588,7 @@ Midia: MessageMediaDocument -> _CmPrcO_4uVgSgwH0y875_output.mp4
 ------------------------------
 
 MENSAGEM 70
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T05:00:41+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> zP15qggW8TaRJCsnqREiZ_output.mp4
@@ -596,7 +596,7 @@ Midia: MessageMediaDocument -> zP15qggW8TaRJCsnqREiZ_output.mp4
 ------------------------------
 
 MENSAGEM 71
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T05:00:41+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 884NIjb8G0ktMGaAJNfvQ_output.mp4
@@ -604,7 +604,7 @@ Midia: MessageMediaDocument -> 884NIjb8G0ktMGaAJNfvQ_output.mp4
 ------------------------------
 
 MENSAGEM 72
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T05:00:41+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> w0pbtry_UDNVvZzcesnLN_output.mp4
@@ -612,7 +612,7 @@ Midia: MessageMediaDocument -> w0pbtry_UDNVvZzcesnLN_output.mp4
 ------------------------------
 
 MENSAGEM 73
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T05:00:41+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> NUCXm-cGbpFcVlg-DpGnV_output.mp4
@@ -620,7 +620,7 @@ Midia: MessageMediaDocument -> NUCXm-cGbpFcVlg-DpGnV_output.mp4
 ------------------------------
 
 MENSAGEM 74
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T05:00:41+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> pZ3AGejXnQ27lnS7um-HK_output.mp4
@@ -628,7 +628,7 @@ Midia: MessageMediaDocument -> pZ3AGejXnQ27lnS7um-HK_output.mp4
 ------------------------------
 
 MENSAGEM 75
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T05:00:41+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> eElkmLRWPa_t0JgOgqEHT_output.mp4
@@ -636,7 +636,7 @@ Midia: MessageMediaDocument -> eElkmLRWPa_t0JgOgqEHT_output.mp4
 ------------------------------
 
 MENSAGEM 76
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T04:51:56+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> ap26___M_quina_de_Shorts_Virais_24_7 (1).json
@@ -644,7 +644,7 @@ Midia: MessageMediaDocument -> ap26___M_quina_de_Shorts_Virais_24_7 (1).json
 ------------------------------
 
 MENSAGEM 77
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T05:25:05+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> a26f5dff-4d9d-4bcf-8cd2-68458470b072.mp4
@@ -652,7 +652,7 @@ Midia: MessageMediaDocument -> a26f5dff-4d9d-4bcf-8cd2-68458470b072.mp4
 ------------------------------
 
 MENSAGEM 78
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T05:24:56+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Bebidas.mp3
@@ -660,7 +660,7 @@ Midia: MessageMediaDocument -> Bebidas.mp3
 ------------------------------
 
 MENSAGEM 79
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T05:24:56+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Bebidas (1).mp3
@@ -668,7 +668,7 @@ Midia: MessageMediaDocument -> Bebidas (1).mp3
 ------------------------------
 
 MENSAGEM 80
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T05:24:56+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> download.mp3
@@ -676,7 +676,7 @@ Midia: MessageMediaDocument -> download.mp3
 ------------------------------
 
 MENSAGEM 81
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T05:24:56+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> download (1).mp3
@@ -684,7 +684,7 @@ Midia: MessageMediaDocument -> download (1).mp3
 ------------------------------
 
 MENSAGEM 82
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T05:24:56+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> download (2).mp3
@@ -692,7 +692,7 @@ Midia: MessageMediaDocument -> download (2).mp3
 ------------------------------
 
 MENSAGEM 83
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T05:09:21+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7903_083.jpg
@@ -700,7 +700,7 @@ Midia: MessageMediaPhoto -> photo_7903_083.jpg
 ------------------------------
 
 MENSAGEM 84
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T04:24:52+00:00
 Texto:
 [https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/a26f5dff-4d9d-4bcf-8cd2-68458470b072.mp4](https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/a26f5dff-4d9d-4bcf-8cd2-68458470b072.mp4)
@@ -709,12 +709,12 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 85
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T03:41:53+00:00
 Texto:
 Etapa: Renderizaçêo com Creatmate
 
-**Objetivo**: juntar 4 vídeos (de 5 segundos cada) e 4 áudios (também de 5s) em **um único vídeo final de 20 segundos**, com aspecto cinematográfico e pronto para redes sociais.
+**Objetivo**: juntar 4 vídeos (de 5 segundos cada) e 4 áudios (também de 5s) em **um único vídeo final de 20 segundos**, com aspecto cARCKHÉtográfico e pronto para redes sociais.
 
 
 **Template usado**:
@@ -799,7 +799,7 @@ Ele usa um **método de polling**: espera 1 minuto, e se nêo estiver pronto, es
 ------------------------------
 
 MENSAGEM 86
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T03:40:42+00:00
 Texto:
 Se sua chave da ElevenLabs for 123abc456def, entêo no n8n:
@@ -813,7 +813,7 @@ Header Value: 123abc456def
 ------------------------------
 
 MENSAGEM 87
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T03:13:13+00:00
 Texto:
 https://fal.ai/dashboard/keys
@@ -822,7 +822,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 88
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T03:12:47+00:00
 Texto:
 use 
@@ -832,7 +832,7 @@ deve escrevver Key espaco e a chave api q pegou no Fal
 ------------------------------
 
 MENSAGEM 89
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T03:00:34+00:00
 Texto:
 `Authorization`
@@ -840,7 +840,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 90
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T03:00:01+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7895_090.jpg
@@ -848,7 +848,7 @@ Midia: MessageMediaPhoto -> photo_7895_090.jpg
 ------------------------------
 
 MENSAGEM 91
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T02:11:49+00:00
 Texto:
 https://www.youtube.com/watch?v=BcfjIBd49C8
@@ -857,7 +857,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 92
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T02:11:35+00:00
 Texto:
 Aqui está um **resumo completo e estruturado** do vídeo **"I Built a 24/7 Viral Shorts Machine with No-Code"** com base na transcriçêo fornecida:
@@ -887,7 +887,7 @@ Criar uma máquina de criaçêo de **vídeos virais em formato Shorts (TikTok, I
 
 4. **Conversêo de Imagens em Vídeos com kling (via FAL)**
 
-   * Usa o modelo kling para gerar vídeos cinematográficos de 5 segundos.
+   * Usa o modelo kling para gerar vídeos cARCKHÉtográficos de 5 segundos.
    * Envia imagem + prompt de vídeo.
 
 5. **Geraçêo de Áudio com ElevenLabs**
@@ -951,7 +951,7 @@ Criar uma máquina de criaçêo de **vídeos virais em formato Shorts (TikTok, I
 ------------------------------
 
 MENSAGEM 93
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T02:04:32+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7891_093.jpg
@@ -959,28 +959,28 @@ Midia: MessageMediaPhoto -> photo_7891_093.jpg
 ------------------------------
 
 MENSAGEM 94
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T01:53:12+00:00
 Texto:
-https://blotato.com/?ref=inematds
+https://blotato.com/?ref=linnoff88-dev
 Midia: MessageMediaWebPage
 
 ------------------------------
 
 MENSAGEM 95
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T01:52:24+00:00
 Texto:
 Máquina de Shorts Virais 24/7
 
-Sistema totalmente automatizado de criaçêo de conteúdo usando o n8n, sem necessidade de programaçêo. A partir do momento em que você digita uma categoria de marca, o fluxo assume o controle: gera ideias criativas, cria imagens hiper-realistas, monta vídeos cinematográficos com design de som, junta tudo e publica automaticamente no Instagram, YouTube Shorts e TikTok.
+Sistema totalmente automatizado de criaçêo de conteúdo usando o n8n, sem necessidade de programaçêo. A partir do momento em que você digita uma categoria de marca, o fluxo assume o controle: gera ideias criativas, cria imagens hiper-realistas, monta vídeos cARCKHÉtográficos com design de som, junta tudo e publica automaticamente no Instagram, YouTube Shorts e TikTok.
 
 Tudo utilizando ferramentas abertas e APIs, e você nêo precisa ter conhecimento prévio em programaçêo para acompanhar.
 
 ------------------------------
 
 MENSAGEM 96
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T01:51:12+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Famous Brands Reimagined (file -_ make a copy).xlsx
@@ -988,7 +988,7 @@ Midia: MessageMediaDocument -> Famous Brands Reimagined (file -_ make a copy).xl
 ------------------------------
 
 MENSAGEM 97
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T01:51:12+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Brands Reimagined Creatomate Template.docx
@@ -996,7 +996,7 @@ Midia: MessageMediaDocument -> Brands Reimagined Creatomate Template.docx
 ------------------------------
 
 MENSAGEM 98
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T01:51:05+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Famous_Brands_Shorts_Template.json
@@ -1004,7 +1004,7 @@ Midia: MessageMediaDocument -> Famous_Brands_Shorts_Template.json
 ------------------------------
 
 MENSAGEM 99
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T01:50:46+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7885_099.jpg
@@ -1012,7 +1012,7 @@ Midia: MessageMediaPhoto -> photo_7885_099.jpg
 ------------------------------
 
 MENSAGEM 100
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T01:49:34+00:00
 Texto:
 ap26 - Máquina de Shorts Virais 24/7
@@ -1020,7 +1020,7 @@ ap26 - Máquina de Shorts Virais 24/7
 ------------------------------
 
 MENSAGEM 101
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T01:49:20+00:00
 Texto:
 .
@@ -1028,7 +1028,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 102
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T01:49:20+00:00
 Texto:
 ..
@@ -1036,7 +1036,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 103
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T01:49:20+00:00
 Texto:
 .
@@ -1044,7 +1044,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 104
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T01:49:19+00:00
 Texto:
 .
@@ -1052,7 +1052,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 105
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T01:49:19+00:00
 Texto:
 https://chatgpt.com/c/682a8db2-cfac-8009-aa24-d4d3e0a6b230
@@ -1061,7 +1061,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 106
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T01:49:19+00:00
 Texto:
 1
@@ -1069,7 +1069,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 107
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T01:49:06+00:00
 Texto: [Sem texto]
 

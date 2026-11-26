@@ -10,7 +10,7 @@ Midias baixadas: 2
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:38:12+00:00
 Texto:
 at19
@@ -19,7 +19,7 @@ Midia: MessageMediaDocument -> Human_in_the_Loop_Calendar_Agent.json
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:38:02+00:00
 Texto:
 at19
@@ -28,7 +28,7 @@ Midia: MessageMediaPhoto -> photo_2314_002.jpg
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:37:18+00:00
 Texto:
 **At-19 - Human in the Loop Calendar Agent**
@@ -36,7 +36,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:37:04+00:00
 Texto:
 .
@@ -44,7 +44,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:37:03+00:00
 Texto:
 ..
@@ -52,7 +52,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:37:03+00:00
 Texto:
 .
@@ -60,7 +60,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:37:02+00:00
 Texto:
 .
@@ -68,7 +68,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:37:02+00:00
 Texto:
 .
@@ -76,7 +76,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:37:02+00:00
 Texto:
 .
@@ -84,7 +84,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:37:01+00:00
 Texto:
 1
@@ -92,7 +92,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:36:54+00:00
 Texto: [Sem texto]
 

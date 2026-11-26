@@ -10,7 +10,7 @@ Midias baixadas: 6
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-17T23:02:12+00:00
 Texto:
 Tem o ap5 com informações e no va versêo
@@ -18,7 +18,7 @@ Tem o ap5 com informações e no va versêo
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T06:27:56+00:00
 Texto:
 "Descriçêo do vídeo",
@@ -116,7 +116,7 @@ Agora é só testar! 🚀
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T06:27:56+00:00
 Texto:
 Aqui está o **passo a passo detalhado** para você automatizar a criaçêo e publicaçêo de vídeos **Shorts sem rosto** no YouTube usando **n8n, IA e automaçêo**.
@@ -241,7 +241,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T06:27:33+00:00
 Texto:
 ===========
@@ -249,7 +249,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T06:27:28+00:00
 Texto:
 Trabalho**
@@ -284,7 +284,7 @@ Se você pretende criar um canal automatizado de shorts no YouTube, este fluxo d
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T06:27:28+00:00
 Texto:
 **Como Automatizei Shorts Sem Rosto com IA no n8n (modelo gratuito) - YouTube**  
@@ -359,7 +359,7 @@ No final, decidimos usar **Runway** para otimizar o tempo de geraçêo.
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T06:19:53+00:00
 Texto:
 https://www.youtube.com/watch?v=Gc03J27xmBc&t=12s
@@ -368,7 +368,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T04:05:39+00:00
 Texto:
 **Faceless Shorts System V2**
@@ -509,7 +509,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T04:04:25+00:00
 Texto:
 ap4
@@ -518,7 +518,7 @@ Midia: MessageMediaDocument -> Faceless Shorts Template.xlsx
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T04:04:14+00:00
 Texto:
 ap4
@@ -527,7 +527,7 @@ Midia: MessageMediaDocument -> FacelessShortsSystem.json
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T04:03:56+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_2977_011.jpg
@@ -535,7 +535,7 @@ Midia: MessageMediaPhoto -> photo_2977_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T04:03:15+00:00
 Texto:
 Criaçêo e Publicaçêo de Shorts no YouTube 📺
@@ -545,7 +545,7 @@ Como automatizar a criaçêo de conteúdo configurando um fluxo de trabalho para
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T04:02:51+00:00
 Texto:
 Incorporado geraçêo de Imagens junto
@@ -553,7 +553,7 @@ Incorporado geraçêo de Imagens junto
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T04:02:31+00:00
 Texto:
 ap4 - Youtube Shorts SBS v2
@@ -561,7 +561,7 @@ ap4 - Youtube Shorts SBS v2
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T04:02:28+00:00
 Texto:
 ..
@@ -569,7 +569,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T04:02:27+00:00
 Texto:
 .
@@ -577,7 +577,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T04:02:27+00:00
 Texto:
 ..
@@ -585,7 +585,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T04:02:27+00:00
 Texto:
 .
@@ -593,7 +593,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T04:02:27+00:00
 Texto:
 .
@@ -601,7 +601,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T04:02:26+00:00
 Texto:
 1
@@ -609,7 +609,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T04:01:53+00:00
 Texto: [Sem texto]
 

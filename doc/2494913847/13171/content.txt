@@ -10,7 +10,7 @@ Midias baixadas: 9
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:31:40+00:00
 Texto:
 Aqui está um **resumo em nível diretoria** sobre os dois workflows de RAG:
@@ -69,7 +69,7 @@ Fornecer uma soluçêo enxuta para leitura e consulta de documentos, focada apen
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:31:23+00:00
 Texto:
 ===================
@@ -77,7 +77,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:29:13+00:00
 Texto:
 ingestêo.
@@ -122,7 +122,7 @@ ingestêo.
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:29:13+00:00
 Texto:
 Vou resumir e transformar em guia prático o blueprint Multimodal RAG em n8n que você enviou, e já deixar exemplos e respostas no final para acelerar sua implementaçêo.&#x20;
@@ -195,7 +195,7 @@ Tópicos com exemplos e respostas
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:28:27+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13188_005.jpg
@@ -203,7 +203,7 @@ Midia: MessageMediaPhoto -> photo_13188_005.jpg
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:27:44+00:00
 Texto:
 =======================
@@ -211,7 +211,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:27:41+00:00
 Texto:
 Vamos mergulhar em **RAG (Retrieval-Augmented Generation)**.
@@ -273,7 +273,7 @@ Pergunta: "Quais sêo os sintomas iniciais de diabetes segundo o manual da OMS?"
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:27:03+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Multimodal RAG - Simple OCR Ingestion - BLUEPRINT 1.1 (1).json
@@ -281,7 +281,7 @@ Midia: MessageMediaDocument -> Multimodal RAG - Simple OCR Ingestion - BLUEPRINT
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:27:03+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Multimodal RAG - TheAIAutomators - 2.0 BLUEPRINT (1).json
@@ -289,7 +289,7 @@ Midia: MessageMediaDocument -> Multimodal RAG - TheAIAutomators - 2.0 BLUEPRINT 
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:26:52+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Multimodal RAG Instructions (Nate's Community).pdf
@@ -297,7 +297,7 @@ Midia: MessageMediaDocument -> Multimodal RAG Instructions (Nate's Community).pd
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:26:35+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13182_011.jpg
@@ -305,7 +305,7 @@ Midia: MessageMediaPhoto -> photo_13182_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:25:26+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13181_012.jpg
@@ -313,7 +313,7 @@ Midia: MessageMediaPhoto -> photo_13181_012.jpg
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:23:38+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13180_013.jpg
@@ -321,7 +321,7 @@ Midia: MessageMediaPhoto -> photo_13180_013.jpg
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:23:05+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13179_014.jpg
@@ -329,7 +329,7 @@ Midia: MessageMediaPhoto -> photo_13179_014.jpg
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:21:22+00:00
 Texto:
 ap57 - RAG com Experts Multimodal
@@ -337,7 +337,7 @@ ap57 - RAG com Experts Multimodal
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:21:05+00:00
 Texto:
 ..
@@ -345,7 +345,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:21:04+00:00
 Texto:
 .
@@ -353,7 +353,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:21:04+00:00
 Texto:
 .
@@ -361,7 +361,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:21:03+00:00
 Texto:
 .
@@ -369,7 +369,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:21:03+00:00
 Texto:
 https://chatgpt.com/c/68abab1e-fbd0-832b-abf4-d7bd53e95636
@@ -378,7 +378,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:21:02+00:00
 Texto:
 1
@@ -386,7 +386,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:20:58+00:00
 Texto: [Sem texto]
 

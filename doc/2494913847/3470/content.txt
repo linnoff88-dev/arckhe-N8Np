@@ -10,7 +10,7 @@ Midias baixadas: 2
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-18T03:30:13+00:00
 Texto:
 nao tenho video
@@ -18,7 +18,7 @@ nao tenho video
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-18T03:30:07+00:00
 Texto:
 acb5
@@ -27,7 +27,7 @@ Midia: MessageMediaDocument -> Check_Availability.json
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-18T03:29:47+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_3479_003.jpg
@@ -35,7 +35,7 @@ Midia: MessageMediaPhoto -> photo_3479_003.jpg
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-18T03:28:15+00:00
 Texto:
 acb5 - Avability Agent
@@ -43,7 +43,7 @@ acb5 - Avability Agent
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-18T03:28:13+00:00
 Texto:
 .
@@ -51,7 +51,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-18T03:28:12+00:00
 Texto:
 ....
@@ -59,7 +59,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-18T03:28:12+00:00
 Texto:
 ....
@@ -67,7 +67,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-18T03:28:12+00:00
 Texto:
 ...
@@ -75,7 +75,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-18T03:28:11+00:00
 Texto:
 ..
@@ -83,7 +83,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-18T03:28:11+00:00
 Texto:
 .
@@ -91,7 +91,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-18T03:28:10+00:00
 Texto:
 1
@@ -99,7 +99,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-18T03:28:03+00:00
 Texto: [Sem texto]
 

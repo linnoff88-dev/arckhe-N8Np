@@ -10,7 +10,7 @@ Midias baixadas: 6
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:12:36+00:00
 Texto:
 https://www.youtube.com/watch?v=1eZtTTUFfCM
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:12:07+00:00
 Texto:
 Um Agente de IA para gerar posts ilimitados de imagem no Instagram automaticamente (sem código)  
@@ -107,7 +107,7 @@ Como criar um sistema automático que gera imagens, legendas e publica posts no 
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:10:48+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6715_003.jpg
@@ -115,7 +115,7 @@ Midia: MessageMediaPhoto -> photo_6715_003.jpg
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:09:20+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Image Instagram.xlsx
@@ -123,7 +123,7 @@ Midia: MessageMediaDocument -> Image Instagram.xlsx
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:08:44+00:00
 Texto:
 Um agente de IA para gerar posts de imagem ilimitados no Instagram automaticamente (sem programaçêo)  
@@ -135,7 +135,7 @@ Este sistema baseado em IA busca notícias, gera legendas e imagens, e publica p
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:08:05+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Tutorial_8_3_An_AI_Agent_to_generate_UNLIMITED_Instagram_Image_Posts.json
@@ -143,7 +143,7 @@ Midia: MessageMediaDocument -> Tutorial_8_3_An_AI_Agent_to_generate_UNLIMITED_In
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:07:45+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6710_007.jpg
@@ -151,7 +151,7 @@ Midia: MessageMediaPhoto -> photo_6710_007.jpg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:06:42+00:00
 Texto:
 14 - Gere posts ilimitados de imagem Instagram
@@ -159,7 +159,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:06:40+00:00
 Texto:
 .
@@ -167,7 +167,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:06:40+00:00
 Texto:
 ...
@@ -175,7 +175,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:06:39+00:00
 Texto:
 ..
@@ -183,7 +183,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:06:39+00:00
 Texto:
 .
@@ -191,7 +191,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:06:39+00:00
 Texto:
 ....
@@ -199,7 +199,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:06:39+00:00
 Texto:
 ...
@@ -207,7 +207,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:06:39+00:00
 Texto:
 ..
@@ -215,7 +215,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:06:38+00:00
 Texto:
 .
@@ -223,7 +223,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:06:38+00:00
 Texto:
 https://chatgpt.com/c/680f0c98-1abc-8009-a87e-9ae8dd46133e
@@ -232,7 +232,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:06:37+00:00
 Texto:
 1
@@ -240,7 +240,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:06:34+00:00
 Texto: [Sem texto]
 

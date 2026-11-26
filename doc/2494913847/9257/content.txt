@@ -26,7 +26,7 @@ Gente onde eu acho automaçêo para atender cliente com AI?
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T22:07:13+00:00
 Texto:
 a trasncricao ainda nao esta liberada
@@ -34,7 +34,7 @@ a trasncricao ainda nao esta liberada
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T22:07:02+00:00
 Texto:
 dublado
@@ -42,7 +42,7 @@ dublado
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T22:04:09+00:00
 Texto:
 https://www.youtube.com/watch?v=0iUNOmeU7O4
@@ -51,7 +51,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T22:02:40+00:00
 Texto:
 **Sistemas Multiagentes Nunca Foram Têo Fáceis de Construir (n8n, sem código)**
@@ -67,7 +67,7 @@ Perfeito para iniciantes — sem necessidade de programaçêo, apenas usando a i
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T22:02:10+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Multi_Agent_System_Benefits.json
@@ -75,7 +75,7 @@ Midia: MessageMediaDocument -> Multi_Agent_System_Benefits.json
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T22:00:47+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9266_008.jpg
@@ -83,7 +83,7 @@ Midia: MessageMediaPhoto -> photo_9266_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T21:58:10+00:00
 Texto:
 ap34- Sistemas Multiagentes
@@ -91,7 +91,7 @@ ap34- Sistemas Multiagentes
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T21:58:09+00:00
 Texto:
 .
@@ -99,7 +99,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T21:58:08+00:00
 Texto:
 .
@@ -107,7 +107,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T21:58:07+00:00
 Texto:
 .
@@ -115,7 +115,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T21:58:06+00:00
 Texto:
 .
@@ -123,7 +123,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T21:58:06+00:00
 Texto:
 https://chatgpt.com/c/6848aa21-0c4c-8009-99f8-d74dd2fe3274
@@ -132,7 +132,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T21:58:05+00:00
 Texto:
 1
@@ -140,7 +140,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T21:58:00+00:00
 Texto: [Sem texto]
 

@@ -19,7 +19,7 @@ Midia: MessageMediaPhoto -> photo_14592_001.jpg
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-24T03:01:08+00:00
 Texto:
 e47 - ChatGPT com MCPs no N8N
@@ -27,7 +27,7 @@ e47 - ChatGPT com MCPs no N8N
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-24T03:01:06+00:00
 Texto:
 .
@@ -35,7 +35,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-24T03:01:06+00:00
 Texto:
 .
@@ -43,7 +43,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-24T03:01:06+00:00
 Texto:
 .
@@ -51,7 +51,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-24T03:01:06+00:00
 Texto:
 .
@@ -59,7 +59,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-24T03:01:05+00:00
 Texto:
 https://chatgpt.com/c/68d35df1-1e10-8330-b5e3-07489132b73d
@@ -68,7 +68,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-24T03:01:05+00:00
 Texto:
 1
@@ -76,7 +76,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-24T03:01:00+00:00
 Texto: [Sem texto]
 

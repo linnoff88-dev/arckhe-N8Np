@@ -10,7 +10,7 @@ Midias baixadas: 2
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T15:37:49+00:00
 Texto:
 **Text to Speech**
@@ -114,7 +114,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T15:36:46+00:00
 Texto:
 https://docs.fish.audio/text-to-speech/text-to-speech
@@ -123,7 +123,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T15:35:52+00:00
 Texto:
 Para fazer uma requisiçêo curl para a API do Fish Audio que funcione no n8n, você precisa configurar alguns elementos importantes. Vou te mostrar como estruturar isso:
@@ -200,7 +200,7 @@ Precisa de mais detalhes sobre alguma parte específica da integraçêo?
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T15:33:09+00:00
 Texto:
 https://fish.audio/pt/go-api/api-keys/
@@ -208,7 +208,7 @@ https://fish.audio/pt/go-api/api-keys/
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T15:32:50+00:00
 Texto:
 https://fish.audio/pt/go-api/billing/
@@ -216,7 +216,7 @@ https://fish.audio/pt/go-api/billing/
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T15:32:48+00:00
 Texto:
 Conexao FISH.AUDIO
@@ -224,7 +224,7 @@ Conexao FISH.AUDIO
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T15:32:48+00:00
 Texto:
 .
@@ -232,7 +232,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T15:32:48+00:00
 Texto:
 ..
@@ -240,7 +240,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T15:32:48+00:00
 Texto:
 .
@@ -248,7 +248,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T15:32:47+00:00
 Texto:
 .
@@ -256,7 +256,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T15:32:47+00:00
 Texto:
 .
@@ -264,7 +264,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T15:32:47+00:00
 Texto:
 1
@@ -272,7 +272,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T15:32:43+00:00
 Texto: [Sem texto]
 

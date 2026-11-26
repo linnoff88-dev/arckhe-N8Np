@@ -10,7 +10,7 @@ Midias baixadas: 1
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:48:49+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> ai_business_solutions.zip
@@ -18,7 +18,7 @@ Midia: MessageMediaDocument -> ai_business_solutions.zip
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:48:49+00:00
 Texto:
 Prompt usado:
@@ -64,7 +64,7 @@ Gere todas as soluções como arquivos de texto separados para facilitar a imple
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:48:49+00:00
 Texto:
 **Experiência Manus #1: Automatizando o Projeto Claude & GPTs Personalizados...**
@@ -74,7 +74,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:48:22+00:00
 Texto:
 mm1 - Experiência Manus #1: Automatizando o Projeto Claude & GPTs Personalizados
@@ -82,7 +82,7 @@ mm1 - Experiência Manus #1: Automatizando o Projeto Claude & GPTs Personalizado
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:48:07+00:00
 Texto:
 .
@@ -90,7 +90,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:48:07+00:00
 Texto:
 .
@@ -98,7 +98,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:48:06+00:00
 Texto:
 ..
@@ -106,7 +106,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:48:06+00:00
 Texto:
 ..
@@ -114,7 +114,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:48:06+00:00
 Texto:
 .
@@ -122,7 +122,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:48:05+00:00
 Texto:
 .
@@ -130,7 +130,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:48:05+00:00
 Texto:
 1
@@ -138,7 +138,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:47:59+00:00
 Texto: [Sem texto]
 

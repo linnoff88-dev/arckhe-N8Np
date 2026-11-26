@@ -10,7 +10,7 @@ Midias baixadas: 6
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-28T05:38:40+00:00
 Texto:
 nao achei o video
@@ -18,7 +18,7 @@ nao achei o video
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-28T05:35:31+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 24_2_Receipt_Automation.json
@@ -26,7 +26,7 @@ Midia: MessageMediaDocument -> 24_2_Receipt_Automation.json
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-28T05:35:31+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 24_2_Lead_Gen_System.json
@@ -34,7 +34,7 @@ Midia: MessageMediaDocument -> 24_2_Lead_Gen_System.json
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-28T05:35:31+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 24_2_Product_Shot_Automation.json
@@ -42,7 +42,7 @@ Midia: MessageMediaDocument -> 24_2_Product_Shot_Automation.json
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-28T05:35:16+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_8493_005.jpg
@@ -50,7 +50,7 @@ Midia: MessageMediaPhoto -> photo_8493_005.jpg
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-28T05:34:14+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_8492_006.jpg
@@ -58,7 +58,7 @@ Midia: MessageMediaPhoto -> photo_8492_006.jpg
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-28T05:33:12+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_8491_007.jpg
@@ -66,7 +66,7 @@ Midia: MessageMediaPhoto -> photo_8491_007.jpg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-28T05:31:50+00:00
 Texto:
 al25 - **Easy Workflows For Your AI Agency**
@@ -74,7 +74,7 @@ al25 - **Easy Workflows For Your AI Agency**
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-28T05:31:49+00:00
 Texto:
 ..
@@ -82,7 +82,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-28T05:31:48+00:00
 Texto:
 .
@@ -90,7 +90,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-28T05:31:48+00:00
 Texto:
 .
@@ -98,7 +98,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-28T05:31:48+00:00
 Texto:
 .
@@ -106,7 +106,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-28T05:31:47+00:00
 Texto:
 .
@@ -114,7 +114,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-28T05:31:47+00:00
 Texto:
 .
@@ -122,7 +122,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-28T05:31:47+00:00
 Texto:
 .
@@ -130,7 +130,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-28T05:31:46+00:00
 Texto:
 1
@@ -138,7 +138,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-28T05:31:39+00:00
 Texto: [Sem texto]
 

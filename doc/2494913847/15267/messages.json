@@ -1,7 +1,7 @@
 [
   {
     "id": 15291,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-24T22:15:26+00:00",
     "text": "nao tem videos",
     "has_media": false,
@@ -9,7 +9,7 @@
   },
   {
     "id": 15290,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-24T22:15:13+00:00",
     "text": "e55. Chatbot Pro com Banco de Dados Real\n\n\nConstruir um chatbot profissional e escalável, capaz de manter conversas reais com usuários e armazenar todas as informações em um banco de dados relacional (Supabase).\nO objetivo é criar um sistema pronto para produçêo, nêo apenas um protótipo: um chatbot que funcione como um nutricionista digital (ou qualquer outro especialista) e que aprenda e atue com base em dados personalizados de cada cliente.\n\n🛠️ O que conseguimos com essa automaçêo:\n\n* Criar um chatbot inteligente com memória persistente para cada usuário.\n* Registrar e atualizar todos os dados (perfil, objetivos, refeições, histórico) em tabelas SQL interconectadas.\n* Automatizar mensagens diárias, semanais e mensais com IA.\n* Simular comportamento humano no WhatsApp (leitura, pausas, encerramento de sessêo).\n* Reduzir ao mínimo o consumo de tokens graças à conexêo direta com o banco de dados.\n* Ter uma estrutura reutilizável para qualquer negócio (nutriçêo, fitness, educaçêo, consultoria...).\n\n🧩 Estrutura do fluxo automatizado\n\n**Fluxo principal (chat no WhatsApp com Evolution API)**\n\n* Recebe a mensagem do usuário (texto, áudio ou imagem).\n* Transcreve ou analisa conforme o tipo de mensagem.\n* Envia o conteúdo ao agente principal de IA (Gemini ou GPT) junto com o contexto e dados anteriores.\n* Retorna a resposta formatada e limpa para o WhatsApp.\n\n**Agente principal (Onboarding + Conversaçêo)**\n\n* Realiza um processo completo de onboarding (nome, idade, altura, alergias, objetivos, hábitos...).\n* Armazena e atualiza os dados do cliente com consultas SQL dinâmicas geradas pela IA.\n* Controla o tom, as mensagens e a personalizaçêo conforme o estado do usuário (novo, ativo, pausado...).\n\n**Subagente SQL Query**\n\n* Recebe instruções em linguagem natural do agente principal.\n* Gera e executa automaticamente as consultas SQL no Supabase (insert, update, select...).\n* Evita a necessidade de criar múltiplas automações manuais.\n\n**Fluxos programados**\n\n* **Diário:** envia uma mensagem com lembrete ou plano do dia.\n* **Semanal:** solicita métricas e atualiza o progresso.\n* **Mensal:** gera um relatório em HTML com a evoluçêo e envia ao usuário (via WhatsApp ou e-mail).\n\n**Banco de dados relacional (Supabase)**\n\n* Tabelas de clientes, objetivos, refeições, preferências, histórico de conversas, equivalências nutricionais etc.\n* Tabelas conectadas por ID para acompanhamento completo do usuário.\n\n🧰 Ferramentas utilizadas\n\n* N8N (motor de automaçêo).\n* Supabase (banco de dados relacional).\n* Gemini 2.5 Flash / GPT 4.1 (IA conversacional e geradora de SQL).\n* Evolution API (integraçêo com WhatsApp).\n* PostgreSQL Query (execuçêo direta de SQL).\n* Make / Lovable (para front-ends ou dashboards, opcional).\n\n🧠 Dicas essenciais aprendidas\n\n* Armazenar a memória no banco de dados, nêo dentro do prompt.\n* Sempre simular comportamentos humanos no WhatsApp (ler, pausar, encerrar sessêo).\n* Estruturar o sistema com subagentes especializados (IA principal + IA SQL).\n* Usar prompts claros: uma açêo por execuçêo.\n* Implementar tabelas relacionadas para evitar duplicidades e escalar para centenas de usuários.\n* Se você trabalha em outro setor (fitness, coaching, consultoria...), basta adaptar o conteúdo das tabelas.\n\n**Recursos:**\n\n* Chatbot Nutricionista Principal\n* Fluxo Supabase SQL\n* Fluxo de Envios Programados\n* Tabelas SQL",
     "has_media": false,
@@ -17,7 +17,7 @@
   },
   {
     "id": 15289,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-24T22:12:30+00:00",
     "text": "===============",
     "has_media": false,
@@ -25,7 +25,7 @@
   },
   {
     "id": 15288,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-24T22:12:27+00:00",
     "text": "Arquitetura do Chatbot mais Profissional 🚀\n\nO que foi criado aqui é uma verdadeira obra-prima de automaçêo real.\nUm chatbot com memória, banco de dados relacional e comportamento humano, projetado para escalar e entrar em produçêo.\n\n🔥 O que você vai aprender nesta aula insana:\n\n* Como montar um chatbot com IA que armazena, lembra e atualiza dados reais de cada usuário.\n* Como conectar N8N + Supabase + Gemini ou GPT para que a IA crie e execute automaticamente consultas SQL.\n* Como fazer com que seu bot fale pelo WhatsApp, entenda texto, áudios e imagens e responda com empatia humana.\n* Como desenhar fluxos diários, semanais e mensais que acompanhem o cliente com planos personalizados e relatórios automáticos.\n* Como simular um comportamento humano real (ler mensagens, pausar, encerrar sessêo) para evitar bloqueios e parecer 100% orgânico.\n* E o melhor... como transformar esse sistema em um produto vendável e adaptável a qualquer setor: nutriçêo, fitness, educaçêo, consultoria, SaaS… 💥",
     "has_media": false,
@@ -33,7 +33,7 @@
   },
   {
     "id": 15287,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-24T22:10:02+00:00",
     "text": "============",
     "has_media": false,
@@ -41,7 +41,7 @@
   },
   {
     "id": 15286,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-24T22:09:48+00:00",
     "text": "",
     "has_media": true,
@@ -50,7 +50,7 @@
   },
   {
     "id": 15285,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-24T22:09:48+00:00",
     "text": "",
     "has_media": true,
@@ -59,7 +59,7 @@
   },
   {
     "id": 15284,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-24T22:09:48+00:00",
     "text": "",
     "has_media": true,
@@ -68,7 +68,7 @@
   },
   {
     "id": 15283,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-24T22:09:48+00:00",
     "text": "",
     "has_media": true,
@@ -77,7 +77,7 @@
   },
   {
     "id": 15282,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-24T22:08:53+00:00",
     "text": "",
     "has_media": true,
@@ -86,7 +86,7 @@
   },
   {
     "id": 15281,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-24T22:08:16+00:00",
     "text": "=============",
     "has_media": false,
@@ -94,7 +94,7 @@
   },
   {
     "id": 15280,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-24T22:08:14+00:00",
     "text": "",
     "has_media": true,
@@ -103,7 +103,7 @@
   },
   {
     "id": 15279,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-24T22:07:21+00:00",
     "text": "=================",
     "has_media": false,
@@ -111,7 +111,7 @@
   },
   {
     "id": 15278,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-24T22:07:17+00:00",
     "text": "",
     "has_media": true,
@@ -120,7 +120,7 @@
   },
   {
     "id": 15277,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-24T22:06:58+00:00",
     "text": "",
     "has_media": true,
@@ -129,7 +129,7 @@
   },
   {
     "id": 15276,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-24T22:06:10+00:00",
     "text": "",
     "has_media": true,
@@ -138,7 +138,7 @@
   },
   {
     "id": 15275,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-24T22:05:15+00:00",
     "text": "e55 - Chatbot PRO",
     "has_media": false,
@@ -146,7 +146,7 @@
   },
   {
     "id": 15274,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-24T22:05:14+00:00",
     "text": ".",
     "has_media": false,
@@ -154,7 +154,7 @@
   },
   {
     "id": 15273,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-24T22:05:14+00:00",
     "text": ".",
     "has_media": false,
@@ -162,7 +162,7 @@
   },
   {
     "id": 15272,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-24T22:05:13+00:00",
     "text": ".",
     "has_media": false,
@@ -170,7 +170,7 @@
   },
   {
     "id": 15271,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-24T22:05:13+00:00",
     "text": ".",
     "has_media": false,
@@ -178,7 +178,7 @@
   },
   {
     "id": 15270,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-24T22:05:12+00:00",
     "text": ".",
     "has_media": false,
@@ -186,7 +186,7 @@
   },
   {
     "id": 15269,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-24T22:05:12+00:00",
     "text": "https://chatgpt.com/c/68fbf561-634c-8328-b694-b90b9c4cc819",
     "has_media": true,
@@ -194,7 +194,7 @@
   },
   {
     "id": 15268,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-24T22:05:11+00:00",
     "text": "1",
     "has_media": false,
@@ -202,7 +202,7 @@
   },
   {
     "id": 15267,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-24T22:05:07+00:00",
     "text": "",
     "has_media": false,

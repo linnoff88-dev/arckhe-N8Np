@@ -10,7 +10,7 @@ Midias baixadas: 5
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-12T09:21:20+00:00
 Texto:
 Resumo direto e completo do vídeo
@@ -58,7 +58,7 @@ Build ANYTHING with Base44 and n8n AI Agents (beginner's guide)
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-12T09:20:20+00:00
 Texto:
 [https://www.youtube.com/watch?v=tFFKuq2t0rI](https://www.youtube.com/watch?v=tFFKuq2t0rI)
@@ -67,7 +67,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-12T09:20:12+00:00
 Texto:
 Construa QUALQUER COISA com Base44 e n8n AI Agents (guia para iniciantes)
@@ -81,7 +81,7 @@ Com o Base44 para o design e o n8n para a lógica, você pode criar sistemas com
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-12T09:17:28+00:00
 Texto:
 https://base44.pxf.io/c/6557254/2049275/25619?trafcat=base
@@ -90,7 +90,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-12T09:17:02+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Base44.json
@@ -98,7 +98,7 @@ Midia: MessageMediaDocument -> Base44.json
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-12T09:16:56+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15036_006.jpg
@@ -106,7 +106,7 @@ Midia: MessageMediaPhoto -> photo_15036_006.jpg
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-12T09:16:37+00:00
 Texto:
 ap66 - Criando web - Base44
@@ -114,7 +114,7 @@ ap66 - Criando web - Base44
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-12T09:16:36+00:00
 Texto:
 .
@@ -122,7 +122,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-12T09:16:36+00:00
 Texto:
 .
@@ -130,7 +130,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-12T09:16:35+00:00
 Texto:
 .
@@ -138,7 +138,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-12T09:16:35+00:00
 Texto:
 .
@@ -146,7 +146,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-12T09:16:35+00:00
 Texto:
 .
@@ -154,7 +154,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-12T09:16:35+00:00
 Texto:
 https://chatgpt.com/c/68eb7288-ce24-8332-ac5f-b6841d954d81
@@ -163,7 +163,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-12T09:16:34+00:00
 Texto:
 1
@@ -171,7 +171,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-12T09:16:26+00:00
 Texto: [Sem texto]
 

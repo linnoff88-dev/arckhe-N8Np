@@ -10,14 +10,14 @@ Midias baixadas: 2
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:47:42+00:00
 Texto: [Sem texto]
 
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:46:54+00:00
 Texto:
 "/var/run/docker.sock:/var/run/docker.sock:ro"
@@ -120,7 +120,7 @@ Agora você tem o n**8n rodando no modo fila em um VPS,** garantindo e**scalabil
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:46:53+00:00
 Texto:
 # **🔥 Instalaçêo PRO do n8n em um VPS (Modo Fila) 🚀**
@@ -271,7 +271,7 @@ services:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:46:32+00:00
 Texto:
 ==============
@@ -279,7 +279,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:46:29+00:00
 Texto:
 se tens duvidas, pode usar uma transcricao e tirar duvidas direto no chatgpt
@@ -287,7 +287,7 @@ se tens duvidas, pode usar uma transcricao e tirar duvidas direto no chatgpt
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:37:30+00:00
 Texto:
 https://www.youtube.com/watch?v=9YPD3wtLGNU
@@ -296,7 +296,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:37:16+00:00
 Texto:
 ==================
@@ -304,7 +304,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:37:10+00:00
 Texto:
 **Docker** e os contêineres:  
@@ -326,7 +326,7 @@ Agora temos um **n8n rodando no nosso próprio VPS**, sem depender de serviços 
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:37:10+00:00
 Texto:
 # 🔥 Como Instalar o n8n em um VPS Como um PRO 🚀 Guia Completo Passo a Passo  
@@ -427,7 +427,7 @@ Para manter o **n8n** atualizado e seguro, é importante realizar algumas verifi
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:32:17+00:00
 Texto:
 ========
@@ -435,7 +435,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:32:07+00:00
 Texto:
 **e7n. Instalaçêo PRO do n8n em um VPS (Servidor)**  
@@ -469,7 +469,7 @@ Também nos ensina como manter o n8n funcionando corretamente, realizar atualiza
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:26:19+00:00
 Texto:
 ========
@@ -477,7 +477,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:26:06+00:00
 Texto:
 **Instale o n8n em um VPS Como um PRO 🔥🚀**  
@@ -499,7 +499,7 @@ Um passo a passo incrível, explicado nos mínimos detalhes. Esse nível PRO de 
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:24:50+00:00
 Texto:
 .
@@ -507,7 +507,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:24:50+00:00
 Texto:
 .
@@ -515,7 +515,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:24:50+00:00
 Texto:
 .
@@ -523,7 +523,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:24:34+00:00
 Texto:
 e7n8 - Instale N8N VPS PRO 🔥🚀
@@ -531,7 +531,7 @@ e7n8 - Instale N8N VPS PRO 🔥🚀
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:24:30+00:00
 Texto:
 .
@@ -539,7 +539,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:24:30+00:00
 Texto:
 ..
@@ -547,7 +547,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:24:30+00:00
 Texto:
 .
@@ -555,7 +555,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:24:30+00:00
 Texto:
 .
@@ -563,7 +563,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:24:30+00:00
 Texto:
 .
@@ -571,7 +571,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:24:29+00:00
 Texto:
 https://chatgpt.com/c/67c67026-c01c-8009-84e4-05f91a093ae8
@@ -580,7 +580,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:24:28+00:00
 Texto:
 1
@@ -588,7 +588,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:24:13+00:00
 Texto: [Sem texto]
 

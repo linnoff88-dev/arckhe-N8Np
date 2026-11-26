@@ -10,7 +10,7 @@ Midias baixadas: 6
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:59:22+00:00
 Texto:
 https://www.youtube.com/watch?v=V_SzikazBSg
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:58:45+00:00
 Texto:
 Resumo completo:
@@ -81,7 +81,7 @@ Q
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:57:27+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6774_003.jpg
@@ -89,7 +89,7 @@ Midia: MessageMediaPhoto -> photo_6774_003.jpg
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:54:48+00:00
 Texto:
 Crie um Agente de IA para Reaproveitar Vídeos do YouTube em Threads no Twitter (100% Sem Código!)
@@ -101,7 +101,7 @@ Esse fluxo de trabalho com IA extrai as transcrições dos vídeos, formata o co
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:54:05+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Youtube Transcript.xlsx
@@ -109,7 +109,7 @@ Midia: MessageMediaDocument -> Youtube Transcript.xlsx
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:53:59+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Tutorial_3_2_How_I_Built_an_AI_Agent_to_Repurpose_YouTube_Videos.json
@@ -117,7 +117,7 @@ Midia: MessageMediaDocument -> Tutorial_3_2_How_I_Built_an_AI_Agent_to_Repurpose
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:52:48+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6770_007.jpg
@@ -125,7 +125,7 @@ Midia: MessageMediaPhoto -> photo_6770_007.jpg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:50:32+00:00
 Texto:
 als11 - Maneiras de Reaproveitar Vídeos do YouTube em Threads no Twitter
@@ -133,7 +133,7 @@ als11 - Maneiras de Reaproveitar Vídeos do YouTube em Threads no Twitter
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:50:30+00:00
 Texto:
 .
@@ -141,7 +141,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:50:29+00:00
 Texto:
 .
@@ -149,7 +149,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:50:28+00:00
 Texto:
 .
@@ -157,7 +157,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:50:28+00:00
 Texto:
 ...
@@ -165,7 +165,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:50:28+00:00
 Texto:
 ..
@@ -173,7 +173,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:50:28+00:00
 Texto:
 .
@@ -181,7 +181,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:50:28+00:00
 Texto:
 https://chatgpt.com/c/680f16fc-9dd0-8009-aeae-819a492f413f
@@ -190,7 +190,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:50:27+00:00
 Texto:
 1
@@ -198,7 +198,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T05:50:24+00:00
 Texto: [Sem texto]
 

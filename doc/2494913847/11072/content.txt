@@ -10,7 +10,7 @@ Midias baixadas: 7
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T02:49:51+00:00
 Texto:
 ============
@@ -18,7 +18,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T02:49:47+00:00
 Texto:
 # Configuraçêo Manual do Workflow N8N - Passo a Passo
@@ -115,7 +115,7 @@ Response Body:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T02:49:39+00:00
 Texto:
 ======================
@@ -123,7 +123,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T02:46:36+00:00
 Texto:
 # Lovable & Supabase Setup Prompt
@@ -227,7 +227,7 @@ CREATE TRIGGER update_blog_posts_updated_at
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T02:46:05+00:00
 Texto:
 e printei o workflow que mostrou no video, se fosse usar o gemini poderia ele analisar o video.
@@ -235,7 +235,7 @@ e printei o workflow que mostrou no video, se fosse usar o gemini poderia ele an
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T02:45:22+00:00
 Texto:
 tambem printei o prompt do agente
@@ -243,7 +243,7 @@ tambem printei o prompt do agente
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T02:45:08+00:00
 Texto:
 no cloude, levei a transcricao do video
@@ -251,7 +251,7 @@ no cloude, levei a transcricao do video
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T02:44:49+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11091_008.jpg
@@ -259,7 +259,7 @@ Midia: MessageMediaPhoto -> photo_11091_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T02:43:14+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11090_009.jpg
@@ -267,7 +267,7 @@ Midia: MessageMediaPhoto -> photo_11090_009.jpg
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T02:29:04+00:00
 Texto:
 Problema foi mal configurado aqui estava como imediatamente e deve ser using Respond to Webhook node
@@ -276,7 +276,7 @@ Midia: MessageMediaPhoto -> photo_11089_010.jpg
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T01:37:57+00:00
 Texto:
 https://www.youtube.com/watch?v=0c_NpEBLltM
@@ -285,7 +285,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-08T21:36:09+00:00
 Texto:
 ### 🌱 **Propósito do HealthMinimalistBlogger**
@@ -316,7 +316,7 @@ Oferecer uma plataforma automatizada para:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-08T21:35:48+00:00
 Texto:
 tem correcoes a fazer
@@ -324,7 +324,7 @@ tem correcoes a fazer
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-08T21:35:41+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> nm57 - webhook Blog.json
@@ -332,7 +332,7 @@ Midia: MessageMediaDocument -> nm57 - webhook Blog.json
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-08T21:33:44+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11080_015.jpg
@@ -340,7 +340,7 @@ Midia: MessageMediaPhoto -> photo_11080_015.jpg
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-08T21:32:41+00:00
 Texto:
 nm57 - webhook Blog
@@ -348,7 +348,7 @@ nm57 - webhook Blog
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-08T21:32:40+00:00
 Texto:
 .
@@ -356,7 +356,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-08T21:32:40+00:00
 Texto:
 .
@@ -364,7 +364,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-08T21:32:39+00:00
 Texto:
 ..
@@ -372,7 +372,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-08T21:32:39+00:00
 Texto:
 .
@@ -380,7 +380,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-08T21:32:39+00:00
 Texto:
 https://chatgpt.com/c/686d5820-7e80-8009-b114-b89697f5bf9f
@@ -389,7 +389,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-08T21:32:38+00:00
 Texto:
 1
@@ -397,7 +397,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-08T21:32:33+00:00
 Texto: [Sem texto]
 

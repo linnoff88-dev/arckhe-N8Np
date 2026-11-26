@@ -10,7 +10,7 @@ Midias baixadas: 2
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T03:27:04+00:00
 Texto:
 **Listar todos os arquivos em uma pasta do Google Drive [RESOLVIDO]**
@@ -23,7 +23,7 @@ Midia: MessageMediaPhoto -> photo_2953_001.jpg
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T03:26:25+00:00
 Texto:
 .
@@ -31,7 +31,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T03:26:24+00:00
 Texto:
 ..
@@ -39,7 +39,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T03:26:24+00:00
 Texto:
 .
@@ -47,7 +47,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T03:26:23+00:00
 Texto:
 ..
@@ -55,7 +55,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T03:26:23+00:00
 Texto:
 ..
@@ -63,7 +63,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T03:26:22+00:00
 Texto:
 .
@@ -71,7 +71,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T03:26:22+00:00
 Texto:
 Quero colocar aqui as Dicas q valem a pena, os Hacks q vamos descobrindo. (solucoes, nao duvidas certo) para ficar limpo
@@ -79,7 +79,7 @@ Quero colocar aqui as Dicas q valem a pena, os Hacks q vamos descobrindo. (soluc
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:46:21+00:00
 Texto:
 ok
@@ -87,7 +87,7 @@ ok
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T07:01:59+00:00
 Texto:
 https://www.youtube.com/watch?v=ZZCT5JbtfqQ
@@ -96,7 +96,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-01T12:40:06+00:00
 Texto:
 ===============
@@ -104,7 +104,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-03T16:58:43+00:00
 Texto: [Sem texto]
 

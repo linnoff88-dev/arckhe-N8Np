@@ -10,7 +10,7 @@ Midias baixadas: 8
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T19:52:46+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7339_001.jpg
@@ -18,7 +18,7 @@ Midia: MessageMediaPhoto -> photo_7339_001.jpg
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T18:33:38+00:00
 Texto:
 https://www.youtube.com/watch?v=ElxwNwb9mLs
@@ -27,7 +27,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T18:33:21+00:00
 Texto:
 **Resumo do vídeo “Eu construí uma máquina de vídeo de IA com POV de US\$ 0” – YouTube**
@@ -90,7 +90,7 @@ O projeto mostra como montar uma máquina de geraçêo de vídeo com IA de forma
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T18:30:55+00:00
 Texto:
 https://s.andynocode.com/andynocode-p-runpod
@@ -99,7 +99,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T18:30:09+00:00
 Texto:
 ==============
@@ -107,7 +107,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T18:30:06+00:00
 Texto:
 Instale as dependências
@@ -156,7 +156,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T18:30:06+00:00
 Texto:
 **al14 – POV de US\$ 0**
@@ -290,7 +290,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T18:29:19+00:00
 Texto:
 .
@@ -298,7 +298,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T18:29:12+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Tutorial_24_1_$0_POV_Master_Workflow_Final_Unpinned.json
@@ -306,7 +306,7 @@ Midia: MessageMediaDocument -> Tutorial_24_1_$0_POV_Master_Workflow_Final_Unpinn
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T18:28:48+00:00
 Texto:
 Uma máquina de vídeo de IA com POV de US$ 0 com ferramentas e modelos de código aberto (sem código)
@@ -320,7 +320,7 @@ Se os criadores estêo pagando US$$ por ferramentas de vídeo com IA, por que n�
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T18:27:53+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7325_011.jpg
@@ -328,7 +328,7 @@ Midia: MessageMediaPhoto -> photo_7325_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T18:27:47+00:00
 Texto:
 al14 - Video POV Local
@@ -336,7 +336,7 @@ al14 - Video POV Local
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T18:27:30+00:00
 Texto:
 .
@@ -344,7 +344,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T18:27:30+00:00
 Texto:
 .
@@ -352,7 +352,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T18:27:30+00:00
 Texto:
 .
@@ -360,7 +360,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T18:27:29+00:00
 Texto:
 .
@@ -368,7 +368,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T18:27:29+00:00
 Texto:
 https://chatgpt.com/c/681ba4bd-2abc-8009-b207-8f9af0abb454
@@ -377,7 +377,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T18:27:28+00:00
 Texto:
 1
@@ -385,7 +385,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-07T18:26:26+00:00
 Texto: [Sem texto]
 

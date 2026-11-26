@@ -21,7 +21,7 @@ MENSAGEM 2
 Autor: Tiza
 Data: 2025-07-18T18:20:34+00:00
 Texto:
-E podes verificar os conteúdos no canal do YouTube inema.tdsx
+E podes verificar os conteúdos no canal do YouTube ARCKHÉ.tdsx
 
 ------------------------------
 
@@ -90,7 +90,7 @@ Oi! Sou nova aqui e gostaria de saber mais sobre o assunto. Procuro alguém que 
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:25:08+00:00
 Texto:
 Vou listar os **hacks e truques** mais importantes  para você otimizar, acelerar e até deixar o chatbot **mais inteligente e natural**. Esses hacks sêo aqueles “detalhes escondidos” que o criador usa para deixar o bot parecer humano e funcionar sem erros.
@@ -223,7 +223,7 @@ i```f event == 'message.received' AND fromMe == false
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:23:53+00:00
 Texto:
 =============
@@ -231,7 +231,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:23:49+00:00
 Texto:
 **passo a passo direto e prático** para você replicar o chatbot multicanal no **n8n** com GPT-4, Supabase, Redis e Evolution API.
@@ -386,7 +386,7 @@ Um chatbot que:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:22:56+00:00
 Texto:
 ================= nao tenho acesso ao video -=============
@@ -394,7 +394,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:22:43+00:00
 Texto:
 **Resumo da demonstraçêo :**
@@ -485,7 +485,7 @@ Um **chatbot multicanal humanizado** capaz de:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:20:57+00:00
 Texto:
 ===============
@@ -493,7 +493,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:20:53+00:00
 Texto:
 e27. O Chatbot Mais Insano e Humano
@@ -611,7 +611,7 @@ create table
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:17:30+00:00
 Texto:
 =============
@@ -619,7 +619,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:17:26+00:00
 Texto:
 SuperAgente de Atendimento ao Cliente🔥😱
@@ -657,7 +657,7 @@ Essa automaçêo é super, super, super recomendada.
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:14:41+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Chatbot_Evolution_e_Instagram.json
@@ -665,7 +665,7 @@ Midia: MessageMediaDocument -> Chatbot_Evolution_e_Instagram.json
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:13:46+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10949_021.jpg
@@ -673,7 +673,7 @@ Midia: MessageMediaPhoto -> photo_10949_021.jpg
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:12:53+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10948_022.jpg
@@ -681,7 +681,7 @@ Midia: MessageMediaPhoto -> photo_10948_022.jpg
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:11:21+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10947_023.jpg
@@ -689,7 +689,7 @@ Midia: MessageMediaPhoto -> photo_10947_023.jpg
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:10:53+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10946_024.jpg
@@ -697,7 +697,7 @@ Midia: MessageMediaPhoto -> photo_10946_024.jpg
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:10:49+00:00
 Texto:
 e27 - SuperAgente Quase Humano
@@ -705,7 +705,7 @@ e27 - SuperAgente Quase Humano
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:10:34+00:00
 Texto:
 .
@@ -713,7 +713,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:10:33+00:00
 Texto:
 ..
@@ -721,7 +721,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:10:33+00:00
 Texto:
 .
@@ -729,7 +729,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:10:32+00:00
 Texto:
 .
@@ -737,7 +737,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:10:32+00:00
 Texto:
 .
@@ -745,7 +745,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:10:32+00:00
 Texto:
 https://chatgpt.com/c/6869a177-25f0-8009-bd91-3332906a5acb
@@ -754,7 +754,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 32
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:10:31+00:00
 Texto:
 1
@@ -762,7 +762,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 33
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:10:27+00:00
 Texto: [Sem texto]
 

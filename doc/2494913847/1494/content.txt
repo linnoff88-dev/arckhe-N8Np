@@ -31,7 +31,7 @@ Midia: MessageMediaDocument -> messenger_instagram_agente.json
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-01T05:50:57+00:00
 Texto:
 no direct tem usar o manychat
@@ -55,7 +55,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T16:01:01+00:00
 Texto:
 Você consegue responder os comentários no direct nêo
@@ -87,7 +87,7 @@ Show acabei de achar aqui...
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-13T15:58:19+00:00
 Texto:
 No Make já vi
@@ -95,7 +95,7 @@ No Make já vi
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-13T15:58:07+00:00
 Texto:
 Use o apify
@@ -111,7 +111,7 @@ Eu preciso de um agente que raspe o Google maps e traga os leads para prospectar
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T01:32:22+00:00
 Texto:
 https://www.youtube.com/watch?v=rE5JYx13E5U
@@ -122,7 +122,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T01:05:42+00:00
 Texto:
 ===
@@ -130,7 +130,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T01:05:38+00:00
 Texto:
 reuniões automaticamente** e economiza tempo   
@@ -142,7 +142,7 @@ reuniões automaticamente** e economiza tempo
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T01:05:38+00:00
 Texto:
 ### **Dicas e Hacks  para Criar a Automaçêo de IA**   
@@ -231,7 +231,7 @@ Com essa automaçêo, você:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T01:04:05+00:00
 Texto:
 ===============
@@ -239,7 +239,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T01:04:01+00:00
 Texto:
 Vários **hacks e dicas avançadas** para transformar leads em agendamentos automaticamente com IA. Aqui estêo os principais insights:   
@@ -329,7 +329,7 @@ Com essa automaçêo, você:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T01:03:40+00:00
 Texto:
 ===========
@@ -337,7 +337,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T01:02:09+00:00
 Texto:
 5️⃣ **Configurar respostas automáticas personalizadas**   
@@ -364,7 +364,7 @@ Se quiser aprender mais sobre personalizaçêo e otimizaçêo do sistema, assist
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T01:02:09+00:00
 Texto:
 🚨 Este Agente de Vendas com IA Transforma E-mails em Dinheiro   
@@ -455,7 +455,7 @@ Agora, vamos construir essa automaçêo do zero.
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T00:58:37+00:00
 Texto:
 ============
@@ -463,7 +463,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T00:58:33+00:00
 Texto:
 🚀 **Este Agente de IA Transforma Leads em Agendamentos**   
@@ -496,7 +496,7 @@ Agora, você pode relaxar enquanto sua IA trabalha para garantir que **nenhuma o
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T00:57:37+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 📧 AI Email Assistant Prompt 📧.docx
@@ -504,7 +504,7 @@ Midia: MessageMediaDocument -> 📧 AI Email Assistant Prompt 📧.docx
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T00:57:37+00:00
 Texto:
 j72n
@@ -513,7 +513,7 @@ Midia: MessageMediaDocument -> ___Emails_to_Cash.json
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T00:57:13+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_1505_026.jpg
@@ -521,7 +521,7 @@ Midia: MessageMediaPhoto -> photo_1505_026.jpg
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T00:56:54+00:00
 Texto:
 .
@@ -529,7 +529,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T00:56:51+00:00
 Texto:
 Este Agente de Vendas com IA Transforma E-mails em Dinheiro
@@ -550,7 +550,7 @@ E isso pode acontecer em minutos, nêo horas.
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T00:56:51+00:00
 Texto:
 .
@@ -558,7 +558,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T00:56:51+00:00
 Texto:
 j72n -Agente de IA Transforma Leads em Agendamentos
@@ -566,7 +566,7 @@ j72n -Agente de IA Transforma Leads em Agendamentos
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T00:56:50+00:00
 Texto:
 ..
@@ -574,7 +574,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 32
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T00:56:50+00:00
 Texto:
 .
@@ -582,7 +582,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 33
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T00:56:50+00:00
 Texto:
 .
@@ -590,7 +590,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 34
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T00:56:50+00:00
 Texto:
 .
@@ -598,7 +598,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 35
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T00:56:50+00:00
 Texto:
 https://chatgpt.com/c/67ae9363-3fec-8009-a147-5ea7fb96d205
@@ -607,7 +607,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 36
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T00:56:49+00:00
 Texto:
 1
@@ -615,7 +615,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 37
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T00:56:43+00:00
 Texto: [Sem texto]
 

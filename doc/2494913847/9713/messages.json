@@ -1,7 +1,7 @@
 [
   {
     "id": 9730,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-15T03:47:25+00:00",
     "text": "Aqui está o **passo a passo completo** para criar uma ferramenta gratuita de **clipping automático de vídeos com IA no n8n, rodando localmente com Docker**:\n\n---\n\n### 1. **Preparaçêo do ambiente**\n\n* Instale o **Docker Desktop** no seu PC/Mac.\n* No terminal, configure seu ambiente com a imagem que tenha o `ffmpeg` e `yt-dlp`.\n\n**Exemplo de comando inicial:**\n\n```docker run -it -p 5678:5678 --name n8n-clip n8nio/n8n```\n\n---\n\n### 2. **Captura dos vídeos**\n\n* Crie um **nó \"Edit Fields\"** (ou “Set”) com os links dos 3 vídeos:\n\n  * Podcast (áudio principal)\n  * Gameplay (imagem de fundo)\n  * Música de fundo (MP3)\n\n---\n\n### 3. **Download dos vídeos**\n\n* Use o nó **\"Execute Command\"** com `yt-dlp` para baixar:\n\n  * Podcast: `.mp4`\n  * Gameplay: `.mp4`\n  * Música: `.mp3`\n\n---\n\n### 4. **Extraçêo do áudio**\n\n* Use o `ffmpeg` para extrair o **áudio do podcast** como `.mp3`.\n\n```ffmpeg -i podcast.mp4 -vn -acodec mp3 podcast_audio.mp3```\n\n---\n\n### 5. **Transcriçêo com Whisper (OpenAI)**\n\n* Crie um nó HTTP Request para **enviar o áudio para o Whisper API**:\n\n  * Modelo: `whisper-1`\n  * Formato de resposta: `verbose_json`\n* Armazene: palavras, segundos de início e fim de cada trecho.\n\n---\n\n### 6. **Identificaçêo de trechos relevantes**\n\n* Envie o resultado da transcriçêo para um **nó de IA (ChatGPT ou Claude)** com este prompt:\n\n```\"Analise a transcriçêo e extraia os melhores momentos com base em impacto emocional, valor informacional e clareza.\"```\n\n* Gere um array com os timestamps (start, end) de cada clipe.\n\n---\n\n### 7. **Ediçêo automática com FFmpeg**\n\n* Crie uma lista `.txt` com os trechos marcados.\n* Use o `ffmpeg` para unir os segmentos:\n\n```ffmpeg -f concat -safe 0 -i list.txt -c copy final_clip.mp4```\n\n---\n\n### 8. **Upload para o Google Cloud Storage**\n\n* Configure o nó \"Upload\" com a conta Google.\n* Suba:\n\n  * `final_clip.mp4` (vídeo final)\n  * `podcast_audio.mp3` (áudio base)\n  * `gameplay.mp4` (background)\n  * `music.mp3` (trilha sonora)\n\n---\n\n### 9. **Geraçêo de título e legenda para Shorts**\n\n* Use IA com o prompt:\n\n```\"Crie um título com até 60 caracteres com emojis, uma legenda curta e chamativa com base nesse clipe.\"```\n\n---\n\n### 10. **Atualizaçêo da planilha no Google Sheets**\n\n* Crie uma aba com colunas:\n\n  * Título, Legenda, URL do vídeo, Status de publicaçêo\n* Conecte com o Google Sheets e salve os dados.\n\n---\n\n### 11. **Upload para YouTube automaticamente**\n\n* Configure o OAuth para o YouTube no n8n.\n* Use HTTP Request com a API do YouTube:\n\n  * Endpoint: `https://www.googleapis.com/upload/youtube/v3/videos`\n  * Métodos: `POST` e depois `PUT` com os dados binários do vídeo.\n\n---\n\n### 12. **Agendamento automático**\n\n* Use nó **Trigger** com agendamento (ex: a cada 24h).\n* Verifique na planilha se há vídeo com status “pronto”.\n* Execute o fluxo para upload e atualize o status para “postado”.",
     "has_media": false,
@@ -9,7 +9,7 @@
   },
   {
     "id": 9729,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-15T03:46:54+00:00",
     "text": "============",
     "has_media": false,
@@ -17,7 +17,7 @@
   },
   {
     "id": 9728,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-15T03:46:36+00:00",
     "text": "Resumo completo do conteúdo:\n\nFoi apresentado um sistema completo para criar automaticamente vídeos curtos a partir de conteúdos mais longos, usando n8n rodando em um ambiente local com Docker. O objetivo principal é gerar clipes de vídeos com trechos relevantes, com transcriçêo automática, títulos atrativos e upload direto no YouTube, economizando custos com serviços externos.\n\n**Resumo por tópicos com exemplos e respostas:**\n\n1. **Preparaçêo do ambiente local com Docker:**\n\n   * Instalaçêo do Docker Desktop.\n   * Uso de imagem personalizada com bibliotecas como FFmpeg instaladas.\n   * Dois cenários: iniciando do zero ou já com n8n instalado.\n\n2. **Entrada de dados:**\n\n   * O fluxo começa com links de vídeos do YouTube (podcast, gameplay e música de fundo).\n   * Extraçêo dos IDs e download local dos arquivos MP4 e MP3 com `yt-dlp`.\n\n3. **Processamento dos vídeos:**\n\n   * Conversêo dos arquivos para os formatos necessários.\n   * Separaçêo dos áudios (ex: podcast em MP3) usando FFmpeg.\n\n4. **Transcriçêo com OpenAI Whisper:**\n\n   * Leitura do áudio.\n   * Envio para a API do Whisper.\n   * Retorno com os timestamps das falas transcritas.\n\n5. **Identificaçêo de trechos relevantes:**\n\n   * Uso de IA para analisar a transcriçêo.\n   * Extraçêo de trechos com maior impacto emocional, valor informacional ou falas importantes.\n   * Geraçêo de segmentos de vídeo com base nos timestamps.\n\n6. **Ediçêo automática do vídeo:**\n\n   * Uniêo dos segmentos com FFmpeg em um único clipe.\n   * Criaçêo de lista.txt com trechos a serem concatenados.\n   * Geraçêo do clipe final.\n\n7. **Upload para o Google Cloud e YouTube:**\n\n   * Upload dos arquivos (vídeo, áudio, música) para Google Cloud Storage.\n   * Uso da API do YouTube para envio automático dos vídeos.\n   * Configurações como título, descriçêo, status (público/privado).\n\n8. **Criaçêo automática de título e legenda:**\n\n   * Prompt com instruções para gerar título com emojis e legenda curta.\n   * Uso de estrutura JSON no retorno.\n   * Salvamento dos dados em uma planilha do Google Sheets.\n\n9. **Automaçêo e agendamento:**\n\n   * Trigger de tempo configurável (ex: a cada 24h).\n   * Verificaçêo da planilha para novos conteúdos a publicar.\n   * Upload automático via HTTP request com OAuth configurado.\n\n\n\n**Exemplos de uso:**\n\n* Cortar automaticamente trechos curtos de podcasts e subir como Shorts.\n* Criar vídeos de gameplay com falas de fundo motivacionais.\n* Transformar episódios longos em clipes virais para redes sociais.",
     "has_media": false,
@@ -25,7 +25,7 @@
   },
   {
     "id": 9726,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-15T03:42:43+00:00",
     "text": "",
     "has_media": true,
@@ -34,7 +34,7 @@
   },
   {
     "id": 9725,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-15T03:42:43+00:00",
     "text": "",
     "has_media": true,
@@ -43,7 +43,7 @@
   },
   {
     "id": 9724,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-15T03:42:43+00:00",
     "text": "",
     "has_media": true,
@@ -52,7 +52,7 @@
   },
   {
     "id": 9723,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-15T03:42:32+00:00",
     "text": "",
     "has_media": true,
@@ -61,7 +61,7 @@
   },
   {
     "id": 9722,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-15T03:42:09+00:00",
     "text": ".",
     "has_media": true,
@@ -70,7 +70,7 @@
   },
   {
     "id": 9721,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-15T03:42:05+00:00",
     "text": "al33 - Cortes Video Clip Youtube",
     "has_media": false,
@@ -78,7 +78,7 @@
   },
   {
     "id": 9720,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-15T03:42:05+00:00",
     "text": ".",
     "has_media": false,
@@ -86,7 +86,7 @@
   },
   {
     "id": 9719,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-15T03:42:04+00:00",
     "text": ".",
     "has_media": false,
@@ -94,7 +94,7 @@
   },
   {
     "id": 9718,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-15T03:42:04+00:00",
     "text": ".",
     "has_media": false,
@@ -102,7 +102,7 @@
   },
   {
     "id": 9717,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-15T03:42:04+00:00",
     "text": ".",
     "has_media": false,
@@ -110,7 +110,7 @@
   },
   {
     "id": 9716,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-15T03:42:04+00:00",
     "text": ".",
     "has_media": false,
@@ -118,7 +118,7 @@
   },
   {
     "id": 9715,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-15T03:42:03+00:00",
     "text": "https://chatgpt.com/c/684e417a-36bc-8009-81a3-1cf10029d311",
     "has_media": true,
@@ -126,7 +126,7 @@
   },
   {
     "id": 9714,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-15T03:42:03+00:00",
     "text": "1",
     "has_media": false,
@@ -134,7 +134,7 @@
   },
   {
     "id": 9713,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-15T03:41:57+00:00",
     "text": "",
     "has_media": false,

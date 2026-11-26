@@ -1,7 +1,7 @@
 [
   {
     "id": 6795,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T06:11:23+00:00",
     "text": "https://www.youtube.com/watch?v=uaMJ_Hv3u6Q",
     "has_media": true,
@@ -9,7 +9,7 @@
   },
   {
     "id": 6794,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T06:08:41+00:00",
     "text": "Resumo completo:\n\nComo criar um **Agente de IA** para **automatizar Reels do Instagram** no estilo **Threads/X Twitter**, sem usar código, usando **OpenAI, n8n, Google Sheets e a API Graph do Instagram**.\n\nResumo por tópicos:\n\n- **Ferramentas necessárias**:\n  - OpenAI\n  - Google Sheets\n  - API Graph do Instagram\n  - n8n\n  - Text Video Generation API \n\n- **Três Workflows criados**:\n  1. **Gerenciamento de perfil Instagram**:\n     - Obtençêo manual do primeiro token de acesso (SS Token)\n     - Conversêo em token de longa duraçêo\n     - Ligaçêo de contas\n     - Recuperaçêo de dados do perfil (nome, foto, handle)\n     - Atualizaçêo das informações no banco de dados (Sheets)\n\n  2. **Criaçêo automática de legendas e vídeos**:\n     - Geraçêo de vídeos a partir de textos usando a Text Video API\n     - Divisêo de textos longos em vários posts no estilo Threads\n     - Criaçêo automática de legendas com OpenAI (modelo GPT-4)\n     - Atualizaçêo dos dados (URL do vídeo e legenda) no Google Sheets\n\n  3. **Upload automático dos Reels**:\n     - Leitura dos vídeos prontos no Google Sheets\n     - Upload dos vídeos como Reels no Instagram\n     - Atualizaçêo do status de postagem no Google Sheets\n\n- **Demonstraçêo prática**:\n  - Exibe o Google Sheets vazio\n  - Executa o fluxo para gerar o vídeo\n  - Mostra o preenchimento automático dos campos (URL do vídeo, status)\n  - Faz o upload do vídeo no Instagram e atualiza o status no Sheets\n\n- **Passos de configuraçêo**:\n  - Criar aplicativo no painel da Meta (Meta App Dashboard)\n  - Gerar o App ID e o App Secret\n  - Obter SS Token usando o Graph API Explorer\n  - Converter token para longa duraçêo\n  - Configurar n8n com as credenciais obtidas\n\n- **Detalhes técnicos**:\n  - JSON de requisiçêo para geraçêo de vídeo e upload no Instagram é fornecido no tutorial\n  - Espera automática (delay) entre as ações\n  - Atualizaçêo contínua dos dados no Google Sheets\n\n- **Observaçêo final**:\n  - Todo o processo foi criado para a comunidade da ferramenta n8n \n  - O sistema facilita transformar conteúdos longos em vídeos curtos com aparência moderna e adaptada a redes sociais.",
     "has_media": false,
@@ -17,7 +17,7 @@
   },
   {
     "id": 6793,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T06:07:27+00:00",
     "text": "Um Agente de IA para Automatizar Reels do Instagram no Estilo de Postagens do Threads/X (Sem Código)  \n\nComo automatizar a criaçêo e postagem de Reels do Instagram no estilo de Threads/X Twitter usando OpenAI, n8n, Google Sheets e a API Graph do Instagram — sem precisar de programaçêo! \n\nEsse fluxo de trabalho com IA gera legendas, divide textos longos em Threads envolventes e agenda as postagens de forma fácil.",
     "has_media": false,
@@ -25,7 +25,7 @@
   },
   {
     "id": 6792,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T06:06:54+00:00",
     "text": "",
     "has_media": true,
@@ -34,7 +34,7 @@
   },
   {
     "id": 6791,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T06:06:28+00:00",
     "text": "",
     "has_media": true,
@@ -43,7 +43,7 @@
   },
   {
     "id": 6790,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T06:06:23+00:00",
     "text": "",
     "has_media": true,
@@ -52,7 +52,7 @@
   },
   {
     "id": 6789,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T06:04:54+00:00",
     "text": "",
     "has_media": true,
@@ -61,7 +61,7 @@
   },
   {
     "id": 6788,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T06:00:55+00:00",
     "text": "als10 - Reels do Instagram em Postagens no Threads/X (Twitter)",
     "has_media": false,
@@ -69,7 +69,7 @@
   },
   {
     "id": 6786,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T06:00:48+00:00",
     "text": "....",
     "has_media": false,
@@ -77,7 +77,7 @@
   },
   {
     "id": 6785,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T06:00:48+00:00",
     "text": "...",
     "has_media": false,
@@ -85,7 +85,7 @@
   },
   {
     "id": 6784,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T06:00:48+00:00",
     "text": "..",
     "has_media": false,
@@ -93,7 +93,7 @@
   },
   {
     "id": 6783,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T06:00:48+00:00",
     "text": ".",
     "has_media": false,
@@ -101,7 +101,7 @@
   },
   {
     "id": 6782,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T06:00:47+00:00",
     "text": ".",
     "has_media": false,
@@ -109,7 +109,7 @@
   },
   {
     "id": 6781,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T06:00:47+00:00",
     "text": ".",
     "has_media": false,
@@ -117,7 +117,7 @@
   },
   {
     "id": 6780,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T06:00:47+00:00",
     "text": ".",
     "has_media": false,
@@ -125,7 +125,7 @@
   },
   {
     "id": 6779,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T06:00:47+00:00",
     "text": "https://chatgpt.com/c/680f1972-cb3c-8009-8150-93b71d09f501",
     "has_media": true,
@@ -133,7 +133,7 @@
   },
   {
     "id": 6778,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T06:00:46+00:00",
     "text": "1",
     "has_media": false,
@@ -141,7 +141,7 @@
   },
   {
     "id": 6777,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T06:00:43+00:00",
     "text": "",
     "has_media": false,

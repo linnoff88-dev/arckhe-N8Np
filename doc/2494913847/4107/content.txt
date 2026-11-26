@@ -10,7 +10,7 @@ Midias baixadas: 2
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:40:09+00:00
 Texto:
 **Relatório de Ranking dos Principais Criadores no n8n**  
@@ -42,7 +42,7 @@ Esse workflow é ideal para líderes de comunidade, gerentes de plataforma e nov
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:39:59+00:00
 Texto:
 ========
@@ -50,7 +50,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:39:12+00:00
 Texto:
 🤖🧑‍💻 Agente de IA para Criadores Top do n8n
@@ -79,7 +79,7 @@ Modelo JSON
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:38:04+00:00
 Texto:
 mw7
@@ -88,7 +88,7 @@ Midia: MessageMediaDocument -> 🤖🧑_💻_AI_Agent_for_Top_n8n_Creators_Leade
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:37:55+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_4116_005.jpg
@@ -96,7 +96,7 @@ Midia: MessageMediaPhoto -> photo_4116_005.jpg
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:37:07+00:00
 Texto:
 mw7 - **AI Agent for Top n8n Creators**
@@ -104,7 +104,7 @@ mw7 - **AI Agent for Top n8n Creators**
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:37:04+00:00
 Texto:
 .
@@ -112,7 +112,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:37:04+00:00
 Texto:
 .
@@ -120,7 +120,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:37:04+00:00
 Texto:
 .
@@ -128,7 +128,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:37:04+00:00
 Texto:
 .
@@ -136,7 +136,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:37:03+00:00
 Texto:
 .
@@ -144,7 +144,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:37:03+00:00
 Texto:
 .
@@ -152,7 +152,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:37:02+00:00
 Texto:
 1
@@ -160,7 +160,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:36:58+00:00
 Texto: [Sem texto]
 

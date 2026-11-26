@@ -297,7 +297,7 @@
     {
       "parameters": {
         "method": "POST",
-        "url": "=https://api.inema.online/message/sendText/{{ $('Switch').item.json.instancia }}",
+        "url": "=https://api.ARCKHÉ.online/message/sendText/{{ $('Switch').item.json.instancia }}",
         "sendQuery": true,
         "queryParameters": {
           "parameters": [
@@ -368,7 +368,7 @@
           "__rl": true,
           "value": "1VwkrXdg9kKpWPZugXE1sXYUAD4QF9Urui5l7UHKmh1I",
           "mode": "list",
-          "cachedResultName": "INEMATDS",
+          "cachedResultName": "linnoff88-dev",
           "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1VwkrXdg9kKpWPZugXE1sXYUAD4QF9Urui5l7UHKmh1I/edit?usp=drivesdk"
         },
         "sheetName": {
@@ -466,7 +466,7 @@
       "credentials": {
         "googleSheetsOAuth2Api": {
           "id": "[REMOVED]",
-          "name": "Google Sheets account INEMATDS"
+          "name": "Google Sheets account linnoff88-dev"
         }
       }
     }

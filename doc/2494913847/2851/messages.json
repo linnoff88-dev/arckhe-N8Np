@@ -44,7 +44,7 @@
   },
   {
     "id": 2874,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-11T21:54:42+00:00",
     "text": "https://console.apify.com/actors/p7UMdpQnjKmmpR21D/input",
     "has_media": true,
@@ -52,7 +52,7 @@
   },
   {
     "id": 2873,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-11T21:54:33+00:00",
     "text": "https://huggingface.co/facebook/musicgen-small",
     "has_media": true,
@@ -60,7 +60,7 @@
   },
   {
     "id": 2872,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-11T21:54:22+00:00",
     "text": "ec4n8",
     "has_media": true,
@@ -69,7 +69,7 @@
   },
   {
     "id": 2871,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-11T21:54:22+00:00",
     "text": "",
     "has_media": true,
@@ -78,7 +78,7 @@
   },
   {
     "id": 2870,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-11T21:53:07+00:00",
     "text": "voce pode copiar este Actor direto no Apify\n\n[https://console.cloud.google.com/](https://console.cloud.google.com/)",
     "has_media": false,
@@ -86,7 +86,7 @@
   },
   {
     "id": 2860,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-11T21:52:02+00:00",
     "text": "Aula 4\n\n### Caso Prático: Apify e Amazon com n8n  \n  \n#### Introduçêo  \n  \nNeste caso prático, criamos um fluxo no n8n para utilizar o Apify e scrapear produtos da Amazon, organizando os dados em uma planilha no Google Sheets. Este fluxo permite:    \n  \n- Análise detalhada de produtos.  \n- Acompanhamento de preços.  \n- Extraçêo de dados específicos como marca, preço, reviews, e descriçêo.  \n  \n---  \n  \n### Etapas do Fluxo  \n  \n#### 1. Configuraçêo Inicial  \n- Trigger manual: O fluxo inicia ao clicar manualmente, mas pode ser configurado para ser ativado automaticamente.    \n- Google Sheets: Criamos uma planilha com os seguintes campos:    \n  - Inputs: Produto a ser buscado e número de resultados desejados.    \n  - Resultados: Título, URL, ASIN (identificador da Amazon), marca, preço, estrelas, reviews e descriçêo.    \n- Validaçêo de erros:    \n  - Evita duplicaçêo de buscas com o uso de formataçêo condicional.    \n  - Marca buscas já realizadas com o status \"**OK**\" na coluna Check.    \n  \n---  \n  \n#### 2. Scraping com Apify  \n- Preparaçêo do JSON:    \n  - Gerar a URL dinâmica para busca com o formato correto.    \n  - Configurar o JSON com os parâmetros (URL e número de resultados).    \n- Interaçêo com Apify:    \n  - Utilizar o método POST para enviar o JSON e obter os resultados.    \n  \n---  \n  \n#### 3. Processamento de Dados  \n- Divisêo dos resultados: Separar os dados em campos específicos (título, URL, ASIN, etc.).    \n- Média ponderada:    \n  - Calcular a média ponderada das estrelas para obter avaliações mais precisas, considerando o peso de cada classificaçêo (ex.: 5 estrelas têm mais peso que 3 estrelas).    \n  \n---  \n  \n#### 4. Organizaçêo no Google Sheets  \n- Criaçêo de novas folhas: Cada busca gera uma nova folha com os resultados.    \n- Armazenamento estruturado: Dados organizados com os campos principais.    \n- Atualizaçêo do status: Marca a coluna Check como \"**OK**\" ao concluir a busca.    \n  \n---  \n  \n### Aplicações Práticas  \n1. Acompanhamento de preços:  \n   - Configurar alertas para notificações automáticas quando o preço de um produto cair.    \n   - Exemplo: Enviar mensagem no Telegram ou email.    \n  \n2. Análise de produtos:  \n   - Identificar melhores opções com base em avaliações, número de reviews e descriçêo.    \n  \n3. Expansêo para outras plataformas:  \n   - Adaptar o fluxo para coletar dados de Google Maps, LinkedIn, ou outras plataformas com Apify.    \n  \n---  \n  \n### Recursos Necessários  \n- Google Sheets: Para inputs e armazenamento dos resultados.    \n- Apify: Plataforma de scraping para obter dados de produtos da Amazon.    \n- n8n: Configuraçêo do fluxo e integraçêo com APIs.    \n  \n---  \n  \n### Próximos Passos  \n- Implementar IA no n8n:    \n  - Criar agentes e multiagentes.    \n  - Explorar ferramentas gratuitas de automaçêo com inteligência artificial.    \n  \n[https://www.youtube.com/watch?v=BZu2gt9jDvc](https://www.youtube.com/watch?v=BZu2gt9jDvc)",
     "has_media": true,
@@ -94,7 +94,7 @@
   },
   {
     "id": 2859,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-11T21:51:55+00:00",
     "text": "ec4n8 - Curso - Prática Apify e Amazon",
     "has_media": false,
@@ -102,7 +102,7 @@
   },
   {
     "id": 2858,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-11T21:51:55+00:00",
     "text": ".",
     "has_media": false,
@@ -110,7 +110,7 @@
   },
   {
     "id": 2857,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-11T21:51:55+00:00",
     "text": "..",
     "has_media": false,
@@ -118,7 +118,7 @@
   },
   {
     "id": 2856,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-11T21:51:55+00:00",
     "text": ".",
     "has_media": false,
@@ -126,7 +126,7 @@
   },
   {
     "id": 2855,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-11T21:51:55+00:00",
     "text": "..",
     "has_media": false,
@@ -134,7 +134,7 @@
   },
   {
     "id": 2854,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-11T21:51:55+00:00",
     "text": ".",
     "has_media": false,
@@ -142,7 +142,7 @@
   },
   {
     "id": 2853,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-11T21:51:55+00:00",
     "text": ".",
     "has_media": false,
@@ -150,7 +150,7 @@
   },
   {
     "id": 2852,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-11T21:51:41+00:00",
     "text": "1",
     "has_media": false,
@@ -158,7 +158,7 @@
   },
   {
     "id": 2851,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-11T21:51:35+00:00",
     "text": "",
     "has_media": false,

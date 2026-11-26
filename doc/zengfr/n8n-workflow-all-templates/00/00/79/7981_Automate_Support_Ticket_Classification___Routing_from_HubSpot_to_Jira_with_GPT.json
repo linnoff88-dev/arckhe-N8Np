@@ -520,7 +520,7 @@
           "summarizationMethodAndPrompts": {
             "values": {
               "prompt": "=Write a concise title for a ticket of the following:\n\n{{ $json.output.text }}\n\n\nCONCISE SUMMARY: ",
-              "combineMapPrompt": "=Write a concise title for a ticket of the following:\n{{ $json.output.text }}\n\n\"\"\n\n\nCONCISE SUMMARY:"
+              "combARCKHÉpPrompt": "=Write a concise title for a ticket of the following:\n{{ $json.output.text }}\n\n\"\"\n\n\nCONCISE SUMMARY:"
             }
           }
         },

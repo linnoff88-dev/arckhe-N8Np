@@ -10,7 +10,7 @@ Midias baixadas: 2
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T21:15:36+00:00
 Texto:
 falta um modulo de pegar os conteudos de video e fazer a transcricao no inicio
@@ -18,7 +18,7 @@ falta um modulo de pegar os conteudos de video e fazer a transcricao no inicio
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T21:15:15+00:00
 Texto:
 =========
@@ -26,7 +26,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T21:13:19+00:00
 Texto:
 Wikipédia e ferramentas de busca) e nós de formataçêo, o fluxo nêo apenas resume o conteúdo, mas também oferece contexto adicional e insights acionáveis.
@@ -40,7 +40,7 @@ Wikipédia e ferramentas de busca) e nós de formataçêo, o fluxo nêo apenas r
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T21:13:19+00:00
 Texto:
 **IA: Resumo de episódio de podcast e enriquecimento com Wikipédia**
@@ -111,7 +111,7 @@ Ao integrar ferramentas de pesquisa (como
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T21:12:43+00:00
 Texto:
 mw13
@@ -120,7 +120,7 @@ Midia: MessageMediaDocument -> AI_Summarize_podcast_episode_and_enhance_using_Wi
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T21:12:27+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_4325_006.jpg
@@ -128,7 +128,7 @@ Midia: MessageMediaPhoto -> photo_4325_006.jpg
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T21:11:37+00:00
 Texto:
 mw13 - Resumo de episódio de podcast e enriquecimento com Wikipédia
@@ -136,7 +136,7 @@ mw13 - Resumo de episódio de podcast e enriquecimento com Wikipédia
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T21:11:28+00:00
 Texto:
 .
@@ -144,7 +144,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T21:11:27+00:00
 Texto:
 .
@@ -152,7 +152,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T21:11:27+00:00
 Texto:
 .
@@ -160,7 +160,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T21:11:27+00:00
 Texto:
 .
@@ -168,7 +168,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T21:11:27+00:00
 Texto:
 ..
@@ -176,7 +176,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T21:11:27+00:00
 Texto:
 .
@@ -184,7 +184,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T21:11:26+00:00
 Texto:
 .
@@ -192,7 +192,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T21:11:26+00:00
 Texto:
 1
@@ -200,7 +200,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T21:11:20+00:00
 Texto: [Sem texto]
 

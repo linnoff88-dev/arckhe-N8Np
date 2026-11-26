@@ -18,7 +18,7 @@ Ajuda muito! Poderia me dizer como fez?
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-28T04:30:35+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument
@@ -26,7 +26,7 @@ Midia: MessageMediaDocument
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-28T04:28:33+00:00
 Texto:
 https://app.heygen.com/share/08f3ea4f2b164cf88276a165e23efb2d
@@ -35,7 +35,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-28T04:28:25+00:00
 Texto:
 dublado em portugues
@@ -43,7 +43,7 @@ dublado em portugues
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T22:25:47+00:00
 Texto:
 "How to INSTANTLY Build An AI Agent Army in n8n with Claude"**
@@ -53,7 +53,7 @@ O vídeo ensina como criar uma "tropa de agentes de IA" no **n8n** usando **Clau
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T22:25:05+00:00
 Texto:
 https://www.youtube.com/watch?v=u2NluvotA80
@@ -62,7 +62,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T22:24:49+00:00
 Texto:
 "How to INSTANTLY Build An AI Agent Army in n8n with Claude"**
@@ -139,7 +139,7 @@ O vídeo ensina como criar uma "tropa de agentes de IA" no **n8n** usando **Clau
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T22:23:18+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Claude Project Prompt.txt
@@ -147,7 +147,7 @@ Midia: MessageMediaDocument -> Claude Project Prompt.txt
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T22:23:18+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Chat-based Prompt.txt
@@ -155,7 +155,7 @@ Midia: MessageMediaDocument -> Chat-based Prompt.txt
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T22:23:18+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> cheat_sheet_guide_final.txt
@@ -163,7 +163,7 @@ Midia: MessageMediaDocument -> cheat_sheet_guide_final.txt
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T22:23:02+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> chaoscoffee_agents.zip
@@ -171,7 +171,7 @@ Midia: MessageMediaDocument -> chaoscoffee_agents.zip
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T22:23:02+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> flexiflow_agents.zip
@@ -179,7 +179,7 @@ Midia: MessageMediaDocument -> flexiflow_agents.zip
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T22:23:02+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> petpal_agents.zip
@@ -187,7 +187,7 @@ Midia: MessageMediaDocument -> petpal_agents.zip
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T22:21:56+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> agent_tools.json
@@ -195,7 +195,7 @@ Midia: MessageMediaDocument -> agent_tools.json
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T22:21:42+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_8423_015.jpg
@@ -203,7 +203,7 @@ Midia: MessageMediaPhoto -> photo_8423_015.jpg
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T22:20:27+00:00
 Texto:
 m14 - Tropa de Agentes IA
@@ -211,7 +211,7 @@ m14 - Tropa de Agentes IA
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T22:20:25+00:00
 Texto:
 .
@@ -219,7 +219,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T22:20:25+00:00
 Texto:
 .
@@ -227,7 +227,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T22:20:25+00:00
 Texto:
 .
@@ -235,7 +235,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T22:20:25+00:00
 Texto:
 .
@@ -243,7 +243,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T22:20:23+00:00
 Texto:
 ,
@@ -251,7 +251,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T22:20:23+00:00
 Texto:
 https://chatgpt.com/c/683637a9-756c-8009-bf36-d2153c73f389
@@ -260,7 +260,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T22:20:23+00:00
 Texto:
 1
@@ -268,7 +268,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T22:20:18+00:00
 Texto: [Sem texto]
 

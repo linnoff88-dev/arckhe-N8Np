@@ -10,7 +10,7 @@ Midias baixadas: 3
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-02T22:52:38+00:00
 Texto:
 **Como usar agentes como ferramentas no N8N (versêo recente)
@@ -88,7 +88,7 @@ A funcionalidade de usar **agentes como ferramentas dentro de agentes** no N8N a
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-02T22:51:37+00:00
 Texto:
 ===============
@@ -96,7 +96,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-02T22:51:34+00:00
 Texto:
 **Novo recurso de agente como ferramenta do n8n --> Gerenciador de construçêo + agentes de funcionários**
@@ -121,7 +121,7 @@ as possibilidades arquitetônicas sêo vastas, mas a contençêo é fundamental
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-02T22:49:57+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Agents As Tools.json
@@ -129,7 +129,7 @@ Midia: MessageMediaDocument -> Agents As Tools.json
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-02T22:49:48+00:00
 Texto:
 fluxo juntamos em um so fluxo para demonstrar
@@ -137,7 +137,7 @@ fluxo juntamos em um so fluxo para demonstrar
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-02T22:49:24+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12192_006.jpg
@@ -145,7 +145,7 @@ Midia: MessageMediaPhoto -> photo_12192_006.jpg
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-02T22:47:53+00:00
 Texto:
 nm62 - Subagentes Dicas
@@ -153,7 +153,7 @@ nm62 - Subagentes Dicas
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-02T22:47:51+00:00
 Texto:
 .
@@ -161,7 +161,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-02T22:47:51+00:00
 Texto:
 .
@@ -169,7 +169,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-02T22:47:50+00:00
 Texto:
 .
@@ -177,7 +177,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-02T22:47:50+00:00
 Texto:
 .
@@ -185,7 +185,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-02T22:47:50+00:00
 Texto:
 https://chatgpt.com/c/688e93ff-75c8-8327-a3ac-735401779e35
@@ -194,7 +194,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-02T22:47:49+00:00
 Texto:
 1
@@ -202,7 +202,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-02T22:47:44+00:00
 Texto: [Sem texto]
 

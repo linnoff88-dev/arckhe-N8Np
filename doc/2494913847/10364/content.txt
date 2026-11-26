@@ -10,7 +10,7 @@ Midias baixadas: 4
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-24T02:29:35+00:00
 Texto:
 https://www.youtube.com/watch?v=H9_BwTnk6sc
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-23T23:02:51+00:00
 Texto:
 Para descobrir o seu **chat ID** no Telegram (necessário para o *Human-in-the-Loop* no n8n), siga este passo a passo simples:
@@ -71,7 +71,7 @@ Para descobrir o seu **chat ID** no Telegram (necessário para o *Human-in-the-L
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-23T21:45:00+00:00
 Texto:
 dublado
@@ -79,7 +79,7 @@ dublado
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-23T21:44:55+00:00
 Texto:
 https://www.youtube.com/watch?v=atohGpRYDw8
@@ -88,7 +88,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-23T21:44:20+00:00
 Texto:
 Aqui estêo **hacks e boas práticas** para otimizar seu fluxo *Human-in-the-Loop* com n8n, baseado no vídeo e nas melhores implementações:
@@ -197,7 +197,7 @@ Isso garante que você sempre tenha os dados certos para uso posterior.
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-23T21:43:27+00:00
 Texto:
 ===========
@@ -205,7 +205,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-23T21:43:24+00:00
 Texto:
 Aqui está o **passo a passo completo** para montar a automaçêo *Human-in-the-Loop* com **n8n**, conforme mostrado no vídeo:
@@ -357,7 +357,7 @@ O modelo pode ser adaptado para:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-23T21:42:49+00:00
 Texto:
 ==========
@@ -365,7 +365,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-23T21:42:44+00:00
 Texto:
 **Resumo “\[Free Template] Your AI Never Send a Bad Email Again – AI Replies with Human Approval”**
@@ -444,7 +444,7 @@ A automaçêo com IA no n8n usando o *Human-in-the-Loop* permite criar um fluxo 
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-23T21:41:50+00:00
 Texto:
 ==========
@@ -452,7 +452,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-23T21:41:42+00:00
 Texto:
 Email Agent
@@ -510,7 +510,7 @@ Please approve by replying small case 'ok'.
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-23T21:39:18+00:00
 Texto:
 Automaçêo de E-mails com Participaçêo Humana usando n8n |
@@ -522,7 +522,7 @@ Tutorial fundamental de n8n mostrando como usar o recurso "Human-in-the-Loop" pa
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-23T21:38:50+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> _Free_Template__Tutorial_28_3___Human_in_the_loop.json
@@ -530,7 +530,7 @@ Midia: MessageMediaDocument -> _Free_Template__Tutorial_28_3___Human_in_the_loop
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-23T21:38:34+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10372_014.jpg
@@ -538,7 +538,7 @@ Midia: MessageMediaPhoto -> photo_10372_014.jpg
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-23T21:38:30+00:00
 Texto:
 al44 - Human in the Loop  - Email
@@ -546,7 +546,7 @@ al44 - Human in the Loop  - Email
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-23T21:38:16+00:00
 Texto:
 .
@@ -554,7 +554,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-23T21:38:16+00:00
 Texto:
 .
@@ -562,7 +562,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-23T21:38:16+00:00
 Texto:
 .
@@ -570,7 +570,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-23T21:38:16+00:00
 Texto:
 .
@@ -578,7 +578,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-23T21:38:15+00:00
 Texto:
 .
@@ -586,7 +586,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-23T21:38:15+00:00
 Texto:
 1
@@ -594,7 +594,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-23T21:38:09+00:00
 Texto: [Sem texto]
 

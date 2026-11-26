@@ -10,7 +10,7 @@ Midias baixadas: 3
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T03:08:48+00:00
 Texto:
 **🛒 Chatbot Personal Shopper com RAG para WooCommerce**
@@ -125,7 +125,7 @@ Template JSON disponível para importaçêo no n8n.
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T03:07:12+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Personal_Shopper_Chatbot_for_WooCommerce_with_RAG_using_Google_Drive.txt
@@ -133,7 +133,7 @@ Midia: MessageMediaDocument -> Personal_Shopper_Chatbot_for_WooCommerce_with_RAG
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T03:07:04+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_4170_003.jpg
@@ -141,7 +141,7 @@ Midia: MessageMediaPhoto -> photo_4170_003.jpg
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T03:06:40+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_4169_004.jpg
@@ -149,7 +149,7 @@ Midia: MessageMediaPhoto -> photo_4169_004.jpg
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T03:05:39+00:00
 Texto:
 mw11 - **Personal Shopper Chatbot for WooCommerce with RAG**
@@ -157,7 +157,7 @@ mw11 - **Personal Shopper Chatbot for WooCommerce with RAG**
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T03:05:31+00:00
 Texto:
 .
@@ -165,7 +165,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T03:05:31+00:00
 Texto:
 .
@@ -173,7 +173,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T03:05:31+00:00
 Texto:
 .
@@ -181,7 +181,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T03:05:31+00:00
 Texto:
 ..
@@ -189,7 +189,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T03:05:31+00:00
 Texto:
 .
@@ -197,7 +197,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T03:05:30+00:00
 Texto:
 .
@@ -205,7 +205,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T03:05:30+00:00
 Texto:
 1
@@ -213,7 +213,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T03:05:25+00:00
 Texto: [Sem texto]
 

@@ -10,7 +10,7 @@ Midias baixadas: 6
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T03:03:08+00:00
 Texto:
 https://dev.runwayml.com
@@ -18,7 +18,7 @@ https://dev.runwayml.com
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T02:24:35+00:00
 Texto:
 https://imgbb.com/
@@ -27,7 +27,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T21:25:29+00:00
 Texto:
 https://www.youtube.com/watch?v=qV7xOEKEBDA
@@ -36,7 +36,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T21:24:29+00:00
 Texto:
 **Resumo: Da Foto Bruta ao Vídeo Profissional no n8n**
@@ -109,7 +109,7 @@ O vídeo ensina a criar um fluxo de automaçêo no n8n para transformar uma foto
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T21:24:17+00:00
 Texto:
 ===================
@@ -117,7 +117,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T21:23:59+00:00
 Texto:
 **Prompt de Fotografia de Produto**  
@@ -166,7 +166,7 @@ Nêo utilize efeitos chamativos, transições ou sobreposições — apenas uma 
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T21:23:51+00:00
 Texto:
 ================
@@ -174,7 +174,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T21:22:40+00:00
 Texto:
 De Foto Bruta a Vídeo de Estúdio em Minutos 
@@ -191,7 +191,7 @@ Vou te mostrar exatamente como construí o fluxo de trabalho, a lógica por trá
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T21:21:32+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Product Videography Prompts.pdf
@@ -199,7 +199,7 @@ Midia: MessageMediaDocument -> Product Videography Prompts.pdf
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T21:21:26+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Product_Videos.json
@@ -207,7 +207,7 @@ Midia: MessageMediaDocument -> Product_Videos.json
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T21:21:12+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6846_011.jpg
@@ -215,7 +215,7 @@ Midia: MessageMediaPhoto -> photo_6846_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T21:20:26+00:00
 Texto:
 ap18 - Foto Original Produto para Video Profissional
@@ -223,7 +223,7 @@ ap18 - Foto Original Produto para Video Profissional
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T21:20:23+00:00
 Texto:
 ......
@@ -231,7 +231,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T21:20:23+00:00
 Texto:
 ....
@@ -239,7 +239,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T21:20:23+00:00
 Texto:
 ...
@@ -247,7 +247,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T21:20:23+00:00
 Texto:
 ..
@@ -255,7 +255,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T21:20:23+00:00
 Texto:
 .
@@ -263,7 +263,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T21:20:22+00:00
 Texto:
 https://chatgpt.com/c/680ff021-2974-8009-8b9b-b916865d2b61
@@ -272,7 +272,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T21:20:21+00:00
 Texto:
 1
@@ -280,7 +280,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T21:20:18+00:00
 Texto: [Sem texto]
 

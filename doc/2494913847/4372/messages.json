@@ -1,7 +1,7 @@
 [
   {
     "id": 4508,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-31T23:27:50+00:00",
     "text": "",
     "has_media": true,
@@ -10,7 +10,7 @@
   },
   {
     "id": 4390,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-31T04:39:56+00:00",
     "text": "**Resumo Geral**\n\nO vídeo mostra como o autor criou, usando o **n8n**, um sistema de **pesquisa profunda com IA** capaz de gerar **relatórios em PDF com até 40 páginas**, organizados em capítulos e com todas as fontes linkadas. O custo por relatório fica em torno de **US$ 0,50**, superando ferramentas como Perplexity e ChatGPT gratuito em profundidade, personalizaçêo e custo-benefício.\n\n---\n\n**Etapas do Fluxo de Trabalho**\n\n1. **Formulário de Entrada**\n   - O usuário insere o tema da pesquisa e um e-mail.\n   - Ex: “Açúcar no café da manhê”.\n\n2. **Planejamento do Relatório**\n   - Um agente de IA divide o tema em **5 subtemas profundos**.\n   - Ex: efeitos do açúcar na glicemia, fontes ocultas de açúcar, comparações nutricionais etc.\n\n3. **Criaçêo da Estrutura**\n   - IA gera **título**, **introduçêo** e **capítulos** em HTML.\n   - Exemplo de título: *O Dilema do Açúcar no Café da Manhê: Impactos na Saúde e Bem-Estar.*\n\n4. **Pesquisa com Tavily**\n   - Para cada subtema, sêo feitas buscas com profundidade **\"avançada\"**, retornando **5 fontes confiáveis** por capítulo.\n   - Total de 25 fontes com **estudos e experimentos reais**.\n\n5. **Armazenamento no Google Sheets**\n   - Cada parte do conteúdo (fontes, seções, textos) é salva em abas organizadas.\n   - Isso facilita a geraçêo e formataçêo do PDF.\n\n6. **Geraçêo do Relatório Final**\n   - Montagem do **índice**, **conteúdo por capítulos** e **seçêo de fontes** (linkadas).\n   - Ex: Capítulo 1: Açúcar e Energia Matinal → com 5 seções e referências clicáveis.\n\n7. **Criaçêo do PDF**\n   - API usada: **API ****Template.io**.\n   - PDF é gerado a partir do HTML e enviado por e-mail via Gmail.\n\n---\n\n**Comparações e Resultados**\n\n- **Qualidade**: Relatório com linguagem refinada (modelo Claude 3.5 Sonnet).\n- **Quantidade**: Até 42 páginas.\n- **Custo**: Média de **US$ 0,50** por execuçêo completa.\n- **Tempo**: Cerca de **6 minutos**, podendo ser otimizado (paralelizaçêo dos capítulos).\n- **Exemplo real**: Tema \"Sono em Jovens Adultos\" gerou um relatório com seções como efeitos neurológicos, redes sociais, saúde mental etc.\n\n---\n\n**Ferramentas Usadas**\n\n- **n8n**: Orquestraçêo do fluxo completo.\n- **Tavily**: Coleta de conteúdo com profundidade configurável.\n- **Google Sheets**: Armazenamento e organizaçêo dos dados intermediários.\n- **API ****Template.io**: Conversêo de HTML para PDF.\n- **OpenRouter + Claude 3.5**: Escrita e análise de conteúdo.\n\n---\n\n**Limitações Atuais (V1)**\n\n1. **Execuçêo sequencial** dos capítulos (nêo paraleliza ainda).\n2. **Fontes numeradas manualmente**, o que limita dinamismo.\n3. Alterações em um ramo do fluxo precisam ser replicadas nos outros.\n\n---\n\n**Conclusêo**\n\nEsse fluxo é **uma alternativa poderosa ao Perplexity ou ao ChatGPT gratuito**, permitindo personalizaçêo, estrutura avançada e baixo custo. Ideal para quem deseja criar relatórios extensos com fontes confiáveis de forma automática.",
     "has_media": false,
@@ -18,7 +18,7 @@
   },
   {
     "id": 4389,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-31T04:36:49+00:00",
     "text": "[https://www.youtube.com/watch?v=TeFCb5-4e5U](https://www.youtube.com/watch?v=TeFCb5-4e5U)",
     "has_media": true,
@@ -26,7 +26,7 @@
   },
   {
     "id": 4385,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-31T04:31:19+00:00",
     "text": "Pesquisa Avançada que Supera Perplexity e OpenAI\n\nPara uma conversa mais profunda sobre como otimizar esse fluxo de trabalho, vamos conversar por aqui.\n\nComo construí o sistema de pesquisa com IA mais aprofundado no n8n — capaz de gerar relatórios de pesquisa detalhados com todas as fontes linkadas por apenas 0,50 dólares por relatório! 🚀\n\nVocê verá:  \n✅ Como o sistema coleta e analisa os dados  \n✅ Como ele compila um relatório de pesquisa em PDF  \n✅ Otimizações chave para torná-lo ainda mais eficiente  \n\nTudo o que você precisa para configurar esse fluxo de trabalho está no template anexado a esta publicaçêo!\n\n- Template do Google Sheets  \n- Tavily  \n- PDF API  \n- OpenRouter",
     "has_media": false,
@@ -34,7 +34,7 @@
   },
   {
     "id": 4384,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-31T04:30:33+00:00",
     "text": "https://openrouter.ai/settings/keys\n\nhttps://app.apitemplate.io/manage-api/\n\nhttps://app.tavily.com/home",
     "has_media": true,
@@ -42,7 +42,7 @@
   },
   {
     "id": 4383,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-31T04:29:30+00:00",
     "text": "",
     "has_media": true,
@@ -51,7 +51,7 @@
   },
   {
     "id": 4382,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-31T04:29:22+00:00",
     "text": "",
     "has_media": true,
@@ -60,7 +60,7 @@
   },
   {
     "id": 4381,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-31T04:29:22+00:00",
     "text": "ap11",
     "has_media": true,
@@ -69,7 +69,7 @@
   },
   {
     "id": 4380,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-31T04:28:57+00:00",
     "text": "ap11",
     "has_media": true,
@@ -78,7 +78,7 @@
   },
   {
     "id": 4379,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-31T04:28:43+00:00",
     "text": "",
     "has_media": true,
@@ -87,7 +87,7 @@
   },
   {
     "id": 4378,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-31T04:27:02+00:00",
     "text": "ap11 - Pesquisa Avançada Top",
     "has_media": false,
@@ -95,7 +95,7 @@
   },
   {
     "id": 4377,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-31T04:26:59+00:00",
     "text": ".",
     "has_media": false,
@@ -103,7 +103,7 @@
   },
   {
     "id": 4376,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-31T04:26:59+00:00",
     "text": ".",
     "has_media": false,
@@ -111,7 +111,7 @@
   },
   {
     "id": 4375,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-31T04:26:58+00:00",
     "text": ".",
     "has_media": false,
@@ -119,7 +119,7 @@
   },
   {
     "id": 4374,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-31T04:26:57+00:00",
     "text": "https://chatgpt.com/c/67ea15d4-abf8-8009-b24f-35c50d718ef5",
     "has_media": true,
@@ -127,7 +127,7 @@
   },
   {
     "id": 4373,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-31T04:26:57+00:00",
     "text": "1",
     "has_media": false,
@@ -135,7 +135,7 @@
   },
   {
     "id": 4372,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-31T04:26:50+00:00",
     "text": "",
     "has_media": false,

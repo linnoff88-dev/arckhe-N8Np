@@ -44,7 +44,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-18T02:58:06+00:00
 Texto:
 olha nas aulas aqui e tem um  topico de multiagente

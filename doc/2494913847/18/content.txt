@@ -166,7 +166,7 @@ Quando ativa o fluxo, ele vai ler o modo produçêo. Com isso tem que selecionar
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T22:26:31+00:00
 Texto:
 @C_Mataveli_TrilhadoGPT
@@ -174,7 +174,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T22:25:34+00:00
 Texto:
 Vamos ver se o @carlos ja passou por algo assim para ver q pode ser
@@ -222,7 +222,7 @@ Sim, mudei o link.
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T03:10:41+00:00
 Texto:
 qual erro?
@@ -279,7 +279,7 @@ Manda e-mail através de arquivos no drive?
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-09T23:33:23+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_2267_030.jpg
@@ -373,7 +373,7 @@ Arthur onde de onde vc baixou esse arquivo?
 ------------------------------
 
 MENSAGEM 41
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T01:57:06+00:00
 Texto:
 olha a credencial, pelo q informa o erro algo com tua credencial
@@ -443,7 +443,7 @@ Midia: MessageMediaPhoto -> photo_1548_047.jpg
 ------------------------------
 
 MENSAGEM 48
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T01:12:19+00:00
 Texto:
 mas ja coloquei outro agente hj ai é o j72n
@@ -451,7 +451,7 @@ mas ja coloquei outro agente hj ai é o j72n
 ------------------------------
 
 MENSAGEM 49
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T01:12:07+00:00
 Texto:
 eu nao organizei uma lista aqui ainda, mas sevo fazer logo. estou focando no make ate fim do  mes ai vou focar aqui. ok
@@ -662,7 +662,7 @@ irmêo, eu fiz uma migraçêo de carreira e vou listar como fiz para migrar comp
 
 Sou engenheiro civil de formaçêo e tinha uma serralheria. Fechei a serralheria e comecei a estudar automações, com a idéia parte do meu tempo dedicar para serviços de laudos e consultoria de engenharia e a outra parte do tempo trabalhar na migraçêo para automações e IA.
 
-Montei automações para o meu uso e para alguns conhecidos, enquanto compartilhava o aprendizado nas comunidades. Principalmente aqui no INEMA. Tem muita gente inserido na comunidade que está buscando profissional qualificado. Daí fui mostrando as coisas que sei fazer e foi aparecendo demanda.
+Montei automações para o meu uso e para alguns conhecidos, enquanto compartilhava o aprendizado nas comunidades. Principalmente aqui no ARCKHÉ. Tem muita gente inserido na comunidade que está buscando profissional qualificado. Daí fui mostrando as coisas que sei fazer e foi aparecendo demanda.
 
 Já com a base inicial de tempo que vou dedicar para implantaçêo, analisei o valor mínimo da hora técnica do serviço, estimando a quantidade de horas que iria gastar para implantar para o cliente. O valor mínimo da hora, considerei: esse serviço precisa assumir uma parte das contas de casa, pra no futuro ser a fonte de renda principal.
 
@@ -754,21 +754,21 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 82
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-11T19:18:26+00:00
 Texto: [Sem texto]
 
 ------------------------------
 
 MENSAGEM 83
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-03T17:34:18+00:00
 Texto: [Sem texto]
 
 ------------------------------
 
 MENSAGEM 84
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-03T17:18:57+00:00
 Texto:
 ### Caso Prático: Apify e Amazon com n8n 
@@ -856,7 +856,7 @@ Com este fluxo, é possível criar um sistema robusto de coleta e análise de da
 ------------------------------
 
 MENSAGEM 85
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-03T17:17:52+00:00
 Texto:
 ### Caso Prático: Apify e Amazon com n8n 
@@ -944,7 +944,7 @@ Com este fluxo, é possível criar um sistema robusto de coleta e análise de da
 ------------------------------
 
 MENSAGEM 86
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-03T17:13:13+00:00
 Texto:
 ### Integrações Avançadas no n8n 
@@ -1029,7 +1029,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 87
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-03T17:08:39+00:00
 Texto:
 ### Pontos Principais 
@@ -1095,7 +1095,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 88
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-03T17:04:02+00:00
 Texto:
 ### Introduçêo ao n8n 
@@ -1165,7 +1165,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 89
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-03T17:03:50+00:00
 Texto:
 6
@@ -1173,7 +1173,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 90
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-03T17:03:46+00:00
 Texto:
 5
@@ -1181,7 +1181,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 91
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-03T17:03:46+00:00
 Texto:
 4
@@ -1189,7 +1189,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 92
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-03T17:03:45+00:00
 Texto:
 3
@@ -1197,7 +1197,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 93
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-03T17:03:45+00:00
 Texto:
 2
@@ -1205,7 +1205,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 94
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-03T17:03:27+00:00
 Texto:
 1
@@ -1213,7 +1213,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 95
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-03T17:03:17+00:00
 Texto: [Sem texto]
 

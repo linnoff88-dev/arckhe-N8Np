@@ -10,7 +10,7 @@ Midias baixadas: 7
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T03:49:12+00:00
 Texto:
 Perfeito 👇 — aqui estêo os **principais *hacks* e atalhos práticos** que ele ensina no vídeo (direto ao ponto, sem enrolaçêo):
@@ -57,7 +57,7 @@ Perfeito 👇 — aqui estêo os **principais *hacks* e atalhos práticos** que 
   * “Oi, vi que você tentou falar com a Silvia, quer que ela te ligue agora?”
 * O botêo **“Ligue-me agora”** dispara outro webhook pro Rital → ligaçêo automática.
 
-💡 *Hack:* Sempre personalize com nome e contexto (“Oi, Joêo, aqui é a Silvia do Espaço Inema”).
+💡 *Hack:* Sempre personalize com nome e contexto (“Oi, Joêo, aqui é a Silvia do Espaço ARCKHÉ”).
 
 ---
 
@@ -109,7 +109,7 @@ Quer que eu te monte um **checklist prático em PDF** com todos esses *hacks* or
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T03:48:58+00:00
 Texto:
 ================
@@ -117,7 +117,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T03:48:55+00:00
 Texto:
 Aqui vai o **passo a passo direto** para instalar e colocar tudo pra funcionar 👇
@@ -208,7 +208,7 @@ Aqui vai o **passo a passo direto** para instalar e colocar tudo pra funcionar �
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T03:47:29+00:00
 Texto:
 ================
@@ -216,7 +216,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T03:47:26+00:00
 Texto:
 Aqui está o **fluxo explicado de forma direta e prática** 👇
@@ -286,7 +286,7 @@ Aqui está o **fluxo explicado de forma direta e prática** 👇
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T03:46:07+00:00
 Texto:
 =================
@@ -294,7 +294,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T03:46:05+00:00
 Texto:
 Aborda como conectar o **n8n** com **Wixim (ou HighLevel)** utilizando **webhooks**, **Zapier**, **Make** e **Rital** para criar automações e chatbots de voz.
@@ -398,7 +398,7 @@ Segue um resumo dividido por partes:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T03:45:44+00:00
 Texto:
 ===========
@@ -406,7 +406,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T03:40:56+00:00
 Texto:
 ===============
@@ -414,7 +414,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T03:40:50+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15170_010.jpg
@@ -422,7 +422,7 @@ Midia: MessageMediaPhoto -> photo_15170_010.jpg
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T03:40:04+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15169_011.jpg
@@ -430,7 +430,7 @@ Midia: MessageMediaPhoto -> photo_15169_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T03:39:25+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 1. Retell Outbound.json
@@ -438,7 +438,7 @@ Midia: MessageMediaDocument -> 1. Retell Outbound.json
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T03:39:25+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 2. Retell Inbound.json
@@ -446,7 +446,7 @@ Midia: MessageMediaDocument -> 2. Retell Inbound.json
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T03:38:06+00:00
 Texto:
 **e28. Chatbot de voz: Briefing automático**
@@ -454,7 +454,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T03:37:28+00:00
 Texto:
 ==============
@@ -462,7 +462,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T03:37:24+00:00
 Texto:
 e54. Chatbot de voz para qualificar seus leads
@@ -538,7 +538,7 @@ O objetivo é filtrar, qualificar e extrair o briefing de clientes potenciais de
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T03:36:21+00:00
 Texto:
 ================
@@ -546,7 +546,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T03:36:18+00:00
 Texto:
 Bot de voz que qualifica e converte por você 🤩
@@ -584,7 +584,7 @@ E uma oportunidade de ouro se você vende automações ou consultoria.
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T03:34:44+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15161_019.jpg
@@ -592,7 +592,7 @@ Midia: MessageMediaPhoto -> photo_15161_019.jpg
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T03:34:16+00:00
 Texto:
 e54. Chatbot de voz para Qualificar os LEADS
@@ -600,7 +600,7 @@ e54. Chatbot de voz para Qualificar os LEADS
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T03:34:15+00:00
 Texto:
 .
@@ -608,7 +608,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T03:34:15+00:00
 Texto:
 .
@@ -616,7 +616,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T03:34:15+00:00
 Texto:
 .
@@ -624,7 +624,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T03:34:14+00:00
 Texto:
 .
@@ -632,17 +632,17 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T03:34:14+00:00
 Texto:
 https://chatgpt.com/c/68f30d1c-0b10-8327-9a82-c1078806751e
-equipe inema
+equipe ARCKHÉ
 Midia: MessageMediaWebPage
 
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T03:34:14+00:00
 Texto:
 https://chatgpt.com/c/68f309ff-5c34-8330-984d-a3540cbc0630
@@ -651,7 +651,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T03:34:13+00:00
 Texto:
 1
@@ -659,7 +659,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T03:34:09+00:00
 Texto: [Sem texto]
 

@@ -10,14 +10,14 @@ Midias baixadas: 8
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-24T05:59:40+00:00
 Texto: [Sem texto]
 
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-24T05:43:01+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6369_002.jpg
@@ -25,7 +25,7 @@ Midia: MessageMediaPhoto -> photo_6369_002.jpg
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-24T02:16:13+00:00
 Texto:
 https://www.youtube.com/watch?v=ACkHpQQnfxQ
@@ -34,7 +34,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-24T02:14:55+00:00
 Texto:
 tem ter a versao 1.88 para ter supoorte ao mcp
@@ -42,7 +42,7 @@ tem ter a versao 1.88 para ter supoorte ao mcp
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-24T02:03:21+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6322_005.jpg
@@ -50,7 +50,7 @@ Midia: MessageMediaPhoto -> photo_6322_005.jpg
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-24T02:01:36+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> OpenAI_Image_Gen_LinkedIn_Post.json
@@ -58,7 +58,7 @@ Midia: MessageMediaDocument -> OpenAI_Image_Gen_LinkedIn_Post.json
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-24T02:01:30+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6320_007.jpg
@@ -66,7 +66,7 @@ Midia: MessageMediaPhoto -> photo_6320_007.jpg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-24T01:59:54+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Create_Image_API_s.json
@@ -74,7 +74,7 @@ Midia: MessageMediaDocument -> Create_Image_API_s.json
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-24T01:59:42+00:00
 Texto:
 Jx
@@ -83,7 +83,7 @@ Midia: MessageMediaPhoto -> photo_6318_009.jpg
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-24T01:59:13+00:00
 Texto:
 ap17- Imagem 4 GPT API OpenAI
@@ -91,7 +91,7 @@ ap17- Imagem 4 GPT API OpenAI
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-24T01:58:47+00:00
 Texto:
 .
@@ -99,7 +99,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-24T01:58:46+00:00
 Texto:
 ...
@@ -107,7 +107,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-24T01:58:46+00:00
 Texto:
 ..
@@ -115,7 +115,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-24T01:58:46+00:00
 Texto:
 .
@@ -123,7 +123,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-24T01:58:46+00:00
 Texto:
 ...
@@ -131,7 +131,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-24T01:58:45+00:00
 Texto:
 ..
@@ -139,7 +139,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-24T01:58:45+00:00
 Texto:
 .
@@ -147,7 +147,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-24T01:58:45+00:00
 Texto:
 ...
@@ -155,7 +155,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-24T01:58:45+00:00
 Texto:
 ..
@@ -163,7 +163,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-24T01:58:45+00:00
 Texto:
 .
@@ -171,7 +171,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-24T01:58:44+00:00
 Texto:
 https://chatgpt.com/c/68099c35-0aa4-8009-865d-fff2011e71fa
@@ -180,7 +180,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-24T01:58:44+00:00
 Texto:
 1
@@ -188,7 +188,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-24T01:58:38+00:00
 Texto: [Sem texto]
 

@@ -10,7 +10,7 @@ Midias baixadas: 2
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T22:49:40+00:00
 Texto:
 Aqui está um passo a passo completo com os motivos (porquês) de cada etapa para melhorar a memória do seu agente de IA no n8n usando PostgreSQL e Supabase:
@@ -124,7 +124,7 @@ Se quiser, posso criar um fluxograma visual, uma versêo para impressêo (PDF) o
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T22:49:31+00:00
 Texto:
 ==========
@@ -132,7 +132,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T22:48:48+00:00
 Texto:
 Resumo completo do vídeo **"Melhore a Memória do Seu Agente de IA no n8n Usando PostgreSQL e Supabase"**:
@@ -180,7 +180,7 @@ O vídeo mostra como **melhorar a memória de um agente de IA (via MCP)** usando
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T22:46:44+00:00
 Texto:
 https://www.youtube.com/watch?v=l0_lCTVBo4w
@@ -189,7 +189,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T22:45:00+00:00
 Texto:
 ..
@@ -197,7 +197,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T22:44:59+00:00
 Texto:
 .
@@ -205,7 +205,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T22:44:59+00:00
 Texto:
 .
@@ -213,7 +213,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T22:44:52+00:00
 Texto:
 c1  -  Memoria PostgreSQL e Supabase
@@ -221,7 +221,7 @@ c1  -  Memoria PostgreSQL e Supabase
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T22:44:50+00:00
 Texto:
 ..
@@ -229,7 +229,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T22:44:49+00:00
 Texto:
 .
@@ -237,7 +237,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T22:44:49+00:00
 Texto:
 ....
@@ -245,7 +245,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T22:44:49+00:00
 Texto:
 ...
@@ -253,7 +253,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T22:44:49+00:00
 Texto:
 ..
@@ -261,7 +261,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T22:44:48+00:00
 Texto:
 .
@@ -269,7 +269,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T22:44:48+00:00
 Texto:
 https://chatgpt.com/c/67eb1b6e-6400-8009-9ed2-b926ef5984f8
@@ -278,7 +278,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T22:44:48+00:00
 Texto:
 1
@@ -286,7 +286,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T22:44:39+00:00
 Texto: [Sem texto]
 

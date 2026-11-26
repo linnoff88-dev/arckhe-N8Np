@@ -26,7 +26,7 @@ Muito bom
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T03:05:20+00:00
 Texto:
 ============
@@ -34,7 +34,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T03:05:16+00:00
 Texto:
 ### 💡 Dicas e Hacks para Desenvolvimento da Automaçêo de Raspagem e Monitoramento de Preços   
@@ -85,7 +85,7 @@ Essas otimizações vêo garantir que sua automaçêo seja eficiente, segura e t
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T02:52:05+00:00
 Texto:
 ===============
@@ -93,7 +93,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T02:52:01+00:00
 Texto:
 🕵🏻‍♂️ e4n8n - Raspagem e Monitoramento de Preços   
@@ -163,7 +163,7 @@ Aprendemos a automatizar a raspagem e o monitoramento de preços de produtos, co
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T02:50:56+00:00
 Texto:
 ===
@@ -171,7 +171,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T02:50:51+00:00
 Texto:
 💎 Nova Automaçêo: Raspagem e Monitoramento de Preços   
@@ -191,7 +191,7 @@ Isso com N8N, scraping e inteligência artificial. 🔥
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T02:49:24+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Tracking_de_productos (1).json
@@ -199,7 +199,7 @@ Midia: MessageMediaDocument -> Tracking_de_productos (1).json
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T02:49:24+00:00
 Texto:
 e4n8n
@@ -208,7 +208,7 @@ Midia: MessageMediaDocument -> Perfumes competencia (hacer copia).xlsx
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T02:48:54+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_1532_011.jpg
@@ -216,7 +216,7 @@ Midia: MessageMediaPhoto -> photo_1532_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T02:48:38+00:00
 Texto:
 e4n8n - Raspagem e Monitoraçêo de Preços
@@ -224,7 +224,7 @@ e4n8n - Raspagem e Monitoraçêo de Preços
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T02:48:30+00:00
 Texto:
 .
@@ -232,7 +232,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T02:48:30+00:00
 Texto:
 .
@@ -240,7 +240,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T02:48:30+00:00
 Texto:
 .
@@ -248,7 +248,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T02:48:30+00:00
 Texto:
 ..
@@ -256,7 +256,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T02:48:29+00:00
 Texto:
 .
@@ -264,7 +264,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T02:48:29+00:00
 Texto:
 .
@@ -272,7 +272,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T02:48:29+00:00
 Texto:
 .
@@ -280,7 +280,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T02:48:29+00:00
 Texto:
 https://chatgpt.com/c/67aeacdc-8e7c-8009-b0f8-0ab0890131f5
@@ -289,7 +289,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T02:48:27+00:00
 Texto:
 1
@@ -297,7 +297,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-14T02:48:21+00:00
 Texto: [Sem texto]
 

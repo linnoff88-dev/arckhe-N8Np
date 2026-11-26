@@ -10,7 +10,7 @@ Midias baixadas: 2
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T07:49:22+00:00
 Texto:
 O **Outbound Lead Generator com Google Maps como Scraper** é uma ferramenta que automatiza a prospecçêo de leads B2B. Aqui está um resumo do que ela faz:
@@ -26,7 +26,7 @@ O **Outbound Lead Generator com Google Maps como Scraper** é uma ferramenta que
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T07:46:46+00:00
 Texto:
 ac1
@@ -35,7 +35,7 @@ Midia: MessageMediaDocument -> Outbound_Personalized_Email_Project.json
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T07:46:06+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_2552_003.jpg
@@ -43,7 +43,7 @@ Midia: MessageMediaPhoto -> photo_2552_003.jpg
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T07:42:56+00:00
 Texto:
 Raspagem - Scraping
@@ -51,7 +51,7 @@ Raspagem - Scraping
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T07:42:45+00:00
 Texto:
 ac1 - Outbound Lead Generator com Google Maps
@@ -59,7 +59,7 @@ ac1 - Outbound Lead Generator com Google Maps
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T07:42:44+00:00
 Texto:
 ..
@@ -67,7 +67,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T07:42:42+00:00
 Texto:
 .
@@ -75,7 +75,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T07:42:42+00:00
 Texto:
 .
@@ -83,7 +83,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T07:42:42+00:00
 Texto:
 .
@@ -91,7 +91,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T07:42:42+00:00
 Texto:
 .
@@ -99,7 +99,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T07:42:41+00:00
 Texto:
 .
@@ -107,7 +107,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T07:42:41+00:00
 Texto:
 1
@@ -115,7 +115,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T07:42:26+00:00
 Texto: [Sem texto]
 

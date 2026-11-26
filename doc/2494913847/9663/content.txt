@@ -10,7 +10,7 @@ Midias baixadas: 3
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T03:07:05+00:00
 Texto:
 Aqui está o **resumo completo em português** com **todos os passos listados e explicados** sobre como configurar o **Instagram com o Facebook Graph API** para automações no **n8n**, conforme o conteúdo do link:
@@ -124,7 +124,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T03:06:08+00:00
 Texto:
 =================
@@ -132,7 +132,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T03:02:58+00:00
 Texto:
 Click "Create App":
@@ -192,7 +192,7 @@ Paste the access token to "Access Token" and connect:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T03:01:38+00:00
 Texto:
 **Instagram Setup**
@@ -203,7 +203,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T03:01:31+00:00
 Texto:
 .
@@ -211,7 +211,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T03:01:31+00:00
 Texto:
 .
@@ -219,7 +219,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T03:01:31+00:00
 Texto:
 ..
@@ -227,7 +227,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T03:01:30+00:00
 Texto:
 .
@@ -235,7 +235,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T03:01:30+00:00
 Texto:
 https://chatgpt.com/c/684e3857-8848-8009-8f46-9098f68d2e6d
@@ -244,7 +244,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T03:01:29+00:00
 Texto:
 1
@@ -252,7 +252,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T03:01:24+00:00
 Texto: [Sem texto]
 

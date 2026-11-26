@@ -10,7 +10,7 @@ Midias baixadas: 8
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-12T02:42:20+00:00
 Texto:
 evoapicloud/evolution-api:latest
@@ -18,7 +18,7 @@ evoapicloud/evolution-api:latest
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-12T02:41:49+00:00
 Texto:
 tinha outra imagem
@@ -26,7 +26,7 @@ tinha outra imagem
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-12T02:41:41+00:00
 Texto:
 na pagina de servico
@@ -34,7 +34,7 @@ na pagina de servico
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-12T02:41:34+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12645_004.jpg
@@ -42,7 +42,7 @@ Midia: MessageMediaPhoto -> photo_12645_004.jpg
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-12T02:41:13+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12644_005.jpg
@@ -50,7 +50,7 @@ Midia: MessageMediaPhoto -> photo_12644_005.jpg
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-12T02:40:40+00:00
 Texto:
 olha eu tive este problema e atulizei para esta imagem
@@ -58,7 +58,7 @@ olha eu tive este problema e atulizei para esta imagem
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-12T02:40:20+00:00
 Texto:
 image: evoapicloud/evolution-api:latest
@@ -90,7 +90,7 @@ Esse é o problema amigo, nêo está gerando o QR code
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T20:30:41+00:00
 Texto:
 o qr code vc gerou no evolution? 
@@ -147,7 +147,7 @@ Isso aqui resolveu bem.. Show..
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:56:03+00:00
 Texto:
 IMPORTANTE: Atualizaçêo Evolution API
@@ -212,7 +212,7 @@ Dica : Se nêo for necessário manter versões antigas, utilize sempre a nova im
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:54:36+00:00
 Texto:
 ===========
@@ -220,7 +220,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:51:16+00:00
 Texto:
 ou pode comentar a linha e atualizar
@@ -228,7 +228,7 @@ ou pode comentar a linha e atualizar
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:51:09+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11912_021.jpg
@@ -236,7 +236,7 @@ Midia: MessageMediaPhoto -> photo_11912_021.jpg
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:50:16+00:00
 Texto:
 linha 26
@@ -244,7 +244,7 @@ linha 26
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:50:13+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11910_023.jpg
@@ -252,7 +252,7 @@ Midia: MessageMediaPhoto -> photo_11910_023.jpg
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:49:37+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11909_024.jpg
@@ -260,7 +260,7 @@ Midia: MessageMediaPhoto -> photo_11909_024.jpg
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:47:07+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11908_025.jpg
@@ -268,7 +268,7 @@ Midia: MessageMediaPhoto -> photo_11908_025.jpg
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:44:56+00:00
 Texto:
 tem atualizar
@@ -283,7 +283,7 @@ image: evoapiclaude/evolution-api:latest ## Versêo da Evolution API
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:43:20+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11906_027.jpg
@@ -291,7 +291,7 @@ Midia: MessageMediaPhoto -> photo_11906_027.jpg
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:42:45+00:00
 Texto:
 nm60 - Erro EvolutionAPI
@@ -299,7 +299,7 @@ nm60 - Erro EvolutionAPI
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:42:42+00:00
 Texto:
 .
@@ -307,7 +307,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:42:42+00:00
 Texto:
 .
@@ -315,7 +315,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:42:42+00:00
 Texto:
 .
@@ -323,7 +323,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 32
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:42:41+00:00
 Texto:
 https://chatgpt.com/c/6886f034-b5a8-8325-a023-1b4acbaa1012
@@ -332,7 +332,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 33
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:42:41+00:00
 Texto:
 1
@@ -340,7 +340,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 34
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:42:34+00:00
 Texto: [Sem texto]
 

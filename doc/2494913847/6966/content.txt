@@ -10,7 +10,7 @@ Midias baixadas: 4
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T22:44:42+00:00
 Texto:
 https://www.youtube.com/watch?v=HE0zxDdTCOo
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T22:44:21+00:00
 Texto:
 **Como Eu Construí um Agente de IA para Pesquisar Ideias de Vídeos no YouTube (Sem Código) - YouTube**
@@ -106,7 +106,7 @@ Este tutorial ensina como construir um **agente de IA sem código** para **pesqu
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T22:43:14+00:00
 Texto:
 als04 Pesquisar Ideias de Vídeos para o YouTube
@@ -118,7 +118,7 @@ Como pesquisar automaticamente ideias de vídeos em alta no YouTube usando um ag
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T22:42:41+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Template_5_2_How_I_Built_an_AI_Agent_to_Research_YouTube_Video_Ideas.json
@@ -126,7 +126,7 @@ Midia: MessageMediaDocument -> Template_5_2_How_I_Built_an_AI_Agent_to_Research_
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T22:42:20+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6977_005.jpg
@@ -134,7 +134,7 @@ Midia: MessageMediaPhoto -> photo_6977_005.jpg
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T22:38:32+00:00
 Texto:
 als04 - Ideias de Video no Youtube
@@ -142,7 +142,7 @@ als04 - Ideias de Video no Youtube
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T22:38:30+00:00
 Texto:
 ..
@@ -150,7 +150,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T22:38:30+00:00
 Texto:
 .
@@ -158,7 +158,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T22:38:30+00:00
 Texto:
 ..
@@ -166,7 +166,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T22:38:30+00:00
 Texto:
 .
@@ -174,7 +174,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T22:38:29+00:00
 Texto:
 .
@@ -182,7 +182,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T22:38:29+00:00
 Texto:
 .
@@ -190,7 +190,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T22:38:28+00:00
 Texto:
 https://chatgpt.com/c/681154fd-0634-8009-aac6-55270c6787a7
@@ -199,7 +199,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T22:38:27+00:00
 Texto:
 1
@@ -207,7 +207,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T22:38:22+00:00
 Texto: [Sem texto]
 

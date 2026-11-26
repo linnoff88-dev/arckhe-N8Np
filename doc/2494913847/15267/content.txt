@@ -10,7 +10,7 @@ Midias baixadas: 10
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-24T22:15:26+00:00
 Texto:
 nao tem videos
@@ -18,7 +18,7 @@ nao tem videos
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-24T22:15:13+00:00
 Texto:
 e55. Chatbot Pro com Banco de Dados Real
@@ -96,7 +96,7 @@ O objetivo é criar um sistema pronto para produçêo, nêo apenas um protótipo
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-24T22:12:30+00:00
 Texto:
 ===============
@@ -104,7 +104,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-24T22:12:27+00:00
 Texto:
 Arquitetura do Chatbot mais Profissional 🚀
@@ -124,7 +124,7 @@ Um chatbot com memória, banco de dados relacional e comportamento humano, proje
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-24T22:10:02+00:00
 Texto:
 ============
@@ -132,7 +132,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-24T22:09:48+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> chatbot_nutricionista.json
@@ -140,7 +140,7 @@ Midia: MessageMediaDocument -> chatbot_nutricionista.json
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-24T22:09:48+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> db_patient.json
@@ -148,7 +148,7 @@ Midia: MessageMediaDocument -> db_patient.json
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-24T22:09:48+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Envio Progrmados.json
@@ -156,7 +156,7 @@ Midia: MessageMediaDocument -> Envio Progrmados.json
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-24T22:09:48+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Tablas SQL Bot Nutricionista.txt
@@ -164,7 +164,7 @@ Midia: MessageMediaDocument -> Tablas SQL Bot Nutricionista.txt
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-24T22:08:53+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15282_010.jpg
@@ -172,7 +172,7 @@ Midia: MessageMediaPhoto -> photo_15282_010.jpg
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-24T22:08:16+00:00
 Texto:
 =============
@@ -180,7 +180,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-24T22:08:14+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15280_012.jpg
@@ -188,7 +188,7 @@ Midia: MessageMediaPhoto -> photo_15280_012.jpg
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-24T22:07:21+00:00
 Texto:
 =================
@@ -196,7 +196,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-24T22:07:17+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15278_014.jpg
@@ -204,7 +204,7 @@ Midia: MessageMediaPhoto -> photo_15278_014.jpg
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-24T22:06:58+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15277_015.jpg
@@ -212,7 +212,7 @@ Midia: MessageMediaPhoto -> photo_15277_015.jpg
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-24T22:06:10+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15276_016.jpg
@@ -220,7 +220,7 @@ Midia: MessageMediaPhoto -> photo_15276_016.jpg
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-24T22:05:15+00:00
 Texto:
 e55 - Chatbot PRO
@@ -228,7 +228,7 @@ e55 - Chatbot PRO
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-24T22:05:14+00:00
 Texto:
 .
@@ -236,7 +236,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-24T22:05:14+00:00
 Texto:
 .
@@ -244,7 +244,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-24T22:05:13+00:00
 Texto:
 .
@@ -252,7 +252,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-24T22:05:13+00:00
 Texto:
 .
@@ -260,7 +260,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-24T22:05:12+00:00
 Texto:
 .
@@ -268,7 +268,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-24T22:05:12+00:00
 Texto:
 https://chatgpt.com/c/68fbf561-634c-8328-b694-b90b9c4cc819
@@ -277,7 +277,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-24T22:05:11+00:00
 Texto:
 1
@@ -285,7 +285,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-24T22:05:07+00:00
 Texto: [Sem texto]
 

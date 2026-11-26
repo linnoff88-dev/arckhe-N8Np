@@ -21,7 +21,7 @@ MENSAGEM 2
 Autor: Tiza
 Data: 2025-11-09T00:12:02+00:00
 Texto:
-Esses links sêo somente a referência do inema.
+Esses links sêo somente a referência do ARCKHÉ.
 
 ------------------------------
 
@@ -34,7 +34,7 @@ Esse link nêo está funcionando
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-06T02:13:11+00:00
 Texto:
 estou trabalhando apra fazer versao 2.0 desta automacao para lidar com texto e voz em portugues
@@ -42,7 +42,7 @@ estou trabalhando apra fazer versao 2.0 desta automacao para lidar com texto e v
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-06T02:12:41+00:00
 Texto:
 ==================
@@ -50,7 +50,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-06T02:12:34+00:00
 Texto:
 a ideia é gerar, depois pode usar a ferramenta (outra automacao par pegar este contudo e promover,
@@ -61,12 +61,12 @@ MENSAGEM 7
 Autor: Mauricio
 Data: 2025-11-06T00:39:29+00:00
 Texto:
-@INEMAtds  mestre acredita que é possível adaptar esse para anúncios no meta ADS ? Conteúdo Instagram?
+@linnoff88-dev  mestre acredita que é possível adaptar esse para anúncios no meta ADS ? Conteúdo Instagram?
 
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-06T00:35:28+00:00
 Texto:
 https://platform.openai.com
@@ -75,7 +75,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-06T00:34:46+00:00
 Texto:
 https://openrouter.ai/settings/keys
@@ -83,7 +83,7 @@ https://openrouter.ai/settings/keys
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-06T00:34:32+00:00
 Texto:
 https://console.cloud.google.com/
@@ -91,7 +91,7 @@ https://console.cloud.google.com/
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-06T00:33:53+00:00
 Texto:
 https://kie.ai/api-key
@@ -100,7 +100,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-06T00:33:41+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15597_012.jpg
@@ -108,7 +108,7 @@ Midia: MessageMediaPhoto -> photo_15597_012.jpg
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-06T00:10:22+00:00
 Texto:
 este esta corrigido
@@ -116,7 +116,7 @@ este esta corrigido
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-06T00:10:16+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> UGC Ads Veo & Sora (4).json
@@ -124,7 +124,7 @@ Midia: MessageMediaDocument -> UGC Ads Veo & Sora (4).json
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T06:44:43+00:00
 Texto:
 dublado
@@ -132,7 +132,7 @@ dublado
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T06:44:39+00:00
 Texto:
 https://www.youtube.com/watch?v=AYsg5gAMWyo
@@ -141,7 +141,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T06:43:13+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15534_017.jpg
@@ -149,7 +149,7 @@ Midia: MessageMediaPhoto -> photo_15534_017.jpg
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T06:42:55+00:00
 Texto:
 **Resumo completo do vídeo “I Built the Ultimate UGC Content System with AI Agents (Free Template)”**
@@ -242,7 +242,7 @@ O autor prevê que, com a evoluçêo dos modelos (como **Sora 4 e Veo 4**), a qu
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T06:41:12+00:00
 Texto:
 ================
@@ -250,7 +250,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T06:40:50+00:00
 Texto:
 Construa o Sistema Definitivo de Conteúdo UGC com Agentes de IA
@@ -264,7 +264,7 @@ Esse modelo é totalmente gratuito e extremamente fácil de personalizar. À med
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T06:39:25+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> UGC Ads Veo & Sora.json
@@ -272,7 +272,7 @@ Midia: MessageMediaDocument -> UGC Ads Veo & Sora.json
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T06:39:25+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Copy of UGC Ads Veo & Sora.xlsx
@@ -280,7 +280,7 @@ Midia: MessageMediaDocument -> Copy of UGC Ads Veo & Sora.xlsx
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T06:39:11+00:00
 Texto:
 ap71 - UGC Ads Veo & Sora
@@ -288,7 +288,7 @@ ap71 - UGC Ads Veo & Sora
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T06:38:30+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15527_024.jpg
@@ -296,7 +296,7 @@ Midia: MessageMediaPhoto -> photo_15527_024.jpg
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T06:37:31+00:00
 Texto:
 ap71 - **Ultimate UGC Content System AI Agents**
@@ -304,7 +304,7 @@ ap71 - **Ultimate UGC Content System AI Agents**
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T06:37:30+00:00
 Texto:
 .
@@ -312,7 +312,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T06:37:29+00:00
 Texto:
 .
@@ -320,7 +320,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T06:37:29+00:00
 Texto:
 .
@@ -328,7 +328,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T06:37:29+00:00
 Texto:
 .
@@ -336,7 +336,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T06:37:29+00:00
 Texto:
 https://chatgpt.com/c/690aef78-5cac-832c-a09c-9e8d61a3f246
@@ -345,7 +345,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T06:37:28+00:00
 Texto:
 1
@@ -353,7 +353,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 32
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T06:37:21+00:00
 Texto: [Sem texto]
 

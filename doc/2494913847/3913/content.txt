@@ -10,7 +10,7 @@ Midias baixadas: 3
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-26T03:49:13+00:00
 Texto:
 https://www.youtube.com/watch?v=85qo6qC4r-0
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-26T03:48:38+00:00
 Texto:
 Entenda QUALQUER documento com Mistral OCR no n8n (passo a passo)"**
@@ -75,7 +75,7 @@ Com o **n8n + Mistral OCR**, você consegue montar **um fluxo automatizado de le
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-26T03:46:27+00:00
 Texto:
 **Entenda QUALQUER Documento com Mistral OCR no n8n (Passo a Passo)**
@@ -87,7 +87,7 @@ Usando o n8n com o Mistral OCR, você pode criar um sistema automatizado que ext
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-26T03:37:56+00:00
 Texto:
 ap10
@@ -96,7 +96,7 @@ Midia: MessageMediaDocument -> Mistral_OCR.json
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-26T03:37:43+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_3922_005.jpg
@@ -104,7 +104,7 @@ Midia: MessageMediaPhoto -> photo_3922_005.jpg
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-26T03:35:34+00:00
 Texto:
 ap10 - OCR com Mistral qq Doc
@@ -112,7 +112,7 @@ ap10 - OCR com Mistral qq Doc
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-26T03:35:33+00:00
 Texto:
 .
@@ -120,7 +120,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-26T03:35:31+00:00
 Texto:
 .
@@ -128,7 +128,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-26T03:35:31+00:00
 Texto:
 .
@@ -136,7 +136,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-26T03:35:31+00:00
 Texto:
 .
@@ -144,7 +144,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-26T03:35:30+00:00
 Texto:
 .
@@ -152,7 +152,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-26T03:35:30+00:00
 Texto:
 .
@@ -160,7 +160,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-26T03:35:30+00:00
 Texto:
 1
@@ -168,7 +168,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-26T03:35:20+00:00
 Texto: [Sem texto]
 

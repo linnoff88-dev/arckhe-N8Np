@@ -100,7 +100,7 @@
       "parameters": {
         "resource": "image",
         "model": "gpt-image-1",
-        "prompt": "=Base on context below a full body, low poly 3D rendered digital image of describe subject and pose with angular surfaces and sharp shadows, stylized like a video game cinematic or Unreal Engine cutscene. Subject should have exaggerated polygonal features, minimal facial detail, and clean, flat color shading:\n\n{{ $json.output.image }}",
+        "prompt": "=Base on context below a full body, low poly 3D rendered digital image of describe subject and pose with angular surfaces and sharp shadows, stylized like a video game cARCKHÉtic or Unreal Engine cutscene. Subject should have exaggerated polygonal features, minimal facial detail, and clean, flat color shading:\n\n{{ $json.output.image }}",
         "options": {
           "size": "1536x1024"
         }

@@ -10,7 +10,7 @@ Midias baixadas: 10
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-03T04:40:54+00:00
 Texto:
 https://www.youtube.com/watch?v=M0s6O8xtVUE
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-03T04:40:37+00:00
 Texto:
 Aqui estêo os **hacks e insights práticos**  (e que você pode aplicar no seu próprio fluxo):
@@ -109,7 +109,7 @@ Aqui estêo os **hacks e insights práticos**  (e que você pode aplicar no seu 
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-03T04:39:25+00:00
 Texto:
 ============
@@ -117,7 +117,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-03T04:39:22+00:00
 Texto:
 Aqui está o **passo a passo simplificado** para replicar o sistema de análise de currículos com IA no **n8n**:
@@ -243,7 +243,7 @@ Ative **“Download attachments”** para capturar arquivos anexados.
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-03T04:38:40+00:00
 Texto:
 ===============
@@ -251,7 +251,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-03T04:37:10+00:00
 Texto:
 Construçêo completa de um sistema inteligente de triagem de currículos com IA no **n8n**
@@ -293,7 +293,7 @@ Construçêo completa de um sistema inteligente de triagem de currículos com IA
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-03T04:36:19+00:00
 Texto:
 ========
@@ -301,7 +301,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-03T04:36:16+00:00
 Texto:
 Sistema de Análise de Currículos com IA
@@ -313,7 +313,7 @@ Ele nêo apenas gera uma pontuaçêo: também justifica cada classificaçêo com
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-03T04:35:05+00:00
 Texto:
 https://excalidraw.com/
@@ -322,7 +322,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-03T04:33:10+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10877_010.jpg
@@ -330,7 +330,7 @@ Midia: MessageMediaPhoto -> photo_10877_010.jpg
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-03T04:32:49+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Job Title_ AI Solutions Architect.txt
@@ -338,7 +338,7 @@ Midia: MessageMediaDocument -> Job Title_ AI Solutions Architect.txt
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-03T04:32:49+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Jordan Reeves Resume.docx
@@ -346,7 +346,7 @@ Midia: MessageMediaDocument -> Jordan Reeves Resume.docx
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-03T04:32:49+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Tara Lopez.pdf
@@ -354,7 +354,7 @@ Midia: MessageMediaDocument -> Tara Lopez.pdf
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-03T04:32:49+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Brian Chen.txt
@@ -362,7 +362,7 @@ Midia: MessageMediaDocument -> Brian Chen.txt
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-03T04:32:33+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Resume_Screening.json
@@ -370,7 +370,7 @@ Midia: MessageMediaDocument -> Resume_Screening.json
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-03T04:32:20+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10871_016.jpg
@@ -378,7 +378,7 @@ Midia: MessageMediaPhoto -> photo_10871_016.jpg
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-03T04:31:41+00:00
 Texto:
 ap40 - RH - Analise de Candidato
@@ -386,7 +386,7 @@ ap40 - RH - Analise de Candidato
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-03T04:31:39+00:00
 Texto:
 .
@@ -394,7 +394,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-03T04:31:39+00:00
 Texto:
 .
@@ -402,7 +402,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-03T04:31:39+00:00
 Texto:
 .
@@ -410,7 +410,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-03T04:31:39+00:00
 Texto:
 .
@@ -418,7 +418,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-03T04:31:38+00:00
 Texto:
 .
@@ -426,7 +426,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-03T04:31:38+00:00
 Texto:
 https://chatgpt.com/c/686604de-9eec-8009-b3ec-315188c0416f
@@ -435,7 +435,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-03T04:31:38+00:00
 Texto:
 1
@@ -443,7 +443,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-03T04:31:34+00:00
 Texto: [Sem texto]
 

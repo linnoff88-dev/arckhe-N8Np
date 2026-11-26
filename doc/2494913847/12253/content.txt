@@ -10,16 +10,16 @@ Midias baixadas: 5
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T00:05:29+00:00
 Texto:
-https://chatgpt.com/g/g-688c56775eb48191babbb8929dc8611b-inema-ec8
+https://chatgpt.com/g/g-688c56775eb48191babbb8929dc8611b-ARCKHÉ-ec8
 Midia: MessageMediaWebPage
 
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T00:05:03+00:00
 Texto:
 quero fazer uma automacao da minha ong de pets
@@ -36,7 +36,7 @@ tudo deve ser compative e so quero os arquivo json prontos , melhor se for em um
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T00:05:01+00:00
 Texto:
 prompt Inicial
@@ -44,7 +44,7 @@ prompt Inicial
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T00:04:02+00:00
 Texto:
 [instruçêo master]
@@ -120,7 +120,7 @@ use os modelos de exemplo
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T00:03:59+00:00
 Texto:
 prompt de criacao FASE 3
@@ -128,7 +128,7 @@ prompt de criacao FASE 3
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T00:01:17+00:00
 Texto:
 https://apps.abacus.ai/chatllm/?appId=9acf57f3e&convoId=de278a876
@@ -137,7 +137,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T00:00:56+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> ONG_Pets_Workflow (2).json
@@ -145,7 +145,7 @@ Midia: MessageMediaDocument -> ONG_Pets_Workflow (2).json
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T00:00:47+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12266_008.jpg
@@ -153,7 +153,7 @@ Midia: MessageMediaPhoto -> photo_12266_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T00:00:20+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12265_009.jpg
@@ -161,7 +161,7 @@ Midia: MessageMediaPhoto -> photo_12265_009.jpg
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T00:00:14+00:00
 Texto:
 nm64 - Abacus - ONG Pets - Vibe Code
@@ -169,7 +169,7 @@ nm64 - Abacus - ONG Pets - Vibe Code
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T00:00:12+00:00
 Texto:
 .
@@ -177,7 +177,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T00:00:10+00:00
 Texto:
 .
@@ -185,7 +185,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T00:00:08+00:00
 Texto:
 .
@@ -193,7 +193,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T00:00:07+00:00
 Texto:
 .
@@ -201,7 +201,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-05T23:59:57+00:00
 Texto:
 ...
@@ -209,7 +209,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-05T23:59:56+00:00
 Texto:
 ..
@@ -217,7 +217,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-05T23:59:56+00:00
 Texto:
 .
@@ -225,7 +225,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-05T23:59:55+00:00
 Texto:
 1..
@@ -233,7 +233,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-05T23:59:55+00:00
 Texto:
 1.
@@ -241,7 +241,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-05T23:59:54+00:00
 Texto:
 1
@@ -249,7 +249,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-05T23:59:49+00:00
 Texto: [Sem texto]
 

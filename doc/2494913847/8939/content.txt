@@ -10,7 +10,7 @@ Midias baixadas: 5
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T02:12:55+00:00
 Texto:
 Aqui está o **passo a passo direto** para criar o bot de tarefas com n8n, Telegram, OpenAI (Whisper) e Airtable:
@@ -124,7 +124,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T02:12:29+00:00
 Texto:
 -=================
@@ -132,7 +132,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T02:12:25+00:00
 Texto:
 **Resumo completo do tutorial: Bot de Gerenciamento de Tarefas com n8n e Telegram**
@@ -218,7 +218,7 @@ Esse projeto mostra como usar **n8n + Telegram + OpenAI + Airtable** para criar 
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T02:11:24+00:00
 Texto:
 =======
@@ -226,7 +226,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T02:10:15+00:00
 Texto:
 **Para iniciantes!**
@@ -238,7 +238,7 @@ Também como usar o modelo Whisper da OpenAI para processar arquivos de áudio.
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T02:09:39+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Creating an n8n-based Telegram Bot for Task Management (1).pdf
@@ -246,7 +246,7 @@ Midia: MessageMediaDocument -> Creating an n8n-based Telegram Bot for Task Manag
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T02:09:33+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Task_Management_Demo.json
@@ -254,7 +254,7 @@ Midia: MessageMediaDocument -> Task_Management_Demo.json
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T02:09:29+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_8948_008.jpg
@@ -262,7 +262,7 @@ Midia: MessageMediaPhoto -> photo_8948_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T02:06:57+00:00
 Texto:
 mt02 - Gerenciador de Tarefas no Telegram
@@ -270,7 +270,7 @@ mt02 - Gerenciador de Tarefas no Telegram
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T02:06:56+00:00
 Texto:
 .
@@ -278,7 +278,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T02:06:55+00:00
 Texto:
 .
@@ -286,7 +286,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T02:06:55+00:00
 Texto:
 ..
@@ -294,7 +294,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T02:06:55+00:00
 Texto:
 .
@@ -302,7 +302,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T02:06:55+00:00
 Texto:
 .
@@ -310,7 +310,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T02:06:54+00:00
 Texto:
 https://chatgpt.com/c/6844f023-0a5c-8009-89a4-856d1d784f32
@@ -319,7 +319,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T02:06:54+00:00
 Texto:
 1
@@ -327,7 +327,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T02:06:47+00:00
 Texto: [Sem texto]
 

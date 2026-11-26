@@ -10,7 +10,7 @@ Midias baixadas: 8
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-03T05:44:16+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> todo.md
@@ -18,7 +18,7 @@ Midia: MessageMediaDocument -> todo.md
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-03T05:44:10+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Documentaçêo - Fluxo ONG Castraçêo Central (n8n v1.104.2).md
@@ -26,7 +26,7 @@ Midia: MessageMediaDocument -> Documentaçêo - Fluxo ONG Castraçêo Central (n
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-03T05:42:54+00:00
 Texto:
 **🎯 Estrutura Implementada:
@@ -58,7 +58,7 @@ Todas as conexões mapeadas ✅
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-03T05:41:43+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12216_004.jpg
@@ -66,7 +66,7 @@ Midia: MessageMediaPhoto -> photo_12216_004.jpg
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-03T05:40:56+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> pasted_content (3).txt
@@ -74,7 +74,7 @@ Midia: MessageMediaDocument -> pasted_content (3).txt
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-03T05:40:27+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> exemplos-tecnicos (1).md
@@ -82,7 +82,7 @@ Midia: MessageMediaDocument -> exemplos-tecnicos (1).md
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-03T05:40:27+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> modelos-json (1).zip
@@ -90,7 +90,7 @@ Midia: MessageMediaDocument -> modelos-json (1).zip
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-03T05:38:51+00:00
 Texto:
 Original feito pelo manus, alguns errinhos mas foi direto e rapido
@@ -98,7 +98,7 @@ Original feito pelo manus, alguns errinhos mas foi direto e rapido
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-03T05:38:22+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> nm63 - ONG Pets - Vibe Code Manus.json
@@ -106,7 +106,7 @@ Midia: MessageMediaDocument -> nm63 - ONG Pets - Vibe Code Manus.json
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-03T05:37:09+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12210_010.jpg
@@ -114,7 +114,7 @@ Midia: MessageMediaPhoto -> photo_12210_010.jpg
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-03T05:36:47+00:00
 Texto:
 nm63 - ONG Pets - Vibe Code Manus
@@ -122,7 +122,7 @@ nm63 - ONG Pets - Vibe Code Manus
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-03T05:36:46+00:00
 Texto:
 .
@@ -130,7 +130,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-03T05:36:46+00:00
 Texto:
 .
@@ -138,7 +138,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-03T05:36:45+00:00
 Texto:
 .
@@ -146,7 +146,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-03T05:36:45+00:00
 Texto:
 .
@@ -154,7 +154,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-03T05:36:45+00:00
 Texto:
 .
@@ -162,7 +162,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-03T05:36:44+00:00
 Texto:
 .
@@ -170,7 +170,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-03T05:36:44+00:00
 Texto:
 1
@@ -178,7 +178,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-03T05:36:38+00:00
 Texto: [Sem texto]
 

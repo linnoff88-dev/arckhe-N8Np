@@ -6,9 +6,9 @@
 </div>
 
 
-[![MkDocs](https://img.shields.io/badge/docs-mkdocs-blue)](https://inematds.github.io/N8Np/)
+[![MkDocs](https://img.shields.io/badge/docs-mkdocs-blue)](https://linnoff88-dev.github.io/arckhe-/)
 [![Material for MkDocs](https://img.shields.io/badge/theme-material-00C7B7)](https://squidfunk.github.io/mkdocs-material/)
-[![Workflows](https://img.shields.io/badge/workflows-532-success)](https://inematds.github.io/N8Np/workflows/)
+[![Workflows](https://img.shields.io/badge/workflows-532-success)](https://linnoff88-dev.github.io/arckhe-/workflows/)
 [![License](https://img.shields.io/badge/license-Community-orange)](LICENSE)
 
 > Biblioteca completa de workflows n8n, AI agents e automaêÂ§êÂµes da comunidade N8Np
@@ -23,7 +23,7 @@
 
 ## ê°Å¸ÅÂ Acesse o Site
 
-ê°Å¸ââ° **[https://inematds.github.io/N8Np/](https://inematds.github.io/N8Np/)**
+ê°Å¸ââ° **[https://linnoff88-dev.github.io/arckhe-/](https://linnoff88-dev.github.io/arckhe-/)**
 
 Site de documentaêÂ§êÂ£o completo com:
 - ê°Å¸âÂ Busca inteligente
@@ -34,7 +34,7 @@ Site de documentaêÂ§êÂ£o completo com:
 
 ## ê°Å¸Å½Â¯ Categorias
 
-### ê°Å¸Â¤â [AI Agents](https://inematds.github.io/N8Np/workflows/ai-agents/)
+### ê°Å¸Â¤â [AI Agents](https://linnoff88-dev.github.io/arckhe-/workflows/ai-agents/)
 Agentes inteligentes com LLMs (GPT-4, Claude, etc), RAG pipelines, chatbots e sistemas HITL
 
 **Destaques:**
@@ -43,7 +43,7 @@ Agentes inteligentes com LLMs (GPT-4, Claude, etc), RAG pipelines, chatbots e si
 - RAG Workflow vs RAG Agent
 - Voice Email Agent
 
-### ê°Å¸ââ [AutomaêÂ§êÂµes](https://inematds.github.io/N8Np/workflows/automations/)
+### ê°Å¸ââ [AutomaêÂ§êÂµes](https://linnoff88-dev.github.io/arckhe-/workflows/automations/)
 Workflows para automatizar processos empresariais
 
 **Destaques:**
@@ -52,7 +52,7 @@ Workflows para automatizar processos empresariais
 - Invoice Processing
 - WhatsApp Agent
 
-### ê°Å¸âºÂ ê¯Â¸Â [IntegraêÂ§êÂµes](https://inematds.github.io/N8Np/workflows/integrations/)
+### ê°Å¸âºÂ ê¯Â¸Â [IntegraêÂ§êÂµes](https://linnoff88-dev.github.io/arckhe-/workflows/integrations/)
 Conectores com serviêÂ§os populares
 
 **DisponêÂ­veis:**
@@ -61,18 +61,18 @@ Conectores com serviêÂ§os populares
 - OpenAI, Perplexity
 - Airtable, Firecrawl, Apify
 
-### ê°Å¸âÅ¡ [Curso Completo](https://inematds.github.io/N8Np/curso/)
+### ê°Å¸âÅ¡ [Curso Completo](https://linnoff88-dev.github.io/arckhe-/curso/)
 "The Ultimate n8n Course" com 23 liêÂ§êÂµes progressivas
 
 ## ê°Å¸Å¡â¬ Como Usar
 
 ### Acessar Online
-Visite: [https://inematds.github.io/N8Np/](https://inematds.github.io/N8Np/)
+Visite: [https://linnoff88-dev.github.io/arckhe-/](https://linnoff88-dev.github.io/arckhe-/)
 
 ### Rodar Localmente
 ```bash
 # Clonar repositêÂ³rio
-git clone https://github.com/inematds/N8Np.git
+git clone https://github.com/linnoff88-dev/N8Np.git
 cd N8Np
 
 # Instalar dependêÂªncias
@@ -162,8 +162,8 @@ Workflow que gera mêÂºsicas com PiAPI e envia para Google Drive automaticam
 ## ê°Å¸âÅ¾ Comunidade
 
 - ê°Å¸âÂ¬ [Telegram](https://t.me/n8np) - Comunidade N8Np
-- ê°Å¸ÅÂ [Site](https://inematds.github.io/N8Np/) - DocumentaêÂ§êÂ£o oficial
-- ê°Å¸âÂ§ Email: inematds@gmail.com
+- ê°Å¸ÅÂ [Site](https://linnoff88-dev.github.io/arckhe-/) - DocumentaêÂ§êÂ£o oficial
+- ê°Å¸âÂ§ Email: linnoff88-dev@gmail.com
 
 ## ê°Å¸ââ License
 
@@ -177,9 +177,9 @@ ConteêÂºdo compartilhado pela comunidade N8Np para uso educacional.
 </p>
 
 <p align="center">
-  <a href="https://inematds.github.io/N8Np/">ê°Å¸ÅÂ Visite o Site</a> ê¢â¬Â¢
-  <a href="https://inematds.github.io/N8Np/workflows/">ê°Å¸âÂ Ver Workflows</a> ê¢â¬Â¢
-  <a href="https://inematds.github.io/N8Np/curso/">ê°Å¸âÅ¡ Fazer Curso</a>
+  <a href="https://linnoff88-dev.github.io/arckhe-/">ê°Å¸ÅÂ Visite o Site</a> ê¢â¬Â¢
+  <a href="https://linnoff88-dev.github.io/arckhe-/workflows/">ê°Å¸âÂ Ver Workflows</a> ê¢â¬Â¢
+  <a href="https://linnoff88-dev.github.io/arckhe-/curso/">ê°Å¸âÅ¡ Fazer Curso</a>
 </p>
 
 ---

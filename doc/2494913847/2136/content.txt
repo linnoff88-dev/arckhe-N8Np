@@ -13,12 +13,12 @@ MENSAGEM 1
 Autor: gringo
 Data: 2025-03-11T20:50:14+00:00
 Texto:
-https://t.me/INEMAMembroBot?start=cd7cbdeb0e99a416dae091b7c857808cb
+https://t.me/ARCKHÉMembroBot?start=cd7cbdeb0e99a416dae091b7c857808cb
 
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-07T17:55:09+00:00
 Texto:
 https://www.youtube.com/watch?v=yVWxewfLjac
@@ -27,7 +27,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-07T17:53:35+00:00
 Texto:
 ==============
@@ -35,7 +35,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-07T17:53:31+00:00
 Texto:
 **“+ Add Node”** e pesquise por **"Gmail"** (ou Outlook, se preferir).  
@@ -85,7 +85,7 @@ Depois que o processo for concluído, precisamos enviar uma resposta de volta ao
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-07T17:53:31+00:00
 Texto:
 ### **Passo a Passo Detalhado para Criar o Agente de Voz no n8n**  
@@ -186,7 +186,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-07T17:50:51+00:00
 Texto:
 ===============
@@ -194,7 +194,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-07T17:50:47+00:00
 Texto:
 ### **Passo a Passo para Criar um Agente de Voz no ElevenLabs**  
@@ -259,7 +259,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-07T17:49:18+00:00
 Texto:
 ===========
@@ -267,7 +267,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-07T17:49:16+00:00
 Texto:
 mas tem solucoes mais baratas q tenho falado
@@ -275,7 +275,7 @@ mas tem solucoes mais baratas q tenho falado
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-07T17:48:58+00:00
 Texto:
 =====
@@ -283,7 +283,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-07T17:48:54+00:00
 Texto:
 O vídeo menciona **o valor e o custo** do agente de voz criado com **n8n e ElevenLabs**.  
@@ -303,7 +303,7 @@ O vídeo menciona **o valor e o custo** do agente de voz criado com **n8n e Elev
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-07T17:40:13+00:00
 Texto:
 ===========
@@ -311,7 +311,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-07T17:40:07+00:00
 Texto:
 ### **Tópicos abordados no vídeo: Como Criar Agentes de Voz com IA (50% Mais Barato)**  
@@ -357,7 +357,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-07T17:39:02+00:00
 Texto:
 =======
@@ -365,7 +365,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-07T17:38:59+00:00
 Texto:
 ### **Como Criar Agentes de Voz com IA (50% Mais Barato)**  
@@ -396,22 +396,22 @@ Neste vídeo, você aprende a construir **agentes de voz realistas usando n8n e 
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-07T17:34:32+00:00
 Texto:
 ### 🏗️ Construa Agentes de Voz com n8n + ElevenLabs  
 
 💡 Ferramentas Essenciais:  
 🔥 **n8n**: [Automaçêo avançada sem código](https://n8n.io/)  
-🔮 **Loveable**: [Plataforma para automações](https://lovable.dev/?via=inematds) (*)  
-👾 **Codepen**: [Explore tendências de código](https://codepen.io/trending?cursor=inematds)  
-🌍 **Eleven Labs**: [Conversêo de texto em voz realista](https://elevenlabs.io/?from=inematds)
+🔮 **Loveable**: [Plataforma para automações](https://lovable.dev/?via=linnoff88-dev) (*)  
+👾 **Codepen**: [Explore tendências de código](https://codepen.io/trending?cursor=linnoff88-dev)  
+🌍 **Eleven Labs**: [Conversêo de texto em voz realista](https://elevenlabs.io/?from=linnoff88-dev)
 Midia: MessageMediaWebPage
 
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-07T17:33:18+00:00
 Texto:
 Como Criar Agentes de Voz com IA Realista (3X Mais Rápido)
@@ -424,7 +424,7 @@ Como Criar Agentes de Voz com IA Realista (3X Mais Rápido)
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-07T17:32:24+00:00
 Texto:
 j78n8
@@ -433,7 +433,7 @@ Midia: MessageMediaDocument -> ____Build_Voice_Agents_with_n8n___Elevenlabs (2).
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-07T17:32:09+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_2144_019.jpg
@@ -441,7 +441,7 @@ Midia: MessageMediaPhoto -> photo_2144_019.jpg
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-07T17:31:41+00:00
 Texto:
 j78n8 - Voz Realisticas com Elevenlabs
@@ -449,7 +449,7 @@ j78n8 - Voz Realisticas com Elevenlabs
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-07T17:31:38+00:00
 Texto:
 .
@@ -457,7 +457,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-07T17:31:38+00:00
 Texto:
 .
@@ -465,7 +465,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-07T17:31:36+00:00
 Texto:
 ..
@@ -473,7 +473,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-07T17:31:36+00:00
 Texto:
 .
@@ -481,7 +481,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-07T17:31:36+00:00
 Texto:
 https://chatgpt.com/c/67cb2c10-ce1c-8009-80b6-ce39010251aa
@@ -490,7 +490,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-07T17:31:35+00:00
 Texto:
 1
@@ -498,7 +498,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-07T17:31:27+00:00
 Texto: [Sem texto]
 

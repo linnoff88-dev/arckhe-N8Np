@@ -10,7 +10,7 @@ Midias baixadas: 1
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T02:15:24+00:00
 Texto:
 o ap9 tem um exemplo disso
@@ -18,7 +18,7 @@ o ap9 tem um exemplo disso
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T02:14:48+00:00
 Texto:
 Se usar HTTP POST
@@ -30,7 +30,7 @@ Bearer SUA_CHAVE_API"
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T02:13:43+00:00
 Texto:
 https://console.mistral.ai/api-keys
@@ -38,7 +38,7 @@ https://console.mistral.ai/api-keys
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T02:13:33+00:00
 Texto:
 .
@@ -46,7 +46,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T02:13:31+00:00
 Texto:
 ..
@@ -54,7 +54,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T02:13:31+00:00
 Texto:
 .
@@ -62,7 +62,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T02:13:31+00:00
 Texto:
 .
@@ -70,7 +70,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T02:13:31+00:00
 Texto:
 .
@@ -78,7 +78,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T02:13:31+00:00
 Texto:
 https://chatgpt.com/c/67e1dc17-e278-8009-bf74-9faba6f78f47
@@ -87,7 +87,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T02:13:30+00:00
 Texto:
 11
@@ -95,7 +95,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T02:12:58+00:00
 Texto: [Sem texto]
 

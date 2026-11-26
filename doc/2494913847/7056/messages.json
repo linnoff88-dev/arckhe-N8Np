@@ -1,7 +1,7 @@
 [
   {
     "id": 7070,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-01T03:54:17+00:00",
     "text": "https://www.youtube.com/watch?v=VSJAAKd-S_Q",
     "has_media": true,
@@ -9,7 +9,7 @@
   },
   {
     "id": 7069,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-01T03:54:04+00:00",
     "text": "### Objetivo do Agente de IA\nAutomatizar a pesquisa de palavras-chave de SEO e a criaçêo de conteúdo otimizado, usando **n8n**, **Exa.ai** e **OpenAI**, sem necessidade de programaçêo.\n\n---\n\n### Ferramentas Utilizadas\n- **n8n**: Orquestraçêo dos fluxos de trabalho.\n- **OpenAI**: Geraçêo e reformulaçêo de conteúdo.\n- **Exa.ai**: Busca dos 10 melhores resultados da web para cada palavra-chave.\n- **Google Sheets**: Entrada e saída de dados (palavras-chave, conteúdos, campanhas).\n  \n---\n\n### Workflow 1 – Pesquisa Automatizada de Palavras-Chave\n\n**Objetivo**: Gerar ideias de palavras-chave a partir de uma palavra-chave semente.\n\n**Passos:**\n1. Verifica diariamente no Google Sheets novas palavras-chave sementes.\n2. Usa o Google Suggest para obter sugestões automáticas.\n3. Formata as sugestões de XML para JSON.\n4. Limpa, organiza e insere as palavras-chave geradas na **coluna B** do Google Sheets.\n\n**Exemplo**:\n- Palavra-chave semente: `AI Automation`\n- Resultado: variações e sugestões como `AI automation tools`, `AI automation jobs`, etc.\n\n---\n\n### Workflow 2 – Reformulaçêo e Criaçêo de Conteúdo SEO\n\n**Objetivo**: Reutilizar conteúdo de alta performance e criar material SEO original.\n\n**Passos:**\n1. Dispara diariamente o processo com base nas palavras-chave da planilha.\n2. Usa o Exa.ai para buscar os 10 melhores artigos sobre o tema.\n3. Usa o OpenAI para:\n   - Resumir os principais pontos dos artigos.\n   - Criar novo conteúdo original e amigável para SEO.\n   - Traduzir automaticamente para **inglês** e **chinês**, se necessário.\n4. Salva o conteúdo gerado na **coluna C** do Google Sheets.\n\n**Exemplo**:\n- Campanha: `AI Tech News This Week`\n- Público: `Empreendedores`\n- Saída: Artigo otimizado sobre as últimas novidades em IA.\n\n---\n\n### Casos em Múltiplos Idiomas\n- O processo foi testado com palavras-chave em **inglês** e **chinês**, mostrando a flexibilidade do sistema multilingue.\n- Exemplo: palavra-chave `teeth whitening` → conteúdo gerado em chinês para jovens.\n\n---\n\n### Dicas Incríveis do Vídeo\n- Pode-se automatizar *todo o funil de SEO* sem escrever código.\n- A combinaçêo **n8n + OpenAI + ****Exa.ai** gera insights prontos para blogs, campanhas ou redes sociais.\n- Pode ser adaptado a qualquer nicho: saúde, tecnologia, beleza, educaçêo, etc.\n\n---\n\n### Conclusêo\nEsse sistema:\n- Economiza horas de pesquisa manual.\n- Gera conteúdo original e otimizado.\n- Funciona em múltiplos idiomas.\n- É ideal para quem quer escalar produçêo de conteúdo com consistência e relevância.",
     "has_media": false,
@@ -17,7 +17,7 @@
   },
   {
     "id": 7068,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-01T03:53:14+00:00",
     "text": "Um agente de IA para automatizar a pesquisa de SEO e a criaçêo de conteúdo (100% automatizado)\n\nAcabei de fazer um tutorial mostrando como automatizar a pesquisa de palavras-chave de SEO e o reaproveitamento de conteúdo usando n8n, Exa.ai e OpenAI - sem necessidade de codificaçêo! \n\nEsses fluxos de trabalho baseados em IA ajudam você a gerar palavras-chave, analisar conteúdo de alto nível e otimizar artigos sem esforço.",
     "has_media": false,
@@ -25,7 +25,7 @@
   },
   {
     "id": 7067,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-01T03:51:51+00:00",
     "text": "",
     "has_media": true,
@@ -34,7 +34,7 @@
   },
   {
     "id": 7066,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-01T03:51:44+00:00",
     "text": "",
     "has_media": true,
@@ -43,7 +43,7 @@
   },
   {
     "id": 7065,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-01T03:51:34+00:00",
     "text": "",
     "has_media": true,
@@ -52,7 +52,7 @@
   },
   {
     "id": 7064,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-01T03:50:16+00:00",
     "text": "**als01-Automatize a pesquisa de SEO e a criaçêo de conteúdo**",
     "has_media": false,
@@ -60,7 +60,7 @@
   },
   {
     "id": 7063,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-01T03:50:14+00:00",
     "text": ".",
     "has_media": false,
@@ -68,7 +68,7 @@
   },
   {
     "id": 7062,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-01T03:50:14+00:00",
     "text": "..",
     "has_media": false,
@@ -76,7 +76,7 @@
   },
   {
     "id": 7061,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-01T03:50:13+00:00",
     "text": ".",
     "has_media": false,
@@ -84,7 +84,7 @@
   },
   {
     "id": 7060,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-01T03:50:13+00:00",
     "text": "..",
     "has_media": false,
@@ -92,7 +92,7 @@
   },
   {
     "id": 7059,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-01T03:50:13+00:00",
     "text": ".",
     "has_media": false,
@@ -100,7 +100,7 @@
   },
   {
     "id": 7058,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-01T03:50:13+00:00",
     "text": ".",
     "has_media": false,
@@ -108,7 +108,7 @@
   },
   {
     "id": 7057,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-01T03:50:12+00:00",
     "text": "**1**",
     "has_media": false,
@@ -116,7 +116,7 @@
   },
   {
     "id": 7056,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-01T03:50:01+00:00",
     "text": "",
     "has_media": false,

@@ -1,7 +1,7 @@
 [
   {
     "id": 6214,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-22T22:12:36+00:00",
     "text": "Logger`.\n8. Cuidar para o logger nêo ter erros internos.\n9. Facilita manutençêo e análise de múltiplos fluxos.\n10. Pode ser usado para dezenas de workflows diferentes com **1 único logger**.",
     "has_media": false,
@@ -9,7 +9,7 @@
   },
   {
     "id": 6213,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-22T22:12:35+00:00",
     "text": "### Resumo Geral:\nO vídeo ensina como criar um **fluxo de tratamento centralizado de erros no n8n**. A ideia é que qualquer workflow ativo que apresentar erro, dispare um **workflow específico de captura de erro**, que registra o erro em uma **planilha do Google Sheets** e envia uma **notificaçêo por Slack ou e-mail**. É possível associar esse fluxo de erro a múltiplos workflows.\n\n---\n\n### Passo a Passo com Exemplos\n\n1. **Criar Workflow de Teste com Erro**\n   - Configure um fluxo com um trigger (ex: Telegram).\n   - Adicione uma açêo que pode falhar propositalmente (ex: modelo de chat sem configuraçêo).\n   - Ative esse fluxo.\n\n   *Exemplo:* \n   - Workflow: “Ultimate Assistant”\n   - Trigger: Telegram\n   - Erro proposital: remover modelo de chat\n\n2. **Criar Workflow de Tratamento de Erro (Error Logger)**\n   - Crie novo fluxo chamado `Error Logger`.\n   - Primeiro nó: `Error Trigger` (nêo precisa configurar nada).\n\n   *Esse nó escuta qualquer erro de fluxo ativo vinculado a ele.*\n\n3. **Vincular Workflow Principal ao Workflow de Erro**\n   - Vá nas configurações do workflow principal.\n   - Configure o campo “Error Workflow” com o nome do fluxo `Error Logger`.\n\n   *Assim, sempre que o workflow principal falhar, o n8n executa automaticamente o workflow de erro.*\n\n4. **Registrar o erro em uma Planilha Google**\n   - Adicione o nó “Google Sheets”.\n   - Açêo: `Append Row`.\n   - Configure colunas para:\n     - Timestamp (`{{$now}}` com formataçêo opcional)\n     - Nome do Workflow\n     - URL do Workflow\n     - Nome do Node que causou erro\n     - Mensagem do Erro\n\n   *Exemplo de planilha:*\n   ```   | Timestamp           | Workflow Name       | URL                                | Node              | Error Message                          |\n   |---------------------|---------------------|-------------------------------------|-------------------|----------------------------------------|\n   | 2025-04-22 18:20:33 | Ultimate Assistant  | https://n8n.io/workflow/1234...     | ChatModel         | Chat model subnode must be connected.  |\n   ```\n\n5. N**otificaçêo por Slack (ou e-mail)\n**   - Adicione o nó “Slack” com açêo “Send Message”.\n   - Configure o canal (ex: #errors).\n   - Monte a mensagem com expressões:\n      ```    Workflow Error: {{$json[\"workflow\"][\"name\"]}}\n     Node: {{$json[\"node\"][\"name\"]}}\n     Time: {{$now}}\n     Message: {{$json[\"error\"][\"message\"]}}\n     [Ver execuçêo]({{$json[\"workflow\"][\"url\"]}})\n     \n```   - Desative a opçêo “Include link to workflow” para evitar o texto padrêo do n8n.\n\n6. Ex**emplo de Disparo Real\n **  - Enviar mensagem “Hey” no Telegram.\n   - Com erro proposital (sem modelo de chat), o workflow principal falha.\n   - O Er`ror Logger é` ativado automaticamente.\n   - Uma nova linha aparece na planilha.\n   - Notificaçêo aparece no Slack.\n\n7. Er**ros que NêO Disparam o Workflow de Erro\n **  - Se o fluxo executa “verde” mas internamente algo falha (ex: API sem autenticaçêo), nê**o será tratado como erro pelo n8n.\n**   - Para esses casos, seria necessário capturar a falha manualmente (ex: checando resposta da API).\n\n8. Er**ro proposital para testar\n **  - Alterar uma variável mal intencionadamente (ex: se`ssionIDD e`m vez de `sessionID`).\n   - Executar novamente.\n   - Verificaçêo: linha na planilha + notificaçêo no Slack com detalhes atualizados.\n\n9. Li**mitações e Cuidados\n **  - O próprio workflow de erro (`Error Logger`) raramente deve falhar, já que apenas lê dados e os insere.\n   - Caso falhe com frequência, é sinal de problemas mais profundos (ex: autenticaçêo, excesso de lógica complexa).\n\n---\n\n### Conclusêo\nEsse método:\n- Centraliza o tratamento de erros.\n- Facilita o debug com link direto à execuçêo.\n- Ajuda a manter registros para análise posterior.\n\n---\n\n### Tópicos Resumidos em Lista\n\n1. Criar workflow com erro proposital.\n2. Criar workflow de erro com nó Er`ror Trigger.\n`3. Ativar e vincular workflow principal ao Er`ror Logger.\n`4. Logar dados em Google Sheets.\n5. Enviar notificaçêo via Slack ou outro canal.\n6. Testar com erro real.\n7. Entender quando o erro nê**o d**ispara o `Error",
     "has_media": false,
@@ -17,7 +17,7 @@
   },
   {
     "id": 6212,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-22T22:12:17+00:00",
     "text": "==============",
     "has_media": false,
@@ -25,7 +25,7 @@
   },
   {
     "id": 6209,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-22T21:50:40+00:00",
     "text": "dublado em portugues",
     "has_media": false,
@@ -33,7 +33,7 @@
   },
   {
     "id": 6208,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-22T21:50:32+00:00",
     "text": "https://www.youtube.com/watch?v=bTF3tACqPRU",
     "has_media": true,
@@ -41,7 +41,7 @@
   },
   {
     "id": 6207,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-22T21:50:08+00:00",
     "text": ",",
     "has_media": false,
@@ -49,7 +49,7 @@
   },
   {
     "id": 6206,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-22T21:50:07+00:00",
     "text": ",",
     "has_media": false,
@@ -57,7 +57,7 @@
   },
   {
     "id": 6205,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-22T21:49:03+00:00",
     "text": "Resumo direto em tópicos:\n\n- Criar um fluxo chamado `Error Logger` com o nó `Error Trigger`.\n- Vincular esse fluxo a todos os workflows ativos que deseja monitorar (em *Settings > Error Workflow*).\n- Quando qualquer workflow falhar, o `Error Logger` é acionado automaticamente.\n- O logger registra os erros em uma planilha Google Sheets (timestamp, nome do workflow, nó, mensagem e link).\n- Envia também uma notificaçêo no Slack com os mesmos dados.\n- Só erros que “quebram” o fluxo (executam em vermelho) disparam o logger.\n- Ideal para centralizar e automatizar o controle de falhas em projetos com múltiplos fluxos.",
     "has_media": false,
@@ -65,7 +65,7 @@
   },
   {
     "id": 6203,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-22T21:40:22+00:00",
     "text": "",
     "has_media": true,
@@ -74,7 +74,7 @@
   },
   {
     "id": 6202,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-22T21:40:16+00:00",
     "text": "",
     "has_media": true,
@@ -83,7 +83,7 @@
   },
   {
     "id": 6201,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-22T21:39:27+00:00",
     "text": "",
     "has_media": true,
@@ -92,7 +92,7 @@
   },
   {
     "id": 6200,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-22T21:38:49+00:00",
     "text": "",
     "has_media": true,
@@ -101,7 +101,7 @@
   },
   {
     "id": 6199,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-22T21:38:20+00:00",
     "text": "",
     "has_media": true,
@@ -110,7 +110,7 @@
   },
   {
     "id": 6198,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-22T21:37:43+00:00",
     "text": "Controle de Error Fluxo",
     "has_media": false,
@@ -118,7 +118,7 @@
   },
   {
     "id": 6197,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-22T21:37:40+00:00",
     "text": "........",
     "has_media": false,
@@ -126,7 +126,7 @@
   },
   {
     "id": 6196,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-22T21:37:40+00:00",
     "text": "......",
     "has_media": false,
@@ -134,7 +134,7 @@
   },
   {
     "id": 6195,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-22T21:37:39+00:00",
     "text": ".....",
     "has_media": false,
@@ -142,7 +142,7 @@
   },
   {
     "id": 6194,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-22T21:37:39+00:00",
     "text": "....",
     "has_media": false,
@@ -150,7 +150,7 @@
   },
   {
     "id": 6193,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-22T21:37:39+00:00",
     "text": "..",
     "has_media": false,
@@ -158,7 +158,7 @@
   },
   {
     "id": 6192,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-22T21:37:39+00:00",
     "text": ".",
     "has_media": false,
@@ -166,7 +166,7 @@
   },
   {
     "id": 6191,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-22T21:37:39+00:00",
     "text": "https://chatgpt.com/c/68080dee-9e90-8009-8771-f5107e7d0592",
     "has_media": true,
@@ -174,7 +174,7 @@
   },
   {
     "id": 6190,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-22T21:37:38+00:00",
     "text": "1",
     "has_media": false,
@@ -182,7 +182,7 @@
   },
   {
     "id": 6189,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-22T21:37:34+00:00",
     "text": "",
     "has_media": false,

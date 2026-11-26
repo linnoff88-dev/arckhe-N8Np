@@ -34,7 +34,7 @@ como encaixar isso para um perfil amigo
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:38:29+00:00
 Texto:
 tem ver q ia voce esta falando? pois aqui o topico fala de cobrar, forma de fazer o preco do servicos de uma Automaçêo
@@ -50,7 +50,7 @@ eu quero criar uma que atue assim na gringa eu gostei muito da ideia de implemen
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-21T05:17:17+00:00
 Texto:
 nao entendi tua pergunta
@@ -66,14 +66,14 @@ como começar ?
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T08:40:56+00:00
 Texto: [Sem texto]
 
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T08:32:20+00:00
 Texto:
 Exemplos
@@ -82,7 +82,7 @@ Midia: MessageMediaDocument -> Proposal for Client.pdf
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T08:32:20+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Pricing.pdf
@@ -90,7 +90,7 @@ Midia: MessageMediaDocument -> Pricing.pdf
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T08:31:39+00:00
 Texto:
 Temos enfrentado desafios semelhantes de precificaçêo no mercado europeu e, após comparar diferentes abordagens, gostaria de compartilhar nossos insights e modelo ajustado.  
@@ -125,7 +125,7 @@ Por isso, em vez de um único preço para "automaçêo", estruturamos assim:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T08:31:33+00:00
 Texto:
 ,
@@ -133,7 +133,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T08:31:32+00:00
 Texto:
 ,,
@@ -141,7 +141,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T08:31:31+00:00
 Texto:
 Como Cobrar por Serviços de Automaçêo
@@ -149,7 +149,7 @@ Como Cobrar por Serviços de Automaçêo
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T08:31:31+00:00
 Texto:
 ,,
@@ -157,7 +157,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T08:31:31+00:00
 Texto:
 ,
@@ -165,7 +165,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T08:31:31+00:00
 Texto:
 ,
@@ -173,7 +173,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T08:31:31+00:00
 Texto:
 ,
@@ -181,7 +181,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T08:31:30+00:00
 Texto:
 ,
@@ -189,7 +189,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T08:31:27+00:00
 Texto:
 https://chatgpt.com/c/67cea2e2-8dc0-8009-aa4f-3c6fd3e24409
@@ -198,7 +198,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T08:31:27+00:00
 Texto:
 1
@@ -206,7 +206,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T08:31:21+00:00
 Texto: [Sem texto]
 

@@ -1,7 +1,7 @@
 [
   {
     "id": 8027,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-20T17:50:43+00:00",
     "text": "https://www.youtube.com/watch?v=llm60n03x3c",
     "has_media": true,
@@ -9,7 +9,7 @@
   },
   {
     "id": 8026,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-20T17:49:20+00:00",
     "text": "A seguir, um resumo completo do vídeo \"How to Automate Your AI Clone with No Code (HeyGen + n8n Full Guide)\" com tópicos e exemplos:\n\n\nVisêo Geral e Objetivo\n• O vídeo apresenta um tutorial de como criar um clone virtual (avatar) no HeyGen para automatizar a criaçêo de conteúdos.\n• O apresentador demonstra como criar o avatar e a clonagem da voz, integrando o sistema com o n8n para execuçêo de fluxos de trabalho sem código.\n\n\nCriaçêo do Avatar no HeyGen\n• Passo a passo para se cadastrar e iniciar o uso do plano gratuito do HeyGen.\n• É necessário enviar de 2 a 5 minutos de filmagem onde o usuário aparece olhando para a câmera, utilizando gestos e expressões naturais para que o sistema possa gerar o avatar e clonar a voz.\n• Exemplo: O apresentador grava cerca de 30 segundos e uma mensagem de permissêo, resultando na criaçêo do avatar “Nate Herk”.\n\n\nConfiguraçêo da Integraçêo via API\n• Explicaçêo de como utilizar a API do HeyGen para criar vídeos com o avatar.\n• Uso de um fluxo de trabalho no n8n com nodes HTTP para enviar requisições ao servidor do HeyGen.\n• O processo requer a configuraçêo do cabeçalho de autenticaçêo com o API key (utilizando o header “X-api-”).\n• Exemplo: Copiar o comando curl fornecido na documentaçêo do HeyGen para importar a requisiçêo no n8n e configurar os dados no corpo da requisiçêo, incluindo o avatar ID e o voice ID.\n\n\nObtençêo dos IDs Necessários\n• O avatar ID e o voice ID podem ser obtidos diretamente na plataforma do HeyGen clicando em “copy avatar ID” ou “get voice ID”.\n• Alternativamente, é possível usar endpoints da API para listar os avatares e vozes disponíveis e selecionar os respectivos IDs dinamicamente.\n• Exemplo: Após configurar o node HTTP com a requisiçêo para “listar avatares”, o sistema retorna uma lista, onde é possível copiar o ID do avatar criado.\n\n\nGeraçêo e Verificaçêo do Vídeo\n• Envio do script para que o avatar gere o vídeo: o sistema retorna um vídeo ID ao iniciar o processo.\n• Uso de um segundo node HTTP para consultar o status do vídeo através do vídeo ID, verificando se o status é “completed”.\n• Se o vídeo nêo estiver pronto, o fluxo de trabalho inclui um node de espera (wait node) e uma estrutura de repetiçêo (polling) até que o status mude para “completed”.\n• Exemplo: Inicialmente, o status pode ser “waiting” ou “processing”; o sistema espera (primeiro 30 segundos e depois intervalos menores) e refaz a consulta até confirmar a conclusêo.\n\n\nAutomaçêo do Conteúdo\n• O processo permite automatizar a criaçêo de vídeos com scripts dinâmicos.\n• É possível integrar outros serviços, como scraping de conteúdos (ex.: apify para coletar o texto do “Morning Brew”) e converter esses dados em scripts curtos que o avatar lerá.\n• Exemplo: Um fluxo diário pode ser agendado para que, toda manhê, o sistema busque as notícias, converta o texto em um script e gere um vídeo, elevando o volume de conteúdos produzidos (potencial “10x” a produçêo de conteúdo).\n\n\nRecursos Complementares e Comunidade\n• O apresentador disponibiliza um modelo (template) em JSON para importar a configuraçêo completa no n8n, bastando substituir os IDs e o texto conforme necessário.\n• O vídeo também menciona a possibilidade de participar de uma comunidade gratuita e de uma comunidade paga para aprender mais sobre automações, com acesso a chamadas ao vivo, Q&A e tutoriais complementares.\n\n\nEste resumo abrange os principais passos e exemplos demonstrados no tutorial: desde a criaçêo do avatar com o HeyGen, a integraçêo via API utilizando o n8n, a implementaçêo do polling para verificaçêo do status do vídeo até a automaçêo do conteúdo com scripts dinâmicos e a oferta de recursos e modelos para facilitar a replicaçêo do processo.",
     "has_media": false,
@@ -17,7 +17,7 @@
   },
   {
     "id": 8025,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-20T17:49:11+00:00",
     "text": ".",
     "has_media": false,
@@ -25,7 +25,7 @@
   },
   {
     "id": 8024,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-20T17:49:11+00:00",
     "text": ".",
     "has_media": false,
@@ -33,7 +33,7 @@
   },
   {
     "id": 8023,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-20T17:49:11+00:00",
     "text": ".",
     "has_media": false,
@@ -41,7 +41,7 @@
   },
   {
     "id": 8022,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-20T17:49:10+00:00",
     "text": "**Resumo do vídeo \"How to Automate Your AI Clone with No Code (HeyGen + n8n Full Guide)\"**\n\nAutomatizar a criaçêo de vídeos com avatar e voz clonados usando **HeyGen** e **n8n**, sem precisar programar. A ideia é criar conteúdo automaticamente a partir de um script (manual ou gerado com IA) e deixá-lo disponível para uso diário, como vídeos de notícias, tendências ou mensagens personalizadas.\n\n**Passo a passo do processo:**\n\n1. **Criaçêo do Avatar no HeyGen**\n\n   * Gravar 30 segundos a 2 minutos de vídeo olhando para a câmera.\n   * Falar com expressividade e naturalidade.\n   * Enviar uma mensagem de permissêo.\n   * Após processamento, o avatar estará pronto e poderá ser acessado via API.\n\n2. **Clonagem de voz**\n\n   * Pode ser feito pelo HeyGen automaticamente ou importar uma voz já clonada (ex: ElevenLabs).\n   * O sistema gera um ID exclusivo para o avatar e outro para a voz.\n\n3. **Integraçêo com n8n**\n\n   * Criar um workflow no n8n com os seguintes passos:\n\n     * **HTTP Request 1:** Enviar script, avatar ID e voice ID para a API do HeyGen usando o endpoint de criaçêo de vídeo.\n     * **HTTP Request 2:** Consultar o status do vídeo com base no vídeo ID retornado.\n     * **Loop com Wait + IF:** Aguardar o vídeo ser processado (status: `waiting`, depois `processing`, até `completed`).\n     * Após a finalizaçêo, o vídeo pode ser usado, baixado ou publicado.\n\n4. **Automaçêo com conteúdo dinâmico**\n\n   * Exemplo prático: usar Apify para raspar conteúdo diário (ex: Morning Brew).\n   * Transformar esse conteúdo em script com IA.\n   * Enviar automaticamente esse script para o avatar criar um vídeo diário.\n\n5. **Dicas técnicas**\n\n   * Usar `Header Auth` no n8n com chave da API HeyGen (campo `X-API-Key`).\n   * Usar endpoints para listar todos os avatares e vozes para obter os IDs.\n   * Reutilizar as credenciais salvas no n8n para facilitar chamadas futuras.\n   * Exportar e importar o template pronto em JSON para facilitar replicações.\n\n6. **Exemplo de uso prático**\n\n   * Publicaçêo automatizada de vídeos curtos diariamente com temas atuais.\n   * Substituiçêo de vídeos manuais por produçêo automática.\n   * Geraçêo de vídeos a partir de scraping e IA, como: notícias, tendências do TikTok, mensagens motivacionais, etc.\n\n7. **Recursos adicionais**\n\n   * O autor disponibiliza o JSON do fluxo no Skool (comunidade gratuita).\n   * Oferece também uma comunidade paga com cursos como “Agent Zero” e “10 horas para 10 segundos”.\n\n**Exemplos de aplicaçêo prática:**\n\n* Avatar lê notícias diárias automaticamente.\n* Produçêo de vídeos para redes sociais com 0 intervençêo manual.\n* Criaçêo de avatares empresariais ou educacionais para responder perguntas frequentes.\n\n**Resumo dos tópicos:**\n\n* Criar avatar e voz no HeyGen\n* Obter ID do avatar e da voz\n* Conectar API do HeyGen no n8n\n* Configurar requests para criar e verificar vídeos\n* Automatizar com scraping + geraçêo de script\n* Usar polling com wait + if\n* Testar, ajustar e importar/exportar templates\n* Escalar produçêo de vídeos com IA",
     "has_media": false,
@@ -49,7 +49,7 @@
   },
   {
     "id": 8021,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-20T17:49:08+00:00",
     "text": "1",
     "has_media": false,
@@ -57,7 +57,7 @@
   },
   {
     "id": 8020,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-20T17:46:45+00:00",
     "text": "**Como automatizar seu clone de IA sem código\n (Guia completo HeyGen + n8n)\n**\nComo criar seu próprio avatar clone de IA usando o HeyGen e, em seguida, automatizar completamente todo o processo com o n8n, sem escrever uma única linha de código. \n\nEste guia passo a passo explica tudo, desde a configuraçêo do seu avatar até a automatizaçêo dos vídeos no n8n.\n\nSeja você um criador, empreendedor ou apenas explorando o mundo da automaçêo de IA, este tutorial foi projetado para ser super simples e fácil de usar para iniciantes. \n\nAo final, você terá um avatar de IA no qual poderá inserir scripts para multiplicar seu conteúdo por 10!",
     "has_media": false,
@@ -65,7 +65,7 @@
   },
   {
     "id": 8019,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-20T17:45:57+00:00",
     "text": "",
     "has_media": true,
@@ -74,7 +74,7 @@
   },
   {
     "id": 8018,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-20T17:44:09+00:00",
     "text": "",
     "has_media": true,
@@ -83,7 +83,7 @@
   },
   {
     "id": 8017,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-20T17:44:05+00:00",
     "text": ".",
     "has_media": false,
@@ -91,7 +91,7 @@
   },
   {
     "id": 8016,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-20T17:44:05+00:00",
     "text": "ap27 - Avatares Heygen",
     "has_media": false,
@@ -99,7 +99,7 @@
   },
   {
     "id": 8015,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-20T17:44:05+00:00",
     "text": ".",
     "has_media": false,
@@ -107,7 +107,7 @@
   },
   {
     "id": 8014,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-20T17:44:04+00:00",
     "text": ".",
     "has_media": false,
@@ -115,7 +115,7 @@
   },
   {
     "id": 8013,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-20T17:44:04+00:00",
     "text": ".",
     "has_media": false,
@@ -123,7 +123,7 @@
   },
   {
     "id": 8012,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-20T17:44:04+00:00",
     "text": ".",
     "has_media": false,
@@ -131,7 +131,7 @@
   },
   {
     "id": 8011,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-20T17:44:04+00:00",
     "text": "https://chatgpt.com/c/682cc03b-8dd0-8009-9682-84e0e26af2e6",
     "has_media": true,
@@ -139,7 +139,7 @@
   },
   {
     "id": 8010,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-20T17:44:03+00:00",
     "text": "1",
     "has_media": false,
@@ -147,7 +147,7 @@
   },
   {
     "id": 8009,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-20T17:43:59+00:00",
     "text": "",
     "has_media": false,

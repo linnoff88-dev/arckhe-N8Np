@@ -33,7 +33,7 @@
   },
   {
     "id": 11309,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-13T02:21:30+00:00",
     "text": "",
     "has_media": true,
@@ -42,7 +42,7 @@
   },
   {
     "id": 11308,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-13T02:21:04+00:00",
     "text": "https://console.apify.com/actors/42ZETPAS3UV21tAjv/input",
     "has_media": true,
@@ -50,7 +50,7 @@
   },
   {
     "id": 11307,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-13T02:20:51+00:00",
     "text": "scraper-mind/linkedin-phone-number-scraper",
     "has_media": false,
@@ -58,7 +58,7 @@
   },
   {
     "id": 11306,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-13T02:19:34+00:00",
     "text": "Aqui estêo as automações de raspagem relacionadas ao LinkedIn disponíveis:\n\n1. LinkedIn Leads Scraping & Enrichment\n- Automatiza extraçêo e enriquecimento de leads do LinkedIn com [Apollo.io](https://apollo.io/), validaçêo de emails e armazenamento em Google Sheets.\n- Link: [https://drive.google.com/file/d/1uT5YOODGOkQGJsy0Es1-YZudqgxN81Bh/view](https://drive.google.com/file/d/1uT5YOODGOkQGJsy0Es1-YZudqgxN81Bh/view)\n\n2. LinkedIn Job Data Scraper to Google Sheets\n- Coleta vagas do LinkedIn via Bright Data e envia para Google Sheets.\n- Link: [https://drive.google.com/file/d/1jqUFJaXG1KI9VA670gxgrQZGKqRgEjhV/view](https://drive.google.com/file/d/1jqUFJaXG1KI9VA670gxgrQZGKqRgEjhV/view)\n\n3. Automaçêo de Busca e Envio de Vagas e Currículos\n- Busca vagas e perfis no LinkedIn, gera currículos e envia candidaturas automaticamente.\n- Link: [https://drive.google.com/file/d/14Z_qS5k9CfOAMa2DvKK3hmigsDAz5fDA/view](https://drive.google.com/file/d/14Z_qS5k9CfOAMa2DvKK3hmigsDAz5fDA/view)\n\n4. LinkedIn Enrichment & Ice Breaker Generator\n- Enriquecimento de perfis e geraçêo de mensagens personalizadas com IA.\n- Link: [https://drive.google.com/file/d/1Ai0vcATidOIelNMQ1jnzCGZY0B62VLgj/view](https://drive.google.com/file/d/1Ai0vcATidOIelNMQ1jnzCGZY0B62VLgj/view)\n\n5. Coletor simples de perfis LinkedIn\n- Busca perfis por palavras-chave e localizaçêo via Google Search, salva em Excel e NocoDB.\n- Link: [https://drive.google.com/file/d/1UZO4PrpIcGo9LbyoWQfajM0ZjsFy4983/view](https://drive.google.com/file/d/1UZO4PrpIcGo9LbyoWQfajM0ZjsFy4983/view)\n\n6. LinkedIn Scraping via Bright Data e Google Gemini\n- Extraçêo automatizada de perfis e empresas com processamento e armazenamento local.\n- Link: [https://drive.google.com/file/d/1-tYlcWEhnsHdIrRT4ZyzqYqCFPPCj8w4/view](https://drive.google.com/file/d/1-tYlcWEhnsHdIrRT4ZyzqYqCFPPCj8w4/view)\n\nPosso ajudar com mais detalhes ou na configuraçêo de algum desses fluxos.",
     "has_media": true,
@@ -66,7 +66,7 @@
   },
   {
     "id": 11305,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-13T02:19:30+00:00",
     "text": "mas olha outras automacoes q pode ser q tem algo q vc possa usar",
     "has_media": false,
@@ -74,7 +74,7 @@
   },
   {
     "id": 11304,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-13T02:19:16+00:00",
     "text": "qual tu usou, tem ver se o linkedin permite",
     "has_media": false,
@@ -84,13 +84,13 @@
     "id": 11303,
     "author": "Leandro",
     "date": "2025-07-13T02:15:22+00:00",
-    "text": "@INEMAtds obg já tinha descoberto porém ele nêo puxa o numero do telefone do perfil ?",
+    "text": "@linnoff88-dev obg já tinha descoberto porém ele nêo puxa o numero do telefone do perfil ?",
     "has_media": false,
     "media_type": null
   },
   {
     "id": 11302,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-13T02:14:27+00:00",
     "text": "tem usar o apify para isso",
     "has_media": false,
@@ -108,7 +108,7 @@
     "id": 11023,
     "author": "Leandro",
     "date": "2025-07-07T13:59:03+00:00",
-    "text": "@INEMAtds conseguiu o json do linkedin ?",
+    "text": "@linnoff88-dev conseguiu o json do linkedin ?",
     "has_media": false,
     "media_type": null
   },
@@ -122,7 +122,7 @@
   },
   {
     "id": 3530,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-19T17:40:21+00:00",
     "text": "vou ver se acho , mas tem outra automacao ja do linkedin",
     "has_media": false,
@@ -130,7 +130,7 @@
   },
   {
     "id": 3529,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-19T17:37:42+00:00",
     "text": "so mudar a api",
     "has_media": false,
@@ -146,7 +146,7 @@
   },
   {
     "id": 3375,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-17T10:32:15+00:00",
     "text": "https://www.youtube.com/live/oZXL7lS-LEA?si=fNkSoqQ15lULelMA",
     "has_media": true,
@@ -154,7 +154,7 @@
   },
   {
     "id": 3267,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T18:42:28+00:00",
     "text": "### Como Raspar Dados do Twitter/X com n8n de Forma Eficiente  \n\nFuxo de trabalho do **n8n** que desenvolvi para raspar **tweets ilimitados** do **Twitter/X**. Essa ferramenta é útil para análises de mercado, análise da concorrência ou simplesmente para acompanhar as últimas tendências de uma indústria. \n\nBasta baixar, conectar e rodar o fluxo para começar a raspar tweets.  \n\n### Passo 1: Baixar Recursos  \nPara acessar o **workflow** e o **Google Sheets template**\n\n### Passo 2: Demonstraçêo ao Vivo  \nO fluxo de trabalho que vamos explorar inclui:  \n- **Raspagem de tweets** do Twitter/X  \n- **Verificaçêo do número de rodadas**  \n- **Armazenamento das informações em um Google Sheet**, incluindo **ID do tweet, URL, conteúdo, curtidas, retweets, respostas, citações, visualizações e data**  \n\nPara essa demonstraçêo, configurei o fluxo para rodar **três vezes** e capturar **até 58 tweets**. Se quiser aumentar esse número, basta modificar a variável de contagem no fluxo.  \n\n### Passo 3: Configuraçêo da API  \nUsaremos uma **API do Twitter/X** para acessar os tweets. Essa API permite raspar **1.000 tweets por apenas $0,15**. Se você usar o **link da descriçêo**, receberá **$6 de crédito inicial**, em vez de apenas $1 ao se cadastrar normalmente.  https://twitterapi.io/?ref=NateHerkelman\n\nNa documentaçêo da API, temos diferentes **endpoints**, como:  \n- **Usuário**: obter tweets, seguidores e menções de um usuário  \n- **Tweet**: buscar tweets por ID, respostas e retweets  \n- **Busca Avançada**: encontrar tweets por palavras-chave  \n\n### Passo 4: Configuraçêo do n8n  \nPara integrar a API ao n8n, siga estes passos:  \n\n1. **Copie o comando cURL da documentaçêo da API**  \n2. No n8n, **crie uma requisiçêo HTTP**  \n3. **Importe o cURL** e ele preencherá os campos automaticamente  \n4. **Defina a URL base** da API  \n5. **Configure a autenticaçêo**  \n   - A API exige uma **chave de autorizaçêo**  \n   - No painel da API, copie sua **chave API**  \n   - No n8n, vá até a aba **Autenticaçêo** e insira a chave como um **Header**  \n\nAgora, precisamos definir os **parâmetros da busca**:  \n- **query**: o termo que estamos pesquisando (exemplo: \"OpenAI\")  \n- **queryType**: tipo de busca (**\"latest\"** ou **\"top\"**)  \n\nAlém disso, a API permite **paginaçêo** com um **cursor**. Cada requisiçêo retorna **cerca de 20 tweets**. Para buscar mais tweets, usamos o **cursor** da última resposta e fazemos novas chamadas à API até atingir o número desejado.  \n\n### Passo 5: Salvando Tweets no Google Sheets  \n1. No n8n, crie um **nó do Google Sheets**  \n2. Configure para **adicionar novas linhas**  \n3. Mapeie os campos do tweet para as colunas do Google Sheets  \n\nAgora, ao rodar o fluxo, os tweets serêo automaticamente salvos na planilha!  \n\n### Passo 6: Automatizaçêo e Paginaçêo  \nPara capturar tweets automaticamente todos os dias, adicionamos um **gatilho de agendamento** e configuramos a **paginaçêo**.  \n\nO fluxo inclui:  \n1. **Contador** que começa em 1  \n2. **Chamada à API** para buscar tweets  \n3. **Extraçêo dos dados**  \n4. **Salvamento no Google Sheets**  \n5. **Atualizaçêo do cursor e do contador**  \n6. **Repetiçêo do processo até atingir o limite**  \n\nA cada rodada, o cursor obtém a **próxima página de tweets**, e o fluxo continua rodando até coletar o número desejado de postagens.  \n\n### Conclusêo  \nEste **workflow do n8n** permite raspar tweets de forma eficiente e automática, sem precisar de código complexo. Se quiser explorar mais funcionalidades, como **obtençêo de perfis, análise de menções e extraçêo de dados de concorrentes**, confira a documentaçêo da API e personalize seu fluxo de trabalho.",
     "has_media": true,
@@ -162,7 +162,7 @@
   },
   {
     "id": 3266,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T18:35:34+00:00",
     "text": "https://www.youtube.com/watch?v=lEo7IAgj0UY&t=16s",
     "has_media": true,
@@ -170,7 +170,7 @@
   },
   {
     "id": 3265,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T18:34:38+00:00",
     "text": "Como realmente raspar dados do Twitter/X com n8n\n\nQuer raspar tweets ilimitados do Twitter/X usando n8n? \nComo automatizar a extraçêo de dados, lidar com paginaçêo e armazenar tweets no Google Sheets—tudo isso sem precisar escrever código complexo!",
     "has_media": false,
@@ -178,7 +178,7 @@
   },
   {
     "id": 3258,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T18:31:44+00:00",
     "text": "ap6",
     "has_media": true,
@@ -187,7 +187,7 @@
   },
   {
     "id": 3257,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T18:31:44+00:00",
     "text": "",
     "has_media": true,
@@ -196,7 +196,7 @@
   },
   {
     "id": 3256,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T18:31:44+00:00",
     "text": "",
     "has_media": true,
@@ -205,7 +205,7 @@
   },
   {
     "id": 3255,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T18:31:26+00:00",
     "text": "ap6",
     "has_media": true,
@@ -214,7 +214,7 @@
   },
   {
     "id": 3254,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T18:31:08+00:00",
     "text": "",
     "has_media": true,
@@ -223,7 +223,7 @@
   },
   {
     "id": 3252,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T18:29:39+00:00",
     "text": "ap6 - Raspagem Twitter/X",
     "has_media": false,
@@ -231,7 +231,7 @@
   },
   {
     "id": 3251,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T18:29:26+00:00",
     "text": ".",
     "has_media": false,
@@ -239,7 +239,7 @@
   },
   {
     "id": 3250,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T18:29:26+00:00",
     "text": ".",
     "has_media": false,
@@ -247,7 +247,7 @@
   },
   {
     "id": 3249,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T18:29:26+00:00",
     "text": "..",
     "has_media": false,
@@ -255,7 +255,7 @@
   },
   {
     "id": 3248,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T18:29:26+00:00",
     "text": ".",
     "has_media": false,
@@ -263,7 +263,7 @@
   },
   {
     "id": 3247,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T18:29:25+00:00",
     "text": ".",
     "has_media": false,
@@ -271,7 +271,7 @@
   },
   {
     "id": 3246,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T18:29:25+00:00",
     "text": ".",
     "has_media": false,
@@ -279,7 +279,7 @@
   },
   {
     "id": 3245,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T18:29:25+00:00",
     "text": "https://chatgpt.com/c/67d5c5a4-aff0-8009-814f-1c34ffe6a92e",
     "has_media": true,
@@ -287,7 +287,7 @@
   },
   {
     "id": 3244,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T18:29:24+00:00",
     "text": "1",
     "has_media": false,
@@ -295,7 +295,7 @@
   },
   {
     "id": 3243,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-15T18:27:31+00:00",
     "text": "",
     "has_media": false,

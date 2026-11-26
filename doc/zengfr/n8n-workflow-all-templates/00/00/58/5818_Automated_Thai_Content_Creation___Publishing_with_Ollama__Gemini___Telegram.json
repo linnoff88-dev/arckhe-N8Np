@@ -149,7 +149,7 @@
         "options": {},
         "requestMethod": "POST",
         "jsonParameters": true,
-        "bodyParametersJson": "={\n  \"contents\": [\n    {\n      \"parts\": [\n        {\n          \"text\": \"masterpiece, 8k, ultra-detailed, photorealistic cinematic shot of: {{ $('Function: Parse LLM Output').item.json.imagePrompt }} thai-face. professional photography, sharp focus, high dynamic range (HDR), intricate details, dramatic natural lighting, aspect ratio 16:9\"\n        }\n      ]\n    }\n  ],\n  \"generationConfig\": {\n    \"responseModalities\": [\n      \"TEXT\",\n      \"IMAGE\"\n    ]\n  }\n}",
+        "bodyParametersJson": "={\n  \"contents\": [\n    {\n      \"parts\": [\n        {\n          \"text\": \"masterpiece, 8k, ultra-detailed, photorealistic cARCKHÉtic shot of: {{ $('Function: Parse LLM Output').item.json.imagePrompt }} thai-face. professional photography, sharp focus, high dynamic range (HDR), intricate details, dramatic natural lighting, aspect ratio 16:9\"\n        }\n      ]\n    }\n  ],\n  \"generationConfig\": {\n    \"responseModalities\": [\n      \"TEXT\",\n      \"IMAGE\"\n    ]\n  }\n}",
         "headerParametersJson": "{\"Content-Type\":\"application/json\"}"
       },
       "typeVersion": 1

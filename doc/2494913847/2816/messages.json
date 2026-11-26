@@ -1,7 +1,7 @@
 [
   {
     "id": 2828,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-11T21:47:04+00:00",
     "text": "Aula 1\n\n### Resumo: Curso n8n - De Zero a Herói \n \n#### **1. Fundamentos do n8n** \n- **Conceito de n8n**: Ferramenta de automaçêo de workflows que conecta diversas aplicações. \n- **Características principais**: \n  - **Código aberto** e gratuito, com controle total e privacidade. \n  - **Flexibilidade**: Automaçêo visual que dispensa conhecimento em programaçêo, mas permite uso de código para personalizações. \n- **Instalaçêo e Configuraçêo**: \n  - Utiliza **Node.js** e **npm** para instalaçêo. \n  - Configuraçêo inicial é feita com credenciais e criaçêo de projetos. \n \n--- \n \n#### **2. Integrações Avançadas** \n- **Conexêo com Google Workspace**: \n  - Habilitaçêo de APIs no Google Cloud Console (Drive, Sheets, Gmail, etc.). \n  - Configuraçêo de credenciais OAuth para segurança e compatibilidade. \n- **Geraçêo de Música com Hugging Face**: \n  - Uso da API MusicGenSmall para criar músicas instrumentais personalizadas. \n  - Configuraçêo de requisições **POST** no n8n para envio de prompts e geraçêo de áudio. \n- **Uso do Apify**: \n  - Plataforma para scrapear dados de sites como YouTube, Instagram e Amazon. \n  - Criaçêo de workflows no n8n para buscar, processar e armazenar dados em **Google Sheets**. \n \n--- \n \n#### **3. Caso Prático: Apify e Amazon** \n- **Objetivo**: \n  - Scraping de produtos da Amazon. \n  - Organizaçêo dos dados (título, preço, marca, reviews) em **Google Sheets**. \n- **Passos**: \n  1. Configuraçêo inicial com inputs do Google Sheets para especificar o produto e número de resultados. \n  2. Uso do Apify para extrair dados, como preço e avaliações. \n  3. Processamento de dados para cálculo da **média ponderada de estrelas**, garantindo precisêo nas avaliações. \n  4. Armazenamento dos resultados em novas abas do Google Sheets e atualizaçêo do status de verificaçêo. \n \n--- \n \n#### **4. Aplicações Práticas** \n- **Automatizaçêo de alertas de preço**: \n  - Monitorar quedas de preços em produtos específicos. \n  - Receber notificações no Telegram ou email. \n- **Análise detalhada de produtos**: \n  - Identificar opções com melhor custo-benefício. \n- **Expansêo do scraping para outras plataformas**: \n  - Adaptaçêo para buscar dados em **Google Maps**, **LinkedIn**, entre outros. \n \n--- \n \n#### **5. Ferramentas e Benefícios** \n- **n8n**: Centraliza a automaçêo, facilitando a integraçêo com diversas APIs. \n- **Google Sheets**: Armazena dados de forma organizada e personalizável. \n- **Apify**: Poderosa ferramenta de scraping para coleta de informações da web. \n- **Hugging Face**: Criaçêo de conteúdo como música instrumental e imagens personalizadas. \n \n--- \n \n#### **Próximos Passos** \n- Explorar o uso de **inteligência artificial no n8n**, incluindo: \n  - Criaçêo de **agentes** e **multiagentes**. \n  - Implementaçêo de chatbots para automações mais complexas. \n   \n--- \n \nEste resumo apresenta uma visêo geral das funcionalidades e aplicações práticas do n8n com integraçêo de ferramentas avançadas como Google Workspace, Hugging Face e Apify. Ideal para quem busca **automatizar processos e organizar fluxos de trabalho** de maneira eficiente.\n\n[https://www.youtube.com/watch?v=T6btgihNdWw&t=1245s](https://www.youtube.com/watch?v=T6btgihNdWw&t=1245s)",
     "has_media": true,
@@ -9,7 +9,7 @@
   },
   {
     "id": 2825,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-11T21:46:04+00:00",
     "text": "ec1n8 - Curso Zero a Heroi N8N",
     "has_media": false,
@@ -17,7 +17,7 @@
   },
   {
     "id": 2824,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-11T21:45:59+00:00",
     "text": ".",
     "has_media": false,
@@ -25,7 +25,7 @@
   },
   {
     "id": 2823,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-11T21:45:58+00:00",
     "text": ".",
     "has_media": false,
@@ -33,7 +33,7 @@
   },
   {
     "id": 2822,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-11T21:45:58+00:00",
     "text": ".",
     "has_media": false,
@@ -41,7 +41,7 @@
   },
   {
     "id": 2821,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-11T21:45:57+00:00",
     "text": ".",
     "has_media": false,
@@ -49,7 +49,7 @@
   },
   {
     "id": 2820,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-11T21:45:56+00:00",
     "text": "..",
     "has_media": false,
@@ -57,7 +57,7 @@
   },
   {
     "id": 2819,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-11T21:45:56+00:00",
     "text": "Curso em Espanol, mas veja se nao tem Disponivel a Dublagem em Portugues",
     "has_media": false,
@@ -65,7 +65,7 @@
   },
   {
     "id": 2818,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-11T21:45:56+00:00",
     "text": "https://chatgpt.com/c/67781811-6c78-8009-a19a-8b572bbb2c6d",
     "has_media": true,
@@ -73,7 +73,7 @@
   },
   {
     "id": 2817,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-11T21:45:55+00:00",
     "text": "1",
     "has_media": false,
@@ -81,7 +81,7 @@
   },
   {
     "id": 2816,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-11T21:45:41+00:00",
     "text": "",
     "has_media": false,

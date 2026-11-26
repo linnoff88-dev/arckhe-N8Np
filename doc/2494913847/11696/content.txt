@@ -10,7 +10,7 @@ Midias baixadas: 6
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-22T03:36:47+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11715_001.jpg
@@ -18,7 +18,7 @@ Midia: MessageMediaPhoto -> photo_11715_001.jpg
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-22T03:35:28+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11714_002.jpg
@@ -26,7 +26,7 @@ Midia: MessageMediaPhoto -> photo_11714_002.jpg
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-22T03:34:29+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11713_003.jpg
@@ -34,7 +34,7 @@ Midia: MessageMediaPhoto -> photo_11713_003.jpg
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-22T03:23:05+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11712_004.jpg
@@ -42,7 +42,7 @@ Midia: MessageMediaPhoto -> photo_11712_004.jpg
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-22T03:21:16+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11711_005.jpg
@@ -50,7 +50,7 @@ Midia: MessageMediaPhoto -> photo_11711_005.jpg
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-22T03:20:47+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11710_006.jpg
@@ -58,7 +58,7 @@ Midia: MessageMediaPhoto -> photo_11710_006.jpg
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-22T03:16:18+00:00
 Texto:
 ===================
@@ -66,7 +66,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-22T03:15:39+00:00
 Texto:
 ***NOVO* Modelos de IA de fallback n8n - Nunca mais perca tempo de atividade (essencial)**
@@ -94,7 +94,7 @@ Essencial para qualquer pessoa que execute fluxos de trabalho de produçêo e n�
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-22T03:14:45+00:00
 Texto:
 nm58 - Hack FallBack no N8N
@@ -102,7 +102,7 @@ nm58 - Hack FallBack no N8N
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-22T03:14:45+00:00
 Texto:
 .
@@ -110,7 +110,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-22T03:14:45+00:00
 Texto:
 .
@@ -118,7 +118,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-22T03:14:44+00:00
 Texto:
 .
@@ -126,7 +126,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-22T03:14:44+00:00
 Texto:
 .
@@ -134,7 +134,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-22T03:14:26+00:00
 Texto:
 1.
@@ -142,7 +142,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-22T03:14:24+00:00
 Texto:
 1
@@ -150,7 +150,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-22T03:14:13+00:00
 Texto: [Sem texto]
 

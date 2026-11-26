@@ -10,7 +10,7 @@ Midias baixadas: 4
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-10T17:17:32+00:00
 Texto:
 https://www.youtube.com/watch?v=qZkX_gIlwsY
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-10T17:17:14+00:00
 Texto:
 Aqui está o **resumo estruturado** do vídeo "**APIs for AI Agents: The Only Beginner’s Guide You’ll Ever Need (n8n)**":
@@ -93,7 +93,7 @@ Por fim, o vídeo ensina a **interpretar erros comuns** (códigos 200, 400, 401,
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-10T17:15:51+00:00
 Texto:
 **APIs para agentes de IA: o único guia para iniciantes que você precisará (n8n)**
@@ -117,7 +117,7 @@ Siga o passo a passo ou apenas assista para entender os conceitos e desenvolver 
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-10T17:14:53+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> API_Calls_in_n8n.json
@@ -125,7 +125,7 @@ Midia: MessageMediaDocument -> API_Calls_in_n8n.json
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-10T17:14:49+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7473_005.jpg
@@ -133,7 +133,7 @@ Midia: MessageMediaPhoto -> photo_7473_005.jpg
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-10T17:09:50+00:00
 Texto:
 AP22 - Guia Iniciantes para PRO
@@ -141,7 +141,7 @@ AP22 - Guia Iniciantes para PRO
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-10T17:09:49+00:00
 Texto:
 .
@@ -149,7 +149,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-10T17:09:49+00:00
 Texto:
 .
@@ -157,7 +157,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-10T17:09:48+00:00
 Texto:
 .
@@ -165,7 +165,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-10T17:09:48+00:00
 Texto:
 .
@@ -173,7 +173,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-10T17:09:47+00:00
 Texto:
 .
@@ -181,7 +181,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-10T17:09:47+00:00
 Texto:
 https://chatgpt.com/c/681f876f-41b8-8009-8921-9bca7b2bdf79
@@ -190,7 +190,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-10T17:09:46+00:00
 Texto:
 1
@@ -198,7 +198,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-10T17:09:37+00:00
 Texto: [Sem texto]
 

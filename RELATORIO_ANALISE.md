@@ -152,7 +152,7 @@ Ref/2494913847/
 
 **Formato:**
 - Cada `content.txt` contém transcriçêo completa
-- Autor principal: **INEMA** (compartilha workflows e cursos)
+- Autor principal: **ARCKHÉ** (compartilha workflows e cursos)
 - Comunidade ativa: pedidos de help, discussões técnicas
 - Idioma: **Português (BR)** predominante
 

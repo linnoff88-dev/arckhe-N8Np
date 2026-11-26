@@ -115,9 +115,9 @@ Esse relato é também um agradecimento e um incentivo para quem, assim como eu,
 
 Agora é partir para a implantaçêo e criaçêo de muitas soluções para resolver os problemas da minha agência e dos meus clientes.
 
-Deixo aqui minha profunda gratidêo ao Nei e ao time do INEMA como um todo.
+Deixo aqui minha profunda gratidêo ao Nei e ao time do ARCKHÉ como um todo.
 
-@INEMAtds
+@linnoff88-dev
 
 ------------------------------
 
@@ -138,7 +138,7 @@ Essa está junto com as 3 ?
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-18T23:33:48+00:00
 Texto:
 vou fazer live nesta semana sobre esta automacao
@@ -146,7 +146,7 @@ vou fazer live nesta semana sobre esta automacao
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-18T23:31:45+00:00
 Texto:
 **e18. Agente de Vendas Multicanal (FB, IG, WA)**
@@ -250,7 +250,7 @@ Um sistema automatizado que:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-18T23:30:11+00:00
 Texto:
 **Agente de Vendas Multicanal (FB, IG, WhatsApp)**
@@ -277,7 +277,7 @@ Com **N8N**, **Evolution API** e esse fluxo, você tem tudo o que precisa para t
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-18T23:29:12+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Agente_vendedor_TOP (1).json
@@ -285,7 +285,7 @@ Midia: MessageMediaDocument -> Agente_vendedor_TOP (1).json
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-18T23:29:12+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Sub_Agente_CRM (1).json
@@ -293,7 +293,7 @@ Midia: MessageMediaDocument -> Sub_Agente_CRM (1).json
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-18T23:29:12+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Sub_Agente_Calendario (1).json
@@ -301,7 +301,7 @@ Midia: MessageMediaDocument -> Sub_Agente_Calendario (1).json
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-18T23:29:03+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7866_021.jpg
@@ -309,7 +309,7 @@ Midia: MessageMediaPhoto -> photo_7866_021.jpg
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-18T23:28:27+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7865_022.jpg
@@ -317,7 +317,7 @@ Midia: MessageMediaPhoto -> photo_7865_022.jpg
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-18T23:27:29+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7864_023.jpg
@@ -325,7 +325,7 @@ Midia: MessageMediaPhoto -> photo_7864_023.jpg
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-18T23:27:02+00:00
 Texto:
 e18 - Agente de Vendas Multi Canal
@@ -333,7 +333,7 @@ e18 - Agente de Vendas Multi Canal
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-18T23:26:47+00:00
 Texto:
 .
@@ -341,7 +341,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-18T23:26:46+00:00
 Texto:
 .
@@ -349,7 +349,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-18T23:26:46+00:00
 Texto:
 .
@@ -357,7 +357,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-18T23:26:46+00:00
 Texto:
 .
@@ -365,7 +365,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-18T23:26:46+00:00
 Texto:
 .
@@ -373,7 +373,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-18T23:26:45+00:00
 Texto:
 https://chatgpt.com/c/682a6c35-b0b4-8009-ae38-9cf25e7b92ab
@@ -382,7 +382,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-18T23:26:45+00:00
 Texto:
 1
@@ -390,7 +390,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 32
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-18T23:26:37+00:00
 Texto: [Sem texto]
 

@@ -1,7 +1,7 @@
 [
   {
     "id": 10517,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-25T03:48:31+00:00",
     "text": "========",
     "has_media": false,
@@ -9,7 +9,7 @@
   },
   {
     "id": 10512,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-25T03:37:22+00:00",
     "text": "Aqui vêo **hacks práticos** para melhorar, acelerar e proteger sua automaçêo de controle de navegador com **N8N + Airtop + IA**, economizando créditos e evitando travamentos:\n\n---\n\n### 🔥 HACKS PARA OTIMIZAÇêO\n\n1. **Use prompts específicos e objetivos**\n\n   * Evita que a IA tente etapas desnecessárias.\n   * Exemplo ruim: “procure moedores”\n   * Exemplo bom: “Acesse [amazon.com.br](https://amazon.com.br/), digite ‘moedor de café’, ordene por avaliações e me mostre os 3 melhores com link”\n\n2. **Reduza uso de créditos Airtop**\n\n   * Finalize toda sessêo com `End Session`\n   * Use `load-url` em vez de abrir nova janela\n   * Limite máximo de **1 ou 2 interações por tarefa**\n\n3. **Crie perfis personalizados (profile\\_name)**\n\n   * Ex: “login\\_gov”, “busca\\_amazon”, etc.\n   * Assim você reutiliza estruturas e evita iniciar do zero.\n\n4. **Evite falhas com “session already running”**\n\n   * Use um nó condicional antes de criar a sessêo:\n\n     * Verifique se há sessêo ativa.\n     * Se sim, encerre-a automaticamente com `end-session`.\n\n5. **Configure timeout dos requests**\n\n   * Padrêo é 10s, mas pode aumentar para sites mais lentos (20s ou 30s)\n\n6. **Economize tokens da IA**\n\n   * Use GPT-4.1 Mini quando nêo precisar de memória longa\n   * Diminua a `maxIterations` para 10 ou 15\n\n7. **Simule cliques com precisêo**\n\n   * Use descrições como:\n\n     * \"botêo com texto 'Comprar agora'\"\n     * \"primeiro link do resultado\"\n     * \"input de busca com placeholder\"\n\n---\n\n### 🔐 HACKS DE SEGURANÇA\n\n8. **Nunca envie senhas direto pelo prompt**\n\n   * Em vez disso, use variáveis de ambiente no N8N ou campos criptografados\n   * Exemplo: `{{ $env.PASSWORD_GOV_BR }}`\n\n9. **Limite o escopo da IA**\n\n   * No prompt, defina:\n\n     `     Você só pode navegar em domínios confiáveis. Nunca acesse links externos nem clique em anúncios.\n     `\n\n10. A**dicione um validador de URLs\n**\n* Crie um nó antes de “create window” que verifica se a URL começa com h`ttps://amazon. `ou outro domínio autorizado\n\n---\n\n### 💡 HACKS DE EXPERIÊNCIA\n\n11. E**nvie status ao usuário\n**\n* Use Telegram/WhatsApp para mostrar etapas como:\n\n  * “Acessando site...”\n  * “Procurando produto...”\n  * “Finalizando sessêo...”\n\n12. U**se comandos curtos por emojis\n**\n* Exemplo: o usuário digita \"🔎 café\" e o prompt já entende para buscar café\n\n13. M**odo teste no N8N\n**\n* Crie um botêo “Modo Simulaçêo” que ativa um caminho de teste com printscreen (sem ações reais)\n\n14. G**rave vídeo da sessêo com Airtop\n**\n* Use a L`ive URL `+ gravador de tela automático se quiser gerar vídeos de testes\n\n---",
     "has_media": true,
@@ -17,7 +17,7 @@
   },
   {
     "id": 10511,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-25T03:37:01+00:00",
     "text": "==================",
     "has_media": false,
@@ -25,7 +25,7 @@
   },
   {
     "id": 10510,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-25T03:36:59+00:00",
     "text": "Aqui está o **passo a passo completo** para criar seu próprio \"Operator IA\" com **N8N + Airtop**, usando **IA para controlar o navegador remotamente**, com integraçêo opcional via WhatsApp ou Telegram:\n\n---\n\n### 1. **Criar conta no Airtop**\n\n* Acesse: [https://www.airtop.dev](https://www.airtop.dev/)\n* Crie uma conta gratuita (5.000 créditos/mês)\n* Gere sua **API Key**\n\n---\n\n### 2. **Configurar N8N**\n\n* Crie um novo fluxo no [N8N](https://n8n.io/) (self-hosted ou cloud)\n* Adicione os nós a seguir:\n\n---\n\n### 3. **Nó: Chat Trigger**\n\n* Tipo: *Webhook*, *Telegram Trigger*, *WhatsApp Trigger*, ou *HTTP Request*\n* Esse nó captura a mensagem do usuário com o comando (ex: “Buscar moedores de café baratos”).\n\n---\n\n### 4. **Nó: GPT-4.1 Mini (ou outro LLM)**\n\n* Tipo: OpenAI / ChatGPT / Gemini\n* Prompt sugerido (resumido):\n\n  `  Você é um agente de automaçêo de navegador com as seguintes ferramentas: iniciar navegador, escrever, clicar, carregar URL, extrair informações, encerrar sessêo. Execute conforme a tarefa do usuário.\n  `\n* Entrada: texto do usuário\n* Saída: comandos ou plano de açêo\n\n---\n\n### 5. N**ó: Create Session (Airtop)\n**\n* Tipo: HTTP Request (POST)\n* URL: [h](https://api.airtop.dev/api/v1/sessions)`ttps://api.airtop.dev/api/v1/sessions\n`[* Headers:](https://api.airtop.dev/api/v1/sessions)\n\n  * Authorization: B`earer SUA_API_KEY\n`* Body (JSON):\n\n   ``` {\n    \"profile_name\": \"default\"\n  }\n  \n```* Salve s`ession_id `para uso posterior\n\n---\n\n### 6. N**ó: Create Window\n**\n* Tipo: HTTP Request (POST)\n* URL: [h](https://api.airtop.dev/api/v1/sessions/%7B%7Bsession_id%7D%7D/windows)`ttps://api.airtop.dev/api/v1/sessions/{{session_id}}/windows\n`[* Body:](https://api.airtop.dev/api/v1/sessions/%7B%7Bsession_id%7D%7D/windows)``` {    \"url\": \"{{url_da_IA}}\"\n  }  \n* ```Salve w`indow_id\n`---\n### 7. (**Opcional) Enviar link para WhatsApp/Telegram\n*** Use a Evolutions API ou outro serviço para enviar o link de monitoramento (Live URL do Airtop)* Exemplo: “Veja o navegador ao vivo: {{live\\_url}}”\n---\n### 8. E**xecutar ações no navegador\n**#### a) E**screver (Type)\n*** POST para .`../sessions/{{session_id}}/windows/{{window_id}}/type\n`* Body:\n   ``` {    \"element_description\": \"search bar\",\n    \"text\": \"moedor de café barato\"  }\n  \n##```## b) C**lique (Click)\n*** POST para .`../sessions/{{session_id}}/windows/{{window_id}}/click*` Body:\n   ``` {\n    \"element_description\": \"botêo buscar\"  }\n  \n#```### c) C**onsultar (Query Page)\n*** POST para .`../sessions/{{session_id}}/windows/{{window_id}}/query-page*` Body:\n   ``` {\n    \"prompt\": \"Liste os 3 produtos mais bem avaliados\"  }\n  \n#```### d) C**arregar nova URL\n*** POST para .`../sessions/{{session_id}}/windows/{{window_id}}/load-url*` Body:\n   ``` {\n    \"url\": \"https://outra-pagina.com\"  }\n  \n-```--\n### 9. E**ncerrar Sessêo\n*** POST para:  [h](https://api.airtop.dev/api/v1/sessions/%7B%7Bsession_id%7D%7D/end)`ttps://api.airtop.dev/api/v1/sessions/{{session_id}}/end\n`[* Isso libera os recursos e permite executar outra sessêo](https://api.airtop.dev/api/v1/sessions/%7B%7Bsession_id%7D%7D/end)\n---\n### 10. D**icas e Cuidados\n*** Sempre finalize a sessêo com E`nd Session*` Limite de iterações: configure para no máximo 2**0 ciclos\n*** Use prompts específicos para tarefas complexas* Teste elementos HTML com e`lement_description `claros (ex: \"input de busca\", \"botêo enviar\")\n---\n### Exemplos de comandos que o usuário pode enviar:\n* “Buscar notebooks até R\\$ 3.000 no Magazine Luiza”\n* “Acesse [gov.br](https://gov.br/), entre com meu CPF e veja o status”* “Liste os livros mais vendidos na Amazon Brasil”",
     "has_media": true,
@@ -33,7 +33,7 @@
   },
   {
     "id": 10509,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-25T03:36:40+00:00",
     "text": "=============",
     "has_media": false,
@@ -41,7 +41,7 @@
   },
   {
     "id": 10508,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-25T03:36:38+00:00",
     "text": "**Resumo – \"Controlar qualquer site com IA e N8N\" \n\nComo **automatizar a navegaçêo na web com IA dentro do N8N**, usando a ferramenta **Airtop**, sem necessidade de pagar pelo \"Operator\" da OpenAI (200 €/mês).\n\n### Objetivo\n\n* Criar um fluxo no N8N que permita:\n\n  * Controlar um navegador remotamente via IA\n  * Integrar isso com mensagens vindas do WhatsApp, Telegram ou web\n\n---\n\n### Ferramentas e Tecnologias\n\n* **N8N**: onde todo o fluxo é construído\n* **Airtop**: permite abrir, controlar e fechar janelas de navegador remotamente\n* **GPT-4.1 mini**: interpreta a solicitaçêo e executa comandos\n* **Evolutions API**: envia links de visualizaçêo em tempo real via WhatsApp\n\n---\n\n### Fluxo de Automaçêo (passo a passo)\n\n1. **Chat Trigger**\n   Usuário envia um pedido (ex: \"busque moedores de café baratos\") via chat.\n\n2. **Prompt e Modelo IA**\n\n   * O agente IA recebe instruções sobre como usar ferramentas: abrir navegador, digitar, clicar, extrair dados, encerrar sessêo etc.\n   * Modelo usado: GPT-4.1 mini (mais leve, rápido e barato)\n\n3. **Sessêo Airtop**\n\n   * Criar chave de API\n   * Criar sessêo e janela de navegador com URL enviada pela IA\n   * Enviar link ao usuário (via WhatsApp) para acompanhar em tempo real\n\n4. **Comandos executáveis pela IA**\n\n   * **Type**: digita nos campos\n   * **Query**: extrai dados da página\n   * **Load URL**: carrega outra página\n   * **End Session**: encerra a sessêo\n   * **Click**: simula clique via HTTP Request (nêo há módulo direto)\n\n5. **Observações**\n\n   * Airtop gratuito permite apenas 1 sessêo ativa por vez\n   * É necessário **fechar a sessêo manualmente** para abrir outra\n   * Pode ser usado para logar com usuário e senha, mas cuidado com segurança\n\n---\n\n### Casos de Uso\n\n* Automatizar testes de navegaçêo\n* Buscar dados em sites que nêo oferecem API\n* Preencher formulários automaticamente\n* Navegar e coletar informações de forma autônoma\n\n---\n\n### Recomendações Finais\n\n* **Limite de iterações**: configurar para até 20, para evitar loops infinitos\n* **Evite uso contínuo**: apesar de funcional, é mais lento do que uma navegaçêo manual\n* Ideal para tarefas **rutinárias, demoradas ou sem API disponível**",
     "has_media": false,
@@ -49,7 +49,7 @@
   },
   {
     "id": 10507,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-25T03:36:20+00:00",
     "text": "========",
     "has_media": false,
@@ -57,7 +57,7 @@
   },
   {
     "id": 10506,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-25T03:36:16+00:00",
     "text": "🧑🏻‍💻 e25. Controle qualquer site com IA e N8N\n\nHoje vamos aprender a automatizar a navegaçêo na web diretamente pelo **N8N**, usando um agente de inteligência artificial e a ferramenta **Airtop**, sem precisar pagar pelo Operator da OpenAI.\n\n🔧 Ferramentas utilizadas\n\n* **N8N**: Plataforma para construir fluxos de automaçêo.\n* **Airtop**: Ferramenta que permite controlar um navegador remoto (criar sessões, abrir janelas, digitar, clicar, etc.).\n* **Chat trigger**: Entrada do fluxo via WhatsApp, Telegram ou interface web.\n* **GPT-4.1 mini**: Modelo de linguagem que interpreta e executa tarefas.\n* **Evolutions API**: Para receber links de acompanhamento via WhatsApp.\n\n🛠️ Fluxo geral do projeto\n\n1. **Início com um chat trigger**\n   O usuário envia uma solicitaçêo ao agente (ex: \"Buscar moedores de café baratos\").\n   A mensagem é enviada ao modelo de IA, que decide os próximos passos.\n\n2. **Agente de IA**\n   Recebe um prompt com as capacidades e ferramentas disponíveis.\n   Ele pode: iniciar o navegador, escrever, clicar, carregar URLs, extrair dados e finalizar sessões.\n\n3. **Sessêo no Airtop**\n\n   * Gera-se uma chave de API e ela é configurada no N8N.\n   * O módulo *create session* inicia uma sessêo de navegador com um nome de perfil.\n   * O módulo *create window* abre uma janela com a URL desejada.\n\n4. **Acompanhamento em tempo real**\n   Um link pode ser enviado via WhatsApp para assistir ao que o navegador está fazendo ao vivo.\n\n5. **Interações com a web**\n\n   * **Type**: Digita em campos de busca ou formulários.\n   * **Query**: Extrai informações visíveis na página.\n   * **Load URL**: Redireciona para outras URLs se necessário.\n   * **End Session**: Finaliza a sessêo para liberar recursos.\n\n6. **Simulaçêo de cliques**\n   Realizada por meio de uma requisiçêo HTTP direta para a API do Airtop.\n   Utiliza os parâmetros: `session_id`, `window_id` e `element_description` para cliques precisos.\n\n⚠️ Recomendações\n\n* Na versêo gratuita do Airtop, apenas **uma sessêo ativa** é permitida por vez.\n* É **crucial encerrar cada sessêo antes de iniciar outra**.\n* Limite o número de iterações do agente (recomendado: **20**) para evitar loops infinitos e custos desnecessários.\n* O GPT-4.1 mini tem bom desempenho e velocidade; use o modelo completo caso o prompt seja mais complexo.\n\n💡 Casos de uso sugeridos\n\n* Automatizar buscas complexas na web sem API disponível.\n* Preencher formulários automaticamente.\n* Simular compras ou navegaçêo para testes.\n* Buscar e extrair dados em sites que bloqueiam scrapers tradicionais.\n\n✅ Conclusêo\nCom essa aula, você já pode montar seu próprio sistema tipo *Operator* da OpenAI usando Airtop e N8N, **sem custo mensal**.\nÉ ideal para tarefas rotineiras em sites onde nêo há uma API direta.",
     "has_media": false,
@@ -65,7 +65,7 @@
   },
   {
     "id": 10505,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-25T03:35:45+00:00",
     "text": "==========",
     "has_media": false,
@@ -73,7 +73,7 @@
   },
   {
     "id": 10504,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-25T03:35:42+00:00",
     "text": "🔥 Controle qualquer site com IA 😱\n\nVocê conhece o *Operator* da OpenAI?\nAquele brinquedinho de 200 €/mês que permite controlar o navegador com IA como se fosse mágica...\n💸 Pois agora você pode fazer o mesmo **GRÁTIS** e sem sair do **N8N**. 😎\n\nO que essa joia de automaçêo faz?\n💻 Controla o navegador como se fosse você:\n✅ Abre sites\n✅ Busca produtos\n✅ Clica em botões\n✅ Escreve textos\n✅ Preenche formulários\n✅ Extrai dados\n✅ E até faz login com usuário e senha\n\nSem APIs, sem scrapers, sem extensões. Só IA, **Airtop** e **N8N**.\n\nE o melhor?\nVocê pode integrá-lo a fluxos do WhatsApp, Telegram, formulários...\nVocê pede algo pelo chat e a IA navega por você. **Literalmente.**",
     "has_media": false,
@@ -81,7 +81,7 @@
   },
   {
     "id": 10503,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-25T03:35:09+00:00",
     "text": "============",
     "has_media": false,
@@ -89,7 +89,7 @@
   },
   {
     "id": 10499,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-25T03:33:26+00:00",
     "text": "",
     "has_media": true,
@@ -98,7 +98,7 @@
   },
   {
     "id": 10498,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-25T03:33:26+00:00",
     "text": "",
     "has_media": true,
@@ -107,7 +107,7 @@
   },
   {
     "id": 10497,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-25T03:33:10+00:00",
     "text": "",
     "has_media": true,
@@ -116,7 +116,7 @@
   },
   {
     "id": 10496,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-25T03:33:05+00:00",
     "text": "",
     "has_media": true,
@@ -125,7 +125,7 @@
   },
   {
     "id": 10481,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-25T03:32:08+00:00",
     "text": "e25 - Agente Navegador - AirTop",
     "has_media": false,
@@ -133,7 +133,7 @@
   },
   {
     "id": 10480,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-25T03:32:06+00:00",
     "text": ".",
     "has_media": false,
@@ -141,7 +141,7 @@
   },
   {
     "id": 10479,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-25T03:32:06+00:00",
     "text": ".",
     "has_media": false,
@@ -149,7 +149,7 @@
   },
   {
     "id": 10478,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-25T03:32:06+00:00",
     "text": ".",
     "has_media": false,
@@ -157,7 +157,7 @@
   },
   {
     "id": 10477,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-25T03:32:06+00:00",
     "text": ".",
     "has_media": false,
@@ -165,7 +165,7 @@
   },
   {
     "id": 10476,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-25T03:32:06+00:00",
     "text": ".",
     "has_media": false,
@@ -173,7 +173,7 @@
   },
   {
     "id": 10475,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-25T03:32:06+00:00",
     "text": ".",
     "has_media": false,
@@ -181,7 +181,7 @@
   },
   {
     "id": 10474,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-25T03:32:05+00:00",
     "text": "https://chatgpt.com/c/685b688b-3140-8009-a12c-c85972771a88",
     "has_media": true,
@@ -189,7 +189,7 @@
   },
   {
     "id": 10473,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-25T03:32:05+00:00",
     "text": "1",
     "has_media": false,
@@ -197,7 +197,7 @@
   },
   {
     "id": 10472,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-25T03:31:59+00:00",
     "text": "",
     "has_media": false,

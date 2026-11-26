@@ -10,7 +10,7 @@ Midias baixadas: 3
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:58:25+00:00
 Texto:
 https://www.youtube.com/watch?v=zNMoYA7eZ2s
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:58:11+00:00
 Texto:
 ===========
@@ -27,7 +27,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:58:06+00:00
 Texto:
 da ferramenta** para direcionar a consulta.  
@@ -46,7 +46,7 @@ Ambos os métodos permitem construir um sistema de busca eficiente utilizando RA
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:58:06+00:00
 Texto:
 ### Como Implementar RAG no n8n com Pinecone - Guia Prática Passo a Passo  
@@ -154,7 +154,7 @@ Se um usuário perguntar **"O que é RAG?"**, o chatbot acessa a base vetorial, 
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:53:50+00:00
 Texto:
 ==============
@@ -162,7 +162,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:53:46+00:00
 Texto:
 ### e6n8. Como usar RAG no n8n passo a passo  
@@ -228,7 +228,7 @@ Há duas opções para consultar a base vetorial:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:51:00+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_2064_007.jpg
@@ -236,7 +236,7 @@ Midia: MessageMediaPhoto -> photo_2064_007.jpg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:51:00+00:00
 Texto:
 e6n8 - RAG no n8n passo a passo
@@ -244,7 +244,7 @@ e6n8 - RAG no n8n passo a passo
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:51:00+00:00
 Texto:
 .
@@ -252,7 +252,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:50:59+00:00
 Texto:
 .
@@ -260,7 +260,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:50:59+00:00
 Texto:
 .
@@ -268,7 +268,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:50:59+00:00
 Texto:
 https://chatgpt.com/c/67c67877-470c-8009-afeb-4bb3fab4e337
@@ -277,7 +277,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:50:58+00:00
 Texto:
 1
@@ -285,7 +285,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-04T03:50:50+00:00
 Texto: [Sem texto]
 

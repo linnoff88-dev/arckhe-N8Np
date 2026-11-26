@@ -10,14 +10,14 @@ Midias baixadas: 2
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T23:40:43+00:00
 Texto: [Sem texto]
 
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T22:30:37+00:00
 Texto:
 ### **Resumo do Vídeo: Criando Música com Make e Hugging Face**  
@@ -59,7 +59,7 @@ O processo automatiza a criaçêo de música sem direitos autorais, permitindo p
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T22:15:03+00:00
 Texto:
 ===============
@@ -67,7 +67,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T22:14:54+00:00
 Texto:
 "3.8"
@@ -152,7 +152,7 @@ Confira o vídeo com o passo a passo e o canal do YouTube para mais conteúdos s
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T22:14:53+00:00
 Texto:
 ### **REQUISITOS PRÉVIOS**  
@@ -272,7 +272,7 @@ version:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T22:14:42+00:00
 Texto:
 [🔥](https://www.youtube.com/watch?v=9YPD3wtLGNU&t=4s)[Isstalación de n8n en un VPS ](https://www.youtube.com/watch?v=9YPD3wtLGNU&t=4s)[🚀](https://www.youtube.com/watch?v=9YPD3wtLGNU&t=4s)[  Guía Completa Paso a Paso](https://www.youtube.com/watch?v=9YPD3wtLGNU&t=4s)
@@ -281,7 +281,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T22:12:02+00:00
 Texto:
 ec7n8 - Instalaçêo Local N8N
@@ -289,7 +289,7 @@ ec7n8 - Instalaçêo Local N8N
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T22:12:00+00:00
 Texto:
 .
@@ -297,7 +297,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T22:12:00+00:00
 Texto:
 ..
@@ -305,7 +305,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T22:12:00+00:00
 Texto:
 .
@@ -313,7 +313,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T22:12:00+00:00
 Texto:
 ..
@@ -321,7 +321,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T22:12:00+00:00
 Texto:
 .
@@ -329,7 +329,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T22:12:00+00:00
 Texto:
 https://chatgpt.com/c/67d0b564-aa08-8009-a62f-df9c01d41b9e
@@ -338,7 +338,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T22:11:59+00:00
 Texto:
 1
@@ -346,7 +346,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T22:11:54+00:00
 Texto: [Sem texto]
 

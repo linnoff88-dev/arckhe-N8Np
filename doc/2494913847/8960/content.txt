@@ -10,7 +10,7 @@ Midias baixadas: 5
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T03:48:33+00:00
 Texto:
 ============
@@ -18,7 +18,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T03:48:28+00:00
 Texto:
 Prompt usado no Agente Fotografo
@@ -81,7 +81,7 @@ Você é um fotógrafo de produtos e estilista descolado, especializado em bens 
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T03:45:38+00:00
 Texto:
 =============
@@ -89,7 +89,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T03:45:35+00:00
 Texto:
 **Resumo do Vídeo: “The Only AI Marketing Design Team You Need (100% Automatizado)”**
@@ -156,7 +156,7 @@ O vídeo apresenta um sistema de design de marketing automatizado com IA, criado
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T03:42:57+00:00
 Texto:
 dublado
@@ -164,7 +164,7 @@ dublado
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T03:42:54+00:00
 Texto:
 https://www.youtube.com/watch?v=hK0TcXfnXkI
@@ -173,7 +173,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T03:42:27+00:00
 Texto:
 ==============
@@ -181,7 +181,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T03:42:22+00:00
 Texto:
 Sua Equipe de Design de Marketing com IA (100% Automatizada)
@@ -195,7 +195,7 @@ Quando você adiciona os detalhes do produto e marca o status como “**Pendente
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T03:41:16+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Tutorial 27.1 - Designs Marketing Creatives.xlsx
@@ -203,7 +203,7 @@ Midia: MessageMediaDocument -> Tutorial 27.1 - Designs Marketing Creatives.xlsx
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T03:41:12+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Tutorial 27.1 - Designs_Marketing_Creatives-v2
@@ -211,7 +211,7 @@ Midia: MessageMediaDocument -> Tutorial 27.1 - Designs_Marketing_Creatives-v2
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T03:41:07+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_8968_011.jpg
@@ -219,7 +219,7 @@ Midia: MessageMediaPhoto -> photo_8968_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T03:39:13+00:00
 Texto:
 .al28 - **Your AI Marketing Design Team**
@@ -227,7 +227,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T03:39:11+00:00
 Texto:
 .
@@ -235,7 +235,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T03:39:11+00:00
 Texto:
 .
@@ -243,7 +243,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T03:39:10+00:00
 Texto:
 .
@@ -251,7 +251,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T03:39:10+00:00
 Texto:
 .
@@ -259,7 +259,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T03:39:10+00:00
 Texto:
 https://chatgpt.com/c/68450535-ed48-8009-a952-73d4e2b9b3f2
@@ -268,7 +268,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T03:39:09+00:00
 Texto:
 1
@@ -276,7 +276,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T03:39:05+00:00
 Texto: [Sem texto]
 

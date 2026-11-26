@@ -1,7 +1,7 @@
 [
   {
     "id": 6821,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T12:31:15+00:00",
     "text": "https://www.youtube.com/watch?v=7cSqOve5o2M",
     "has_media": true,
@@ -9,7 +9,7 @@
   },
   {
     "id": 6819,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T12:30:57+00:00",
     "text": "**Resumo - Como Construir um Agente de IA com DeepSeek AI para Transformar Vídeos do YouTube em Blogs via Telegram (Sem Código)**\n\n**Demonstraçêo Inicial**:\n- O usuário envia o link de um vídeo do YouTube no Telegram.\n- O sistema busca a transcriçêo do vídeo.\n- A transcriçêo é enviada ao DeepSeek AI, que resume e transforma em um post de blog.\n- Resultado: blog bem estruturado, fácil de ler e rápido de consumir.\n\n**Itens necessários**:\n1. Bot do Telegram (criado via BotFather).\n2. API do DeepSeek AI (chave gerada no site do DeepSeek).\n3. API do SearchAPI.io (para buscar a transcriçêo do vídeo).\n\n**Configuraçêo de Credenciais**:\n- Bot do Telegram: criar bot e pegar token.\n- DeepSeek AI: gerar chave de API e configurar header de autorizaçêo.\n- SearchAPI.io: copiar chave de API e configurar para busca de transcriçêo.\n\n**Fluxo Principal** (n8n Workflow):\n1. **Telegram Trigger**: Detectar mensagem enviada (o link do YouTube).\n2. **Extrair ID do Vídeo**: Código personalizado pega apenas o ID do link recebido.\n3. **Buscar Transcriçêo**: Usar SearchAPI.io para obter o texto do vídeo.\n4. **Enviar Confirmaçêo**: Avisar no Telegram que a transcriçêo foi recuperada.\n5. **Enviar para DeepSeek AI**: Mandar a transcriçêo e receber o resumo em formato de blog.\n6. **Dividir o Texto**: Partir o texto em partes menores para enviar no Telegram (limite de caracteres).\n7. **Enviar o Blog via Telegram**: Publicar o blog dividido no chat.\n8. **Exibir o Custo**: Mostrar quanto custou em tokens o processamento feito no DeepSeek.\n\n**Destaques**:\n- Integraçêo toda feita sem necessidade de codificar do zero (usando n8n e APIs externas).\n- Conteúdo transformado automaticamente, poupando tempo de criaçêo manual.\n- O blog é bem estruturado, com leitura rápida e amigável.\n\n---",
     "has_media": false,
@@ -17,7 +17,7 @@
   },
   {
     "id": 6818,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T12:28:51+00:00",
     "text": "",
     "has_media": true,
@@ -26,7 +26,7 @@
   },
   {
     "id": 6816,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T12:27:50+00:00",
     "text": "Um Agente de IA com DeepSeek AI para Transformar Vídeos do YouTube em Posts de Blog via Telegram (Sem Código)\"**  \n\nComo reaproveitar vídeos do YouTube em posts de blog usando um agente de IA sem código, que integra o Telegram, o DeepSeek AI e o searchapi.io. Esse sistema automatiza a recuperaçêo da transcriçêo, o processamento e a entrega da resposta — tornando a criaçêo de conteúdo fácil e automática.\"**\n\nResumo do que esse processo faz:  \n- Pega vídeos do YouTube.  \n- Usa um agente de IA (sem precisar programar).  \n- Recupera automaticamente a transcriçêo do vídeo.  \n- Processa o texto para transformar em um post de blog.  \n- Entrega o resultado via Telegram.",
     "has_media": false,
@@ -34,7 +34,7 @@
   },
   {
     "id": 6815,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T12:26:45+00:00",
     "text": "",
     "has_media": true,
@@ -43,7 +43,7 @@
   },
   {
     "id": 6813,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T12:25:59+00:00",
     "text": "",
     "has_media": true,
@@ -52,7 +52,7 @@
   },
   {
     "id": 6812,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T12:25:57+00:00",
     "text": "",
     "has_media": true,
@@ -61,7 +61,7 @@
   },
   {
     "id": 6811,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T12:24:23+00:00",
     "text": "als06 - Transformar Vídeo do YouTube em Blog via Telegram",
     "has_media": false,
@@ -69,7 +69,7 @@
   },
   {
     "id": 6810,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T12:24:22+00:00",
     "text": "..",
     "has_media": false,
@@ -77,7 +77,7 @@
   },
   {
     "id": 6809,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T12:24:20+00:00",
     "text": ".",
     "has_media": false,
@@ -85,7 +85,7 @@
   },
   {
     "id": 6808,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T12:24:20+00:00",
     "text": "..",
     "has_media": false,
@@ -93,7 +93,7 @@
   },
   {
     "id": 6807,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T12:24:20+00:00",
     "text": ".",
     "has_media": false,
@@ -101,7 +101,7 @@
   },
   {
     "id": 6806,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T12:24:20+00:00",
     "text": "...",
     "has_media": false,
@@ -109,7 +109,7 @@
   },
   {
     "id": 6805,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T12:24:19+00:00",
     "text": "..",
     "has_media": false,
@@ -117,7 +117,7 @@
   },
   {
     "id": 6804,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T12:24:19+00:00",
     "text": ".",
     "has_media": false,
@@ -125,7 +125,7 @@
   },
   {
     "id": 6803,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T12:24:19+00:00",
     "text": ".",
     "has_media": false,
@@ -133,7 +133,7 @@
   },
   {
     "id": 6802,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T12:24:19+00:00",
     "text": "https://chatgpt.com/c/680f733b-b544-8009-8337-9107985efddc",
     "has_media": true,
@@ -141,7 +141,7 @@
   },
   {
     "id": 6801,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T12:24:16+00:00",
     "text": "1",
     "has_media": false,
@@ -149,7 +149,7 @@
   },
   {
     "id": 6800,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T12:23:56+00:00",
     "text": "",
     "has_media": false,

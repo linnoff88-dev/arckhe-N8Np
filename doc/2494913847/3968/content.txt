@@ -10,7 +10,7 @@ Midias baixadas: 6
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T02:34:39+00:00
 Texto:
 Connecting GHL to n8n Made Easy!
@@ -18,7 +18,7 @@ Connecting GHL to n8n Made Easy!
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T02:34:06+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> EAA___Find_Available_Slots.json
@@ -26,7 +26,7 @@ Midia: MessageMediaDocument -> EAA___Find_Available_Slots.json
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T02:34:06+00:00
 Texto:
 mv1 - EAA
@@ -35,7 +35,7 @@ Midia: MessageMediaDocument -> EAA___Get_Customer_Details.json
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T02:34:06+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> EAA___Post_Call_Automation.json
@@ -43,7 +43,7 @@ Midia: MessageMediaDocument -> EAA___Post_Call_Automation.json
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T02:33:31+00:00
 Texto:
 Find_slots
@@ -52,7 +52,7 @@ Midia: MessageMediaPhoto -> photo_3978_005.jpg
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T02:29:54+00:00
 Texto:
 Get_details
@@ -61,7 +61,7 @@ Midia: MessageMediaPhoto -> photo_3977_006.jpg
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T02:29:08+00:00
 Texto:
 Post_call
@@ -70,7 +70,7 @@ Midia: MessageMediaPhoto -> photo_3976_007.jpg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T02:27:13+00:00
 Texto:
 mv1 - **Como criar agentes de voz**
@@ -78,7 +78,7 @@ mv1 - **Como criar agentes de voz**
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T02:27:11+00:00
 Texto:
 .
@@ -86,7 +86,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T02:27:11+00:00
 Texto:
 .
@@ -94,7 +94,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T02:27:11+00:00
 Texto:
 .
@@ -102,7 +102,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T02:27:10+00:00
 Texto:
 .
@@ -110,7 +110,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T02:27:10+00:00
 Texto:
 .
@@ -118,7 +118,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T02:27:09+00:00
 Texto:
 1
@@ -126,7 +126,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T02:27:04+00:00
 Texto: [Sem texto]
 

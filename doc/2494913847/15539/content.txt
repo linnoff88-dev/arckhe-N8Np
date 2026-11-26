@@ -30,7 +30,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T07:18:50+00:00
 Texto:
 on-the-fly.
@@ -87,7 +87,7 @@ R: ativa debug (webhook?debug=1), insere logs no HTML e pede ao LLM para corrigi
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T07:18:50+00:00
 Texto:
 Hacks práticos, diretos e aplicáveis para acelerar a criaçêo do teu Dashboard sem Data Studio (N8N + Google Sheets + IA + Plotly). Primeiro os hacks, depois exemplos rápidos e perguntas+respostas no final.
@@ -171,7 +171,7 @@ Hacks práticos, diretos e aplicáveis para acelerar a criaçêo do teu Dashboar
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T07:17:56+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15560_005.jpg
@@ -179,7 +179,7 @@ Midia: MessageMediaPhoto -> photo_15560_005.jpg
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T07:17:20+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15559_006.jpg
@@ -187,7 +187,7 @@ Midia: MessageMediaPhoto -> photo_15559_006.jpg
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T07:16:33+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15558_007.jpg
@@ -195,7 +195,7 @@ Midia: MessageMediaPhoto -> photo_15558_007.jpg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T07:16:08+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15557_008.jpg
@@ -203,7 +203,7 @@ Midia: MessageMediaPhoto -> photo_15557_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T07:15:03+00:00
 Texto:
 ============
@@ -211,7 +211,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T07:14:59+00:00
 Texto:
 ### Passo a passo direto para criar o **Dashboard sem Data Studio** (N8N + IA + Google Sheets)
@@ -294,7 +294,7 @@ Dashboard HTML moderno, interativo e responsivo — sem precisar de **Data Studi
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T07:14:05+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15554_011.jpg
@@ -302,7 +302,7 @@ Midia: MessageMediaPhoto -> photo_15554_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T07:13:52+00:00
 Texto:
 **Resumo completo do vídeo “Dashboard PRO en minutos”**
@@ -399,7 +399,7 @@ Em menos de **30 minutos**, é possível montar um dashboard completo, funcional
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T07:12:56+00:00
 Texto:
 ===========
@@ -407,7 +407,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T07:12:47+00:00
 Texto:
 🤖 e58. Dashboard PRO em minutos
@@ -473,7 +473,7 @@ Sem depender de ferramentas pesadas como Data Studio ou Power BI, será possíve
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T07:11:23+00:00
 Texto:
 ==========
@@ -481,7 +481,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T07:11:17+00:00
 Texto:
 Dashboards PRO no N8N
@@ -524,7 +524,7 @@ Isso já nêo é mais sobre automatizar.
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T07:09:19+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Dashboard Llamadas (Día_7d_30d_Mes) · Plotly.json
@@ -532,7 +532,7 @@ Midia: MessageMediaDocument -> Dashboard Llamadas (Día_7d_30d_Mes) · Plotly.j
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T07:09:19+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Copy of Copia de Registro llamadas HairSolution OK.xlsx
@@ -540,7 +540,7 @@ Midia: MessageMediaDocument -> Copy of Copia de Registro llamadas HairSolution O
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T07:09:09+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15546_019.jpg
@@ -548,7 +548,7 @@ Midia: MessageMediaPhoto -> photo_15546_019.jpg
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T07:02:56+00:00
 Texto:
 .e58 - Dashboard Pro N8N
@@ -556,7 +556,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T07:02:55+00:00
 Texto:
 .
@@ -564,7 +564,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T07:02:55+00:00
 Texto:
 .
@@ -572,7 +572,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T07:02:54+00:00
 Texto:
 .
@@ -580,7 +580,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T07:02:54+00:00
 Texto:
 https://chatgpt.com/c/690af6ae-116c-8333-b74b-ff54e939278c
@@ -589,7 +589,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T07:02:53+00:00
 Texto:
 1
@@ -597,7 +597,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T07:02:49+00:00
 Texto: [Sem texto]
 

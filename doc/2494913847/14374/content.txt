@@ -10,7 +10,7 @@ Midias baixadas: 3
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-19T17:54:09+00:00
 Texto:
 = true no body da requisiçêo; ajuste o system prompt para instruir o agente a devolver: nome do documento, página e quote. Teste copiando o quote e fazendo Ctrl+F no PDF para validar.
@@ -49,7 +49,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-19T17:54:09+00:00
 Texto:
 # Hacks práticos (rápido e aplicável)
@@ -149,7 +149,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-19T17:53:41+00:00
 Texto:
 ================
@@ -157,7 +157,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-19T17:53:08+00:00
 Texto:
 Aqui está o resumo do vídeo:
@@ -187,7 +187,7 @@ O criador demonstra:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-19T17:48:18+00:00
 Texto:
 https://www.youtube.com/watch?v=QojPKL96Dx4
@@ -196,7 +196,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-19T17:47:05+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Pinecone Assistant.json
@@ -204,7 +204,7 @@ Midia: MessageMediaDocument -> Pinecone Assistant.json
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-19T17:47:01+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14387_007.jpg
@@ -212,7 +212,7 @@ Midia: MessageMediaPhoto -> photo_14387_007.jpg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-19T17:43:35+00:00
 Texto:
 ap63 - RAG Agente - Pinecone Assistente
@@ -220,7 +220,7 @@ ap63 - RAG Agente - Pinecone Assistente
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-19T17:43:34+00:00
 Texto:
 .
@@ -228,7 +228,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-19T17:43:34+00:00
 Texto:
 .
@@ -236,7 +236,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-19T17:43:34+00:00
 Texto:
 .
@@ -244,7 +244,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-19T17:43:33+00:00
 Texto:
 .
@@ -252,7 +252,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-19T17:43:33+00:00
 Texto:
 .
@@ -260,7 +260,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-19T17:43:33+00:00
 Texto:
 .
@@ -268,7 +268,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-19T17:43:32+00:00
 Texto:
 1
@@ -276,7 +276,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-19T17:43:28+00:00
 Texto: [Sem texto]
 

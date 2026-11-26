@@ -10,7 +10,7 @@ Midias baixadas: 4
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-14T01:00:58+00:00
 Texto:
 https://www.youtube.com/watch?v=Ee9WtEEd300
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-14T01:00:37+00:00
 Texto:
 **Resumo completo "Transforme qualquer site em dados prontos para LLM em segundos com n8n e Firecrawl":**
@@ -111,7 +111,7 @@ Como transformar qualquer site em dados prontos para modelos de linguagem (LLMs)
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-14T00:58:51+00:00
 Texto:
 **Transforme Qualquer Site em Dados Prontos para LLM em Segundos com n8n & Firecrawl**
@@ -121,7 +121,7 @@ Como usar o n8n e o Firecrawl para ir além da raspagem básica da web. Você ap
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-14T00:58:06+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Firecrawl_Extract_Template.json
@@ -129,7 +129,7 @@ Midia: MessageMediaDocument -> Firecrawl_Extract_Template.json
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-14T00:57:58+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_5764_005.jpg
@@ -137,7 +137,7 @@ Midia: MessageMediaPhoto -> photo_5764_005.jpg
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-14T00:56:46+00:00
 Texto:
 .ap15 - Raspe Site e leve para LLM - FireCrawl
@@ -145,7 +145,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-14T00:56:43+00:00
 Texto:
 .
@@ -153,7 +153,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-14T00:56:43+00:00
 Texto:
 ...
@@ -161,7 +161,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-14T00:56:42+00:00
 Texto:
 ..
@@ -169,7 +169,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-14T00:56:42+00:00
 Texto:
 .
@@ -177,7 +177,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-14T00:56:42+00:00
 Texto:
 ..
@@ -185,7 +185,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-14T00:56:42+00:00
 Texto:
 .
@@ -193,7 +193,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-14T00:56:41+00:00
 Texto:
 https://chatgpt.com/c/67fc5cac-0f90-8009-a6fb-56a76b7a0f1a
@@ -202,7 +202,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-14T00:56:41+00:00
 Texto:
 1
@@ -210,7 +210,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-14T00:56:34+00:00
 Texto: [Sem texto]
 

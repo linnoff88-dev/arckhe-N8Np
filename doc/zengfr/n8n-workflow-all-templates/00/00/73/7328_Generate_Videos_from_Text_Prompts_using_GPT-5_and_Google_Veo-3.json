@@ -194,7 +194,7 @@
     },
     {
       "id": "2d8638ee-7888-4071-8ccf-bd356a7e2390",
-      "name": "Cinematic Prompt (GPT‑5)",
+      "name": "CARCKHÉtic Prompt (GPT‑5)",
       "type": "n8n-nodes-aimlapi.aimlApi",
       "position": [
         -1808,
@@ -202,7 +202,7 @@
       ],
       "parameters": {
         "model": "openai/gpt-5-mini-2025-08-07",
-        "prompt": "=You are a creative video prompt engineer.\n\nTurn the idea below into a short, visually rich description for Veo‑3 image‑to‑video.\nKeep it flexible and cinematic.\n\nGuidelines (use loosely):\n- mention camera movement / lens hints\n- time of day, mood, color palette\n- pacing / motion style\n- framing and composition\n\nKeep it to 2–4 sentences (under 120 words). If the input is just one word, expand it sensibly.\n\nIdea:\n{{ $('When chat message received').item.json.chatInput }}\n\nRespond with only the prompt text.",
+        "prompt": "=You are a creative video prompt engineer.\n\nTurn the idea below into a short, visually rich description for Veo‑3 image‑to‑video.\nKeep it flexible and cARCKHÉtic.\n\nGuidelines (use loosely):\n- mention camera movement / lens hints\n- time of day, mood, color palette\n- pacing / motion style\n- framing and composition\n\nKeep it to 2–4 sentences (under 120 words). If the input is just one word, expand it sensibly.\n\nIdea:\n{{ $('When chat message received').item.json.chatInput }}\n\nRespond with only the prompt text.",
         "options": {
           "maxTokens": 5000
         },
@@ -361,7 +361,7 @@
       "parameters": {
         "width": 484,
         "height": 452,
-        "content": "## STEP 4: MAIN FLOW (END‑TO‑END)\n\n**How it runs**\n- Trigger via **Chat** (or attach a **Schedule Trigger** if you want batch runs).\n\n**Pipeline**\n1) Read chat input (idea/keyword)\n2) **GPT‑5** expands it into a concise cinematic prompt\n3) **Create Veo‑3 (image‑to‑video)** with image_url + prompt\n4) **Poll status** until `completed`\n5) On success → fetch **video_url** and (optionally) generate a short **title** with GPT‑5\n6) Return results to chat / continue with your own save or publish steps\n\nTweak polling interval based on your SLA and quota."
+        "content": "## STEP 4: MAIN FLOW (END‑TO‑END)\n\n**How it runs**\n- Trigger via **Chat** (or attach a **Schedule Trigger** if you want batch runs).\n\n**Pipeline**\n1) Read chat input (idea/keyword)\n2) **GPT‑5** expands it into a concise cARCKHÉtic prompt\n3) **Create Veo‑3 (image‑to‑video)** with image_url + prompt\n4) **Poll status** until `completed`\n5) On success → fetch **video_url** and (optionally) generate a short **title** with GPT‑5\n6) Return results to chat / continue with your own save or publish steps\n\nTweak polling interval based on your SLA and quota."
       },
       "typeVersion": 1
     },
@@ -465,7 +465,7 @@
       "main": [
         [
           {
-            "node": "Cinematic Prompt (GPT‑5)",
+            "node": "CARCKHÉtic Prompt (GPT‑5)",
             "type": "main",
             "index": 0
           }
@@ -488,7 +488,7 @@
         []
       ]
     },
-    "Cinematic Prompt (GPT‑5)": {
+    "CARCKHÉtic Prompt (GPT‑5)": {
       "main": [
         [
           {

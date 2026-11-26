@@ -10,7 +10,7 @@ Midias baixadas: 12
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-23T20:51:45+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11778_001.jpg
@@ -18,7 +18,7 @@ Midia: MessageMediaPhoto -> photo_11778_001.jpg
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-23T20:51:18+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> j58  - FTD Chatbot de IA Multicanal com RAG.json
@@ -26,7 +26,7 @@ Midia: MessageMediaDocument -> j58  - FTD Chatbot de IA Multicanal com RAG.json
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-16T04:13:25+00:00
 Texto:
 https://www.youtube.com/watch?v=gOmF9saong0
@@ -35,15 +35,15 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-16T04:11:42+00:00
 Texto:
-ou inemaftd@gmail.com
+ou ARCKHÉftd@gmail.com
 
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-16T04:11:13+00:00
 Texto:
 https://huggingface.co/spaces/nmaldaner/als16
@@ -52,12 +52,12 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-16T04:10:12+00:00
 Texto:
-Você é um chatbot inteligente chamado INEMA BOT, com uma interface visual amigável e moderna. Sua funçêo é realizar atendimentos eficientes, personalizados e empáticos, utilizando webhooks para obter e enviar dados em tempo real.
+Você é um chatbot inteligente chamado ARCKHÉ BOT, com uma interface visual amigável e moderna. Sua funçêo é realizar atendimentos eficientes, personalizados e empáticos, utilizando webhooks para obter e enviar dados em tempo real.
 
-🔗 Webhook de integraçêo: https://webhk.inema.online/webhook/32b289bc-d4a7-419c-a6a3-74572502c752
+🔗 Webhook de integraçêo: https://webhk.ARCKHÉ.online/webhook/32b289bc-d4a7-419c-a6a3-74572502c752
 
 📋 Instruções:
 
@@ -97,7 +97,7 @@ Você é um chatbot inteligente chamado INEMA BOT, com uma interface visual amig
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-16T04:09:31+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> als16____Chatbot_de_IA_Multicanal_com_RAG_copy (1).json
@@ -105,7 +105,7 @@ Midia: MessageMediaDocument -> als16____Chatbot_de_IA_Multicanal_com_RAG_copy (1
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-16T04:08:50+00:00
 Texto:
 live 15/5/25
@@ -114,7 +114,7 @@ Midia: MessageMediaPhoto -> photo_7739_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-16T04:07:09+00:00
 Texto:
 deepsite
@@ -123,7 +123,7 @@ Midia: MessageMediaDocument -> Esse projeto da Comunidade FTD als16.txt
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-16T04:05:25+00:00
 Texto:
 é este acima rodrigo
@@ -147,7 +147,7 @@ Já tem vídeo no canal explicando melhor?
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T02:39:40+00:00
 Texto:
 Dica:  quando vc configura pro exemplo o telegram e os oturos nao sao configurados da erro, entao coloca qq coisa nas outras conexoes e ais passa a funcionar
@@ -155,7 +155,7 @@ Dica:  quando vc configura pro exemplo o telegram e os oturos nao sao configurad
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T02:29:08+00:00
 Texto:
 TEm saber fazer as conexoes , aprenda s elas antes
@@ -163,7 +163,7 @@ TEm saber fazer as conexoes , aprenda s elas antes
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T02:28:44+00:00
 Texto:
 https://www.youtube.com/watch?v=LUBbnJ6qffc
@@ -172,7 +172,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T02:28:33+00:00
 Texto:
 **Resumo do vídeo**  
@@ -236,7 +236,7 @@ Sistema completo de chatbot multicanal com base de conhecimento personalizada e 
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T02:23:23+00:00
 Texto:
 mudei para chatgpt
@@ -244,7 +244,7 @@ mudei para chatgpt
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T02:23:12+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> image.png
@@ -252,7 +252,7 @@ Midia: MessageMediaDocument -> image.png
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T02:11:21+00:00
 Texto:
 Perguntas e Respostas Relacionadas
@@ -273,7 +273,7 @@ Seguindo esses passos, você poderá fazer a transiçêo do uso do Telegram para
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T02:11:06+00:00
 Texto:
 ===========
@@ -281,7 +281,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T02:10:20+00:00
 Texto:
 Crie um Chatbot de IA Multicanal com RAG e Base de Conhecimento Personalizada em 20 minutos  
@@ -293,7 +293,7 @@ Este sistema baseado em IA oferece respostas rápidas e precisas e facilita a ge
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T02:06:37+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Template_12_Build_a_Multichannel_RAG_based_AI_Chatbot_with_Custom.json
@@ -301,7 +301,7 @@ Midia: MessageMediaDocument -> Template_12_Build_a_Multichannel_RAG_based_AI_Cha
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T02:06:34+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6659_023.jpg
@@ -309,7 +309,7 @@ Midia: MessageMediaPhoto -> photo_6659_023.jpg
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T02:04:50+00:00
 Texto:
 als16  - Chatbot de IA Multicanal com RAG
@@ -317,7 +317,7 @@ als16  - Chatbot de IA Multicanal com RAG
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T02:04:40+00:00
 Texto:
 ...
@@ -325,7 +325,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T02:04:39+00:00
 Texto:
 ..
@@ -333,7 +333,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T02:04:39+00:00
 Texto:
 .
@@ -341,7 +341,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T02:04:39+00:00
 Texto:
 ..
@@ -349,7 +349,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T02:04:39+00:00
 Texto:
 .
@@ -357,7 +357,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T02:04:39+00:00
 Texto:
 ..
@@ -365,7 +365,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T02:04:38+00:00
 Texto:
 .
@@ -373,7 +373,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 32
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T02:04:38+00:00
 Texto:
 https://chatgpt.com/c/680ee135-6028-8009-89ac-4f63bb3b5296
@@ -382,7 +382,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 33
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T02:04:38+00:00
 Texto:
 1
@@ -390,7 +390,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 34
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T02:04:34+00:00
 Texto: [Sem texto]
 

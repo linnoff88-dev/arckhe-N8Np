@@ -34,7 +34,7 @@ Boa tarde amigo, como faço para visualizar este arquivo ".jason" ?
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-08T06:08:21+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_4950_004.jpg
@@ -42,7 +42,7 @@ Midia: MessageMediaPhoto -> photo_4950_004.jpg
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-08T05:49:38+00:00
 Texto:
 https://tavily.com/#pricing
@@ -51,7 +51,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T22:39:02+00:00
 Texto:
 https://www.youtube.com/watch?v=06Beyp_iDL0
@@ -60,7 +60,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T22:38:45+00:00
 Texto:
 **"3 fluxos de trabalho de IA que você pode criar HOJE (como iniciante)"**
@@ -119,7 +119,7 @@ Todos os fluxos sêo explicados detalhadamente, com configurações de credencia
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T22:38:40+00:00
 Texto:
 =================
@@ -127,7 +127,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T22:38:38+00:00
 Texto:
 =======================
@@ -135,7 +135,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T22:38:08+00:00
 Texto:
 Aqui estêo **dicas diretas e práticas para cada fluxo**:
@@ -175,7 +175,7 @@ Aqui estêo **dicas diretas e práticas para cada fluxo**:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T22:37:42+00:00
 Texto:
 =================
@@ -183,7 +183,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T22:37:36+00:00
 Texto:
 Abaixo está o **passo a passo detalhado do Fluxo 3: Geraçêo de conteúdo para LinkedIn com IA e pesquisa web**, usando **n8n**, **Google Sheets**, **Tavily**, **OpenRouter** e **OpenAI**.
@@ -297,7 +297,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T22:34:56+00:00
 Texto:
 ================
@@ -305,7 +305,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T22:34:52+00:00
 Texto:
 Abaixo está o **passo a passo detalhado do Fluxo 2: Atendimento automático por e-mail com IA (Customer Support)** usando o **n8n**, **Gmail**, **Pinecone**, **OpenAI** e **OpenRouter**.
@@ -403,7 +403,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T22:34:39+00:00
 Texto:
 =============================
@@ -411,7 +411,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T22:34:10+00:00
 Texto:
 Abaixo está o **passo a passo detalhado do Fluxo 1: Chatbot com RAG (Retrieval-Augmented Generation)** usando o **n8n**, **Google Drive**, **Pinecone**, **OpenAI** e **OpenRouter**.
@@ -496,7 +496,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T22:32:12+00:00
 Texto:
 ap14
@@ -505,7 +505,7 @@ Midia: MessageMediaDocument -> RAG_Pipeline___Chatbot.json
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T22:32:12+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Customer_Support_Workflow.json
@@ -513,7 +513,7 @@ Midia: MessageMediaDocument -> Customer_Support_Workflow.json
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T22:32:12+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> LinkedIn_Content_Creator.json
@@ -521,7 +521,7 @@ Midia: MessageMediaDocument -> LinkedIn_Content_Creator.json
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T22:31:27+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_4921_020.jpg
@@ -529,7 +529,7 @@ Midia: MessageMediaPhoto -> photo_4921_020.jpg
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T22:30:17+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_4920_021.jpg
@@ -537,7 +537,7 @@ Midia: MessageMediaPhoto -> photo_4920_021.jpg
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T22:29:09+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_4919_022.jpg
@@ -545,7 +545,7 @@ Midia: MessageMediaPhoto -> photo_4919_022.jpg
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T22:28:03+00:00
 Texto:
 Os três fluxos sêo: um chatbot com base em documentos (RAG), um sistema automático de resposta a e-mails de suporte, e um gerador diário de posts para LinkedIn usando IA e pesquisa web.
@@ -553,7 +553,7 @@ Os três fluxos sêo: um chatbot com base em documentos (RAG), um sistema autom�
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T22:27:54+00:00
 Texto:
 **3 automações com IA no n8n para iniciantes: Chatbot RAG, Suporte por e-mail e Posts para LinkedIn**
@@ -561,7 +561,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T22:27:00+00:00
 Texto:
 ap14 - 3Fluxos Basicos - Chatbot RAG, Suporte  e-mail e Posts para LinkedIn
@@ -569,7 +569,7 @@ ap14 - 3Fluxos Basicos - Chatbot RAG, Suporte  e-mail e Posts para LinkedIn
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T22:25:16+00:00
 Texto:
 ..
@@ -577,7 +577,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T22:25:15+00:00
 Texto:
 ..
@@ -585,7 +585,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T22:25:15+00:00
 Texto:
 .
@@ -593,7 +593,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T22:25:15+00:00
 Texto:
 .
@@ -601,7 +601,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T22:25:15+00:00
 Texto:
 .
@@ -609,7 +609,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T22:25:14+00:00
 Texto:
 .
@@ -617,7 +617,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 32
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T22:25:12+00:00
 Texto:
 https://chatgpt.com/c/67f44d34-590c-8009-9e4c-a9b5d5021892
@@ -626,7 +626,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 33
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T22:25:08+00:00
 Texto:
 1
@@ -634,7 +634,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 34
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T22:25:02+00:00
 Texto: [Sem texto]
 

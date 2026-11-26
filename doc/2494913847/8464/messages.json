@@ -1,7 +1,7 @@
 [
   {
     "id": 8480,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-28T05:14:25+00:00",
     "text": "https://www.youtube.com/watch?v=J2VOsyCoX0Q",
     "has_media": true,
@@ -9,7 +9,7 @@
   },
   {
     "id": 8479,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-28T05:13:57+00:00",
     "text": "1. **Objetivo Geral**\n\n   * Criar um sistema de automaçêo de SEO completo com **n8n**, sem código.\n   * Desde a pesquisa de palavras-chave até a publicaçêo automática no **WordPress**.\n\n2. **Etapa 1: Pesquisa de Palavras-chave**\n\n   * Usa **DataForSEO** com 5 métodos:\n\n     * Palavras relacionadas\n     * Sugestões\n     * Ideias\n     * Autocomplete\n     * Subtópicos\n   * Cada palavra-chave recebe:\n\n     * Volume de busca\n     * CPC (custo por clique)\n     * Concorrência\n     * Intençêo de busca\n   * Geraçêo de um **score personalizado** para priorizaçêo.\n\n3. **Etapa 2: Análise SERP**\n\n   * Apify extrai os 10 primeiros resultados do Google.\n   * Agente de IA faz:\n\n     * Análise de lacunas de conteúdo (content gap)\n     * Identificaçêo do tipo de conteúdo ideal\n     * Público-alvo, tom, objetivo e formato preferido do Google\n   * Geraçêo de dados para estratégia de conteúdo baseada em concorrentes.\n\n4. **Etapa 3: Geraçêo do Content Brief**\n\n   * Criaçêo automática de briefing SEO:\n\n     * Título, introduçêo, H2/H3, palavras-chave, CTA\n     * Links internos e externos\n     * Ângulo único e estrutura lógica\n   * Envio automático para o Google Sheets para os redatores.\n\n5. **Etapa 4: Redaçêo e Publicaçêo**\n\n   * Agente de IA redige o artigo com base no briefing.\n   * Geraçêo de imagem via **OpenAI Image API**.\n   * Formataçêo automática do conteúdo com HTML.\n   * Publicaçêo direta no **WordPress** (modo rascunho ou publicado).\n\n6. **Extras Técnicos**\n\n   * Uso do **pin** de notas no n8n para evitar reruns caros.\n   * Configuraçêo de autenticaçêo com:\n\n     * **OpenRouter** (múltiplos modelos de IA)\n     * **Apify** (crawler de conteúdo)\n     * **Google Sheets & Drive**\n   * Explicações sobre:\n\n     * **Search intent** (informacional, navegacional, comercial, transacional)\n     * **Keyword clustering** (evitar canibalizaçêo e aumentar autoridade)\n     * **Frequência ideal de publicaçêo** (2 a 4 posts por semana)",
     "has_media": false,
@@ -17,7 +17,7 @@
   },
   {
     "id": 8478,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-28T05:13:30+00:00",
     "text": "=============",
     "has_media": false,
@@ -25,7 +25,7 @@
   },
   {
     "id": 8477,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-28T05:13:26+00:00",
     "text": "Resumo da masterclass:\n\nUm sistema completo de **automaçêo de SEO** foi criado usando **n8n**, **DataForSEO**, **Apify**, **OpenAI** e **WordPress**, sem necessidade de programaçêo. O fluxo automatiza desde a pesquisa de palavras-chave até a publicaçêo final de artigos no blog.\n\nResumo por tópicos:\n\n1. **Pesquisa de palavras-chave**\n\n   * Extraçêo automatizada com 5 métodos (relacionadas, sugestões, autocomplete, ideias, subtópicos).\n   * Geraçêo de score baseado em volume, CPC, dificuldade e intençêo.\n\n2. **Análise SERP (resultados do Google)**\n\n   * Crawler coleta dados das 10 primeiras páginas.\n   * Agente de IA analisa conteúdo, tom, estrutura e lacunas.\n\n3. **Content Brief automático**\n\n   * Geraçêo de briefing completo com estrutura SEO (H2, H3, CTAs, links internos/externos).\n   * Resultado enviado para Google Sheets para uso do redator.\n\n4. **Redaçêo e publicaçêo automática**\n\n   * Agente de IA redige o artigo com base no briefing.\n   * Imagens geradas por IA.\n   * Publicaçêo no WordPress com um clique (como rascunho ou publicado).\n\n5. **Recursos adicionais**\n\n   * Técnicas como pin de nós no n8n para testes econômicos.\n   * Estratégias como **clustering de palavras-chave**, análise de intençêo e frequência de postagem para melhorar o SEO.\n\nEsse sistema economiza horas de trabalho manual e permite escalar produçêo de conteúdo SEO com eficiência. Deseja que eu gere um template pronto desse fluxo no n8n?",
     "has_media": false,
@@ -33,7 +33,7 @@
   },
   {
     "id": 8476,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-28T05:08:27+00:00",
     "text": "**Masterclass de SEO com n8n: Da Pesquisa de Palavras-chave à Publicaçêo Automática no WordPress (Tudo no Piloto Automático)**\n\nConstrua uma máquina de automaçêo de SEO usando ferramentas de código aberto como n8n, DataForSEO e Apify — sem código, sem assinaturas e totalmente personalizável. Esse fluxo de trabalho em estilo \"arrastar e soltar\" automatiza a pesquisa de palavras-chave, análise de SERP, criaçêo de resumos de conteúdo e até a publicaçêo no WordPress.\n\nSe você administra uma agência de conteúdo, está escalando sites de nicho ou simplesmente está cansado de fazer SEO manualmente — este sistema faz todo o trabalho pesado por você.\n\nEle extrai dados de cinco APIs de SEO, analisa concorrentes, cria resumos de conteúdo com IA e envia tudo para o Google Sheets para que seus redatores apenas comecem a escrever.",
     "has_media": false,
@@ -41,7 +41,7 @@
   },
   {
     "id": 8475,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-28T05:07:33+00:00",
     "text": "",
     "has_media": true,
@@ -50,7 +50,7 @@
   },
   {
     "id": 8474,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-28T05:07:33+00:00",
     "text": "",
     "has_media": true,
@@ -59,7 +59,7 @@
   },
   {
     "id": 8473,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-28T05:07:25+00:00",
     "text": "",
     "has_media": true,
@@ -68,7 +68,7 @@
   },
   {
     "id": 8472,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-28T05:07:14+00:00",
     "text": "",
     "has_media": true,
@@ -77,7 +77,7 @@
   },
   {
     "id": 8471,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-28T05:06:18+00:00",
     "text": "**al27 - n8n SEO Masterclass**",
     "has_media": false,
@@ -85,7 +85,7 @@
   },
   {
     "id": 8470,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-28T05:06:16+00:00",
     "text": "..",
     "has_media": false,
@@ -93,7 +93,7 @@
   },
   {
     "id": 8469,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-28T05:06:15+00:00",
     "text": ".",
     "has_media": false,
@@ -101,7 +101,7 @@
   },
   {
     "id": 8468,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-28T05:06:15+00:00",
     "text": ".",
     "has_media": false,
@@ -109,7 +109,7 @@
   },
   {
     "id": 8467,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-28T05:06:15+00:00",
     "text": ".",
     "has_media": false,
@@ -117,7 +117,7 @@
   },
   {
     "id": 8466,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-28T05:06:14+00:00",
     "text": "https://chatgpt.com/c/68369941-ddf4-8009-b502-8a716849871e",
     "has_media": true,
@@ -125,7 +125,7 @@
   },
   {
     "id": 8465,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-28T05:06:14+00:00",
     "text": "1",
     "has_media": false,
@@ -133,7 +133,7 @@
   },
   {
     "id": 8464,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-28T05:06:10+00:00",
     "text": "",
     "has_media": false,

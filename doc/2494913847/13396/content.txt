@@ -10,7 +10,7 @@ Midias baixadas: 6
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-27T03:04:54+00:00
 Texto:
 Aqui estêo **hacks práticos** para turbinar esse lead magnet de auditoria web no n8n:
@@ -79,7 +79,7 @@ Aqui estêo **hacks práticos** para turbinar esse lead magnet de auditoria web 
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-27T03:04:35+00:00
 Texto:
 ===================
@@ -87,7 +87,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-27T03:04:31+00:00
 Texto:
 meiro scroll, com cor contrastante e label orientado a açêo
@@ -113,7 +113,7 @@ Salve cada execuçêo com email, URL, status e métricas no CRM/Sheets. Dispare 
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-27T03:04:31+00:00
 Texto:
 e">Auditoria automática</span>
@@ -234,7 +234,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-27T03:04:30+00:00
 Texto:
 class="badg
@@ -242,7 +242,7 @@ class="badg
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-27T03:04:29+00:00
 Texto:
 Passo a passo para montar o lead magnet de auditoria web em 4 módulos no n8n, com exemplos prontos de prompt, HTML e mapeamentos.
@@ -380,7 +380,7 @@ Campo: html_final
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-27T03:03:02+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13416_007.jpg
@@ -388,7 +388,7 @@ Midia: MessageMediaPhoto -> photo_13416_007.jpg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-27T02:59:44+00:00
 Texto:
 ======================
@@ -396,7 +396,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-27T02:59:40+00:00
 Texto:
 Resumo estruturado da aula:
@@ -446,7 +446,7 @@ O instrutor mostrou como evoluiu a automaçêo:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-27T02:58:49+00:00
 Texto:
 ============
@@ -454,12 +454,12 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-27T02:58:44+00:00
 Texto:
 e41. Lead magnet poderoso com apenas 4 módulos
 
-🚨 Mesmo fluxo trabalhado com MAKE:  no INEMA.MAKE
+🚨 Mesmo fluxo trabalhado com MAKE:  no ARCKHÉ.MAKE
 
 Nesta aula você aprende a criar um sistema automatizado de “roast” ou avaliaçêo de um site que é entregue por email ao usuário. A proposta funciona como um lead magnet espetacular: você oferece uma auditoria gratuita da página web do potencial cliente e, em troca, captura seu email e gera confiança para vender seus serviços.
 
@@ -501,7 +501,7 @@ Blueprint Analizador Web
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-27T02:58:02+00:00
 Texto:
 ======
@@ -509,7 +509,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-27T02:57:50+00:00
 Texto:
 Imê de leads automatizado com auditoria web
@@ -548,7 +548,7 @@ Isso é captaçêo em 2025: entregar antes de vender.
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-27T02:56:57+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13408_014.jpg
@@ -556,7 +556,7 @@ Midia: MessageMediaPhoto -> photo_13408_014.jpg
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-27T02:56:42+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> e41 - Auditoria Site WEB Gratis.json
@@ -564,7 +564,7 @@ Midia: MessageMediaDocument -> e41 - Auditoria Site WEB Gratis.json
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-27T02:56:27+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13406_016.jpg
@@ -572,7 +572,7 @@ Midia: MessageMediaPhoto -> photo_13406_016.jpg
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-27T02:55:28+00:00
 Texto:
 e41 - Auditoria Site WEB Gratis
@@ -580,7 +580,7 @@ e41 - Auditoria Site WEB Gratis
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-27T02:55:27+00:00
 Texto:
 .
@@ -588,7 +588,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-27T02:55:25+00:00
 Texto:
 .
@@ -596,7 +596,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-27T02:55:23+00:00
 Texto:
 .
@@ -604,7 +604,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-27T02:55:21+00:00
 Texto:
 .
@@ -612,7 +612,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-27T02:55:20+00:00
 Texto:
 .
@@ -620,7 +620,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-27T02:55:19+00:00
 Texto:
 .
@@ -628,7 +628,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-27T02:55:19+00:00
 Texto:
 https://chatgpt.com/c/68ae7271-6b38-8330-8426-dc807b12bd3c
@@ -637,7 +637,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-27T02:55:18+00:00
 Texto:
 1
@@ -645,7 +645,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-27T02:54:58+00:00
 Texto: [Sem texto]
 

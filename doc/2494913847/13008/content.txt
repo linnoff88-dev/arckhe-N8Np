@@ -10,7 +10,7 @@ Midias baixadas: 4
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-20T04:06:35+00:00
 Texto:
 ### **Resumo : Como Captar Clientes no LinkedIn com IA e Automatizaçêo 100% Gratuita**
@@ -85,7 +85,7 @@ Essa é uma maneira **efetiva, gratuita e escalável** de gerar leads no LinkedI
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-20T04:05:41+00:00
 Texto:
 ==================
@@ -93,7 +93,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-20T04:05:37+00:00
 Texto:
 **e39. Leads grátis no LinkedIn com IA**
@@ -155,7 +155,7 @@ Além disso, vai aprender a usar o **modo agente do ChatGPT (Operator)** para en
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-20T04:05:15+00:00
 Texto:
 ===============
@@ -163,7 +163,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-20T04:04:54+00:00
 Texto:
 **Automatize a captaçêo de leads no LinkedIn**
@@ -185,7 +185,7 @@ E o melhor: dá para adaptar a busca para qualquer setor, país ou até mesmo ou
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-20T04:04:03+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Prompt agente linkdin.docx
@@ -193,7 +193,7 @@ Midia: MessageMediaDocument -> Prompt agente linkdin.docx
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-20T04:03:57+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> LinkedIn Scraper sin API de Pago.json
@@ -201,7 +201,7 @@ Midia: MessageMediaDocument -> LinkedIn Scraper sin API de Pago.json
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-20T04:03:48+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13018_008.jpg
@@ -209,7 +209,7 @@ Midia: MessageMediaPhoto -> photo_13018_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-20T04:02:37+00:00
 Texto:
 e39 - Captaçêo de Leads no LinkedIn
@@ -217,7 +217,7 @@ e39 - Captaçêo de Leads no LinkedIn
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-20T04:02:36+00:00
 Texto:
 .
@@ -225,7 +225,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-20T04:02:36+00:00
 Texto:
 .
@@ -233,7 +233,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-20T04:02:35+00:00
 Texto:
 .
@@ -241,7 +241,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-20T04:02:35+00:00
 Texto:
 .
@@ -249,7 +249,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-20T04:02:34+00:00
 Texto:
 .
@@ -257,7 +257,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-20T04:02:34+00:00
 Texto:
 https://chatgpt.com/c/68a54849-5868-8322-b73a-b4b58bb33858
@@ -266,7 +266,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-20T04:02:33+00:00
 Texto:
 1
@@ -274,7 +274,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-20T04:02:30+00:00
 Texto: [Sem texto]
 

@@ -25,7 +25,7 @@
   },
   {
     "id": 14270,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-09-16T02:50:42+00:00",
     "text": "",
     "has_media": true,
@@ -34,7 +34,7 @@
   },
   {
     "id": 14269,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-09-16T02:50:42+00:00",
     "text": "",
     "has_media": true,
@@ -43,7 +43,7 @@
   },
   {
     "id": 14268,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-09-16T02:50:31+00:00",
     "text": "",
     "has_media": true,
@@ -52,7 +52,7 @@
   },
   {
     "id": 14267,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-09-16T02:50:10+00:00",
     "text": "versao atualiza tudo",
     "has_media": false,
@@ -60,7 +60,7 @@
   },
   {
     "id": 14266,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-09-16T02:49:53+00:00",
     "text": "",
     "has_media": true,
@@ -69,7 +69,7 @@
   },
   {
     "id": 14239,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-09-14T03:00:38+00:00",
     "text": "",
     "has_media": true,
@@ -78,7 +78,7 @@
   },
   {
     "id": 14238,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-09-14T03:00:38+00:00",
     "text": "",
     "has_media": true,
@@ -87,7 +87,7 @@
   },
   {
     "id": 14237,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-09-14T03:00:38+00:00",
     "text": "",
     "has_media": true,
@@ -96,15 +96,15 @@
   },
   {
     "id": 14236,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-09-14T02:59:54+00:00",
-    "text": "## Automaçêo de Atualizaçêo de Vídeos no YouTube\n\n### Fluxo Principal\n\n1. **Entrada**\n\n   * Recebe link ou ID do vídeo via chat.\n\n2. **Extraçêo**\n\n   * Extrai ID do vídeo.\n   * Busca título, descriçêo e metadados via YouTube API.\n   * Obtém transcriçêo (se nêo existir, gera com Whisper).\n\n3. **Processamento**\n\n   * Gera resumo estruturado:\n\n     * Sumário\n     * Pontos-chave\n     * Insights\n     * CTA\n     * Tópicos\n   * Cria prompt para thumbnail a partir do resumo.\n\n4. **Geraçêo da Thumbnail**\n\n   * Converte o prompt em imagem (DALL·E 3, 16:9).\n   * Ajusta para 1280×720, JPEG qualidade 75.\n   * Usa o Code para limpar e padronizar o prompt final.\n\n5. **Atualizaçêo no YouTube**\n\n   * Atualiza descriçêo com resumo e tópicos.\n   * Substitui thumbnail pelo arquivo gerado.\n\n6. **Registro**\n\n   * Salva no Google Sheets:\n\n     * ID do vídeo\n     * Data de publicaçêo\n     * Título\n     * Descriçêo\n     * Resumo\n     * Prompt da thumbnail\n     * Link da imagem\n\n---\n\n## Gestêo de Conteúdo em Tabela\n\n* A planilha já armazena dados essenciais.\n* Você pode expandir adicionando colunas como:\n\n  * status\\_conteudo (rascunho, publicado…)\n  * versao\\_resumo (v1, v2…)\n  * persona\\_thumbnail (descriçêo da persona desejada)\n  * palavras\\_chave\n  * link\\_assets\n  * rag\\_incluido (sim/nêo)\n\n---\n\n## Preparando para RAG\n\n1. Consolidar em documentos únicos por vídeo: Título + Resumo + Pontos-chave + CTA + Tópicos.\n2. Fazer chunking em blocos de 500–1000 caracteres.\n3. Indexar em um vetor store com metadados (id, data, tags, persona).\n4. Recuperar esses blocos para:\n\n   * gerar novas descrições\n   * criar capítulos automáticos\n   * responder comentários com contexto\n   * organizar playlists\n\n---\n\n## Prompt da Thumbnail (estrutura atual)\n\nO agente gera JSON com:\n\n* pessoa\\_referencia\n* açêo/emoçêo\n* metáfora visual\n* frase curta (até 5 palavras)\n* fundo temático\n* estilo (foto realista, iluminaçêo cinematográfica)\n* cores dominantes\n* composiçêo (regra dos terços, margens seguras)\n* aspect\\_ratio: 16:9\n* itens a nêo incluir (watermark, bordas, texto longo etc.)\n\n---\n\n## Como Personalizar o Personagem\n\n* **Hoje**: fixo (homem 60–70 anos, barba branca, óculos pretos).\n* **Opçêo A**: variável `persona_thumbnail` vinda da planilha (dinâmica por vídeo).\n* **Opçêo B**: perfis pré-definidos (mentor\\_senior, apresentadora\\_exec, dev\\_junior etc.).\n* **Opçêo C**: thumbnail sem personagem, apenas símbolos e fundo.\n\n---\n\n## Exemplos de Personalizaçêo\n\n1. **Persona dinâmica**\n\n   * mulher 35 anos, pele morena, cabelo cacheado, blazer casual\n   * frase curta: \"IA na Prática\"\n\n2. **Troca leve**\n\n   * homem 45 anos, camiseta preta, olhar determinado\n   * metáfora: “fluxo de dados em engrenagens luminosas”\n\n3. **Sem personagem**\n\n   * robô minimalista segurando ícone de play\n   * fundo tecnológico abstrato",
+    "text": "## Automaçêo de Atualizaçêo de Vídeos no YouTube\n\n### Fluxo Principal\n\n1. **Entrada**\n\n   * Recebe link ou ID do vídeo via chat.\n\n2. **Extraçêo**\n\n   * Extrai ID do vídeo.\n   * Busca título, descriçêo e metadados via YouTube API.\n   * Obtém transcriçêo (se nêo existir, gera com Whisper).\n\n3. **Processamento**\n\n   * Gera resumo estruturado:\n\n     * Sumário\n     * Pontos-chave\n     * Insights\n     * CTA\n     * Tópicos\n   * Cria prompt para thumbnail a partir do resumo.\n\n4. **Geraçêo da Thumbnail**\n\n   * Converte o prompt em imagem (DALL·E 3, 16:9).\n   * Ajusta para 1280×720, JPEG qualidade 75.\n   * Usa o Code para limpar e padronizar o prompt final.\n\n5. **Atualizaçêo no YouTube**\n\n   * Atualiza descriçêo com resumo e tópicos.\n   * Substitui thumbnail pelo arquivo gerado.\n\n6. **Registro**\n\n   * Salva no Google Sheets:\n\n     * ID do vídeo\n     * Data de publicaçêo\n     * Título\n     * Descriçêo\n     * Resumo\n     * Prompt da thumbnail\n     * Link da imagem\n\n---\n\n## Gestêo de Conteúdo em Tabela\n\n* A planilha já armazena dados essenciais.\n* Você pode expandir adicionando colunas como:\n\n  * status\\_conteudo (rascunho, publicado…)\n  * versao\\_resumo (v1, v2…)\n  * persona\\_thumbnail (descriçêo da persona desejada)\n  * palavras\\_chave\n  * link\\_assets\n  * rag\\_incluido (sim/nêo)\n\n---\n\n## Preparando para RAG\n\n1. Consolidar em documentos únicos por vídeo: Título + Resumo + Pontos-chave + CTA + Tópicos.\n2. Fazer chunking em blocos de 500–1000 caracteres.\n3. Indexar em um vetor store com metadados (id, data, tags, persona).\n4. Recuperar esses blocos para:\n\n   * gerar novas descrições\n   * criar capítulos automáticos\n   * responder comentários com contexto\n   * organizar playlists\n\n---\n\n## Prompt da Thumbnail (estrutura atual)\n\nO agente gera JSON com:\n\n* pessoa\\_referencia\n* açêo/emoçêo\n* metáfora visual\n* frase curta (até 5 palavras)\n* fundo temático\n* estilo (foto realista, iluminaçêo cARCKHÉtográfica)\n* cores dominantes\n* composiçêo (regra dos terços, margens seguras)\n* aspect\\_ratio: 16:9\n* itens a nêo incluir (watermark, bordas, texto longo etc.)\n\n---\n\n## Como Personalizar o Personagem\n\n* **Hoje**: fixo (homem 60–70 anos, barba branca, óculos pretos).\n* **Opçêo A**: variável `persona_thumbnail` vinda da planilha (dinâmica por vídeo).\n* **Opçêo B**: perfis pré-definidos (mentor\\_senior, apresentadora\\_exec, dev\\_junior etc.).\n* **Opçêo C**: thumbnail sem personagem, apenas símbolos e fundo.\n\n---\n\n## Exemplos de Personalizaçêo\n\n1. **Persona dinâmica**\n\n   * mulher 35 anos, pele morena, cabelo cacheado, blazer casual\n   * frase curta: \"IA na Prática\"\n\n2. **Troca leve**\n\n   * homem 45 anos, camiseta preta, olhar determinado\n   * metáfora: “fluxo de dados em engrenagens luminosas”\n\n3. **Sem personagem**\n\n   * robô minimalista segurando ícone de play\n   * fundo tecnológico abstrato",
     "has_media": false,
     "media_type": null
   },
   {
     "id": 14233,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-09-14T02:55:46+00:00",
     "text": "===========",
     "has_media": false,
@@ -112,7 +112,7 @@
   },
   {
     "id": 14232,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-09-14T02:55:43+00:00",
     "text": "## Objetivo da Automaçêo\n\nAutomatizar o fluxo de atualizaçêo de vídeos no YouTube: obter informações e transcriçêo, gerar resumo otimizado, criar thumbnail personalizada com IA, atualizar a descriçêo e miniatura no YouTube e registrar tudo em planilha do Google Sheets.\n\n## Fluxo Principal\n\n1. **Entrada**\n\n   * Recebe link ou ID de vídeo via chat.\n\n2. **Extraçêo de Dados**\n\n   * Extrai o ID do vídeo.\n   * Busca título, descriçêo e metadados do vídeo via API do YouTube.\n   * Coleta transcriçêo (legenda automática ou gera via Whisper caso nêo exista).\n\n3. **Processamento de Conteúdo**\n\n   * Gera resumo estruturado com tópicos, insights e CTA (usando Claude/OpenAI).\n   * Cria prompt detalhado para thumbnail baseado no resumo e em um personagem fixo (homem mais velho com barba branca e óculos).\n\n4. **Geraçêo de Imagem**\n\n   * Converte o prompt em miniatura via **OpenAI DALL·E 3** (formato 16:9).\n   * Ajusta imagem (redimensiona para 1280x720).\n   * Converte em arquivo binário JPEG.\n\n5. **Atualizaçêo no YouTube**\n\n   * Atualiza descriçêo do vídeo com o resumo e tópicos.\n   * Substitui a thumbnail original pela nova gerada.\n\n6. **Registro e Log**\n\n   * Salva em **Google Sheets**: ID do vídeo, data de publicaçêo, título, descriçêo, resumo, prompt da thumbnail e link da nova imagem.\n\n## Tecnologias/Serviços Usados\n\n* **YouTube API** (OAuth2) → leitura/escrita de vídeos e legendas.\n* **OpenAI Whisper** → transcriçêo de áudio quando nêo há legenda.\n* **OpenAI GPT e Claude (via OpenRouter)** → gerar resumo e estruturar prompt.\n* **OpenAI DALL·E 3 (gpt-image-1)** → geraçêo da miniatura.\n* **Google Sheets** → registro dos dados.\n* **Google Drive** (em parte do fluxo experimental de imagens).\n\n## Pontos-Chave\n\n* O personagem da thumbnail é sempre o mesmo, garantindo consistência visual.\n* Resumos já vêm formatados para descriçêo do YouTube (com Sumário, Pontos Chaves, CTA).\n* O fluxo evita ultrapassar o limite de 5000 caracteres da descriçêo.\n* O log em planilha centraliza todos os dados para controle.",
     "has_media": false,
@@ -120,7 +120,7 @@
   },
   {
     "id": 14231,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-09-14T02:45:28+00:00",
     "text": "",
     "has_media": true,
@@ -129,7 +129,7 @@
   },
   {
     "id": 14230,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-09-14T02:44:50+00:00",
     "text": "",
     "has_media": true,
@@ -138,7 +138,7 @@
   },
   {
     "id": 14207,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-09-12T11:19:40+00:00",
     "text": "nm72 - Atualiza Youtube",
     "has_media": false,
@@ -146,7 +146,7 @@
   },
   {
     "id": 14206,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-09-12T11:19:36+00:00",
     "text": ".",
     "has_media": false,
@@ -154,7 +154,7 @@
   },
   {
     "id": 14205,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-09-12T11:19:35+00:00",
     "text": ".",
     "has_media": false,
@@ -162,7 +162,7 @@
   },
   {
     "id": 14204,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-09-12T11:19:35+00:00",
     "text": "..",
     "has_media": false,
@@ -170,7 +170,7 @@
   },
   {
     "id": 14203,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-09-12T11:19:34+00:00",
     "text": ".",
     "has_media": false,
@@ -178,7 +178,7 @@
   },
   {
     "id": 14202,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-09-12T11:19:34+00:00",
     "text": ".",
     "has_media": false,
@@ -186,7 +186,7 @@
   },
   {
     "id": 14201,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-09-12T11:19:34+00:00",
     "text": ".",
     "has_media": false,
@@ -194,7 +194,7 @@
   },
   {
     "id": 14200,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-09-12T11:19:34+00:00",
     "text": ".",
     "has_media": false,
@@ -202,7 +202,7 @@
   },
   {
     "id": 14199,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-09-12T11:19:33+00:00",
     "text": "https://chatgpt.com/c/68c62d5d-ed4c-832d-8d5b-f97c0de45ee5",
     "has_media": true,
@@ -210,7 +210,7 @@
   },
   {
     "id": 14198,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-09-12T11:19:33+00:00",
     "text": "1",
     "has_media": false,
@@ -218,7 +218,7 @@
   },
   {
     "id": 14197,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-09-12T11:18:57+00:00",
     "text": "",
     "has_media": false,

@@ -26,7 +26,7 @@ Pode enviar esse JSON ?
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T18:43:27+00:00
 Texto:
 ecutivo em até 6 bullets e depois uma análise detalhada estruturada por seções.
@@ -138,7 +138,7 @@ Pronto. Se quiser, te envio um esqueleto JSON do fluxo para importar no n8n já 
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T18:43:27+00:00
 Texto:
 para calcular e consolidar cada linha e também produzir um objeto agregado por campanha e geral.
@@ -271,7 +271,7 @@ Tarefas:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T18:43:27+00:00
 Texto:
 Aqui vai um passo a passo direto para implementar o Data Integration and Transformation Hub no n8n, com exemplos práticos, fórmulas e prompt prontos.
@@ -399,7 +399,7 @@ Function node (KPIs) para
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T18:40:56+00:00
 Texto:
 ===========
@@ -407,7 +407,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T18:40:53+00:00
 Texto:
 Resumo
@@ -430,7 +430,7 @@ Vantagens:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T18:40:28+00:00
 Texto:
 ==================================
@@ -438,7 +438,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T18:40:20+00:00
 Texto:
 Hub de Integraçêo e Transformaçêo de Dados
@@ -493,7 +493,7 @@ Data Integ. & Trans. Hub.json
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T18:38:50+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 9__Data_Integration___Transformation_Hub.json
@@ -501,7 +501,7 @@ Midia: MessageMediaDocument -> 9__Data_Integration___Transformation_Hub.json
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T18:38:45+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12495_011.jpg
@@ -509,7 +509,7 @@ Midia: MessageMediaPhoto -> photo_12495_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T18:38:14+00:00
 Texto:
 m27 - **Data Integration and Transformation Hub**
@@ -517,7 +517,7 @@ m27 - **Data Integration and Transformation Hub**
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T18:38:10+00:00
 Texto:
 .
@@ -525,7 +525,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T18:38:08+00:00
 Texto:
 .
@@ -533,7 +533,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T18:38:05+00:00
 Texto:
 .
@@ -541,7 +541,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T18:38:02+00:00
 Texto:
 .
@@ -549,7 +549,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T18:38:00+00:00
 Texto:
 .
@@ -557,7 +557,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T18:37:57+00:00
 Texto:
 https://chatgpt.com/c/6898e75d-b194-8324-91dc-2be20524d037
@@ -566,7 +566,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T18:37:53+00:00
 Texto:
 1
@@ -574,7 +574,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T18:37:44+00:00
 Texto: [Sem texto]
 

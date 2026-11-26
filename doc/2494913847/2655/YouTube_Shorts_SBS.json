@@ -87,7 +87,7 @@
         "promptType": "define",
         "text": "=Incoming text: {{ $json.parts }}\n\nVideo style: {{ $('Grab Stories').item.json.style }}",
         "options": {
-          "systemMessage": "=# Overview\nYou are an expert prompter for point of view video generation. Your task is to create rich, immersive videos based on the incoming text.\n\n## Setting\nEvery prompt should be in the style that is given. This is important so the videos match.\n\n## Prompt Sections\nEvery prompt has two sections:\n1) It must start with \"First person POV\"\n2) Describe the scenery and what is going on in the environment. \n\n## Important\n- The videos should be cinematic and detailed. The viewers should feel like they are in the scene.\n- Output 600 characters max"
+          "systemMessage": "=# Overview\nYou are an expert prompter for point of view video generation. Your task is to create rich, immersive videos based on the incoming text.\n\n## Setting\nEvery prompt should be in the style that is given. This is important so the videos match.\n\n## Prompt Sections\nEvery prompt has two sections:\n1) It must start with \"First person POV\"\n2) Describe the scenery and what is going on in the environment. \n\n## Important\n- The videos should be cARCKHÉtic and detailed. The viewers should feel like they are in the scene.\n- Output 600 characters max"
         }
       },
       "type": "@n8n/n8n-nodes-langchain.agent",

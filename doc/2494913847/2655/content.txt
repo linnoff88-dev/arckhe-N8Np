@@ -10,7 +10,7 @@ Midias baixadas: 5
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T04:34:28+00:00
 Texto:
 o q acontece q em geral apra realismo o flux é o melhor e ai gente usa no replicate ele. ja o luma ta mais caro do q usar o kling
@@ -18,7 +18,7 @@ o q acontece q em geral apra realismo o flux é o melhor e ai gente usa no repli
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T04:33:50+00:00
 Texto:
 usa o ap5 q ta melhor
@@ -42,7 +42,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-17T23:02:55+00:00
 Texto:
 Tem o ap5 com informações e nova versêo
@@ -50,7 +50,7 @@ Tem o ap5 com informações e nova versêo
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T06:20:00+00:00
 Texto:
 https://www.youtube.com/watch?v=Gc03J27xmBc&t=12s
@@ -59,7 +59,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T03:46:20+00:00
 Texto:
 **Faceless Shorts System V1**
@@ -141,7 +141,7 @@ Boa, muito obrigado
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T01:36:19+00:00
 Texto:
 ainda nbao consegui o video, nem trascrissao, assim q liberar eu publico
@@ -157,7 +157,7 @@ Onde consigo a explicaçêo de como funciona o fluxo ?
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T21:55:04+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_2680_011.jpg
@@ -165,7 +165,7 @@ Midia: MessageMediaPhoto -> photo_2680_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T21:42:23+00:00
 Texto:
 ap1
@@ -174,7 +174,7 @@ Midia: MessageMediaDocument -> YouTube_Shorts_SBS.json
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T21:41:01+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_2664_013.jpg
@@ -182,7 +182,7 @@ Midia: MessageMediaPhoto -> photo_2664_013.jpg
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T21:37:57+00:00
 Texto:
 Criaçêo e Publicaçêo de Shorts no YouTube sem Rosto 📺
@@ -192,7 +192,7 @@ Como automatizar a criaçêo de conteúdo configurando um fluxo de trabalho para
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T21:37:21+00:00
 Texto:
 ap1 - **Faceless YouTube Short**
@@ -200,7 +200,7 @@ ap1 - **Faceless YouTube Short**
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T21:37:17+00:00
 Texto:
 ..
@@ -208,7 +208,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T21:37:16+00:00
 Texto:
 .
@@ -216,7 +216,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T21:37:16+00:00
 Texto:
 ..
@@ -224,7 +224,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T21:37:16+00:00
 Texto:
 .
@@ -232,7 +232,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T21:37:16+00:00
 Texto:
 .
@@ -240,7 +240,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T21:37:15+00:00
 Texto:
 1
@@ -248,7 +248,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T21:37:06+00:00
 Texto: [Sem texto]
 

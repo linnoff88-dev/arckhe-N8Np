@@ -18,7 +18,7 @@ Oi! Sou nova aqui e gostaria de saber mais sobre o assunto. Procuro alguém que 
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T20:50:19+00:00
 Texto:
 https://www.youtube.com/watch?v=9HBa364RZBk
@@ -27,7 +27,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T20:50:05+00:00
 Texto:
 Aqui estêo alguns hacks para turbinar e otimizar esse workflow de preparaçêo de reuniões com n8n:
@@ -67,7 +67,7 @@ Esses hacks vêo deixar seu workflow ainda mais completo e profissional!
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T20:49:41+00:00
 Texto:
 ================
@@ -75,7 +75,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T20:49:07+00:00
 Texto:
 Passo a passo do workflow de preparaçêo de reuniões no n8n:
@@ -130,7 +130,7 @@ Exemplo prático:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T20:47:30+00:00
 Texto:
 =====================
@@ -138,7 +138,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T20:47:26+00:00
 Texto:
 Workflow n8n automatiza toda a preparaçêo para reuniões enquanto você dorme, usando IA para gerar áudio personalizado com briefing do participante e da empresa.
@@ -178,7 +178,7 @@ Chegue a toda reuniêo parecendo um expert, sem perder tempo pesquisando. Ideal 
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T20:45:33+00:00
 Texto:
 [https://calendly.com](https://calendly.com/)
@@ -187,7 +187,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T20:44:43+00:00
 Texto:
 Preparaçêo de Reuniêo 🗓️ ➡️ 🎧
@@ -207,7 +207,7 @@ Chegue preparado em todas as reuniões como um profissional—sem esforço nenhu
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T20:42:49+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Calendly_to_Meeting_Prep__No_Creds_.json
@@ -215,7 +215,7 @@ Midia: MessageMediaDocument -> Calendly_to_Meeting_Prep__No_Creds_.json
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T20:42:45+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10815_011.jpg
@@ -223,7 +223,7 @@ Midia: MessageMediaPhoto -> photo_10815_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T20:42:08+00:00
 Texto:
 m21 - Prepare para Reunioes Calendry Perplexity
@@ -231,7 +231,7 @@ m21 - Prepare para Reunioes Calendry Perplexity
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T20:42:06+00:00
 Texto:
 .
@@ -239,7 +239,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T20:42:06+00:00
 Texto:
 .
@@ -247,7 +247,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T20:42:06+00:00
 Texto:
 .
@@ -255,7 +255,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T20:42:05+00:00
 Texto:
 .
@@ -263,7 +263,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T20:42:05+00:00
 Texto:
 https://chatgpt.com/c/68659462-9cb4-8009-bc2c-9aebff018181
@@ -272,7 +272,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T20:42:05+00:00
 Texto:
 1
@@ -280,7 +280,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T20:42:01+00:00
 Texto: [Sem texto]
 

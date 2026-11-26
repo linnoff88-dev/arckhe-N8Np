@@ -10,7 +10,7 @@ Midias baixadas: 4
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T19:39:12+00:00
 Texto:
 **Dois workflows práticos** utilizando os **novos nós Gemini no n8n** (após atualizar para a versêo mais recente):
@@ -63,7 +63,7 @@ Esses novos nós **transformam o n8n em uma central de análise e criaçêo com 
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T19:38:26+00:00
 Texto:
 ======================
@@ -71,7 +71,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T19:38:20+00:00
 Texto:
 **Novos Nós Gemini no n8n (Workflow Incluído)**
@@ -105,7 +105,7 @@ Por outro lado, a **transcriçêo de áudio** e a **análise de PDFs** funcionam
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T19:19:33+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Gemini Workflow.json
@@ -113,7 +113,7 @@ Midia: MessageMediaDocument -> Gemini Workflow.json
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T19:19:28+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11997_005.jpg
@@ -121,7 +121,7 @@ Midia: MessageMediaPhoto -> photo_11997_005.jpg
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T19:19:12+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11996_006.jpg
@@ -129,7 +129,7 @@ Midia: MessageMediaPhoto -> photo_11996_006.jpg
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T19:18:54+00:00
 Texto:
 M24 - Automaçêo com Nodes Gemini
@@ -137,7 +137,7 @@ M24 - Automaçêo com Nodes Gemini
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T19:18:52+00:00
 Texto:
 .
@@ -145,7 +145,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T19:18:52+00:00
 Texto:
 .
@@ -153,7 +153,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T19:18:52+00:00
 Texto:
 .
@@ -161,7 +161,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T19:18:52+00:00
 Texto:
 .
@@ -169,7 +169,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T19:18:51+00:00
 Texto:
 https://chatgpt.com/c/68891fa6-4ac0-8332-9898-8d8dedcd5272
@@ -178,7 +178,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T19:18:50+00:00
 Texto:
 1
@@ -186,7 +186,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T19:18:45+00:00
 Texto: [Sem texto]
 

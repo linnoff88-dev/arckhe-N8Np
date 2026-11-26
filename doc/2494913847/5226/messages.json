@@ -3,13 +3,13 @@
     "id": 5607,
     "author": "Amauri",
     "date": "2025-04-12T20:36:15+00:00",
-    "text": "@INEMAtds saiu seu vídeo só o mm3 no seu YouTube?",
+    "text": "@linnoff88-dev saiu seu vídeo só o mm3 no seu YouTube?",
     "has_media": false,
     "media_type": null
   },
   {
     "id": 5370,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-11T03:59:28+00:00",
     "text": "",
     "has_media": false,
@@ -17,7 +17,7 @@
   },
   {
     "id": 5304,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-11T00:05:26+00:00",
     "text": "# Workflows n8n para Negócio de Massoterapia\n\nEste pacote contém 10 workflows completos do n8n projetados especificamente para operações de negócios na área de massoterapia. Cada workflow está totalmente documentado e pronto para ser importado em sua instância do n8n.\n\n## Conteúdo do Pacote\n\n1. Arquivos JSON dos Workflows: definições prontas para importaçêo  \n2. Documentaçêo dos Workflows: explicações detalhadas de cada processo  \n3. Instruções de Configuraçêo: guia passo a passo para implementaçêo\n\n## Workflows Incluídos\n\n1. **Sistema de Captura e Qualificaçêo de Leads**  \n   - Captura leads do site e os pontua com base em critérios predefinidos  \n   - Encaminha leads qualificados para ações de acompanhamento apropriadas  \n   - Acompanha fontes de leads e taxas de conversêo  \n\n2. **Automaçêo de Agendamento de Consultas**  \n   - Permite que os clientes agendem por conta própria com verificaçêo de disponibilidade em tempo real  \n   - Sincroniza com o Google Agenda para evitar agendamentos duplicados  \n   - Envia confirmações de agendamento para clientes e terapeutas  \n\n3. **Sequência de Lembretes de Consulta**  \n   - Envia lembretes automáticos por SMS/email em intervalos configuráveis  \n   - Oferece opções fáceis de reagendamento para os clientes  \n   - Reduz faltas e cancelamentos de última hora  \n\n4. **Processamento de Formulário de Admissêo do Cliente**  \n   - Automatiza a coleta e o armazenamento seguro das informações de saúde dos clientes  \n   - Valida o preenchimento completo do formulário e sinaliza preocupações importantes  \n   - Cria perfis de clientes no seu banco de dados  \n\n5. **Sistema de Acompanhamento Pós-Consulta**  \n   - Envia e-mails de agradecimento com pedido de avaliaçêo  \n   - Oferece incentivos de novo agendamento com base no tipo de serviço  \n   - Coleta e analisa o feedback dos clientes  \n\n6. **Reengajamento de Clientes Inativos**  \n   - Identifica clientes inativos há mais de 60 dias  \n   - Envia sequências personalizadas com ofertas especiais  \n   - Acompanha a eficácia da campanha de reengajamento  \n\n7. **Gerenciamento de Agenda dos Terapeutas**  \n   - Garante agendamentos ideais com base na disponibilidade dos terapeutas  \n   - Evita conflitos de horário e duplicidade  \n   - Notifica os terapeutas sobre alterações na agenda  \n\n8. **Automaçêo de Campanhas de Marketing**  \n   - Agenda conteúdo para redes sociais em várias plataformas  \n   - Acompanha a eficácia com métricas de engajamento  \n   - Gera relatórios de desempenho das campanhas  \n\n9. **Reconhecimento de Aniversário e Datas Especiais**  \n   - Envia mensagens personalizadas com ofertas especiais em datas comemorativas dos clientes  \n   - Acompanha taxas de uso das ofertas  \n   - Fortalece o relacionamento com o cliente por meio do engajamento personalizado  \n\n10. **Painel de Análise de Negócios**  \n    - Monitora métricas principais (consultas, receita, retençêo de clientes)  \n    - Gera relatórios semanais e mensais de desempenho  \n    - Fornece insights acionáveis para otimizaçêo do negócio  \n\n## Requisitos para Implementaçêo\n\n- Instância do n8n (auto-hospedada ou em nuvem)  \n- Google Workspace (Gmail, Agenda, Planilhas)  \n- Opcional: contas de redes sociais para automaçêo de marketing  \n- Opcional: conta Twilio para envio de SMS\n\n## Para Começar\n\n1. Revise o documento de instruções de configuraçêo para ver os passos detalhados  \n2. Importe os arquivos JSON dos workflows para sua instância do n8n  \n3. Configure as credenciais e conexões necessárias  \n4. Personalize os workflows conforme as necessidades específicas do seu negócio  \n5. Teste cada workflow cuidadosamente antes da implantaçêo completa\n\nPara instruções detalhadas de implementaçêo, consulte o arquivo `setup_instructions.md` incluído neste pacote.",
     "has_media": false,
@@ -25,7 +25,7 @@
   },
   {
     "id": 5250,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-10T07:12:04+00:00",
     "text": "tem dublagem",
     "has_media": false,
@@ -33,7 +33,7 @@
   },
   {
     "id": 5249,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-10T07:11:58+00:00",
     "text": "https://www.youtube.com/watch?v=h2Az_4T1JSg",
     "has_media": true,
@@ -41,7 +41,7 @@
   },
   {
     "id": 5248,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-10T07:11:17+00:00",
     "text": "**Resumoo “Como gerar agentes n8n prontos para uso INSTANTANEAMENTE com Manus AI”**\n\nComo utilizar a ferramenta **Manus AI** para criar **workflows completos no n8n** a partir de um único **prompt**, sem precisar programar ou entender as etapas técnicas.\n\n### Resumo geral:\n\n- Manus AI é uma ferramenta baseada em IA que combina **pesquisa profunda com execuçêo prática**. Ela pode criar arquivos, sites, automações e muito mais.\n- Como gerar **10 automações completas para uma clínica de massoterapia**, apenas com um prompt bem estruturado.\n- Manus oferece dois modos: **Standard** (mais barato) e **High-Effort** (mais caro, mas mais potente e preciso).\n- Os arquivos gerados incluem:\n  - **JSONs prontos para importar no n8n**\n  - **Instruções de configuraçêo**\n  - **Explicações detalhadas de cada workflow**\n- Foram testados casos para outros setores, como **venture capital** e **coaching**, mostrando que a ferramenta pode ser aplicada em diversas áreas.\n\n### Tópicos abordados com exemplos:\n\n1. **Criaçêo de fluxos para massoterapia:**\n   - Agendamento automático\n   - Reativaçêo de clientes inativos\n   - Aniversário de clientes (envio por e-mail ou SMS)\n   - Gestêo de agenda e campanhas de marketing\n   - Todos os fluxos vêm com lógica de negócios e arquivos explicativos.\n\n2. **Testes com outros setores (ex: venture capital):**\n   - Exemplo: automaçêo de due diligence, assinatura de documentos, captaçêo de deals via LinkedIn.\n   - Alguns fluxos gerados continham erros, como *property value error* nos JSONs — mas isso foi corrigido com ajustes no prompt.\n\n3. **Comparaçêo entre modos:**\n   - **High-Effort Mode**: mais completo, mas consome muitos créditos (caro).\n   - **Standard Mode**: mais rápido, mais barato, mas pode gerar erros ou fluxos incompletos.\n   - O autor recomenda **começar pelo modo Standard** e só usar o High-Effort se for necessário.\n\n4. **Dicas para usar bem o Manus:**\n   - Criar prompts claros, com contexto de negócios, ferramentas utilizadas e expectativas de entrega.\n   - Usar o ChatGPT como engenheiro de prompts ajuda muito.\n   - Ajustar o prompt com feedbacks se os resultados nêo forem satisfatórios.\n\n### Conclusêo:\nManus AI permite criar dezenas de automações n8n **quase instantaneamente**, economizando horas ou dias de trabalho. Com prompts bem elaborados, é possível criar fluxos prontos para importar, com lógica de negócio e documentaçêo. Apesar de algumas limitações e falhas eventuais, é uma ferramenta poderosa para acelerar projetos de automaçêo.",
     "has_media": false,
@@ -49,7 +49,7 @@
   },
   {
     "id": 5247,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-10T07:00:10+00:00",
     "text": "**O Experimento Manus #3 desaparecido (alucinante)\n**\nSe você estava curioso para saber o quêo bem o Manus poderia produzir toneladas de automações JSON ... Em massa, assista a este vídeo.Anexando capturas de tela das automações construídas com ele aqui - se você quiser comentar sobre o vídeo para um pouco de amor por algo, eu agradeceria!",
     "has_media": false,
@@ -57,7 +57,7 @@
   },
   {
     "id": 5246,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-10T06:57:19+00:00",
     "text": "",
     "has_media": true,
@@ -66,7 +66,7 @@
   },
   {
     "id": 5245,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-10T06:57:19+00:00",
     "text": "",
     "has_media": true,
@@ -75,7 +75,7 @@
   },
   {
     "id": 5244,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-10T06:57:19+00:00",
     "text": "",
     "has_media": true,
@@ -84,7 +84,7 @@
   },
   {
     "id": 5243,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-10T06:57:19+00:00",
     "text": "",
     "has_media": true,
@@ -93,7 +93,7 @@
   },
   {
     "id": 5242,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-10T06:57:03+00:00",
     "text": "",
     "has_media": true,
@@ -102,7 +102,7 @@
   },
   {
     "id": 5241,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-10T06:56:49+00:00",
     "text": "",
     "has_media": true,
@@ -111,7 +111,7 @@
   },
   {
     "id": 5240,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-10T06:56:36+00:00",
     "text": "",
     "has_media": true,
@@ -120,7 +120,7 @@
   },
   {
     "id": 5239,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-10T06:56:28+00:00",
     "text": "",
     "has_media": true,
@@ -129,7 +129,7 @@
   },
   {
     "id": 5238,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-10T06:56:01+00:00",
     "text": "mm3 - Manus n8n - json",
     "has_media": false,
@@ -137,7 +137,7 @@
   },
   {
     "id": 5237,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-10T06:55:58+00:00",
     "text": ".",
     "has_media": false,
@@ -145,7 +145,7 @@
   },
   {
     "id": 5236,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-10T06:55:58+00:00",
     "text": ".",
     "has_media": false,
@@ -153,7 +153,7 @@
   },
   {
     "id": 5235,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-10T06:55:57+00:00",
     "text": ".",
     "has_media": false,
@@ -161,7 +161,7 @@
   },
   {
     "id": 5234,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-10T06:55:57+00:00",
     "text": "..",
     "has_media": false,
@@ -169,7 +169,7 @@
   },
   {
     "id": 5233,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-10T06:55:57+00:00",
     "text": ".",
     "has_media": false,
@@ -177,7 +177,7 @@
   },
   {
     "id": 5232,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-10T06:55:57+00:00",
     "text": ".",
     "has_media": false,
@@ -185,7 +185,7 @@
   },
   {
     "id": 5231,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-10T06:55:56+00:00",
     "text": ".",
     "has_media": false,
@@ -193,7 +193,7 @@
   },
   {
     "id": 5230,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-10T06:55:56+00:00",
     "text": "..",
     "has_media": false,
@@ -201,7 +201,7 @@
   },
   {
     "id": 5229,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-10T06:55:56+00:00",
     "text": ".",
     "has_media": false,
@@ -209,7 +209,7 @@
   },
   {
     "id": 5228,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-10T06:55:56+00:00",
     "text": "https://chatgpt.com/c/67f76c64-17d8-8009-b30f-5adfe24800d7",
     "has_media": true,
@@ -217,7 +217,7 @@
   },
   {
     "id": 5227,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-10T06:55:55+00:00",
     "text": "1",
     "has_media": false,
@@ -225,7 +225,7 @@
   },
   {
     "id": 5226,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-10T06:55:24+00:00",
     "text": "",
     "has_media": false,

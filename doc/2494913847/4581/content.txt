@@ -10,7 +10,7 @@ Midias baixadas: 4
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T07:25:00+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_4596_001.jpg
@@ -18,7 +18,7 @@ Midia: MessageMediaPhoto -> photo_4596_001.jpg
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T07:23:45+00:00
 Texto:
 ==============
@@ -26,7 +26,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T07:23:41+00:00
 Texto:
 **10. Agente de vendas com IA e revisêo humana**
@@ -84,7 +84,7 @@ Também podemos melhorar o sistema atribuindo validadores conforme o responsáve
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T07:21:53+00:00
 Texto:
 ================
@@ -92,7 +92,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T07:21:50+00:00
 Texto:
 **Agente de vendas com IA + validaçêo humana**
@@ -113,7 +113,7 @@ E o melhor: tudo montado no N8N e funcionando como um relógio. 🧩💚
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T07:20:30+00:00
 Texto:
 e10
@@ -122,7 +122,7 @@ Midia: MessageMediaDocument -> Agente_de_emails_con_validaci_n_humana.json
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T07:20:21+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_4590_007.jpg
@@ -130,7 +130,7 @@ Midia: MessageMediaPhoto -> photo_4590_007.jpg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T07:18:46+00:00
 Texto:
 .e10 - Agente de Vendas e Revisêo Humana
@@ -138,7 +138,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T07:18:44+00:00
 Texto:
 .
@@ -146,7 +146,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T07:18:43+00:00
 Texto:
 ..
@@ -154,7 +154,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T07:18:43+00:00
 Texto:
 .
@@ -162,7 +162,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T07:18:43+00:00
 Texto:
 .
@@ -170,7 +170,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T07:18:43+00:00
 Texto:
 .
@@ -178,7 +178,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T07:18:43+00:00
 Texto:
 https://chatgpt.com/c/67ece443-0440-8009-95d7-de63773924aa
@@ -187,7 +187,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T07:18:42+00:00
 Texto:
 1
@@ -195,7 +195,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T07:18:36+00:00
 Texto: [Sem texto]
 

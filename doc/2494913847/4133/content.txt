@@ -10,7 +10,7 @@ Midias baixadas: 2
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:51:05+00:00
 Texto:
 **📚 Geraçêo Automática de Documentaçêo para Workflows do n8n com GPT e Docsify**
@@ -51,7 +51,7 @@ Template JSON disponível para uso imediato.
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:49:43+00:00
 Texto:
 mw9
@@ -60,7 +60,7 @@ Midia: MessageMediaDocument -> 📚_Auto_generate_documentation_for_n8n_workflow
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:49:33+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_4141_003.jpg
@@ -68,7 +68,7 @@ Midia: MessageMediaPhoto -> photo_4141_003.jpg
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:47:21+00:00
 Texto:
 mw9 - **Auto-generate documentation**
@@ -76,7 +76,7 @@ mw9 - **Auto-generate documentation**
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:47:05+00:00
 Texto:
 .
@@ -84,7 +84,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:47:05+00:00
 Texto:
 .
@@ -92,7 +92,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:47:05+00:00
 Texto:
 .
@@ -100,7 +100,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:47:05+00:00
 Texto:
 .
@@ -108,7 +108,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:47:04+00:00
 Texto:
 .
@@ -116,7 +116,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:47:04+00:00
 Texto:
 1
@@ -124,7 +124,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:46:57+00:00
 Texto: [Sem texto]
 

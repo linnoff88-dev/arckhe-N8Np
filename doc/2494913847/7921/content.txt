@@ -87,7 +87,7 @@ Meus clientes todos usam API Oficial, ZERO bloqueios
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T19:57:39+00:00
 Texto:
 tem ser pouco conteudo, por isso melhor usar as ferramentas de 3 para isso.
@@ -103,7 +103,7 @@ tem como mandar varios disparos sem tomar block da meta ou criar um jeito de con
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-19T23:22:17+00:00
 Texto:
 via api do whats ou como vc quer
@@ -193,7 +193,7 @@ opa ja sim tudo funcionando agora to na elaboraçêo do prompt
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-09T23:35:09+00:00
 Texto:
 usa url/manager
@@ -201,7 +201,7 @@ usa url/manager
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-09T23:34:55+00:00
 Texto:
 ja instaou o evolution no n8n ?
@@ -361,7 +361,7 @@ Alguem conseguiu usar o waha instalado no railway?
 ------------------------------
 
 MENSAGEM 43
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-26T04:12:53+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> nm34__full_Evolution.json
@@ -369,7 +369,7 @@ Midia: MessageMediaDocument -> nm34__full_Evolution.json
 ------------------------------
 
 MENSAGEM 44
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-26T04:12:35+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_8350_044.jpg
@@ -377,7 +377,7 @@ Midia: MessageMediaPhoto -> photo_8350_044.jpg
 ------------------------------
 
 MENSAGEM 45
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-26T04:11:55+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_8348_045.jpg
@@ -385,7 +385,7 @@ Midia: MessageMediaPhoto -> photo_8348_045.jpg
 ------------------------------
 
 MENSAGEM 46
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-25T21:45:55+00:00
 Texto:
 abre a tela do sw  para ver oq ele ta recebenbdo e levando para frente
@@ -490,14 +490,14 @@ Cadê o Json para o Make?
 ------------------------------
 
 MENSAGEM 59
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T04:12:48+00:00
 Texto: [Sem texto]
 
 ------------------------------
 
 MENSAGEM 60
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T04:09:22+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> nw34___whatapp_Evolution_Dicas.json
@@ -505,7 +505,7 @@ Midia: MessageMediaDocument -> nw34___whatapp_Evolution_Dicas.json
 ------------------------------
 
 MENSAGEM 61
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T04:09:03+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7962_061.jpg
@@ -513,7 +513,7 @@ Midia: MessageMediaPhoto -> photo_7962_061.jpg
 ------------------------------
 
 MENSAGEM 62
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T04:08:59+00:00
 Texto:
 =============
@@ -521,7 +521,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 63
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T19:36:26+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Chat_Evolution_API (1).json
@@ -529,7 +529,7 @@ Midia: MessageMediaDocument -> Chat_Evolution_API (1).json
 ------------------------------
 
 MENSAGEM 64
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T19:36:20+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7949_064.jpg
@@ -537,7 +537,7 @@ Midia: MessageMediaPhoto -> photo_7949_064.jpg
 ------------------------------
 
 MENSAGEM 65
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T19:05:16+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7947_065.jpg
@@ -545,7 +545,7 @@ Midia: MessageMediaPhoto -> photo_7947_065.jpg
 ------------------------------
 
 MENSAGEM 66
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T18:25:28+00:00
 Texto:
 resposta longa ou http para curta ali no inicio embaixo
@@ -554,7 +554,7 @@ Midia: MessageMediaPhoto -> photo_7946_066.jpg
 ------------------------------
 
 MENSAGEM 67
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T18:19:29+00:00
 Texto:
 avalia se for resposta longa ele vai quebrar apra se tornar mais natural
@@ -563,7 +563,7 @@ Midia: MessageMediaPhoto -> photo_7945_067.jpg
 ------------------------------
 
 MENSAGEM 68
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T18:18:17+00:00
 Texto:
 chave do telefone para ter privacidade
@@ -572,7 +572,7 @@ Midia: MessageMediaPhoto -> photo_7944_068.jpg
 ------------------------------
 
 MENSAGEM 69
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T18:17:08+00:00
 Texto:
 usar temperatura zero para garantir factual
@@ -581,7 +581,7 @@ Midia: MessageMediaPhoto -> photo_7943_069.jpg
 ------------------------------
 
 MENSAGEM 70
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T18:14:29+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7942_070.jpg
@@ -589,7 +589,7 @@ Midia: MessageMediaPhoto -> photo_7942_070.jpg
 ------------------------------
 
 MENSAGEM 71
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T18:13:32+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7941_071.jpg
@@ -597,7 +597,7 @@ Midia: MessageMediaPhoto -> photo_7941_071.jpg
 ------------------------------
 
 MENSAGEM 72
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T18:12:51+00:00
 Texto:
 em vez de merge usa cada um repetindo o processo
@@ -605,7 +605,7 @@ em vez de merge usa cada um repetindo o processo
 ------------------------------
 
 MENSAGEM 73
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T18:12:38+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7939_073.jpg
@@ -613,7 +613,7 @@ Midia: MessageMediaPhoto -> photo_7939_073.jpg
 ------------------------------
 
 MENSAGEM 74
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T18:12:30+00:00
 Texto:
 tambem a instancia
@@ -621,7 +621,7 @@ tambem a instancia
 ------------------------------
 
 MENSAGEM 75
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T18:09:23+00:00
 Texto:
 chave apikey
@@ -630,7 +630,7 @@ Midia: MessageMediaPhoto -> photo_7937_075.jpg
 ------------------------------
 
 MENSAGEM 76
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T18:08:21+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7936_076.jpg
@@ -638,7 +638,7 @@ Midia: MessageMediaPhoto -> photo_7936_076.jpg
 ------------------------------
 
 MENSAGEM 77
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T18:07:32+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7935_077.jpg
@@ -646,7 +646,7 @@ Midia: MessageMediaPhoto -> photo_7935_077.jpg
 ------------------------------
 
 MENSAGEM 78
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T18:07:15+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7934_078.jpg
@@ -654,7 +654,7 @@ Midia: MessageMediaPhoto -> photo_7934_078.jpg
 ------------------------------
 
 MENSAGEM 79
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T18:06:00+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7933_079.jpg
@@ -662,7 +662,7 @@ Midia: MessageMediaPhoto -> photo_7933_079.jpg
 ------------------------------
 
 MENSAGEM 80
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T18:04:34+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7932_080.jpg
@@ -670,7 +670,7 @@ Midia: MessageMediaPhoto -> photo_7932_080.jpg
 ------------------------------
 
 MENSAGEM 81
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T18:02:00+00:00
 Texto:
 ajustar a entrada
@@ -678,7 +678,7 @@ ajustar a entrada
 ------------------------------
 
 MENSAGEM 82
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T18:01:48+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7930_082.jpg
@@ -686,7 +686,7 @@ Midia: MessageMediaPhoto -> photo_7930_082.jpg
 ------------------------------
 
 MENSAGEM 83
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T17:59:40+00:00
 Texto:
 .
@@ -694,7 +694,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 84
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T17:59:40+00:00
 Texto:
 .
@@ -702,7 +702,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 85
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T17:59:40+00:00
 Texto:
 .
@@ -710,7 +710,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 86
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T17:59:40+00:00
 Texto:
 .
@@ -718,7 +718,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 87
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T17:59:39+00:00
 Texto:
 .
@@ -726,7 +726,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 88
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T17:59:39+00:00
 Texto:
 https://chatgpt.com/c/682b8134-2f7c-8009-b430-e58cc0765e0a
@@ -735,7 +735,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 89
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T17:59:39+00:00
 Texto:
 1
@@ -743,7 +743,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 90
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-19T17:59:33+00:00
 Texto: [Sem texto]
 

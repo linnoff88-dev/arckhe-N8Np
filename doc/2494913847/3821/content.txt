@@ -10,7 +10,7 @@ Midias baixadas: 2
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T09:51:37+00:00
 Texto:
 Esse vídeo é uma verdadeira **mina de ouro** para quem trabalha com automações no **n8n** e quer acelerar o processo de criaçêo ou **replicar qualquer agente** (workflow) com **Claude 3.5 ou 3.7**, **usando apenas um prompt ou uma captura de tela**. Abaixo, preparei um resumo completo e bem organizado com exemplos e todas as instruções práticas.
@@ -106,7 +106,7 @@ B**aseado em vídeo:
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T09:51:03+00:00
 Texto:
 ===============
@@ -114,7 +114,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T09:48:00+00:00
 Texto:
 tem dublagem em Portugues
@@ -122,7 +122,7 @@ tem dublagem em Portugues
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T09:47:53+00:00
 Texto:
 https://youtu.be/JM0y9JKopc0?si=jyx8mBo2hv4AuU57
@@ -131,7 +131,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T09:47:37+00:00
 Texto:
 Muito boa essa dica! Esse vídeo realmente mostra algo muito poderoso: a capacidade de **reconstruir um fluxo completo do n8n apenas com base em uma captura de tela ou até um prompt descritivo**. Isso abre muitas possibilidades para:
@@ -175,7 +175,7 @@ Muito boa essa dica! Esse vídeo realmente mostra algo muito poderoso: a capacid
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T09:47:16+00:00
 Texto:
 .
@@ -183,7 +183,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T09:47:16+00:00
 Texto:
 Dicas Captura Telas e Transcriçêo de N8N
@@ -191,7 +191,7 @@ Dicas Captura Telas e Transcriçêo de N8N
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T09:46:44+00:00
 Texto:
 .
@@ -199,7 +199,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T09:46:44+00:00
 Texto:
 .
@@ -207,7 +207,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T09:46:43+00:00
 Texto:
 .
@@ -215,7 +215,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T09:46:43+00:00
 Texto:
 .
@@ -223,7 +223,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T09:46:43+00:00
 Texto:
 https://chatgpt.com/c/67e27b26-1dc4-8009-a517-d096644c8501
@@ -232,7 +232,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T09:46:42+00:00
 Texto:
 1
@@ -240,7 +240,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T09:46:38+00:00
 Texto: [Sem texto]
 

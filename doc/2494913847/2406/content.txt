@@ -10,7 +10,7 @@ Midias baixadas: 2
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:54:02+00:00
 Texto:
 at11
@@ -19,7 +19,7 @@ Midia: MessageMediaDocument -> __LinkedIn_Posting.json
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:53:42+00:00
 Texto:
 at11
@@ -28,7 +28,7 @@ Midia: MessageMediaPhoto -> photo_2415_002.jpg
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:53:24+00:00
 Texto:
 at-11 - **Blog Writer AI Agent**
@@ -36,7 +36,7 @@ at-11 - **Blog Writer AI Agent**
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:53:21+00:00
 Texto:
 .
@@ -44,7 +44,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:53:20+00:00
 Texto:
 .
@@ -52,7 +52,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:53:20+00:00
 Texto:
 .
@@ -60,7 +60,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:53:20+00:00
 Texto:
 .
@@ -68,7 +68,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:53:19+00:00
 Texto:
 .
@@ -76,7 +76,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:53:19+00:00
 Texto:
 .
@@ -84,7 +84,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:53:19+00:00
 Texto:
 1
@@ -92,7 +92,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:53:13+00:00
 Texto: [Sem texto]
 

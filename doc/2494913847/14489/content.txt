@@ -10,7 +10,7 @@ Midias baixadas: 9
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T02:49:47+00:00
 Texto:
 WhatsApp.
@@ -53,7 +53,7 @@ WhatsApp.
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T02:49:47+00:00
 Texto:
 tem em Google Sheet / DB para revisêo humana; depois reusar exemplos para few-shot no prompt.
@@ -154,7 +154,7 @@ Lista dos tópicos com exemplos e respostas rápidas (seguindo seu pedido de lis
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T02:49:47+00:00
 Texto:
 Hacks práticos de n8n (cada item com explicaçêo, configuraçêo e exemplo)
@@ -255,7 +255,7 @@ Hacks práticos de n8n (cada item com explicaçêo, configuraçêo e exemplo)
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T02:40:22+00:00
 Texto:
 ==================
@@ -263,7 +263,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T02:40:16+00:00
 Texto:
 consultas.
@@ -361,7 +361,7 @@ Nós equivalentes:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T02:40:16+00:00
 Texto:
 # Passo a passo para organizar e resumir e-mails com IA (Make e n8n)
@@ -489,7 +489,7 @@ Nós equivalentes:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T02:38:46+00:00
 Texto:
 ====================
@@ -497,7 +497,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T02:38:42+00:00
 Texto:
 Resumo :
@@ -532,7 +532,7 @@ Uma automaçêo para organizar e-mails e receber um resumo no WhatsApp. Ele divi
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T02:32:40+00:00
 Texto:
 =================
@@ -540,7 +540,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T02:32:37+00:00
 Texto:
 e23. Seu E-mail, Limpo e Organizado Automaticamente
@@ -598,7 +598,7 @@ Recursos
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T02:31:47+00:00
 Texto:
 ================
@@ -606,7 +606,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T02:31:44+00:00
 Texto:
 Seu E-mail, Limpo e Organizado Automaticamente
@@ -634,7 +634,7 @@ Ter a caixa de entrada limpa, organizada e saber todos os dias o que é importan
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T02:31:12+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14508_013.jpg
@@ -642,7 +642,7 @@ Midia: MessageMediaPhoto -> photo_14508_013.jpg
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T02:30:32+00:00
 Texto:
 [https://www.npmjs.com/package/n8n-nodes-imap](https://www.npmjs.com/package/n8n-nodes-imap)
@@ -651,7 +651,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T02:28:12+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Clasificador_Emails_Gmail_Paso_1 (1).json
@@ -659,7 +659,7 @@ Midia: MessageMediaDocument -> Clasificador_Emails_Gmail_Paso_1 (1).json
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T02:28:12+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Resumidor_Correos_Diarios (1) (1).json
@@ -667,7 +667,7 @@ Midia: MessageMediaDocument -> Resumidor_Correos_Diarios (1) (1).json
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T02:28:12+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Resumidor_correos_empresa (1).json
@@ -675,7 +675,7 @@ Midia: MessageMediaDocument -> Resumidor_correos_empresa (1).json
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T02:28:12+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Correo_empresa (1).json
@@ -683,7 +683,7 @@ Midia: MessageMediaDocument -> Correo_empresa (1).json
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T02:27:54+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14502_019.jpg
@@ -691,7 +691,7 @@ Midia: MessageMediaPhoto -> photo_14502_019.jpg
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T02:26:37+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14501_020.jpg
@@ -699,7 +699,7 @@ Midia: MessageMediaPhoto -> photo_14501_020.jpg
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T02:23:04+00:00
 Texto:
 e23 - Organize seu Email
@@ -707,7 +707,7 @@ e23 - Organize seu Email
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T02:22:49+00:00
 Texto:
 .
@@ -715,7 +715,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T02:22:48+00:00
 Texto:
 .
@@ -723,7 +723,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T02:22:48+00:00
 Texto:
 .
@@ -731,7 +731,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T02:22:48+00:00
 Texto:
 .
@@ -739,7 +739,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T02:22:47+00:00
 Texto:
 .
@@ -747,7 +747,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T02:22:47+00:00
 Texto:
 .
@@ -755,7 +755,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T02:22:47+00:00
 Texto:
 https://chatgpt.com/c/68d0b1ef-5a74-8329-84f9-ff0c063b299a
@@ -764,7 +764,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T02:22:46+00:00
 Texto:
 1
@@ -772,7 +772,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T02:22:42+00:00
 Texto: [Sem texto]
 

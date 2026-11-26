@@ -10,7 +10,7 @@ Midias baixadas: 4
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T04:01:53+00:00
 Texto:
 https://www.youtube.com/watch?v=cZQPDLgPtNg
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T04:01:32+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10206_002.jpg
@@ -27,7 +27,7 @@ Midia: MessageMediaPhoto -> photo_10206_002.jpg
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T04:00:25+00:00
 Texto:
 ===============
@@ -35,7 +35,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T04:00:22+00:00
 Texto:
 Alguns **"hacks" ou dicas práticas** para facilitar e acelerar o processo de expor o n8n local via túnel do Cloudflare. Veja abaixo um resumo dos principais:
@@ -83,7 +83,7 @@ Alguns **"hacks" ou dicas práticas** para facilitar e acelerar o processo de ex
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T03:58:01+00:00
 Texto:
 ==============
@@ -91,7 +91,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T03:57:46+00:00
 Texto:
 Segue um **passo a passo completo** para deixar sua instância local do **n8n acessível publicamente com Cloudflare Tunnel**, incluindo suporte a **webhooks funcionais (Google, Telegram, etc.)**.
@@ -201,7 +201,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T03:57:31+00:00
 Texto:
 ================
@@ -209,7 +209,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T03:57:01+00:00
 Texto:
 **Resumo do conteúdo:**
@@ -271,7 +271,7 @@ Este tutorial ensina como tornar uma instância local do n8n acessível publicam
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T03:56:47+00:00
 Texto:
 .
@@ -279,7 +279,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T03:56:46+00:00
 Texto:
 VPS-Local2 - Criando VPS com Cloudfare
@@ -287,7 +287,7 @@ VPS-Local2 - Criando VPS com Cloudfare
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T03:56:45+00:00
 Texto:
 .
@@ -295,7 +295,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T03:56:35+00:00
 Texto:
 .
@@ -303,7 +303,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T03:56:34+00:00
 Texto:
 .
@@ -311,7 +311,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T03:56:34+00:00
 Texto:
 .
@@ -319,7 +319,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T03:56:34+00:00
 Texto:
 .
@@ -327,7 +327,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T03:56:34+00:00
 Texto:
 .
@@ -335,7 +335,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T03:56:33+00:00
 Texto:
 https://chatgpt.com/c/68562ccf-48c8-8009-be18-de90784cdd22
@@ -344,7 +344,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T03:56:33+00:00
 Texto:
 1
@@ -352,7 +352,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T03:56:20+00:00
 Texto: [Sem texto]
 

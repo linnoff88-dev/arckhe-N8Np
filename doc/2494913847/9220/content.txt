@@ -10,7 +10,7 @@ Midias baixadas: 15
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T20:19:41+00:00
 Texto:
 Aqui estêo **hacks práticos e avançados** para turbinar o seu **Agente de Marketing no WhatsApp** usando **N8N + Evolution API + OpenAI**:
@@ -86,7 +86,7 @@ Aqui estêo **hacks práticos e avançados** para turbinar o seu **Agente de Mar
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T20:19:03+00:00
 Texto:
 ====
@@ -94,7 +94,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T20:18:59+00:00
 Texto:
 Segue o **passo a passo completo** para criar o Agente de Marketing no WhatsApp usando **N8N**, **OpenAI**, **Evolution API**, **Google Drive** e **PostgreSQL**:
@@ -225,7 +225,7 @@ Cada funçêo será um fluxo separado:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T20:18:21+00:00
 Texto:
 ============
@@ -233,7 +233,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T20:18:17+00:00
 Texto:
 **Resumo  – Criaçêo de Agente de Marketing no WhatsApp com N8N e IA**
@@ -335,7 +335,7 @@ Esse sistema mostra como integrar IA e automações para criar um verdadeiro **a
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T20:16:12+00:00
 Texto:
 ===================
@@ -343,7 +343,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T20:16:08+00:00
 Texto:
 **22. Agente de Marketing no WhatsApp**
@@ -428,7 +428,7 @@ Esse fluxo de agente de marketing automatizado nos permite:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T20:15:26+00:00
 Texto:
 ===================
@@ -436,7 +436,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T20:15:20+00:00
 Texto:
 🚀 Crie seu Agente de Marketing no WhatsApp!
@@ -469,7 +469,7 @@ Você já imaginou ter um bot conversacional que:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T20:13:26+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> search_imagenes (1).json
@@ -477,7 +477,7 @@ Midia: MessageMediaDocument -> search_imagenes (1).json
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T20:13:26+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> MCP_IA_Marketing (1).json
@@ -485,7 +485,7 @@ Midia: MessageMediaDocument -> MCP_IA_Marketing (1).json
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T20:13:26+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> linkedin_post (1).json
@@ -493,7 +493,7 @@ Midia: MessageMediaDocument -> linkedin_post (1).json
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T20:13:26+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Equipo_de_Marketing (1).json
@@ -501,7 +501,7 @@ Midia: MessageMediaDocument -> Equipo_de_Marketing (1).json
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T20:13:26+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> editar_imagen (1).json
@@ -509,7 +509,7 @@ Midia: MessageMediaDocument -> editar_imagen (1).json
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T20:13:26+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> crear_imagen (1).json
@@ -517,7 +517,7 @@ Midia: MessageMediaDocument -> crear_imagen (1).json
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T20:13:26+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> busqueda_tabla (1).json
@@ -525,7 +525,7 @@ Midia: MessageMediaDocument -> busqueda_tabla (1).json
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T20:13:15+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9236_017.jpg
@@ -533,7 +533,7 @@ Midia: MessageMediaPhoto -> photo_9236_017.jpg
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T20:12:01+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9234_018.jpg
@@ -541,7 +541,7 @@ Midia: MessageMediaPhoto -> photo_9234_018.jpg
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T20:11:19+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9232_019.jpg
@@ -549,7 +549,7 @@ Midia: MessageMediaPhoto -> photo_9232_019.jpg
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T20:10:05+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9231_020.jpg
@@ -557,7 +557,7 @@ Midia: MessageMediaPhoto -> photo_9231_020.jpg
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T20:07:49+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9230_021.jpg
@@ -565,7 +565,7 @@ Midia: MessageMediaPhoto -> photo_9230_021.jpg
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T20:06:57+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9229_022.jpg
@@ -573,7 +573,7 @@ Midia: MessageMediaPhoto -> photo_9229_022.jpg
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T20:05:49+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9228_023.jpg
@@ -581,7 +581,7 @@ Midia: MessageMediaPhoto -> photo_9228_023.jpg
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T19:54:58+00:00
 Texto:
 e22 - Agente de Marketing
@@ -589,7 +589,7 @@ e22 - Agente de Marketing
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T19:54:50+00:00
 Texto:
 ..
@@ -597,7 +597,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T19:54:49+00:00
 Texto:
 .
@@ -605,7 +605,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T19:54:49+00:00
 Texto:
 .
@@ -613,7 +613,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T19:54:49+00:00
 Texto:
 .
@@ -621,7 +621,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T19:54:48+00:00
 Texto:
 https://chatgpt.com/c/68488af9-c768-8009-9b00-d56d0733e53b
@@ -630,7 +630,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T19:54:48+00:00
 Texto:
 1
@@ -638,7 +638,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T19:54:43+00:00
 Texto: [Sem texto]
 

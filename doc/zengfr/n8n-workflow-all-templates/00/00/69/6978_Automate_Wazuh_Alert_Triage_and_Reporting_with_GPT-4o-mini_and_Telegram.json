@@ -95,7 +95,7 @@
           "summarizationMethodAndPrompts": {
             "values": {
               "prompt": "You are the experinced SOC AI Analyst designed by Mariskarthick M, Analyse the following and provide the detailed investigation with the below mentioned format.\n\n\"{text}\"\n\nconicise summary",
-              "combineMapPrompt": "You are the experinced SOC AI Analyst designed by Mariskarthick M, Analyse the following and provide the detailed investigation with the below mentioned format.\n\n#Analyse:\n{{ $json.body.all_fields.full_log }}\n\n#Format:\nAlert Name: \nAlert Description: (describe about that alert)\nMitre Tactic & Technique\nImpacted Scope: Source IP, Destiantion IP, Host Machine\n\nExternal Artificats Reputation check:\n\nAnalysis:\n\nSecurity Recommendations.\n\nPlease make the investigation report in organized way and each fields line by line.\n {{ $json.body }}"
+              "combARCKHÉpPrompt": "You are the experinced SOC AI Analyst designed by Mariskarthick M, Analyse the following and provide the detailed investigation with the below mentioned format.\n\n#Analyse:\n{{ $json.body.all_fields.full_log }}\n\n#Format:\nAlert Name: \nAlert Description: (describe about that alert)\nMitre Tactic & Technique\nImpacted Scope: Source IP, Destiantion IP, Host Machine\n\nExternal Artificats Reputation check:\n\nAnalysis:\n\nSecurity Recommendations.\n\nPlease make the investigation report in organized way and each fields line by line.\n {{ $json.body }}"
             }
           }
         }

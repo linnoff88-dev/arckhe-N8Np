@@ -57,7 +57,7 @@
   },
   {
     "id": 7967,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-20T04:14:13+00:00",
     "text": "ta sendo coloca nos menus",
     "has_media": false,
@@ -65,7 +65,7 @@
   },
   {
     "id": 7966,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-20T04:13:52+00:00",
     "text": "entra no menu com links e categorias",
     "has_media": false,
@@ -121,7 +121,7 @@
   },
   {
     "id": 6467,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-26T04:05:52+00:00",
     "text": "to coloca na area",
     "has_media": false,
@@ -147,7 +147,7 @@
     "id": 6020,
     "author": "Tiza",
     "date": "2025-04-20T22:33:48+00:00",
-    "text": "Pessoal, o @INEMAtds está montando o conteúdo. Nós próximos dias estará disponível na comunidade",
+    "text": "Pessoal, o @linnoff88-dev está montando o conteúdo. Nós próximos dias estará disponível na comunidade",
     "has_media": false,
     "media_type": null
   },
@@ -379,7 +379,7 @@
     "id": 5278,
     "author": "Lu",
     "date": "2025-04-10T17:50:14+00:00",
-    "text": "@INEMAtds é possível adaptar o 146 pra ligaçêo telefonica?",
+    "text": "@linnoff88-dev é possível adaptar o 146 pra ligaçêo telefonica?",
     "has_media": false,
     "media_type": null
   },
@@ -481,7 +481,7 @@
   },
   {
     "id": 4939,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-07T22:40:20+00:00",
     "text": "-=== kkke vou baixar e colocar na comunidade",
     "has_media": false,
@@ -569,7 +569,7 @@
   },
   {
     "id": 4879,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-07T08:56:18+00:00",
     "text": "Automatize o Gerador de Conteúdo para WordPress com  \n77. Automatize a resoluçêo de problemas de suporte ao cliente  \n78. Automatize tarefas de validaçêo de imagem usando o AI Vision  \n79. Automatize o alcance do LinkedIn com Notion e OpenAI  \n80. Automatize a análise do Pinterest e  \n81. Automatize a preparaçêo de reuniões de vendas com IA e  \n82. Automatize capturas de tela com URLbox &  \n83. Automatize o enriquecimento de alertas do SIEM com  \n84. Automatize depoimentos no Strapi com n8n.txt  \n85. Automatize seu processo de RFP com assistentes OpenAI  \n116. Gerar dinamicamente uma página da Web do usuário  \n117. Gerar dinamicamente uma página da Web a partir de  \n139. Geraçêo de imagens do Flux Dev (Fal.ai) para o Google Drive  \n145. Gerar consultas SQL somente a partir do esquema - alimentado por IA  \n146. Gere conversêo de texto em fala usando Elevenlabs via API.  \n149. O Gmail AI Responder_ criar rascunhos de respostas  \n158. Criaçêo de imagens com OpenAI e Telegram.txt  \n\n---\n\n**Gestêo e Análise de Negócios:**  \n17. Acionando as próximas etapas da sua reuniêo  \n44. Pesquisador web de IA para vendas  \n48. Gerenciamento e consulta de leads orientados por IA  \n126. Enriqueça os dados da organizaçêo do Pipedrive com  \n148. Obtenha dados do Airtable via IA e Obsidian Notes.txt  \n153. Lidando com leads de compromissos e acompanhamento  \n167. lemlist __ GPT-3_ Turbine seus fluxos de trabalho de vendas  \n193. Qualifique novos leads no Planilhas Google por meio de  \n194. Qualifique as respostas de pessoas do Pipedrive com AI.txt  \n\n---\n\n**Redes Sociais e Marketing Digital:**  \n41. Criador de legendas de mídia social AI  \n45. AI Youtube Trend Finder baseado em nicho  \n57. Amplifier.txt de mídia social com inteligência artificial  \n69. Crie e publique postagens de blog  \n71. Categorizar automaticamente as postagens do blog em  \n73. Marcar automaticamente postagens de blog no WordPress com AI.txt  \n101. Crie banner.txt de perfil dinâmico no Twitter  \n143. Gere conteúdo do Instagram a partir das principais tendências  \n185. Otimize e atualize o título e a descriçêo do Printify  \n189. Publique novos vídeos do YouTube no X.txt  \n\n---\n\n**RH, Currículos e Vagas:**  \n32. Fluxo de trabalho de RH automatizado de IA para CV  \n50. Seleçêo de candidatos com inteligência artificial  \n109. Triagem de currículos com OpenAI.txt  \n157. Anúncio e avaliaçêo de vagas de RH com AI.txt  \n\n---\n\n**Scraping e Extraçêo de Dados:**  \n2. Raspador de agente de IA baseado em visêo  \n26. Agente de IA que pode raspar páginas da Web  \n37. Extraçêo de dados de IA com dinâmica  \n38. Extraçêo de dados de IA com prompts dinâmicos e Baserow  \n40. Web Scraping alimentado por IA com Jina,  \n129. Extraia e processe informações diretamente  \n130. Extraia dados do currículo e crie PDF com  \n131. Extraia informações de uma folha de logotipo usando  \n132. Extraia insights e analise comentários do YouTube via  \n133. Extraia o número da placa da imagem carregada  \n134. Extraia dados pessoais com LLM auto-hospedado  \n135. Extraia o histórico de gastos do gmail para  \n136. Extraia texto de PDF e imagem usando  \n150. Hacker News Job Listing Scraper e Parser.txt  \n162. Extraçêo de dados de faturas com LlamaParse e  \n163. Extraçêo de dados de faturas com LlamaParse e OpenAI  \n187. Analise o PDF com o LlamaParse e salve em Airtable.txt  \n191. Detecçêo de objetos baseada em prompt com Gemini 2.0.txt  \n\n---",
     "has_media": false,
@@ -577,7 +577,7 @@
   },
   {
     "id": 4878,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-07T08:56:18+00:00",
     "text": "Aqui está a lista completa, **organizada por grupos**, com a **numeraçêo original preservada**:\n\n---\n\n**Análise e Resumo de Conteúdo:**  \n3. Resumo e análise de vídeo do YouTube com inteligência artificial  \n18. Adicionar mensagens de feedback positivo  \n36. Análise de sentimento de feedback do cliente  \n47. AI_ Resumir o episódio do podcast e  \n49. Bloco de resumo gerado por IA para postagens do WordPress  \n59. Analise artigos do Hugging Face com IA e  \n61. Analise o feedback e envie uma mensagem no Mattermost  \n62. Analise o feedback usando o AWS Comprehend e  \n88. Resumo do Documento de Rosto de Abraço Automatizado  \n110. Resumo de reuniões diárias com Gemini AI.txt  \n111. Podcast Diário Summary.txt  \n\n---\n\n**Chatbots e Agentes com IA:**  \n5. 🐋🤖 Agente DeepSeek AI + Telegram  \n12. 🤖 Agente de mensagens do Telegram para Text_Audio_Images  \n13. 🤖🧑 _ 💻 Agente de IA para os principais criadores do n8n  \n14. 🤖🧠 AI Agent Chatbot + Memória de LONGO PRAZO  \n20. Bot de IA do Telegram Agentic com com  \n21. Agente de IA _ Assistente de calendário do Google usando OpenAI  \n22. Bate-papo do agente de IA  \n23. Agente de IA para Instagram DM_inbox.  \n25. Agente de IA para insights em tempo real sobre reuniões  \n27. AI Agent para conversar com o Airtable e analisar dados  \n28. Agente de IA para conversar com arquivos no armazenamento Supabase  \n29. Agente de IA para conversar com Supabase_PostgreSQL DB  \n30. AI Agent para conversar com seus dados do Search Console,  \n31. Agente de IA com Ollama para clima atual e wiki  \n34. Chatbot de IA que pode pesquisar na web  \n43. Chatbot de Voz AI com ElevenLabs &  \n65. Angie, assistente pessoal de IA com  \n93. Exemplo de fluxo de trabalho do aplicativo de chatbot Bitrix24  \n95. Crie um assistente de documentos financeiros  \n96. Crie um Assistente de Código Tributário com Qdrant, Mistral.  \n97. Crie um assistente OpenAI  \n99. Crie um chatbot de site com inteligência artificial de marca  \n104. Criando um bot do Slack de IA com o Google Gemini.txt  \n105. Agente LangChain personalizado escrito em JavaScript.txt  \n114. Detecte linguagem tóxica no Telegram messages.txt  \n115. bot.txt com tecnologia de IA do Discord  \n155. Hospede seu próprio agente de pesquisa profunda de IA com n8n,  \n156. Chatbot de Helpdesk de RH e TI com Transcriçêo de Áudio.  \n164. Fluxo de trabalho do SlackBot de IA de operações de TI -  \n168. Assistente LINE com Google Agenda e  \n171. Assistente de e-mail do Microsoft Outlook AI com contato  \n173. Agente de IA do MongoDB -  \n176. Assistente de IA do Notion Generator.txt  \n181. Assistente OpenAI com tools.txt personalizado  \n188. Chatbot de Personal Shopper para WooCommerce com RAG  \n192. Agente Proxmox AI com n8n e IA generativa  \n\n---\n\n**Educaçêo e Treinamento:**  \n68. Faça perguntas sobre um PDF usando AI.txt  \n94. Dividir documentos em notas de estudo  \n108. Análise de PDF com Multimodal Vision AI.  \n179. Notas de obsidiana lidas em voz alta usando  \n\n---\n\n**Ferramentas e Infraestrutura:**  \n10. 🔐🦙🤖 Ollama Privada e Local  \n15. 🚀 Teste Multi-LLM Local & Rastreador de Desempenho  \n66. Esquema de API Extractor.txt  \n87. Ajuste fino automatizado de ponta a ponta de modelos OpenAI  \n102. crie respostas de e-mail com fastmail e OpenAI.  \n128. Pipeline de ETL para processing.txt de texto  \n142. Gere áudio a partir de texto usando OpenAI e  \n159. Integraçêo de IA com a API Open-Meteo para  \n169. Faça uma citaçêo OpenAI para recuperaçêo de arquivos RAG.txt  \n170. Manipular PDF com o API.txt de desenvolvedor da Adobe  \n182. OpenAI Assistant workflow_ fazer upload de arquivo,  \n183. OpenAI examples_ ChatGPT, DALLE-2,  \n184. Tweet com tecnologia OpenAI generator.txt  \n196. Consultar credenciais n8n com AI SQL Agent.txt  \n197. Consulte o Perplexity AI do seu workflows.txt  \n\n---\n\n**Geraçêo e Automaçêo de Conteúdo:**  \n8. 📚 Gerar documentaçêo automaticamente para fluxos de trabalho n8n  \n53. Automaçêo de e-mail com inteligência artificial para  \n74. Automatize a criaçêo de blogs no Brand Voice com AI.txt  \n75. Automatize a pesquisa de concorrentes com Exa.ai,  \n76.",
     "has_media": false,
@@ -585,7 +585,7 @@
   },
   {
     "id": 4877,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-07T08:53:49+00:00",
     "text": "Achei uma mina e vou baiuxar este mes ainda no grupo da Comunidade.\n\nOlha so se tem algoe q voce s querem antes",
     "has_media": false,
@@ -593,7 +593,7 @@
   },
   {
     "id": 4876,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-07T08:53:10+00:00",
     "text": "....",
     "has_media": false,
@@ -601,7 +601,7 @@
   },
   {
     "id": 4875,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-07T08:53:09+00:00",
     "text": "..",
     "has_media": false,
@@ -609,7 +609,7 @@
   },
   {
     "id": 4874,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-07T08:53:09+00:00",
     "text": ".",
     "has_media": false,
@@ -617,7 +617,7 @@
   },
   {
     "id": 4873,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-07T08:53:09+00:00",
     "text": ".",
     "has_media": false,
@@ -625,7 +625,7 @@
   },
   {
     "id": 4872,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-07T08:53:08+00:00",
     "text": "1",
     "has_media": false,
@@ -633,7 +633,7 @@
   },
   {
     "id": 4871,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-07T08:53:05+00:00",
     "text": "",
     "has_media": false,

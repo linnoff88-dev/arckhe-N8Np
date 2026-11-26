@@ -18,7 +18,7 @@ Bom dia. Alguém já adaptou para raspar Youtube?
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-14T23:20:44+00:00
 Texto:
 https://rapidapi.com/
@@ -27,7 +27,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-14T23:19:12+00:00
 Texto:
 tem dublagem em espanhol
@@ -35,7 +35,7 @@ tem dublagem em espanhol
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-14T23:19:04+00:00
 Texto:
 https://www.youtube.com/watch?v=olacjh1GaGY
@@ -44,7 +44,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-14T23:18:31+00:00
 Texto:
 O vídeo explica como construir um sistema poderoso para **raspagem de dados** de redes sociais utilizando **n8n** e **APIs de scraping**. O objetivo é coletar **transcrições, descrições, estatísticas de visualizações, curtidas, comentários, compartilhamentos** e outras métricas de qualquer plataforma, como **TikTok, YouTube e Instagram**.
@@ -97,7 +97,7 @@ Esse sistema pode ser aplicado a qualquer plataforma e **automatiza todo o proce
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-14T23:18:02+00:00
 Texto:
 j79
@@ -106,7 +106,7 @@ Midia: MessageMediaDocument -> ___TikTok_Scraper.json
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-14T23:17:41+00:00
 Texto:
 j79n - Raspagem de qq Redes Sociais
@@ -114,7 +114,7 @@ j79n - Raspagem de qq Redes Sociais
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-14T23:17:38+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_3186_008.jpg
@@ -122,7 +122,7 @@ Midia: MessageMediaPhoto -> photo_3186_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-14T23:17:38+00:00
 Texto:
 .
@@ -130,7 +130,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-14T23:17:38+00:00
 Texto:
 .
@@ -138,7 +138,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-14T23:17:37+00:00
 Texto:
 ....
@@ -146,7 +146,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-14T23:17:37+00:00
 Texto:
 ...
@@ -154,7 +154,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-14T23:17:37+00:00
 Texto:
 ..
@@ -162,7 +162,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-14T23:17:37+00:00
 Texto:
 .
@@ -170,7 +170,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-14T23:17:37+00:00
 Texto:
 .
@@ -178,7 +178,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-14T23:17:37+00:00
 Texto:
 ..
@@ -186,7 +186,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-14T23:17:36+00:00
 Texto:
 .
@@ -194,7 +194,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-14T23:17:36+00:00
 Texto:
 .https://chatgpt.com/c/67d4b580-4a68-8009-883a-16fc72c55eea
@@ -203,7 +203,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-14T23:17:35+00:00
 Texto:
 1
@@ -211,7 +211,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-14T23:17:29+00:00
 Texto: [Sem texto]
 

@@ -10,7 +10,7 @@ Midias baixadas: 12
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T15:07:00+00:00
 Texto:
 Aqui estêo **10 hacks avançados e práticos** para elevar o **tratamento de erros no n8n** ao nível de produçêo robusta, com foco em inteligência, automaçêo e rastreabilidade — além das 5 técnicas padrêo.
@@ -121,7 +121,7 @@ Aqui estêo **10 hacks avançados e práticos** para elevar o **tratamento de er
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T15:06:08+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12409_002.jpg
@@ -129,7 +129,7 @@ Midia: MessageMediaPhoto -> photo_12409_002.jpg
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T15:05:34+00:00
 Texto:
 ==================
@@ -137,7 +137,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T15:05:29+00:00
 Texto:
 Aqui está o **passo a passo prático das 5 técnicas de tratamento de erros no n8n para produçêo**, baseado no vídeo analisado. Cada técnica inclui o que fazer, onde clicar e como configurar na interface do n8n.
@@ -263,7 +263,7 @@ Aqui está o **passo a passo prático das 5 técnicas de tratamento de erros no 
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T15:04:01+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12406_005.jpg
@@ -271,7 +271,7 @@ Midia: MessageMediaPhoto -> photo_12406_005.jpg
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T15:03:27+00:00
 Texto:
 dublado
@@ -279,7 +279,7 @@ dublado
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T15:03:18+00:00
 Texto:
 Com base no vídeo "[5 Must-Know Error Handling Techniques for Production n8n Workflows](https://www.youtube.com/watch?v=Irk4-DO5qgM)", segue um **resumo completo com explicações aprofundadas e exemplos práticos das 5 técnicas essenciais de tratamento de erros no n8n para produçêo**:
@@ -366,7 +366,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T14:51:32+00:00
 Texto:
 ==================
@@ -374,7 +374,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T14:50:21+00:00
 Texto:
 Se você quer que seus fluxos no **n8n** estejam prontos para produçêo, é essencial dominar **cinco técnicas de tratamento de erros** que garantem estabilidade e confiabilidade. Esse vídeo mostra **como evitar falhas silenciosas**, **recuperar processos automaticamente** e **ser alertado na hora certa**, mesmo quando você nêo está monitorando tudo. Automatizações mal protegidas podem causar perda de dados, tarefas nêo executadas ou ações duplicadas — e essas técnicas foram pensadas justamente para **evitar esse tipo de caos**.
@@ -420,7 +420,7 @@ Essas práticas transformam um fluxo instável em um **sistema profissional**, d
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T14:48:14+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 5 Error Handling Techniques.json
@@ -428,7 +428,7 @@ Midia: MessageMediaDocument -> 5 Error Handling Techniques.json
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T14:48:01+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12396_011.jpg
@@ -436,7 +436,7 @@ Midia: MessageMediaPhoto -> photo_12396_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T14:47:34+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12395_012.jpg
@@ -444,7 +444,7 @@ Midia: MessageMediaPhoto -> photo_12395_012.jpg
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T14:47:14+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12394_013.jpg
@@ -452,7 +452,7 @@ Midia: MessageMediaPhoto -> photo_12394_013.jpg
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T14:46:29+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12393_014.jpg
@@ -460,7 +460,7 @@ Midia: MessageMediaPhoto -> photo_12393_014.jpg
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T14:46:13+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12392_015.jpg
@@ -468,7 +468,7 @@ Midia: MessageMediaPhoto -> photo_12392_015.jpg
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T14:45:34+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12391_016.jpg
@@ -476,7 +476,7 @@ Midia: MessageMediaPhoto -> photo_12391_016.jpg
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T14:44:54+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12390_017.jpg
@@ -484,7 +484,7 @@ Midia: MessageMediaPhoto -> photo_12390_017.jpg
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T14:44:50+00:00
 Texto:
 ap52 - 5 Forma de Tratamento ERROS
@@ -492,7 +492,7 @@ ap52 - 5 Forma de Tratamento ERROS
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T14:44:49+00:00
 Texto:
 .
@@ -500,7 +500,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T14:44:49+00:00
 Texto:
 .
@@ -508,7 +508,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T14:44:48+00:00
 Texto:
 .
@@ -516,7 +516,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T14:44:46+00:00
 Texto:
 ;
@@ -524,7 +524,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T14:44:44+00:00
 Texto:
 https://chatgpt.com/c/68960bd0-6dd0-832c-b123-e7ec4097e631
@@ -533,7 +533,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T14:44:43+00:00
 Texto:
 1
@@ -541,7 +541,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T14:44:36+00:00
 Texto: [Sem texto]
 

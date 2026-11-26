@@ -10,7 +10,7 @@ Midias baixadas: 16
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-19T00:08:28+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15224_001.jpg
@@ -18,7 +18,7 @@ Midia: MessageMediaPhoto -> photo_15224_001.jpg
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-19T00:06:14+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Combining ALL RAG Strategies of n8n.json
@@ -26,7 +26,7 @@ Midia: MessageMediaDocument -> Combining ALL RAG Strategies of n8n.json
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-19T00:06:09+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15222_003.jpg
@@ -34,7 +34,7 @@ Midia: MessageMediaPhoto -> photo_15222_003.jpg
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-19T00:05:59+00:00
 Texto:
 =====================
@@ -42,7 +42,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-19T00:05:55+00:00
 Texto:
 Automatizar todo o processo de “base de conhecimento da empresa”, que aumenta os lucros das empresas 🚀
@@ -86,7 +86,7 @@ Nêo perca essa oportunidade!
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-19T00:05:26+00:00
 Texto:
 =================
@@ -94,7 +94,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-19T00:05:25+00:00
 Texto:
 =====================
@@ -102,7 +102,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-19T00:01:40+00:00
 Texto:
 https://www.youtube.com/watch?v=_HQ2H_0Ayy0
@@ -113,7 +113,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-19T00:00:04+00:00
 Texto:
 https://www.youtube.com/watch?v=5uw1wE6niGc
@@ -124,7 +124,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T23:59:35+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15214_010.jpg
@@ -132,7 +132,7 @@ Midia: MessageMediaPhoto -> photo_15214_010.jpg
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T23:41:50+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15210_011.jpg
@@ -140,7 +140,7 @@ Midia: MessageMediaPhoto -> photo_15210_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T23:41:30+00:00
 Texto:
 https://www.youtube.com/watch?v=5uw1wE6niGc
@@ -149,7 +149,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T23:41:16+00:00
 Texto:
 | Divida por seções e aplique sumários locais.        |
@@ -160,7 +160,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T23:41:16+00:00
 Texto:
 # Guia Avançado: Hacks para um Pipeline RAG Perfeito (n8n + Google Drive + Supabase)
@@ -324,7 +324,7 @@ Execute verificaçêo mensal por “last_query_date”.
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T23:39:55+00:00
 Texto:
 ============
@@ -332,7 +332,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T23:39:51+00:00
 Texto:
 Passo a passo para construir o pipeline RAG automático (mantendo os agentes atualizados com n8n, Google Drive e Supabase)
@@ -490,7 +490,7 @@ Com esse sistema, o banco vetorial e os agentes RAG permanecem **sempre sincroni
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T23:39:19+00:00
 Texto:
 =============
@@ -498,7 +498,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T23:39:16+00:00
 Texto:
 Resumo do vídeo “Keep Your RAG Agents ACCURATE: Beginner’s Guide”
@@ -545,7 +545,7 @@ Ao inserir, editar ou remover um PDF no Google Drive, o Supabase é automaticame
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T23:37:11+00:00
 Texto:
 ========
@@ -553,7 +553,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T23:30:09+00:00
 Texto:
 Construa seu primeiro pipeline RAG para um RAG melhor (passo a passo)
@@ -572,7 +572,7 @@ Ao final do vídeo, você vai entender exatamente como conectar tudo dentro do n
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T23:22:27+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15200_021.jpg
@@ -580,7 +580,7 @@ Midia: MessageMediaPhoto -> photo_15200_021.jpg
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T23:22:04+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15199_022.jpg
@@ -588,7 +588,7 @@ Midia: MessageMediaPhoto -> photo_15199_022.jpg
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T23:21:45+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15198_023.jpg
@@ -596,7 +596,7 @@ Midia: MessageMediaPhoto -> photo_15198_023.jpg
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T23:21:06+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15197_024.jpg
@@ -604,7 +604,7 @@ Midia: MessageMediaPhoto -> photo_15197_024.jpg
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T23:20:37+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15196_025.jpg
@@ -612,7 +612,7 @@ Midia: MessageMediaPhoto -> photo_15196_025.jpg
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T23:19:37+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> RAG Pipelines.json
@@ -620,7 +620,7 @@ Midia: MessageMediaDocument -> RAG Pipelines.json
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T23:19:24+00:00
 Texto:
 ap67 - o RAG Perfeito
@@ -628,7 +628,7 @@ ap67 - o RAG Perfeito
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T23:19:12+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15193_028.jpg
@@ -636,7 +636,7 @@ Midia: MessageMediaPhoto -> photo_15193_028.jpg
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T23:18:58+00:00
 Texto:
 .
@@ -644,7 +644,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T23:18:58+00:00
 Texto:
 .
@@ -652,7 +652,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T23:18:57+00:00
 Texto:
 .
@@ -660,7 +660,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 32
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T23:18:57+00:00
 Texto:
 .
@@ -668,7 +668,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 33
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T23:18:57+00:00
 Texto:
 https://chatgpt.com/c/68f41f53-820c-832b-bbf0-22b4bdc728b5
@@ -677,7 +677,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 34
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T23:18:56+00:00
 Texto:
 1
@@ -685,7 +685,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 35
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T23:18:48+00:00
 Texto: [Sem texto]
 

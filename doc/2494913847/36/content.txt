@@ -10,7 +10,7 @@ Midias baixadas: 19
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-07T22:30:23+00:00
 Texto:
 mas sobe no inicio deste topico tem os conteudos basicos em videos
@@ -18,7 +18,7 @@ mas sobe no inicio deste topico tem os conteudos basicos em videos
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-07T22:29:42+00:00
 Texto:
 RAG e Pesquisa Nativa no N8N
@@ -30,7 +30,7 @@ MENSAGEM 3
 Autor: Tiza
 Data: 2025-11-07T20:00:11+00:00
 Texto:
-Tu pode entrar no YouTube, inematdsx. Lá tem diversos vídeos iniciante de N8N
+Tu pode entrar no YouTube, linnoff88-devx. Lá tem diversos vídeos iniciante de N8N
 
 ------------------------------
 
@@ -43,7 +43,7 @@ Existem vídeos dos primeiros passos no N8N por aqui?
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T21:49:20+00:00
 Texto:
 ap69- do Zero ao Inbox Agente
@@ -52,7 +52,7 @@ https://t.me/c/2494913847/15389
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-01T13:17:06+00:00
 Texto:
 Control +K busca os nodes
@@ -60,7 +60,7 @@ Control +K busca os nodes
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-25T12:52:24+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Manual Ilustrativo_ Curso Básico de N8N.md
@@ -68,7 +68,7 @@ Midia: MessageMediaDocument -> Manual Ilustrativo_ Curso Básico de N8N.md
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-25T12:52:24+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Manual_Ilustrativo_Curso_Básico_de_N8N.pdf
@@ -76,7 +76,7 @@ Midia: MessageMediaDocument -> Manual_Ilustrativo_Curso_Básico_de_N8N.pdf
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T23:44:09+00:00
 Texto:
 ap67 - o RAG Perfeito
@@ -293,7 +293,7 @@ Nêo sei nada sobre, conhecimento zero, qual o caminho que vocês recomendam?
 ------------------------------
 
 MENSAGEM 36
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-08T03:49:49+00:00
 Texto:
 respondi no outro topico
@@ -581,7 +581,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 67
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-24T08:18:25+00:00
 Texto:
 https://www.youtube.com/@hiperautomacao
@@ -590,7 +590,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 68
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-17T03:29:24+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> n8n-Markdown-complete.md
@@ -598,7 +598,7 @@ Midia: MessageMediaDocument -> n8n-Markdown-complete.md
 ------------------------------
 
 MENSAGEM 69
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-17T03:26:37+00:00
 Texto:
 https://www.youtube.com/watch?v=qZkX_gIlwsY
@@ -607,7 +607,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 70
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-23T03:33:46+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Agentic_RAG.json
@@ -615,7 +615,7 @@ Midia: MessageMediaDocument -> Agentic_RAG.json
 ------------------------------
 
 MENSAGEM 71
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-23T03:33:37+00:00
 Texto:
 https://www.youtube.com/watch?v=BhGaGFH0jR4
@@ -624,7 +624,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 72
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-23T03:33:34+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_8145_072.jpg
@@ -632,7 +632,7 @@ Midia: MessageMediaPhoto -> photo_8145_072.jpg
 ------------------------------
 
 MENSAGEM 73
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-23T03:29:32+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Supabase_Postgres.json
@@ -640,7 +640,7 @@ Midia: MessageMediaDocument -> Supabase_Postgres.json
 ------------------------------
 
 MENSAGEM 74
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-23T02:56:57+00:00
 Texto:
 https://www.youtube.com/watch?v=Kvf-Pr1LRe4&t=6s
@@ -649,7 +649,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 75
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-23T02:55:44+00:00
 Texto:
 https://www.youtube.com/watch?v=JjBofKJnYIU
@@ -658,7 +658,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 76
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-16T05:58:39+00:00
 Texto:
 automações simples, elas nêo oferecem o mesmo nível de controle e personalizaçêo do **n8n**.  
@@ -695,7 +695,7 @@ O **n8n** oferece uma combinaçêo única de **modularidade, reutilizaçêo e in
 ------------------------------
 
 MENSAGEM 77
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-16T05:58:39+00:00
 Texto:
 ### Por que  o n8n?
@@ -763,14 +763,14 @@ Quando comparado a **Zapier, Integromat (Make) ou Microsoft Power Automate**, o 
 ------------------------------
 
 MENSAGEM 78
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T22:28:00+00:00
 Texto: [Sem texto]
 
 ------------------------------
 
 MENSAGEM 79
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T22:26:20+00:00
 Texto:
 .### **Tópicos para um Curso de n8n: De Zero a Herói** 
@@ -852,7 +852,7 @@ Este curso cobre desde os fundamentos básicos até aplicações avançadas com 
 ------------------------------
 
 MENSAGEM 80
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T22:26:17+00:00
 Texto:
 .
@@ -860,7 +860,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 81
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T22:26:17+00:00
 Texto:
 Usando ChatGPT para criar codigos no n8n
@@ -869,7 +869,7 @@ https://t.me/c/2494913847/7800
 ------------------------------
 
 MENSAGEM 82
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T22:26:17+00:00
 Texto:
 .
@@ -877,7 +877,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 83
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T22:23:17+00:00
 Texto:
 Introduçêo N8N
@@ -896,7 +896,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 84
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T22:22:48+00:00
 Texto:
 VPS e Instalações
@@ -908,7 +908,7 @@ https://t.me/c/2494913847/14417
 ------------------------------
 
 MENSAGEM 85
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T22:22:40+00:00
 Texto:
 .
@@ -916,7 +916,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 86
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T22:22:40+00:00
 Texto:
 .
@@ -924,7 +924,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 87
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T22:22:39+00:00
 Texto:
 .
@@ -932,7 +932,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 88
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T22:22:39+00:00
 Texto:
 .
@@ -940,7 +940,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 89
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T22:22:39+00:00
 Texto:
 .
@@ -948,7 +948,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 90
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T22:20:54+00:00
 Texto:
 Aula 7 - Instalaçêo Local 
@@ -957,7 +957,7 @@ https://t.me/c/2494913847/2891
 ------------------------------
 
 MENSAGEM 91
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T22:20:23+00:00
 Texto:
 Aula 6 - RAG no N8N
@@ -966,7 +966,7 @@ https://t.me/c/2494913847/2875
 ------------------------------
 
 MENSAGEM 92
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T22:19:46+00:00
 Texto:
 Aula 5 - Multi Agentes
@@ -975,7 +975,7 @@ https://t.me/c/2494913847/325
 ------------------------------
 
 MENSAGEM 93
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T22:19:16+00:00
 Texto:
 Aula 4 - Pratica  Apify e Amazon
@@ -984,7 +984,7 @@ https://t.me/c/2494913847/2851
 ------------------------------
 
 MENSAGEM 94
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T22:18:31+00:00
 Texto:
 Alula 3 - Integraçêo Avançada
@@ -993,7 +993,7 @@ https://t.me/c/2494913847/2841
 ------------------------------
 
 MENSAGEM 95
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T22:18:00+00:00
 Texto:
 Aula 2- Instalaçêo e Configuraçêo
@@ -1002,7 +1002,7 @@ https://t.me/c/2494913847/2841
 ------------------------------
 
 MENSAGEM 96
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T22:17:16+00:00
 Texto:
 Aula 1 - Introduçêo Zero a Heroi
@@ -1011,7 +1011,7 @@ https://t.me/c/2494913847/2816
 ------------------------------
 
 MENSAGEM 97
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T22:08:00+00:00
 Texto:
 ok
@@ -1019,7 +1019,7 @@ ok
 ------------------------------
 
 MENSAGEM 98
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-03T17:26:37+00:00
 Texto:
 0
@@ -1027,7 +1027,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 99
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-03T17:26:37+00:00
 Texto:
 9
@@ -1035,7 +1035,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 100
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-03T17:26:35+00:00
 Texto:
 6
@@ -1043,7 +1043,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 101
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-03T17:26:34+00:00
 Texto:
 3
@@ -1051,7 +1051,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 102
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-03T17:26:34+00:00
 Texto:
 https://chatgpt.com/c/67781811-6c78-8009-a19a-8b572bbb2c6d
@@ -1060,7 +1060,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 103
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-03T17:26:33+00:00
 Texto:
 1
@@ -1068,7 +1068,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 104
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-03T17:26:25+00:00
 Texto: [Sem texto]
 

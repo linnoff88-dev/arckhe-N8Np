@@ -10,7 +10,7 @@ Midias baixadas: 3
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T02:23:44+00:00
 Texto:
 No Apify, você precisa **dizer (configurar)** exatamente *quem* você quer encontrar e *que tipo de dados* quer extrair.
@@ -111,7 +111,7 @@ O Apify retornará algo como:
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T02:23:34+00:00
 Texto:
 ==========
@@ -119,7 +119,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T02:22:21+00:00
 Texto:
 Resumo completo:
@@ -160,7 +160,7 @@ Uma empresa pode usar o Apify para buscar leads no setor de tecnologia, enriquec
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T02:18:32+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Scraperrrr.json
@@ -168,7 +168,7 @@ Midia: MessageMediaDocument -> Scraperrrr.json
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T02:18:28+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15094_005.jpg
@@ -176,7 +176,7 @@ Midia: MessageMediaPhoto -> photo_15094_005.jpg
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T02:18:00+00:00
 Texto:
 j110x - Scrapting
@@ -184,7 +184,7 @@ j110x - Scrapting
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T02:17:49+00:00
 Texto:
 .
@@ -192,7 +192,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T02:17:48+00:00
 Texto:
 .
@@ -200,7 +200,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T02:17:48+00:00
 Texto:
 .
@@ -208,7 +208,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T02:17:48+00:00
 Texto:
 .
@@ -216,7 +216,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T02:17:47+00:00
 Texto:
 .
@@ -224,7 +224,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T02:17:47+00:00
 Texto:
 https://chatgpt.com/c/68ef04d1-54c4-832e-a506-a9e4744f9a81
@@ -233,7 +233,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T02:17:46+00:00
 Texto:
 1
@@ -241,7 +241,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T02:17:42+00:00
 Texto: [Sem texto]
 

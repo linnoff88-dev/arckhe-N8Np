@@ -10,7 +10,7 @@ Midias baixadas: 6
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T03:51:38+00:00
 Texto:
 =================
@@ -18,7 +18,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T03:50:49+00:00
 Texto:
 ===================
@@ -26,7 +26,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T03:50:44+00:00
 Texto:
 ### 11. Resultado final
@@ -54,7 +54,7 @@ Maria no valor de 350€, com IVA.”
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T03:50:44+00:00
 Texto:
 Abaixo está o **passo a passo explicado **, com a lógica, a fala prática e a sequência real da automaçêo funcionando dentro do N8N, usando Telegram, Gemini e PDF.co — exatamente como o criador mostrou.
@@ -65,8 +65,8 @@ Abaixo está o **passo a passo explicado **, com a lógica, a fala prática e a 
 
 * Abre o **Telegram** e procura o **@BotFather**.
 * Digita o comando `/newbot`.
-* Escolhe o nome do bot (exemplo: `faturador_inema_bot`).
-* Depois cria o **username** (exemplo: `faturador_inema_bot`).
+* Escolhe o nome do bot (exemplo: `faturador_ARCKHÉ_bot`).
+* Depois cria o **username** (exemplo: `faturador_ARCKHÉ_bot`).
 * O BotFather vai te devolver o **token de API**, que é o que vamos colar no N8N.
 
 ---
@@ -184,7 +184,7 @@ Abaixo está o **passo a passo explicado **, com a lógica, a fala prática e a 
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T03:49:54+00:00
 Texto:
 =====================
@@ -192,7 +192,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T03:49:51+00:00
 Texto:
 Passo a passo direto da automaçêo de faturas e relatórios financeiros
@@ -284,7 +284,7 @@ Em menos de 30 segundos o sistema:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T03:49:44+00:00
 Texto:
 Passo a Passo - Visêo Geral
@@ -292,7 +292,7 @@ Passo a Passo - Visêo Geral
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T03:48:43+00:00
 Texto:
 ======================
@@ -300,7 +300,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T03:48:40+00:00
 Texto:
 Resumo completo e estruturado 
@@ -362,7 +362,7 @@ Uma automaçêo empresarial completa, eficiente e sem custo recorrente de APIs, 
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T03:48:16+00:00
 Texto:
 ==================
@@ -370,7 +370,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T03:48:00+00:00
 Texto:
 ======================
@@ -378,7 +378,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T03:47:56+00:00
 Texto:
 e51 - Faturas e relatório financeiro em 1 clique
@@ -441,7 +441,7 @@ Recursos
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T03:47:12+00:00
 Texto:
 =========
@@ -449,7 +449,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T03:47:10+00:00
 Texto:
 O SISTEMA
@@ -457,7 +457,7 @@ O SISTEMA
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T03:47:01+00:00
 Texto:
 ============================
@@ -465,7 +465,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T03:46:23+00:00
 Texto:
 Faturas e Finanças no piloto automático 🧾🔥
@@ -506,7 +506,7 @@ Segue um exemplo da fatura e do relatório para você ver como isso está incrí
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T03:44:36+00:00
 Texto:
 ==========
@@ -514,7 +514,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T03:43:37+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> generar_facturas_(3).json
@@ -522,7 +522,7 @@ Midia: MessageMediaDocument -> generar_facturas_(3).json
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T03:43:37+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> informes_mesuales_(1).json
@@ -530,7 +530,7 @@ Midia: MessageMediaDocument -> informes_mesuales_(1).json
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T03:43:26+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14893_020.jpg
@@ -538,7 +538,7 @@ Midia: MessageMediaPhoto -> photo_14893_020.jpg
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T03:42:15+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14892_021.jpg
@@ -546,7 +546,7 @@ Midia: MessageMediaPhoto -> photo_14892_021.jpg
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T03:41:29+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14891_022.jpg
@@ -554,7 +554,7 @@ Midia: MessageMediaPhoto -> photo_14891_022.jpg
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T03:40:47+00:00
 Texto:
 e51 - Faturas e Relatório Financeiro em 1 Clique
@@ -562,7 +562,7 @@ e51 - Faturas e Relatório Financeiro em 1 Clique
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T03:40:44+00:00
 Texto:
 ..
@@ -570,7 +570,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T03:40:43+00:00
 Texto:
 .
@@ -578,7 +578,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T03:40:43+00:00
 Texto:
 .
@@ -586,7 +586,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T03:40:43+00:00
 Texto:
 .
@@ -594,7 +594,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T03:40:42+00:00
 Texto:
 .
@@ -602,7 +602,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T03:40:42+00:00
 Texto:
 https://chatgpt.com/c/68e5dcb8-20a0-832e-8663-363e62dba239
@@ -611,7 +611,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T03:40:41+00:00
 Texto:
 1
@@ -619,7 +619,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T03:40:37+00:00
 Texto: [Sem texto]
 

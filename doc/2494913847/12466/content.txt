@@ -10,7 +10,7 @@ Midias baixadas: 3
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T03:39:37+00:00
 Texto:
 notes
@@ -91,7 +91,7 @@ Perguntas e exemplos prontos
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T03:39:37+00:00
 Texto:
 Resumo rápido
@@ -218,7 +218,7 @@ Passo a passo prático no n8n
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T03:38:35+00:00
 Texto:
 Smart Action Agent, um agente de IA que executa tarefas a partir de comandos de voz enviados pelo Slack (ou outros canais como WhatsApp ou Telegram). Ele está integrado ao Google Calendar e ao Trello para automatizar agendamentos e gestêo de leads.
@@ -237,7 +237,7 @@ Permitir que qualquer profissional gerencie agenda e pipeline de vendas de forma
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T03:38:16+00:00
 Texto:
 =============
@@ -245,7 +245,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T03:36:35+00:00
 Texto:
 Agente de Açêo Inteligente
@@ -299,7 +299,7 @@ Smart Action Agent.json
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T03:35:51+00:00
 Texto:
 O Smart Action Agent é um assistente de IA integrado ao Slack que transforma mensagens de voz ou texto em ações automáticas, como criar eventos no Google Calendar ou atualizar pipelines de leads no Trello, sem sair do Slack.
@@ -310,7 +310,7 @@ Facilitar agendamentos e gestêo de leads de forma rápida, prática e padroniza
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T03:35:22+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 6__Smart_Action_Agent.json
@@ -318,7 +318,7 @@ Midia: MessageMediaDocument -> 6__Smart_Action_Agent.json
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T03:35:16+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12475_008.jpg
@@ -326,7 +326,7 @@ Midia: MessageMediaPhoto -> photo_12475_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T03:33:56+00:00
 Texto:
 m26 - Agente de Açêo Inteligente
@@ -334,7 +334,7 @@ m26 - Agente de Açêo Inteligente
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T03:33:55+00:00
 Texto:
 .
@@ -342,7 +342,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T03:33:53+00:00
 Texto:
 .
@@ -350,7 +350,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T03:33:52+00:00
 Texto:
 .
@@ -358,7 +358,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T03:33:51+00:00
 Texto:
 .
@@ -366,7 +366,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T03:33:50+00:00
 Texto:
 .
@@ -374,7 +374,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T03:33:48+00:00
 Texto:
 https://chatgpt.com/c/689812ea-f8d0-8327-ae03-42a9f3e0c31a
@@ -383,7 +383,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T03:33:47+00:00
 Texto:
 1
@@ -391,7 +391,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T03:33:38+00:00
 Texto: [Sem texto]
 

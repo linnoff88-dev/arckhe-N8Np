@@ -29,7 +29,7 @@ MENSAGEM 3
 Autor: Taylor
 Data: 2025-09-28T15:55:06+00:00
 Texto:
-@INEMAtds
+@linnoff88-dev
 
 ------------------------------
 
@@ -50,7 +50,7 @@ Vou testar
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T21:59:39+00:00
 Texto:
 dublado
@@ -58,7 +58,7 @@ dublado
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T21:59:27+00:00
 Texto:
 https://www.youtube.com/watch?v=QovlUE_VlWQ
@@ -67,7 +67,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T21:56:20+00:00
 Texto:
 Aqui vêo alguns hacks para deixar esse fluxo de autopostagem muito mais robusto, rápido e seguro no n8n com Botato e Google Sheets:
@@ -148,7 +148,7 @@ Aqui vêo alguns hacks para deixar esse fluxo de autopostagem muito mais robusto
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T21:55:59+00:00
 Texto:
 =============
@@ -156,7 +156,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T21:55:57+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12782_010.jpg
@@ -164,7 +164,7 @@ Midia: MessageMediaPhoto -> photo_12782_010.jpg
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T21:55:03+00:00
 Texto:
 =================
@@ -172,7 +172,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T21:54:59+00:00
 Texto:
 imagem e vídeo? Sim, basta ajustar o tipo da mídia no Upload Media e nos nós de rede.
@@ -184,7 +184,7 @@ E se uma rede falhar e outra funcionar? Com Continue On Fail, você atualiza pos
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T21:54:59+00:00
 Texto:
 }}
@@ -282,7 +282,7 @@ Posso postar
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T21:54:59+00:00
 Texto:
 Aqui vai um passo a passo direto para replicar o fluxo no n8n que publica em 9 redes via Botato, usando Google Sheets como “banco” e com opções para Drive/URL.
@@ -402,7 +402,7 @@ Ordem de nós e configurações principais:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T21:53:24+00:00
 Texto:
 ============
@@ -410,7 +410,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T21:53:14+00:00
 Texto:
 Como montar um fluxo no n8n que publica automaticamente em 9 redes sociais (Instagram, TikTok, X/Twitter, LinkedIn, Facebook, Threads, Bluesky, Pinterest e YouTube) usando o serviço Botato e um modelo pronto.
@@ -430,7 +430,7 @@ Destaques:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T21:47:58+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12775_017.jpg
@@ -438,7 +438,7 @@ Midia: MessageMediaPhoto -> photo_12775_017.jpg
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T21:47:53+00:00
 Texto:
 Fecha e abre o workflow novamente
@@ -446,7 +446,7 @@ Fecha e abre o workflow novamente
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T21:47:40+00:00
 Texto:
 instala o no da blotato
@@ -454,7 +454,7 @@ instala o no da blotato
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T21:46:06+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12772_020.jpg
@@ -462,7 +462,7 @@ Midia: MessageMediaPhoto -> photo_12772_020.jpg
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T21:45:11+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Blotato Posting.json
@@ -470,7 +470,7 @@ Midia: MessageMediaDocument -> Blotato Posting.json
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T21:45:04+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12770_022.jpg
@@ -478,7 +478,7 @@ Midia: MessageMediaPhoto -> photo_12770_022.jpg
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T21:44:36+00:00
 Texto:
 ap54 - Publique 9 Redes Sociais
@@ -486,7 +486,7 @@ ap54 - Publique 9 Redes Sociais
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T21:44:31+00:00
 Texto:
 .
@@ -494,7 +494,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T21:44:29+00:00
 Texto:
 .
@@ -502,7 +502,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T21:44:27+00:00
 Texto:
 .
@@ -510,7 +510,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T21:44:25+00:00
 Texto:
 .
@@ -518,7 +518,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T21:44:22+00:00
 Texto:
 .
@@ -526,7 +526,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T21:44:19+00:00
 Texto:
 .
@@ -534,7 +534,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T21:44:14+00:00
 Texto:
 https://chatgpt.com/c/689d0533-559c-8321-a82c-511d19a5de4c
@@ -543,7 +543,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T21:44:12+00:00
 Texto:
 1
@@ -551,7 +551,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 32
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T21:44:04+00:00
 Texto: [Sem texto]
 

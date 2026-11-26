@@ -10,7 +10,7 @@ Midias baixadas: 2
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T00:43:33+00:00
 Texto:
 texto para voz tts
@@ -31,7 +31,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T00:39:35+00:00
 Texto:
 https://fish.audio/pt/go-api/api-keys/
@@ -39,7 +39,7 @@ https://fish.audio/pt/go-api/api-keys/
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T00:39:19+00:00
 Texto:
 https://docs.fish.audio/api-reference/endpoint/openapi-v1/text-to-speech
@@ -48,7 +48,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T00:39:14+00:00
 Texto:
 Conexêo Fish.audio
@@ -56,7 +56,7 @@ Conexêo Fish.audio
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T00:39:03+00:00
 Texto:
 ...
@@ -64,7 +64,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T00:39:03+00:00
 Texto:
 ..
@@ -72,7 +72,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T00:39:02+00:00
 Texto:
 .
@@ -80,7 +80,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T00:39:02+00:00
 Texto:
 ....
@@ -88,7 +88,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T00:39:02+00:00
 Texto:
 ...
@@ -96,7 +96,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T00:39:02+00:00
 Texto:
 ..
@@ -104,7 +104,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T00:39:02+00:00
 Texto:
 .
@@ -112,7 +112,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T00:39:01+00:00
 Texto:
 .
@@ -120,7 +120,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T00:39:00+00:00
 Texto:
 1
@@ -128,7 +128,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T00:38:54+00:00
 Texto: [Sem texto]
 

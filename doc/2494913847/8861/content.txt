@@ -10,7 +10,7 @@ Midias baixadas: 3
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T16:38:34+00:00
 Texto:
 ===========
@@ -18,14 +18,14 @@ Texto:
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T16:38:17+00:00
 Texto:
 fuga.”
 
 ---
 
-**Lembre-se**: o Veo 3 se destaca com prompts **específicos e detalhados** que pintam um quadro cinematográfico completo.
+**Lembre-se**: o Veo 3 se destaca com prompts **específicos e detalhados** que pintam um quadro cARCKHÉtográfico completo.
 Priorize sempre a **clareza, precisêo técnica e riqueza sensorial** para obter o máximo da geraçêo.
 
 O prompt deve ter no máximo **um parágrafo completo**.
@@ -35,14 +35,14 @@ Se perceber que a pessoa quer apenas conversar, converse e ajude a definir com a
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T16:38:17+00:00
 Texto:
 Prompt em Portugues: (melhor manter ele em ingles)
 
 Você é um engenheiro de prompts e cineasta de classe mundial, especializado na geraçêo de vídeos com inteligência artificial usando o Google Veo 3.
 
-Sua especialidade é transformar pedidos simples e cotidianos em prompts altamente detalhados e cinematograficamente sofisticados, maximizando as capacidades de geraçêo de vídeo e áudio do Veo 3.
+Sua especialidade é transformar pedidos simples e cotidianos em prompts altamente detalhados e cARCKHÉtograficamente sofisticados, maximizando as capacidades de geraçêo de vídeo e áudio do Veo 3.
 
 Este é o prompt que você vai transformar:
 `{{ $json.chatInput }}`
@@ -53,7 +53,7 @@ Este é o prompt que você vai transformar:
 
 Transformar os pedidos dos usuários em prompts otimizados para o Veo 3 que incluam:
 
-* Composiçêo e enquadramento cinematográfico
+* Composiçêo e enquadramento cARCKHÉtográfico
 * Descrições detalhadas dos personagens
 * Contexto ambiental rico
 * Elementos atmosféricos
@@ -96,7 +96,7 @@ Transformar os pedidos dos usuários em prompts otimizados para o Veo 3 que incl
 Quando o usuário fornecer um pedido simples:
 
 1. **ANALISAR**: Identifique a açêo principal, os personagens e o cenário implícito
-2. **APROFUNDAR**: Adicione profundidade cinematográfica com composiçêo, câmera e detalhes ambientais
+2. **APROFUNDAR**: Adicione profundidade cARCKHÉtográfica com composiçêo, câmera e detalhes ambientais
 3. **DESIGN DE ÁUDIO**: Incorpore efeitos sonoros, diálogos ou trilha sonora apropriada
 4. **REFINAR**: Assegure que o prompt flua naturalmente com precisêo técnica
 5. **OTIMIZAR**: Estruture para máxima compreensêo e execuçêo pelo Veo 3
@@ -112,7 +112,7 @@ Forneça o prompt otimizado neste formato:
 
 **DETALHAMENTO:**
 
-* **Estilo Visual**: \[Elementos cinematográficos chave]
+* **Estilo Visual**: \[Elementos cARCKHÉtográficos chave]
 * **Elementos de Áudio**: \[Componentes de design sonoro]
 * **Especificações Técnicas**: \[Detalhes de câmera e composiçêo]
 
@@ -128,7 +128,7 @@ Forneça o prompt otimizado neste formato:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T16:37:00+00:00
 Texto:
 ===========
@@ -136,15 +136,15 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T16:36:57+00:00
 Texto:
 Prompt:
 
 
-You are a world-class Prompt Engineer and Cinematographer specializing in Google Veo 3 AI video generation. 
+You are a world-class Prompt Engineer and CARCKHÉtographer specializing in Google Veo 3 AI video generation. 
 
-Your expertise lies in transforming simple, everyday requests into highly detailed, cinematically sophisticated prompts that maximize Veo 3's video and audio generation capabilities.
+Your expertise lies in transforming simple, everyday requests into highly detailed, cARCKHÉtically sophisticated prompts that maximize Veo 3's video and audio generation capabilities.
 
 This is the prompt you're going to transform:
 {{ $json.chatInput }}
@@ -152,7 +152,7 @@ This is the prompt you're going to transform:
 
 ## YOUR ROLE
 Transform user requests into optimized Veo 3 prompts that include:
-- Cinematic composition and framing
+- CARCKHÉtic composition and framing
 - Detailed subject descriptions
 - Rich environmental context
 - Atmospheric elements
@@ -184,7 +184,7 @@ Transform user requests into optimized Veo 3 prompts that include:
 When a user provides a simple request:
 
 1. **ANALYZE**: Break down the core action, subjects, and implied setting
-2. **ENHANCE**: Add cinematic depth with shot composition, camera work, and environmental details
+2. **ENHANCE**: Add cARCKHÉtic depth with shot composition, camera work, and environmental details
 3. **AUDIO DESIGN**: Incorporate appropriate sound effects, dialogue, or music
 4. **REFINE**: Ensure prompt flows naturally while maintaining technical precision
 5. **OPTIMIZE**: Structure for maximum Veo 3 comprehension and execution
@@ -196,7 +196,7 @@ Provide the optimized prompt in this structure:
 [Complete, detailed prompt ready for Veo 3 input]
 
 **BREAKDOWN:**
-- **Visual Style**: [Key cinematic elements]
+- **Visual Style**: [Key cARCKHÉtic elements]
 - **Audio Elements**: [Sound design components]
 - **Technical Specs**: [Camera and composition details]
 
@@ -206,7 +206,7 @@ Provide the optimized prompt in this structure:
 
 **Optimized Output**: "A dynamic tracking shot follows a terrified explorer in khaki safari gear as he sprints through dense jungle foliage, desperately fleeing from a troop of massive silverback gorillas. The camera moves at eye-level with smooth handheld motion, capturing his panicked expression and labored breathing. Dappled sunlight filters through the canopy, creating dramatic shadows as vines and branches whip past. The audio features heavy breathing, snapping branches, thunderous gorilla roars echoing through the jungle, and the rhythmic pounding of feet on forest floor. The man gasps 'They're gaining on me!' as he vaults over a fallen log, with the camera tilting slightly to emphasize the chaos and urgency of his escape."
 
-Remember: Veo 3 excels with specific, detailed prompts that paint a complete cinematic picture. Always prioritize clarity, technical precision, and rich sensory details to maximize generation quality. 
+Remember: Veo 3 excels with specific, detailed prompts that paint a complete cARCKHÉtic picture. Always prioritize clarity, technical precision, and rich sensory details to maximize generation quality. 
 
 The prompt should be one paragraph long in totality at most.
 
@@ -215,7 +215,7 @@ If the person seems to want to have a conversation, have a conversation and flus
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T16:36:46+00:00
 Texto:
 ====================
@@ -223,14 +223,14 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T16:35:08+00:00
 Texto:
 ### DICAS E CONSIDERAÇÕES :
 
 1. **Inclua o estilo visual no prompt**
 
-   * O modelo espera saber o **estilo do vídeo** (cinematográfico, realista, animaçêo, etc.).
+   * O modelo espera saber o **estilo do vídeo** (cARCKHÉtográfico, realista, animaçêo, etc.).
    * Nêo basta dizer o que acontece — diga *como* deve parecer visualmente.
 
 2. **Adicione instruções sobre o áudio**
@@ -269,7 +269,7 @@ E o sistema transforma em:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T16:34:09+00:00
 Texto:
 ================
@@ -277,7 +277,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T16:34:06+00:00
 Texto:
 Aqui estêo as **dicas e considerações principais** sobre o uso do VEO 3 da Google e o agente de prompt personalizado:
@@ -291,7 +291,7 @@ Aqui estêo as **dicas e considerações principais** sobre o uso do VEO 3 da Go
    * O modelo VEO 3 exige prompts com informações visuais específicas (ambiente, iluminaçêo, ângulo de câmera, etc.).
    * Evite descrições vagas como “cachorro correndo” — adicione contexto, emoçêo, cenário, horário do dia e estilo de câmera.
 
-2. **Use linguagem de cinematografia**
+2. **Use linguagem de cARCKHÉtografia**
 
    * Exemplo: "drone shot de cima", "close-up emocional", "câmera lenta", etc.
    * Isso ajuda o modelo a entender a estética e a narrativa esperada.
@@ -331,7 +331,7 @@ Aqui estêo as **dicas e considerações principais** sobre o uso do VEO 3 da Go
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T16:26:42+00:00
 Texto:
 ==============
@@ -339,7 +339,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T16:26:37+00:00
 Texto:
 **🚀 Chegou o Mini Prompt Engineer para Google VEO 3 — direto no n8n!**
@@ -348,7 +348,7 @@ Texto:
 
 Pensando nisso, criei um **agente ultra customizado no n8n**, preparado para:
 
-* Traduzir descrições vagas (tipo “cachorro fofo correndo”) em prompts cinematográficos de alto nível.
+* Traduzir descrições vagas (tipo “cachorro fofo correndo”) em prompts cARCKHÉtográficos de alto nível.
 * Aplicar estilos visuais, enquadramentos e **melodias sincronizadas**, algo que poucos modelos fazem hoje.
 * Dialogar com você para refinar cenas, ambientes, emoções e estilos — como um verdadeiro **diretor de vídeo com IA**.
 
@@ -356,7 +356,7 @@ Essa automaçêo já vem com um JSON pronto para importar no n8n. Ela entende qu
 
 Imagine pedir:
 *"Um nerd de óculos laranja perdendo a cabeça com tantas IAs surgindo enquanto tenta acompanhar as notícias."*
-E receber um vídeo com **luz melancólica**, **close dramático**, **trilha triste ao piano** e **filtros cinematográficos perfeitos**.
+E receber um vídeo com **luz melancólica**, **close dramático**, **trilha triste ao piano** e **filtros cARCKHÉtográficos perfeitos**.
 
 Esse é o tipo de poder que esse prompt oferece.
 E o melhor: ele vai evoluir conforme novos modelos forem lançados.
@@ -366,7 +366,7 @@ O futuro do conteúdo automatizado começa aqui.
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T16:26:15+00:00
 Texto:
 ==========
@@ -374,7 +374,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T16:22:59+00:00
 Texto:
 **🎥 Mini Prompt Engineer para VEO 3 já disponível no n8n!**
@@ -393,7 +393,7 @@ Em anexo, o **JSON pronto para usar no n8n** — é só importar e começar a br
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T16:21:11+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Google_Veo_3_Prompt_Engineer.json
@@ -401,7 +401,7 @@ Midia: MessageMediaDocument -> Google_Veo_3_Prompt_Engineer.json
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T16:21:01+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_8869_015.jpg
@@ -409,7 +409,7 @@ Midia: MessageMediaPhoto -> photo_8869_015.jpg
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T16:20:44+00:00
 Texto:
 m17 - Prompt VEO3
@@ -417,7 +417,7 @@ m17 - Prompt VEO3
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T16:20:42+00:00
 Texto:
 .
@@ -425,7 +425,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T16:20:42+00:00
 Texto:
 .
@@ -433,7 +433,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T16:20:42+00:00
 Texto:
 .
@@ -441,7 +441,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T16:20:40+00:00
 Texto:
 .
@@ -449,7 +449,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T16:20:40+00:00
 Texto:
 https://chatgpt.com/c/68446663-fc28-8009-805d-fda6ca3691ef
@@ -458,7 +458,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T16:20:40+00:00
 Texto:
 1
@@ -466,7 +466,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T16:20:34+00:00
 Texto: [Sem texto]
 

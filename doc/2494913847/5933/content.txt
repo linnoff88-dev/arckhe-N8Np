@@ -10,7 +10,7 @@ Midias baixadas: 10
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-18T05:57:24+00:00
 Texto:
 Aqui estêo os **principais hacks e dicas** extraídos do vídeo **"Crie um exército de agentes MCP definitivo no n8n"**, com foco em acelerar sua implementaçêo e evitar armadilhas:
@@ -98,7 +98,7 @@ Você pode mandar um áudio no Telegram dizendo “agende uma reuniêo”, e ele
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-18T05:56:32+00:00
 Texto:
 **Resumo do vídeo “Crie um exército de agentes MCP definitivo no n8n”**
@@ -197,7 +197,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-18T05:55:23+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> drive-download-20250418T053838Z-001.zip
@@ -205,7 +205,7 @@ Midia: MessageMediaDocument -> drive-download-20250418T053838Z-001.zip
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-18T05:55:05+00:00
 Texto:
 https://www.youtube.com/watch?v=D2PDmkkfqMw
@@ -214,7 +214,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-18T05:54:02+00:00
 Texto:
 Exército de 22 Agentes MCP
@@ -244,7 +244,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-18T05:52:20+00:00
 Texto:
 Construa um Exército Definitivo de Agentes MCP no n8n
@@ -254,7 +254,7 @@ Um Exército de Agentes MCP usando o n8n.
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-18T05:51:51+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_5946_007.jpg
@@ -262,7 +262,7 @@ Midia: MessageMediaPhoto -> photo_5946_007.jpg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-18T05:51:51+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_5945_008.jpg
@@ -270,7 +270,7 @@ Midia: MessageMediaPhoto -> photo_5945_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-18T05:51:50+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_5944_009.jpg
@@ -278,7 +278,7 @@ Midia: MessageMediaPhoto -> photo_5944_009.jpg
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-18T05:51:31+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_5943_010.jpg
@@ -286,7 +286,7 @@ Midia: MessageMediaPhoto -> photo_5943_010.jpg
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-18T05:51:20+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_5942_011.jpg
@@ -294,7 +294,7 @@ Midia: MessageMediaPhoto -> photo_5942_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-18T05:49:51+00:00
 Texto:
 .**al22 - MCP Agent Army**
@@ -302,7 +302,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-18T05:49:49+00:00
 Texto:
 .
@@ -310,7 +310,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-18T05:49:48+00:00
 Texto:
 .
@@ -318,7 +318,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-18T05:49:48+00:00
 Texto:
 .
@@ -326,7 +326,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-18T05:49:48+00:00
 Texto:
 .
@@ -334,7 +334,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-18T05:49:48+00:00
 Texto:
 .
@@ -342,7 +342,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-18T05:49:47+00:00
 Texto:
 https://chatgpt.com/c/6801e534-d69c-8009-9ad1-65dfe0c328b1
@@ -351,7 +351,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-18T05:49:47+00:00
 Texto:
 1
@@ -359,7 +359,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-18T05:49:41+00:00
 Texto: [Sem texto]
 

@@ -26,7 +26,7 @@ Fiquei Feliz com está notícia !!!
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-09T22:28:54+00:00
 Texto:
 Estamos construindo a **Masterclass Completa de n8n** 
@@ -120,7 +120,7 @@ O que achou do curso? 🚀
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-09T22:28:17+00:00
 Texto:
 .
@@ -128,7 +128,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-09T22:28:17+00:00
 Texto:
 .
@@ -136,7 +136,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-09T22:28:17+00:00
 Texto:
 .
@@ -144,7 +144,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-09T22:28:13+00:00
 Texto:
 Curso N8N - Ainda em Projeto JR
@@ -152,7 +152,7 @@ Curso N8N - Ainda em Projeto JR
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-09T22:27:41+00:00
 Texto:
 .
@@ -160,7 +160,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-09T22:27:39+00:00
 Texto:
 .
@@ -168,7 +168,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-09T22:27:39+00:00
 Texto:
 .
@@ -176,7 +176,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-09T22:27:39+00:00
 Texto:
 .
@@ -184,7 +184,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-09T22:27:38+00:00
 Texto:
 .
@@ -192,7 +192,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-09T22:27:38+00:00
 Texto:
 https://chatgpt.com/c/67ce1532-2508-8009-9dfe-cf4dad3665be
@@ -201,7 +201,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-09T22:27:37+00:00
 Texto:
 1
@@ -209,7 +209,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-09T22:27:30+00:00
 Texto: [Sem texto]
 

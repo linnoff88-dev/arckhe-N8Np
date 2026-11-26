@@ -9,7 +9,7 @@
   },
   {
     "id": 11174,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-09T23:19:01+00:00",
     "text": "dublado",
     "has_media": false,
@@ -17,7 +17,7 @@
   },
   {
     "id": 11173,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-09T23:18:53+00:00",
     "text": "https://www.youtube.com/watch?v=qNW9KaLe1nY",
     "has_media": true,
@@ -25,7 +25,7 @@
   },
   {
     "id": 11171,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-09T22:59:40+00:00",
     "text": "============",
     "has_media": false,
@@ -33,7 +33,7 @@
   },
   {
     "id": 11170,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-09T22:59:37+00:00",
     "text": "Resumo do vídeo **“Only 1% of n8n Builders Use This Trick (7x faster)”**:\n\n* **Técnica principal:** Uso de **paralelizaçêo** no n8n para executar múltiplas tarefas simultaneamente, acelerando os fluxos de trabalho em até 7x.\n* **Demonstraçêo prática:** Comparaçêo entre execuçêo sequencial (uma tarefa por vez) e paralela (todas ao mesmo tempo), mostrando ganhos de tempo significativos.\n* **Subworkflows:** Explicaçêo de como criar subfluxos para modularizar, reutilizar e simplificar fluxos complexos.\n* **Passos principais para paralelizaçêo:**\n\n  * Converter blocos de nós em um subworkflow.\n  * Configurar para “Run once for each item”.\n  * Desmarcar a opçêo “Wait for subworkflow completion” para permitir execuçêo simultânea.\n* **Vantagens dos subworkflows:**\n\n  * Reuso de lógica repetida.\n  * Reduçêo da complexidade visual do fluxo.\n  * Melhor tratamento de erros e manutençêo.\n* **Considerações e limitações:**\n\n  * Restrições de APIs (rate limits).\n  * Maior dificuldade para depurar fluxos com muitas execuções paralelas.\n  * Dependências de etapas que exigem execuçêo sequencial.\n* **Exemplo ilustrativo:** Comparaçêo com assar 3 perus: sequencialmente leva 90 min, paralelamente com 3 fornos leva só 30 min.\n* **Conteúdo extra:** Disponibiliza um PDF e arquivos JSON do fluxo na comunidade gratuita e cursos avançados na comunidade paga.\n* **Conclusêo:** Paralelizaçêo pode cortar pela metade (ou mais) o tempo de execuçêo, principalmente com muitos itens, mas deve ser usada com cuidado para evitar problemas com limites e erros.",
     "has_media": false,
@@ -41,7 +41,7 @@
   },
   {
     "id": 11169,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-09T22:59:32+00:00",
     "text": "=============",
     "has_media": false,
@@ -49,7 +49,7 @@
   },
   {
     "id": 11168,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-09T22:59:28+00:00",
     "text": "Apenas 1% dos criadores no n8n usam esse truque (7x mais rápido)\n\nComo usar **paralelizaçêo no n8n** para acelerar significativamente seus fluxos de trabalho, processando várias execuções ao mesmo tempo. Vou mostrar passo a passo como configurar um subfluxo, enviar dados para ele e executar essas tarefas em paralelo, tornando suas automações muito mais eficientes. \n\nPor que os subfluxos sêo úteis além da velocidade: eles tornam seus fluxos de trabalho mais **modulares, reutilizáveis** e **fáceis de manter** ao longo do tempo. Seja para otimizar o desempenho ou simplesmente organizar melhor suas construções no n8n, este vídeo oferece uma base prática para começar a usar subfluxos da maneira certa.",
     "has_media": false,
@@ -57,7 +57,7 @@
   },
   {
     "id": 11167,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-09T22:59:20+00:00",
     "text": "",
     "has_media": true,
@@ -66,7 +66,7 @@
   },
   {
     "id": 11160,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-09T22:58:13+00:00",
     "text": "",
     "has_media": true,
@@ -75,7 +75,7 @@
   },
   {
     "id": 11155,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-09T22:36:03+00:00",
     "text": "",
     "has_media": true,
@@ -84,7 +84,7 @@
   },
   {
     "id": 11154,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-09T22:35:57+00:00",
     "text": "",
     "has_media": true,
@@ -93,7 +93,7 @@
   },
   {
     "id": 11153,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-09T22:35:46+00:00",
     "text": "ap42 - Paralelizaçêo e SubFlow",
     "has_media": false,
@@ -101,7 +101,7 @@
   },
   {
     "id": 11152,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-09T22:35:45+00:00",
     "text": ".",
     "has_media": false,
@@ -109,7 +109,7 @@
   },
   {
     "id": 11151,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-09T22:35:44+00:00",
     "text": ".",
     "has_media": false,
@@ -117,7 +117,7 @@
   },
   {
     "id": 11150,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-09T22:35:44+00:00",
     "text": ".",
     "has_media": false,
@@ -125,7 +125,7 @@
   },
   {
     "id": 11149,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-09T22:35:44+00:00",
     "text": ".",
     "has_media": false,
@@ -133,7 +133,7 @@
   },
   {
     "id": 11148,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-09T22:35:43+00:00",
     "text": "https://chatgpt.com/c/686eec8e-1a68-8009-baf5-d469e62bfa75",
     "has_media": true,
@@ -141,7 +141,7 @@
   },
   {
     "id": 11147,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-09T22:35:43+00:00",
     "text": "1",
     "has_media": false,
@@ -149,7 +149,7 @@
   },
   {
     "id": 11146,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-09T22:35:36+00:00",
     "text": "",
     "has_media": false,

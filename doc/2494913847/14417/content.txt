@@ -50,7 +50,7 @@ Eu utilizou a Hostinger
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T01:11:42+00:00
 Texto:
 VPS - Qual a Melhor ?
@@ -58,7 +58,7 @@ VPS - Qual a Melhor ?
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T01:11:41+00:00
 Texto:
 .
@@ -66,7 +66,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T01:11:41+00:00
 Texto:
 .
@@ -74,7 +74,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T01:11:40+00:00
 Texto:
 .
@@ -82,7 +82,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T01:11:40+00:00
 Texto:
 .
@@ -90,7 +90,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T01:11:40+00:00
 Texto:
 .
@@ -98,7 +98,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T01:11:40+00:00
 Texto:
 .
@@ -106,7 +106,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T01:11:39+00:00
 Texto:
 1
@@ -114,7 +114,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T01:11:34+00:00
 Texto: [Sem texto]
 

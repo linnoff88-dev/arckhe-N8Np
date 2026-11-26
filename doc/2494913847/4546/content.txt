@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T06:53:01+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_4564_002.jpg
@@ -27,7 +27,7 @@ Midia: MessageMediaPhoto -> photo_4564_002.jpg
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T06:50:45+00:00
 Texto:
 **"Construa qualquer coisa com agentes de IA Lovable + n8n 
@@ -107,7 +107,7 @@ Isso é só a ponta do iceberg: há integrações com **Supabase**, **Stripe**, 
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T06:49:39+00:00
 Texto:
 https://www.youtube.com/watch?v=kUpTUEwKnrk
@@ -116,7 +116,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T06:49:15+00:00
 Texto:
 ===================
@@ -124,7 +124,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T06:49:11+00:00
 Texto:
 **Projeto: Web App Interativo com IA para Gerar Desculpas Criativas**  
@@ -221,7 +221,7 @@ Criar um aplicativo web onde o usuário envia um problema e recebe de volta uma 
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T06:47:40+00:00
 Texto:
 ap12
@@ -230,7 +230,7 @@ Midia: MessageMediaDocument -> n8n_Excuse_Generator.json
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T06:47:14+00:00
 Texto:
 **Construa qualquer coisa com agentes de IA adoráveis + n8n 
@@ -247,7 +247,7 @@ Se você é novo no mundo da automaçêo ou apenas está em busca de novas ferra
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T06:43:05+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_4557_009.jpg
@@ -255,7 +255,7 @@ Midia: MessageMediaPhoto -> photo_4557_009.jpg
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T06:42:21+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_4556_010.jpg
@@ -263,7 +263,7 @@ Midia: MessageMediaPhoto -> photo_4556_010.jpg
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T06:42:14+00:00
 Texto:
 ap12 - Lovable e n8n - Iniciantes
@@ -271,7 +271,7 @@ ap12 - Lovable e n8n - Iniciantes
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T06:42:10+00:00
 Texto:
 .
@@ -279,7 +279,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T06:42:10+00:00
 Texto:
 .
@@ -287,7 +287,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T06:42:10+00:00
 Texto:
 ..
@@ -295,7 +295,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T06:42:09+00:00
 Texto:
 .
@@ -303,7 +303,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T06:42:09+00:00
 Texto:
 .
@@ -311,7 +311,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T06:42:09+00:00
 Texto:
 .
@@ -319,7 +319,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T06:42:09+00:00
 Texto:
 https://chatgpt.com/c/67ecdcef-aa3c-8009-8e21-48ef907d3ab2
@@ -328,7 +328,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T06:42:08+00:00
 Texto:
 1
@@ -336,7 +336,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T06:42:03+00:00
 Texto: [Sem texto]
 

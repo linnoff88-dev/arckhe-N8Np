@@ -10,7 +10,7 @@ Midias baixadas: 8
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T04:19:50+00:00
 Texto:
 prompt (no ingles tem ajustar algumas com direcionado a britanico)
@@ -70,7 +70,7 @@ Vídeo selfie cru de um yeti profissional vestindo terno, se filmando enquanto c
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T02:47:37+00:00
 Texto:
 dublado
@@ -78,7 +78,7 @@ dublado
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T02:47:34+00:00
 Texto:
 https://www.youtube.com/watch?v=5dj79cMVihs
@@ -87,7 +87,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T02:47:11+00:00
 Texto:
 **📹 Fal (Criar Vídeo)**
@@ -153,14 +153,14 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T02:46:14+00:00
 Texto:
 O Google Veo 3 acaba de mudar tudo. Vamos ganhar dinheiro com isso.
 
 **Ferramentas 🧰**
 🔥 n8n: [https://n8n.io](https://n8n.io/)
-🔮 Loveable: [https://lovable.dev/?via=](https://lovable.dev/?via=jack)inematds
+🔮 Loveable: [https://lovable.dev/?via=](https://lovable.dev/?via=jack)linnoff88-dev
 👾 Fal AI: [https://fal.ai/models/fal-ai/veo3](https://fal.ai/models/fal-ai/veo3)
 🌱 Veo 3: [https://deepmind.google/models/veo/](https://deepmind.google/models/veo/)
 Midia: MessageMediaWebPage
@@ -168,7 +168,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T02:35:50+00:00
 Texto:
 =========
@@ -176,7 +176,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T02:35:46+00:00
 Texto:
 **O Google Veo 3 acabou de mudar tudo**
@@ -196,7 +196,7 @@ Eu explico três formas reais de gerar receita com essa tecnologia.🚀
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T02:27:39+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 🧙 Veo 3 Wizards Guide..pdf
@@ -204,7 +204,7 @@ Midia: MessageMediaDocument -> 🧙 Veo 3 Wizards Guide..pdf
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T02:27:39+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 🧲 Veo Lead Magnet Prompt..pdf
@@ -212,7 +212,7 @@ Midia: MessageMediaDocument -> 🧲 Veo Lead Magnet Prompt..pdf
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T02:27:30+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> ___Veo_Automation (1).json
@@ -220,7 +220,7 @@ Midia: MessageMediaDocument -> ___Veo_Automation (1).json
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T02:27:21+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9354_011.jpg
@@ -228,7 +228,7 @@ Midia: MessageMediaPhoto -> photo_9354_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T02:26:20+00:00
 Texto:
 j93 - Google Veo3 FAL
@@ -236,7 +236,7 @@ j93 - Google Veo3 FAL
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T02:26:18+00:00
 Texto:
 .
@@ -244,7 +244,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T02:26:18+00:00
 Texto:
 .
@@ -252,7 +252,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T02:26:18+00:00
 Texto:
 .
@@ -260,7 +260,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T02:26:17+00:00
 Texto:
 .
@@ -268,7 +268,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T02:26:17+00:00
 Texto:
 https://chatgpt.com/c/684a3a75-5108-8009-9fa5-b42393d27b9a
@@ -277,7 +277,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T02:26:17+00:00
 Texto:
 1
@@ -285,7 +285,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T02:26:12+00:00
 Texto: [Sem texto]
 

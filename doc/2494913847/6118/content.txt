@@ -18,7 +18,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T05:17:40+00:00
 Texto:
 esta dublado em portugues
@@ -26,7 +26,7 @@ esta dublado em portugues
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T05:17:30+00:00
 Texto:
 https://www.youtube.com/watch?v=vfMHPb0Uayc
@@ -35,7 +35,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T05:17:17+00:00
 Texto:
 =============
@@ -43,7 +43,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T05:17:07+00:00
 Texto:
 Abaixo estêo **as principais dicas e hacks** para quem quer usar ou vender o sistema de automaçêo de busca de empregos com IA:
@@ -127,7 +127,7 @@ Abaixo estêo **as principais dicas e hacks** para quem quer usar ou vender o si
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T05:15:28+00:00
 Texto:
 ==============
@@ -135,7 +135,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T05:15:24+00:00
 Texto:
 Aqui está o **passo a passo completo** para criar o **Sistema de 
@@ -280,7 +280,7 @@ Aqui está o **passo a passo completo** para criar o **Sistema de
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T05:14:12+00:00
 Texto:
 =======================
@@ -288,7 +288,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T05:13:10+00:00
 Texto:
 Mais de 100 empregos por dia – Sistema completo de automaçêo de IA para busca de empregos
@@ -350,7 +350,7 @@ Um sistema completo de automaçêo no n8n que busca empregos, gera currículos e
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T05:13:04+00:00
 Texto:
 **Resumo Final:**
@@ -366,7 +366,7 @@ Permitindo aplicar para mais de 100 vagas por dia com **zero esforço manual**.
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T05:08:58+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 21_2_Job-v2.json
@@ -374,7 +374,7 @@ Midia: MessageMediaDocument -> 21_2_Job-v2.json
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T05:08:51+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6126_012.jpg
@@ -382,7 +382,7 @@ Midia: MessageMediaPhoto -> photo_6126_012.jpg
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T05:08:16+00:00
 Texto:
 **al23 - LinkedIn Job Search**
@@ -390,7 +390,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T05:08:15+00:00
 Texto:
 ..
@@ -398,7 +398,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T05:08:13+00:00
 Texto:
 .
@@ -406,7 +406,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T05:08:12+00:00
 Texto:
 .
@@ -414,7 +414,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T05:08:12+00:00
 Texto:
 .
@@ -422,7 +422,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T05:08:11+00:00
 Texto:
 .
@@ -430,7 +430,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T05:08:11+00:00
 Texto:
 1
@@ -438,7 +438,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T05:07:24+00:00
 Texto: [Sem texto]
 

@@ -10,7 +10,7 @@ Midias baixadas: 3
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:27:35+00:00
 Texto:
 🔐🦙🤖 Ollama Privado & Local
@@ -37,7 +37,7 @@ Modelo JSON
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:27:16+00:00
 Texto:
 mw5
@@ -46,7 +46,7 @@ Midia: MessageMediaDocument -> 🔐🦙🤖_Private_&_Local_Ollama_Self_Hosted_A
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:27:07+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_4091_003.jpg
@@ -54,7 +54,7 @@ Midia: MessageMediaPhoto -> photo_4091_003.jpg
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:24:37+00:00
 Texto:
 mw5 - Private e Local Ollama
@@ -62,7 +62,7 @@ mw5 - Private e Local Ollama
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:24:35+00:00
 Texto:
 .
@@ -70,7 +70,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:24:33+00:00
 Texto:
 .
@@ -78,7 +78,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:24:33+00:00
 Texto:
 .
@@ -86,7 +86,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:24:32+00:00
 Texto:
 .
@@ -94,7 +94,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:24:32+00:00
 Texto:
 https://chatgpt.com/c/67e6078e-525c-8009-bd68-082de7131e59
@@ -103,7 +103,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:24:31+00:00
 Texto:
 1
@@ -111,7 +111,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-28T02:24:25+00:00
 Texto: [Sem texto]
 

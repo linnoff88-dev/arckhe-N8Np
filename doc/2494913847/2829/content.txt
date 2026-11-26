@@ -10,7 +10,7 @@ Midias baixadas: 1
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:49:08+00:00
 Texto:
 Aula 2 
@@ -85,7 +85,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:48:56+00:00
 Texto:
 ec2n8 - Curso - Instalaçêo e Configuraçêo
@@ -93,7 +93,7 @@ ec2n8 - Curso - Instalaçêo e Configuraçêo
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:48:53+00:00
 Texto:
 .
@@ -101,7 +101,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:48:53+00:00
 Texto:
 .
@@ -109,7 +109,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:48:53+00:00
 Texto:
 .
@@ -117,7 +117,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:48:52+00:00
 Texto:
 .
@@ -125,7 +125,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:48:52+00:00
 Texto:
 .
@@ -133,7 +133,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:48:52+00:00
 Texto:
 ..
@@ -141,7 +141,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:48:52+00:00
 Texto:
 .
@@ -149,7 +149,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:48:51+00:00
 Texto:
 .
@@ -157,7 +157,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:48:50+00:00
 Texto:
 1
@@ -165,7 +165,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:48:41+00:00
 Texto: [Sem texto]
 

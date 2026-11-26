@@ -116,7 +116,7 @@ Difícil tá sendo só a Deepseek liberar a API kkkkk... Tô desde quarta e só 
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-29T17:47:46+00:00
 Texto:
 # Como Conectar DeepSeek R1 no Make e N8N 🚀  
@@ -149,7 +149,7 @@ No N8N ainda nêo há um módulo oficial do DeepSeek, mas existe um truque simpl
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-29T17:47:10+00:00
 Texto:
 .....
@@ -157,7 +157,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-29T17:47:10+00:00
 Texto:
 ....
@@ -165,7 +165,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-29T17:47:10+00:00
 Texto:
 ...
@@ -173,7 +173,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-29T17:47:10+00:00
 Texto:
 ..
@@ -181,7 +181,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-29T17:47:09+00:00
 Texto:
 .
@@ -189,7 +189,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-29T17:47:09+00:00
 Texto:
 .
@@ -197,7 +197,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-29T17:47:09+00:00
 Texto:
 .
@@ -205,7 +205,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-29T17:47:09+00:00
 Texto:
 .
@@ -213,7 +213,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-29T17:47:07+00:00
 Texto:
 1
@@ -221,7 +221,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-29T17:46:57+00:00
 Texto: [Sem texto]
 

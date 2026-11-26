@@ -10,7 +10,7 @@ Midias baixadas: 6
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-06T23:56:24+00:00
 Texto:
 https://www.youtube.com/watch?v=yfpVU_uEpy4
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-06T23:54:38+00:00
 Texto:
 ===========
@@ -27,7 +27,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-06T23:54:23+00:00
 Texto:
 Aqui estêo os links com uma descriçêo para cada um deles:
@@ -48,7 +48,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-06T23:53:59+00:00
 Texto:
 ==============
@@ -56,7 +56,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-06T23:53:55+00:00
 Texto:
 Os Recursos Mais Lendários de Fluxos de Trabalho n8n + MCP
@@ -132,7 +132,7 @@ Links para os Repositórios no Github:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-06T23:53:51+00:00
 Texto:
 ===============
@@ -140,7 +140,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-06T23:52:58+00:00
 Texto:
 **“How to Use Claude & MCPs to INSTANTLY Build n8n AI Agents (MASTERCLASS)”**:
@@ -253,7 +253,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-06T23:52:46+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11006_008.jpg
@@ -261,7 +261,7 @@ Midia: MessageMediaPhoto -> photo_11006_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-06T23:52:40+00:00
 Texto:
 ============
@@ -269,7 +269,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-06T23:50:31+00:00
 Texto:
 **“How to Use Claude & MCPs to INSTANTLY Build n8n AI Agents (MASTERCLASS)”** é mostrar **como qualquer pessoa pode criar agentes de IA e fluxos de trabalho complexos no n8n de forma automática**, apenas com um prompt, usando:
@@ -289,7 +289,7 @@ Tudo isso sem exigir conhecimento técnico profundo, permitindo desde iniciantes
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-06T23:50:15+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11003_011.jpg
@@ -297,7 +297,7 @@ Midia: MessageMediaPhoto -> photo_11003_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-06T23:43:36+00:00
 Texto:
 m30 - MasterClass de MCP Claude Desktop
@@ -305,7 +305,7 @@ m30 - MasterClass de MCP Claude Desktop
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-06T23:43:34+00:00
 Texto:
 .
@@ -313,7 +313,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-06T23:43:34+00:00
 Texto:
 .
@@ -321,7 +321,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-06T23:43:34+00:00
 Texto:
 .
@@ -329,7 +329,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-06T23:43:34+00:00
 Texto:
 .
@@ -337,7 +337,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-06T23:43:33+00:00
 Texto:
 .
@@ -345,7 +345,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-06T23:43:33+00:00
 Texto:
 https://chatgpt.com/c/686a9fe5-868c-8009-803e-79f5f14ff583
@@ -354,7 +354,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-06T23:43:32+00:00
 Texto:
 1
@@ -362,7 +362,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-06T23:43:26+00:00
 Texto: [Sem texto]
 

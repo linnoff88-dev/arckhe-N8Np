@@ -1322,7 +1322,7 @@
       "credentials": {
         "postgres": {
           "id": "[REMOVED]",
-          "name": "Postgres inematds supabase.com"
+          "name": "Postgres linnoff88-dev supabase.com"
         }
       }
     }

@@ -151,7 +151,7 @@
         "messages": {
           "values": [
             {
-              "content": "={\n  \"prompt\": \"You are a video prompt generator for Veo 3. Convert the following financial news script into a clear, descriptive video generation prompt. The goal is to help Veo 3 create an engaging 8-second news-style video. Translate the spoken script into visuals: describe a professional news anchor, newsroom or studio setting, relevant background visuals (stock tickers, charts, global maps, trading floors), and overall mood (urgent, professional, engaging). Ensure the prompt is cinematic, easy for Veo 3 to understand, and matches the script's content and tone. Do not repeat the script text, only describe the visuals and style. Here is the script:{{ $json.message.content }} \"\n}\n"
+              "content": "={\n  \"prompt\": \"You are a video prompt generator for Veo 3. Convert the following financial news script into a clear, descriptive video generation prompt. The goal is to help Veo 3 create an engaging 8-second news-style video. Translate the spoken script into visuals: describe a professional news anchor, newsroom or studio setting, relevant background visuals (stock tickers, charts, global maps, trading floors), and overall mood (urgent, professional, engaging). Ensure the prompt is cARCKHÉtic, easy for Veo 3 to understand, and matches the script's content and tone. Do not repeat the script text, only describe the visuals and style. Here is the script:{{ $json.message.content }} \"\n}\n"
             }
           ]
         }

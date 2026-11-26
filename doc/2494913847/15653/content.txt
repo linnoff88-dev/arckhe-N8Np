@@ -10,7 +10,7 @@ Midias baixadas: 7
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-07T05:35:23+00:00
 Texto:
 traçêo de fato.
@@ -49,7 +49,7 @@ traçêo de fato.
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-07T05:35:23+00:00
 Texto:
 tag timestamp.
@@ -162,7 +162,7 @@ tag timestamp.
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-07T05:35:23+00:00
 Texto:
 **hacks práticos** (táteis, aplicáveis hoje)  sobre *context engineering* para agentes/RAG. Primeiro um resumo curto do objetivo — depois os hacks, cada um com exemplo e resposta para a pergunta mais comum sobre ele.
@@ -237,7 +237,7 @@ O problema nêo é só o modelo: é **como você entrega contexto**. Existem 4 a
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-07T05:33:42+00:00
 Texto:
 =============
@@ -245,7 +245,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-07T05:32:57+00:00
 Texto:
 ### Exemplos práticos
@@ -265,7 +265,7 @@ A engenharia de contexto é o elo entre o dado bruto e a inteligência do agente
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-07T05:32:57+00:00
 Texto:
 **“Agents not giving you correct answers? Watch this” **
@@ -380,7 +380,7 @@ Modelos modernos (Gemini, Claude, Llama etc.) possuem **janelas de contexto enor
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-07T05:29:06+00:00
 Texto:
 ===============
@@ -388,7 +388,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-07T05:29:00+00:00
 Texto:
 Os agentes nêo estêo te dando respostas corretas? Veja isso.
@@ -403,7 +403,7 @@ Definitivamente, quero saber o que você pensa sobre isso. Espero que haja algun
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-07T05:27:28+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Types of RAG.json
@@ -411,7 +411,7 @@ Midia: MessageMediaDocument -> Types of RAG.json
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-07T05:27:23+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15668_010.jpg
@@ -419,7 +419,7 @@ Midia: MessageMediaPhoto -> photo_15668_010.jpg
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-07T05:27:01+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15667_011.jpg
@@ -427,7 +427,7 @@ Midia: MessageMediaPhoto -> photo_15667_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-07T05:25:51+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15666_012.jpg
@@ -435,7 +435,7 @@ Midia: MessageMediaPhoto -> photo_15666_012.jpg
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-07T05:25:15+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15665_013.jpg
@@ -443,7 +443,7 @@ Midia: MessageMediaPhoto -> photo_15665_013.jpg
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-07T05:24:41+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15664_014.jpg
@@ -451,7 +451,7 @@ Midia: MessageMediaPhoto -> photo_15664_014.jpg
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-07T05:23:24+00:00
 Texto:
 Agentes RAG Contexto
@@ -459,7 +459,7 @@ Agentes RAG Contexto
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-07T05:23:02+00:00
 Texto:
 ap72 - Agentes RAG - Nêo Funciona ?
@@ -467,7 +467,7 @@ ap72 - Agentes RAG - Nêo Funciona ?
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-07T05:23:01+00:00
 Texto:
 .
@@ -475,7 +475,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-07T05:23:01+00:00
 Texto:
 ..
@@ -483,7 +483,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-07T05:23:00+00:00
 Texto:
 .
@@ -491,7 +491,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-07T05:23:00+00:00
 Texto:
 .
@@ -499,7 +499,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-07T05:23:00+00:00
 Texto:
 https://chatgpt.com/c/690d818f-1628-8328-aeb0-08e0cb8ed21e
@@ -508,7 +508,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-07T05:22:59+00:00
 Texto:
 1
@@ -516,7 +516,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-07T05:22:51+00:00
 Texto: [Sem texto]
 

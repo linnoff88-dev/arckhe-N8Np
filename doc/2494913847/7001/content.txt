@@ -10,7 +10,7 @@ Midias baixadas: 6
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T03:17:40+00:00
 Texto:
 https://www.youtube.com/watch?v=gwCQF--cARA
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T03:13:45+00:00
 Texto:
 Dicas
@@ -83,7 +83,7 @@ Dicas
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T03:12:16+00:00
 Texto:
 ========================
@@ -91,7 +91,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T03:12:10+00:00
 Texto:
 Aqui está o **passo a passo direto** para criar o sistema onde o agente de IA escolhe automaticamente o melhor modelo com base na tarefa, usando **n8n** + **OpenRouter** + **Slack** + (opcionalmente) **Supabase**:
@@ -155,7 +155,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T03:06:33+00:00
 Texto:
 ================
@@ -163,7 +163,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T03:06:26+00:00
 Texto:
 **"Este agente de IA escolhe seu próprio cérebro (10x mais barato, n8n)"**:
@@ -208,7 +208,7 @@ Um **sistema de agentes de IA integrados ao n8n** que escolhem **dinamicamente o
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T03:05:39+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Dynamic Model Log (file-_ make a copy).xlsx
@@ -216,7 +216,7 @@ Midia: MessageMediaDocument -> Dynamic Model Log (file-_ make a copy).xlsx
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T03:05:28+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Dynamic_Models.json
@@ -224,7 +224,7 @@ Midia: MessageMediaDocument -> Dynamic_Models.json
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T03:05:20+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7009_009.jpg
@@ -232,7 +232,7 @@ Midia: MessageMediaPhoto -> photo_7009_009.jpg
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T03:05:16+00:00
 Texto:
 ap19 - Agente com Cerebro
@@ -240,7 +240,7 @@ ap19 - Agente com Cerebro
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T03:04:56+00:00
 Texto:
 ..
@@ -248,7 +248,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T03:04:56+00:00
 Texto:
 .
@@ -256,7 +256,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T03:04:56+00:00
 Texto:
 ..
@@ -264,7 +264,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T03:04:55+00:00
 Texto:
 .
@@ -272,7 +272,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T03:04:55+00:00
 Texto:
 https://chatgpt.com/c/6812e3e5-8604-8009-bb83-4ad7d1ccc19d
@@ -281,7 +281,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T03:04:54+00:00
 Texto:
 1
@@ -289,7 +289,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T03:04:45+00:00
 Texto: [Sem texto]
 

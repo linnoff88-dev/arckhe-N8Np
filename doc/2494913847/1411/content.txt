@@ -18,7 +18,7 @@ bom dia!  ta rodando? tem disponivel esse fluxo para estudo ou como configurar?
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-23T08:25:18+00:00
 Texto:
 https://www.youtube.com/live/DsVMQNGHydw?si=YVmEcMU6E0r7Gbkf
@@ -27,7 +27,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-21T03:50:22+00:00
 Texto:
 este ta rodando direto.
@@ -35,7 +35,7 @@ este ta rodando direto.
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-21T03:49:58+00:00
 Texto:
 sim
@@ -51,7 +51,7 @@ Da pra fazer essa automaçêo sem depender do make, direto pelo n8n e demais fer
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T01:34:11+00:00
 Texto:
 https://www.youtube.com/watch?v=aqqkCUHDiAI
@@ -94,7 +94,7 @@ Gostaria vender soluções para comércio porém preciso ajuda
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-11T03:47:50+00:00
 Texto:
 Como vender uma automaçêo baseada em **scraping de sites + chatbot de IA** por **$997/mês**. Aqui está um resumo estruturado do conteúdo:   
@@ -162,17 +162,17 @@ Como vender uma automaçêo baseada em **scraping de sites + chatbot de IA** por
 🚀 **Modelo escalável** (pode ser vendido para múltiplos clientes).   
  
 --- 
- - a parte de raspagem esta no j71m no INEMA.Make
+ - a parte de raspagem esta no j71m no ARCKHÉ.Make
 
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-11T03:44:12+00:00
 Texto:
 💎 n8n: https://n8n.io 
 
-🔮 Make* make.com/en/register?pc=inematds
+🔮 Make* make.com/en/register?pc=linnoff88-dev
 
 🌲 Pinecone: https://www.pinecone.io/
 Midia: MessageMediaWebPage
@@ -180,7 +180,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-11T03:43:25+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> $997 Automation (2).json
@@ -188,7 +188,7 @@ Midia: MessageMediaDocument -> $997 Automation (2).json
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-11T03:43:25+00:00
 Texto:
 j71nm
@@ -197,7 +197,7 @@ Midia: MessageMediaDocument -> 👾 N8N Chatbot Code 👾 (1).docx
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-11T03:39:42+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_1420_015.jpg
@@ -205,7 +205,7 @@ Midia: MessageMediaPhoto -> photo_1420_015.jpg
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-11T03:39:23+00:00
 Texto:
 ..
@@ -213,7 +213,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-11T03:39:23+00:00
 Texto:
 .
@@ -221,7 +221,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-11T03:39:23+00:00
 Texto:
 j71nm - Agente 997  - RAG
@@ -229,7 +229,7 @@ j71nm - Agente 997  - RAG
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-11T03:39:23+00:00
 Texto:
 .
@@ -237,7 +237,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-11T03:39:22+00:00
 Texto:
 .
@@ -245,7 +245,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-11T03:39:22+00:00
 Texto:
 .
@@ -253,7 +253,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-11T03:39:22+00:00
 Texto:
 https://chatgpt.com/c/67aa7ff0-3c24-8009-b33a-3a396656baff
@@ -262,7 +262,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-11T03:39:21+00:00
 Texto:
 1
@@ -270,7 +270,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-11T03:39:16+00:00
 Texto: [Sem texto]
 

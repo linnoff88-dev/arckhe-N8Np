@@ -10,7 +10,7 @@ Midias baixadas: 3
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-20T03:34:15+00:00
 Texto:
 Aqui estêo **hacks práticos** que você pode aplicar com a nova **API da Gamma integrada ao n8n**, com foco em automações úteis, lead magnets e geraçêo de apresentações com IA:
@@ -89,7 +89,7 @@ Aqui estêo **hacks práticos** que você pode aplicar com a nova **API da Gamma
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-20T03:33:45+00:00
 Texto:
 ===============
@@ -97,7 +97,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-20T03:33:17+00:00
 Texto:
 **A nova API do Gamma com n8n:**
@@ -149,7 +149,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-20T03:31:51+00:00
 Texto:
 =================
@@ -157,7 +157,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-20T03:31:49+00:00
 Texto:
 **A API secreta da Gamma acabou de ser lançada 🤫 (template exclusivo para n8n)**
@@ -187,7 +187,7 @@ Estou compartilhando meu JSON de workflow para que você possa construir em cima
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-20T03:31:04+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Gamma.json
@@ -195,7 +195,7 @@ Midia: MessageMediaDocument -> Gamma.json
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-20T03:30:56+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13000_007.jpg
@@ -203,7 +203,7 @@ Midia: MessageMediaPhoto -> photo_13000_007.jpg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-20T03:17:21+00:00
 Texto:
 m31 - Gamma  PRO - API
@@ -211,7 +211,7 @@ m31 - Gamma  PRO - API
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-20T03:17:19+00:00
 Texto:
 .
@@ -219,7 +219,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-20T03:17:19+00:00
 Texto:
 .
@@ -227,7 +227,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-20T03:17:18+00:00
 Texto:
 .
@@ -235,7 +235,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-20T03:17:18+00:00
 Texto:
 .
@@ -243,7 +243,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-20T03:17:17+00:00
 Texto:
 .
@@ -251,7 +251,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-20T03:17:17+00:00
 Texto:
 https://chatgpt.com/c/68a53d94-4548-8332-aa29-a618cdf7fefc
@@ -260,7 +260,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-20T03:17:16+00:00
 Texto:
 1
@@ -268,7 +268,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-20T03:17:13+00:00
 Texto: [Sem texto]
 

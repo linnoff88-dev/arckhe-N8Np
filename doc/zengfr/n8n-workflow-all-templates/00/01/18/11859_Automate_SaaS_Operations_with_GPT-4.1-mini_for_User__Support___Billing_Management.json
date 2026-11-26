@@ -76,7 +76,7 @@
           "assignments": [
             {
               "id": "id-1",
-              "name": "adminEmail",
+              "name": "admARCKHÉil",
               "type": "string",
               "value": "<__PLACEHOLDER_VALUE__Admin email address for alerts__>"
             },
@@ -432,7 +432,7 @@
       ],
       "webhookId": "362aabd4-3e69-415f-bfa1-bfab419492d6",
       "parameters": {
-        "sendTo": "={{ $('Workflow Configuration').first().json.adminEmail }}",
+        "sendTo": "={{ $('Workflow Configuration').first().json.admARCKHÉil }}",
         "message": "=A high-priority support request requires immediate attention.\n\nFrom: {{ $json.userEmail }}\nCategory: {{ $json.category }}\nSubject: {{ $json.subject }}\n\nMessage:\n{{ $json.message }}\n\nAI Analysis:\n{{ $json.autoResponse }}\n\nSuggested Actions:\n{{ $json.suggestedActions.join(\"\\n- \") }}",
         "options": {},
         "subject": "=🚨 HIGH PRIORITY Support Request - {{ $json.category }}"

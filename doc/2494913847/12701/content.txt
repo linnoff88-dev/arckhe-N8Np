@@ -10,7 +10,7 @@ Midias baixadas: 5
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:55:36+00:00
 Texto:
 ### 🧠 **HACKS PARA ACELERAR SUA AUTOMAÇêO COM CLAUDE + MCP + N8N**
@@ -119,7 +119,7 @@ Claude replica e ajusta o fluxo original automaticamente.
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:55:01+00:00
 Texto:
 =================
@@ -127,7 +127,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:54:44+00:00
 Texto:
 ### 🧩 **PASSO A PASSO: Criando automações no N8N com Claude + MCP**
@@ -249,7 +249,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:51:27+00:00
 Texto:
 ===============
@@ -257,7 +257,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:51:24+00:00
 Texto:
 Resumo:
@@ -306,7 +306,7 @@ Como usar Claude (versêo desktop) junto com um MCP conectado ao N8N para criar,
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:49:08+00:00
 Texto:
 ===================
@@ -314,7 +314,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:49:04+00:00
 Texto:
 ### e33. N8N-MCP: O futuro das automações
@@ -393,7 +393,7 @@ O conhecimento técnico ainda é útil, mas o verdadeiro diferencial será saber
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:47:28+00:00
 Texto:
 ===========
@@ -401,7 +401,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:47:21+00:00
 Texto:
 BASE STICKY NOTE
@@ -433,7 +433,7 @@ BASE STICKY NOTE
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:46:07+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Prompt modificado MCP (1).doc
@@ -441,7 +441,7 @@ Midia: MessageMediaDocument -> Prompt modificado MCP (1).doc
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:45:35+00:00
 Texto:
 https://github.com/czlonkowski/n8n-mcp
@@ -450,7 +450,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:45:15+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12710_012.jpg
@@ -458,7 +458,7 @@ Midia: MessageMediaPhoto -> photo_12710_012.jpg
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:44:44+00:00
 Texto:
 e33 - N8N- MCP o Futuro das Automações
@@ -466,7 +466,7 @@ e33 - N8N- MCP o Futuro das Automações
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:44:13+00:00
 Texto:
 .
@@ -474,7 +474,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:44:13+00:00
 Texto:
 .
@@ -482,7 +482,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:44:12+00:00
 Texto:
 .
@@ -490,7 +490,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:44:11+00:00
 Texto:
 .
@@ -498,7 +498,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:44:10+00:00
 Texto:
 .
@@ -506,7 +506,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:44:10+00:00
 Texto:
 https://chatgpt.com/c/689bfb64-7f2c-832f-a98e-0f40618d0cad
@@ -515,7 +515,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:44:09+00:00
 Texto:
 1
@@ -523,7 +523,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:43:58+00:00
 Texto: [Sem texto]
 

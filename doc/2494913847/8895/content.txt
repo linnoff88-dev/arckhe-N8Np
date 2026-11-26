@@ -10,7 +10,7 @@ Midias baixadas: 5
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T20:11:41+00:00
 Texto:
 esta dublado
@@ -18,7 +18,7 @@ esta dublado
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T20:11:32+00:00
 Texto:
 https://www.youtube.com/watch?v=3Pim6uCASSE
@@ -27,7 +27,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T20:11:02+00:00
 Texto:
 ### O que você pode fazer:
@@ -73,7 +73,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T20:09:31+00:00
 Texto:
 https://www.firecrawl.dev/
@@ -82,7 +82,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T20:09:09+00:00
 Texto:
 ===========
@@ -90,7 +90,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T20:09:02+00:00
 Texto:
 Esse agente de IA descrito é um sistema **sem código (no-code)** criado usando o **n8n** e o **Firecrawl API**, com foco em:
@@ -159,7 +159,7 @@ Esse agente de IA descrito é um sistema **sem código (no-code)** criado usando
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T20:08:40+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Firecrawl_Search.json
@@ -167,7 +167,7 @@ Midia: MessageMediaDocument -> Firecrawl_Search.json
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T20:06:59+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_8904_008.jpg
@@ -175,7 +175,7 @@ Midia: MessageMediaPhoto -> photo_8904_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T20:06:55+00:00
 Texto:
 ap32 - Raspagem do firecrawl API
@@ -183,7 +183,7 @@ ap32 - Raspagem do firecrawl API
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T20:06:55+00:00
 Texto:
 .
@@ -191,7 +191,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T20:06:55+00:00
 Texto:
 .
@@ -199,7 +199,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T20:06:54+00:00
 Texto:
 .
@@ -207,7 +207,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T20:06:54+00:00
 Texto:
 .
@@ -215,7 +215,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T20:06:54+00:00
 Texto:
 .
@@ -223,7 +223,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T20:06:54+00:00
 Texto:
 https://chatgpt.com/c/6844992e-e820-8009-9b2b-b4b6e05d148f
@@ -232,7 +232,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T20:06:53+00:00
 Texto:
 1
@@ -240,7 +240,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T20:06:45+00:00
 Texto: [Sem texto]
 

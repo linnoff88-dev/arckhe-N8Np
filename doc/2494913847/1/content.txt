@@ -7305,7 +7305,7 @@ MENSAGEM 1019
 Autor: Totty
 Data: 2025-07-03T19:27:48+00:00
 Texto:
-@INEMAtds vc tem essa automaçêo: https://www.youtube.com/watch?v=o5H5OlHr_yM
+@linnoff88-dev vc tem essa automaçêo: https://www.youtube.com/watch?v=o5H5OlHr_yM
 
 Se sim, pode me indicar o diretório para achar, por gentileza? Obrigado
 Midia: MessageMediaWebPage
@@ -15915,7 +15915,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 2240
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T04:25:10+00:00
 Texto:
 https://www.youtube.com/watch?v=dx_nYgaGiZw
@@ -15924,7 +15924,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2241
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T04:24:41+00:00
 Texto:
 Resumo completo:
@@ -15951,7 +15951,7 @@ Tópicos com exemplos e respostas:
 ------------------------------
 
 MENSAGEM 2242
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T04:23:23+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6692_2242.jpg
@@ -15959,7 +15959,7 @@ Midia: MessageMediaPhoto -> photo_6692_2242.jpg
 ------------------------------
 
 MENSAGEM 2243
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T04:23:00+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6691_2243.jpg
@@ -15967,7 +15967,7 @@ Midia: MessageMediaPhoto -> photo_6691_2243.jpg
 ------------------------------
 
 MENSAGEM 2244
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T04:22:36+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6690_2244.jpg
@@ -15975,7 +15975,7 @@ Midia: MessageMediaPhoto -> photo_6690_2244.jpg
 ------------------------------
 
 MENSAGEM 2245
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T04:22:01+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6689_2245.jpg
@@ -18099,7 +18099,7 @@ MENSAGEM 2547
 Autor: Tiza
 Data: 2025-04-13T00:01:21+00:00
 Texto:
-Olá! Sou a Tiza do inema.vip. Que bom ter você com a gente!
+Olá! Sou a Tiza do ARCKHÉ.vip. Que bom ter você com a gente!
 
 Este grupo é a nossa central de recepçêo. Sempre que tiver dúvidas, sugestões ou algum problema, é só postar aqui.
 
@@ -18115,7 +18115,7 @@ E claro, tópicos para dúvidas e sugestões.
 
 Acesse tudo por aqui:
 https://t.me/+6ljyHp_Df-E0ZTM5
-Seja muito bem-vindo ao inema.vip.
+Seja muito bem-vindo ao ARCKHÉ.vip.
 Estamos juntos nessa jornada!
 Midia: MessageMediaWebPage
 
@@ -18125,7 +18125,7 @@ MENSAGEM 2548
 Autor: Geovane
 Data: 2025-04-12T23:58:25+00:00
 Texto:
-Boa noite, onde tem o link do inema.tools
+Boa noite, onde tem o link do ARCKHÉ.tools
 
 ------------------------------
 
@@ -18758,7 +18758,7 @@ MENSAGEM 2638
 Autor: Tiza
 Data: 2025-04-10T15:26:33+00:00
 Texto:
-Olá! Sou a Tiza do inema.vip. Que bom ter você com a gente!
+Olá! Sou a Tiza do ARCKHÉ.vip. Que bom ter você com a gente!
 
 Este grupo é a nossa central de recepçêo. Sempre que tiver dúvidas, sugestões ou algum problema, é só postar aqui.
 
@@ -18774,7 +18774,7 @@ E claro, tópicos para dúvidas e sugestões.
 
 Acesse tudo por aqui:
 https://t.me/+6ljyHp_Df-E0ZTM5
-Seja muito bem-vindo ao inema.vip.
+Seja muito bem-vindo ao ARCKHÉ.vip.
 Estamos juntos nessa jornada!
 Midia: MessageMediaWebPage
 
@@ -22694,7 +22694,7 @@ https://t.me/+6ljyHp_Df-E0ZTM5
 
 Bem vindo a Nossa comunidade!
 
-O INEMA.VIP é nossa área de acesso a todo o restante dos conteúdos. Ali tem o repositório, onde pode acessar todas as áreas. Através da área Vip criaremos nossa conexêo e atualizações.
+O ARCKHÉ.VIP é nossa área de acesso a todo o restante dos conteúdos. Ali tem o repositório, onde pode acessar todas as áreas. Através da área Vip criaremos nossa conexêo e atualizações.
 Midia: MessageMediaWebPage
 
 ------------------------------
@@ -25543,8 +25543,8 @@ MENSAGEM 3602
 Autor: Tiza
 Data: 2025-02-15T14:22:24+00:00
 Texto:
-@INEMAtds está em Live falando de automaçêo no YouTube
-Inema.tdsx
+@linnoff88-dev está em Live falando de automaçêo no YouTube
+ARCKHÉ.tdsx
 
 ------------------------------
 
@@ -27692,10 +27692,10 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 3909
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-29T03:11:15+00:00
 Texto:
-Lá no repositorio do inema.vip você vai para o inema.make lá estêo as automacoes
+Lá no repositorio do ARCKHÉ.vip você vai para o ARCKHÉ.make lá estêo as automacoes
 
 ------------------------------
 
@@ -31105,7 +31105,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 4396
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-20T11:39:21+00:00
 Texto:
 ultimo teste
@@ -31113,7 +31113,7 @@ ultimo teste
 ------------------------------
 
 MENSAGEM 4397
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-20T11:39:07+00:00
 Texto:
 nao tem jeito kkk
@@ -31121,7 +31121,7 @@ nao tem jeito kkk
 ------------------------------
 
 MENSAGEM 4398
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-20T11:38:46+00:00
 Texto:
 nao
@@ -32677,14 +32677,14 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 4620
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-03T16:18:08+00:00
 Texto: [Sem texto]
 
 ------------------------------
 
 MENSAGEM 4621
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2024-12-28T01:59:21+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_5_4621.jpg
@@ -32692,7 +32692,7 @@ Midia: MessageMediaPhoto -> photo_5_4621.jpg
 ------------------------------
 
 MENSAGEM 4622
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2024-12-28T01:59:21+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_4_4622.jpg
@@ -32700,7 +32700,7 @@ Midia: MessageMediaPhoto -> photo_4_4622.jpg
 ------------------------------
 
 MENSAGEM 4623
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2024-12-28T01:59:21+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_3_4623.jpg
@@ -32708,7 +32708,7 @@ Midia: MessageMediaPhoto -> photo_3_4623.jpg
 ------------------------------
 
 MENSAGEM 4624
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2024-12-28T01:57:18+00:00
 Texto: [Sem texto]
 

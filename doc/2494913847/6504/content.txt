@@ -10,7 +10,7 @@ Midias baixadas: 19
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T03:09:32+00:00
 Texto:
 **Resumo do vídeo "Criei uma equipe de marketing com 1 agente de IA e sem código (modelo n8n gratuito)"**
@@ -90,7 +90,7 @@ Esse agente de IA realiza tarefas como:
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T03:07:40+00:00
 Texto:
 https://www.youtube.com/watch?v=ldETapkr8Hg
@@ -99,7 +99,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T03:06:50+00:00
 Texto:
 ==================
@@ -107,7 +107,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T03:06:47+00:00
 Texto:
 **Dicas e Hacks para Melhorar o Sistema**
@@ -160,7 +160,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T03:06:06+00:00
 Texto:
 ===============
@@ -168,7 +168,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T03:06:04+00:00
 Texto:
 Hacks
@@ -176,7 +176,7 @@ Hacks
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T03:05:57+00:00
 Texto:
 =================
@@ -184,7 +184,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T03:05:04+00:00
 Texto:
 **Passo a Passo para Montar o Sistema de Equipe de Marketing com 1 Agente de IA no n8n**
@@ -263,7 +263,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T03:03:40+00:00
 Texto:
 ================
@@ -271,7 +271,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T03:03:19+00:00
 Texto:
 **Sistema de Equipe de Marketing com 1 Agente de IA (n8n + Telegram)**
@@ -320,7 +320,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T03:01:29+00:00
 Texto:
 ==============
@@ -328,7 +328,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T03:01:19+00:00
 Texto:
 Equipe de Marketing com IA — Descriçêo dos Custos
@@ -382,7 +382,7 @@ Notas Importantes
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T03:00:01+00:00
 Texto:
 ============
@@ -390,7 +390,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T02:59:45+00:00
 Texto:
 Tenha uma equipe de marketing com apenas um agente de IA e sem usar código (template gratuito para n8n)
@@ -406,7 +406,7 @@ Este agente de IA é capaz de:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T02:58:27+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Marketing Team Log (file -_ make a copy).xlsx
@@ -414,7 +414,7 @@ Midia: MessageMediaDocument -> Marketing Team Log (file -_ make a copy).xlsx
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T02:58:06+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Marketing Team Agent Costs.pdf
@@ -422,7 +422,7 @@ Midia: MessageMediaDocument -> Marketing Team Agent Costs.pdf
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T02:57:57+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> AI Marketing Team Workflows.zip
@@ -430,7 +430,7 @@ Midia: MessageMediaDocument -> AI Marketing Team Workflows.zip
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T02:57:46+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Search_Images.json
@@ -438,7 +438,7 @@ Midia: MessageMediaDocument -> Search_Images.json
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T02:57:46+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> LinkedIn_Post.json
@@ -446,7 +446,7 @@ Midia: MessageMediaDocument -> LinkedIn_Post.json
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T02:57:46+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Faceless_Video.json
@@ -454,7 +454,7 @@ Midia: MessageMediaDocument -> Faceless_Video.json
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T02:57:46+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Edit_Image.json
@@ -462,7 +462,7 @@ Midia: MessageMediaDocument -> Edit_Image.json
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T02:57:46+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Create_Image.json
@@ -470,7 +470,7 @@ Midia: MessageMediaDocument -> Create_Image.json
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T02:57:46+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Blog_Post.json
@@ -478,7 +478,7 @@ Midia: MessageMediaDocument -> Blog_Post.json
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T02:57:46+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> AI_Marketing_Team.json
@@ -486,7 +486,7 @@ Midia: MessageMediaDocument -> AI_Marketing_Team.json
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T02:51:53+00:00
 Texto:
 Pesquisa Imagens
@@ -495,7 +495,7 @@ Midia: MessageMediaPhoto -> photo_6518_025.jpg
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T02:50:07+00:00
 Texto:
 Linkedin Post
@@ -504,7 +504,7 @@ Midia: MessageMediaPhoto -> photo_6517_026.jpg
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T02:49:25+00:00
 Texto:
 Faceless Video
@@ -513,7 +513,7 @@ Midia: MessageMediaPhoto -> photo_6516_027.jpg
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T02:48:12+00:00
 Texto:
 Edita Imagem
@@ -522,7 +522,7 @@ Midia: MessageMediaPhoto -> photo_6515_028.jpg
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T02:46:39+00:00
 Texto:
 Cria Imagem
@@ -531,7 +531,7 @@ Midia: MessageMediaPhoto -> photo_6514_029.jpg
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T02:45:57+00:00
 Texto:
 Blog
@@ -540,7 +540,7 @@ Midia: MessageMediaPhoto -> photo_6513_030.jpg
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T02:44:51+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6512_031.jpg
@@ -548,7 +548,7 @@ Midia: MessageMediaPhoto -> photo_6512_031.jpg
 ------------------------------
 
 MENSAGEM 32
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T02:35:01+00:00
 Texto:
 ap17 - Equipe MKT Agente de IA
@@ -556,7 +556,7 @@ ap17 - Equipe MKT Agente de IA
 ------------------------------
 
 MENSAGEM 33
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T02:34:53+00:00
 Texto:
 .
@@ -564,7 +564,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 34
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T02:34:52+00:00
 Texto:
 .
@@ -572,7 +572,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 35
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T02:34:52+00:00
 Texto:
 ..
@@ -580,7 +580,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 36
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T02:34:52+00:00
 Texto:
 .
@@ -588,7 +588,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 37
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T02:34:51+00:00
 Texto:
 https://chatgpt.com/c/680d95d3-b0b4-8009-9b25-72d8664ce396
@@ -597,7 +597,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 38
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T02:34:51+00:00
 Texto:
 1
@@ -605,7 +605,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 39
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T02:34:39+00:00
 Texto: [Sem texto]
 

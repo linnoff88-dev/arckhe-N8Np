@@ -18,7 +18,7 @@ Sim, é possível.
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-08T06:11:15+00:00
 Texto:
 Use tryon API. Faz 2 dias q falei na live
@@ -50,7 +50,7 @@ aqui deu trabalho tb... fiz o app com 5 créditos e gastei 35 créditos só pra 
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T02:05:37+00:00
 Texto:
 eu q o diga
@@ -58,7 +58,7 @@ eu q o diga
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T02:05:35+00:00
 Texto:
 senao fica uma droga
@@ -66,7 +66,7 @@ senao fica uma droga
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T02:05:30+00:00
 Texto:
 mas importante usar um prompt bem definido antes
@@ -74,7 +74,7 @@ mas importante usar um prompt bem definido antes
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T02:05:17+00:00
 Texto:
 é tudo muito semeçlhante
@@ -82,7 +82,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T02:05:06+00:00
 Texto:
 sim tambem
@@ -98,7 +98,7 @@ Nêo funciona com Bolt.new? Qual a diferença?
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-23T20:59:08+00:00
 Texto:
 tem dublagem em espanhol
@@ -106,7 +106,7 @@ tem dublagem em espanhol
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-23T20:59:00+00:00
 Texto:
 https://www.youtube.com/watch?v=9xBqYjBsG2s
@@ -115,7 +115,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-23T20:58:35+00:00
 Texto:
 ==========
@@ -123,7 +123,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-23T20:58:32+00:00
 Texto:
 Abaixo está um **prompt padrêo reutilizável** que você pode usar tanto no **Loveable** quanto no **Bolt** (ou qualquer outra ferramenta no-code com IA), para criar aplicações web com upload de imagem, IA, automações, login, banco de dados e pagamento.
@@ -193,7 +193,7 @@ Instruções:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-23T20:57:49+00:00
 Texto:
 ==============
@@ -201,7 +201,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-23T20:57:45+00:00
 Texto:
 Aqui está um **prompt completo e otimizado** que poderia ter sido usado **logo no início** do projeto no **Loveable**, evitando a maioria das correções manuais feitas depois:
@@ -248,7 +248,7 @@ Esse prompt é direto, funcional, cobre U**X, backend, frontend e monetizaçêo,
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-23T20:54:33+00:00
 Texto:
 ==============
@@ -256,7 +256,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-23T20:54:29+00:00
 Texto:
 No vídeo, o criador mostrou dois prompts distintos:
@@ -301,7 +301,7 @@ https://hook.eu2.make.com/q3jvcwsnrhh9a4hhfsv7zjx7m82aa2cf
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-23T20:54:07+00:00
 Texto:
 ====================
@@ -309,7 +309,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-23T20:52:17+00:00
 Texto:
 Aqui está o resumo completo  **"How to Build a $1m AI Web App (Loveable + Stripe)"**:
@@ -391,7 +391,7 @@ Ensina passo a passo como criar um SaaS de Inteligência Artificial, totalmente 
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-23T20:51:10+00:00
 Texto:
 **j80n Construa um SaaS de IA (Loveable + Stripe)**
@@ -400,7 +400,7 @@ Texto:
 
 **Ferramentas 🧰**  
 🔥 [n8n](https://n8n.io/) – Automaçêo de fluxos sem código  
-🔮 [Loveable](https://lovable.dev/?via=inematds) – Plataforma para criaçêo rápida de apps com IA (*)  
+🔮 [Loveable](https://lovable.dev/?via=linnoff88-dev) – Plataforma para criaçêo rápida de apps com IA (*)  
 👾 [Codepen](https://codepen.io/trending?cursor=ZD0wJm89MCZwPTE=) – Para testar e compartilhar códigos front-end  
 💸 [Stripe](https://dashboard.stripe.com/payment-links) – Para criar links de pagamento e integrar monetizaçêo
 - Gemini API
@@ -413,7 +413,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-23T20:48:59+00:00
 Texto:
 Aqui mostro q até os q Manjam muito tem problemas até construir os sistemas.
@@ -421,7 +421,7 @@ Aqui mostro q até os q Manjam muito tem problemas até construir os sistemas.
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-23T20:48:25+00:00
 Texto:
 **Como construir um app web de IA de US$ 1 milhêo (com Loveable + Stripe)**
@@ -441,7 +441,7 @@ Esse projeto foi muito divertido e de muitos erros, como na verdade é a vida re
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-23T20:46:12+00:00
 Texto:
 j80n
@@ -450,7 +450,7 @@ Midia: MessageMediaDocument -> ___Google_Image_API.json
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-23T20:45:36+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_3650_026.jpg
@@ -458,7 +458,7 @@ Midia: MessageMediaPhoto -> photo_3650_026.jpg
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-23T20:38:49+00:00
 Texto:
 J80n  - **Crie uma AI SaaS (Loveable + Stripe)**
@@ -466,7 +466,7 @@ J80n  - **Crie uma AI SaaS (Loveable + Stripe)**
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-23T20:38:46+00:00
 Texto:
 ..
@@ -474,7 +474,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-23T20:38:46+00:00
 Texto:
 ..
@@ -482,7 +482,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-23T20:38:46+00:00
 Texto:
 .
@@ -490,7 +490,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-23T20:38:46+00:00
 Texto:
 .
@@ -498,7 +498,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 32
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-23T20:38:45+00:00
 Texto:
 .
@@ -506,7 +506,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 33
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-23T20:38:45+00:00
 Texto:
 https://chatgpt.com/c/67e05b49-3ea8-8009-96ae-52348e305cde
@@ -515,7 +515,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 34
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-23T20:38:44+00:00
 Texto:
 1
@@ -523,7 +523,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 35
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-23T20:38:31+00:00
 Texto: [Sem texto]
 

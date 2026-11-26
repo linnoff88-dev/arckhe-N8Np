@@ -10,7 +10,7 @@ Midias baixadas: 3
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-19T17:34:10+00:00
 Texto:
 um dica: diferente do make no n8n voce pode clicar e ver os campos no modulo(nó)
@@ -18,7 +18,7 @@ um dica: diferente do make no n8n voce pode clicar e ver os campos no modulo(nó
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-19T17:33:26+00:00
 Texto:
 Dados da Tabela
@@ -54,7 +54,7 @@ vc tem a tabela do sheets?
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-13T21:49:49+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_3131_005.jpg
@@ -62,7 +62,7 @@ Midia: MessageMediaPhoto -> photo_3131_005.jpg
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-13T21:19:31+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> _Template__Lead_Qualifier (1).json
@@ -70,7 +70,7 @@ Midia: MessageMediaDocument -> _Template__Lead_Qualifier (1).json
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-13T21:19:20+00:00
 Texto:
 ### **Resumo da Automaçêo de Qualificaçêo de Leads**  
@@ -110,7 +110,7 @@ O e-mail enviado informa que o candidato passou na primeira fase e pode agendar 
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-13T21:18:11+00:00
 Texto:
 **Automaçêo de Qualificaçêo de Leads**  
@@ -128,7 +128,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-13T21:17:53+00:00
 Texto:
 acb1 - **Lead Qualifier**
@@ -136,7 +136,7 @@ acb1 - **Lead Qualifier**
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-13T21:17:52+00:00
 Texto:
 .
@@ -144,7 +144,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-13T21:17:52+00:00
 Texto:
 .
@@ -152,7 +152,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-13T21:17:52+00:00
 Texto:
 .
@@ -160,7 +160,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-13T21:17:52+00:00
 Texto:
 .
@@ -168,7 +168,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-13T21:17:51+00:00
 Texto:
 .
@@ -176,7 +176,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-13T21:17:51+00:00
 Texto:
 1
@@ -184,7 +184,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-13T21:17:45+00:00
 Texto: [Sem texto]
 

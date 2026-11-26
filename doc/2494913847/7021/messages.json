@@ -1,7 +1,7 @@
 [
   {
     "id": 7039,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-01T03:38:39+00:00",
     "text": "O **Transistor.fm** é uma **plataforma de hospedagem e distribuiçêo de podcasts**, usada por criadores e empresas para **publicar, gerenciar e analisar seus podcasts em diversas plataformas de áudio**, como Spotify, Apple Podcasts, Google Podcasts, Amazon Music, entre outras.\n\nVeja como ele funciona, passo a passo:\n\n---\n\n### **1. Criaçêo de Conta e Podcast**\n- Você cria uma conta no [https://transistor.fm](https://transistor.fm/)\n- Adiciona um **novo podcast**, preenchendo:\n  - Nome do programa\n  - Descriçêo\n  - Categoria e linguagem\n  - Capa (imagem 1400x1400)\n  - Domínio ou subdomínio customizado (opcional)\n\n---\n\n### **2. Upload de Episódios**\n- Você pode **fazer upload manual** dos episódios ou usar a **API** (como mostrado no vídeo) para automatizar.\n- Cada episódio precisa de:\n  - Título\n  - Descriçêo\n  - Arquivo de áudio (formato MP3 recomendado)\n  - Data e hora de publicaçêo (agendável)\n\n---\n\n### **3. Publicaçêo automática**\n- Transistor gera um **feed RSS**, que você cadastra nas plataformas como:\n  - Spotify for Podcasters\n  - Apple Podcasts Connect\n  - Google Podcasts Manager\n- Após a primeira configuraçêo, toda nova publicaçêo vai automaticamente para todas essas plataformas.\n\n---\n\n### **4. Estatísticas e Análises**\n- Visualizaçêo clara de:\n  - Número de downloads por episódio\n  - Origem geográfica dos ouvintes\n  - Plataformas de escuta\n  - Tendências de crescimento\n\n---\n\n### **5. Integrações úteis**\n- **API** para automações (ex: via n8n ou Make)\n- **Site automático** com página do podcast\n- **Múltiplos usuários e permissões** (ideal para equipes)\n- Suporte a **vários podcasts na mesma conta**\n\n---\n\n### **Exemplo prático de uso via API:**\n- Endpoint `POST /episodes`\n- Envia dados como:\n  ```  {\n    \"show_id\": \"123456\",\n    \"title\": \"Episódio 01 - Introduçêo\",\n    \"audio_url\": \"https://link-para-o-mp3.com\",\n    \"description\": \"Neste episódio falamos sobre...\",\n    \"published_at\": \"2025-05-01T12:00:00Z\"\n  }\n  ```\n- Requer um token de API que você gera dentro da sua conta.\n\n---\n\n### **Planos e preços (referência 2025):**\n- Iniciam em cerca de **US$ 19/mês**\n- Todos os planos permitem múltiplos podcasts e estatísticas detalhadas\n\n---\n\n### **Resumo com tópicos + exemplos:**\n\n| Etapa                          | Descriçêo                                                                 |\n|-------------------------------|---------------------------------------------------------------------------|\n| Criaçêo da conta              | Cadastro no site e criaçêo de podcast                                     |\n| Upload de episódios           | Manual ou via API (ex: n8n, Make) com título, descriçêo e áudio           |\n| Distribuiçêo                  | Geraçêo automática do feed RSS para Spotify, Apple, Google, etc.         |\n| Estatísticas                  | Visualizaçêo de dados dos ouvintes e desempenho dos episódios            |\n| Integrações                   | API, sites personalizados, múltiplos usuários, automações                 |\n\n---",
     "has_media": true,
@@ -9,7 +9,7 @@
   },
   {
     "id": 7038,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-01T03:37:30+00:00",
     "text": "https://www.youtube.com/watch?v=tPtu8kt97a0",
     "has_media": true,
@@ -17,7 +17,7 @@
   },
   {
     "id": 7037,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-01T03:37:05+00:00",
     "text": "Aqui estêo **os melhores hacks** que você pode aplicar com base nesse fluxo de automaçêo de YouTube para podcast, aproveitando ao máximo os recursos do **n8n, OpenAI, 11Labs, ****Transistor.fm**** e Google Sheets**:\n\n---\n\n### **1. Hack: Recorte inteligente de vídeos longos**\n- **Como fazer:** Use `timestamp` no transcript para dividir vídeos longos em episódios curtos (ex: \"parte 1\", \"parte 2\").\n- **Vantagem:** Multiplica conteúdo e mantém atençêo em episódios curtos.\n\n---\n\n### **2. Hack: Personalizaçêo de voz por tema**\n- **Como fazer:** No 11Labs, configure vozes diferentes para temas distintos (ex: uma voz séria para notícias, outra animada para tutoriais).\n- **Vantagem:** Cria identidade auditiva e engajamento.\n\n---\n\n### **3. Hack: Título e descriçêo otimizados com IA**\n- **Como fazer:** No mesmo prompt do OpenAI, peça que gere *título clickbait* e descriçêo otimizada com palavras-chave.\n- **Exemplo:**  \n  Prompt → \"Crie um título chamativo, descriçêo com até 150 caracteres e um call-to-action no final.\"\n\n---\n\n### **4. Hack: Reaproveitamento em redes sociais**\n- **Como fazer:** Gere um trecho de 60 segundos do podcast e use para shorts no YouTube, Reels ou TikTok.\n- **Ferramentas:** FFMPEG para cortar + IA para gerar título/legenda automática.\n\n---\n\n### **5. Hack: Integraçêo com Notion ou Airtable**\n- **Como fazer:** Substitua o Google Sheets por Notion ou Airtable via API.\n- **Vantagem:** Facilita gestêo editorial, histórico de episódios e distribuiçêo entre equipes.\n\n---\n\n### **6. Hack: Monitoramento de concorrentes**\n- **Como fazer:** Monitore canais concorrentes com o mesmo fluxo (só mudar o `channel ID`) e crie análises comparativas automáticas.\n- **Exemplo:** Transcreva vídeos concorrentes, gere resumo em podcast, depois adicione sua opiniêo.\n\n---\n\n### **7. Hack: Automaçêo de repostagens**\n- **Como fazer:** Agende repostagem do episódio nas redes com descrições variadas (usando GPT para reescrever).\n- **Ferramenta:** n8n + Google Calendar + Buffer/Zapier/Make.\n\n---\n\n### **8. Hack: Segmentaçêo por playlists**\n- **Como fazer:** Extraia vídeos de playlists específicas (em vez do canal todo) para ter controle temático.\n- **Vantagem:** Garante foco no conteúdo de maior valor.\n\n---\n\n### **9. Hack: Gatilhos via Google Forms**\n- **Como fazer:** Permita que ouvintes escolham temas e vídeos via formulário. Respostas caem no Sheets e disparam novos episódios.\n- **Vantagem:** Cria engajamento com a comunidade e episódios sob demanda.\n\n---\n\n### **10. Hack: Multimodalidade**\n- **Como fazer:** Use D-ID ou Heygen para transformar o mesmo script de áudio em vídeo com avatar e publique como videocast.\n- **Vantagem:** Canal 2 em 1: podcast + YouTube com rosto gerado por IA.",
     "has_media": false,
@@ -25,7 +25,7 @@
   },
   {
     "id": 7036,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-01T03:37:02+00:00",
     "text": "===============",
     "has_media": false,
@@ -33,7 +33,7 @@
   },
   {
     "id": 7035,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-01T03:36:27+00:00",
     "text": "### **Resumo Geral:**\nAutomatizaçêo completa de criaçêo de **podcast a partir de vídeos do YouTube**, sem código, com geraçêo de script, áudio com voz realista e publicaçêo automática.\n\n---\n\n### **Passo a Passo da Automaçêo (n8n):**\n\n1. **Pré-requisitos (crie contas e gere API Keys):**\n   - OpenAI\n   - 11Labs (voz realista)\n   - Transistor.fm (distribuiçêo de podcast)\n   - Search API para transcriçêo de vídeos do YouTube (Ex: Gladia, Deepgram, etc.)\n   - Google Sheets (planilha com colunas: episódio, nome, descriçêo, data, link)\n\n2. **Crie uma planilha no Google Sheets com as colunas:**\n   - `episode_number`, `episode_name`, `description`, `post_day`, `share_link`\n\n3. **Fluxo no n8n (estrutura simplificada):**\n   - **Trigger:** Agendamento automático (ex: diário)\n   - **Get Metadata:** Buscar metadados dos vídeos mais recentes do YouTube (usando ID do canal)\n     - Para obter o `Channel ID`: clique com botêo direito na página do canal → \"Exibir código-fonte\" → buscar por \"channel_id\"\n   - **Transcriçêo:** Pegar transcriçêo via API usando o `video_id`\n   - **OpenAI (ChatGPT):** Transformar transcriçêo em um monólogo estilo podcast\n     - Instruçêo: “Você é um diretor de podcast. Resuma o conteúdo em forma de diálogo solo, com comentários, pontos de vista e exemplo de estrutura JSON.”\n   - **11Labs:** Gerar áudio com a voz realista a partir do texto\n   - **Upload ****Transistor.fm****:**\n     - Autorizaçêo via PUT\n     - Upload do áudio\n     - Criaçêo de novo episódio com: título, descriçêo, URL do áudio\n   - **Update Google Sheets:**\n     - Inserir link gerado do episódio\n     - Atualizar status e colunas\n\n---\n\n### **Dicas incríveis do vídeo:**\n\n- **Otimizaçêo 100% no-code com n8n** — fluxos organizados, fáceis de manter.\n- **Uso de APIs chave:** OpenAI para texto, 11Labs para voz, Transistor para publicaçêo.\n- **Geraçêo automática e humanizada do roteiro** com tom de podcast.\n- **Estrutura em Google Sheets** permite controle editorial manual e visualizaçêo simples.\n- **Escalabilidade:** Ideal para canais com atualizações frequentes e múltiplos episódios por semana.\n\n---\n\n### **Exemplo de Instruçêo para o OpenAI (Prompt):**\n\n> \"Você é um diretor de podcast. Converta esta transcriçêo em um episódio solo, resumindo o conteúdo e adicionando comentários pessoais. O tom deve ser natural e envolvente. Retorne em formato JSON com título, descriçêo e script completo.\"",
     "has_media": false,
@@ -41,7 +41,7 @@
   },
   {
     "id": 7034,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-01T03:31:16+00:00",
     "text": "como transformar seus vídeos do YouTube em podcasts de alta qualidade com um fluxo de trabalho de IA sem código! \n\nUsando OpenAI, ElevenLabs e [Transistor.fm](http://transistor.fm/), esse sistema automatiza a transcriçêo, a transformaçêo de conteúdo e a publicaçêo, para que você possa redirecionar o conteúdo sem esforço.",
     "has_media": true,
@@ -49,7 +49,7 @@
   },
   {
     "id": 7033,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-01T03:30:56+00:00",
     "text": "",
     "has_media": true,
@@ -58,7 +58,7 @@
   },
   {
     "id": 7032,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-01T03:30:48+00:00",
     "text": "",
     "has_media": true,
@@ -67,7 +67,7 @@
   },
   {
     "id": 7031,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-01T03:30:39+00:00",
     "text": "",
     "has_media": true,
@@ -76,7 +76,7 @@
   },
   {
     "id": 7029,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-01T03:29:03+00:00",
     "text": ".als03 -**Transforme vídeos do YouTube em podcasts**",
     "has_media": false,
@@ -84,7 +84,7 @@
   },
   {
     "id": 7028,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-01T03:29:00+00:00",
     "text": "..",
     "has_media": false,
@@ -92,7 +92,7 @@
   },
   {
     "id": 7027,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-01T03:29:00+00:00",
     "text": ".",
     "has_media": false,
@@ -100,7 +100,7 @@
   },
   {
     "id": 7026,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-01T03:29:00+00:00",
     "text": ".",
     "has_media": false,
@@ -108,7 +108,7 @@
   },
   {
     "id": 7025,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-01T03:28:59+00:00",
     "text": "..",
     "has_media": false,
@@ -116,7 +116,7 @@
   },
   {
     "id": 7024,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-01T03:28:59+00:00",
     "text": ".",
     "has_media": false,
@@ -124,7 +124,7 @@
   },
   {
     "id": 7023,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-01T03:28:59+00:00",
     "text": "https://chatgpt.com/c/6812eb7b-5168-8009-923f-a7c864dbaeb4",
     "has_media": true,
@@ -132,7 +132,7 @@
   },
   {
     "id": 7022,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-01T03:28:58+00:00",
     "text": "1",
     "has_media": false,
@@ -140,7 +140,7 @@
   },
   {
     "id": 7021,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-01T03:28:53+00:00",
     "text": "",
     "has_media": false,

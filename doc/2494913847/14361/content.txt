@@ -10,7 +10,7 @@ Midias baixadas: 10
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T01:56:02+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Cópia de Video Motions+.xlsx
@@ -18,7 +18,7 @@ Midia: MessageMediaDocument -> Cópia de Video Motions+.xlsx
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T01:55:13+00:00
 Texto:
 https://kie.ai/nano-banana?model=google%2Fnano-banana-edit
@@ -27,7 +27,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T01:55:05+00:00
 Texto:
 https://fal.ai/models/fal-ai/topaz/upscale/video/api
@@ -36,7 +36,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T01:54:54+00:00
 Texto:
 https://fal.ai/models/mirelo-ai/sfx-v1/video-to-video/api
@@ -45,7 +45,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T01:54:42+00:00
 Texto:
 https://fal.ai/models/fal-ai/ffmpeg-api/merge-videos/api
@@ -54,7 +54,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T01:54:27+00:00
 Texto:
 https://fal.ai/models/fal-ai/minimax/hailuo-02/pro/image-to-video/api
@@ -63,7 +63,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T01:51:00+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Motion Graphics con IA.json
@@ -71,7 +71,7 @@ Midia: MessageMediaDocument -> Motion Graphics con IA.json
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T01:50:46+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14481_008.jpg
@@ -79,7 +79,7 @@ Midia: MessageMediaPhoto -> photo_14481_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-19T17:29:32+00:00
 Texto:
 e46. De imagem a vídeo Pro (after effects)
@@ -137,7 +137,7 @@ Ideal para quem deseja criar intros, reels ou vídeos promocionais sem precisar 
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-19T17:26:59+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14371_010.jpg
@@ -145,7 +145,7 @@ Midia: MessageMediaPhoto -> photo_14371_010.jpg
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-19T17:22:06+00:00
 Texto:
 De uma imagem a um vídeo 4K automático
@@ -172,7 +172,7 @@ O custo por vídeo completo (com música, transições e 4K) gira em torno de 2 
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-19T17:13:09+00:00
 Texto:
 e46 - Imagem a Vídeo 4K Automático
@@ -180,7 +180,7 @@ e46 - Imagem a Vídeo 4K Automático
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-19T17:13:07+00:00
 Texto:
 .
@@ -188,7 +188,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-19T17:13:07+00:00
 Texto:
 .
@@ -196,7 +196,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-19T17:13:07+00:00
 Texto:
 .
@@ -204,7 +204,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-19T17:13:07+00:00
 Texto:
 .
@@ -212,7 +212,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-19T17:13:07+00:00
 Texto:
 .
@@ -220,7 +220,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-19T17:13:06+00:00
 Texto:
 https://chatgpt.com/c/68cd8eb0-c278-8323-b458-bbed32634960
@@ -229,7 +229,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-19T17:13:06+00:00
 Texto:
 1
@@ -237,7 +237,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-19T17:12:58+00:00
 Texto: [Sem texto]
 

@@ -10,7 +10,7 @@ Midias baixadas: 2
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-13T02:49:11+00:00
 Texto:
 https://fathom.video/share/cReLNBTNdpv5TQf39h_nxmynKeWQW58b
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-13T02:48:52+00:00
 Texto:
 📞 Suporte Técnico - 12 de março  
@@ -83,7 +83,7 @@ Chamada de suporte técnico improvisada para usuários do N8N, visando soluciona
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-13T02:48:28+00:00
 Texto:
 ===========================
@@ -91,7 +91,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T03:36:35+00:00
 Texto:
 https://fathom.video/share/zjcBPymieyvzcyRC1UA3Nv3_Ayyhob26
@@ -100,7 +100,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T03:36:17+00:00
 Texto:
 Propósito da reuniêoSessêo de perguntas e respostas improvisada sobre automaçêo de IA, implementações de RAG e otimizaçêo de fluxo de trabalho
@@ -148,7 +148,7 @@ Participantes encorajados a continuar testando e refinando seus sistemas RAG ite
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T03:34:03+00:00
 Texto:
 .
@@ -156,7 +156,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T03:34:00+00:00
 Texto:
 Nao sei se voces tem Acesso, mas se puder gostria de Compartilhar com voces estas lives.
@@ -166,7 +166,7 @@ Quem sabe os mais Avancados até participar dos grupos.
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T03:33:01+00:00
 Texto:
 .
@@ -174,7 +174,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T03:33:00+00:00
 Texto:
 ..
@@ -182,7 +182,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T03:32:59+00:00
 Texto:
 .
@@ -190,7 +190,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T03:32:59+00:00
 Texto:
 .
@@ -198,7 +198,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T03:32:59+00:00
 Texto:
 .
@@ -206,7 +206,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T03:32:58+00:00
 Texto:
 1
@@ -214,7 +214,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-12T03:32:53+00:00
 Texto: [Sem texto]
 

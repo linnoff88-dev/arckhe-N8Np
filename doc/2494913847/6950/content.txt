@@ -10,7 +10,7 @@ Midias baixadas: 5
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T22:41:45+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Tutorial 9.3 - Job Posts Record.xlsx
@@ -18,7 +18,7 @@ Midia: MessageMediaDocument -> Tutorial 9.3 - Job Posts Record.xlsx
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T22:25:12+00:00
 Texto:
 https://www.youtube.com/watch?v=AO0L0DgHk7g
@@ -27,7 +27,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T22:24:56+00:00
 Texto:
 **Seu Agente Automatizado de Busca e Candidatura de Empregos DeepSeek AI [Sem Código com n8n, LinkedIn e Perplexity]**
@@ -119,7 +119,7 @@ N**otas Importantes:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T22:23:23+00:00
 Texto:
 ================
@@ -127,7 +127,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T22:22:46+00:00
 Texto:
 **05 Agente de IA para Busca e Candidatura Automatizada de Empregos**
@@ -153,7 +153,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T22:22:17+00:00
 Texto:
 Seu Agente de Busca e Candidatura a Empregos Automatizado com IA [Sem Código usando n8n, LinkedIn, Deepseek e Perplexity]
@@ -165,7 +165,7 @@ Este sistema com inteligência artificial cuida de tudo, desde encontrar vagas d
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T22:18:47+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Template_9_3_Your_Automated_Job_Search_Application_AI_Agent_No_code.json
@@ -173,7 +173,7 @@ Midia: MessageMediaDocument -> Template_9_3_Your_Automated_Job_Search_Applicatio
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T22:18:40+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6959_008.jpg
@@ -181,7 +181,7 @@ Midia: MessageMediaPhoto -> photo_6959_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T22:17:30+00:00
 Texto:
 als05 - Agente IA Busca Empregos
@@ -189,7 +189,7 @@ als05 - Agente IA Busca Empregos
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T22:17:26+00:00
 Texto:
 ..
@@ -197,7 +197,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T22:17:25+00:00
 Texto:
 .
@@ -205,7 +205,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T22:17:25+00:00
 Texto:
 ..
@@ -213,7 +213,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T22:17:25+00:00
 Texto:
 .
@@ -221,7 +221,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T22:17:24+00:00
 Texto:
 .
@@ -229,7 +229,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T22:17:24+00:00
 Texto:
 https://chatgpt.com/c/68114fc4-09a8-8009-abc6-a29caf56584d
@@ -238,7 +238,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T22:17:22+00:00
 Texto:
 1
@@ -246,7 +246,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-29T22:17:14+00:00
 Texto: [Sem texto]
 

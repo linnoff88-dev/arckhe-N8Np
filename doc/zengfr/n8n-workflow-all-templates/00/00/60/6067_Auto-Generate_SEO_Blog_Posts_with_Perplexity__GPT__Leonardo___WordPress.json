@@ -107,11 +107,11 @@
         "messages": {
           "values": [
             {
-              "content": "=Generate a single-line English description of an editorial-style image to visually represent the following article.\n\nThe image must follow these rules:\n- Cinematic, editorial look (not cartoonish or abstract).\n- No visible text or logos.\n- Must work for a blog post featured image in Google News and Discover (ideal size: 1200x628 px).\n- The article title is: \"{{ $json.title }}\"\n- Article content: {{ $json.content }}.\n\nOutput just the English prompt, without quotes or formatting."
+              "content": "=Generate a single-line English description of an editorial-style image to visually represent the following article.\n\nThe image must follow these rules:\n- CARCKHÉtic, editorial look (not cartoonish or abstract).\n- No visible text or logos.\n- Must work for a blog post featured image in Google News and Discover (ideal size: 1200x628 px).\n- The article title is: \"{{ $json.title }}\"\n- Article content: {{ $json.content }}.\n\nOutput just the English prompt, without quotes or formatting."
             },
             {
               "role": "system",
-              "content": "You are an expert in crafting AI image generation prompts for editorial and news images. You help generate cinematic, editorial-style prompts for blog images that perform well in Google News and Google Discover. Avoid any text or logos in the result."
+              "content": "You are an expert in crafting AI image generation prompts for editorial and news images. You help generate cARCKHÉtic, editorial-style prompts for blog images that perform well in Google News and Google Discover. Avoid any text or logos in the result."
             }
           ]
         }

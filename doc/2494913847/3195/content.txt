@@ -10,7 +10,7 @@ Midias baixadas: 14
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-05T18:35:19+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> e7gmail___Fatura__o_ativo_PIX (1).json
@@ -18,7 +18,7 @@ Midia: MessageMediaDocument -> e7gmail___Fatura__o_ativo_PIX (1).json
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-05T18:35:13+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_8791_002.jpg
@@ -26,7 +26,7 @@ Midia: MessageMediaPhoto -> photo_8791_002.jpg
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-17T15:30:18+00:00
 Texto:
 https://www.youtube.com/live/2hGXiOaTWEk?si=wUugm0GMeDZi3fYd
@@ -35,7 +35,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T18:32:29+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> OIP.jpeg
@@ -43,7 +43,7 @@ Midia: MessageMediaDocument -> OIP.jpeg
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T18:32:29+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 3098653e4ec1aee42386fa79ba6a3562.jpg
@@ -51,7 +51,7 @@ Midia: MessageMediaDocument -> 3098653e4ec1aee42386fa79ba6a3562.jpg
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T18:32:29+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> OIP (1).jpeg
@@ -59,7 +59,7 @@ Midia: MessageMediaDocument -> OIP (1).jpeg
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T18:32:29+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> OIP (2).jpeg
@@ -67,7 +67,7 @@ Midia: MessageMediaDocument -> OIP (2).jpeg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T18:32:29+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> OIP (3).jpeg
@@ -75,7 +75,7 @@ Midia: MessageMediaDocument -> OIP (3).jpeg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T18:32:29+00:00
 Texto:
 e7n8
@@ -84,7 +84,7 @@ Midia: MessageMediaDocument -> Facturas Asistente Personal.xlsx
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T01:42:08+00:00
 Texto:
 ### e7n8. Extraia informações de arquivos sem complicações  
@@ -145,7 +145,7 @@ Com essa abordagem, conseguimos **otimizar a extraçêo de dados de faturas e do
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T01:41:22+00:00
 Texto:
 ========
@@ -153,7 +153,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T01:41:19+00:00
 Texto:
 Extraia informações de arquivos sem complicações (Faturamento)  
@@ -171,7 +171,7 @@ Essa é uma daquelas automações que vêo te economizar **tempo e dinheiro desd
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T01:40:30+00:00
 Texto:
 https://cloud.llamaindex.ai
@@ -180,7 +180,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T01:40:14+00:00
 Texto:
 https://cloud.llamaindex.ai/project/faf262c3-3ac0-4a1f-8126-8a7203c47c03/api-key
@@ -189,7 +189,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T01:39:38+00:00
 Texto:
 e7n8
@@ -198,7 +198,7 @@ Midia: MessageMediaDocument -> Automatizaci_n_facturaci_n_LlamaParse.json
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T01:39:22+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_3206_016.jpg
@@ -206,7 +206,7 @@ Midia: MessageMediaPhoto -> photo_3206_016.jpg
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T01:39:11+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_3205_017.jpg
@@ -214,7 +214,7 @@ Midia: MessageMediaPhoto -> photo_3205_017.jpg
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T01:38:46+00:00
 Texto:
 e7n8 - Extraçêo de Faturas
@@ -222,7 +222,7 @@ e7n8 - Extraçêo de Faturas
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T01:38:43+00:00
 Texto:
 .
@@ -230,7 +230,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T01:38:39+00:00
 Texto:
 .
@@ -238,7 +238,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T01:38:39+00:00
 Texto:
 .
@@ -246,7 +246,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T01:38:39+00:00
 Texto:
 .
@@ -254,7 +254,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T01:38:39+00:00
 Texto:
 .
@@ -262,7 +262,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T01:38:39+00:00
 Texto:
 .
@@ -270,7 +270,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T01:38:37+00:00
 Texto:
 .
@@ -278,7 +278,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T01:38:36+00:00
 Texto:
 1
@@ -286,7 +286,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T01:38:31+00:00
 Texto: [Sem texto]
 

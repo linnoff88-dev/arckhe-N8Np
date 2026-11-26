@@ -34,7 +34,7 @@ OLA
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-16T02:50:42+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14270_004.jpg
@@ -42,7 +42,7 @@ Midia: MessageMediaPhoto -> photo_14270_004.jpg
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-16T02:50:42+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14269_005.jpg
@@ -50,7 +50,7 @@ Midia: MessageMediaPhoto -> photo_14269_005.jpg
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-16T02:50:31+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14268_006.jpg
@@ -58,7 +58,7 @@ Midia: MessageMediaPhoto -> photo_14268_006.jpg
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-16T02:50:10+00:00
 Texto:
 versao atualiza tudo
@@ -66,7 +66,7 @@ versao atualiza tudo
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-16T02:49:53+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> nm72-1 - Youtube Atualiza Thumb.json
@@ -74,7 +74,7 @@ Midia: MessageMediaDocument -> nm72-1 - Youtube Atualiza Thumb.json
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-14T03:00:38+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14239_009.jpg
@@ -82,7 +82,7 @@ Midia: MessageMediaPhoto -> photo_14239_009.jpg
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-14T03:00:38+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14238_010.jpg
@@ -90,7 +90,7 @@ Midia: MessageMediaPhoto -> photo_14238_010.jpg
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-14T03:00:38+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14237_011.jpg
@@ -98,7 +98,7 @@ Midia: MessageMediaPhoto -> photo_14237_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-14T02:59:54+00:00
 Texto:
 ## Automaçêo de Atualizaçêo de Vídeos no YouTube
@@ -188,7 +188,7 @@ O agente gera JSON com:
 * metáfora visual
 * frase curta (até 5 palavras)
 * fundo temático
-* estilo (foto realista, iluminaçêo cinematográfica)
+* estilo (foto realista, iluminaçêo cARCKHÉtográfica)
 * cores dominantes
 * composiçêo (regra dos terços, margens seguras)
 * aspect\_ratio: 16:9
@@ -225,7 +225,7 @@ O agente gera JSON com:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-14T02:55:46+00:00
 Texto:
 ===========
@@ -233,7 +233,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-14T02:55:43+00:00
 Texto:
 ## Objetivo da Automaçêo
@@ -291,7 +291,7 @@ Automatizar o fluxo de atualizaçêo de vídeos no YouTube: obter informações 
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-14T02:45:28+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> nm72 - atualiza o youtube.json
@@ -299,7 +299,7 @@ Midia: MessageMediaDocument -> nm72 - atualiza o youtube.json
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-14T02:44:50+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14230_016.jpg
@@ -307,7 +307,7 @@ Midia: MessageMediaPhoto -> photo_14230_016.jpg
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-12T11:19:40+00:00
 Texto:
 nm72 - Atualiza Youtube
@@ -315,7 +315,7 @@ nm72 - Atualiza Youtube
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-12T11:19:36+00:00
 Texto:
 .
@@ -323,7 +323,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-12T11:19:35+00:00
 Texto:
 .
@@ -331,7 +331,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-12T11:19:35+00:00
 Texto:
 ..
@@ -339,7 +339,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-12T11:19:34+00:00
 Texto:
 .
@@ -347,7 +347,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-12T11:19:34+00:00
 Texto:
 .
@@ -355,7 +355,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-12T11:19:34+00:00
 Texto:
 .
@@ -363,7 +363,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-12T11:19:34+00:00
 Texto:
 .
@@ -371,7 +371,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-12T11:19:33+00:00
 Texto:
 https://chatgpt.com/c/68c62d5d-ed4c-832d-8d5b-f97c0de45ee5
@@ -380,7 +380,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-12T11:19:33+00:00
 Texto:
 1
@@ -388,7 +388,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-12T11:18:57+00:00
 Texto: [Sem texto]
 

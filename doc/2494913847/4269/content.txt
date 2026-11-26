@@ -10,7 +10,7 @@ Midias baixadas: 2
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T03:54:08+00:00
 Texto:
 **Mapeamento de Credenciais do Workflow:**
@@ -33,7 +33,7 @@ Este workflow simplifica a criaçêo de um assistente de IA que utiliza o conte�
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T03:54:08+00:00
 Texto:
 **Consulta de Credenciais do n8n com Agente de SQL com IA**
@@ -117,7 +117,7 @@ Este fluxo de trabalho simplifica o processo de carregar um arquivo do Google Dr
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T03:54:03+00:00
 Texto:
 mw11
@@ -126,7 +126,7 @@ Midia: MessageMediaDocument -> Query n8n Credentials with AI SQL Agent.txt
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T03:52:46+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_4277_004.jpg
@@ -134,7 +134,7 @@ Midia: MessageMediaPhoto -> photo_4277_004.jpg
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T03:41:40+00:00
 Texto:
 **Query n8n Credentials with AI SQL Agent**
@@ -142,7 +142,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T03:41:39+00:00
 Texto:
 ..
@@ -150,7 +150,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T03:41:38+00:00
 Texto:
 .
@@ -158,7 +158,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T03:41:38+00:00
 Texto:
 ..
@@ -166,7 +166,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T03:41:38+00:00
 Texto:
 .
@@ -174,7 +174,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T03:41:38+00:00
 Texto:
 .
@@ -182,7 +182,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T03:41:37+00:00
 Texto:
 1
@@ -190,7 +190,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-30T03:41:29+00:00
 Texto: [Sem texto]
 

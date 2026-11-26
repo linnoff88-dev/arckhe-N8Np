@@ -26,7 +26,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T21:22:19+00:00
 Texto:
 https://www.youtube.com/watch?v=5ugMkdDX_rs
@@ -35,7 +35,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T21:22:03+00:00
 Texto:
 ============
@@ -43,7 +43,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T21:22:00+00:00
 Texto:
 Aqui estêo as **principais dicas e hacks práticos** compartilhados no vídeo sobre a automaçêo de anúncios da Meta com avatar:
@@ -129,7 +129,7 @@ Aqui estêo as **principais dicas e hacks práticos** compartilhados no vídeo s
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T21:21:50+00:00
 Texto:
 ===============
@@ -137,7 +137,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T21:20:59+00:00
 Texto:
 Aqui está o **passo a passo completo da automaçêo de Scrapeador de Anúncios da Meta com geraçêo de vídeos com avatar**, usando ferramentas como **n8n / Make, OpenAI, RapidAPI, Apify, Heygen e Google Sheets**:
@@ -259,7 +259,7 @@ Aqui está o **passo a passo completo da automaçêo de Scrapeador de Anúncios 
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T21:20:28+00:00
 Texto:
 ==============
@@ -267,7 +267,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T21:20:15+00:00
 Texto:
 **Resumo do vídeo “Meta Ads Scraper com Avatar (Automaçêo Completa)” – YouTube**
@@ -326,7 +326,7 @@ Um sistema que **raspa, analisa, roteiriza, gera e publica** vídeos com base em
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T21:18:37+00:00
 Texto:
 ===============
@@ -334,7 +334,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T21:18:33+00:00
 Texto:
 **16. Scrapeador de Anúncios da Meta**
@@ -403,7 +403,7 @@ Criar uma automaçêo completa que permite:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T21:18:04+00:00
 Texto:
 **Nova Automatizaçêo: Scrapeador de Anúncios da Meta 🥷🏻🔥**  
@@ -425,7 +425,7 @@ Tudo isso **sem escrever uma única linha de código**. Tudo rodando no **piloto
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T21:17:05+00:00
 Texto:
 https://apify.com/apify/facebook-url-to-id/api
@@ -434,7 +434,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T21:16:50+00:00
 Texto:
 https://rapidapi.com/datarise-datarise-default/api/ad-libraries/playground/apiendpoint_f28bd17c-b8a2-465b-b24f-205a5db2d4bc
@@ -443,7 +443,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T21:16:24+00:00
 Texto:
 https://rapidapi.com/Chetan11dev/api/website-social-scraper-api/playground/apiendpoint_db0f592d-a669-4d84-afc0-912719d56aba
@@ -452,7 +452,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T21:16:06+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Meta_Ads.json
@@ -460,7 +460,7 @@ Midia: MessageMediaDocument -> Meta_Ads.json
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T21:15:59+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7090_017.jpg
@@ -468,7 +468,7 @@ Midia: MessageMediaPhoto -> photo_7090_017.jpg
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T21:14:30+00:00
 Texto:
 e16 - Raspador de Anuncios da Meta
@@ -476,7 +476,7 @@ e16 - Raspador de Anuncios da Meta
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T21:14:29+00:00
 Texto:
 .
@@ -484,7 +484,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T21:14:29+00:00
 Texto:
 .
@@ -492,7 +492,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T21:14:28+00:00
 Texto:
 .
@@ -500,7 +500,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T21:14:28+00:00
 Texto:
 .
@@ -508,7 +508,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T21:14:28+00:00
 Texto:
 .
@@ -516,7 +516,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T21:14:28+00:00
 Texto:
 https://chatgpt.com/c/6813deb3-cac8-8009-8803-985021eb4f82
@@ -525,7 +525,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T21:14:26+00:00
 Texto:
 1
@@ -533,7 +533,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T21:14:14+00:00
 Texto: [Sem texto]
 

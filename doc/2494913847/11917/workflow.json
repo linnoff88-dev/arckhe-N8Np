@@ -24,7 +24,7 @@
             {
               "id": "[REMOVED]",
               "name": "prompt_video",
-              "value": "=A sharp knife smoothly cuts downward through the center of a {{ $json.Texture }} {{ $json.Object }}, splitting it cleanly in half from top to bottom. Slow-motion focus on the slicing action, with glowing embers or subtle sparks as the knife passes through. High detail, cinematic lighting.",
+              "value": "=A sharp knife smoothly cuts downward through the center of a {{ $json.Texture }} {{ $json.Object }}, splitting it cleanly in half from top to bottom. Slow-motion focus on the slicing action, with glowing embers or subtle sparks as the knife passes through. High detail, cARCKHÉtic lighting.",
               "type": "string"
             },
             {

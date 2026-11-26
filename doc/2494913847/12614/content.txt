@@ -10,7 +10,7 @@ Midias baixadas: 6
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T23:52:43+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12636_001.jpg
@@ -18,7 +18,7 @@ Midia: MessageMediaPhoto -> photo_12636_001.jpg
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T23:52:03+00:00
 Texto:
 Aqui vêo alguns hacks que saem dessa sessêo inteira e ajudam a otimizar avaliações de fluxos de IA no n8n:
@@ -90,7 +90,7 @@ Aqui vêo alguns hacks que saem dessa sessêo inteira e ajudam a otimizar avalia
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T23:51:46+00:00
 Texto:
 ==================
@@ -98,7 +98,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T23:51:34+00:00
 Texto:
 ===================
@@ -106,7 +106,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T23:51:28+00:00
 Texto:
 **1ª **
@@ -142,7 +142,7 @@ Tema: **Avaliaçêo de respostas abertas em RAG usando métricas de similaridade
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T23:49:02+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12629_006.jpg
@@ -150,7 +150,7 @@ Midia: MessageMediaPhoto -> photo_12629_006.jpg
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T23:47:48+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12628_007.jpg
@@ -158,7 +158,7 @@ Midia: MessageMediaPhoto -> photo_12628_007.jpg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T23:46:20+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12627_008.jpg
@@ -166,7 +166,7 @@ Midia: MessageMediaPhoto -> photo_12627_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T23:45:10+00:00
 Texto:
 =============
@@ -174,7 +174,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T23:42:16+00:00
 Texto:
 **Avaliaçêo de Fluxos de Trabalho de IA**, dá para resumir assim:
@@ -237,7 +237,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T23:40:35+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> AI Workflow Evaluation.pdf
@@ -245,7 +245,7 @@ Midia: MessageMediaDocument -> AI Workflow Evaluation.pdf
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T23:40:20+00:00
 Texto:
 ap53 - Avaliaçêo de Fluxos de IA
@@ -253,7 +253,7 @@ ap53 - Avaliaçêo de Fluxos de IA
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T23:40:17+00:00
 Texto:
 .
@@ -261,7 +261,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T23:40:16+00:00
 Texto:
 .
@@ -269,7 +269,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T23:40:15+00:00
 Texto:
 .
@@ -277,7 +277,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T23:40:13+00:00
 Texto:
 .
@@ -285,7 +285,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T23:40:12+00:00
 Texto:
 .
@@ -293,7 +293,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T23:40:10+00:00
 Texto:
 .
@@ -301,7 +301,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T23:40:09+00:00
 Texto:
 https://chatgpt.com/c/689a7d00-a840-8332-872c-f7b380acd6d9
@@ -310,7 +310,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T23:40:06+00:00
 Texto:
 1
@@ -318,7 +318,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T23:39:58+00:00
 Texto: [Sem texto]
 

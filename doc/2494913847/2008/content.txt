@@ -13,7 +13,7 @@ MENSAGEM 1
 Autor: Carlos
 Data: 2025-11-08T17:00:29+00:00
 Texto:
-Chama a @apoioinema
+Chama a @apoioARCKHÉ
 
 ------------------------------
 
@@ -37,7 +37,7 @@ MENSAGEM 4
 Autor: Jefferson
 Data: 2025-11-07T23:40:37+00:00
 Texto:
-estou perdido nessas comunidades, tem varios grupos e cada sibgrupos, tem inema automacao, agentes e n8n, qual a diferenca? como me oriento os conteudos parecem esta misturados, desorgnaizados, alguem poderia me explicar como navegar aqui dentro?
+estou perdido nessas comunidades, tem varios grupos e cada sibgrupos, tem ARCKHÉ automacao, agentes e n8n, qual a diferenca? como me oriento os conteudos parecem esta misturados, desorgnaizados, alguem poderia me explicar como navegar aqui dentro?
 
 ------------------------------
 
@@ -56,7 +56,7 @@ Se faz sentido para você. Entre no link
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-08T03:47:30+00:00
 Texto:
 olha no tools topico vozes e tts
@@ -95,7 +95,7 @@ O manus nêo tem API. ele tem disponibilidade de conexêo com qualquer api de te
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T01:24:13+00:00
 Texto:
 foco do MCP é com o Claude
@@ -160,7 +160,7 @@ Alguém pode me ajudar como eu monto uma automaçêo que eu consiga pegar o cont
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-12T07:28:56+00:00
 Texto:
 olha la no nm60 para ver se nao é a dica q dei la hj
@@ -334,7 +334,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 37
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-24T03:13:23+00:00
 Texto:
 Conexoes
@@ -348,7 +348,7 @@ Conexao Telegram e BOT
 VPS e Instalações
 [https://t.me/c/2494913847/130](https://t.me/c/2494913847/130)
 
-INEMA TOOLS : VPS
+ARCKHÉ TOOLS : VPS
 [https://t.me/c/2446461167/246](https://t.me/c/2446461167/246)
 
 Conexao FISH.AUDIO
@@ -415,7 +415,7 @@ https://www.perplexity.ai/account/api/keys
 ------------------------------
 
 MENSAGEM 38
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T23:30:53+00:00
 Texto:
 Instalaçêo Local
@@ -426,7 +426,7 @@ https://t.me/c/2494913847/5480
 ------------------------------
 
 MENSAGEM 39
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T09:19:15+00:00
 Texto:
 https://www.upload-post.com/
@@ -435,7 +435,7 @@ api para todas redes
 ------------------------------
 
 MENSAGEM 40
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-13T03:08:39+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Whatsapp_Setup.pdf
@@ -443,7 +443,7 @@ Midia: MessageMediaDocument -> Whatsapp_Setup.pdf
 ------------------------------
 
 MENSAGEM 41
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-13T03:08:39+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Telegram Setup.pdf
@@ -451,7 +451,7 @@ Midia: MessageMediaDocument -> Telegram Setup.pdf
 ------------------------------
 
 MENSAGEM 42
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-13T03:08:39+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Youtube_Setup.pdf
@@ -459,7 +459,7 @@ Midia: MessageMediaDocument -> Youtube_Setup.pdf
 ------------------------------
 
 MENSAGEM 43
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-13T03:08:39+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> X_Twitter_Setup.pdf
@@ -467,7 +467,7 @@ Midia: MessageMediaDocument -> X_Twitter_Setup.pdf
 ------------------------------
 
 MENSAGEM 44
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-13T03:08:39+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Redis_Setup.pdf
@@ -475,7 +475,7 @@ Midia: MessageMediaDocument -> Redis_Setup.pdf
 ------------------------------
 
 MENSAGEM 45
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-03T21:39:03+00:00
 Texto:
 Se der erro tem pertencer ao grupo MAKE, aí tá ok
@@ -483,7 +483,7 @@ Se der erro tem pertencer ao grupo MAKE, aí tá ok
 ------------------------------
 
 MENSAGEM 46
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-03T21:39:02+00:00
 Texto:
 .
@@ -491,7 +491,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 47
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-03T21:39:01+00:00
 Texto:
 .
@@ -499,7 +499,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 48
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-03T21:39:00+00:00
 Texto:
 .
@@ -507,7 +507,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 49
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-03T21:38:59+00:00
 Texto:
 1
@@ -515,7 +515,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 50
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-03T21:38:54+00:00
 Texto: [Sem texto]
 

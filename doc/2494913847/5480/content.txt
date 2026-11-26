@@ -10,7 +10,7 @@ Midias baixadas: 2
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T23:29:53+00:00
 Texto:
 Transcript'].split(' ');
@@ -119,7 +119,7 @@ Transcriçêo: motivacional, concisa, menos de 20 palavras
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T23:29:53+00:00
 Texto:
 **07 - O truque de IA de $0 para produzir em massa mais de 1000 vídeos**
@@ -238,7 +238,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T23:29:27+00:00
 Texto:
 ..
@@ -246,7 +246,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T23:29:26+00:00
 Texto:
 .
@@ -254,7 +254,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T23:29:25+00:00
 Texto:
 ...
@@ -262,7 +262,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T23:29:25+00:00
 Texto:
 ..
@@ -270,7 +270,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T23:29:25+00:00
 Texto:
 ..
@@ -278,7 +278,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T23:29:25+00:00
 Texto:
 .
@@ -286,7 +286,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T23:29:25+00:00
 Texto:
 ...
@@ -294,7 +294,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T23:29:25+00:00
 Texto:
 ..
@@ -302,7 +302,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T23:29:24+00:00
 Texto:
 .
@@ -310,7 +310,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T23:29:24+00:00
 Texto:
 https://chatgpt.com/c/67f99f37-be4c-8009-8131-2817635ae753
@@ -319,7 +319,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T23:29:23+00:00
 Texto:
 1
@@ -327,7 +327,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T23:29:18+00:00
 Texto: [Sem texto]
 

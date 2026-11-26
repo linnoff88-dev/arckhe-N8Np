@@ -42,7 +42,7 @@ da para atualizar esse wordflow vi no vídeo que ele atualizou ???
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:40:16+00:00
 Texto:
 **Resumo do vídeo: "Google Gemini 2.0 Flash + Fish Audio + n8n = AI Bedtime Story On Autopilot"**
@@ -93,7 +93,7 @@ O vídeo apresenta um sistema automatizado para criaçêo de vídeos de históri
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:36:30+00:00
 Texto:
 https://www.youtube.com/watch?v=fY96Z3GUaGY
@@ -102,7 +102,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:34:52+00:00
 Texto:
 **al10 - AI Bedtime Story With Consistent Character**
@@ -170,7 +170,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:29:14+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 17_3_Google_Gemini_2_0_Flash_Fish_Audio_n8n_AI_Bedtime_Story_With.json
@@ -178,7 +178,7 @@ Midia: MessageMediaDocument -> 17_3_Google_Gemini_2_0_Flash_Fish_Audio_n8n_AI_Be
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:28:42+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_5575_009.jpg
@@ -186,7 +186,7 @@ Midia: MessageMediaPhoto -> photo_5575_009.jpg
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:27:25+00:00
 Texto:
 .**al10 - histórias de ninar de IA com caráter consistente**
@@ -194,7 +194,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:27:24+00:00
 Texto:
 .
@@ -202,7 +202,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:27:23+00:00
 Texto:
 ..
@@ -210,7 +210,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:27:23+00:00
 Texto:
 .
@@ -218,7 +218,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:27:23+00:00
 Texto:
 ..
@@ -226,7 +226,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:27:23+00:00
 Texto:
 .
@@ -234,7 +234,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:27:22+00:00
 Texto:
 .
@@ -242,7 +242,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:27:22+00:00
 Texto:
 1
@@ -250,7 +250,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-12T03:27:10+00:00
 Texto: [Sem texto]
 

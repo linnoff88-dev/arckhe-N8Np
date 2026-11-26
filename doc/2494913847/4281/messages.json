@@ -1,7 +1,7 @@
 [
   {
     "id": 4299,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-30T05:00:45+00:00",
     "text": "o google tambem tem ser chave de auth 2.0 e nao de api",
     "has_media": false,
@@ -9,7 +9,7 @@
   },
   {
     "id": 4298,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-30T05:00:20+00:00",
     "text": "===============",
     "has_media": false,
@@ -17,7 +17,7 @@
   },
   {
     "id": 4297,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-30T05:00:03+00:00",
     "text": "tem varios formatos de chave.",
     "has_media": false,
@@ -25,7 +25,7 @@
   },
   {
     "id": 4296,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-30T04:59:52+00:00",
     "text": "voce tem permmitr gravar alem de so leitura",
     "has_media": false,
@@ -33,7 +33,7 @@
   },
   {
     "id": 4295,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-30T04:59:41+00:00",
     "text": "https://developer.twitter.com/en/portal/projects/1906205423687872512/apps/30480201/auth-settings",
     "has_media": false,
@@ -41,7 +41,7 @@
   },
   {
     "id": 4294,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-30T04:59:19+00:00",
     "text": "**Here is your OAuth 2.0 Client ID and Client Secret**\n**For security, this will be the last time we'll fully display the Secret.**\nSave it in a secure location\nTreat it like a password or a set of keys\nIf security has been compromised, regenerate it\nDO NOT store it in public places or shared docs\n\n**Client ID**\n\nxxxxxxxxxxxxxxxxxxxxx\n\n**Client Secret**\n\n\nxxxxxxxxxxxxxxxxxxxxxx",
     "has_media": false,
@@ -49,7 +49,7 @@
   },
   {
     "id": 4293,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-30T04:58:10+00:00",
     "text": "{{ new Date(new Date().getTime() - 30 * 60000).toISOString() }}\n\npega a cada 30 minutos as ultimas publicacoes",
     "has_media": false,
@@ -57,7 +57,7 @@
   },
   {
     "id": 4292,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-30T04:04:01+00:00",
     "text": "https://developer.x.com/en/docs/x-api",
     "has_media": true,
@@ -65,7 +65,7 @@
   },
   {
     "id": 4291,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-30T04:03:36+00:00",
     "text": "mw12",
     "has_media": true,
@@ -74,7 +74,7 @@
   },
   {
     "id": 4290,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-30T04:03:25+00:00",
     "text": "",
     "has_media": true,
@@ -83,7 +83,7 @@
   },
   {
     "id": 4289,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-30T03:59:52+00:00",
     "text": "mw12 - Post Videos Youtube no X",
     "has_media": false,
@@ -91,7 +91,7 @@
   },
   {
     "id": 4288,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-30T03:59:49+00:00",
     "text": "..",
     "has_media": false,
@@ -99,7 +99,7 @@
   },
   {
     "id": 4287,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-30T03:59:48+00:00",
     "text": ".",
     "has_media": false,
@@ -107,7 +107,7 @@
   },
   {
     "id": 4286,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-30T03:59:48+00:00",
     "text": ".",
     "has_media": false,
@@ -115,7 +115,7 @@
   },
   {
     "id": 4285,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-30T03:59:48+00:00",
     "text": ".",
     "has_media": false,
@@ -123,7 +123,7 @@
   },
   {
     "id": 4284,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-30T03:59:46+00:00",
     "text": ".",
     "has_media": false,
@@ -131,7 +131,7 @@
   },
   {
     "id": 4283,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-30T03:59:46+00:00",
     "text": "https://chatgpt.com/c/67e8c6dc-f918-8009-8011-75f5ef7e667a",
     "has_media": true,
@@ -139,7 +139,7 @@
   },
   {
     "id": 4282,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-30T03:59:45+00:00",
     "text": "1",
     "has_media": false,
@@ -147,7 +147,7 @@
   },
   {
     "id": 4281,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-30T03:59:41+00:00",
     "text": "",
     "has_media": false,

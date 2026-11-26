@@ -10,7 +10,7 @@ Midias baixadas: 5
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T21:15:06+00:00
 Texto:
 ============
@@ -18,7 +18,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T21:15:01+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 🔥 Competition 1.json
@@ -26,7 +26,7 @@ Midia: MessageMediaDocument -> 🔥 Competition 1.json
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T21:15:01+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 🧊 Competition 2.json
@@ -34,7 +34,7 @@ Midia: MessageMediaDocument -> 🧊 Competition 2.json
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T21:14:41+00:00
 Texto:
 Jack
@@ -43,7 +43,7 @@ Midia: MessageMediaPhoto -> photo_14086_004.jpg
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T03:18:28+00:00
 Texto:
 https://www.youtube.com/watch?v=ULXFSHNquZk
@@ -52,7 +52,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T03:18:12+00:00
 Texto:
 Título: Build an AI Agent, Win \$10,000 \[Agentic Arena]
@@ -115,7 +115,7 @@ O vídeo mostra a primeira competiçêo mundial em formato de “game show” en
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T03:18:03+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14075_007.jpg
@@ -123,7 +123,7 @@ Midia: MessageMediaPhoto -> photo_14075_007.jpg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T03:17:09+00:00
 Texto:
 Nate x Jack - Arena N8N
@@ -131,7 +131,7 @@ Nate x Jack - Arena N8N
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T03:17:07+00:00
 Texto:
 ..
@@ -139,7 +139,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T03:17:07+00:00
 Texto:
 .
@@ -147,7 +147,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T03:17:07+00:00
 Texto:
 .
@@ -155,7 +155,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T03:17:07+00:00
 Texto:
 .
@@ -163,7 +163,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T03:17:06+00:00
 Texto:
 .
@@ -171,7 +171,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T03:17:06+00:00
 Texto:
 1
@@ -179,7 +179,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T03:17:01+00:00
 Texto: [Sem texto]
 

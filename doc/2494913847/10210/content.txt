@@ -10,7 +10,7 @@ Midias baixadas: 5
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T04:19:56+00:00
 Texto:
 https://github.com/n8n-io/self-hosted-ai-starter-kit
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T04:11:32+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10226_002.jpg
@@ -27,7 +27,7 @@ Midia: MessageMediaPhoto -> photo_10226_002.jpg
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T04:10:32+00:00
 Texto:
 https://www.youtube.com/watch?v=F1psr8uFwUU
@@ -36,7 +36,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T04:09:53+00:00
 Texto:
 =====
@@ -44,7 +44,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T04:09:49+00:00
 Texto:
 Aqui estêo **hacks e dicas úteis** para otimizar seu uso do n8n com agentes de IA rodando localmente via Docker, com base no conteúdo apresentado:
@@ -138,7 +138,7 @@ Aqui estêo **hacks e dicas úteis** para otimizar seu uso do n8n com agentes de
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T04:08:44+00:00
 Texto:
 ===================
@@ -146,7 +146,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T04:08:38+00:00
 Texto:
 Segue o **passo a passo completo** para rodar agentes de IA no n8n localmente e gratuitamente, usando Docker e o *Self-Hosted AI Starter Kit*:
@@ -270,7 +270,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T04:07:42+00:00
 Texto:
 ===================
@@ -278,7 +278,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T04:07:23+00:00
 Texto:
 Resumo completo:
@@ -340,7 +340,7 @@ O conteúdo ensina como executar agentes de IA no *n8n* de forma totalmente grat
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T04:06:27+00:00
 Texto:
 VPS-Local1 - Docker Desktop
@@ -348,7 +348,7 @@ VPS-Local1 - Docker Desktop
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T04:06:26+00:00
 Texto:
 .
@@ -356,7 +356,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T04:06:25+00:00
 Texto:
 .
@@ -364,7 +364,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T04:06:25+00:00
 Texto:
 .
@@ -372,7 +372,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T04:06:25+00:00
 Texto:
 .
@@ -380,7 +380,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T04:06:24+00:00
 Texto:
 .
@@ -388,7 +388,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T04:06:24+00:00
 Texto:
 https://chatgpt.com/c/68562f63-e5e8-8009-9ed0-5c66064527b9
@@ -397,7 +397,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T04:06:24+00:00
 Texto:
 1
@@ -405,7 +405,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T04:06:16+00:00
 Texto: [Sem texto]
 

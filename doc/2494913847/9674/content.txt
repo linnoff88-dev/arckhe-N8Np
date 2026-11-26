@@ -18,7 +18,7 @@ Blz
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T03:20:51+00:00
 Texto:
 dublado
@@ -26,7 +26,7 @@ dublado
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T03:20:46+00:00
 Texto:
 https://www.youtube.com/watch?v=HtOj_C5E6RM
@@ -35,7 +35,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T03:20:29+00:00
 Texto:
 Você **nêo deve usar o Google Drive para armazenar imagens no fluxo de postagem automática com n8n** por alguns **motivos técnicos e práticos**:
@@ -81,7 +81,7 @@ h```ttps://abc.supabase.co/storage/v1/object/public/ai-images/banner1.png
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T03:20:07+00:00
 Texto:
 ========
@@ -89,7 +89,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T03:19:10+00:00
 Texto:
 Aqui está o **passo a passo completo** para criar um sistema que gera imagens com **OpenAI 4o**, armazena no **Supabase** e publica automaticamente no **Instagram e Threads** usando **n8n** – sem programaçêo:
@@ -218,7 +218,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T03:18:06+00:00
 Texto:
 **Resumo  “OpenAI 4o Image Generation: Criaçêo e Publicaçêo Automática de Imagens de Anime, Quadrinhos e Anúncios”**
@@ -281,7 +281,7 @@ Como gerar imagens com o **OpenAI 4o** (personagens animados, quadrinhos e anún
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T03:15:47+00:00
 Texto:
 =======
@@ -289,7 +289,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T03:15:43+00:00
 Texto:
 Dica
@@ -313,7 +313,7 @@ Aqui está um guia passo a passo para fazer isso:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T03:15:26+00:00
 Texto:
 ===========
@@ -321,7 +321,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T03:15:10+00:00
 Texto:
 Geraçêo de Imagens OpenAI 4o: 
@@ -336,7 +336,7 @@ Sistema de Agente de IA que usa o OpenAI 4o Image Generation para criar personag
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T03:13:42+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 18.2 Prompts and Images .docx
@@ -344,7 +344,7 @@ Midia: MessageMediaDocument -> 18.2 Prompts and Images .docx
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T03:13:42+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 18.2 Image Management.xlsx
@@ -352,7 +352,7 @@ Midia: MessageMediaDocument -> 18.2 Image Management.xlsx
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T03:13:32+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 18_2___Instagram&Threads_Upload.json
@@ -360,7 +360,7 @@ Midia: MessageMediaDocument -> 18_2___Instagram&Threads_Upload.json
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T03:13:18+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9682_015.jpg
@@ -368,7 +368,7 @@ Midia: MessageMediaPhoto -> photo_9682_015.jpg
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T03:13:16+00:00
 Texto:
 al31 - IMG4 Post Instagram
@@ -376,7 +376,7 @@ al31 - IMG4 Post Instagram
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T03:13:03+00:00
 Texto:
 .
@@ -384,7 +384,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T03:13:03+00:00
 Texto:
 ..
@@ -392,7 +392,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T03:13:03+00:00
 Texto:
 .
@@ -400,7 +400,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T03:13:02+00:00
 Texto:
 .
@@ -408,7 +408,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T03:13:02+00:00
 Texto:
 https://chatgpt.com/c/684e36c4-c1b0-8009-a078-2bfb04f699dd
@@ -417,7 +417,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T03:13:02+00:00
 Texto:
 1
@@ -425,7 +425,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T03:12:55+00:00
 Texto: [Sem texto]
 

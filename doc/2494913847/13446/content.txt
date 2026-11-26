@@ -10,7 +10,7 @@ Midias baixadas: 2
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-28T01:47:41+00:00
 Texto:
 ### Hacks para prompts
@@ -60,7 +60,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-28T01:47:04+00:00
 Texto:
 =========
@@ -68,7 +68,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-28T01:47:01+00:00
 Texto:
 ### O que foi testado
@@ -143,7 +143,7 @@ O criador colocou à prova o novo **Construtor Nativo de IA do n8n** (AI Builder
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-28T01:46:14+00:00
 Texto:
 Mark Testou na prática o NOVO Construtor Nativo de IA do n8n para Agentes de IA
@@ -157,7 +157,7 @@ E sim, usei o novo modelo Google Banana para criar meu traje no n8n — bem esti
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-28T01:45:22+00:00
 Texto:
 dublado
@@ -165,7 +165,7 @@ dublado
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-28T01:45:19+00:00
 Texto:
 https://www.youtube.com/watch?v=3K9NDI3hKaw
@@ -174,7 +174,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-28T01:45:05+00:00
 Texto:
 m33 - Criando N8N Vibe Code Nativo - Builder
@@ -182,7 +182,7 @@ m33 - Criando N8N Vibe Code Nativo - Builder
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-28T01:45:02+00:00
 Texto:
 .
@@ -190,7 +190,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-28T01:45:02+00:00
 Texto:
 .
@@ -198,7 +198,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-28T01:45:01+00:00
 Texto:
 .
@@ -206,7 +206,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-28T01:45:01+00:00
 Texto:
 .
@@ -214,7 +214,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-28T01:45:00+00:00
 Texto:
 .
@@ -222,7 +222,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-28T01:44:59+00:00
 Texto:
 .
@@ -230,7 +230,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-28T01:44:59+00:00
 Texto:
 https://chatgpt.com/c/68afb305-3d80-832a-8969-a28c0b0fd34f
@@ -239,7 +239,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-28T01:44:58+00:00
 Texto:
 1
@@ -247,7 +247,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-28T01:44:53+00:00
 Texto: [Sem texto]
 

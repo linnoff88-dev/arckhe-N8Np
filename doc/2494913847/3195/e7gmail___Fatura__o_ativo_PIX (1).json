@@ -75,7 +75,7 @@
     },
     {
       "parameters": {
-        "jsonSchemaExample": "{\n  \"titulo\": \"Mensal/Anual\",\n  \"tipo\": \"cartêo/PIX/outros\",\n  \"valor\": \"100,00\",\n  \"transacao\": {\n    \"data_pgto\": {\n      \"valor\": \"2025-05-20\",\n      \"formato\": \"YYYY-MM-DD\"\n    },\n    \"horario\": \"23h50\",\n    \"id_transacao\": \"E00416968202505110250y5d7pOXZMCo\"\n  },\n  \"destino\": {\n    \"nome\": \"Inema Tds LTDA\",\n    \"cpf_cnpj\": \"56.626.676/0001-31\",\n    \"instituicao\": \"Nu Pagamentos Ip\"\n\n  },\n  \"pagante\": {\n    \"nome\": \"JORGE MATZ\",\n    \"cpf_cnpj\": \"##*999.744-**\",\n    \"instituicao\": \"Banco Inter S.A.\"\n\n  }\n}\n"
+        "jsonSchemaExample": "{\n  \"titulo\": \"Mensal/Anual\",\n  \"tipo\": \"cartêo/PIX/outros\",\n  \"valor\": \"100,00\",\n  \"transacao\": {\n    \"data_pgto\": {\n      \"valor\": \"2025-05-20\",\n      \"formato\": \"YYYY-MM-DD\"\n    },\n    \"horario\": \"23h50\",\n    \"id_transacao\": \"E00416968202505110250y5d7pOXZMCo\"\n  },\n  \"destino\": {\n    \"nome\": \"ARCKHÉ Tds LTDA\",\n    \"cpf_cnpj\": \"56.626.676/0001-31\",\n    \"instituicao\": \"Nu Pagamentos Ip\"\n\n  },\n  \"pagante\": {\n    \"nome\": \"JORGE MATZ\",\n    \"cpf_cnpj\": \"##*999.744-**\",\n    \"instituicao\": \"Banco Inter S.A.\"\n\n  }\n}\n"
       },
       "type": "@n8n/n8n-nodes-langchain.outputParserStructured",
       "typeVersion": 1.2,
@@ -98,7 +98,7 @@
             },
             {
               "type": "HumanMessagePromptTemplate",
-              "message": "=\nVocê é um assistente especialista em leitura e extraçêo de dados de comprovantes bancários brasileiros (pagamentos por PIX, cartêo ou outros).\n\nSua tarefa é analisar o texto de um comprovante bancário fornecido (pode ser convertido de imagem, PDF ou texto plano) e retornar **apenas um JSON** com as informações detalhadas abaixo, com precisêo total e sem explicações adicionais.\n\n---\n\n### INSTRUÇÕES DE EXTRAÇêO:\n\n1. Extraia e estruture os seguintes campos obrigatórios:\n\n```json\n{\n  \"titulo\": \"Mensal/Anual\", // ou outro título relevante do pagamento, se identificado\n  \"tipo\": \"cartêo/PIX/outros\", // tipo do pagamento identificado no comprovante\n  \"valor\": \"100,00\", // valor da transaçêo, no formato com vírgula (ex: \"250,90\")\n  \"transacao\": {\n    \"data_pgto\": {\n      \"valor\": \"2025-05-20\", // formato obrigatório: \"YYYY-MM-DD\"\n      \"formato\": \"YYYY-MM-DD\"\n    },\n    \"horario\": \"23h50\", // horário no formato \"HHhMM\"\n    \"id_transacao\": \"E00416968202505110250y5d7pOXZMCo\" // código único da transaçêo\n  },\n  \"destino\": {\n    \"nome\": \"Inema Tds LTDA\", // nome do recebedor\n    \"cpf_cnpj\": \"56.626.676/0001-31\", // CPF ou CNPJ do recebedor\n    \"instituicao\": \"Nu Pagamentos Ip\" // banco ou instituiçêo financeira do recebedor\n  },\n  \"pagante\": {\n    \"nome\": \"JORGE MATZ\", // nome do pagador\n    \"cpf_cnpj\": \"999.744.999-99\", // CPF ou CNPJ do pagador (pode estar mascarado)\n    \"instituicao\": \"Banco Inter S.A.\" // banco ou instituiçêo do pagador\n  }\n}\n```\n\n---\n\n### REGRAS DE FORMATAÇêO:\n\n* O campo **valor** deve conter **vírgula como separador decimal** (ex: \"500,00\").\n* A **data de pagamento** deve estar obrigatoriamente no formato `\"YYYY-MM-DD\"`.\n* O **horário** deve ser extraído como texto no formato `\"HHhMM\"` (ex: \"15h27\").\n* O campo **tipo** deve conter exatamente o nome do meio de pagamento: `PIX`, `cartêo`, `TED`, `boleto`, etc.\n* O campo **titulo** deve vir do contexto ou nome do pagamento (mensalidade, anuidade, etc.). Se nêo houver, use `\"-\"`.\n\n---\n\n### OUTRAS DIRETRIZES:\n\n* Se algum campo estiver ausente, preencha com `\"null\"` (como string) ou `\"--\"` onde for apropriado.\n* O campo `cpf_cnpj` pode estar mascarado parcialmente. Retorne exatamente como estiver no comprovante.\n* Nêo traduza, explique ou adicione texto fora do JSON.\n\n---\n\n### EXEMPLO DE SAÍDA (somente para referência):\n\n```json\n{\n  \"titulo\": \"Assinatura Pro\",\n  \"tipo\": \"PIX\",\n  \"valor\": \"100,00\",\n  \"transacao\": {\n    \"data_pgto\": {\n      \"valor\": \"2025-05-20\",\n      \"formato\": \"YYYY-MM-DD\"\n    },\n    \"horario\": \"23h50\",\n    \"id_transacao\": \"E00416968202505110250y5d7pOXZMCo\"\n  },\n  \"destino\": {\n    \"nome\": \"Inema Tds LTDA\",\n    \"cpf_cnpj\": \"56.626.676/0001-31\",\n    \"instituicao\": \"Nu Pagamentos Ip\"\n  },\n  \"pagante\": {\n    \"nome\": \"JORGE MATZ\",\n    \"cpf_cnpj\": \"##*999.744-**\",\n    \"instituicao\": \"Banco Inter S.A.\"\n  }\n}\n```\n\n\n\n"
+              "message": "=\nVocê é um assistente especialista em leitura e extraçêo de dados de comprovantes bancários brasileiros (pagamentos por PIX, cartêo ou outros).\n\nSua tarefa é analisar o texto de um comprovante bancário fornecido (pode ser convertido de imagem, PDF ou texto plano) e retornar **apenas um JSON** com as informações detalhadas abaixo, com precisêo total e sem explicações adicionais.\n\n---\n\n### INSTRUÇÕES DE EXTRAÇêO:\n\n1. Extraia e estruture os seguintes campos obrigatórios:\n\n```json\n{\n  \"titulo\": \"Mensal/Anual\", // ou outro título relevante do pagamento, se identificado\n  \"tipo\": \"cartêo/PIX/outros\", // tipo do pagamento identificado no comprovante\n  \"valor\": \"100,00\", // valor da transaçêo, no formato com vírgula (ex: \"250,90\")\n  \"transacao\": {\n    \"data_pgto\": {\n      \"valor\": \"2025-05-20\", // formato obrigatório: \"YYYY-MM-DD\"\n      \"formato\": \"YYYY-MM-DD\"\n    },\n    \"horario\": \"23h50\", // horário no formato \"HHhMM\"\n    \"id_transacao\": \"E00416968202505110250y5d7pOXZMCo\" // código único da transaçêo\n  },\n  \"destino\": {\n    \"nome\": \"ARCKHÉ Tds LTDA\", // nome do recebedor\n    \"cpf_cnpj\": \"56.626.676/0001-31\", // CPF ou CNPJ do recebedor\n    \"instituicao\": \"Nu Pagamentos Ip\" // banco ou instituiçêo financeira do recebedor\n  },\n  \"pagante\": {\n    \"nome\": \"JORGE MATZ\", // nome do pagador\n    \"cpf_cnpj\": \"999.744.999-99\", // CPF ou CNPJ do pagador (pode estar mascarado)\n    \"instituicao\": \"Banco Inter S.A.\" // banco ou instituiçêo do pagador\n  }\n}\n```\n\n---\n\n### REGRAS DE FORMATAÇêO:\n\n* O campo **valor** deve conter **vírgula como separador decimal** (ex: \"500,00\").\n* A **data de pagamento** deve estar obrigatoriamente no formato `\"YYYY-MM-DD\"`.\n* O **horário** deve ser extraído como texto no formato `\"HHhMM\"` (ex: \"15h27\").\n* O campo **tipo** deve conter exatamente o nome do meio de pagamento: `PIX`, `cartêo`, `TED`, `boleto`, etc.\n* O campo **titulo** deve vir do contexto ou nome do pagamento (mensalidade, anuidade, etc.). Se nêo houver, use `\"-\"`.\n\n---\n\n### OUTRAS DIRETRIZES:\n\n* Se algum campo estiver ausente, preencha com `\"null\"` (como string) ou `\"--\"` onde for apropriado.\n* O campo `cpf_cnpj` pode estar mascarado parcialmente. Retorne exatamente como estiver no comprovante.\n* Nêo traduza, explique ou adicione texto fora do JSON.\n\n---\n\n### EXEMPLO DE SAÍDA (somente para referência):\n\n```json\n{\n  \"titulo\": \"Assinatura Pro\",\n  \"tipo\": \"PIX\",\n  \"valor\": \"100,00\",\n  \"transacao\": {\n    \"data_pgto\": {\n      \"valor\": \"2025-05-20\",\n      \"formato\": \"YYYY-MM-DD\"\n    },\n    \"horario\": \"23h50\",\n    \"id_transacao\": \"E00416968202505110250y5d7pOXZMCo\"\n  },\n  \"destino\": {\n    \"nome\": \"ARCKHÉ Tds LTDA\",\n    \"cpf_cnpj\": \"56.626.676/0001-31\",\n    \"instituicao\": \"Nu Pagamentos Ip\"\n  },\n  \"pagante\": {\n    \"nome\": \"JORGE MATZ\",\n    \"cpf_cnpj\": \"##*999.744-**\",\n    \"instituicao\": \"Banco Inter S.A.\"\n  }\n}\n```\n\n\n\n"
             }
           ]
         }
@@ -490,7 +490,7 @@
       "credentials": {
         "googleSheetsOAuth2Api": {
           "id": "[REMOVED]",
-          "name": "Google Sheets account INEMATDS"
+          "name": "Google Sheets account linnoff88-dev"
         }
       }
     },
@@ -844,7 +844,7 @@
       "credentials": {
         "googleSheetsOAuth2Api": {
           "id": "[REMOVED]",
-          "name": "Google Sheets account INEMATDS"
+          "name": "Google Sheets account linnoff88-dev"
         }
       }
     },
@@ -999,7 +999,7 @@
       "credentials": {
         "googleSheetsOAuth2Api": {
           "id": "[REMOVED]",
-          "name": "Google Sheets account INEMATDS"
+          "name": "Google Sheets account linnoff88-dev"
         }
       }
     },
@@ -1163,7 +1163,7 @@
                   {
                     "id": "[REMOVED]",
                     "leftValue": "={{ $json.from.value[0].address }}",
-                    "rightValue": "inema.vip@gmail.com",
+                    "rightValue": "ARCKHÉ.vip@gmail.com",
                     "operator": {
                       "type": "string",
                       "operation": "equals",
@@ -1174,7 +1174,7 @@
                 "combinator": "and"
               },
               "renameOutput": true,
-              "outputKey": "INEMAVIP"
+              "outputKey": "ARCKHÉVIP"
             },
             {
               "conditions": {
@@ -1188,7 +1188,7 @@
                   {
                     "id": "[REMOVED]",
                     "leftValue": "={{ $json.from.value[0].address }}",
-                    "rightValue": "inemapix@gmail.com",
+                    "rightValue": "ARCKHÉpix@gmail.com",
                     "operator": {
                       "type": "string",
                       "operation": "equals",
@@ -1199,7 +1199,7 @@
                 "combinator": "and"
               },
               "renameOutput": true,
-              "outputKey": "INEMAPIX"
+              "outputKey": "ARCKHÉPIX"
             },
             {
               "conditions": {
@@ -1336,7 +1336,7 @@
             "data_pagamento": "={{ $json.output.data }}",
             "horario": "={{ $json.output.horario }}",
             "id_transacao": "={{ $json.output.id_transferencia }}",
-            "destino_nome": "inema.vip",
+            "destino_nome": "ARCKHÉ.vip",
             "pagante_nome": "={{ $json.output.nome }}",
             "id": "[REMOVED]",
             "dtReg": "={{ $json.data_atual }} - {{ $json.hora_atual }}"
@@ -1527,7 +1527,7 @@
       "credentials": {
         "googleSheetsOAuth2Api": {
           "id": "[REMOVED]",
-          "name": "Google Sheets account INEMATDS"
+          "name": "Google Sheets account linnoff88-dev"
         }
       }
     },
@@ -1660,7 +1660,7 @@
       "credentials": {
         "googleSheetsOAuth2Api": {
           "id": "[REMOVED]",
-          "name": "Google Sheets account INEMATDS"
+          "name": "Google Sheets account linnoff88-dev"
         }
       }
     },
@@ -1904,7 +1904,7 @@
       "credentials": {
         "googleSheetsOAuth2Api": {
           "id": "[REMOVED]",
-          "name": "Google Sheets account INEMATDS"
+          "name": "Google Sheets account linnoff88-dev"
         }
       }
     },
@@ -2183,7 +2183,7 @@
       "credentials": {
         "googleSheetsOAuth2Api": {
           "id": "[REMOVED]",
-          "name": "Google Sheets account INEMATDS"
+          "name": "Google Sheets account linnoff88-dev"
         }
       }
     },
@@ -2246,7 +2246,7 @@
       "credentials": {
         "googleSheetsOAuth2Api": {
           "id": "[REMOVED]",
-          "name": "Google Sheets account INEMATDS"
+          "name": "Google Sheets account linnoff88-dev"
         }
       }
     },
@@ -2511,7 +2511,7 @@
       "credentials": {
         "googleSheetsOAuth2Api": {
           "id": "[REMOVED]",
-          "name": "Google Sheets account INEMATDS"
+          "name": "Google Sheets account linnoff88-dev"
         }
       }
     }

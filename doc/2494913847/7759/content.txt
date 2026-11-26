@@ -10,7 +10,7 @@ Midias baixadas: 4
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-16T19:25:55+00:00
 Texto:
 https://www.youtube.com/watch?v=gZ_RLC25gCw
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-16T19:12:33+00:00
 Texto:
 Aqui estêo os **principais hacks e truques**  para automatizar raspagem de dados com **Apify + n8n**, mesmo sem saber programar:
@@ -90,7 +90,7 @@ Aqui estêo os **principais hacks e truques**  para automatizar raspagem de dado
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-16T19:11:10+00:00
 Texto:
 ============
@@ -98,7 +98,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-16T19:11:02+00:00
 Texto:
 **Resumo do vídeo: "A maneira mais simples de automatizar a raspagem de qualquer coisa sem código (Apify + n8n)"**
@@ -148,7 +148,7 @@ Essa combinaçêo de Apify + n8n é ideal para quem quer automatizar scraping e 
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-16T19:10:22+00:00
 Texto:
 ================
@@ -156,7 +156,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-16T19:08:40+00:00
 Texto:
 A maneira mais simples de automatizar a raspagem de qualquer coisa sem código (tutorial Apify + n8n)
@@ -170,7 +170,7 @@ Seja você empresário, profissional de marketing ou apenas explorando ferrament
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-16T19:06:26+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Apify.json
@@ -178,7 +178,7 @@ Midia: MessageMediaDocument -> Apify.json
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-16T19:06:10+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7769_008.jpg
@@ -186,7 +186,7 @@ Midia: MessageMediaPhoto -> photo_7769_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-16T19:04:54+00:00
 Texto:
 ap24 - Raspagem com Apify
@@ -194,7 +194,7 @@ ap24 - Raspagem com Apify
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-16T19:04:43+00:00
 Texto:
 .
@@ -202,7 +202,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-16T19:04:43+00:00
 Texto:
 ...
@@ -210,7 +210,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-16T19:04:43+00:00
 Texto:
 ..
@@ -218,7 +218,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-16T19:04:43+00:00
 Texto:
 .
@@ -226,7 +226,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-16T19:04:42+00:00
 Texto:
 .
@@ -234,7 +234,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-16T19:04:42+00:00
 Texto:
 https://chatgpt.com/c/68278d18-95d8-8009-bc6b-f5edda29fd0a
@@ -243,7 +243,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-16T19:04:42+00:00
 Texto:
 1
@@ -251,7 +251,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-16T19:04:38+00:00
 Texto: [Sem texto]
 

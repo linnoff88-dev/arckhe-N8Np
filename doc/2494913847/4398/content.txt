@@ -13,7 +13,7 @@ MENSAGEM 1
 Autor: Mike
 Data: 2025-03-31T16:26:27+00:00
 Texto:
-@INEMAtds esses arquivos que ele usou no vídeo pra treinar o claude com esse monte de referência ele disponibilizou também?
+@linnoff88-dev esses arquivos que ele usou no vídeo pra treinar o claude com esse monte de referência ele disponibilizou também?
 
 ------------------------------
 
@@ -42,7 +42,7 @@ Nossa incrível, vou testar
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T09:34:57+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Novo Documento de Texto.txt
@@ -50,7 +50,7 @@ Midia: MessageMediaDocument -> Novo Documento de Texto.txt
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T09:34:57+00:00
 Texto:
 3 exemplos para colocar junto no projeto
@@ -59,7 +59,7 @@ Midia: MessageMediaDocument -> Novo Documento de Texto (2).txt
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T09:34:57+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Novo Documento de Texto (3).txt
@@ -67,7 +67,7 @@ Midia: MessageMediaDocument -> Novo Documento de Texto (3).txt
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T09:34:15+00:00
 Texto:
 e bom colocar arquivos de exemplo q voce pode baixar do https://n8n.io/workflows/
@@ -76,7 +76,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T08:29:36+00:00
 Texto:
 os 3 arquivos estao anexo
@@ -84,7 +84,7 @@ os 3 arquivos estao anexo
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T08:29:10+00:00
 Texto:
 ### **PASSO A PASSO – Criar o Projeto no Claude para gerar fluxos no n8n**
@@ -149,7 +149,7 @@ Saída final: apenas JSON, sem texto adicional, pronto para colar no n8n.```
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T08:26:40+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Instructions for Claude Project.pdf
@@ -157,7 +157,7 @@ Midia: MessageMediaDocument -> Instructions for Claude Project.pdf
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T08:26:40+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> n8n Cheat Sheet Guide.pdf
@@ -165,7 +165,7 @@ Midia: MessageMediaDocument -> n8n Cheat Sheet Guide.pdf
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T08:26:40+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> n8n_Tips_and_Tricks.txt
@@ -173,7 +173,7 @@ Midia: MessageMediaDocument -> n8n_Tips_and_Tricks.txt
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T08:26:40+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Python Code (just enter API key).ipynb
@@ -181,7 +181,7 @@ Midia: MessageMediaDocument -> Python Code (just enter API key).ipynb
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T07:48:21+00:00
 Texto:
 https://www.youtube.com/watch?v=JM0y9JKopc0
@@ -190,7 +190,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T07:47:42+00:00
 Texto:
 **Resumo completo e estruturado do vídeo: "Como usar Claude para construir e replicar INSTANTANEAMENTE qualquer agente n8n"**
@@ -262,7 +262,7 @@ O vídeo ensina como usar o **Claude 3.7** para **criar e replicar fluxos de tra
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T07:46:53+00:00
 Texto:
 ============
@@ -270,7 +270,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T07:46:20+00:00
 Texto:
 **Projeto Claude para Fluxo de Trabalho no n8n 🤖**
@@ -309,7 +309,7 @@ Use este guia para converter ideias geradas pelo Claude em fluxos de trabalho av
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T07:44:15+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> n8n_JSON_Parser_Packages_(Public) (2).pdf
@@ -317,7 +317,7 @@ Midia: MessageMediaDocument -> n8n_JSON_Parser_Packages_(Public) (2).pdf
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T07:44:15+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> n8n_JSON_Parser_Packages_(Public) (1).pdf
@@ -325,7 +325,7 @@ Midia: MessageMediaDocument -> n8n_JSON_Parser_Packages_(Public) (1).pdf
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T07:44:15+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> n8n_JSON_Parser_Packages_(Public) (1).txt
@@ -333,7 +333,7 @@ Midia: MessageMediaDocument -> n8n_JSON_Parser_Packages_(Public) (1).txt
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T07:44:15+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> n8n_JSON_Parser_Packages_(Public) (1).ipynb
@@ -341,7 +341,7 @@ Midia: MessageMediaDocument -> n8n_JSON_Parser_Packages_(Public) (1).ipynb
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T07:43:38+00:00
 Texto:
 Passo a Passo
@@ -350,7 +350,7 @@ Midia: MessageMediaDocument -> ascreenshot (6).zip
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T07:13:09+00:00
 Texto:
 O projeto ensina como usar o **Claude 3.7** para **criar ou replicar fluxos de automaçêo no n8n** a partir de **prompts de texto ou capturas de tela**, gerando **JSONs prontos para uso**, com **explicações automáticas (sticky notes)** e baseando-se em uma biblioteca de exemplos e guias de referência.
@@ -358,7 +358,7 @@ O projeto ensina como usar o **Claude 3.7** para **criar ou replicar fluxos de a
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T07:13:09+00:00
 Texto:
 .
@@ -366,7 +366,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T07:13:02+00:00
 Texto:
 mrg11 - Projeto Claude Fluxo de Trabalho no n8n
@@ -374,7 +374,7 @@ mrg11 - Projeto Claude Fluxo de Trabalho no n8n
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T07:13:00+00:00
 Texto:
 .
@@ -382,7 +382,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T07:12:59+00:00
 Texto:
 .
@@ -390,7 +390,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T07:12:59+00:00
 Texto:
 .
@@ -398,7 +398,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T07:12:59+00:00
 Texto:
 .
@@ -406,7 +406,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T07:12:59+00:00
 Texto:
 .
@@ -414,7 +414,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 32
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T07:12:58+00:00
 Texto:
 .
@@ -422,7 +422,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 33
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T07:12:58+00:00
 Texto:
 https://chatgpt.com/c/67ea3d44-5364-8009-8287-27f665000fa2
@@ -431,7 +431,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 34
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T07:12:58+00:00
 Texto:
 1
@@ -439,7 +439,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 35
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T07:12:47+00:00
 Texto: [Sem texto]
 

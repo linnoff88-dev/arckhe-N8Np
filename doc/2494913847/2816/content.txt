@@ -10,7 +10,7 @@ Midias baixadas: 2
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:47:04+00:00
 Texto:
 Aula 1
@@ -87,7 +87,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:46:04+00:00
 Texto:
 ec1n8 - Curso Zero a Heroi N8N
@@ -95,7 +95,7 @@ ec1n8 - Curso Zero a Heroi N8N
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:45:59+00:00
 Texto:
 .
@@ -103,7 +103,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:45:58+00:00
 Texto:
 .
@@ -111,7 +111,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:45:58+00:00
 Texto:
 .
@@ -119,7 +119,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:45:57+00:00
 Texto:
 .
@@ -127,7 +127,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:45:56+00:00
 Texto:
 ..
@@ -135,7 +135,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:45:56+00:00
 Texto:
 Curso em Espanol, mas veja se nao tem Disponivel a Dublagem em Portugues
@@ -143,7 +143,7 @@ Curso em Espanol, mas veja se nao tem Disponivel a Dublagem em Portugues
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:45:56+00:00
 Texto:
 https://chatgpt.com/c/67781811-6c78-8009-a19a-8b572bbb2c6d
@@ -152,7 +152,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:45:55+00:00
 Texto:
 1
@@ -160,7 +160,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T21:45:41+00:00
 Texto: [Sem texto]
 

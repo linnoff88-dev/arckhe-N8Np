@@ -10,7 +10,7 @@ Midias baixadas: 21
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T05:32:49+00:00
 Texto:
 .ap73 - Agentes de VOZ - VAPI
@@ -19,7 +19,7 @@ https://t.me/c/2494913847/15732
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-08T04:38:14+00:00
 Texto:
 e59 - Crie Blogs com Sua VOZ
@@ -28,7 +28,7 @@ https://t.me/c/2494913847/15707
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-07T05:36:26+00:00
 Texto:
 ap72 - Agentes RAG - Nêo Funciona ? 
@@ -38,7 +38,7 @@ https://t.me/c/2494913847/15653
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-07T05:23:55+00:00
 Texto:
 ap71 3 - UGC ADS Gerador Detalhado
@@ -47,7 +47,7 @@ https://t.me/c/2494913847/15622
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T07:19:23+00:00
 Texto:
 e58 - Dashboard Pro N8N
@@ -56,7 +56,7 @@ https://t.me/c/2494913847/15539
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-05T06:43:52+00:00
 Texto:
 ap71 - **Ultimate UGC Content System AI Agents
@@ -66,7 +66,7 @@ https://t.me/c/2494913847/15519
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-03T03:16:50+00:00
 Texto:
 e53 - Sistema Agenda com bots + voz + IA
@@ -75,7 +75,7 @@ https://t.me/c/2494913847/15467
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T23:27:24+00:00
 Texto:
 e57-2 - Analisa e Replica Videos Virais TOP
@@ -84,7 +84,7 @@ https://t.me/c/2494913847/15444
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T23:12:49+00:00
 Texto:
 e57 - Gere Ideias Virais - Youtube e TikTok
@@ -93,7 +93,7 @@ https://t.me/c/2494913847/15421
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T22:05:02+00:00
 Texto:
 ap70 - Crie qq coisa com Sora2
@@ -102,7 +102,7 @@ https://t.me/c/2494913847/15404
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T21:48:44+00:00
 Texto:
 ap69- do Zero ao Inbox Agente
@@ -111,7 +111,7 @@ https://t.me/c/2494913847/15389
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T21:01:58+00:00
 Texto:
 tem varios, olhe sobre redes socais pincipalmente no ex e no apx
@@ -119,7 +119,7 @@ tem varios, olhe sobre redes socais pincipalmente no ex e no apx
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T21:01:29+00:00
 Texto:
 ap68 - 5k - Sistema de Vendas
@@ -136,7 +136,7 @@ Pessoal tem algum lugar fluxo de criaçêo de vídeo e imagens para postar nas r
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-24T22:17:13+00:00
 Texto:
 e55 - Chatbot PRO
@@ -145,7 +145,7 @@ https://t.me/c/2494913847/15267
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T23:43:47+00:00
 Texto:
 ap67 - o RAG Perfeito
@@ -154,7 +154,7 @@ https://t.me/c/2494913847/15186
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T03:50:17+00:00
 Texto:
 no e28 tem dicas basicas
@@ -162,7 +162,7 @@ no e28 tem dicas basicas
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T03:50:02+00:00
 Texto:
 e54. Chatbot de voz para Qualificar os LEADS
@@ -171,7 +171,7 @@ https://t.me/c/2494913847/15152
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T02:24:03+00:00
 Texto:
 j110x - Scrapting
@@ -180,7 +180,7 @@ https://t.me/c/2494913847/15085
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-12T09:22:39+00:00
 Texto:
 ap66 - Criando web - Base44
@@ -189,7 +189,7 @@ https://t.me/c/2494913847/15027
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-12T00:00:22+00:00
 Texto:
 e52 - Multi Gerador Videos
@@ -198,7 +198,7 @@ https://t.me/c/2494913847/14973
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T03:52:25+00:00
 Texto:
 e51 - Faturas e Relatório Financeiro em 1 Clique
@@ -207,7 +207,7 @@ https://t.me/c/2494913847/14882
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-07T03:54:40+00:00
 Texto:
 e48. A gestêo de faturas DEFINITIVA
@@ -216,7 +216,7 @@ https://t.me/c/2494913847/14854
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T04:08:41+00:00
 Texto:
 ap65 - Poppy  e N8N
@@ -225,7 +225,7 @@ https://t.me/c/2494913847/14790
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:51:49+00:00
 Texto:
 e49 - UGC automático com modelo virtual
@@ -234,7 +234,7 @@ https://t.me/c/2494913847/14751
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:23:04+00:00
 Texto:
 ap64 - Construa QUALQUER COISA  Claude Sonnet 4.5
@@ -243,7 +243,7 @@ https://t.me/c/2494913847/14725
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T03:12:23+00:00
 Texto:
 e50 - Ache Produtos virais Automática
@@ -252,7 +252,7 @@ https://t.me/c/2494913847/14697
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-03T02:07:45+00:00
 Texto:
 j108 -Sistema de Avaliações do Google
@@ -269,7 +269,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-24T03:02:09+00:00
 Texto:
 e47 - ChatGPT com MCPs no N8N
@@ -279,7 +279,7 @@ falta os workflow
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-23T06:58:59+00:00
 Texto:
 J-RAG - Simples mas Poderoso
@@ -288,7 +288,7 @@ https://t.me/c/2494913847/14561
 ------------------------------
 
 MENSAGEM 32
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T13:13:18+00:00
 Texto:
 j105 - Construa Sistema de IA de 100k em 46min
@@ -297,7 +297,7 @@ https://t.me/c/2494913847/14439
 ------------------------------
 
 MENSAGEM 33
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T04:17:23+00:00
 Texto:
 n3witalia - 71 Workflow n8n Workflow
@@ -306,7 +306,7 @@ https://t.me/c/2494913847/13601
 ------------------------------
 
 MENSAGEM 34
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T04:14:33+00:00
 Texto:
 e46 - Imagem a Vídeo 4K Automático
@@ -315,7 +315,7 @@ https://t.me/c/2494913847/14361
 ------------------------------
 
 MENSAGEM 35
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-19T17:45:11+00:00
 Texto:
 no ap59 mas tem o e45 q achei melhor
@@ -323,7 +323,7 @@ no ap59 mas tem o e45 q achei melhor
 ------------------------------
 
 MENSAGEM 36
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-19T17:44:29+00:00
 Texto:
 ta no n8n
@@ -331,7 +331,7 @@ ta no n8n
 ------------------------------
 
 MENSAGEM 37
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-19T17:44:08+00:00
 Texto:
 ap63 - RAG Agente - Pinecone Assistente
@@ -343,13 +343,13 @@ MENSAGEM 38
 Autor: Automatizze
 Data: 2025-09-18T16:07:06+00:00
 Texto:
-@INEMAtds pegou esse conteúdo do Photoshop com o Banana? 🍌
+@linnoff88-dev pegou esse conteúdo do Photoshop com o Banana? 🍌
 Midia: MessageMediaPhoto -> photo_14346_038.jpg
 
 ------------------------------
 
 MENSAGEM 39
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-18T02:41:31+00:00
 Texto:
 ap62 - Vapi Inbound Assistent - Mental Assistente
@@ -382,7 +382,7 @@ PEssoal, tem workflow para automaçêo de carrosseis no instagram? criei um plug
 ------------------------------
 
 MENSAGEM 43
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-12T11:19:46+00:00
 Texto:
 nm72 - Atualiza Youtube
@@ -391,7 +391,7 @@ https://t.me/c/2494913847/14197
 ------------------------------
 
 MENSAGEM 44
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-11T04:13:44+00:00
 Texto:
 e45 - Photoshop IA no Telegram
@@ -400,7 +400,7 @@ https://t.me/c/2494913847/14153
 ------------------------------
 
 MENSAGEM 45
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-11T03:42:53+00:00
 Texto:
 ap61 - BUILDING  O Vibe Code do N8N
@@ -409,7 +409,7 @@ https://t.me/c/2494913847/14133
 ------------------------------
 
 MENSAGEM 46
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T22:18:36+00:00
 Texto:
 j105 - Agente de Vendas com Whatsapp
@@ -418,7 +418,7 @@ https://t.me/c/2494913847/14091
 ------------------------------
 
 MENSAGEM 47
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T03:19:09+00:00
 Texto:
 Nate x Jack - Arena N8N
@@ -427,7 +427,7 @@ https://t.me/c/2494913847/14065
 ------------------------------
 
 MENSAGEM 48
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-08T03:53:15+00:00
 Texto:
 m34 - Niveis de RAG
@@ -436,7 +436,7 @@ https://t.me/c/2494913847/14002
 ------------------------------
 
 MENSAGEM 49
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-06T05:43:11+00:00
 Texto:
 j103 - N8n RAG AI
@@ -445,7 +445,7 @@ https://t.me/c/2494913847/13950
 ------------------------------
 
 MENSAGEM 50
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T18:28:32+00:00
 Texto:
 e43 - Ímê Digital no WhatsApp
@@ -454,7 +454,7 @@ https://t.me/c/2494913847/13913
 ------------------------------
 
 MENSAGEM 51
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T18:16:02+00:00
 Texto:
 ap60 - Visao Pratica do RAG
@@ -463,7 +463,7 @@ https://t.me/c/2494913847/13890
 ------------------------------
 
 MENSAGEM 52
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T17:38:46+00:00
 Texto:
 e44 - Resuma Grupos de Whapsapp
@@ -472,7 +472,7 @@ https://t.me/c/2494913847/13857
 ------------------------------
 
 MENSAGEM 53
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T16:12:30+00:00
 Texto:
 ap59 - Nano Agente de IA do Photoshop UGC
@@ -481,7 +481,7 @@ https://t.me/c/2494913847/13822
 ------------------------------
 
 MENSAGEM 54
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T02:50:22+00:00
 Texto:
 ap58 - **Workflow Evaluation
@@ -490,7 +490,7 @@ ap58 - **Workflow Evaluation
 ------------------------------
 
 MENSAGEM 55
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-31T07:21:28+00:00
 Texto:
 cfomodz - 205 Worflow n8n
@@ -499,7 +499,7 @@ https://t.me/c/2494913847/13634
 ------------------------------
 
 MENSAGEM 56
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-31T06:43:26+00:00
 Texto:
 n3witalia - 71 Workflow n8n Workflow
@@ -508,7 +508,7 @@ https://t.me/c/2494913847/13601
 ------------------------------
 
 MENSAGEM 57
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-30T22:45:21+00:00
 Texto:
 vamos trocar ideias para te ajudar
@@ -533,7 +533,7 @@ Pessoal, desculpe, mas alguém saberia dizer se tem alguma automaçêo que tenha
 ------------------------------
 
 MENSAGEM 60
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-29T16:14:54+00:00
 Texto:
 nm69 - RoadMap N8N 2025 Agosto
@@ -542,7 +542,7 @@ https://t.me/c/2494913847/13546
 ------------------------------
 
 MENSAGEM 61
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-28T20:03:19+00:00
 Texto:
 e42 - Nano Banana + Veo3: UGC espetacular
@@ -551,7 +551,7 @@ https://t.me/c/2494913847/13471
 ------------------------------
 
 MENSAGEM 62
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-28T01:48:05+00:00
 Texto:
 m33 - Criando N8N Vibe Code Nativo - Builder
@@ -560,7 +560,7 @@ https://t.me/c/2494913847/13446
 ------------------------------
 
 MENSAGEM 63
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-27T03:02:46+00:00
 Texto:
 e41 - Auditoria Site WEB Gratis
@@ -569,7 +569,7 @@ https://t.me/c/2494913847/13396
 ------------------------------
 
 MENSAGEM 64
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-26T03:44:10+00:00
 Texto:
 Nm68 - Buiding Youtube Chat RAG
@@ -578,7 +578,7 @@ https://t.me/c/2494913847/13364
 ------------------------------
 
 MENSAGEM 65
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-26T03:41:39+00:00
 Texto:
 nm67 - n8n Vibe Code AI Builder
@@ -587,7 +587,7 @@ https://t.me/c/2494913847/13112
 ------------------------------
 
 MENSAGEM 66
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T10:06:30+00:00
 Texto:
 JackGPT V2
@@ -597,7 +597,7 @@ em Desenvovimento ainda
 ------------------------------
 
 MENSAGEM 67
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T07:52:39+00:00
 Texto:
 j101Rag - Masterclass RAG & Supabase
@@ -606,7 +606,7 @@ https://t.me/c/2494913847/13287
 ------------------------------
 
 MENSAGEM 68
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T02:07:26+00:00
 Texto:
 j101- AI Automation System
@@ -617,7 +617,7 @@ https://t.me/c/2494913847/13229
 ------------------------------
 
 MENSAGEM 69
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:54:04+00:00
 Texto:
 e40 - UGC Videos Automaticos VEO3
@@ -626,7 +626,7 @@ https://t.me/c/2494913847/13194
 ------------------------------
 
 MENSAGEM 70
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:32:05+00:00
 Texto:
 ap57 - RAG com Experts multimodal
@@ -635,7 +635,7 @@ https://t.me/c/2494913847/13171
 ------------------------------
 
 MENSAGEM 71
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T00:05:39+00:00
 Texto:
 ap56 - Boletim Informativo MultiAgente
@@ -644,7 +644,7 @@ https://t.me/c/2494913847/13141
 ------------------------------
 
 MENSAGEM 72
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-23T18:06:53+00:00
 Texto:
 m32 - ChatBot Hormonzi $6k
@@ -653,7 +653,7 @@ https://t.me/c/2494913847/13087
 ------------------------------
 
 MENSAGEM 73
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-20T04:07:35+00:00
 Texto:
 e39 - Captaçêo de Leads no LinkedIn
@@ -662,7 +662,7 @@ https://t.me/c/2494913847/13008
 ------------------------------
 
 MENSAGEM 74
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-20T03:34:50+00:00
 Texto:
 m31 - Gamma  PRO - API
@@ -671,7 +671,7 @@ https://t.me/c/2494913847/12991
 ------------------------------
 
 MENSAGEM 75
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-17T18:33:51+00:00
 Texto:
 m30 - MasterClass de MCP Claude Desktop
@@ -680,7 +680,7 @@ m30 - MasterClass de MCP Claude Desktop
 ------------------------------
 
 MENSAGEM 76
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-17T18:33:15+00:00
 Texto:
 VPS-Local1 - Docker Desktop
@@ -689,7 +689,7 @@ https://t.me/c/2494913847/10210
 ------------------------------
 
 MENSAGEM 77
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T21:33:21+00:00
 Texto:
 e38- Vídeos para Redes Sociais
@@ -698,7 +698,7 @@ https://t.me/c/2494913847/12902
 ------------------------------
 
 MENSAGEM 78
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T20:03:59+00:00
 Texto:
 ap55 - Exército Definitivo de Agentes de Mídia
@@ -708,7 +708,7 @@ https://t.me/c/2494913847/12859
 ------------------------------
 
 MENSAGEM 79
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T19:04:29+00:00
 Texto:
 nm66 - Protegendo o Webhook
@@ -717,7 +717,7 @@ https://t.me/c/2494913847/12833
 ------------------------------
 
 MENSAGEM 80
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T22:19:49+00:00
 Texto:
 j100 - Crescimento Social nas Redes Sociais
@@ -726,7 +726,7 @@ https://t.me/c/2494913847/12789
 ------------------------------
 
 MENSAGEM 81
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T21:56:45+00:00
 Texto:
 ap54 - Publique 9 Redes Sociais
@@ -735,7 +735,7 @@ https://t.me/c/2494913847/12756
 ------------------------------
 
 MENSAGEM 82
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T03:11:01+00:00
 Texto:
 m28 - Exemplo GTP Açêo
@@ -748,7 +748,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 83
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:55:57+00:00
 Texto:
 e33 - N8N- MCP o Futuro das Automações
@@ -757,7 +757,7 @@ https://t.me/c/2494913847/12701
 ------------------------------
 
 MENSAGEM 84
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T02:24:31+00:00
 Texto:
 e37 - Fotos em Anúncios TOP
@@ -766,7 +766,7 @@ https://t.me/c/2494913847/12668
 ------------------------------
 
 MENSAGEM 85
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T23:49:34+00:00
 Texto:
 ap53 - Avaliaçêo de Fluxos de IA
@@ -775,7 +775,7 @@ https://t.me/c/2494913847/12614
 ------------------------------
 
 MENSAGEM 86
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T20:18:30+00:00
 Texto:
 j99 - IronMade Secretaria
@@ -784,7 +784,7 @@ https://t.me/c/2494913847/12573
 ------------------------------
 
 MENSAGEM 87
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T18:52:46+00:00
 Texto:
 al48 - Exercito de Agentes GPT5
@@ -793,7 +793,7 @@ https://t.me/c/2494913847/12522
 ------------------------------
 
 MENSAGEM 88
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T03:05:46+00:00
 Texto:
 Automações Prontas para Venda
@@ -811,7 +811,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 89
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T14:56:00+00:00
 Texto:
 ap52 - 5 Forma de Tratamento ERROS
@@ -820,7 +820,7 @@ https://t.me/c/2494913847/12382
 ------------------------------
 
 MENSAGEM 90
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T03:24:22+00:00
 Texto:
 nm35 - Backup dos json N8N
@@ -829,7 +829,7 @@ https://t.me/c/2494913847/8029
 ------------------------------
 
 MENSAGEM 91
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T02:49:55+00:00
 Texto:
 nm65 - Backup N8N no GitHub
@@ -838,7 +838,7 @@ https://t.me/c/2494913847/12336
 ------------------------------
 
 MENSAGEM 92
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T21:39:12+00:00
 Texto:
 e36 - Roteiros 100% auto Notícia
@@ -847,7 +847,7 @@ https://t.me/c/2494913847/12288
 ------------------------------
 
 MENSAGEM 93
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T00:06:22+00:00
 Texto:
 nm64 - Abacus - ONG Pets - Vibe Code
@@ -856,7 +856,7 @@ https://t.me/c/2494913847/12253
 ------------------------------
 
 MENSAGEM 94
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-03T05:45:35+00:00
 Texto:
 nm63 - ONG Pets - Vibe Code Manus
@@ -865,7 +865,7 @@ https://t.me/c/2494913847/12201
 ------------------------------
 
 MENSAGEM 95
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-02T22:53:02+00:00
 Texto:
 nm62 - Subagentes Dicas
@@ -874,7 +874,7 @@ https://t.me/c/2494913847/12184
 ------------------------------
 
 MENSAGEM 96
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-01T00:12:22+00:00
 Texto:
 e35 - Comentários no Instagram
@@ -883,7 +883,7 @@ https://t.me/c/2494913847/12132
 ------------------------------
 
 MENSAGEM 97
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-31T23:43:26+00:00
 Texto:
 ap51 - Agente de Voz Elevenlabs
@@ -892,7 +892,7 @@ https://t.me/c/2494913847/12112
 ------------------------------
 
 MENSAGEM 98
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-30T21:20:59+00:00
 Texto:
 e34- Auditoria de Vendas GHL Wixyn ou GoHighLevel.
@@ -901,7 +901,7 @@ https://t.me/c/2494913847/12064
 ------------------------------
 
 MENSAGEM 99
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T20:06:33+00:00
 Texto:
 ap50 - Engenharia de Contexto N8N
@@ -910,7 +910,7 @@ https://t.me/c/2494913847/12026
 ------------------------------
 
 MENSAGEM 100
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T20:03:44+00:00
 Texto:
 nm61 - Engenharia de Contexto no N8N
@@ -919,7 +919,7 @@ https://t.me/c/2494913847/12004
 ------------------------------
 
 MENSAGEM 101
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T19:41:23+00:00
 Texto:
 M24 - Automaçêo com Nodes Gemini
@@ -928,7 +928,7 @@ https://t.me/c/2494913847/11988
 ------------------------------
 
 MENSAGEM 102
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T04:54:00+00:00
 Texto:
 al47 - videos **$0 ASMR
@@ -937,7 +937,7 @@ al47 - videos **$0 ASMR
 ------------------------------
 
 MENSAGEM 103
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:57:58+00:00
 Texto:
 nm60 - Erro EvolutionAPI e Fixado
@@ -946,7 +946,7 @@ https://t.me/c/2494913847/11899
 ------------------------------
 
 MENSAGEM 104
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:27:25+00:00
 Texto:
 nm59 - Automaçêo n8n-MCP Github
@@ -955,7 +955,7 @@ https://t.me/c/2494913847/11877
 ------------------------------
 
 MENSAGEM 105
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-27T23:37:20+00:00
 Texto:
 ap49 - Enxame de Agentes
@@ -964,7 +964,7 @@ https://t.me/c/2494913847/11846
 ------------------------------
 
 MENSAGEM 106
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-24T16:04:50+00:00
 Texto:
 ap48 - Youtube Transcriçêo RAG
@@ -973,7 +973,7 @@ https://t.me/c/2494913847/11786
 ------------------------------
 
 MENSAGEM 107
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-23T03:23:46+00:00
 Texto:
 e31 - Suporte com Ticket Inteligente
@@ -982,7 +982,7 @@ https://t.me/c/2494913847/11742
 ------------------------------
 
 MENSAGEM 108
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-22T03:49:10+00:00
 Texto:
 nm58 - Hack FallBack no N8N
@@ -991,7 +991,7 @@ https://t.me/c/2494913847/11696
 ------------------------------
 
 MENSAGEM 109
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T17:02:26+00:00
 Texto:
 **JX01 - AI Booking System - Sistema de Reserva e Agendamento
@@ -1000,7 +1000,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 110
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T16:24:03+00:00
 Texto:
 Ap47 - Zero ao Agente RAG
@@ -1009,7 +1009,7 @@ https://t.me/c/2494913847/11630
 ------------------------------
 
 MENSAGEM 111
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-19T02:39:35+00:00
 Texto:
 assuntos gerais
@@ -1017,7 +1017,7 @@ assuntos gerais
 ------------------------------
 
 MENSAGEM 112
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-19T01:21:27+00:00
 Texto:
 nm58 - Automacao IFOOD - Simulaçêo (e30)
@@ -1026,7 +1026,7 @@ https://t.me/c/2494913847/11560
 ------------------------------
 
 MENSAGEM 113
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-18T00:48:21+00:00
 Texto:
 m23 - App de Auditoria de IA
@@ -1035,7 +1035,7 @@ https://t.me/c/2494913847/11498
 ------------------------------
 
 MENSAGEM 114
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-17T18:43:33+00:00
 Texto:
 e30 - Automatize seus Fluxo
@@ -1044,7 +1044,7 @@ https://t.me/c/2494913847/11472
 ------------------------------
 
 MENSAGEM 115
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-16T17:58:31+00:00
 Texto:
 ap46 - Proteja se Webhook
@@ -1053,7 +1053,7 @@ https://t.me/c/2494913847/11435
 ------------------------------
 
 MENSAGEM 116
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-14T23:55:55+00:00
 Texto:
 ap44 - Memoria 2.0
@@ -1062,7 +1062,7 @@ https://t.me/c/2494913847/11391
 ------------------------------
 
 MENSAGEM 117
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-13T05:27:25+00:00
 Texto:
 m22 - **Comparador modelos AI n8n + OpenRouter
@@ -1071,7 +1071,7 @@ m22 - **Comparador modelos AI n8n + OpenRouter
 ------------------------------
 
 MENSAGEM 118
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-13T05:18:03+00:00
 Texto:
 ap43 - **Pipeline RAG dinâmico com Supabase
@@ -1080,7 +1080,7 @@ ap43 - **Pipeline RAG dinâmico com Supabase
 ------------------------------
 
 MENSAGEM 119
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-13T05:16:27+00:00
 Texto:
 m22 - **Comparador modelos AI n8n + OpenRouter 
@@ -1089,7 +1089,7 @@ m22 - **Comparador modelos AI n8n + OpenRouter
 ------------------------------
 
 MENSAGEM 120
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-11T23:48:24+00:00
 Texto:
 al46 - ASMR com VEO3
@@ -1098,7 +1098,7 @@ https://t.me/c/2494913847/11252
 ------------------------------
 
 MENSAGEM 121
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T23:39:55+00:00
 Texto:
 e28 - RAG multimídia com imagens e texto
@@ -1107,7 +1107,7 @@ https://t.me/c/2494913847/11175
 ------------------------------
 
 MENSAGEM 122
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T23:10:03+00:00
 Texto:
 ap42 - Paralelizaçêo e SubFlow Hacks
@@ -1116,7 +1116,7 @@ https://t.me/c/2494913847/11146
 ------------------------------
 
 MENSAGEM 123
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T20:23:54+00:00
 Texto:
 e29 - 2k Automatizaçêo de Workflows
@@ -1125,7 +1125,7 @@ https://t.me/c/2494913847/11125
 ------------------------------
 
 MENSAGEM 124
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T02:51:36+00:00
 Texto:
 nm57 - webhook Blog clonei 
@@ -1134,7 +1134,7 @@ https://t.me/c/2494913847/11072
 ------------------------------
 
 MENSAGEM 125
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-06T23:55:43+00:00
 Texto:
 m30 - MasterClass de MCP Claude Desktop
@@ -1143,7 +1143,7 @@ https://t.me/c/2494913847/10994
 ------------------------------
 
 MENSAGEM 126
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:52:04+00:00
 Texto:
 ap41 - Agente de Pesquisa para Iniciante
@@ -1152,7 +1152,7 @@ https://t.me/c/2494913847/10965
 ------------------------------
 
 MENSAGEM 127
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:25:35+00:00
 Texto:
 e27 - SuperAgente Quase Humano
@@ -1161,7 +1161,7 @@ https://t.me/c/2494913847/10937
 ------------------------------
 
 MENSAGEM 128
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-03T04:41:47+00:00
 Texto:
 ap40 - RH - Analise de Candidato
@@ -1170,7 +1170,7 @@ https://t.me/c/2494913847/10862
 ------------------------------
 
 MENSAGEM 129
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T22:40:46+00:00
 Texto:
 ap39 - ** RAG Agents (Reranking & Metadata)
@@ -1179,7 +1179,7 @@ ap39 - ** RAG Agents (Reranking & Metadata)
 ------------------------------
 
 MENSAGEM 130
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T20:50:54+00:00
 Texto:
 m21 - Prepare para Reunioes Calendry Perplexity
@@ -1188,7 +1188,7 @@ https://t.me/c/2494913847/10807
 ------------------------------
 
 MENSAGEM 131
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T17:49:22+00:00
 Texto:
 al45 - Vídeos de ASMR com IA
@@ -1197,7 +1197,7 @@ https://t.me/c/2494913847/10777
 ------------------------------
 
 MENSAGEM 132
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-02T04:09:01+00:00
 Texto:
 e26 - Automatize Tarefas MCP
@@ -1206,7 +1206,7 @@ https://t.me/c/2494913847/10746
 ------------------------------
 
 MENSAGEM 133
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-26T03:21:28+00:00
 Texto:
 nm56- Manus Imobiliaria
@@ -1215,7 +1215,7 @@ https://t.me/c/2494913847/10577
 ------------------------------
 
 MENSAGEM 134
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-25T07:36:45+00:00
 Texto:
 j94 - Criando Workflows com Claude Projetos
@@ -1224,7 +1224,7 @@ https://t.me/c/2494913847/10520
 ------------------------------
 
 MENSAGEM 135
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-25T03:41:37+00:00
 Texto:
 e25 - Agente Navegador - AirTop
@@ -1233,7 +1233,7 @@ https://t.me/c/2494913847/10472
 ------------------------------
 
 MENSAGEM 136
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-25T02:51:22+00:00
 Texto:
 nm55 - Youtube Atualizador Manus Full
@@ -1242,10 +1242,10 @@ https://t.me/c/2494913847/10460
 ------------------------------
 
 MENSAGEM 137
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-24T22:13:09+00:00
 Texto:
-entra no  @inemaautobot 
+entra no  @ARCKHÉautobot 
 
 da start e pode pedir, se pede o link junto 
 
@@ -1254,7 +1254,7 @@ vou mostrar na live de hj  qq me pede la
 ------------------------------
 
 MENSAGEM 138
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-24T22:12:04+00:00
 Texto:
 ap38 - Estrategia Youtube Nicho
@@ -1265,7 +1265,7 @@ ta no grupo N8N
 ------------------------------
 
 MENSAGEM 139
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-23T21:51:25+00:00
 Texto:
 al44 - Human in the Loop  - Email
@@ -1274,7 +1274,7 @@ https://t.me/c/2494913847/10364
 ------------------------------
 
 MENSAGEM 140
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-22T04:09:25+00:00
 Texto:
 nm39 - PDF - JPG - ZIP
@@ -1283,7 +1283,7 @@ https://t.me/c/2494913847/10279
 ------------------------------
 
 MENSAGEM 141
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T06:11:01+00:00
 Texto:
 mv01 - **Editor de mídia social multiplataforma
@@ -1292,7 +1292,7 @@ mv01 - **Editor de mídia social multiplataforma
 ------------------------------
 
 MENSAGEM 142
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T04:56:08+00:00
 Texto:
 Agente de Voz com Ultravox
@@ -1301,7 +1301,7 @@ Agente de Voz com Ultravox
 ------------------------------
 
 MENSAGEM 143
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-19T11:47:41+00:00
 Texto:
 ap36 - n8n Developer Agente
@@ -1310,7 +1310,7 @@ https://t.me/c/2494913847/10085
 ------------------------------
 
 MENSAGEM 144
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-18T11:40:30+00:00
 Texto:
 al43 - Criando Videos Gatinho Rato Minimax
@@ -1319,7 +1319,7 @@ https://t.me/c/2494913847/10037
 ------------------------------
 
 MENSAGEM 145
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T06:11:50+00:00
 Texto:
 al42 - Agente de Investimento
@@ -1328,7 +1328,7 @@ https://t.me/c/2494913847/9893
 ------------------------------
 
 MENSAGEM 146
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T06:01:12+00:00
 Texto:
 al41 - Agente Assistente Pessoal
@@ -1337,7 +1337,7 @@ https://t.me/c/2494913847/9863
 ------------------------------
 
 MENSAGEM 147
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:43:41+00:00
 Texto:
 al40 - Multicanal **RAG Chatbot = als16
@@ -1346,7 +1346,7 @@ al40 - Multicanal **RAG Chatbot = als16
 ------------------------------
 
 MENSAGEM 148
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:27:25+00:00
 Texto:
 al39 - **Restaurante AI Agente
@@ -1355,7 +1355,7 @@ al39 - **Restaurante AI Agente
 ------------------------------
 
 MENSAGEM 149
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:11:27+00:00
 Texto:
 al35 - **Ilimitadas Imagens no Instagram
@@ -1374,7 +1374,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 150
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T17:59:31+00:00
 Texto:
 nm38 - Farmacia Vibe Code Claude
@@ -1383,7 +1383,7 @@ https://t.me/c/2494913847/9623
 ------------------------------
 
 MENSAGEM 151
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T00:22:28+00:00
 Texto:
 al30 - ** Documentário AI 3D
@@ -1392,7 +1392,7 @@ al30 - ** Documentário AI 3D
 ------------------------------
 
 MENSAGEM 152
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-13T18:38:14+00:00
 Texto:
 jx2 - Agente de Memoria
@@ -1401,7 +1401,7 @@ https://t.me/c/2494913847/9513
 ------------------------------
 
 MENSAGEM 153
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-10T20:20:25+00:00
 Texto:
 e22 - Agente de Marketing
@@ -1410,7 +1410,7 @@ https://t.me/c/2494913847/9220
 ------------------------------
 
 MENSAGEM 154
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T23:52:37+00:00
 Texto:
 ap33- Agente AirTop Operador
@@ -1419,7 +1419,7 @@ https://t.me/c/2494913847/9117
 ------------------------------
 
 MENSAGEM 155
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T21:02:55+00:00
 Texto:
 m20 - Pesquisa no X em Tempo Real
@@ -1428,7 +1428,7 @@ https://t.me/c/2494913847/9093
 ------------------------------
 
 MENSAGEM 156
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T18:11:00+00:00
 Texto:
 Hacks de Prompt
@@ -1439,7 +1439,7 @@ https://t.me/c/2494913847/9065
 ------------------------------
 
 MENSAGEM 157
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T02:16:24+00:00
 Texto:
 MTx  Tremplates para Iniciantes
@@ -1453,7 +1453,7 @@ https://t.me/c/2494913847/8939
 ------------------------------
 
 MENSAGEM 158
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T22:28:51+00:00
 Texto:
 Agentes via VIBE CODE
@@ -1464,7 +1464,7 @@ https://t.me/c/2494913847/8414
 ------------------------------
 
 MENSAGEM 159
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T11:00:41+00:00
 Texto:
 VPS
@@ -1485,7 +1485,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 160
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T18:05:25+00:00
 Texto:
 Seguranca
@@ -1496,7 +1496,7 @@ https://t.me/c/2494913847/8029
 ------------------------------
 
 MENSAGEM 161
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T17:54:10+00:00
 Texto:
 Avatares
@@ -1507,7 +1507,7 @@ https://t.me/c/2494913847/8009
 ------------------------------
 
 MENSAGEM 162
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T04:12:18+00:00
 Texto:
 Whatsapp
@@ -1518,7 +1518,7 @@ https://t.me/c/2494913847/7921
 ------------------------------
 
 MENSAGEM 163
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-16T19:17:59+00:00
 Texto:
 Raspagem
@@ -1575,7 +1575,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 164
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T04:45:46+00:00
 Texto:
 IMAGENS e Videos
@@ -1644,7 +1644,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 165
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T03:18:43+00:00
 Texto:
 RAG - Banco de dados Vetorial
@@ -1674,7 +1674,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 166
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T21:57:35+00:00
 Texto:
 12 - Dicas Hacks
@@ -1738,7 +1738,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 167
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T19:17:37+00:00
 Texto:
 Categoria 11 — Extras, Dicas e Ferramentas
@@ -1768,7 +1768,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 168
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T19:17:35+00:00
 Texto:
 =====================
@@ -1776,7 +1776,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 169
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T19:17:21+00:00
 Texto:
 Categoria 10 — Experimentos Manus
@@ -1796,13 +1796,13 @@ https://t.me/c/2494913847/5343
 • mm5 – Experiência #56 – Prompt Manus Criar Site  
 https://t.me/c/2494987106/3321
 
-outros estao no INEMA.Prompts
+outros estao no ARCKHÉ.Prompts
 Midia: MessageMediaWebPage
 
 ------------------------------
 
 MENSAGEM 170
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T19:16:40+00:00
 Texto:
 ====================
@@ -1810,7 +1810,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 171
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T19:16:37+00:00
 Texto:
 Categoria 9 — Multimídia e Redes Sociais
@@ -1894,7 +1894,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 172
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T19:16:08+00:00
 Texto:
 ======================
@@ -1902,7 +1902,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 173
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T19:16:06+00:00
 Texto:
 Categoria 8 — Automaçêo de Leads e Vendas
@@ -1944,7 +1944,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 174
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T19:15:22+00:00
 Texto:
 =====================
@@ -1952,7 +1952,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 175
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T19:15:18+00:00
 Texto:
 Categoria 7 — Aplicações Completas (APx)
@@ -2015,7 +2015,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 176
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T19:14:38+00:00
 Texto:
 ================
@@ -2023,7 +2023,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 177
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T19:14:34+00:00
 Texto:
 Categoria 6 — Workflows Avançados (MWx)
@@ -2071,7 +2071,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 178
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T19:11:24+00:00
 Texto:
 =================
@@ -2079,7 +2079,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 179
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T19:11:22+00:00
 Texto:
 Categoria 5 — Templates e Fluxos de Agentes (modelos prontos)
@@ -2215,7 +2215,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 180
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T19:11:06+00:00
 Texto:
 ================
@@ -2223,7 +2223,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 181
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T19:11:04+00:00
 Texto:
 Categoria 4 — Agentes e Assistentes de IA
@@ -2265,7 +2265,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 182
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T19:09:59+00:00
 Texto:
 ===========================
@@ -2273,7 +2273,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 183
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T19:09:56+00:00
 Texto:
 Categoria 3 — Conceitos Técnicos Essenciais (HTTP, Webhooks, RAG, Pinecone)
@@ -2281,7 +2281,7 @@ Categoria 3 — Conceitos Técnicos Essenciais (HTTP, Webhooks, RAG, Pinecone)
 • WebHooks x HTTP – Fundamentos  
 https://t.me/c/2494913847/2273
 
-• RAG – Entenda (teoria no INEMA.IA)  
+• RAG – Entenda (teoria no ARCKHÉ.IA)  
 
 • aRAG3 – Uso e Exemplos (Pinecone)  
 https://t.me/c/2494913847/4658
@@ -2295,7 +2295,7 @@ https://t.me/c/2494913847/7800
 ------------------------------
 
 MENSAGEM 184
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T19:08:57+00:00
 Texto:
 ===========================
@@ -2303,7 +2303,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 185
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T19:08:54+00:00
 Texto:
 Categoria 2 — Formaçêo e Cursos (N8N / Make)
@@ -2342,7 +2342,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 186
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T19:07:39+00:00
 Texto:
 ========================
@@ -2350,7 +2350,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 187
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T19:07:36+00:00
 Texto:
 Categoria 1 — Negócio e Licenciamento
@@ -2374,7 +2374,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 188
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T19:07:32+00:00
 Texto:
 ..
@@ -2382,7 +2382,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 189
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T19:07:32+00:00
 Texto:
 .
@@ -2390,7 +2390,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 190
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T19:07:31+00:00
 Texto:
 .
@@ -2398,7 +2398,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 191
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T19:01:02+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6056_191.jpg
@@ -2406,7 +2406,7 @@ Midia: MessageMediaPhoto -> photo_6056_191.jpg
 ------------------------------
 
 MENSAGEM 192
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T18:54:38+00:00
 Texto:
 Seguem as categorias para agrupar todo o material. 
@@ -2426,7 +2426,7 @@ Seguem as categorias para agrupar todo o material.
 ------------------------------
 
 MENSAGEM 193
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T18:54:15+00:00
 Texto:
 ...
@@ -2434,7 +2434,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 194
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T18:54:15+00:00
 Texto:
 ..
@@ -2442,7 +2442,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 195
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T18:54:15+00:00
 Texto:
 .
@@ -2450,7 +2450,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 196
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T18:54:14+00:00
 Texto:
 .
@@ -2458,7 +2458,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 197
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T18:54:12+00:00
 Texto:
 MENU Por CATEGORIAS
@@ -2466,7 +2466,7 @@ MENU Por CATEGORIAS
 ------------------------------
 
 MENSAGEM 198
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T18:54:01+00:00
 Texto:
 ..
@@ -2474,7 +2474,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 199
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T18:54:01+00:00
 Texto:
 .
@@ -2482,7 +2482,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 200
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T18:54:00+00:00
 Texto:
 ..
@@ -2490,7 +2490,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 201
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T18:54:00+00:00
 Texto:
 .
@@ -2498,7 +2498,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 202
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T18:54:00+00:00
 Texto:
 ..
@@ -2506,7 +2506,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 203
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T18:54:00+00:00
 Texto:
 .
@@ -2514,7 +2514,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 204
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T18:53:59+00:00
 Texto:
 https://chatgpt.com/c/68069234-bac0-8009-a1b8-6ccdefd16a18?model=o4-mini
@@ -2523,7 +2523,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 205
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T18:53:59+00:00
 Texto:
 1
@@ -2531,7 +2531,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 206
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-21T18:53:52+00:00
 Texto: [Sem texto]
 

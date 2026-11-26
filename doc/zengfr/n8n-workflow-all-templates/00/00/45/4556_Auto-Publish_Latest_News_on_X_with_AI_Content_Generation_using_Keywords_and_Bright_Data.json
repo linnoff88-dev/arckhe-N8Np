@@ -351,7 +351,7 @@
       ],
       "webhookId": "0210609d-191a-4eb7-ae2b-13f9e2248c11",
       "parameters": {
-        "sendTo": "=raushan@iwantonlinemarketing.com ",
+        "sendTo": "=raushan@iwantonlARCKHÉrketing.com ",
         "message": "=<p>Hello,</p>  <p>Your news tweet has been published successfully on X (formerly Twitter).</p>  <p>You can view it here: <a href=\"{{ $json['Tweet URL'] }}\" target=\"_blank\">Click to view your tweet</a></p>  <p>Best regards,<br> Team</p>",
         "options": {},
         "subject": "Your News Has Been Published on X (Twitter)"

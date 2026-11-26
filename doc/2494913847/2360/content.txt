@@ -10,7 +10,7 @@ Midias baixadas: 8
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:48:06+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Prompt_Chaining.json
@@ -18,7 +18,7 @@ Midia: MessageMediaDocument -> Prompt_Chaining.json
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:48:06+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Routing.json
@@ -26,7 +26,7 @@ Midia: MessageMediaDocument -> Routing.json
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:48:06+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Parallelization.json
@@ -34,7 +34,7 @@ Midia: MessageMediaDocument -> Parallelization.json
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:48:06+00:00
 Texto:
 a14
@@ -43,7 +43,7 @@ Midia: MessageMediaDocument -> Evaluator_Optimizer.json
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:47:55+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_2372_005.jpg
@@ -51,7 +51,7 @@ Midia: MessageMediaPhoto -> photo_2372_005.jpg
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:47:55+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_2371_006.jpg
@@ -59,7 +59,7 @@ Midia: MessageMediaPhoto -> photo_2371_006.jpg
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:47:55+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_2370_007.jpg
@@ -67,7 +67,7 @@ Midia: MessageMediaPhoto -> photo_2370_007.jpg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:47:55+00:00
 Texto:
 a14
@@ -76,7 +76,7 @@ Midia: MessageMediaPhoto -> photo_2369_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:47:24+00:00
 Texto:
 at-14 - **4 Agentic Frameworks**
@@ -84,7 +84,7 @@ at-14 - **4 Agentic Frameworks**
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:47:21+00:00
 Texto:
 .
@@ -92,7 +92,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:47:20+00:00
 Texto:
 .
@@ -100,7 +100,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:47:20+00:00
 Texto:
 .
@@ -108,7 +108,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:47:20+00:00
 Texto:
 .
@@ -116,7 +116,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:47:20+00:00
 Texto:
 .
@@ -124,7 +124,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:47:19+00:00
 Texto:
 .
@@ -132,7 +132,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:47:18+00:00
 Texto:
 1
@@ -140,7 +140,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:47:07+00:00
 Texto: [Sem texto]
 

@@ -1,7 +1,7 @@
 [
   {
     "id": 10886,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-03T04:40:54+00:00",
     "text": "https://www.youtube.com/watch?v=M0s6O8xtVUE",
     "has_media": true,
@@ -9,7 +9,7 @@
   },
   {
     "id": 10885,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-03T04:40:37+00:00",
     "text": "Aqui estêo os **hacks e insights práticos**  (e que você pode aplicar no seu próprio fluxo):\n\n---\n\n### 🚀 Hacks para agilizar e otimizar o fluxo\n\n1. **Planejar com wireframe antes de construir**\n\n   * Use ferramentas como Excalidraw ou até Google Docs para desenhar o fluxo.\n   * Isso evita “tentativa e erro” no n8n e economiza horas.\n   * Exemplo: defina triggers, ramificações (Word, PDF, TXT), onde entra IA e onde os dados vêo.\n\n---\n\n2. **Converter Word para Google Docs com API**\n\n   * Word é complicado para extrair texto direto no n8n.\n   * Hack: use **Google Drive API (HTTP Request)** para converter Word → Google Docs → PDF → texto.\n   * Resultado: extraçêo de texto sem erros de formataçêo.\n\n---\n\n3. **Padronizar saída de diferentes arquivos**\n\n   * PDF, Word e TXT sêo tratados de forma diferente no fluxo.\n   * Hack: após a extraçêo, use o nó **Set** para colocar todo o conteúdo em um campo único chamado `text`.\n   * Isso simplifica o envio para o agente de IA.\n\n---\n\n4. **Structured Output Parser com JSON Schema**\n\n   * Hack avançado: force a IA a devolver uma saída estruturada (JSON com campos definidos).\n   * Evita resultados bagunçados e facilita enviar dados para o Google Sheets.\n   * Exemplo de campos: `strengths`, `weaknesses`, `risk_factor`, `reward_factor`, `overall_fit`, `justification`.\n\n---\n\n5. **Extraçêo inteligente de dados pessoais**\n\n   * Em vez de depender do remetente do e-mail, use o nó **Information Extractor (IA)** para pegar nome, sobrenome e e-mail diretamente do currículo.\n   * Ideal para candidatos que usam e-mails genéricos.\n\n---\n\n6. **Links diretos para currículos**\n\n   * Armazene os currículos no Google Drive e gere links públicos no Google Sheets.\n   * Resultado: acesso rápido ao documento sem precisar abrir o Drive manualmente.\n\n---\n\n7. **Fallback para diferentes triggers**\n\n   * Se nêo usar Gmail, pode trocar o trigger por:\n\n     * **Webhook** (para formulários)\n     * **Google Sheets/Airtable** (novas linhas como gatilho)\n   * Fluxo fica mais flexível para diferentes cenários.\n\n---\n\n8. **Evitar sobrecarga no agente IA**\n\n   * Hack: nêo peça à IA para extrair dados pessoais e analisar o currículo ao mesmo tempo.\n   * Divida em dois nós:\n\n     * Um só para análise técnica (forças, fraquezas, fit)\n     * Outro só para extraçêo de nome/e-mail.\n\n---\n\n9. **Funçêo `.join(\"\\n\\n\")` no Google Sheets**\n\n   * Para campos como “pontos fortes” e “fraquezas”, use `.join(\"\\n\\n\")` no mapeamento para deixar o texto legível com quebras de linha.\n\n---\n\n10. **Rodar fluxos em paralelo**\n\n    * Para muitos currículos chegando ao mesmo tempo, configure **concurrency** no n8n para evitar filas lentas.\n\n---",
     "has_media": false,
@@ -17,7 +17,7 @@
   },
   {
     "id": 10884,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-03T04:39:25+00:00",
     "text": "============",
     "has_media": false,
@@ -25,7 +25,7 @@
   },
   {
     "id": 10883,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-03T04:39:22+00:00",
     "text": "Aqui está o **passo a passo simplificado** para replicar o sistema de análise de currículos com IA no **n8n**:\n\n---\n\n### 1. **Planejamento do fluxo**\n\n* Liste as etapas manuais que você faria para analisar um currículo.\n* Crie um wireframe simples (pode ser no papel, Excalidraw ou similar) com:\n\n  * **Trigger** (gatilho)\n  * Fontes de dados (currículo, descriçêo da vaga)\n  * Transformações de dados (extraçêo de texto, padronizaçêo)\n  * Pontos onde a IA será usada.\n\n---\n\n### 2. **Configurar o trigger**\n\n* Escolha como o fluxo vai começar:\n\n  * **Gmail**: novo e-mail com anexo (currículo).\n  * **Webhook**: para envios via formulário.\n  * **Airtable/Google Sheets**: novo registro.\n\nNo vídeo foi usado o **Gmail (on message received)**.\nAtive **“Download attachments”** para capturar arquivos anexados.\n\n---\n\n### 3. **Salvar currículo no Google Drive**\n\n* Adicione o nó **Google Drive - Upload File**.\n* Configure:\n\n  * Nome da pasta para armazenar currículos (ex: “Resumes”).\n  * Nome do arquivo: combine o **assunto do e-mail** com “resume” (ex: *John Doe Resume*).\n  * Campo de entrada: use o anexo capturado (ex: `attachment_0`).\n\n---\n\n### 4. **Detectar tipo de arquivo**\n\n* Adicione um **Switch Node** para separar fluxos por tipo de arquivo:\n\n  * Word (`application/vnd.openxmlformats-officedocument.wordprocessingml.document`)\n  * PDF (`application/pdf`)\n  * Texto (`text/plain`).\n\n---\n\n### 5. **Extraçêo de texto**\n\n* **Para Word**:\n\n  * Use **HTTP Request** com Google Drive API para converter Word → Google Doc.\n  * Baixe o Google Doc convertido e transforme-o em PDF.\n  * Extraia o texto do PDF com o nó **Extract PDF**.\n\n* **Para PDF**:\n\n  * Baixe direto do Drive e extraia o texto.\n\n* **Para TXT**:\n\n  * Baixe direto do Drive e extraia o texto com **Extract Text**.\n\n* Padronize todos os resultados em um campo único chamado `text`.\n\n---\n\n### 6. **Obter descriçêo da vaga**\n\n* Use **Google Drive - Download File** para pegar o arquivo da descriçêo da vaga.\n* Converta (se necessário) e extraia o texto.\n\n---\n\n### 7. **Análise com IA**\n\n* Adicione o nó **AI Agent (OpenAI Chat Model)**.\n* **System prompt**:\n\n  * “Você é um recrutador técnico especializado. Compare o currículo com a descriçêo da vaga e forneça: pontos fortes, fracos, risco, recompensa, nota (0-10) e justificativa.”\n* Envie como entrada:\n\n  * Texto do currículo.\n  * Texto da descriçêo da vaga.\n* Use **structured output parser** com JSON Schema para organizar os resultados em campos separados.\n\n---\n\n### 8. **Extrair dados pessoais**\n\n* Adicione o nó **Information Extractor** para obter:\n\n  * Primeiro nome\n  * Sobrenome\n  * E-mail (pode usar o remetente como fallback)\n\n---\n\n### 9. **Registrar no Google Sheets**\n\n* Adicione o nó **Google Sheets - Append Row**.\n* Mapeie campos:\n\n  * Data/hora do processamento\n  * Link do currículo no Drive\n  * Nome, e-mail\n  * Pontos fortes e fracos\n  * Risco, recompensa, nota e justificativa.\n\n---\n\n### 10. **Personalizar e finalizar**\n\n* Configure notificações (Slack, e-mail, etc.) se quiser alertas para candidatos com nota alta.\n* Teste o fluxo com arquivos Word, PDF e TXT.\n* Ajuste o prompt da IA conforme o tipo de vaga.",
     "has_media": false,
@@ -33,7 +33,7 @@
   },
   {
     "id": 10882,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-03T04:38:40+00:00",
     "text": "===============",
     "has_media": false,
@@ -41,7 +41,7 @@
   },
   {
     "id": 10881,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-03T04:37:10+00:00",
     "text": "Construçêo completa de um sistema inteligente de triagem de currículos com IA no **n8n**\n\n### Resumo do conteúdo:\n\n* **Objetivo**: Criar um fluxo automatizado que analisa currículos recebidos, compara com uma descriçêo de vaga e fornece:\n\n  * Pontos fortes e fracos do candidato\n  * Fatores de risco e recompensa\n  * Avaliaçêo geral de adequaçêo (nota de 0 a 10)\n  * Justificativa detalhada para cada pontuaçêo\n\n* **Etapas do processo**:\n\n  1. **Recepçêo de currículos** via Gmail, webhook ou Airtable.\n  2. **Armazenamento** dos arquivos no Google Drive.\n  3. **Extraçêo de texto** dos arquivos (Word, PDF ou TXT) com lógica personalizada para cada tipo.\n  4. **Padronizaçêo dos dados** para alimentar o fluxo.\n  5. **Análise com IA** usando um agente configurado para comparar o currículo com a descriçêo da vaga e retornar resultados estruturados (forças, fraquezas, etc.).\n  6. **Extraçêo de dados pessoais** (nome, sobrenome, e-mail) com um nó de inteligência para preenchimento automático.\n  7. **Registro final** em uma planilha do Google Sheets com todos os dados organizados.\n\n* **Destaques técnicos**:\n\n  * Uso de wireframes para planejar o fluxo antes da implementaçêo.\n  * Conversêo de documentos Word para Google Docs e depois para PDF para facilitar a extraçêo.\n  * Agente de IA treinado para atuar como recrutador técnico especializado.\n  * Estrutura de saída definida com JSON Schema para resultados organizados.\n  * Fluxo modular para tratar diferentes tipos de arquivos.\n\n* **Resultados**:\n\n  * Automaçêo do processo de triagem de candidatos.\n  * Reduçêo de viés humano na análise.\n  * Economia de tempo para recrutadores.\n  * Base de dados pronta com links para currículos e análises detalhadas.",
     "has_media": false,
@@ -49,7 +49,7 @@
   },
   {
     "id": 10880,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-03T04:36:19+00:00",
     "text": "========",
     "has_media": false,
@@ -57,7 +57,7 @@
   },
   {
     "id": 10879,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-03T04:36:16+00:00",
     "text": "Sistema de Análise de Currículos com IA\n\nEsse sistema recebe o currículo de um candidato, analisa seus pontos fortes e fracos, avalia o fator risco x recompensa e determina a adequaçêo geral para a vaga.\n\nEle nêo apenas gera uma pontuaçêo: também justifica cada classificaçêo com razões claras, para que você entenda por que o candidato recebeu aquela avaliaçêo. Seja você alguém criando ferramentas internas de recrutamento, atendendo clientes de RH ou apenas curioso sobre o que é possível com IA sem código, este passo a passo traz insights práticos sobre como combinar automaçêo e inteligência para casos reais.",
     "has_media": false,
@@ -65,7 +65,7 @@
   },
   {
     "id": 10878,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-03T04:35:05+00:00",
     "text": "https://excalidraw.com/",
     "has_media": true,
@@ -73,7 +73,7 @@
   },
   {
     "id": 10877,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-03T04:33:10+00:00",
     "text": "",
     "has_media": true,
@@ -82,7 +82,7 @@
   },
   {
     "id": 10876,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-03T04:32:49+00:00",
     "text": "",
     "has_media": true,
@@ -91,7 +91,7 @@
   },
   {
     "id": 10875,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-03T04:32:49+00:00",
     "text": "",
     "has_media": true,
@@ -100,7 +100,7 @@
   },
   {
     "id": 10874,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-03T04:32:49+00:00",
     "text": "",
     "has_media": true,
@@ -109,7 +109,7 @@
   },
   {
     "id": 10873,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-03T04:32:49+00:00",
     "text": "",
     "has_media": true,
@@ -118,7 +118,7 @@
   },
   {
     "id": 10872,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-03T04:32:33+00:00",
     "text": "",
     "has_media": true,
@@ -127,7 +127,7 @@
   },
   {
     "id": 10871,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-03T04:32:20+00:00",
     "text": "",
     "has_media": true,
@@ -136,7 +136,7 @@
   },
   {
     "id": 10870,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-03T04:31:41+00:00",
     "text": "ap40 - RH - Analise de Candidato",
     "has_media": false,
@@ -144,7 +144,7 @@
   },
   {
     "id": 10869,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-03T04:31:39+00:00",
     "text": ".",
     "has_media": false,
@@ -152,7 +152,7 @@
   },
   {
     "id": 10868,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-03T04:31:39+00:00",
     "text": ".",
     "has_media": false,
@@ -160,7 +160,7 @@
   },
   {
     "id": 10867,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-03T04:31:39+00:00",
     "text": ".",
     "has_media": false,
@@ -168,7 +168,7 @@
   },
   {
     "id": 10866,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-03T04:31:39+00:00",
     "text": ".",
     "has_media": false,
@@ -176,7 +176,7 @@
   },
   {
     "id": 10865,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-03T04:31:38+00:00",
     "text": ".",
     "has_media": false,
@@ -184,7 +184,7 @@
   },
   {
     "id": 10864,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-03T04:31:38+00:00",
     "text": "https://chatgpt.com/c/686604de-9eec-8009-b3ec-315188c0416f",
     "has_media": true,
@@ -192,7 +192,7 @@
   },
   {
     "id": 10863,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-03T04:31:38+00:00",
     "text": "1",
     "has_media": false,
@@ -200,7 +200,7 @@
   },
   {
     "id": 10862,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-03T04:31:34+00:00",
     "text": "",
     "has_media": false,

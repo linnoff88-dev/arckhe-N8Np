@@ -10,7 +10,7 @@ Midias baixadas: 10
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T03:01:03+00:00
 Texto:
 ===============
@@ -18,7 +18,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T03:01:00+00:00
 Texto:
 e53. Bot com IA que qualifica e agenda sozinho
@@ -76,7 +76,7 @@ Nesta aula, você aprende a criar um agente conversacional qualificador impulsio
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T03:00:19+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15123_003.jpg
@@ -84,7 +84,7 @@ Midia: MessageMediaPhoto -> photo_15123_003.jpg
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T02:57:47+00:00
 Texto:
 ======================
@@ -92,7 +92,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T02:57:42+00:00
 Texto:
 O bot que qualifica, convence e agenda sozinho
@@ -127,7 +127,7 @@ Esta é a semana dos chatbots TOP.
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T02:55:06+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> bot_mejorado.json
@@ -135,7 +135,7 @@ Midia: MessageMediaDocument -> bot_mejorado.json
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T02:55:06+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> cualificacin_(2).json
@@ -143,7 +143,7 @@ Midia: MessageMediaDocument -> cualificacin_(2).json
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T02:54:56+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15118_008.jpg
@@ -151,7 +151,7 @@ Midia: MessageMediaPhoto -> photo_15118_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T02:53:59+00:00
 Texto:
 =============
@@ -159,7 +159,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T02:53:50+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15116_010.jpg
@@ -167,7 +167,7 @@ Midia: MessageMediaPhoto -> photo_15116_010.jpg
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T02:53:24+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15115_011.jpg
@@ -175,7 +175,7 @@ Midia: MessageMediaPhoto -> photo_15115_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T02:52:58+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15114_012.jpg
@@ -183,7 +183,7 @@ Midia: MessageMediaPhoto -> photo_15114_012.jpg
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T02:52:39+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15113_013.jpg
@@ -191,7 +191,7 @@ Midia: MessageMediaPhoto -> photo_15113_013.jpg
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T02:52:15+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15112_014.jpg
@@ -199,7 +199,7 @@ Midia: MessageMediaPhoto -> photo_15112_014.jpg
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T02:51:33+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15111_015.jpg
@@ -207,7 +207,7 @@ Midia: MessageMediaPhoto -> photo_15111_015.jpg
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T02:47:46+00:00
 Texto:
 e53 - Chat que Convence
@@ -215,7 +215,7 @@ e53 - Chat que Convence
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T02:47:32+00:00
 Texto:
 .
@@ -223,7 +223,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T02:47:32+00:00
 Texto:
 .
@@ -231,7 +231,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T02:47:32+00:00
 Texto:
 .
@@ -239,7 +239,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T02:47:32+00:00
 Texto:
 .
@@ -247,7 +247,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T02:47:31+00:00
 Texto:
 .
@@ -255,7 +255,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T02:47:31+00:00
 Texto:
 .
@@ -263,7 +263,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T02:47:31+00:00
 Texto:
 1
@@ -271,7 +271,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T02:47:27+00:00
 Texto: [Sem texto]
 

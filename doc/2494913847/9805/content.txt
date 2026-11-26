@@ -10,7 +10,7 @@ Midias baixadas: 8
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:08:44+00:00
 Texto:
 dublado
@@ -18,7 +18,7 @@ dublado
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:08:41+00:00
 Texto:
 https://www.youtube.com/watch?v=nqu579vGf14
@@ -27,7 +27,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:08:21+00:00
 Texto:
 Aqui está o **passo a passo completo das 3 automações** criadas com n8n, explicadas de forma prática:
@@ -171,7 +171,7 @@ Objetivo: extrair automaticamente os dados de um recibo enviado como imagem e re
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:08:00+00:00
 Texto:
 ================
@@ -179,7 +179,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:07:53+00:00
 Texto:
 Aqui está o resumo completo com os tópicos e exemplos dos **3 sistemas de automaçêo com IA simples, lucrativos e sem código** explicados:
@@ -247,7 +247,7 @@ Permite que o cliente envie uma foto de recibo pelo Telegram, e o sistema preenc
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:07:33+00:00
 Texto:
 =================
@@ -255,7 +255,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:05:46+00:00
 Texto:
 Três automações simples e práticas com inteligência artificial e *no-code*, usando o n8n, que podem ser vendidas por valores entre US\$ 500 e US\$ 1.500. 
@@ -271,7 +271,7 @@ A terceira automaçêo é voltada para o registro automático de recibos. O flux
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:02:33+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 24_2_Product_Shot_Automation (2).json
@@ -279,7 +279,7 @@ Midia: MessageMediaDocument -> 24_2_Product_Shot_Automation (2).json
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:02:33+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 24_2_Lead_Gen_System (2).json
@@ -287,7 +287,7 @@ Midia: MessageMediaDocument -> 24_2_Lead_Gen_System (2).json
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:02:33+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 24_2_Receipt_Automation (3).json
@@ -295,7 +295,7 @@ Midia: MessageMediaDocument -> 24_2_Receipt_Automation (3).json
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:02:19+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9815_011.jpg
@@ -303,7 +303,7 @@ Midia: MessageMediaPhoto -> photo_9815_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:00:07+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9814_012.jpg
@@ -311,7 +311,7 @@ Midia: MessageMediaPhoto -> photo_9814_012.jpg
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:58:52+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9813_013.jpg
@@ -319,7 +319,7 @@ Midia: MessageMediaPhoto -> photo_9813_013.jpg
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:56:47+00:00
 Texto:
 .al38 - 3 Sistemas Simples
@@ -327,7 +327,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:56:45+00:00
 Texto:
 ..
@@ -335,7 +335,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:56:45+00:00
 Texto:
 .
@@ -343,7 +343,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:56:45+00:00
 Texto:
 .
@@ -351,7 +351,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:56:44+00:00
 Texto:
 .
@@ -359,7 +359,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:56:44+00:00
 Texto:
 https://chatgpt.com/c/684e5468-834c-8009-a37b-6613b375f49d
@@ -368,7 +368,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:56:43+00:00
 Texto:
 1
@@ -376,7 +376,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:56:38+00:00
 Texto: [Sem texto]
 

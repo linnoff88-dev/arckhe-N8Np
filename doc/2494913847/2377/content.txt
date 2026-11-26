@@ -10,7 +10,7 @@ Midias baixadas: 5
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:50:14+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> AI_Personal_Assistant.json
@@ -18,7 +18,7 @@ Midia: MessageMediaDocument -> AI_Personal_Assistant.json
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:50:14+00:00
 Texto:
 a13
@@ -27,7 +27,7 @@ Midia: MessageMediaDocument -> Email_Agent_Demo.json
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:50:14+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Calendar_Agent_Demo.json
@@ -35,7 +35,7 @@ Midia: MessageMediaDocument -> Calendar_Agent_Demo.json
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:50:14+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Research_Agent_Demo.json
@@ -43,7 +43,7 @@ Midia: MessageMediaDocument -> Research_Agent_Demo.json
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:50:03+00:00
 Texto:
 a13
@@ -52,7 +52,7 @@ Midia: MessageMediaPhoto -> photo_2388_005.jpg
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:49:48+00:00
 Texto:
 at-13 - **Personal Assistant (with Voice Input/Output)**
@@ -60,7 +60,7 @@ at-13 - **Personal Assistant (with Voice Input/Output)**
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:49:46+00:00
 Texto:
 .
@@ -68,7 +68,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:49:46+00:00
 Texto:
 ..
@@ -76,7 +76,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:49:46+00:00
 Texto:
 .
@@ -84,7 +84,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:49:46+00:00
 Texto:
 ..
@@ -92,7 +92,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:49:45+00:00
 Texto:
 .
@@ -100,7 +100,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:49:45+00:00
 Texto:
 .
@@ -108,7 +108,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:49:45+00:00
 Texto:
 .
@@ -116,7 +116,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:49:45+00:00
 Texto:
 .
@@ -124,7 +124,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:49:44+00:00
 Texto:
 1
@@ -132,7 +132,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T05:49:38+00:00
 Texto: [Sem texto]
 

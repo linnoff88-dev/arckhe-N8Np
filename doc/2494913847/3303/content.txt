@@ -10,7 +10,7 @@ Midias baixadas: 4
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-16T06:52:01+00:00
 Texto:
 **Alternativa gratuita e poderosa ao SerpAPI para buscas na web – com a capacidade de restringir a um ou mais sites**
@@ -52,7 +52,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-16T06:51:31+00:00
 Texto:
 ap7
@@ -61,7 +61,7 @@ Midia: MessageMediaDocument -> Google_Custom_Search_API.json
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-16T06:51:19+00:00
 Texto:
 ap7
@@ -70,7 +70,7 @@ Midia: MessageMediaPhoto -> photo_3312_003.jpg
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-16T06:51:03+00:00
 Texto:
 ap1 - Google Programmable Search Engine (CSE)
@@ -78,7 +78,7 @@ ap1 - Google Programmable Search Engine (CSE)
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-16T06:51:01+00:00
 Texto:
 .
@@ -86,7 +86,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-16T06:51:01+00:00
 Texto:
 .
@@ -94,7 +94,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-16T06:51:01+00:00
 Texto:
 .
@@ -102,7 +102,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-16T06:51:01+00:00
 Texto:
 .
@@ -110,7 +110,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-16T06:51:00+00:00
 Texto:
 .
@@ -118,7 +118,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-16T06:51:00+00:00
 Texto:
 https://chatgpt.com/c/67d67428-b6dc-8009-8ddc-7237d43ab327
@@ -127,7 +127,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-16T06:51:00+00:00
 Texto:
 1
@@ -135,7 +135,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-16T06:50:54+00:00
 Texto: [Sem texto]
 

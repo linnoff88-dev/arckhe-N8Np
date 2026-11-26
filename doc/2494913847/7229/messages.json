@@ -9,7 +9,7 @@
   },
   {
     "id": 7247,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-06T01:30:40+00:00",
     "text": "https://www.youtube.com/watch?v=l7DLolM049k",
     "has_media": true,
@@ -17,7 +17,7 @@
   },
   {
     "id": 7246,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-06T01:30:22+00:00",
     "text": "1. Introduçêo ao vídeo\n   • Proposta de substituir toda a equipe de marketing por um sistema de IA com Lovable 2.0 e ChatGPT API\n   • Benefícios: criaçêo de posts de alta qualidade, no tom de voz desejado, sem necessidade de conhecimento em programaçêo\n\n2. Demonstraçêo rápida do funcionamento\n   • Botêo “Autogerar” no Lovable para iniciar o processo\n   • Usuário fornece: setor, público-alvo, tom de voz e tema\n   • Agente de IA pesquisa automaticamente os últimos 14 dias de informações relevantes\n   • Geraçêo de três opções de posts e de uma imagem para cada uma\n\n3. Configuraçêo do protótipo em Lovable\n   • Escolha das plataformas (LinkedIn, Instagram, X etc.)\n   • Definiçêo de campos no formulário: tom de voz, plataforma, avatar, tema, problema a resolver\n   • Ediçêo interativa dos textos e design diretamente na interface\n\n4. Montagem do workflow em n8n\n   • Recebimento dos dados via webhook do Lovable\n   • Uso de um módulo “Set” para armazenar tom de voz, tema, plataforma e avatar\n   • Configuraçêo de um agente de IA (ChatGPT) para pesquisa na web via HTTP request (por exemplo, Tavily)\n   • Prompt do agente: analista de pesquisa, busca de tópicos relevantes, resumo e formataçêo em JSON\n   • Parsing do JSON e ramificaçêo das três opções de post\n\n5. Geraçêo de imagens com API de IA\n   • Módulo “Image Prompter” que cria meta-prompt para o gerador de imagens (estilo Ghibli, infográfico etc.)\n   • Chamada HTTP à OpenAI para gerar a imagem com o prompt meta\n   • Upload automático da imagem gerada para pasta compartilhada no Google Drive\n\n6. Retorno dos resultados ao usuário\n   • Resposta ao webhook com JSON contendo:\n   – texto dos três posts\n   – URL de cada imagem\n   • Possível envio de e-mail via Gmail com as imagens e links prontos para download\n\n7. Boas práticas e dicas do criador\n   • Priorizar primeiro a funcionalidade do fluxo e depois o design\n   • Utilizar agents em vez de chamadas diretas para melhor performance\n   • Aproveitar o recurso de ediçêo granular do Lovable para ajustes rápidos\n   • Modularizar o workflow para suportar múltiplas plataformas em paralelo",
     "has_media": false,
@@ -25,7 +25,7 @@
   },
   {
     "id": 7245,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-06T01:30:12+00:00",
     "text": "=============",
     "has_media": false,
@@ -33,7 +33,7 @@
   },
   {
     "id": 7244,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-06T01:29:57+00:00",
     "text": "Objetivo do vídeo\n\n* mostrar como substituir uma equipe de marketing de US\\$ 50 000 por um fluxo de IA que cria posts e imagens automaticamente, sem precisar saber programar\n\nComo funciona (visêo geral)\n\n1. o usuário informa na interface Lovable\n\n   * plataforma (LinkedIn, Instagram, X etc.)\n   * público-alvo (avatar)\n   * tema e tom de voz\n2. um agente de IA pesquisa automaticamente na web (últimos 14 dias)\n3. gera três opções de texto de post em JSON\n4. gera uma imagem para cada opçêo via API de IA\n5. entrega tudo via painel, webhook ou e-mail\n\nConfiguraçêo do protótipo em Lovable\n\n* importar blueprint ou criar formulário com perguntas:\n\n  1. escolha de plataforma\n  2. definiçêo de avatar\n  3. tema do post\n  4. tom de voz\n* editar texto e design diretamente na interface, ajustando cores, fontes e layout\n\nMontagem do fluxo em n8n\n\n1. webhook de entrada recebe dados do Lovable\n2. módulo “Set” armazena campos: tom de voz, tema, plataforma, avatar\n3. agente de IA (ChatGPT) faz requisiçêo HTTP a um serviço de pesquisa (por exemplo Tavily)\n\n   * sistema define funçêo: analista de pesquisa de notícias, resumo e formataçêo em JSON\n4. parser JSON separa as três opções de posts\n5. para cada opçêo, chamar API de geraçêo de imagem\n6. converter o resultado em base64 e fazer upload no Google Drive\n7. webhook de resposta retorna JSON com:\n\n   * texto dos três posts\n   * URLs das imagens geradas\n\nEntrega e integraçêo final\n\n* painel mostra os três textos prontos e permite baixar cada imagem\n* opçêo de enviar um rascunho de e-mail via Gmail com links das imagens\n* folder compartilhado no Drive para acesso externo\n\nPrincipais dicas do criador\n\n* priorizar primeiro a lógica e integraçêo antes de trabalhar no design\n* usar agentes (vs chamadas diretas) para ganhar em velocidade e custo\n* modularizar o fluxo para suportar várias redes em paralelo\n* aproveitar a ediçêo granular do Lovable para ajustes rápidos após o build funcional",
     "has_media": false,
@@ -41,15 +41,15 @@
   },
   {
     "id": 7242,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-06T01:19:46+00:00",
-    "text": "**j88) Substitua sua equipe de marketing de R\\$ 50.000**\n\n\n### Ferramentas 🧰\n\n🔥 Loveable: [https://lovable.dev/?via=](https://lovable.dev/?via=inematds)inematds\n🧠 n8n: [https://n8n.io](https://n8n.io/)\n📊 Airtable: [https://airtable.com/invite/r/OCq1Acz2](https://airtable.com/invite/r/OCq1Acz2) \n💥 Tavily: [https://tavily.com](https://tavily.com/)\n💼 Agente LinkedIn: [https://5ctxeddk.paperform.co](https://5ctxeddk.paperform.co/)",
+    "text": "**j88) Substitua sua equipe de marketing de R\\$ 50.000**\n\n\n### Ferramentas 🧰\n\n🔥 Loveable: [https://lovable.dev/?via=](https://lovable.dev/?via=linnoff88-dev)linnoff88-dev\n🧠 n8n: [https://n8n.io](https://n8n.io/)\n📊 Airtable: [https://airtable.com/invite/r/OCq1Acz2](https://airtable.com/invite/r/OCq1Acz2) \n💥 Tavily: [https://tavily.com](https://tavily.com/)\n💼 Agente LinkedIn: [https://5ctxeddk.paperform.co](https://5ctxeddk.paperform.co/)",
     "has_media": true,
     "media_type": "MessageMediaWebPage"
   },
   {
     "id": 7241,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-06T01:18:14+00:00",
     "text": "Transforme ideias em POSTS COMPLETOS com imagens incríveis\n (Redes Sociais)\n\n🚨 ATUALIZAÇêO: Expandi o projeto original para incluir X, Instagram e LinkedIn \n\nO Loveable 2.0 e a API de imagens do ChatGPT acabaram de ser lançados.\nVamos combinar essas ferramentas para criar algo incrível para redes sociais.\n\n🔮 Visêo:\nCriar posts pesquisados e de alta qualidade com um gráfico bonito e no meu tom de voz, apenas dizendo o tema que quero abordar.\nEsta semana vou te mostrar como combinar o Loveable com o ChatGPT para criar posts épicos para qualquer plataforma.\n\n**Entrada**\n💬 Tom de voz\n💼 Setor de atuaçêo\n🔮 Tema\n🦸 Avatar do público-alvo\n🔥 Chamada para açêo (se houver)\n\n**Como funciona**\n🤖 Um agente de IA faz uma pesquisa implacável dos últimos 14 dias\n💎 Ele apresenta três ideias diferentes sobre o tema\n🚀 Essas ideias viram posts otimizados\n👀 Em seguida, criamos uma imagem incrível\n🎉 Você visualiza tudo em um painel para postar imediatamente",
     "has_media": false,
@@ -57,7 +57,7 @@
   },
   {
     "id": 7240,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-06T01:17:00+00:00",
     "text": "",
     "has_media": true,
@@ -66,7 +66,7 @@
   },
   {
     "id": 7239,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-06T01:17:00+00:00",
     "text": "",
     "has_media": true,
@@ -75,7 +75,7 @@
   },
   {
     "id": 7238,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-06T01:16:44+00:00",
     "text": "",
     "has_media": true,
@@ -84,7 +84,7 @@
   },
   {
     "id": 7237,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-06T01:14:28+00:00",
     "text": "",
     "has_media": true,
@@ -93,7 +93,7 @@
   },
   {
     "id": 7236,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-06T01:14:23+00:00",
     "text": "j88 - Equipe de Marketing - Lovable",
     "has_media": false,
@@ -101,7 +101,7 @@
   },
   {
     "id": 7235,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-06T01:14:01+00:00",
     "text": "..",
     "has_media": false,
@@ -109,7 +109,7 @@
   },
   {
     "id": 7234,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-06T01:14:01+00:00",
     "text": ".",
     "has_media": false,
@@ -117,7 +117,7 @@
   },
   {
     "id": 7233,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-06T01:14:00+00:00",
     "text": ".",
     "has_media": false,
@@ -125,7 +125,7 @@
   },
   {
     "id": 7232,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-06T01:14:00+00:00",
     "text": ".",
     "has_media": false,
@@ -133,7 +133,7 @@
   },
   {
     "id": 7231,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-06T01:14:00+00:00",
     "text": "https://chatgpt.com/c/681939d6-a9d8-8009-9d39-97a221eb777c?model=o4-mini-high",
     "has_media": true,
@@ -141,7 +141,7 @@
   },
   {
     "id": 7230,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-06T01:13:59+00:00",
     "text": "1",
     "has_media": false,
@@ -149,7 +149,7 @@
   },
   {
     "id": 7229,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-06T01:13:48+00:00",
     "text": "",
     "has_media": false,

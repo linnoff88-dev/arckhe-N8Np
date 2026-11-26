@@ -10,7 +10,7 @@ Midias baixadas: 8
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-27T23:33:19+00:00
 Texto:
 ## ⚡️ HACKS PARA CRIAR E USAR AGENTES DE IA NO N8N
@@ -101,7 +101,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-27T23:31:28+00:00
 Texto:
 =============
@@ -109,7 +109,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-27T23:31:25+00:00
 Texto:
 ## 🧩 PASSO A PASSO PARA CRIAR O WORKFLOW DE AGENTES NO N8N
@@ -228,7 +228,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-27T23:31:09+00:00
 Texto:
 =========
@@ -236,7 +236,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-27T23:28:42+00:00
 Texto:
 exemplos 
@@ -321,7 +321,7 @@ Aqui estêo os **exemplos práticos citados no vídeo** sobre como usar um enxam
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-27T23:26:49+00:00
 Texto:
 ==========
@@ -329,7 +329,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-27T23:26:45+00:00
 Texto:
 ## Quando usar AGENTE de IA
@@ -364,7 +364,7 @@ Se é só **fazer → WORKFLOW**
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-27T23:26:19+00:00
 Texto:
 ===========
@@ -372,7 +372,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-27T23:26:15+00:00
 Texto:
 A diferença entre **usar um agente de IA** ou **um workflow tradicional** está principalmente na **necessidade de tomada de decisêo, raciocínio dinâmico** e **flexibilidade**. Veja abaixo um resumo prático com exemplos:
@@ -459,7 +459,7 @@ Use um **workflow tradicional** quando o processo:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-27T23:24:46+00:00
 Texto:
 ============
@@ -467,7 +467,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-27T23:24:43+00:00
 Texto:
 **Resumo completo  "Construir um enxame de agentes de IA no n8n ficou muito fácil":**
@@ -590,7 +590,7 @@ O vídeo ensina, passo a passo, como criar um sistema com múltiplos agentes de 
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-27T23:09:25+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11860_012.jpg
@@ -598,7 +598,7 @@ Midia: MessageMediaPhoto -> photo_11860_012.jpg
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-27T23:08:35+00:00
 Texto:
 Um Enxame de Agentes de IA no n8n Ficou Muito Fácil**
@@ -615,7 +615,7 @@ Graças a uma atualizaçêo recente do n8n, agora podemos manter tudo dentro de 
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-27T23:07:19+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Agent Swarm Logs (file -_ make a copy).xlsx
@@ -623,7 +623,7 @@ Midia: MessageMediaDocument -> Agent Swarm Logs (file -_ make a copy).xlsx
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-27T23:07:18+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Video Ideas (file -_ make a copy).xlsx
@@ -631,7 +631,7 @@ Midia: MessageMediaDocument -> Video Ideas (file -_ make a copy).xlsx
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-27T23:05:57+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Mastering Reactive Prompting for AI Agents (1).pdf
@@ -639,7 +639,7 @@ Midia: MessageMediaDocument -> Mastering Reactive Prompting for AI Agents (1).pd
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-27T23:05:51+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Agent Swarm.json
@@ -647,7 +647,7 @@ Midia: MessageMediaDocument -> Agent Swarm.json
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-27T23:05:42+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11854_018.jpg
@@ -655,7 +655,7 @@ Midia: MessageMediaPhoto -> photo_11854_018.jpg
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-27T23:04:39+00:00
 Texto:
 ap49 - Enxame de Agentes
@@ -663,7 +663,7 @@ ap49 - Enxame de Agentes
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-27T23:04:37+00:00
 Texto:
 .
@@ -671,7 +671,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-27T23:04:37+00:00
 Texto:
 ..
@@ -679,7 +679,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-27T23:04:37+00:00
 Texto:
 .
@@ -687,7 +687,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-27T23:04:36+00:00
 Texto:
 .
@@ -695,7 +695,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-27T23:04:36+00:00
 Texto:
 https://chatgpt.com/c/6886b03e-3640-8331-9136-8034418f392d
@@ -704,7 +704,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-27T23:04:36+00:00
 Texto:
 1
@@ -712,7 +712,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-27T23:04:30+00:00
 Texto: [Sem texto]
 

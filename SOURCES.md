@@ -93,6 +93,6 @@ python3 inventory_workflows.py
 
 ## Links
 
-- GitHub N8Np: https://github.com/inematds/N8Np
-- GitHub Pages: https://inematds.github.io/N8Np/
+- GitHub N8Np: https://github.com/linnoff88-dev/N8Np
+- GitHub Pages: https://linnoff88-dev.github.io/arckhe-/
 - Telegram VIP: https://t.me/c/2494913847/

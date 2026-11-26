@@ -50,7 +50,7 @@ Alguma automaçêo para converter pdf  em arquivo no word?
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-23T08:24:38+00:00
 Texto:
 https://www.youtube.com/live/PyFJ0mEXWyw?si=u7nxC6yqUWFzOKvW
@@ -59,7 +59,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T19:15:34+00:00
 Texto:
 ==============
@@ -67,7 +67,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T19:15:30+00:00
 Texto:
 Me deparei com um problema ao configurar um agente chatbot com RAG: quando uso o **window buffer** nativo do **N8N**, ele tende a armazenar as informações na memória sem consultar a base documental, o que faz com que invente muitas respostas.  
@@ -92,7 +92,7 @@ Aqui estêo algumas boas práticas para melhorar ainda mais a configuraçêo:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T19:14:38+00:00
 Texto:
 ===========
@@ -100,7 +100,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T19:12:20+00:00
 Texto:
 ## **Multiagentes Ótimos no N8N**  
@@ -181,7 +181,7 @@ Essa estrutura transforma seu **N8N** em um **orquestrador poderoso** de tarefas
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T19:11:43+00:00
 Texto:
 =============
@@ -189,7 +189,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T19:11:33+00:00
 Texto:
 ## Multiagentes Ótimos no N8N 🔥
@@ -219,7 +219,7 @@ Quem aí já tentou criar um sistema multiagente e sentiu a dor do caos?
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T19:10:34+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 1__Asistente_personal_principal.json
@@ -227,7 +227,7 @@ Midia: MessageMediaDocument -> 1__Asistente_personal_principal.json
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T19:10:34+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 1_1_Asistente_calendario (1).json
@@ -235,7 +235,7 @@ Midia: MessageMediaDocument -> 1_1_Asistente_calendario (1).json
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T19:10:34+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 1_2_Asistente_documentos (1).json
@@ -243,7 +243,7 @@ Midia: MessageMediaDocument -> 1_2_Asistente_documentos (1).json
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T19:10:34+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 1_4_Asistente_llamadas__Retell_.json
@@ -251,7 +251,7 @@ Midia: MessageMediaDocument -> 1_4_Asistente_llamadas__Retell_.json
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T19:10:34+00:00
 Texto:
 e6n8
@@ -260,7 +260,7 @@ Midia: MessageMediaDocument -> 1_3_Asistente_emails (1).json
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T19:09:14+00:00
 Texto:
 e6n8
@@ -269,7 +269,7 @@ Midia: MessageMediaPhoto -> photo_2753_018.jpg
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T19:08:34+00:00
 Texto:
 e6n8 - Multi Agentes
@@ -277,7 +277,7 @@ e6n8 - Multi Agentes
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T19:08:32+00:00
 Texto:
 .
@@ -285,7 +285,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T19:08:32+00:00
 Texto:
 .
@@ -293,7 +293,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T19:08:32+00:00
 Texto:
 ..
@@ -301,7 +301,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T19:08:32+00:00
 Texto:
 .
@@ -309,7 +309,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T19:08:31+00:00
 Texto:
 .
@@ -317,7 +317,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T19:08:31+00:00
 Texto:
 .
@@ -325,7 +325,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T19:08:31+00:00
 Texto:
 https://chatgpt.com/c/67d0890f-d198-8009-ad8a-32de015ae271
@@ -334,7 +334,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T19:08:30+00:00
 Texto:
 1
@@ -342,7 +342,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-11T19:08:23+00:00
 Texto: [Sem texto]
 

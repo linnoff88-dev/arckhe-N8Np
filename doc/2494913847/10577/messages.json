@@ -9,7 +9,7 @@
   },
   {
     "id": 14386,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-09-19T17:45:58+00:00",
     "text": "so testada, tem alguem fazer validar em um amebiente real",
     "has_media": false,
@@ -89,7 +89,7 @@
   },
   {
     "id": 10962,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-05T22:28:05+00:00",
     "text": "ele nao fez na primeira vez, ai tive q pedir para recriar",
     "has_media": false,
@@ -123,7 +123,7 @@
     "id": 10772,
     "author": "Igor",
     "date": "2025-07-02T04:13:09+00:00",
-    "text": "Alguém testou? \n\nQuais seriam esses erros? arquivo 02 e 03 (monitoramento e atendimento inicial)\n\n@INEMAtds",
+    "text": "Alguém testou? \n\nQuais seriam esses erros? arquivo 02 e 03 (monitoramento e atendimento inicial)\n\n@linnoff88-dev",
     "has_media": false,
     "media_type": null
   },
@@ -139,7 +139,7 @@
     "id": 10737,
     "author": "Igor",
     "date": "2025-07-01T21:07:16+00:00",
-    "text": "Alguém testou? \n\nQuais seriam esses erros? arquivo 02 e 03 (monitoramento e atendimento inicial)\n\n@INEMAtds",
+    "text": "Alguém testou? \n\nQuais seriam esses erros? arquivo 02 e 03 (monitoramento e atendimento inicial)\n\n@linnoff88-dev",
     "has_media": false,
     "media_type": null
   },
@@ -179,7 +179,7 @@
     "id": 10679,
     "author": "Taylor",
     "date": "2025-06-29T02:16:55+00:00",
-    "text": "@INEMAtds nêo entendi . Quais tiveram problemas ?",
+    "text": "@linnoff88-dev nêo entendi . Quais tiveram problemas ?",
     "has_media": false,
     "media_type": null
   },
@@ -195,13 +195,13 @@
     "id": 10618,
     "author": "Jefecito",
     "date": "2025-06-26T13:34:10+00:00",
-    "text": "@INEMAtds o ideal para gerar esses fluxos com manus, genspark ou claude é usar aqueles nodes de exemplo (ou nodes atualizados) que você publicou. \n\nPorque a referência que esses agentes possuem internamente sobre esses nodes sêo um pouco antigas e muitas delas podem apresentar mal funcionamento mesmo apresentando estarem corretas pós importaçêo.",
+    "text": "@linnoff88-dev o ideal para gerar esses fluxos com manus, genspark ou claude é usar aqueles nodes de exemplo (ou nodes atualizados) que você publicou. \n\nPorque a referência que esses agentes possuem internamente sobre esses nodes sêo um pouco antigas e muitas delas podem apresentar mal funcionamento mesmo apresentando estarem corretas pós importaçêo.",
     "has_media": false,
     "media_type": null
   },
   {
     "id": 10615,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-26T04:42:19+00:00",
     "text": "=========",
     "has_media": false,
@@ -209,7 +209,7 @@
   },
   {
     "id": 10610,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-26T03:19:48+00:00",
     "text": "Tecnologias e Arquitetura\n\n### Stack Tecnológico\n- **n8n**: Orquestraçêo e automaçêo\n- **Supabase**: Backend e banco PostgreSQL\n- **WhatsApp Business API**: Comunicaçêo principal\n- **Telegram Bot API**: Interface de supervisêo\n- **SMTP/IMAP**: Processamento de e-mails\n- **JavaScript/Node.js**: Lógica de negócio\n\n### Arquitetura de Segurança\n- **Row Level Security (RLS)** no banco\n- **Autenticaçêo por tokens** em todas as APIs\n- **Criptografia TLS** end-to-end\n- **Logs auditáveis** de todas as operações\n- **Controle de acesso** granular\n\n### Escalabilidade\n- **Webhooks assíncronos** para alta performance\n- **Cache inteligente** para otimizaçêo\n- **Rate limiting** para proteçêo\n- **Monitoramento proativo** de recursos\n\n## 📈 Roadmap de Implementaçêo\n\n### Fase 1: Setup Inicial (Semana 1-2)\n- [x] Configuraçêo do Supabase\n- [x] Importaçêo dos workflows n8n\n- [x] Configuraçêo das integrações\n- [x] Testes básicos de conectividade\n\n### Fase 2: Configuraçêo Avançada (Semana 3)\n- [x] Personalizaçêo de templates\n- [x] Configuraçêo do sistema HITL\n- [x] Treinamento da equipe\n- [x] Testes de carga\n\n### Fase 3: Go-Live (Semana 4)\n- [ ] Deploy em produçêo\n- [ ] Monitoramento intensivo\n- [ ] Ajustes finos\n- [ ] Coleta de feedback\n\n### Fase 4: Otimizaçêo (Mês 2)\n- [ ] Análise de métricas\n- [ ] Otimizaçêo de performance\n- [ ] Expansêo de funcionalidades\n- [ ] Integraçêo com sistemas legados\n\n## 💼 Benefícios para o Negócio\n\n### Operacionais\n- **Atendimento 24/7** sem custo adicional\n- **Padronizaçêo** do atendimento\n- **Reduçêo de erros** humanos\n- **Aumento da produtividade** da equipe\n\n### Comerciais\n- **Maior conversêo** de leads\n- **Ciclo de vendas** mais rápido\n- **Melhor experiência** do cliente\n- **Vantagem competitiva** significativa\n\n### Estratégicos\n- **Dados estruturados** para análise\n- **Insights de mercado** automáticos\n- **Escalabilidade** sem limite\n- **Base para inovações** futuras\n\n## 🎓 Capacitaçêo da Equipe\n\n### Treinamento Incluído\n- **Workshop de 4 horas** sobre o sistema\n- **Manual operacional** detalhado\n- **Vídeos tutoriais** passo a passo\n- **Suporte técnico** por 90 dias\n\n### Competências Desenvolvidas\n- **Uso do dashboard** Telegram\n- **Interpretaçêo de métricas** de performance\n- **Gestêo de casos HITL** complexos\n- **Otimizaçêo contínua** do sistema\n\n## 🔮 Próximos Passos\n\n### Imediatos (30 dias)\n1. **Deploy em produçêo** com acompanhamento\n2. **Treinamento da equipe** operacional\n3. **Monitoramento intensivo** de métricas\n4. **Ajustes finos** baseados no uso real\n\n### Médio Prazo (90 dias)\n1. **Integraçêo com CRM** existente\n2. **Expansêo para outros canais** (Instagram, Facebook)\n3. **IA mais avançada** com GPT-4\n4. **Relatórios executivos** automáticos\n\n### Longo Prazo (1 ano)\n1. **Análise preditiva** de mercado\n2. **Automaçêo de contratos** e documentos\n3. **Integraçêo com IoT** para visitas virtuais\n4. **Expansêo para outras verticais**\n\n## 🏆 Conclusêo\n\nO **Sistema de Automaçêo Imobiliária** entregue representa uma soluçêo completa e inovadora que posiciona a empresa na vanguarda tecnológica do setor. Com arquitetura robusta, funcionalidades avançadas e documentaçêo completa, o sistema está pronto para transformar a operaçêo e gerar resultados excepcionais.\n\n### Principais Conquistas\n✅ **Sistema 100% funcional** e testado  \n✅ **Documentaçêo completa** para operaçêo  \n✅ **Arquitetura escalável** para crescimento  \n✅ **ROI comprovado** em casos similares  \n✅ **Suporte técnico** garantido  \n\n### Impacto Esperado\n🚀 **Transformaçêo digital** completa  \n📈 **Aumento significativo** de vendas  \n💰 **Reduçêo de custos** operacionais  \n🎯 **Vantagem competitiva** sustentável  \n🌟 **Experiência do cliente** excepcional  \n\n---\n\n**O futuro da automaçêo imobiliária começa agora!** 🏠🤖",
     "has_media": false,
@@ -217,7 +217,7 @@
   },
   {
     "id": 10609,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-26T03:19:48+00:00",
     "text": "# Resumo Executivo - Sistema de Automaçêo Imobiliária\n\n## 🎯 Objetivo Alcançado\n\nCriamos um **sistema completo de automaçêo imobiliária** usando n8n como plataforma principal, integrando múltiplos canais de comunicaçêo com inteligência artificial e supervisêo humana. O sistema oferece atendimento 24/7 automatizado com qualidade profissional.\n\n## 🏗️ Componentes Entregues\n\n### 1. Backend Supabase (PostgreSQL)\n- **15 tabelas** estruturadas com relacionamentos otimizados\n- **Políticas RLS** para segurança granular\n- **Triggers e funções** para automaçêo de dados\n- **Índices otimizados** para performance\n- **Sistema de logs** completo\n\n### 2. Workflows n8n (9 workflows)\n1. **Orquestrador Central** - Coordena todas as interações\n2. **Monitoramento e Métricas** - Analytics em tempo real\n3. **Atendimento Inicial** - Qualificaçêo inteligente de leads\n4. **Agendamento de Visitas** - Automaçêo completa de agenda\n5. **Captaçêo de Proprietários** - Processamento de novos imóveis\n6. **Relacionamento/Follow-up** - Nutriçêo automática de leads\n7. **Integraçêo WhatsApp** - API Business completa\n8. **Integraçêo E-mail** - IMAP/SMTP com newsletter HTML\n9. **Sistema HITL Telegram** - Supervisêo e controle humano\n\n### 3. Integrações Completas\n- **WhatsApp Business API** com webhook bidirecional\n- **E-mail IMAP/SMTP** com processamento inteligente\n- **Telegram Bot** com comandos avançados\n- **Supabase** como backend unificado\n\n### 4. Sistema HITL (Human-in-the-Loop)\n- **Dashboard Telegram** com comandos interativos\n- **Notificações automáticas** por prioridade\n- **Aprovaçêo manual** para casos complexos\n- **Métricas em tempo real** de performance\n\n### 5. Documentaçêo Completa\n- **Manual de Instalaçêo** passo a passo\n- **Guia de Uso** operacional detalhado\n- **Troubleshooting e FAQ** abrangente\n- **Configuraçêo de Variáveis** documentada\n- **Arquitetura do Sistema** explicada\n\n## 🚀 Funcionalidades Principais\n\n### Atendimento Automatizado\n- **Resposta instantânea** em WhatsApp e E-mail\n- **Detecçêo de intençêo** com IA\n- **Qualificaçêo automática** de leads\n- **Personalizaçêo** baseada no histórico\n\n### Gestêo Inteligente\n- **Score de qualificaçêo** dinâmico\n- **Segmentaçêo automática** de clientes\n- **Follow-up personalizado** por perfil\n- **Reativaçêo** de clientes inativos\n\n### Agendamento Avançado\n- **Disponibilidade automática** de corretores\n- **Confirmações e lembretes** automáticos\n- **Reagendamento inteligente** em caso de conflitos\n- **Integraçêo com calendário** dos corretores\n\n### Supervisêo Humana\n- **Intervençêo quando necessário** (HITL)\n- **Dashboard de controle** via Telegram\n- **Alertas por prioridade** configuráveis\n- **Relatórios automáticos** diários/semanais\n\n## 📊 Métricas e Resultados Esperados\n\n### Performance do Sistema\n- **Tempo de resposta**: < 60 segundos\n- **Disponibilidade**: 99.5% uptime\n- **Taxa de resoluçêo automática**: > 85%\n- **Satisfaçêo do cliente**: > 4.5/5\n\n### Impacto no Negócio\n- **Reduçêo de 70%** no tempo de resposta\n- **Aumento de 300%** na capacidade de atendimento\n- **Melhoria de 50%** na qualificaçêo de leads\n- **Economia de 60%** em custos operacionais\n\n### ROI Estimado\n- **Payback**: 3-6 meses\n- **ROI anual**: 400-600%\n- **Economia anual**: R$ 200.000+\n- **Aumento de vendas**: 25-40%\n\n## 🎯 Diferenciais Competitivos\n\n### 1. Arquitetura Modular\n- **Agentes especializados** para cada funçêo\n- **Escalabilidade horizontal** fácil\n- **Manutençêo simplificada** por módulo\n- **Integraçêo** com sistemas existentes\n\n### 2. IA Conversacional Avançada\n- **Processamento de linguagem natural** em português\n- **Contexto de conversa** mantido\n- **Aprendizado contínuo** com feedback\n- **Personalizaçêo** por cliente\n\n### 3. Sistema HITL Inovador\n- **Supervisêo inteligente** apenas quando necessário\n- **Dashboard móvel** via Telegram\n- **Escalaçêo automática** por prioridade\n- **Métricas em tempo real**\n\n### 4. Integraçêo Omnichannel\n- **Múltiplos canais** unificados\n- **Histórico centralizado** por cliente\n- **Experiência consistente** em todos os canais\n- **Sincronizaçêo automática** de dados\n\n## 🔧",
     "has_media": false,
@@ -225,7 +225,7 @@
   },
   {
     "id": 10608,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-26T03:17:35+00:00",
     "text": "orientações feita pelo chatgpt para ele",
     "has_media": true,
@@ -234,7 +234,7 @@
   },
   {
     "id": 10607,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-26T03:15:53+00:00",
     "text": "",
     "has_media": true,
@@ -243,7 +243,7 @@
   },
   {
     "id": 10606,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-26T03:15:43+00:00",
     "text": "",
     "has_media": true,
@@ -252,7 +252,7 @@
   },
   {
     "id": 10605,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-26T03:15:43+00:00",
     "text": "",
     "has_media": true,
@@ -261,7 +261,7 @@
   },
   {
     "id": 10604,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-26T03:15:32+00:00",
     "text": "",
     "has_media": true,
@@ -270,7 +270,7 @@
   },
   {
     "id": 10603,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-26T03:14:22+00:00",
     "text": "2",
     "has_media": true,
@@ -279,7 +279,7 @@
   },
   {
     "id": 10602,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-26T02:53:50+00:00",
     "text": "",
     "has_media": true,
@@ -288,7 +288,7 @@
   },
   {
     "id": 10601,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-26T02:53:20+00:00",
     "text": "",
     "has_media": true,
@@ -297,7 +297,7 @@
   },
   {
     "id": 10600,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-26T02:53:20+00:00",
     "text": "",
     "has_media": true,
@@ -306,7 +306,7 @@
   },
   {
     "id": 10599,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-26T02:53:20+00:00",
     "text": "",
     "has_media": true,
@@ -315,7 +315,7 @@
   },
   {
     "id": 10598,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-26T02:53:20+00:00",
     "text": "",
     "has_media": true,
@@ -324,7 +324,7 @@
   },
   {
     "id": 10597,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-26T02:53:20+00:00",
     "text": "",
     "has_media": true,
@@ -333,7 +333,7 @@
   },
   {
     "id": 10596,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-26T02:53:20+00:00",
     "text": "",
     "has_media": true,
@@ -342,7 +342,7 @@
   },
   {
     "id": 10595,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-26T02:53:20+00:00",
     "text": "",
     "has_media": true,
@@ -351,7 +351,7 @@
   },
   {
     "id": 10594,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-26T02:53:20+00:00",
     "text": "",
     "has_media": true,
@@ -360,7 +360,7 @@
   },
   {
     "id": 10593,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-26T02:53:20+00:00",
     "text": "",
     "has_media": true,
@@ -369,7 +369,7 @@
   },
   {
     "id": 10592,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-26T02:52:58+00:00",
     "text": "2,3 tiveram problemas",
     "has_media": false,
@@ -377,7 +377,7 @@
   },
   {
     "id": 10591,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-26T02:52:48+00:00",
     "text": "",
     "has_media": true,
@@ -386,7 +386,7 @@
   },
   {
     "id": 10590,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-26T02:52:18+00:00",
     "text": "",
     "has_media": true,
@@ -395,7 +395,7 @@
   },
   {
     "id": 10589,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-26T02:51:59+00:00",
     "text": "",
     "has_media": true,
@@ -404,7 +404,7 @@
   },
   {
     "id": 10588,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-26T02:51:36+00:00",
     "text": "",
     "has_media": true,
@@ -413,7 +413,7 @@
   },
   {
     "id": 10587,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-26T02:51:10+00:00",
     "text": "",
     "has_media": true,
@@ -422,7 +422,7 @@
   },
   {
     "id": 10586,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-26T02:50:40+00:00",
     "text": "",
     "has_media": true,
@@ -431,7 +431,7 @@
   },
   {
     "id": 10585,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-26T02:49:46+00:00",
     "text": "",
     "has_media": true,
@@ -440,7 +440,7 @@
   },
   {
     "id": 10584,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-26T02:48:55+00:00",
     "text": "nm56- Manus Imobiliaria",
     "has_media": false,
@@ -448,7 +448,7 @@
   },
   {
     "id": 10583,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-26T02:48:54+00:00",
     "text": ".",
     "has_media": false,
@@ -456,7 +456,7 @@
   },
   {
     "id": 10582,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-26T02:48:53+00:00",
     "text": ".",
     "has_media": false,
@@ -464,7 +464,7 @@
   },
   {
     "id": 10581,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-26T02:48:53+00:00",
     "text": ".",
     "has_media": false,
@@ -472,7 +472,7 @@
   },
   {
     "id": 10580,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-26T02:48:52+00:00",
     "text": ".",
     "has_media": false,
@@ -480,7 +480,7 @@
   },
   {
     "id": 10579,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-26T02:48:52+00:00",
     "text": ".",
     "has_media": false,
@@ -488,7 +488,7 @@
   },
   {
     "id": 10578,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-26T02:48:52+00:00",
     "text": "1",
     "has_media": false,
@@ -496,7 +496,7 @@
   },
   {
     "id": 10577,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-26T02:48:36+00:00",
     "text": "",
     "has_media": false,

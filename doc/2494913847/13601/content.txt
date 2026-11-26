@@ -10,7 +10,7 @@ Midias baixadas: 16
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T04:16:45+00:00
 Texto:
 q queres extrair (apify)
@@ -34,7 +34,7 @@ Tem alguma automaçêo que extrai ?
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-31T08:38:38+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> n3witalia_71_workflows_full.csv
@@ -42,7 +42,7 @@ Midia: MessageMediaDocument -> n3witalia_71_workflows_full.csv
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-31T07:23:44+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13694_005.jpg
@@ -50,7 +50,7 @@ Midia: MessageMediaPhoto -> photo_13694_005.jpg
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-31T06:42:44+00:00
 Texto:
 (DeepSeek/OpenAI)
@@ -77,7 +77,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-31T06:42:44+00:00
 Texto:
 Segue a lista **totalmente em português**, separada por categoria, de acordo com os workflows do criador n3witalia no n8n. Está pronta para uso em qualquer apresentaçêo, documentaçêo ou consulta:
@@ -174,7 +174,7 @@ Segue a lista **totalmente em português**, separada por categoria, de acordo co
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-31T06:39:26+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13629_008.jpg
@@ -182,7 +182,7 @@ Midia: MessageMediaPhoto -> photo_13629_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-31T06:25:21+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13628_009.jpg
@@ -190,7 +190,7 @@ Midia: MessageMediaPhoto -> photo_13628_009.jpg
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-31T06:23:55+00:00
 Texto:
 [https://n8n.io/workflows/2813-automate-content-generator-for-wordpress-with-deepseek-r1/](https://n8n.io/workflows/2813-automate-content-generator-for-wordpress-with-deepseek-r1/)&#x20;
@@ -205,7 +205,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-31T06:23:55+00:00
 Texto:
 nAI) – 9 nodes – [https://n8n.io/workflows/3332-personal-shopper-chatbot-for-woocommerce-with-rag-google-drive-and-openai/](https://n8n.io/workflows/3332-personal-shopper-chatbot-for-woocommerce-with-rag-google-drive-and-openai/)
@@ -228,7 +228,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-31T06:23:55+00:00
 Texto:
 es-chatbot-with-gpt-4o-rag-google-drive-and-telegram/)&#x20;
@@ -252,7 +252,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-31T06:23:55+00:00
 Texto:
 convert-jpg-png-to-webp-with-apyhub-and-google-drive/)
@@ -275,7 +275,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-31T06:23:55+00:00
 Texto:
 .io/workflows/3936-youtube-comment-sentiment-analysis-with-google-gemini-ai-and-google-sheets/)
@@ -297,7 +297,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-31T06:23:54+00:00
 Texto:
 https://n8n
@@ -306,7 +306,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-31T06:23:54+00:00
 Texto:
 Remin
@@ -315,7 +315,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-31T06:23:54+00:00
 Texto:
 Abaixo está a lista das 71 automações criadas pelo usuário **n3witalia** no n8n, com seus respectivos links e número aproximado de “nodes” (soma das etapas representadas por ícones mais o valor “+n” ao lado). Essa coleta foi feita diretamente na página do criador, avançando com o botêo “Load more” quando necessário:
@@ -338,7 +338,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-31T05:44:40+00:00
 Texto:
 https://n8n.io/creators/n3witalia/
@@ -347,7 +347,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-31T05:41:49+00:00
 Texto:
 =========================
@@ -355,7 +355,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-31T05:41:07+00:00
 Texto:
 conteúdo).
@@ -369,7 +369,7 @@ Estas automações demonstram a versatilidade do n8n para integrar inteligência
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-31T05:41:07+00:00
 Texto:
 Chatbot for Websites com Flowise (chatbot multi‑agente personalizado).
@@ -422,7 +422,7 @@ Chatbot for Websites com Flowise (chatbot multi‑agente personalizado).
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-31T05:41:07+00:00
 Texto:
 A página do criador **n3witalia** no n8n contém 71 workflows públicos. Eles cobrem uma ampla gama de aplicações de automaçêo, desde chatbots e agentes de voz até criaçêo de conteúdo, marketing e gerenciamento de e‑commerce. Em resumo, os temas mais recorrentes sêo:
@@ -462,7 +462,7 @@ A seguir, uma lista completa (resumida) dos 71 workflows, com exemplos de uso e 
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-31T05:39:14+00:00
 Texto:
 =======================
@@ -470,7 +470,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-31T05:38:27+00:00
 Texto:
 n3witalia - 71 Workflow n8n Workflow
@@ -478,7 +478,7 @@ n3witalia - 71 Workflow n8n Workflow
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-31T05:38:26+00:00
 Texto:
 .
@@ -486,7 +486,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-31T05:38:25+00:00
 Texto:
 .
@@ -494,7 +494,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-31T05:38:25+00:00
 Texto:
 .
@@ -502,7 +502,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-31T05:38:25+00:00
 Texto:
 .
@@ -510,7 +510,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-31T05:38:24+00:00
 Texto:
 .
@@ -518,7 +518,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-31T05:38:24+00:00
 Texto:
 https://chatgpt.com/c/68b39afd-c4ec-832e-839f-cd44402cd3d9?model=gpt-4-1
@@ -527,7 +527,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-31T05:38:24+00:00
 Texto:
 https://chatgpt.com/c/68b398eb-04a4-8322-8d2c-126c7f5e2e6d
@@ -536,7 +536,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 32
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-31T05:38:23+00:00
 Texto:
 1
@@ -544,7 +544,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 33
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-31T05:38:18+00:00
 Texto: [Sem texto]
 

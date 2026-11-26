@@ -10,7 +10,7 @@ Midias baixadas: 9
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T02:31:09+00:00
 Texto:
 voce pode usar qq um destes exemplos. tem muitos na lista do menus
@@ -26,7 +26,7 @@ Tem algum fluxo ?
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-30T02:06:17+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12044_003.jpg
@@ -34,7 +34,7 @@ Midia: MessageMediaPhoto -> photo_12044_003.jpg
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-30T01:53:17+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12043_004.jpg
@@ -42,7 +42,7 @@ Midia: MessageMediaPhoto -> photo_12043_004.jpg
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-30T01:52:09+00:00
 Texto:
 ===============
@@ -50,7 +50,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T20:03:16+00:00
 Texto:
 ### **Conclusêo Prática**
@@ -71,7 +71,7 @@ Se quiser, posso criar um **diagrama visual 16:9** com todos os blocos e fluxo d
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T20:03:16+00:00
 Texto:
 Aqui está um **resumo completo** **“6 Lições de Engenharia de Contexto - Automações de IA (sem código)”**, seguido da **lista das 6 lições com exemplos e respostas**:
@@ -163,7 +163,7 @@ O autor divide esse conceito em **seis lições práticas**, todas com foco em a
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T20:00:18+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12022_008.jpg
@@ -171,7 +171,7 @@ Midia: MessageMediaPhoto -> photo_12022_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T20:00:00+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12021_009.jpg
@@ -179,7 +179,7 @@ Midia: MessageMediaPhoto -> photo_12021_009.jpg
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T19:58:50+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12020_010.jpg
@@ -187,7 +187,7 @@ Midia: MessageMediaPhoto -> photo_12020_010.jpg
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T19:58:28+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12019_011.jpg
@@ -195,7 +195,7 @@ Midia: MessageMediaPhoto -> photo_12019_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T19:58:00+00:00
 Texto:
 ==================
@@ -203,7 +203,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T19:57:57+00:00
 Texto:
 Quando falamos de **engenharia de contexto**, principalmente aplicada a automações com IA (como no n8n, Make ou agentes personalizados), existem **elementos básicos fundamentais** que formam a base para que o agente entenda, decida e aja corretamente.
@@ -256,7 +256,7 @@ Quando falamos de **engenharia de contexto**, principalmente aplicada a automaç
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T19:57:36+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12016_014.jpg
@@ -264,7 +264,7 @@ Midia: MessageMediaPhoto -> photo_12016_014.jpg
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T19:55:35+00:00
 Texto:
 ==================
@@ -272,7 +272,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T19:55:31+00:00
 Texto:
 **Engenharia de contexto no n8n** é a prática de **estruturar e fornecer informações certas para que um agente de IA consiga tomar decisões melhores dentro de um fluxo automatizado**. Em vez de apenas usar um prompt fixo, o agente recebe dados relevantes e atualizados — como histórico, documentos, preferências do usuário e ferramentas disponíveis — **em tempo real**, adaptando-se a cada situaçêo.
@@ -338,7 +338,7 @@ No fluxo do n8n:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T19:53:33+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12013_017.jpg
@@ -346,7 +346,7 @@ Midia: MessageMediaPhoto -> photo_12013_017.jpg
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T19:53:12+00:00
 Texto:
 nm61 - Engenharia de Contexto no N8N
@@ -354,7 +354,7 @@ nm61 - Engenharia de Contexto no N8N
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T19:53:11+00:00
 Texto:
 .
@@ -362,7 +362,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T19:53:11+00:00
 Texto:
 .
@@ -370,7 +370,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T19:53:11+00:00
 Texto:
 .
@@ -378,7 +378,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T19:53:10+00:00
 Texto:
 .
@@ -386,7 +386,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T19:53:10+00:00
 Texto:
 .
@@ -394,7 +394,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T19:53:10+00:00
 Texto:
 https://chatgpt.com/c/6888e454-9128-8329-8817-44f4b179b694
@@ -403,7 +403,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T19:53:09+00:00
 Texto:
 1
@@ -411,7 +411,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T19:53:00+00:00
 Texto: [Sem texto]
 

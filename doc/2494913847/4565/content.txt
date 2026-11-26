@@ -10,7 +10,7 @@ Midias baixadas: 3
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T22:22:35+00:00
 Texto:
 Olhe aqui direto para pegar a api
@@ -19,7 +19,7 @@ https://aistudio.google.com/u/1/apikey
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T22:22:23+00:00
 Texto:
 .
@@ -27,7 +27,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T06:56:44+00:00
 Texto:
 https://youtu.be/MNPKBXAsFrw
@@ -36,7 +36,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T06:56:41+00:00
 Texto:
 .
@@ -44,7 +44,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T06:56:40+00:00
 Texto:
 .
@@ -52,7 +52,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T06:56:40+00:00
 Texto:
 Aqui está o **resumo completo "Conexões do Google no n8n (Drive, Gmail, Calendar, Docs e Sheets)"** com todos os passos explicados e listados para facilitar sua implementaçêo:
@@ -145,7 +145,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T06:56:40+00:00
 Texto:
 .
@@ -153,7 +153,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T06:56:36+00:00
 Texto:
 Conexões GOOGLE N8N (Drive, Gmail, Sheets, Calendar, Docs)
@@ -161,7 +161,7 @@ Conexões GOOGLE N8N (Drive, Gmail, Sheets, Calendar, Docs)
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T06:55:56+00:00
 Texto:
 /
@@ -169,7 +169,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T06:55:55+00:00
 Texto:
 .
@@ -177,7 +177,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T06:55:55+00:00
 Texto:
 .
@@ -185,7 +185,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T06:55:54+00:00
 Texto:
 .
@@ -193,7 +193,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T06:55:54+00:00
 Texto:
 ..
@@ -201,7 +201,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T06:55:54+00:00
 Texto:
 .
@@ -209,7 +209,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T06:55:54+00:00
 Texto:
 https://chatgpt.com/c/67ece020-5c70-8009-8b0c-b21b13f94db8
@@ -218,7 +218,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T06:55:52+00:00
 Texto:
 1
@@ -226,7 +226,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-02T06:55:47+00:00
 Texto: [Sem texto]
 

@@ -10,7 +10,7 @@ Midias baixadas: 7
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T20:58:24+00:00
 Texto:
 dublado
@@ -18,7 +18,7 @@ dublado
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T20:57:11+00:00
 Texto:
 https://www.youtube.com/watch?v=7NIN0KNcVdM
@@ -27,7 +27,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T20:56:32+00:00
 Texto:
 **Resumo do vídeo: "This AI Agent INSTANTLY Pulls Real-Time Insights from X (Bolt + n8n Setup)"**
@@ -82,7 +82,7 @@ Com este agente, é possível criar uma aplicaçêo que acompanha o **sentimento
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T20:53:53+00:00
 Texto:
 **m20 - Pesquisa no X em Tempo Real**
@@ -96,7 +96,7 @@ Essa interface se comunica com uma versêo aprimorada do fluxo original, usando 
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T20:53:18+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Interactive Alert System - Setup Guide.pdf
@@ -104,7 +104,7 @@ Midia: MessageMediaDocument -> Interactive Alert System - Setup Guide.pdf
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T20:53:13+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Live_Search_Workflow.json
@@ -112,7 +112,7 @@ Midia: MessageMediaDocument -> Live_Search_Workflow.json
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T20:53:13+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Live_Search_Chat.json
@@ -120,7 +120,7 @@ Midia: MessageMediaDocument -> Live_Search_Chat.json
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T20:53:00+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9101_008.jpg
@@ -128,7 +128,7 @@ Midia: MessageMediaPhoto -> photo_9101_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T20:51:30+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9100_009.jpg
@@ -136,7 +136,7 @@ Midia: MessageMediaPhoto -> photo_9100_009.jpg
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T20:51:27+00:00
 Texto:
 m20 - Pesquisa no X em Tempo Real
@@ -144,7 +144,7 @@ m20 - Pesquisa no X em Tempo Real
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T20:51:26+00:00
 Texto:
 .
@@ -152,7 +152,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T20:51:26+00:00
 Texto:
 .
@@ -160,7 +160,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T20:51:26+00:00
 Texto:
 .
@@ -168,7 +168,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T20:51:26+00:00
 Texto:
 https://chatgpt.com/c/6845f6ff-a408-8009-bfb6-00f4efe6eb8b
@@ -177,7 +177,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T20:51:25+00:00
 Texto:
 1
@@ -185,7 +185,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T20:51:20+00:00
 Texto: [Sem texto]
 

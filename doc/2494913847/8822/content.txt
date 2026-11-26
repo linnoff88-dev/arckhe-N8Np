@@ -10,7 +10,7 @@ Midias baixadas: 4
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T01:17:30+00:00
 Texto:
 Aqui está uma análise dos dados e a proposta solicitada para a startup SaaS:
@@ -54,7 +54,7 @@ Para alcançar a meta de receita, uma revisêo maior na estrutura de preços pod
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T01:17:04+00:00
 Texto:
 Resposta
@@ -62,7 +62,7 @@ Resposta
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T01:17:01+00:00
 Texto:
 ============
@@ -70,7 +70,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T01:16:56+00:00
 Texto:
 Aqui está um prompt bem complexo, ideal para testar o **ThinkNode**, exigindo raciocínio em cadeia, análise de dados e tomada de decisêo com múltiplas variáveis:
@@ -103,7 +103,7 @@ Sabendo que cada plano tem os seguintes valores:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T01:16:48+00:00
 Texto:
 ==========
@@ -112,7 +112,7 @@ exemplo
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T01:13:33+00:00
 Texto:
 **Resumo do objetivo e utilidade do AI Agent ThinkNode:**
@@ -137,7 +137,7 @@ O **ThinkNode** é uma ferramenta da Any10 que permite que agentes de IA (como C
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T01:13:11+00:00
 Texto:
 O ThinkNode é uma ferramenta da Any10 que permite ao agente de IA organizar seu raciocínio em etapas antes de responder, como se tivesse um bloco de notas virtual. Ele é especialmente útil em perguntas complexas, com muitos dados ou cálculos, ajudando a reduzir erros ao seguir um fluxo lógico mais claro. Além disso, torna o processo mais transparente, mostrando como a IA chegou à resposta, o que melhora a precisêo e facilita a validaçêo.
@@ -145,7 +145,7 @@ O ThinkNode é uma ferramenta da Any10 que permite ao agente de IA organizar seu
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T01:11:42+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> nm50___Think_Tools.json
@@ -153,7 +153,7 @@ Midia: MessageMediaDocument -> nm50___Think_Tools.json
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T01:11:35+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_8833_009.jpg
@@ -161,7 +161,7 @@ Midia: MessageMediaPhoto -> photo_8833_009.jpg
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T01:11:35+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_8832_010.jpg
@@ -169,7 +169,7 @@ Midia: MessageMediaPhoto -> photo_8832_010.jpg
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T01:11:16+00:00
 Texto:
 nm50 - Think Tools
@@ -177,7 +177,7 @@ nm50 - Think Tools
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T01:11:14+00:00
 Texto:
 .
@@ -185,7 +185,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T01:11:14+00:00
 Texto:
 .
@@ -193,7 +193,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T01:11:14+00:00
 Texto:
 .
@@ -201,7 +201,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T01:11:13+00:00
 Texto:
 .
@@ -209,7 +209,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T01:11:13+00:00
 Texto:
 .
@@ -217,7 +217,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T01:11:13+00:00
 Texto:
 .
@@ -225,7 +225,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T01:11:13+00:00
 Texto:
 https://chatgpt.com/c/68438fb6-f530-8009-ad5e-b4a94b856b55
@@ -234,7 +234,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T01:11:12+00:00
 Texto:
 1
@@ -242,7 +242,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-07T01:10:55+00:00
 Texto: [Sem texto]
 

@@ -42,7 +42,7 @@ Eu achei esse é 35 super interessante, será  que dá pra fazer no make?
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-01T00:11:55+00:00
 Texto:
 ## 🧠 HACKS INTELIGENTES PARA COMENTÁRIOS AUTOMATIZADOS NO INSTAGRAM
@@ -181,7 +181,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-01T00:11:37+00:00
 Texto:
 ===========
@@ -189,7 +189,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-01T00:11:01+00:00
 Texto:
 ## 🚀 PASSO A PASSO: Automatizar Respostas de Comentários no Instagram com N8N + Gemini
@@ -329,7 +329,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-01T00:09:38+00:00
 Texto:
 ==============
@@ -337,7 +337,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-01T00:09:34+00:00
 Texto:
 **Resumo: Automaçêo de Respostas de Comentários no Instagram com N8N e Gemini**
@@ -426,7 +426,7 @@ O sistema permite escalar, filtrar, responder e até redirecionar para mensagens
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-01T00:08:03+00:00
 Texto:
 **Recursos:**
@@ -438,7 +438,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-01T00:08:03+00:00
 Texto:
 **e35. Filtre e responda comentários no Instagram**
@@ -542,7 +542,7 @@ Aprendemos a automatizar a gestêo de comentários em publicações do Instagram
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-01T00:06:44+00:00
 Texto:
 ============
@@ -550,7 +550,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-01T00:06:41+00:00
 Texto:
 **Comentários no Instagram de forma automática**
@@ -581,7 +581,7 @@ Muita gente usa o Manychat só para isso.
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-01T00:04:03+00:00
 Texto:
 https://developers.facebook.com/tools/explorer/
@@ -589,7 +589,7 @@ https://developers.facebook.com/tools/explorer/
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-01T00:03:48+00:00
 Texto:
 https://developers.facebook.com/apps/
@@ -597,7 +597,7 @@ https://developers.facebook.com/apps/
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-01T00:02:55+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12144_016.jpg
@@ -605,7 +605,7 @@ Midia: MessageMediaPhoto -> photo_12144_016.jpg
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-01T00:02:03+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Gestion Comentarios Instagram.json
@@ -613,7 +613,7 @@ Midia: MessageMediaDocument -> Gestion Comentarios Instagram.json
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-01T00:01:58+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12142_018.jpg
@@ -621,7 +621,7 @@ Midia: MessageMediaPhoto -> photo_12142_018.jpg
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-31T23:58:27+00:00
 Texto:
 e35 - Comentários no Instagram
@@ -629,7 +629,7 @@ e35 - Comentários no Instagram
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-31T23:58:26+00:00
 Texto:
 .
@@ -637,7 +637,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-31T23:58:25+00:00
 Texto:
 .
@@ -645,7 +645,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-31T23:58:25+00:00
 Texto:
 .
@@ -653,7 +653,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-31T23:58:25+00:00
 Texto:
 .
@@ -661,7 +661,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-31T23:58:25+00:00
 Texto:
 .
@@ -669,7 +669,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-31T23:58:24+00:00
 Texto:
 .
@@ -677,7 +677,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-31T23:58:24+00:00
 Texto:
 https://chatgpt.com/c/688c0285-fd8c-8331-8215-be324bf04efc
@@ -686,7 +686,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-31T23:58:23+00:00
 Texto:
 1
@@ -694,7 +694,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-31T23:58:19+00:00
 Texto: [Sem texto]
 

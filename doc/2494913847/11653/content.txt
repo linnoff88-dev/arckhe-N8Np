@@ -10,7 +10,7 @@ Midias baixadas: 7
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T17:00:57+00:00
 Texto:
 https://www.youtube.com/watch?v=pnB3VQ6JskE
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T17:00:47+00:00
 Texto:
 ### ⚡ Hacks para o AI Booking System no n8n
@@ -138,7 +138,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T17:00:12+00:00
 Texto:
 =============
@@ -146,7 +146,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T17:00:09+00:00
 Texto:
 ### 🚀 Passo a Passo: Construçêo do AI Booking System no n8n
@@ -280,7 +280,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T16:59:36+00:00
 Texto:
 ================
@@ -288,7 +288,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T16:59:32+00:00
 Texto:
 ### Resumo do vídeo: “Venda este sistema de reservas de IA de US\$ 10 mil em vez de chatbots”
@@ -350,7 +350,7 @@ Ideal para quem quer construir **sistemas de automaçêo completos**, criar cont
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T16:58:50+00:00
 Texto:
 ==================
@@ -358,7 +358,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T16:58:45+00:00
 Texto:
 **Sistema de Agendamento com IA**
@@ -392,7 +392,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T16:57:23+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11668_009.jpg
@@ -400,7 +400,7 @@ Midia: MessageMediaPhoto -> photo_11668_009.jpg
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T16:56:57+00:00
 Texto:
 ======================
@@ -408,7 +408,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T16:56:54+00:00
 Texto:
 Sistema Operacional de IA: Do Agendamento à Venda
@@ -430,7 +430,7 @@ Ou seja, combinamos todos os seus pontos de dados em um único painel incrível 
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T16:55:07+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 👾 AI Operating Systems (1).pdf
@@ -438,7 +438,7 @@ Midia: MessageMediaDocument -> 👾 AI Operating Systems (1).pdf
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T16:54:49+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 🔥 Booking operating system (AIOS).json
@@ -446,7 +446,7 @@ Midia: MessageMediaDocument -> 🔥 Booking operating system (AIOS).json
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T16:54:42+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11662_014.jpg
@@ -454,7 +454,7 @@ Midia: MessageMediaPhoto -> photo_11662_014.jpg
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T16:53:16+00:00
 Texto:
 **JX01 - AI Booking System - Sistema de Reserva e Agendamento**
@@ -462,7 +462,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T16:52:52+00:00
 Texto:
 .
@@ -470,7 +470,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T16:52:51+00:00
 Texto:
 .
@@ -478,7 +478,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T16:52:50+00:00
 Texto:
 .
@@ -486,7 +486,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T16:52:50+00:00
 Texto:
 .
@@ -494,7 +494,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T16:52:50+00:00
 Texto:
 https://chatgpt.com/c/687e6f7b-8078-8009-8f3a-f8a70189160a
@@ -503,7 +503,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T16:52:49+00:00
 Texto:
 1
@@ -511,7 +511,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-21T16:52:46+00:00
 Texto: [Sem texto]
 

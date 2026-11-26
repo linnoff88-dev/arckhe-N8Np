@@ -42,7 +42,7 @@ Showww muito obrigado gratidêo 🙏🏻
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-13T02:21:30+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11309_005.jpg
@@ -50,7 +50,7 @@ Midia: MessageMediaPhoto -> photo_11309_005.jpg
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-13T02:21:04+00:00
 Texto:
 https://console.apify.com/actors/42ZETPAS3UV21tAjv/input
@@ -59,7 +59,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-13T02:20:51+00:00
 Texto:
 scraper-mind/linkedin-phone-number-scraper
@@ -67,7 +67,7 @@ scraper-mind/linkedin-phone-number-scraper
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-13T02:19:34+00:00
 Texto:
 Aqui estêo as automações de raspagem relacionadas ao LinkedIn disponíveis:
@@ -102,7 +102,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-13T02:19:30+00:00
 Texto:
 mas olha outras automacoes q pode ser q tem algo q vc possa usar
@@ -110,7 +110,7 @@ mas olha outras automacoes q pode ser q tem algo q vc possa usar
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-13T02:19:16+00:00
 Texto:
 qual tu usou, tem ver se o linkedin permite
@@ -121,12 +121,12 @@ MENSAGEM 11
 Autor: Leandro
 Data: 2025-07-13T02:15:22+00:00
 Texto:
-@INEMAtds obg já tinha descoberto porém ele nêo puxa o numero do telefone do perfil ?
+@linnoff88-dev obg já tinha descoberto porém ele nêo puxa o numero do telefone do perfil ?
 
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-13T02:14:27+00:00
 Texto:
 tem usar o apify para isso
@@ -145,7 +145,7 @@ MENSAGEM 14
 Autor: Leandro
 Data: 2025-07-07T13:59:03+00:00
 Texto:
-@INEMAtds conseguiu o json do linkedin ?
+@linnoff88-dev conseguiu o json do linkedin ?
 
 ------------------------------
 
@@ -158,7 +158,7 @@ Consegue da uma olhada pra gente nessa automacao de raspagem do linkedin atualiz
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-19T17:40:21+00:00
 Texto:
 vou ver se acho , mas tem outra automacao ja do linkedin
@@ -166,7 +166,7 @@ vou ver se acho , mas tem outra automacao ja do linkedin
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-19T17:37:42+00:00
 Texto:
 so mudar a api
@@ -182,7 +182,7 @@ E o Linkedin qual o template?
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-17T10:32:15+00:00
 Texto:
 https://www.youtube.com/live/oZXL7lS-LEA?si=fNkSoqQ15lULelMA
@@ -191,7 +191,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T18:42:28+00:00
 Texto:
 ### Como Raspar Dados do Twitter/X com n8n de Forma Eficiente  
@@ -264,7 +264,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T18:35:34+00:00
 Texto:
 https://www.youtube.com/watch?v=lEo7IAgj0UY&t=16s
@@ -273,7 +273,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T18:34:38+00:00
 Texto:
 Como realmente raspar dados do Twitter/X com n8n
@@ -284,7 +284,7 @@ Como automatizar a extraçêo de dados, lidar com paginaçêo e armazenar tweets
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T18:31:44+00:00
 Texto:
 ap6
@@ -293,7 +293,7 @@ Midia: MessageMediaDocument -> IncreaseCountCode.txt
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T18:31:44+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> ExtractInfoCode.txt
@@ -301,7 +301,7 @@ Midia: MessageMediaDocument -> ExtractInfoCode.txt
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T18:31:44+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Twitter_X Data Template (file -_ make a copy).xlsx
@@ -309,7 +309,7 @@ Midia: MessageMediaDocument -> Twitter_X Data Template (file -_ make a copy).xls
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T18:31:26+00:00
 Texto:
 ap6
@@ -318,7 +318,7 @@ Midia: MessageMediaDocument -> Twitter_X_Scraper.json
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T18:31:08+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_3254_027.jpg
@@ -326,7 +326,7 @@ Midia: MessageMediaPhoto -> photo_3254_027.jpg
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T18:29:39+00:00
 Texto:
 ap6 - Raspagem Twitter/X
@@ -334,7 +334,7 @@ ap6 - Raspagem Twitter/X
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T18:29:26+00:00
 Texto:
 .
@@ -342,7 +342,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T18:29:26+00:00
 Texto:
 .
@@ -350,7 +350,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T18:29:26+00:00
 Texto:
 ..
@@ -358,7 +358,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 32
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T18:29:26+00:00
 Texto:
 .
@@ -366,7 +366,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 33
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T18:29:25+00:00
 Texto:
 .
@@ -374,7 +374,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 34
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T18:29:25+00:00
 Texto:
 .
@@ -382,7 +382,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 35
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T18:29:25+00:00
 Texto:
 https://chatgpt.com/c/67d5c5a4-aff0-8009-814f-1c34ffe6a92e
@@ -391,7 +391,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 36
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T18:29:24+00:00
 Texto:
 1
@@ -399,7 +399,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 37
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T18:27:31+00:00
 Texto: [Sem texto]
 

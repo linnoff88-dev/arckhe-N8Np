@@ -59,7 +59,7 @@ MENSAGEM 5
 Autor: GJaeger
 Data: 2025-10-26T21:48:31+00:00
 Texto:
-@INEMAtds !  Tb tentei executar mas nêo devolve o link do vídeo na planilha .
+@linnoff88-dev !  Tb tentei executar mas nêo devolve o link do vídeo na planilha .
 Voce poderia revisar e executar para testar ?
 
 ------------------------------
@@ -73,7 +73,7 @@ Fiz os ajustes na work do Sono2 mas ele acabou nêo devolvendo nada. Como faço 
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-18T08:05:46+00:00
 Texto:
 Ajustado para portugues
@@ -82,7 +82,7 @@ Midia: MessageMediaDocument -> e52 -1. Creador UGL Modelos.json
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T01:15:46+00:00
 Texto:
 https://kie.ai/pt
@@ -91,7 +91,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T01:15:15+00:00
 Texto:
 https://platform.openai.com/api-keys
@@ -100,7 +100,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T00:29:01+00:00
 Texto:
 https://api.imgbb.com
@@ -108,7 +108,7 @@ https://api.imgbb.com
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-15T00:28:59+00:00
 Texto:
 Hoje fiz live sobre ele
@@ -124,7 +124,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-12T00:55:27+00:00
 Texto:
 https://replicate.com/
@@ -133,7 +133,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-12T00:55:15+00:00
 Texto:
 https://fal.ai/
@@ -142,7 +142,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:55:28+00:00
 Texto:
 https://kie.ai/market
@@ -151,7 +151,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:55:26+00:00
 Texto:
 ==================
@@ -159,7 +159,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:53:08+00:00
 Texto:
 **Resumo direto dos três geradores de vídeo (SORA2, VEO3 e Wan):**
@@ -172,7 +172,7 @@ Texto:
 * Suporta texto e imagem como entrada.
 * Permite prompts longos (até 5 000 caracteres).
 * Tem áudio sincronizado e física realista.
-* Ideal para vídeos cinematográficos e de alta qualidade.
+* Ideal para vídeos cARCKHÉtográficos e de alta qualidade.
 
 ---
 
@@ -197,7 +197,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:50:03+00:00
 Texto:
 ==============
@@ -205,7 +205,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:50:02+00:00
 Texto:
 ==============
@@ -213,7 +213,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:49:51+00:00
 Texto:
 visual, mas mais leve ou mais eficiente em custo ou tempo para casos mais simples e rápidos.
@@ -235,7 +235,7 @@ visual, mas mais leve ou mais eficiente em custo ou tempo para casos mais simple
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:49:51+00:00
 Texto:
 Aqui vai um **resumo de cada um dos geradores mencionados** (SORA, VEO3, Wan) — pontos fortes, limitações e casos de uso esperados.
@@ -269,7 +269,7 @@ Aqui vai um **resumo de cada um dos geradores mencionados** (SORA, VEO3, Wan) �
 * Vídeos promocionais curtos e estéticos (ex: campanhas de marca, teasers).
 * Criações narrativas visuais com coerência de personagem e ambientaçêo.
 * Uso quando se quer adicionar áudio, diálogos e efeitos sonoros sincronizados.
-* Quando se precisa de controle refinado (ex: pedir estilos visuais específicos, iluminaçêo, cena cinematográfica).
+* Quando se precisa de controle refinado (ex: pedir estilos visuais específicos, iluminaçêo, cena cARCKHÉtográfica).
 
 ---
 
@@ -320,7 +320,7 @@ No contexto das aulas, "Wan" aparece como outro gerador de vídeo IA ao lado de 
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:48:36+00:00
 Texto:
 ==============
@@ -328,7 +328,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:47:56+00:00
 Texto:
 `status=500` → aguarda 30s → reexecuta
@@ -399,7 +399,7 @@ Update Google Sheets (URL final)```
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:47:56+00:00
 Texto:
 **Passo a passo completo** para montar no **N8N** o sistema de **Multi-Gerador de Vídeos com IA (Sora2, VEO3, Wan)**, seguindo os hacks e a lógica usada na aula.
@@ -532,7 +532,7 @@ Prompt:
 Ideia: {{$json["idea"]}}
 Formato: {{$json["format"]}}
 Imagem (se existir): {{$json["descricao_imagem"]}}
-Crie um roteiro natural e cinematográfico para até {{$json["video_count"]}} cenas.```
+Crie um roteiro natural e cARCKHÉtográfico para até {{$json["video_count"]}} cenas.```
 
 Limite de caracteres:
 
@@ -602,7 +602,7 @@ Cada subfluxo contém:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:46:23+00:00
 Texto:
 ==============
@@ -610,7 +610,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:46:21+00:00
 Texto:
 ============
@@ -618,17 +618,17 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:46:18+00:00
 Texto:
 emoçêo.
   **Exemplo:**
-  “close-up de um influencer aplicando o creme sob luz natural, expressêo confiante, tom realista cinematográfico”.
+  “close-up de um influencer aplicando o creme sob luz natural, expressêo confiante, tom realista cARCKHÉtográfico”.
 
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:46:18+00:00
 Texto:
 Aqui está uma lista dos **principais hacks práticos** usados (ou sugeridos) na aula do sistema **Multi-Gerador de Vídeos (SORA2, VEO3, WAN)** para deixar a automaçêo mais rápida, estável e escalável:
@@ -760,7 +760,7 @@ Aqui está uma lista dos **principais hacks práticos** usados (ou sugeridos) na
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:45:34+00:00
 Texto:
 ==================
@@ -768,7 +768,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:45:18+00:00
 Texto:
 **Resumo completo da aula sobre o Multi-Gerador de Vídeos com IA (SORA2, VEO3, WAN, etc.)**
@@ -894,7 +894,7 @@ Com essa base, é possível:
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:41:53+00:00
 Texto:
 ===========
@@ -902,7 +902,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 32
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:41:50+00:00
 Texto:
 e52. Multi-geradores de vídeo (SORA2, Wan, Veo3)
@@ -986,7 +986,7 @@ Recursos
 ------------------------------
 
 MENSAGEM 33
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:40:06+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 1. Creador UGL Modelos.json
@@ -994,7 +994,7 @@ Midia: MessageMediaDocument -> 1. Creador UGL Modelos.json
 ------------------------------
 
 MENSAGEM 34
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:40:06+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Image-to-Video (Sora2).json
@@ -1002,7 +1002,7 @@ Midia: MessageMediaDocument -> Image-to-Video (Sora2).json
 ------------------------------
 
 MENSAGEM 35
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:40:06+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Image-to-Video (Veo3).json
@@ -1010,7 +1010,7 @@ Midia: MessageMediaDocument -> Image-to-Video (Veo3).json
 ------------------------------
 
 MENSAGEM 36
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:40:06+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Image-to-Video (Wan 2.5).json
@@ -1018,7 +1018,7 @@ Midia: MessageMediaDocument -> Image-to-Video (Wan 2.5).json
 ------------------------------
 
 MENSAGEM 37
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:40:06+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Text-to-Video (Sora2).json
@@ -1026,7 +1026,7 @@ Midia: MessageMediaDocument -> Text-to-Video (Sora2).json
 ------------------------------
 
 MENSAGEM 38
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:40:06+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Text-to-Video (Veo3).json
@@ -1034,7 +1034,7 @@ Midia: MessageMediaDocument -> Text-to-Video (Veo3).json
 ------------------------------
 
 MENSAGEM 39
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:40:06+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Text-to-Video (Wan 2.5).json
@@ -1042,7 +1042,7 @@ Midia: MessageMediaDocument -> Text-to-Video (Wan 2.5).json
 ------------------------------
 
 MENSAGEM 40
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:39:55+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Videos Sora N8N.xlsx
@@ -1050,7 +1050,7 @@ Midia: MessageMediaDocument -> Videos Sora N8N.xlsx
 ------------------------------
 
 MENSAGEM 41
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:39:49+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14993_041.jpg
@@ -1058,7 +1058,7 @@ Midia: MessageMediaPhoto -> photo_14993_041.jpg
 ------------------------------
 
 MENSAGEM 42
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:39:21+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14992_042.jpg
@@ -1066,7 +1066,7 @@ Midia: MessageMediaPhoto -> photo_14992_042.jpg
 ------------------------------
 
 MENSAGEM 43
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:32:38+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14991_043.jpg
@@ -1074,7 +1074,7 @@ Midia: MessageMediaPhoto -> photo_14991_043.jpg
 ------------------------------
 
 MENSAGEM 44
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:31:45+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14990_044.jpg
@@ -1082,7 +1082,7 @@ Midia: MessageMediaPhoto -> photo_14990_044.jpg
 ------------------------------
 
 MENSAGEM 45
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:31:05+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14989_045.jpg
@@ -1090,7 +1090,7 @@ Midia: MessageMediaPhoto -> photo_14989_045.jpg
 ------------------------------
 
 MENSAGEM 46
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:29:31+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14988_046.jpg
@@ -1098,7 +1098,7 @@ Midia: MessageMediaPhoto -> photo_14988_046.jpg
 ------------------------------
 
 MENSAGEM 47
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:28:59+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14987_047.jpg
@@ -1106,7 +1106,7 @@ Midia: MessageMediaPhoto -> photo_14987_047.jpg
 ------------------------------
 
 MENSAGEM 48
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:27:41+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14986_048.jpg
@@ -1114,7 +1114,7 @@ Midia: MessageMediaPhoto -> photo_14986_048.jpg
 ------------------------------
 
 MENSAGEM 49
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:27:37+00:00
 Texto:
 =======================
@@ -1122,7 +1122,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 50
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:26:13+00:00
 Texto:
 Multi-gerador de vídeos (SORA 2, Wan e Veo3)🔥🔥
@@ -1160,7 +1160,7 @@ Literalmente, sua “sala de controle” para vídeos automáticos.
 ------------------------------
 
 MENSAGEM 51
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:25:09+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14983_051.jpg
@@ -1168,7 +1168,7 @@ Midia: MessageMediaPhoto -> photo_14983_051.jpg
 ------------------------------
 
 MENSAGEM 52
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:24:52+00:00
 Texto:
 e52 - Multi Gerador Videos
@@ -1176,7 +1176,7 @@ e52 - Multi Gerador Videos
 ------------------------------
 
 MENSAGEM 53
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:24:51+00:00
 Texto:
 .
@@ -1184,7 +1184,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 54
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:24:51+00:00
 Texto:
 .
@@ -1192,7 +1192,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 55
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:24:50+00:00
 Texto:
 .
@@ -1200,7 +1200,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 56
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:24:50+00:00
 Texto:
 .
@@ -1208,7 +1208,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 57
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:24:50+00:00
 Texto:
 .
@@ -1216,7 +1216,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 58
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:24:50+00:00
 Texto:
 .
@@ -1224,7 +1224,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 59
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:24:50+00:00
 Texto:
 https://chatgpt.com/c/68eae2bf-1ce8-832c-b3cf-08c61185000e
@@ -1233,7 +1233,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 60
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:24:49+00:00
 Texto:
 1
@@ -1241,7 +1241,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 61
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-11T23:24:45+00:00
 Texto: [Sem texto]
 

@@ -34,7 +34,7 @@ Mestre, estou fazendo um tbm
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T01:25:13+00:00
 Texto:
 o autobot é as 2000 mais as nossas do n8n, até a data q lancei, fim do mes devo atulizar
@@ -66,7 +66,7 @@ os arquivo dentro da pasta workflow vieram dentro de pastas, esta certo
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T20:22:55+00:00
 Texto:
 ===========
@@ -74,7 +74,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T20:22:52+00:00
 Texto:
 Resumo:
@@ -122,7 +122,7 @@ Ele conclui destacando o ganho de tempo e sugere a adaptaçêo para casos de uso
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T20:22:11+00:00
 Texto:
 ===========
@@ -130,7 +130,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T20:22:07+00:00
 Texto:
 29. Domine 2.000 automações no N8N
@@ -205,7 +205,7 @@ O *Text Classifier* permite modificar as instruções para se adequar a qualquer
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T20:20:51+00:00
 Texto:
 https://github.com/Zie619/n8n-workflows
@@ -214,7 +214,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T20:17:20+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Subir_automatizacion_de_Drive_a_N8N.json
@@ -222,7 +222,7 @@ Midia: MessageMediaDocument -> Subir_automatizacion_de_Drive_a_N8N.json
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T20:17:16+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11135_014.jpg
@@ -230,7 +230,7 @@ Midia: MessageMediaPhoto -> photo_11135_014.jpg
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T20:14:56+00:00
 Texto:
 e29 - 2k Automatizaçêo
@@ -238,7 +238,7 @@ e29 - 2k Automatizaçêo
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T20:14:55+00:00
 Texto:
 .
@@ -246,7 +246,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T20:14:55+00:00
 Texto:
 .
@@ -254,7 +254,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T20:14:55+00:00
 Texto:
 .
@@ -262,7 +262,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T20:14:54+00:00
 Texto:
 .
@@ -270,7 +270,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T20:14:54+00:00
 Texto:
 .
@@ -278,7 +278,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T20:14:54+00:00
 Texto:
 .
@@ -286,7 +286,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T20:14:54+00:00
 Texto:
 https://chatgpt.com/c/686ece9f-4ca4-8009-a283-0a953b5e2c67
@@ -295,7 +295,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T20:14:52+00:00
 Texto:
 1
@@ -303,7 +303,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T20:14:49+00:00
 Texto: [Sem texto]
 

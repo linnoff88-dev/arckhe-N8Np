@@ -194,7 +194,7 @@
           "summarizationMethodAndPrompts": {
             "values": {
               "prompt": "Write a concise summary of the daily business metrics, Show the current situation by comparing the latest data to the previous 3 days. The revenue is on dollars. Generate a summary with html format only the body and remove the intro and remove ```html tag because it's not rendered well, show the changes from previous date in percentage and seperate column. this text will attached for the email message:\n\n\n\"{text}\"\n",
-              "combineMapPrompt": "Write a concise summary following:\n\n\n\"{text}\"\n\nCONCISE SUMMARY:"
+              "combARCKHÉpPrompt": "Write a concise summary following:\n\n\n\"{text}\"\n\nCONCISE SUMMARY:"
             }
           }
         },

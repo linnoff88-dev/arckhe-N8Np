@@ -10,7 +10,7 @@ Midias baixadas: 8
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T03:47:49+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6674_001.jpg
@@ -18,7 +18,7 @@ Midia: MessageMediaPhoto -> photo_6674_001.jpg
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T03:47:27+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6673_002.jpg
@@ -26,7 +26,7 @@ Midia: MessageMediaPhoto -> photo_6673_002.jpg
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T03:45:55+00:00
 Texto:
 a api é do fal.ai
@@ -83,7 +83,7 @@ na hora que vai colocar  a api nêo da certo
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T15:11:36+00:00
 Texto:
 este video foi feito com a imagem do aparelho
@@ -91,7 +91,7 @@ este video foi feito com a imagem do aparelho
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T15:11:21+00:00
 Texto:
 https://v3.fal.media/files/koala/6dOLI406YeTDnSmrDe-wX_output.mp4
@@ -100,7 +100,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T05:57:14+00:00
 Texto:
 **Resumo prático: como fazer a credencial ****Fal.AI**** no n8n:**
@@ -118,7 +118,7 @@ Depois selecionar essa credencial no Node HTTP Request do Fel AI.
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T04:01:59+00:00
 Texto:
 esta dublado
@@ -126,7 +126,7 @@ esta dublado
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T04:01:53+00:00
 Texto:
 https://www.youtube.com/watch?v=2MlfEBaVlpw
@@ -135,7 +135,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T04:01:40+00:00
 Texto:
 Resumo completo:
@@ -188,7 +188,7 @@ Lista dos tópicos abordados:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T04:01:07+00:00
 Texto:
 ============
@@ -196,7 +196,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T03:59:08+00:00
 Texto:
 Um sistema de conteúdo de IA ilimitado com a API GPT-Image-1
@@ -210,7 +210,7 @@ Usaremos GPT-Image 1 para gerar visuais impressionantes. Seja você um propriet�
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T03:59:00+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> OpenAI Image API.xlsx
@@ -218,7 +218,7 @@ Midia: MessageMediaDocument -> OpenAI Image API.xlsx
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T03:58:56+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 22_2_OpenAI_Image_API_Product_Shot_Commercial_Video_Infographic_.json
@@ -226,7 +226,7 @@ Midia: MessageMediaDocument -> 22_2_OpenAI_Image_API_Product_Shot_Commercial_Vid
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T03:57:14+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6456_020.jpg
@@ -234,7 +234,7 @@ Midia: MessageMediaPhoto -> photo_6456_020.jpg
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T03:57:09+00:00
 Texto:
 als22 - API GPT Imagem1 - Videos - Infograficos
@@ -242,7 +242,7 @@ als22 - API GPT Imagem1 - Videos - Infograficos
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T03:56:38+00:00
 Texto:
 .
@@ -250,7 +250,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T03:56:38+00:00
 Texto:
 .
@@ -258,7 +258,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T03:56:38+00:00
 Texto:
 .
@@ -266,7 +266,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T03:56:38+00:00
 Texto:
 .
@@ -274,7 +274,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T03:56:38+00:00
 Texto:
 .
@@ -282,7 +282,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T03:56:37+00:00
 Texto:
 https://chatgpt.com/c/680c587b-ee68-8009-90c5-f88332c25786
@@ -291,7 +291,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T03:56:35+00:00
 Texto:
 1
@@ -299,7 +299,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T03:56:30+00:00
 Texto: [Sem texto]
 

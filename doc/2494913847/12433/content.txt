@@ -10,7 +10,7 @@ Midias baixadas: 7
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T03:15:01+00:00
 Texto:
 Para implementar esse gerador/publicador multiplataforma no modelo que descrevemos, você vai precisar de pelo menos **3 tabelas principais** (e possivelmente tabelas auxiliares se quiser mais controle e métricas).
@@ -93,7 +93,7 @@ Armazena prompts-base por plataforma para manter consistência de tom.
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T03:12:54+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12464_002.jpg
@@ -101,7 +101,7 @@ Midia: MessageMediaPhoto -> photo_12464_002.jpg
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T03:11:25+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12463_003.jpg
@@ -109,7 +109,7 @@ Midia: MessageMediaPhoto -> photo_12463_003.jpg
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T02:44:41+00:00
 Texto:
 formato com engajamento (sheet/BI).
@@ -153,7 +153,7 @@ Perguntas e respostas diretas
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T02:44:41+00:00
 Texto:
 Hacks práticos para o gerador/publicador multiplataforma
@@ -227,7 +227,7 @@ Hacks práticos para o gerador/publicador multiplataforma
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T02:43:37+00:00
 Texto:
 =============
@@ -235,7 +235,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T02:43:34+00:00
 Texto:
 Fluxo 2 no n8n: Publicaçêo
@@ -301,7 +301,7 @@ Dicas práticas
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T02:43:25+00:00
 Texto:
 =========
@@ -309,7 +309,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T02:43:22+00:00
 Texto:
 Passo a passo para montar o gerador e publicador multiplataforma
@@ -399,7 +399,7 @@ Slides 2–6: um por bullet; último com chamada leve para açêo.
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T02:42:23+00:00
 Texto:
 ============
@@ -407,7 +407,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T02:42:20+00:00
 Texto:
 Resumo:
@@ -427,7 +427,7 @@ Destaques:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T02:40:44+00:00
 Texto:
 ================
@@ -435,7 +435,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T02:40:38+00:00
 Texto:
 Publicador de Mídias Sociais Multiplataforma
@@ -505,7 +505,7 @@ Cross Platform Content Gen (JSON2)
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T02:40:29+00:00
 Texto:
 ===========
@@ -513,7 +513,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T02:39:17+00:00
 Texto:
 Sistema multiplataforma que transforma ideias brutas do Slack em conteúdo pronto para LinkedIn, Facebook, Twitter e Instagram, com revisêo, agendamento e publicaçêo automática.
@@ -539,7 +539,7 @@ Público-alvo:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T02:38:24+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 2_1_Cross_Platform_Content_Generator (2).json
@@ -547,7 +547,7 @@ Midia: MessageMediaDocument -> 2_1_Cross_Platform_Content_Generator (2).json
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T02:38:24+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 2_2_Cross_Platform_Content_Publisher (2).json
@@ -555,7 +555,7 @@ Midia: MessageMediaDocument -> 2_2_Cross_Platform_Content_Publisher (2).json
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T02:38:15+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12446_018.jpg
@@ -563,7 +563,7 @@ Midia: MessageMediaPhoto -> photo_12446_018.jpg
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T02:36:59+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12445_019.jpg
@@ -571,7 +571,7 @@ Midia: MessageMediaPhoto -> photo_12445_019.jpg
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T02:35:52+00:00
 Texto:
 m25 - Cross Platform Content Gen
@@ -579,7 +579,7 @@ m25 - Cross Platform Content Gen
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T02:35:42+00:00
 Texto:
 ....
@@ -587,7 +587,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T02:35:40+00:00
 Texto:
 ...
@@ -595,7 +595,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T02:35:39+00:00
 Texto:
 ..
@@ -603,7 +603,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T02:35:37+00:00
 Texto:
 .
@@ -611,7 +611,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T02:35:33+00:00
 Texto:
 .
@@ -619,7 +619,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T02:35:29+00:00
 Texto:
 ..
@@ -627,7 +627,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T02:35:25+00:00
 Texto:
 https://chatgpt.com/c/6898039e-7730-8326-be6d-b2bc72851c39
@@ -636,7 +636,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T02:35:15+00:00
 Texto:
 1
@@ -644,7 +644,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-10T02:34:59+00:00
 Texto: [Sem texto]
 

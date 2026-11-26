@@ -10,7 +10,7 @@ Midias baixadas: 10
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T02:39:25+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13267_001.jpg
@@ -18,7 +18,7 @@ Midia: MessageMediaPhoto -> photo_13267_001.jpg
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T02:17:23+00:00
 Texto:
 Porque “sistema operacional de IA” nêo é no sentido técnico de Windows/Linux, mas sim uma **camada que organiza, conecta e executa todos os processos críticos de um negócio**, de forma centralizada e escalável.
@@ -81,7 +81,7 @@ Porque “sistema operacional de IA” nêo é no sentido técnico de Windows/Li
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T02:17:08+00:00
 Texto:
 =====================
@@ -89,7 +89,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T02:05:28+00:00
 Texto:
 Supabase simplifica tudo.
@@ -226,7 +226,7 @@ Respostas às perguntas
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T02:05:28+00:00
 Texto:
 # Passo a passo: Sistema Operacional de IA com Bolt + Supabase + n8n
@@ -364,7 +364,7 @@ A: Até dá, mas perde login, dados e escala.
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T02:05:07+00:00
 Texto:
 =======================
@@ -372,7 +372,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T02:05:03+00:00
 Texto:
 próxima açêo de negócios.
@@ -391,7 +391,7 @@ próxima açêo de negócios.
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T02:05:03+00:00
 Texto:
 O passo a passo mostra como transformar um questionário simples em um sistema operacional de IA: o usuário responde, o n8n processa com IA, o Supabase guarda e calcula, e o Bolt exibe um dashboard vivo com métricas, tarefas e CTA — tudo replicável para muitos clientes.
@@ -489,7 +489,7 @@ Resposta: Converte uso do painel em
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T02:00:30+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13258_009.jpg
@@ -497,7 +497,7 @@ Midia: MessageMediaPhoto -> photo_13258_009.jpg
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T01:58:11+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13257_010.jpg
@@ -505,7 +505,7 @@ Midia: MessageMediaPhoto -> photo_13257_010.jpg
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T01:57:58+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13256_011.jpg
@@ -513,7 +513,7 @@ Midia: MessageMediaPhoto -> photo_13256_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T01:49:08+00:00
 Texto:
 ==================
@@ -521,7 +521,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T01:49:03+00:00
 Texto:
 **“NêO venda agentes de IA, venda sistemas operacionais de IA em vez disso (n8n, Bolt)”**:
@@ -577,7 +577,7 @@ O vídeo mostra que o caminho lucrativo nêo é vender agentes isolados, mas **s
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T01:43:00+00:00
 Texto:
 https://www.youtube.com/watch?v=_HOAErmqmlQ
@@ -586,7 +586,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T01:42:32+00:00
 Texto:
 ====================
@@ -594,7 +594,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T01:42:28+00:00
 Texto:
 Esse **Super-Prompt do Bolt** é um modelo pronto para gerar um **dashboard profissional e totalmente automatizado**, que se adapta dinamicamente às perguntas que você definir.
@@ -616,7 +616,7 @@ Esse prompt cria um **sistema operacional de IA para dashboards personalizados**
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T01:42:22+00:00
 Texto:
 =================
@@ -624,7 +624,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T01:42:20+00:00
 Texto:
 ==================
@@ -632,7 +632,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T01:36:17+00:00
 Texto:
 CSS
@@ -694,7 +694,7 @@ Suas Perguntas de Avaliaçêo (exemplo):
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T01:36:16+00:00
 Texto:
 🦸♂ Super-Prompt do Bolt
@@ -817,7 +817,7 @@ Criaçêo dinâmica de colunas conforme suas perguntas:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T01:35:10+00:00
 Texto:
 ======================
@@ -825,7 +825,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T01:35:08+00:00
 Texto:
 j101. Sistema de Automaçêo de IA
@@ -838,7 +838,7 @@ Nêo venda agentes de IA; venda sistemas operacionais de IA. Neste vídeo, eu mo
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T01:33:51+00:00
 Texto:
 ==============
@@ -846,7 +846,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T01:33:15+00:00
 Texto:
 Nêo venda agentes de IA, venda sistemas operacionais de IA em vez disso
@@ -876,7 +876,7 @@ Isso inclui seu prompt Bolt de disparo único (horas de tentativa e erro em um c
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T01:32:25+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Bolt Super-Prompt.pdf
@@ -884,7 +884,7 @@ Midia: MessageMediaDocument -> Bolt Super-Prompt.pdf
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T01:32:04+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13240_026.jpg
@@ -892,7 +892,7 @@ Midia: MessageMediaPhoto -> photo_13240_026.jpg
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T01:30:03+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 🦸♂️ AI Automation System.json
@@ -900,7 +900,7 @@ Midia: MessageMediaDocument -> 🦸♂️ AI Automation System.json
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T01:29:58+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13238_028.jpg
@@ -908,7 +908,7 @@ Midia: MessageMediaPhoto -> photo_13238_028.jpg
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T01:29:09+00:00
 Texto:
 **j101- AI Automation System**
@@ -916,7 +916,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T01:29:05+00:00
 Texto:
 .
@@ -924,7 +924,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T01:29:05+00:00
 Texto:
 ..
@@ -932,7 +932,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 32
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T01:29:04+00:00
 Texto:
 .
@@ -940,7 +940,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 33
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T01:29:04+00:00
 Texto:
 .
@@ -948,7 +948,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 34
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T01:29:04+00:00
 Texto:
 .
@@ -956,7 +956,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 35
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T01:29:03+00:00
 Texto:
 https://chatgpt.com/c/68abbbb1-3104-8323-a4eb-95f114bb21ea
@@ -965,7 +965,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 36
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T01:29:03+00:00
 Texto:
 1
@@ -973,7 +973,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 37
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T01:28:57+00:00
 Texto: [Sem texto]
 

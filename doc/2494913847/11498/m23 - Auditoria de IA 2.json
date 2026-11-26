@@ -187,7 +187,7 @@
       "credentials": {
         "googleDocsOAuth2Api": {
           "id": "[REMOVED]",
-          "name": "Google Docs INEMA TDS"
+          "name": "Google Docs ARCKHÉ TDS"
         }
       }
     },
@@ -227,7 +227,7 @@
       "parameters": {
         "sendTo": "={{ $('Get many rows').item.json.email }}",
         "subject": "✅ Your AI Audit Is Ready",
-        "message": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"UTF-8\">\n    <title>Sua Auditoria de IA Está Pronta</title>\n  </head>\n  <body style=\"margin:0; padding:0; font-family: Arial, sans-serif;\">\n    \n    <!-- Hidden Preheader (for Gmail snippet) -->\n    <span style=\"display:none; font-size:0; line-height:0; max-height:0; overflow:hidden; color:#ffffff;\">\n      Obrigado por solicitar sua Auditoria de IA! Estamos empolgados para compartilhar os resultados.\n    </span>\n    \n    <table width=\"100%\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n      <tr>\n        <td align=\"center\" style=\"background-color:#000000; padding:30px 0;\">\n          <h1 style=\"color:#ffffff; margin:0; font-size:28px;\">\n            Your AI Audit Is Ready\n          </h1>\n        </td>\n      </tr>\n      <tr>\n        <td align=\"center\" style=\"padding:20px;\">\n          <table width=\"600\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" style=\"max-width:600px;\">\n            <tr>\n              <td style=\"padding:20px; text-align:left;\">\n                <p style=\"margin-top:0; font-size:16px; line-height:1.6;\">\n                  Hi there!\n                </p>\n                <p style=\"font-size:16px; line-height:1.6;\">\n                  Estamos felizes em compartilhar o arquivo da sua Auditoria de IA concluída. Confira o anexo abaixo. Se tiver alguma dúvida, basta responder a este e-mail.\n                </p>\n                <hr style=\"border:none; border-top:1px solid #000000; margin:20px 0;\">\n                <p style=\"font-size:16px; line-height:1.6; margin-bottom:0;\">\n                  Best,<br>\n                  <strong>INEMA VIP</strong>\n                </p>\n              </td>\n            </tr>\n          </table>\n        </td>\n      </tr>\n    </table>\n    \n  </body>\n</html>",
+        "message": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"UTF-8\">\n    <title>Sua Auditoria de IA Está Pronta</title>\n  </head>\n  <body style=\"margin:0; padding:0; font-family: Arial, sans-serif;\">\n    \n    <!-- Hidden Preheader (for Gmail snippet) -->\n    <span style=\"display:none; font-size:0; line-height:0; max-height:0; overflow:hidden; color:#ffffff;\">\n      Obrigado por solicitar sua Auditoria de IA! Estamos empolgados para compartilhar os resultados.\n    </span>\n    \n    <table width=\"100%\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n      <tr>\n        <td align=\"center\" style=\"background-color:#000000; padding:30px 0;\">\n          <h1 style=\"color:#ffffff; margin:0; font-size:28px;\">\n            Your AI Audit Is Ready\n          </h1>\n        </td>\n      </tr>\n      <tr>\n        <td align=\"center\" style=\"padding:20px;\">\n          <table width=\"600\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" style=\"max-width:600px;\">\n            <tr>\n              <td style=\"padding:20px; text-align:left;\">\n                <p style=\"margin-top:0; font-size:16px; line-height:1.6;\">\n                  Hi there!\n                </p>\n                <p style=\"font-size:16px; line-height:1.6;\">\n                  Estamos felizes em compartilhar o arquivo da sua Auditoria de IA concluída. Confira o anexo abaixo. Se tiver alguma dúvida, basta responder a este e-mail.\n                </p>\n                <hr style=\"border:none; border-top:1px solid #000000; margin:20px 0;\">\n                <p style=\"font-size:16px; line-height:1.6; margin-bottom:0;\">\n                  Best,<br>\n                  <strong>ARCKHÉ VIP</strong>\n                </p>\n              </td>\n            </tr>\n          </table>\n        </td>\n      </tr>\n    </table>\n    \n  </body>\n</html>",
         "options": {
           "attachmentsUi": {
             "attachmentsBinary": [
@@ -276,7 +276,7 @@
       "credentials": {
         "googleDocsOAuth2Api": {
           "id": "[REMOVED]",
-          "name": "Google Docs INEMA TDS"
+          "name": "Google Docs ARCKHÉ TDS"
         }
       }
     },

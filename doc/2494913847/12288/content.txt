@@ -10,7 +10,7 @@ Midias baixadas: 6
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T21:38:00+00:00
 Texto:
 ### Hacks para automaçêo de roteiros automáticos com IA
@@ -116,7 +116,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T21:37:39+00:00
 Texto:
 =============
@@ -124,7 +124,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T21:37:37+00:00
 Texto:
 ### Passo a passo para automaçêo de roteiros automáticos de notícias para Instagram ou anúncios
@@ -243,7 +243,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T21:37:27+00:00
 Texto:
 ========
@@ -251,7 +251,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T21:37:08+00:00
 Texto:
 ================
@@ -259,7 +259,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T21:37:05+00:00
 Texto:
 ### Geraçêo de Roteiros Automáticos para Anúncios ou Instagram – Passo a Passo
@@ -384,7 +384,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T21:36:25+00:00
 Texto:
 =====================
@@ -392,7 +392,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T21:36:22+00:00
 Texto:
 ========================
@@ -400,7 +400,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T21:35:20+00:00
 Texto:
 ### Hacks para automaçêo de roteiros de vídeos a partir de notícias
@@ -502,7 +502,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T21:34:59+00:00
 Texto:
 =============
@@ -510,7 +510,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T21:34:55+00:00
 Texto:
 ### **Passo a passo para criar automaçêo de roteiros de vídeos a partir de notícias**
@@ -631,7 +631,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T21:34:30+00:00
 Texto:
 ======
@@ -639,7 +639,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T21:34:25+00:00
 Texto:
 voz de marca e exemplos reais
@@ -673,7 +673,7 @@ Se quiser um roteiro de implementaçêo ou um blueprint detalhado, só pedir!
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T21:34:25+00:00
 Texto:
 e36. Roteiros 100% automáticos a partir de notícias
@@ -768,7 +768,7 @@ Blueprint de criaçêo de roteiros
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T21:32:13+00:00
 Texto:
 ==========
@@ -776,7 +776,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T21:32:10+00:00
 Texto:
 **Resumo dos tópicos principais:**
@@ -815,7 +815,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T21:32:04+00:00
 Texto:
 Crie roteiros 100% automáticos a partir de notícias
@@ -839,7 +839,7 @@ Agora, esse processo é feito pela IA para você. Literalmente, você pode ter 1
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T21:23:38+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Creación Guiones RRSS Alfonso.json
@@ -847,7 +847,7 @@ Midia: MessageMediaDocument -> Creación Guiones RRSS Alfonso.json
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T21:23:33+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12301_019.jpg
@@ -855,7 +855,7 @@ Midia: MessageMediaPhoto -> photo_12301_019.jpg
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T21:22:38+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12300_020.jpg
@@ -863,7 +863,7 @@ Midia: MessageMediaPhoto -> photo_12300_020.jpg
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T21:22:13+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12299_021.jpg
@@ -871,7 +871,7 @@ Midia: MessageMediaPhoto -> photo_12299_021.jpg
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T21:20:48+00:00
 Texto:
 instalar nodes comunitarios Brave
@@ -879,7 +879,7 @@ instalar nodes comunitarios Brave
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T21:20:37+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12296_023.jpg
@@ -887,7 +887,7 @@ Midia: MessageMediaPhoto -> photo_12296_023.jpg
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T21:18:12+00:00
 Texto:
 e36 - Roteiros 100% auto Notícia
@@ -895,7 +895,7 @@ e36 - Roteiros 100% auto Notícia
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T21:18:09+00:00
 Texto:
 .
@@ -903,7 +903,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T21:18:08+00:00
 Texto:
 .
@@ -911,7 +911,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T21:18:07+00:00
 Texto:
 .
@@ -919,7 +919,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T21:18:06+00:00
 Texto:
 .
@@ -927,7 +927,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T21:18:05+00:00
 Texto:
 https://chatgpt.com/c/6893c62d-4128-8323-a79d-acca2c50dad6
@@ -936,7 +936,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T21:18:04+00:00
 Texto:
 1
@@ -944,7 +944,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-06T21:17:55+00:00
 Texto: [Sem texto]
 

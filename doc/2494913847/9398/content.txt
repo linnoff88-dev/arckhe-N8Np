@@ -29,7 +29,7 @@ MENSAGEM 3
 Autor: Larissa
 Data: 2025-09-05T03:02:22+00:00
 Texto:
-tambem aceito indicações de mais fluxo s para implementaçêo, Inema para quem gosta de estudar ajuda muito. Vamo que vamo galera!!!
+tambem aceito indicações de mais fluxo s para implementaçêo, ARCKHÉ para quem gosta de estudar ajuda muito. Vamo que vamo galera!!!
 
 ------------------------------
 
@@ -59,7 +59,7 @@ Ok mestre .
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-17T22:59:10+00:00
 Texto:
 Aqui estêo as automações relacionadas a ferramentas Google disponíveis:
@@ -109,15 +109,15 @@ Nenhuma automaçêo específica para Google Ads foi identificada até o momento.
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-17T22:59:10+00:00
 Texto:
-exemplos de busca de informacoe no @inemaautobot
+exemplos de busca de informacoe no @ARCKHÉautobot
 
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-17T22:55:52+00:00
 Texto:
 Aqui está o **passo a passo completo** da automaçêo explicada no vídeo, usando **Airtable + n8n + IA (Perplexity, Claude, Gemini ou ChatGPT)**. Ele cobre desde a criaçêo do projeto até a geraçêo e revisêo de guias publicitários.
@@ -290,7 +290,7 @@ Aqui está o **passo a passo completo** da automaçêo explicada no vídeo, usan
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-17T22:55:30+00:00
 Texto:
 ======
@@ -298,7 +298,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-17T22:55:26+00:00
 Texto:
 **Resumo completo – Parte 2 da Automaçêo de Anúncios com Airtable, n8n e IA**
@@ -386,7 +386,7 @@ Esta segunda parte  aprofunda a criaçêo de um sistema de automaçêo de anúnc
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-17T22:54:49+00:00
 Texto:
 Parte 2  ======================
@@ -418,7 +418,7 @@ Agora Apareceu
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:12:49+00:00
 Texto:
 ta tudo explicado olha acima
@@ -426,7 +426,7 @@ ta tudo explicado olha acima
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:12:36+00:00
 Texto:
 esta tudo explicado aqui
@@ -434,7 +434,7 @@ esta tudo explicado aqui
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:11:59+00:00
 Texto:
 ta tudo ai.
@@ -442,7 +442,7 @@ ta tudo ai.
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:11:48+00:00
 Texto:
 toda descricao e passo a passo aqui
@@ -474,7 +474,7 @@ Tem a descriçêo dela ?
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-13T18:44:52+00:00
 Texto:
 tem outra tambem ai, , mas o cara nao liberou o video, por isso coloquei as dicas aqui
@@ -506,7 +506,7 @@ Olá! há algum video pra auxiliar com essa automaçêo?
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T19:31:31+00:00
 Texto:
 Aqui estêo os **principais hacks e truques **, organizados por etapa da automaçêo e criaçêo de anúncios:
@@ -605,7 +605,7 @@ Aqui estêo os **principais hacks e truques **, organizados por etapa da automa�
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T19:31:29+00:00
 Texto:
 =============
@@ -613,7 +613,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T19:31:17+00:00
 Texto:
 Segue o **passo a passo detalhado** para automatizar **a extraçêo de métricas de anúncios do Meta Ads** e **gerar roteiros publicitários com IA**, usando **n8n**, **Airtable** e **OpenAI**.
@@ -752,7 +752,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T19:31:14+00:00
 Texto:
 ============
@@ -760,7 +760,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T19:31:02+00:00
 Texto:
 **Resumo completo d(dividido por tópicos e exemplos práticos):Objetivo:**Automatizar a coleta de métricas de campanhas de anúncios e usar essas informações para criar anúncios mais eficientes e personalizados de forma escalável.
@@ -814,7 +814,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 32
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T19:31:00+00:00
 Texto:
 ============
@@ -822,7 +822,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 33
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T19:30:45+00:00
 Texto:
 **e24.1 Automatize métricas e crie anúncios de alto desempenho**
@@ -879,7 +879,7 @@ Transcrevemos anúncios que performaram bemEssas informações alimentam o gerad
 ------------------------------
 
 MENSAGEM 34
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T19:30:19+00:00
 Texto:
 [https://airtable.com/appG4kDD0mtp8HLHy/tblntjnsj30umOOx1/viwcVncqfEqCfFz6U?blocks=hide](https://airtable.com/appG4kDD0mtp8HLHy/tblntjnsj30umOOx1/viwcVncqfEqCfFz6U?blocks=hide)
@@ -888,7 +888,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 35
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T19:30:17+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Meta_Ads_Marketing.json
@@ -896,7 +896,7 @@ Midia: MessageMediaDocument -> Meta_Ads_Marketing.json
 ------------------------------
 
 MENSAGEM 36
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T19:30:05+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9421_036.jpg
@@ -904,7 +904,7 @@ Midia: MessageMediaPhoto -> photo_9421_036.jpg
 ------------------------------
 
 MENSAGEM 37
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T19:30:00+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9420_037.jpg
@@ -912,7 +912,7 @@ Midia: MessageMediaPhoto -> photo_9420_037.jpg
 ------------------------------
 
 MENSAGEM 38
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T19:29:55+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9419_038.jpg
@@ -920,7 +920,7 @@ Midia: MessageMediaPhoto -> photo_9419_038.jpg
 ------------------------------
 
 MENSAGEM 39
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T19:29:47+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9418_039.jpg
@@ -928,7 +928,7 @@ Midia: MessageMediaPhoto -> photo_9418_039.jpg
 ------------------------------
 
 MENSAGEM 40
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T19:27:58+00:00
 Texto:
 e24-1 Meta ADS
@@ -936,7 +936,7 @@ e24-1 Meta ADS
 ------------------------------
 
 MENSAGEM 41
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T19:27:49+00:00
 Texto:
 .
@@ -944,7 +944,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 42
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T19:27:49+00:00
 Texto:
 .
@@ -952,7 +952,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 43
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T19:27:49+00:00
 Texto:
 .
@@ -960,7 +960,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 44
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T19:27:48+00:00
 Texto:
 .
@@ -968,7 +968,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 45
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T19:27:48+00:00
 Texto:
 https://chatgpt.com/c/6851f1f5-aab4-8009-bcc3-62da26a237ac
@@ -977,7 +977,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 46
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T19:27:48+00:00
 Texto:
 [https://chatgpt.com/c/684b286a-231c-8009-95be-a2dfc8fa100c](https://chatgpt.com/c/684b286a-231c-8009-95be-a2dfc8fa100c)
@@ -986,7 +986,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 47
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T19:27:47+00:00
 Texto:
 1
@@ -994,7 +994,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 48
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T19:27:41+00:00
 Texto: [Sem texto]
 

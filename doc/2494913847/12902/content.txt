@@ -10,7 +10,7 @@ Midias baixadas: 10
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T21:32:57+00:00
 Texto:
 **Hacks para o caso de notícias (GNews + OpenAI + Creatomate)**
@@ -45,7 +45,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T21:32:38+00:00
 Texto:
 =================
@@ -53,7 +53,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T21:32:35+00:00
 Texto:
 renderizar.
@@ -64,7 +64,7 @@ renderizar.
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T21:32:35+00:00
 Texto:
 (n8n) recebe os campos e os arquivos/imagens.
@@ -179,7 +179,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T21:32:35+00:00
 Texto:
 Aqui vai um passo a passo objetivo para montar os dois fluxos de vídeo no n8n + Creatomate + Make, usando GNews, OpenAI, ImageKit/ImgBB.
@@ -265,7 +265,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T21:31:22+00:00
 Texto:
 ===================
@@ -273,7 +273,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T21:31:16+00:00
 Texto:
 Como criar e publicar vídeos automaticamente usando o Creatomate e automações no n8n/Make, com dois casos práticos:
@@ -284,7 +284,7 @@ Como criar e publicar vídeos automaticamente usando o Creatomate e automações
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T21:25:55+00:00
 Texto:
 ==================
@@ -292,7 +292,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T21:24:56+00:00
 Texto:
 e38. Automatize vídeos para redes em minutos
@@ -359,7 +359,7 @@ Aprender a montar um sistema completo para gerar vídeos automáticos a partir d
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T21:24:45+00:00
 Texto:
 ============
@@ -367,7 +367,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T21:24:23+00:00
 Texto:
 Crie vídeos automáticos com IA + modelos
@@ -390,7 +390,7 @@ Isso pode ser aplicado se você é agência, SaaS, consultor ou possui qualquer 
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T21:23:32+00:00
 Texto:
 =======================
@@ -398,7 +398,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T21:23:27+00:00
 Texto:
 * **GNews API** – API para buscar e filtrar notícias em tempo real ou históricas de mais de 60 mil fontes, com suporte a múltiplos idiomas e integraçêo fácil via JSON.}
@@ -412,7 +412,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T21:18:49+00:00
 Texto:
 https://imagekit.io/
@@ -421,7 +421,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T21:18:37+00:00
 Texto:
 https://api.imgbb.com/
@@ -429,7 +429,7 @@ https://api.imgbb.com/
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T21:18:19+00:00
 Texto:
 https://creatomate.com/
@@ -438,7 +438,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T21:18:04+00:00
 Texto:
 https://gnews.io/
@@ -447,7 +447,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T21:17:23+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12913_018.jpg
@@ -455,7 +455,7 @@ Midia: MessageMediaPhoto -> photo_12913_018.jpg
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T21:17:03+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Creador noticias y videos plantilla.json
@@ -463,7 +463,7 @@ Midia: MessageMediaDocument -> Creador noticias y videos plantilla.json
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T21:16:59+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12911_020.jpg
@@ -471,7 +471,7 @@ Midia: MessageMediaPhoto -> photo_12911_020.jpg
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T21:16:45+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12910_021.jpg
@@ -479,7 +479,7 @@ Midia: MessageMediaPhoto -> photo_12910_021.jpg
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T20:13:45+00:00
 Texto:
 e38- Vídeos para Redes Sociais
@@ -487,7 +487,7 @@ e38- Vídeos para Redes Sociais
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T20:13:44+00:00
 Texto:
 .
@@ -495,7 +495,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T20:13:43+00:00
 Texto:
 .
@@ -503,7 +503,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T20:13:42+00:00
 Texto:
 .
@@ -511,7 +511,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T20:13:41+00:00
 Texto:
 .
@@ -519,7 +519,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T20:13:41+00:00
 Texto:
 https://chatgpt.com/c/689f9521-b214-832b-917c-451b5f6f605a
@@ -528,7 +528,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T20:13:39+00:00
 Texto:
 1
@@ -536,7 +536,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T20:13:30+00:00
 Texto: [Sem texto]
 

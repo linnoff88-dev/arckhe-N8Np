@@ -10,7 +10,7 @@ Midias baixadas: 2
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T02:46:18+00:00
 Texto:
 Risco no Telegram FIXAR
@@ -19,7 +19,7 @@ https://t.me/c/2494913847/3797
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T01:17:38+00:00
 Texto:
 https://www.youtube.com/watch?v=0dAGtOj9sKE
@@ -28,7 +28,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T04:34:53+00:00
 Texto:
 =========
@@ -36,7 +36,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T04:34:50+00:00
 Texto:
 ### **📌 Passo a Passo: Integrar o Bot do Telegram em um Grupo**  
@@ -147,7 +147,7 @@ Agora vamos configurar o N8N para processar as mensagens do grupo.
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T04:32:44+00:00
 Texto:
 ============
@@ -155,7 +155,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T04:31:41+00:00
 Texto:
 o Workflow** e teste enviando mensagens para o bot.  
@@ -179,7 +179,7 @@ o Workflow** e teste enviando mensagens para o bot.
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T04:31:41+00:00
 Texto:
 ### **Passo a Passo Detalhado: Configurar um Bot do Telegram (Uso Direto, Sem Grupo)**  
@@ -295,7 +295,7 @@ Se **quiser salvar as mensagens recebidas em uma planilha do Goog**le Sheets, si
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T04:31:19+00:00
 Texto:
 ===================
@@ -303,7 +303,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T04:29:32+00:00
 Texto:
 Encontrei dificuldade de todar o workflow,  entao fui ativar de traz para frente o workflow.
@@ -311,7 +311,7 @@ Encontrei dificuldade de todar o workflow,  entao fui ativar de traz para frente
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T04:28:50+00:00
 Texto:
 ### **Passos para Configurar o Bot do Telegram no N8N e Integrar com Google Sheets**  
@@ -358,7 +358,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T04:28:45+00:00
 Texto:
 .
@@ -366,7 +366,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T04:28:44+00:00
 Texto:
 ..
@@ -374,7 +374,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T04:28:44+00:00
 Texto:
 .
@@ -382,7 +382,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T04:28:44+00:00
 Texto:
 ..
@@ -390,7 +390,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T04:28:44+00:00
 Texto:
 .
@@ -398,7 +398,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T04:28:43+00:00
 Texto:
 .
@@ -406,7 +406,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T04:28:43+00:00
 Texto:
 .
@@ -414,7 +414,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T04:28:43+00:00
 Texto:
 xhttps://chatgpt.com/c/67d4d6b7-d554-8009-a578-287538eab92c
@@ -423,7 +423,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T04:28:42+00:00
 Texto:
 1
@@ -431,7 +431,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-15T04:28:34+00:00
 Texto: [Sem texto]
 

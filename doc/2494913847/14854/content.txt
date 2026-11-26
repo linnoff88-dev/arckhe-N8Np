@@ -10,7 +10,7 @@ Midias baixadas: 6
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-07T03:53:43+00:00
 Texto:
 po, use null. Exemplo de saída: {"emisor":"ACME SA","nif":"ES12345678","data_emissao":"2025-09-10","numero_factura":"INV123","subtotal":1000.00,"impuestos":250.00,"valor_total":1250.00,"moeda":"EUR"}.
@@ -34,7 +34,7 @@ Perguntas rápidas respondidas
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-07T03:53:43+00:00
 Texto:
 m fila de revisêo, histórico, download e export CSV.
@@ -145,7 +145,7 @@ Prompt de exemplo pronto para copiar (extraçêo JSON)
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-07T03:53:43+00:00
 Texto:
 Resumo completo (visêo rápida)
@@ -244,7 +244,7 @@ Hacks práticos (açêo imediata)
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-07T03:52:42+00:00
 Texto:
 ===========
@@ -252,7 +252,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-07T03:52:39+00:00
 Texto:
 **Resumo da aula: Automaçêo definitiva de faturas (Make/N8N + Gemini + Google Drive + Supabase)**
@@ -308,7 +308,7 @@ O instrutor encerra mostrando o fluxo completo funcionando e reforçando que ess
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-07T03:51:37+00:00
 Texto:
 ================
@@ -316,7 +316,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-07T03:51:33+00:00
 Texto:
 e48. A gestêo de faturas DEFINITIVA
@@ -377,7 +377,7 @@ Automaçêo 2: Segmentaçêo + extraçêo de dados no Drive
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-07T03:51:07+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14870_008.jpg
@@ -385,7 +385,7 @@ Midia: MessageMediaPhoto -> photo_14870_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-07T03:50:36+00:00
 Texto:
 ======================
@@ -393,7 +393,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-07T03:50:32+00:00
 Texto:
 Nova joia: Automaçêo definitiva de faturas😱
@@ -432,7 +432,7 @@ E o melhor: é 100% funcional. Já foi testado em empresas reais.
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-07T03:48:36+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Blueprint correo.json
@@ -440,7 +440,7 @@ Midia: MessageMediaDocument -> Blueprint correo.json
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-07T03:48:36+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Blueprint Drive.json
@@ -448,7 +448,7 @@ Midia: MessageMediaDocument -> Blueprint Drive.json
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-07T03:48:26+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14865_013.jpg
@@ -456,7 +456,7 @@ Midia: MessageMediaPhoto -> photo_14865_013.jpg
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-07T03:47:25+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14864_014.jpg
@@ -464,7 +464,7 @@ Midia: MessageMediaPhoto -> photo_14864_014.jpg
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-07T03:44:33+00:00
 Texto:
 e48. A gestêo de faturas DEFINITIVA
@@ -472,7 +472,7 @@ e48. A gestêo de faturas DEFINITIVA
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-07T03:44:31+00:00
 Texto:
 .
@@ -480,7 +480,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-07T03:44:31+00:00
 Texto:
 .
@@ -488,7 +488,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-07T03:44:31+00:00
 Texto:
 .
@@ -496,7 +496,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-07T03:44:30+00:00
 Texto:
 .
@@ -504,7 +504,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-07T03:44:30+00:00
 Texto:
 .
@@ -512,7 +512,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-07T03:44:30+00:00
 Texto:
 .
@@ -520,7 +520,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-07T03:44:30+00:00
 Texto:
 https://chatgpt.com/c/68e48c5e-d764-8325-b6be-3552689a3808
@@ -529,7 +529,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-07T03:44:29+00:00
 Texto:
 1
@@ -537,7 +537,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-07T03:44:24+00:00
 Texto: [Sem texto]
 

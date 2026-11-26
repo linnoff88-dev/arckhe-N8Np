@@ -10,7 +10,7 @@ Midias baixadas: 4
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-13T01:31:04+00:00
 Texto:
 tem pequenas coisas a acertar
@@ -18,7 +18,7 @@ tem pequenas coisas a acertar
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-13T01:30:57+00:00
 Texto:
 estou analisando
@@ -26,7 +26,7 @@ estou analisando
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T22:21:34+00:00
 Texto:
 https://aistudio.google.com/u/1/apikey
@@ -34,7 +34,7 @@ https://aistudio.google.com/u/1/apikey
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T21:58:57+00:00
 Texto:
 🎯 Sistema Completo de Análise de Vídeo com N8N
@@ -122,7 +122,7 @@ Este sistema é **production-ready** e segue todas as melhores práticas do N8N,
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T21:58:33+00:00
 Texto:
 ===========
@@ -130,7 +130,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T21:58:27+00:00
 Texto:
 Prompt
@@ -171,7 +171,7 @@ Quero que você atue como um especialista em criar soluções baseadas em **JSON
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T21:57:16+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> My_workflow_14.json
@@ -179,7 +179,7 @@ Midia: MessageMediaDocument -> My_workflow_14.json
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T21:57:09+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9465_008.jpg
@@ -187,7 +187,7 @@ Midia: MessageMediaPhoto -> photo_9465_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T21:57:01+00:00
 Texto:
 nm36 - Analise de Video com VIBE CODE
@@ -195,7 +195,7 @@ nm36 - Analise de Video com VIBE CODE
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T21:57:00+00:00
 Texto:
 ..
@@ -203,7 +203,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T21:56:59+00:00
 Texto:
 .
@@ -211,7 +211,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T21:56:59+00:00
 Texto:
 .
@@ -219,7 +219,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T21:56:59+00:00
 Texto:
 https://claude.ai/chat/b9895feb-5491-4106-b73e-9b3e98a50332
@@ -228,7 +228,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T21:56:59+00:00
 Texto:
 https://chatgpt.com/c/684b4b0a-c4a4-8009-bc67-7a9c34db609e
@@ -237,7 +237,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T21:56:58+00:00
 Texto:
 1
@@ -245,7 +245,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T21:56:53+00:00
 Texto: [Sem texto]
 

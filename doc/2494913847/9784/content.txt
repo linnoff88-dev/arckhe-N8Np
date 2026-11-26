@@ -10,7 +10,7 @@ Midias baixadas: 10
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:45:40+00:00
 Texto:
 https://www.youtube.com/watch?v=WrdkuAd7Stg
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:45:26+00:00
 Texto:
 Aqui está o **passo a passo** completo para criar um sistema de **pesquisa e postagem automática de conteúdo** com IA para LinkedIn, X (Twitter) e Threads usando **n8n** e **OpenAI**, sem codificaçêo:
@@ -130,7 +130,7 @@ A IA:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:45:17+00:00
 Texto:
 ========
@@ -138,7 +138,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:44:48+00:00
 Texto:
 **Resumo do conteúdo apresentado:**
@@ -197,7 +197,7 @@ Um sistema de automaçêo foi criado usando *n8n* e *OpenAI* para pesquisar cont
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:43:37+00:00
 Texto:
 **al37 - Postagem Automática no LinkedIn, X (Twitter) e Threads**
@@ -211,7 +211,7 @@ Este sistema com IA gerencia os tokens, gera conteúdos em formato de thread e a
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:42:56+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Tutorial_3_3_I_Built_an_AI_Agent_for_Content_Research_Auto_Posting.json
@@ -219,7 +219,7 @@ Midia: MessageMediaDocument -> Tutorial_3_3_I_Built_an_AI_Agent_for_Content_Rese
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:42:56+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Common___Send_X_Twitter_Workflow (1).json
@@ -227,7 +227,7 @@ Midia: MessageMediaDocument -> Common___Send_X_Twitter_Workflow (1).json
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:42:56+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Common___Send_Threads_Workflow (2).json
@@ -235,7 +235,7 @@ Midia: MessageMediaDocument -> Common___Send_Threads_Workflow (2).json
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:42:56+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Common___Send_Linkedin (1).json
@@ -243,7 +243,7 @@ Midia: MessageMediaDocument -> Common___Send_Linkedin (1).json
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:42:41+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9795_010.jpg
@@ -251,7 +251,7 @@ Midia: MessageMediaPhoto -> photo_9795_010.jpg
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:42:06+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9794_011.jpg
@@ -259,7 +259,7 @@ Midia: MessageMediaPhoto -> photo_9794_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:41:04+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9793_012.jpg
@@ -267,7 +267,7 @@ Midia: MessageMediaPhoto -> photo_9793_012.jpg
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:39:58+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9792_013.jpg
@@ -275,7 +275,7 @@ Midia: MessageMediaPhoto -> photo_9792_013.jpg
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:36:57+00:00
 Texto:
 al37 - **Auto-Post LinkedIn, X Twitter & Threads**
@@ -283,7 +283,7 @@ al37 - **Auto-Post LinkedIn, X Twitter & Threads**
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:36:55+00:00
 Texto:
 ..
@@ -291,7 +291,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:36:55+00:00
 Texto:
 .
@@ -299,7 +299,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:36:54+00:00
 Texto:
 ..
@@ -307,7 +307,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:36:54+00:00
 Texto:
 .
@@ -315,7 +315,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:36:54+00:00
 Texto:
 https://chatgpt.com/c/684e4e69-1af4-8009-b6be-e9ece5dfe32e
@@ -324,7 +324,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:36:53+00:00
 Texto:
 1
@@ -332,7 +332,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T04:36:49+00:00
 Texto: [Sem texto]
 

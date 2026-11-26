@@ -10,7 +10,7 @@ Midias baixadas: 7
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-19T23:21:33+00:00
 Texto:
 vc tem juntar os clips, ou seja pode fazer o tamanho q quiser, mas tem juntar todos clipes e vai sair caro
@@ -26,7 +26,7 @@ EU CONSIGO FAZER UM VIDEO DE 5 MIN COM ESSA AUTOMAÇêO?
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T00:22:00+00:00
 Texto:
 Aqui estêo os **hacks, truques e dicas práticas** que o criador compartilha ao longo do vídeo:
@@ -108,7 +108,7 @@ Aqui estêo os **hacks, truques e dicas práticas** que o criador compartilha ao
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T00:21:02+00:00
 Texto:
 Segue o **passo a passo completo** do sistema automatizado para gerar **vídeos documentais em 3D com IA**, conforme apresentado no vídeo:
@@ -166,7 +166,7 @@ Segue o **passo a passo completo** do sistema automatizado para gerar **vídeos 
 * **Nó**: `OpenAI GPT-Image-1`
 * **Prompt**:
 
-  * "Renderizaçêo 3D estilo low poly, sombras marcadas, cinematográfico estilo Unreal Engine"
+  * "Renderizaçêo 3D estilo low poly, sombras marcadas, cARCKHÉtográfico estilo Unreal Engine"
 * **Saída**: 10 imagens .png de cada cena
 
 ---
@@ -270,7 +270,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T00:20:39+00:00
 Texto:
 **Resumo completo do vídeo "I Built a 5 Million-View 3D Documentary AI System (All Auto-Pilot & No Code)"**
@@ -370,7 +370,7 @@ Andy mostra como criou um sistema totalmente automatizado e sem código para ger
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T00:09:55+00:00
 Texto:
 https://www.youtube.com/watch?v=maRZ7R6RvOE
@@ -379,7 +379,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T00:09:17+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> creatomate.json
@@ -387,7 +387,7 @@ Midia: MessageMediaDocument -> creatomate.json
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T00:09:17+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> sheet.xlsx
@@ -395,7 +395,7 @@ Midia: MessageMediaDocument -> sheet.xlsx
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T00:09:11+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Tutorial_27_3_cleaned.json
@@ -403,7 +403,7 @@ Midia: MessageMediaDocument -> Tutorial_27_3_cleaned.json
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T00:09:03+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9575_010.jpg
@@ -411,7 +411,7 @@ Midia: MessageMediaPhoto -> photo_9575_010.jpg
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T00:08:23+00:00
 Texto:
 al30 - ** Documentário AI 3D**
@@ -419,7 +419,7 @@ al30 - ** Documentário AI 3D**
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T00:08:15+00:00
 Texto:
 .
@@ -427,7 +427,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T00:08:15+00:00
 Texto:
 .
@@ -435,7 +435,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T00:08:15+00:00
 Texto:
 .
@@ -443,7 +443,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T00:08:15+00:00
 Texto:
 .
@@ -451,7 +451,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T00:08:14+00:00
 Texto:
 .
@@ -459,7 +459,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T00:08:14+00:00
 Texto:
 https://chatgpt.com/c/684cbf61-077c-8009-993f-a7a37d96fd4e
@@ -468,7 +468,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T00:08:13+00:00
 Texto:
 1
@@ -476,7 +476,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-14T00:08:08+00:00
 Texto: [Sem texto]
 

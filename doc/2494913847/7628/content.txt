@@ -10,7 +10,7 @@ Midias baixadas: 17
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T08:53:34+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_8237_001.jpg
@@ -18,7 +18,7 @@ Midia: MessageMediaPhoto -> photo_8237_001.jpg
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T08:53:06+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_8236_002.jpg
@@ -26,7 +26,7 @@ Midia: MessageMediaPhoto -> photo_8236_002.jpg
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T08:52:38+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_8235_003.jpg
@@ -34,7 +34,7 @@ Midia: MessageMediaPhoto -> photo_8235_003.jpg
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T08:50:34+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_8234_004.jpg
@@ -42,7 +42,7 @@ Midia: MessageMediaPhoto -> photo_8234_004.jpg
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T08:49:59+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_8233_005.jpg
@@ -50,7 +50,7 @@ Midia: MessageMediaPhoto -> photo_8233_005.jpg
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-24T03:29:39+00:00
 Texto:
 vou fazer live
@@ -66,7 +66,7 @@ Onde está essa aula?
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-23T18:55:37+00:00
 Texto:
 Para **ativar os MCPs (Model Context Protocols)** no **Claude Desktop**, você precisa editar manualmente o arquivo de configuraçêo `desktopconfig.json` e adicionar as URLs dos fluxos do N8N que atuam como MCPs. Aqui está o passo a passo completo:
@@ -140,7 +140,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-23T18:52:46+00:00
 Texto:
 https://claude.ai/download
@@ -149,7 +149,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-23T18:47:56+00:00
 Texto:
 tem ser pelo claude.ai
@@ -165,7 +165,7 @@ para fazer a configuraçêo de cada nucleo eu tenho um app para isso ? estou ten
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T20:46:54+00:00
 Texto:
 sobre o conteudo  anterior
@@ -175,7 +175,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T20:39:25+00:00
 Texto:
 estou estudando como fazer isso
@@ -183,7 +183,7 @@ estou estudando como fazer isso
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T20:39:18+00:00
 Texto:
 ==========
@@ -191,7 +191,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T20:39:14+00:00
 Texto:
 **17. MCPs + Claude = Automaçêo Brutal**
@@ -271,7 +271,7 @@ Economiza tokens e permite uma automaçêo muito mais escalável.
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T20:37:02+00:00
 Texto:
 Claude + MCPs + N8N = O FUTURO DA AUTOMAÇêO 🔥
@@ -293,7 +293,7 @@ E com Claude e N8N... você está um passo à frente. 🚀
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T20:35:26+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> MCPs_Claude.json
@@ -301,7 +301,7 @@ Midia: MessageMediaDocument -> MCPs_Claude.json
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T20:35:26+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Envio_Whatsapp (1).json
@@ -309,7 +309,7 @@ Midia: MessageMediaDocument -> Envio_Whatsapp (1).json
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T20:35:26+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Contactos (1).json
@@ -317,7 +317,7 @@ Midia: MessageMediaDocument -> Contactos (1).json
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T20:35:07+00:00
 Texto:
 contatos
@@ -326,7 +326,7 @@ Midia: MessageMediaPhoto -> photo_7642_020.jpg
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T20:34:34+00:00
 Texto:
 whats
@@ -335,7 +335,7 @@ Midia: MessageMediaPhoto -> photo_7641_021.jpg
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T20:33:06+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7639_022.jpg
@@ -343,7 +343,7 @@ Midia: MessageMediaPhoto -> photo_7639_022.jpg
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T20:32:37+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7638_023.jpg
@@ -351,7 +351,7 @@ Midia: MessageMediaPhoto -> photo_7638_023.jpg
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T20:32:05+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7637_024.jpg
@@ -359,7 +359,7 @@ Midia: MessageMediaPhoto -> photo_7637_024.jpg
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T20:32:02+00:00
 Texto:
 e17 - MCPs Claude
@@ -367,7 +367,7 @@ e17 - MCPs Claude
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T20:31:54+00:00
 Texto:
 .
@@ -375,7 +375,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T20:31:54+00:00
 Texto:
 .
@@ -383,7 +383,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T20:31:53+00:00
 Texto:
 .
@@ -391,7 +391,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T20:31:53+00:00
 Texto:
 .
@@ -399,7 +399,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T20:31:53+00:00
 Texto:
 .
@@ -407,7 +407,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T20:31:52+00:00
 Texto:
 https://chatgpt.com/c/6823a95b-857c-8009-997f-e01f5b998258
@@ -416,7 +416,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 32
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T20:31:52+00:00
 Texto:
 1
@@ -424,7 +424,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 33
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-13T20:31:47+00:00
 Texto: [Sem texto]
 

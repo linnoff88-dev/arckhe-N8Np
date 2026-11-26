@@ -44,14 +44,14 @@ top
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-17T22:50:27+00:00
 Texto: [Sem texto]
 
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-17T22:46:17+00:00
 Texto:
 ### **Tópicos do Vídeo - Guia de Configuraçêo do Ultimate No Code MCP**  
@@ -121,7 +121,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-17T22:45:47+00:00
 Texto:
 =============
@@ -129,7 +129,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-17T22:45:41+00:00
 Texto:
 **argumentos e variáveis de ambiente** necessárias.
@@ -141,7 +141,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-17T22:45:41+00:00
 Texto:
 Aqui está um guia detalhado baseado no vídeo sobre **configuraçêo do Ultimate No Code MCP**. Ele cobre **auto-hospedagem, instalaçêo, configuraçêo e resoluçêo de problemas comuns**.
@@ -251,7 +251,7 @@ Isso permite que seu agente escolha **qual ferramenta MCP usar** baseado na conv
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-17T22:44:39+00:00
 Texto:
 https://www.youtube.com/watch?v=OUPW4DJMAsA
@@ -260,7 +260,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-17T22:41:49+00:00
 Texto:
 **Guia de configuraçêo do Ultimate No Code MCP (auto-host, instalaçêo, problemas comuns)**
@@ -276,7 +276,7 @@ P.S., você pode baixar o fluxo de trabalho JSON, mas lembre-se de que precisar�
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-17T22:40:54+00:00
 Texto:
 ap7
@@ -285,7 +285,7 @@ Midia: MessageMediaDocument -> MCP_Agent.json
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-17T22:40:39+00:00
 Texto:
 .
@@ -293,7 +293,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-17T22:40:36+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_3422_014.jpg
@@ -301,7 +301,7 @@ Midia: MessageMediaPhoto -> photo_3422_014.jpg
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-17T22:40:30+00:00
 Texto:
 ap7 - Ultimate NoCODE MCP AGENT
@@ -309,7 +309,7 @@ ap7 - Ultimate NoCODE MCP AGENT
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-17T22:40:08+00:00
 Texto:
 ....
@@ -317,7 +317,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-17T22:40:07+00:00
 Texto:
 ...
@@ -325,7 +325,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-17T22:40:07+00:00
 Texto:
 ..
@@ -333,7 +333,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-17T22:40:07+00:00
 Texto:
 .
@@ -341,7 +341,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-17T22:40:07+00:00
 Texto:
 ..
@@ -349,7 +349,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-17T22:40:07+00:00
 Texto:
 .
@@ -357,7 +357,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-17T22:40:06+00:00
 Texto:
 https://chatgpt.com/c/67d8a542-7870-8009-8fb8-59f13dabd255
@@ -366,7 +366,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-17T22:40:06+00:00
 Texto:
 1
@@ -374,7 +374,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-17T22:39:58+00:00
 Texto: [Sem texto]
 

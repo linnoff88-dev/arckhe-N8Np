@@ -10,7 +10,7 @@ Midias baixadas: 3
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T10:05:41+00:00
 Texto:
 assim q conseguir coloco aqui
@@ -18,7 +18,7 @@ assim q conseguir coloco aqui
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T10:05:33+00:00
 Texto:
 nao consegui o json e nem os videos disponiveis
@@ -26,7 +26,7 @@ nao consegui o json e nem os videos disponiveis
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T10:05:12+00:00
 Texto:
 Esse sistema é basicamente um “chat inteligente personalizado” chamado **JackGPT v2**, construído em cima do **n8n** com integrações externas.
@@ -72,7 +72,7 @@ Ou seja: **um “mini-ChatGPT especializado” na comunidade do Jack**, com mem�
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T10:04:06+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13319_004.jpg
@@ -80,7 +80,7 @@ Midia: MessageMediaPhoto -> photo_13319_004.jpg
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T10:04:06+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13318_005.jpg
@@ -88,7 +88,7 @@ Midia: MessageMediaPhoto -> photo_13318_005.jpg
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T10:03:49+00:00
 Texto:
 JackGPT V2
@@ -96,7 +96,7 @@ JackGPT V2
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T10:03:49+00:00
 Texto:
 .
@@ -104,7 +104,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T10:03:49+00:00
 Texto:
 .
@@ -112,7 +112,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T10:03:49+00:00
 Texto:
 .
@@ -120,7 +120,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T10:03:48+00:00
 Texto:
 https://chatgpt.com/c/68ac1c01-220c-8320-b6c6-3ffa5c111055
@@ -129,7 +129,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T10:03:46+00:00
 Texto:
 1
@@ -137,7 +137,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T10:03:42+00:00
 Texto: [Sem texto]
 

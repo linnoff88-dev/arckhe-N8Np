@@ -10,7 +10,7 @@ Midias baixadas: 6
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-28T05:14:25+00:00
 Texto:
 https://www.youtube.com/watch?v=J2VOsyCoX0Q
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-28T05:13:57+00:00
 Texto:
 1. **Objetivo Geral**
@@ -87,7 +87,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-28T05:13:30+00:00
 Texto:
 =============
@@ -95,7 +95,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-28T05:13:26+00:00
 Texto:
 Resumo da masterclass:
@@ -135,7 +135,7 @@ Esse sistema economiza horas de trabalho manual e permite escalar produçêo de 
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-28T05:08:27+00:00
 Texto:
 **Masterclass de SEO com n8n: Da Pesquisa de Palavras-chave à Publicaçêo Automática no WordPress (Tudo no Piloto Automático)**
@@ -149,7 +149,7 @@ Ele extrai dados de cinco APIs de SEO, analisa concorrentes, cria resumos de con
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-28T05:07:33+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> SEO Master List.xlsx
@@ -157,7 +157,7 @@ Midia: MessageMediaDocument -> SEO Master List.xlsx
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-28T05:07:33+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 20252619-162625-seo.xlsx
@@ -165,7 +165,7 @@ Midia: MessageMediaDocument -> 20252619-162625-seo.xlsx
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-28T05:07:25+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 25_2_SEO___cleaned.json
@@ -173,7 +173,7 @@ Midia: MessageMediaDocument -> 25_2_SEO___cleaned.json
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-28T05:07:14+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_8472_009.jpg
@@ -181,7 +181,7 @@ Midia: MessageMediaPhoto -> photo_8472_009.jpg
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-28T05:06:18+00:00
 Texto:
 **al27 - n8n SEO Masterclass**
@@ -189,7 +189,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-28T05:06:16+00:00
 Texto:
 ..
@@ -197,7 +197,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-28T05:06:15+00:00
 Texto:
 .
@@ -205,7 +205,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-28T05:06:15+00:00
 Texto:
 .
@@ -213,7 +213,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-28T05:06:15+00:00
 Texto:
 .
@@ -221,7 +221,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-28T05:06:14+00:00
 Texto:
 https://chatgpt.com/c/68369941-ddf4-8009-b502-8a716849871e
@@ -230,7 +230,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-28T05:06:14+00:00
 Texto:
 1
@@ -238,7 +238,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-28T05:06:10+00:00
 Texto: [Sem texto]
 

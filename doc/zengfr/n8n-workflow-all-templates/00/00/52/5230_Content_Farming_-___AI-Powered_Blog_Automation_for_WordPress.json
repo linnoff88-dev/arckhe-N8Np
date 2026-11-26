@@ -1074,7 +1074,7 @@
         2640
       ],
       "parameters": {
-        "text": "=Use the blog title, main keyword, and image alt text to craft a image generation prompt that captures a human-centered, emotionally compelling moment related to the image alt text.\n\nImagine a scene that tells a story or captures a pivotal feeling — something symbolic, cinematic, and relatable. Think in terms of real-world settings, natural environments, recognizable objects, or subtle interactions that represent change, tension, or hope. Let the visual convey meaning without relying on text or overt symbols.\n\nAvoid abstract visualizations like circuits, networks, floating data, or robotic aesthetics. Instead, evoke emotion and narrative through setting, lighting, perspective, and atmosphere. Let the image feel like a glimpse into a personal story, a lived moment, or a metaphor unfolding.\n\nDo not include any text or words in the image.\n\nRespond only with the image generation rompt.\n\nBlog Titile: {{ $json.blog_title }}\nMain Keyword: {{ $json.main_keyword }}\nImage Alt Text: {{ $json.image_alt_text }}",
+        "text": "=Use the blog title, main keyword, and image alt text to craft a image generation prompt that captures a human-centered, emotionally compelling moment related to the image alt text.\n\nImagine a scene that tells a story or captures a pivotal feeling — something symbolic, cARCKHÉtic, and relatable. Think in terms of real-world settings, natural environments, recognizable objects, or subtle interactions that represent change, tension, or hope. Let the visual convey meaning without relying on text or overt symbols.\n\nAvoid abstract visualizations like circuits, networks, floating data, or robotic aesthetics. Instead, evoke emotion and narrative through setting, lighting, perspective, and atmosphere. Let the image feel like a glimpse into a personal story, a lived moment, or a metaphor unfolding.\n\nDo not include any text or words in the image.\n\nRespond only with the image generation rompt.\n\nBlog Titile: {{ $json.blog_title }}\nMain Keyword: {{ $json.main_keyword }}\nImage Alt Text: {{ $json.image_alt_text }}",
         "options": {
           "systemMessage": "You are a creative visual expert in marketing and digital design. Your job is to craft emotionally compelling image prompts that generate click bait images for social media posts\n"
         },
@@ -1572,7 +1572,7 @@
         2420
       ],
       "parameters": {
-        "jsCode": "const base = $('MongoDB8').first().json.image_alt_text || '';\nconst cleanBase = base.replace(/[\"\\n\\r]/g, ''); // Remove double quotes and line breaks\nconst enrichedPrompt = `A cinematic, emotionally compelling scene involving people that captures the essence of: ${cleanBase}. Include visible human figures in natural interaction or meaningful posture, placed in a symbolic setting that reinforces the story.`;\n\nreturn [{\n  json: {\n    prompt: enrichedPrompt\n  }\n}];\n"
+        "jsCode": "const base = $('MongoDB8').first().json.image_alt_text || '';\nconst cleanBase = base.replace(/[\"\\n\\r]/g, ''); // Remove double quotes and line breaks\nconst enrichedPrompt = `A cARCKHÉtic, emotionally compelling scene involving people that captures the essence of: ${cleanBase}. Include visible human figures in natural interaction or meaningful posture, placed in a symbolic setting that reinforces the story.`;\n\nreturn [{\n  json: {\n    prompt: enrichedPrompt\n  }\n}];\n"
       },
       "typeVersion": 2
     },

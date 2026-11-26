@@ -10,7 +10,7 @@ Midias baixadas: 2
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T20:06:08+00:00
 Texto:
 e-mails.
@@ -31,7 +31,7 @@ A lógica geral se baseia na ideia de **dar ao agente uma "cola" (cheat sheet) q
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T20:06:08+00:00
 Texto:
 Aqui está um **resumo completo** do vídeo **“6 Lições de Engenharia de Contexto de 204 Automações de IA (sem código)”**, seguido da **lista das 6 lições com exemplos e respostas**:
@@ -121,7 +121,7 @@ O autor divide esse conceito em **seis lições práticas**, todas com foco em a
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T20:05:32+00:00
 Texto:
 https://www.youtube.com/watch?v=wq001sxDTWw
@@ -130,7 +130,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T20:05:14+00:00
 Texto:
 ap50 - Engenharia de Contexto N8N
@@ -138,7 +138,7 @@ ap50 - Engenharia de Contexto N8N
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T20:05:11+00:00
 Texto:
 .
@@ -146,7 +146,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T20:05:11+00:00
 Texto:
 .
@@ -154,7 +154,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T20:05:11+00:00
 Texto:
 .
@@ -162,7 +162,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T20:05:10+00:00
 Texto:
 .
@@ -170,7 +170,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T20:05:10+00:00
 Texto:
 .
@@ -178,7 +178,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T20:05:10+00:00
 Texto:
 https://chatgpt.com/c/6888e454-9128-8329-8817-44f4b179b694
@@ -187,7 +187,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T20:05:09+00:00
 Texto:
 1
@@ -195,7 +195,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-29T20:05:00+00:00
 Texto: [Sem texto]
 

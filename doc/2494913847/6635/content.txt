@@ -10,7 +10,7 @@ Midias baixadas: 1
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T01:49:47+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Local_Youtube_Upload.json
@@ -18,7 +18,7 @@ Midia: MessageMediaDocument -> Local_Youtube_Upload.json
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T01:49:39+00:00
 Texto:
 Local Run Youtube Video Upload Workflow
@@ -34,7 +34,7 @@ Upload Video - Use the return upload link to upload the binary file
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T01:49:36+00:00
 Texto:
 .
@@ -42,7 +42,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T01:49:36+00:00
 Texto:
 Local Run Youtube Video Upload Workflow
@@ -50,7 +50,7 @@ Local Run Youtube Video Upload Workflow
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T01:49:36+00:00
 Texto:
 .....
@@ -58,7 +58,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T01:49:36+00:00
 Texto:
 ....
@@ -66,7 +66,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T01:49:35+00:00
 Texto:
 ..
@@ -74,7 +74,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T01:49:35+00:00
 Texto:
 .
@@ -82,7 +82,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T01:49:35+00:00
 Texto:
 .
@@ -90,7 +90,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T01:49:34+00:00
 Texto:
 .
@@ -98,7 +98,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T01:49:32+00:00
 Texto:
 1
@@ -106,7 +106,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T01:49:22+00:00
 Texto: [Sem texto]
 

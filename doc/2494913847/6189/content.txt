@@ -10,7 +10,7 @@ Midias baixadas: 7
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T22:12:36+00:00
 Texto:
 Logger`.
@@ -21,7 +21,7 @@ Logger`.
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T22:12:35+00:00
 Texto:
 ### Resumo Geral:
@@ -124,7 +124,7 @@ Esse método:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T22:12:17+00:00
 Texto:
 ==============
@@ -132,7 +132,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T21:50:40+00:00
 Texto:
 dublado em portugues
@@ -140,7 +140,7 @@ dublado em portugues
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T21:50:32+00:00
 Texto:
 https://www.youtube.com/watch?v=bTF3tACqPRU
@@ -149,7 +149,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T21:50:08+00:00
 Texto:
 ,
@@ -157,7 +157,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T21:50:07+00:00
 Texto:
 ,
@@ -165,7 +165,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T21:49:03+00:00
 Texto:
 Resumo direto em tópicos:
@@ -181,7 +181,7 @@ Resumo direto em tópicos:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T21:40:22+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Error Logs (file -_ make a copy).xlsx
@@ -189,7 +189,7 @@ Midia: MessageMediaDocument -> Error Logs (file -_ make a copy).xlsx
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T21:40:16+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Error_Logger.json
@@ -197,7 +197,7 @@ Midia: MessageMediaDocument -> Error_Logger.json
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T21:39:27+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6201_011.jpg
@@ -205,7 +205,7 @@ Midia: MessageMediaPhoto -> photo_6201_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T21:38:49+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6200_012.jpg
@@ -213,7 +213,7 @@ Midia: MessageMediaPhoto -> photo_6200_012.jpg
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T21:38:20+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6199_013.jpg
@@ -221,7 +221,7 @@ Midia: MessageMediaPhoto -> photo_6199_013.jpg
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T21:37:43+00:00
 Texto:
 Controle de Error Fluxo
@@ -229,7 +229,7 @@ Controle de Error Fluxo
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T21:37:40+00:00
 Texto:
 ........
@@ -237,7 +237,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T21:37:40+00:00
 Texto:
 ......
@@ -245,7 +245,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T21:37:39+00:00
 Texto:
 .....
@@ -253,7 +253,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T21:37:39+00:00
 Texto:
 ....
@@ -261,7 +261,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T21:37:39+00:00
 Texto:
 ..
@@ -269,7 +269,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T21:37:39+00:00
 Texto:
 .
@@ -277,7 +277,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T21:37:39+00:00
 Texto:
 https://chatgpt.com/c/68080dee-9e90-8009-8771-f5107e7d0592
@@ -286,7 +286,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T21:37:38+00:00
 Texto:
 1
@@ -294,7 +294,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T21:37:34+00:00
 Texto: [Sem texto]
 

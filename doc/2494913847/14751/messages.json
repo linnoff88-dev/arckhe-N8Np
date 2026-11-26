@@ -25,7 +25,7 @@
   },
   {
     "id": 15047,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-12T14:05:31+00:00",
     "text": "olhe se isso ajuda, outra opcao seria pedir para o chat olhar os json e listas os campos e as planilhas citadas",
     "has_media": false,
@@ -33,7 +33,7 @@
   },
   {
     "id": 15045,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-12T14:04:06+00:00",
     "text": "Baseado na transcriçêo detalhada, o sistema utiliza **duas planilhas principais** no Google Sheets:\n\n---\n\n### 1. Planilha principal (entrada de dados)\n\n**Nome sugerido:** `Campanhas_UGC`\n\n**Funçêo:** Controlar todas as campanhas e parâmetros da geraçêo automática de vídeos.\n\n| Coluna               | Descriçêo                            | Exemplo                                                                          |\n| -------------------- | ------------------------------------ | -------------------------------------------------------------------------------- |\n| Nome da campanha     | Identificaçêo da automaçêo           | Colágeno Guto Yoga                                                               |\n| URL da imagem        | Imagem pública (produto + modelo IA) | [https://supabase.io/public/modelo1.jpg](https://supabase.io/public/modelo1.jpg) |\n| Texto/Roteiro        | O que a modelo vai dizer             | “Cuidar de mim também é uma decisêo diária.”                                     |\n| Tipo de voz          | Voz e sotaque                        | Voz latina com sotaque colombiano                                                |\n| Cenário              | Local desejado                       | Jardim com luz natural                                                           |\n| Personagem           | Descriçêo do modelo                  | Mulher forte, serena e tranquila                                                 |\n| Quantidade de clipes | Número de vídeos curtos              | 4                                                                                |\n| Duraçêo dos clipes   | Segundos de cada um                  | 8,16,24                                                                          |\n| Relaçêo de aspecto   | Formato do vídeo                     | 9:16                                                                             |\n| Modelo de imagem     | Gerador escolhido                    | Seedream                                                                         |\n| Status               | Estado da linha                      | Criar / Feito / Erro / Ignorar                                                   |\n| URL do vídeo final   | Resultado gerado                     | [https://supabase.io/public/video1.mp4](https://supabase.io/public/video1.mp4)   |\n\n---\n\n### 2. Planilha auxiliar (trabalho interno)\n\n**Nome sugerido:** `Prompts_UGC`\n\n**Funçêo:** Armazenar e organizar os prompts e saídas parciais usados pelo n8n.\n\n| Coluna         | Descriçêo                        | Exemplo                                                                      |\n| -------------- | -------------------------------- | ---------------------------------------------------------------------------- |\n| ID da campanha | Referência da planilha principal | Colágeno Guto Yoga                                                           |\n| Tipo de prompt | Imagem / Vídeo / Roteiro         | Imagem                                                                       |\n| Nome do clipe  | 0 (imagem inicial), 1, 2, 3...   | 1                                                                            |\n| Prompt gerado  | Texto completo do prompt IA      | “Mulher serena fazendo yoga em jardim ao amanhecer.”                         |\n| Modelo usado   | Ferramenta geradora              | Seedream                                                                     |\n| URL gerada     | Resultado (imagem/vídeo)         | [https://supabase.io/public/clip1.mp4](https://supabase.io/public/clip1.mp4) |\n| Status         | Feito / Pendente / Erro          | Feito                                                                        |\n| Observações    | Notas automáticas ou manuais     | Vídeo aprovado                                                               |\n\nEssas duas planilhas trabalham em conjunto:\n\n* A **planilha principal** envia parâmetros para o fluxo do n8n.\n* A **planilha auxiliar** recebe os prompts e resultados intermediários (imagens e vídeos).\n* O **n8n** atualiza o status e insere o link final do vídeo na planilha principal.",
     "has_media": false,
@@ -49,7 +49,7 @@
   },
   {
     "id": 14789,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-03T03:52:59+00:00",
     "text": "",
     "has_media": true,
@@ -58,7 +58,7 @@
   },
   {
     "id": 14786,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-03T03:51:12+00:00",
     "text": "Passo a passo direto para criar a automaçêo de vídeos UGC com modelo virtual:\n\n1. Criar uma planilha no Google Sheets com colunas:\n\n   * Nome da campanha\n   * URL pública da imagem (produto + modelo IA)\n   * Texto/roteiro\n   * Tipo de voz (ex: voz latina, sotaque colombiano)\n   * Cenário (parque, jardim, terraço, etc.)\n   * Personagem (descriçêo do avatar)\n   * Quantidade de clipes (ex: 3 ou 4)\n   * Formato (9:16 ou 16:9)\n   * Status (criar/feito/erro)\n\n2. A automaçêo lê essa planilha no n8n.\n\n3. Analisar a imagem de referência (produto + modelo).\n\n4. Gerar prompts automáticos:\n\n   * Prompt para imagem de capa UGC.\n   * Prompt para roteiros de cada clipe (8s, 16s, 24s...).\n\n5. Criar a imagem inicial UGC com Seedream (recomendado), Nano Banana ou ChatGPT.\n\n6. Gerar os clipes de vídeo:\n\n   * Usar Veo 3 Fast (mais barato) para testes.\n   * Usar Veo 3 Normal (mais consistente) para versêo final.\n\n7. Validar idioma do roteiro:\n\n   * IA garante que os textos sejam em espanhol/português.\n\n8. Armazenar imagens e vídeos no Supabase (gera URLs públicas automaticamente).\n\n9. Unir os clipes com Fal.AI em um único vídeo final.\n\n10. Atualizar a planilha com a URL final do vídeo pronto para publicar.",
     "has_media": false,
@@ -66,7 +66,7 @@
   },
   {
     "id": 14785,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-03T03:50:46+00:00",
     "text": "===============",
     "has_media": false,
@@ -74,7 +74,7 @@
   },
   {
     "id": 14784,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-03T03:50:44+00:00",
     "text": "expressões), armazene no Supabase com tags, e re-use os mesmos prompts faciais (seed + params) para gerar imagens novas mantendo a coerência.\n\nExemplo 6 — medir vencedor:\nPergunta: como determinar o clipe vencedor?\nResposta: rodar A/B com amostra de ~1.000 impressões; medir CTR, taxa de conclusêo (watch-through) e conversêo; escolher o melhor por combinaçêo ponderada (ex.: 50% CTR, 50% watch-through).\n\nExemplo 7 — erros comuns e soluçêo rápida:\nPergunta: fala cortada ou áudio desalinhado — o que fazer?\nResposta: checar prompt de duraçêo, aumentar buffer no gerador de voz, reenfileirar com Veo3 Normal se persistir.\n\nExemplo 8 — automaçêo para agências com muitos clientes:\nPergunta: como organizar por cliente na mesma sheet?\nResposta: coluna cliente + campanha; usar view/filtrado por cliente e automaçêo que só processa linhas com status=criar e cliente=XYZ.\n\nExemplo 9 — SEO/legendas automáticas:\nPergunta: quero legendas traduzidas automaticamente — como incluir?\nResposta: após gerar áudio, rodar um nó STT para transcrever, traduzir se necessário e gerar SRT; anexar SRT ao vídeo final antes de publicar.\n\nExemplo 10 — proteger identidade (uso de modelos reais):\nPergunta: posso usar rostos reais de influenciadores?\nResposta: precisa autorizaçêo; melhor criar/usar avatares gerados por IA para evitar problemas legais.\n\nObservações finais\n\n* Priorize pequenos ciclos: testar várias variações baratas (Veo3 Fast) antes de gastar com versões finais.\n* Mantenha tudo versionado na planilha (status, modelo usado, custo por item) para auditoria e otimizaçêo.\n* Salve prompts vencedores como “templates aprovados” para reaplicar.",
     "has_media": false,
@@ -82,7 +82,7 @@
   },
   {
     "id": 14783,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-03T03:50:44+00:00",
     "text": "Hacks (com explicaçêo curta)\n\n1. usar seedream como primeira opçêo para imagem UGC\n   por que: é treinado com conteúdo estilo TikTok e gera composições que “saltam” no feed.\n   como aplicar: gerar 3 variações por prompt, escolher a melhor via métrica de engajamento (CTR simulado) antes de gerar vídeo.\n\n2. prompt-engineering modular (template + variáveis)\n   por que: facilita consistência e escala — um mesmo template cria roteiros para 8s/16s/24s.\n   como aplicar: ter um sistema de placeholders na sheet ({{benefício}}, {{call_to_action}}, {{tom}}).\n\n3. gerar 2 vozes por clipe (A/B) e testar com amostra pequena\n   por que: sotaque/entonaçêo muda conversêo; barato testar com Veo3 Fast.\n   como aplicar: criar duas linhas na planilha com mesma mídia; comparar visualizações/CTR.\n\n4. usar Veo 3 Fast para testes e Veo 3 normal só para final\n   por que: reduz custo inicial (Fast ≈ $0.40/clipe, Normal ≈ $2/clipe).\n   como aplicar: rodar 8-10 variações no Fast, selecionar 1 vencedora e gerar no Normal.\n\n5. colocar validaçêo automática de idioma + tom antes do gerador de voz\n   por que: evita clipes em inglês ou texto com inconsistências.\n   como aplicar: nó de IA que detecta idioma e solicita reescrita quando necessário.\n\n6. criar “modelo-bandeira” (avatar recurrente) para marca\n   por que: identidade visual consistente aumenta reconhecimento e confiança.\n   como aplicar: armazenar seed images + parâmetros faciais na base (Supabase) e reaplicar em toda campanha.\n\n7. usar metadados e tags na planilha (persona, objetivo, CTA)\n   por que: permite filtrar e gerar relatórios por público/objetivo.\n   como aplicar: colunas tags: [BAIXO_CUSTO, TESTE_A, JOVEM_18-24].\n\n8. normalizar iluminaçêo e enquadramento nas imagens de referência\n   por que: gera maior consistência nas imagens geradas e menos erros no vídeo.\n   como aplicar: rotina que valida contraste/resoluçêo e sugere recorte automático.\n\n9. automatizar checks de qualidade (QA) pós-geraçêo\n   por que: detectar problemas (fala cortada, selo de direitos, texto errado) antes da publicaçêo.\n   como aplicar: script que reproduz vídeo, checa duraçêo esperada e presença de áudio, e marca falhas na sheet.\n\n10. reduzir latência com filas e retries inteligentes\n    por que: serviços de geraçêo falham intermitentemente; retries com backoff aumentam taxa de sucesso.\n    como aplicar: implementar filas (n8n workflow) com 3 retries e backoff exponencial.\n\n11. combinar clipes com transições padronizadas e textos dinâmicos\n    por que: melhora fluidez visual e mantém atençêo no feed curto.\n    como aplicar: usar Fal.AI com parâmetros de transiçêo (fade 0.5s, corte seco) definidos na planilha.\n\n12. mensurar micro-métricas e automatizar relatórios semanais\n    por que: entender qual variável afeta mais (voz, imagem, CTA).\n    como aplicar: gravar IDs de vídeo + UTM, puxar dados de performance e atualizar um dashboard (Google Data Studio / Supabase).\n\nExemplos e perguntas frequentes (pergunta → resposta curta)\n\nExemplo 1 — gerar variações de roteiro:\nPergunta: como gerar 4 roteiros rápidos para um mesmo produto?\nResposta: no template do prompt use 4 placeholders de ângulo (benefício rápido, prova social, uso diário, CTA) e peça “retorne 4 roteiros separados por ‘---’ com 8s cada”. Salve cada bloco em linhas separadas na sheet.\n\nExemplo 2 — testar vozes:\nPergunta: quantos testes de voz devo rodar?\nResposta: comece com 2 vozes A/B; se diferença for >15% nas métricas (CTR, watch time) escale para 4 variantes.\n\nExemplo 3 — controle de custos:\nPergunta: como manter custo abaixo de $0.50 por vídeo durante testes?\nResposta: usar Seedream + Veo3 Fast + combinar clipes com Fal.AI; reduzir resoluçêo para 720p nos testes se necessário.\n\nExemplo 4 — validaçêo de idioma:\nPergunta: o que faço quando o roteiro vem em inglês?\nResposta: passar pelo nó de IA que traduz/normaliza para espanhol/português antes do TTS; bloquear geraçêo de vídeo até validaçêo.\n\nExemplo 5 — qualidade do avatar:\nPergunta: como faço um avatar consistente para várias campanhas?\nResposta: crie 5 imagens base do avatar (rostos, ângulos,",
     "has_media": false,
@@ -90,7 +90,7 @@
   },
   {
     "id": 14782,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-03T03:49:45+00:00",
     "text": "============",
     "has_media": false,
@@ -98,7 +98,7 @@
   },
   {
     "id": 14781,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-03T03:49:43+00:00",
     "text": "Resumo da explicaçêo da automaçêo apresentada:\n\nA automaçêo gera vídeos UGC (conteúdo gerado por usuário) totalmente automáticos a partir de uma imagem do produto e de um modelo virtual criado por IA. O fluxo funciona assim:\n\n* **Entrada via planilha (Google Sheets):** o usuário coloca nome da campanha, imagem do produto (junto de modelo virtual), roteiro, voz, cenário, personagem, número de clipes e formato.\n* **Geraçêo de prompts:** cria prompts para a primeira imagem, para o roteiro e para cada clipe de vídeo (8s, 16s etc.).\n* **Criaçêo de imagens UGC:** pode ser feita com Seedream, Nano Banana ou ChatGPT (recomendado: Seedream, pois é treinado com estilo TikTok).\n* **Criaçêo dos vídeos por clipe:** utiliza Veo 3 Fast (mais barato, US$0,40 por clipe de 8s) ou Veo 3 Normal (mais caro, US$2, mas mais consistente).\n* **Validaçêo do idioma:** um nó de IA garante que os textos falados fiquem em espanhol.\n* **Combinaçêo final:** os clipes sêo unidos com Fal.AI, gerando um vídeo único pronto para publicar.\n* **Armazenamento:** imagens e vídeos ficam em Supabase, e os links sêo atualizados na planilha.\n\n**Custos:**\n\n* O mais caro é a geraçêo de vídeo com Veo (Fast ou Normal).\n* Restante (imagens e uniêo dos vídeos) custa apenas centavos.\n\n**Destaques:**\n\n* Permite criar modelos virtuais para serem o “rosto da marca”.\n* Escala produçêo de conteúdo sem depender de influenciadores reais.\n* Focado em TikTok, Reels e Shorts.\n* Blueprint completo será disponibilizado para adaptaçêo em diferentes negócios.",
     "has_media": false,
@@ -106,7 +106,7 @@
   },
   {
     "id": 14780,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-03T03:49:16+00:00",
     "text": "=================",
     "has_media": false,
@@ -114,7 +114,7 @@
   },
   {
     "id": 14779,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-03T03:49:13+00:00",
     "text": "e49. Modelos virtuais para seus produtos\n\nCriar uma automaçêo completa que gera vídeos promocionais tipo UGC (User Generated Content) a partir de uma simples imagem de produto e uma modelo gerada por IA.\n\nEsse sistema é ideal para marcas que vendem em redes sociais e precisam de conteúdo em volume, rápido e de baixo custo, sem necessidade de gravações reais.\n\n🛠️ O que conseguimos com essa automaçêo?\n\n* Gerar vídeos UGC 100% automáticos prontos para TikTok, Reels ou Shorts.\n* Criar modelos virtuais personalizados como “rosto” da sua marca.\n* Combinar múltiplos clipes com roteiros gerados automaticamente.\n* Obter vídeos realistas sem gravações nem contrataçêo de influenciadores.\n* Escalar campanhas criativas sem custos de produçêo.\n\n🧩 Estrutura do fluxo automatizado\n**Input via Google Sheets**\nInserçêo do nome da campanha, imagem do produto (com modelo gerada por IA), roteiro desejado, estilo de voz, cenário, personagem, número de clipes, formato de vídeo etc.\n\n**Análise da imagem de referência**\nA imagem combinada do produto + modelo é analisada para gerar uma imagem inicial estilo UGC.\n\n**Geraçêo de prompts para imagem e roteiros**\nCriaçêo dos prompts necessários para:\n\n* A imagem de capa.\n* Cada clipe de vídeo, conforme duraçêo (8s, 16s etc.).\n\n**Geraçêo de imagem UGC inicial**\nUsando Seedream, Nano Banana ou ChatGPT (recomendado: Seedream), é criada a imagem principal.\n\n**Geraçêo de vídeos por clipe**\nCriaçêo de clipes individuais (com Veo 3 Fast ou Veo 3 Normal) utilizando os roteiros e prompts gerados.\n\n**Validaçêo do idioma do roteiro**\nUm nó de IA intermediário garante que os textos falados estejam em espanhol.\n\n**Combinaçêo dos clipes**\nOs vídeos gerados sêo unidos utilizando Fal.AI, resultando em um único vídeo UGC final.\n\n**Resultado final**\nA planilha é atualizada com a URL do vídeo final combinado, pronto para publicaçêo.\n\n🧰 Ferramentas utilizadas\n\n* N8N (motor principal da automaçêo)\n* Google Sheets (como input de controle)\n* Seedream / Nano Banana / ChatGPT (para geraçêo de imagens)\n* Kie.AI (plataforma de modelos IA para imagem/áudio/vídeo)\n* Veo 3 Fast / Veo 3 (para geraçêo de clipes de vídeo)\n* Fal.AI (para combinar os clipes em um único vídeo)\n* Supabase (para armazenar imagens públicas com URL)\n\n🧠 Dicas-chave que aprendemos\n\n* Use Seedream para redes sociais: gera imagens com estilo TikTok, ideal para UGCs virais.\n* Toda a lógica parte de uma planilha: permite controlar campanhas em escala, até para clientes diferentes.\n* Crie uma modelo única para sua marca: garante consistência visual em todas as peças.\n* Otimize custos com Veo 3 Fast para testes e use Veo 3 Normal apenas quando o vídeo já estiver validado.\n* Inclua validações de idioma e consistência: assegura resultados finais que nêo precisam de ediçêo.\n* Automaçêo de baixo custo: exceto pela geraçêo com Veo, o restante pode custar menos de US$ 0,10 por vídeo.\n\n**Recursos**\n\n* Blueprint Criador UGC\n* Combinar clipes\n* Criar imagem GPT Image\n* Criar imagem NanoBanana\n* Criar imagem Seedream\n* Criar Vídeo Veo3",
     "has_media": false,
@@ -122,7 +122,7 @@
   },
   {
     "id": 14778,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-03T03:48:35+00:00",
     "text": "=============",
     "has_media": false,
@@ -130,7 +130,7 @@
   },
   {
     "id": 14777,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-03T03:48:31+00:00",
     "text": "================",
     "has_media": false,
@@ -138,7 +138,7 @@
   },
   {
     "id": 14776,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-03T03:48:27+00:00",
     "text": "UGC automático com modelo virtual\n\n\nUm sistema brutal para criar vídeos UGC que parecem reais, sem gravar uma única cena. Sim, modelo virtual + roteiro + voz + clipes combinados, tudo no automático.\n\n🎯 O que faz exatamente?\nA partir de uma simples imagem de produto e uma modelo IA, o sistema gera:\n✅ Uma imagem estilo UGC (pronta para engajar no TikTok)\n✅ Um roteiro segmentado por clipes (8s, 16s, 24s...)\n✅ Uma voz humana com sotaque personalizável\n✅ Vídeos gerados com Veo 3 Fast ou Veo 3 normal\n✅ E uma combinaçêo final pronta para publicar\n\nO melhor: tudo é controlado a partir de uma planilha. Você coloca a imagem, os textos e em minutos tem um vídeo de vendas que parece gravado por uma influenciadora.\n\nE se você já tinha visto como fazíamos vídeos antes… isso é o próximo nível com foco 100% em UGC.\nVocê pode até criar uma modelo que seja a cara da sua marca, e que protagonize todos os seus anúncios! 😱\n\nUsamos N8N, Seedream, Supabase, Kie.AI, Fal.AI, ChatGPT… e um pouco de magia bem organizada.\n\nIsso pode ser aplicado se você é agência, eCommerce, SaaS, consultor… ou simplesmente quer parar de depender de influenciadores.",
     "has_media": false,
@@ -146,7 +146,7 @@
   },
   {
     "id": 14775,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-03T03:46:15+00:00",
     "text": "===============",
     "has_media": false,
@@ -154,7 +154,7 @@
   },
   {
     "id": 14774,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-03T03:46:07+00:00",
     "text": "",
     "has_media": true,
@@ -163,7 +163,7 @@
   },
   {
     "id": 14773,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-03T03:46:07+00:00",
     "text": "",
     "has_media": true,
@@ -172,7 +172,7 @@
   },
   {
     "id": 14772,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-03T03:46:07+00:00",
     "text": "",
     "has_media": true,
@@ -181,7 +181,7 @@
   },
   {
     "id": 14771,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-03T03:46:07+00:00",
     "text": "",
     "has_media": true,
@@ -190,7 +190,7 @@
   },
   {
     "id": 14770,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-03T03:46:07+00:00",
     "text": "",
     "has_media": true,
@@ -199,7 +199,7 @@
   },
   {
     "id": 14769,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-03T03:46:07+00:00",
     "text": "",
     "has_media": true,
@@ -208,7 +208,7 @@
   },
   {
     "id": 14768,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-03T03:45:48+00:00",
     "text": "",
     "has_media": true,
@@ -217,7 +217,7 @@
   },
   {
     "id": 14767,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-03T03:45:07+00:00",
     "text": "",
     "has_media": true,
@@ -226,7 +226,7 @@
   },
   {
     "id": 14766,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-03T03:44:32+00:00",
     "text": "",
     "has_media": true,
@@ -235,7 +235,7 @@
   },
   {
     "id": 14765,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-03T03:43:54+00:00",
     "text": "",
     "has_media": true,
@@ -244,7 +244,7 @@
   },
   {
     "id": 14764,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-03T03:43:27+00:00",
     "text": "",
     "has_media": true,
@@ -253,7 +253,7 @@
   },
   {
     "id": 14763,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-03T03:42:39+00:00",
     "text": "",
     "has_media": true,
@@ -262,7 +262,7 @@
   },
   {
     "id": 14762,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-03T03:41:36+00:00",
     "text": "e49 - UGC automático com modelo virtual",
     "has_media": false,
@@ -270,7 +270,7 @@
   },
   {
     "id": 14761,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-03T03:41:35+00:00",
     "text": ".",
     "has_media": false,
@@ -278,7 +278,7 @@
   },
   {
     "id": 14760,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-03T03:41:34+00:00",
     "text": ".",
     "has_media": false,
@@ -286,7 +286,7 @@
   },
   {
     "id": 14759,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-03T03:41:34+00:00",
     "text": ".",
     "has_media": false,
@@ -294,7 +294,7 @@
   },
   {
     "id": 14758,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-03T03:41:34+00:00",
     "text": ".",
     "has_media": false,
@@ -302,7 +302,7 @@
   },
   {
     "id": 14757,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-03T03:41:33+00:00",
     "text": ".",
     "has_media": false,
@@ -310,7 +310,7 @@
   },
   {
     "id": 14756,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-03T03:41:33+00:00",
     "text": ".",
     "has_media": false,
@@ -318,7 +318,7 @@
   },
   {
     "id": 14755,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-03T03:41:33+00:00",
     "text": ".",
     "has_media": false,
@@ -326,7 +326,7 @@
   },
   {
     "id": 14754,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-03T03:41:33+00:00",
     "text": ".",
     "has_media": false,
@@ -334,7 +334,7 @@
   },
   {
     "id": 14753,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-03T03:41:32+00:00",
     "text": "https://chatgpt.com/c/68df452a-860c-8321-9b23-e0321d51bce2",
     "has_media": true,
@@ -342,7 +342,7 @@
   },
   {
     "id": 14752,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-03T03:41:32+00:00",
     "text": "1",
     "has_media": false,
@@ -350,7 +350,7 @@
   },
   {
     "id": 14751,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-10-03T03:41:27+00:00",
     "text": "",
     "has_media": false,

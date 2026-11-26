@@ -10,7 +10,7 @@ Midias baixadas: 5
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T17:40:56+00:00
 Texto:
 ### Hacks de Prompt (para IA)
@@ -96,7 +96,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T17:40:19+00:00
 Texto:
 ==================
@@ -104,7 +104,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T17:40:16+00:00
 Texto:
 Mensagem é publicada no grupo de testes.
@@ -170,7 +170,7 @@ Adicione um caminho de fallback (OpenRouter, outro modelo) e um nó de notifica�
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T17:40:16+00:00
 Texto:
 Passo a passo para “e44 – Resumo automático de grupos no WhatsApp”
@@ -284,7 +284,7 @@ Teste rápido
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T17:39:46+00:00
 Texto:
 ===================
@@ -292,7 +292,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T17:39:43+00:00
 Texto:
 Resumo curto – e44: Resuma Grupos de WhatsApp
@@ -365,7 +365,7 @@ Crie um grupo de testes e valide o formato do resumo antes de apontar para o gru
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T17:36:05+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13873_007.jpg
@@ -373,7 +373,7 @@ Midia: MessageMediaPhoto -> photo_13873_007.jpg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T17:35:48+00:00
 Texto:
 ===================
@@ -381,7 +381,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T17:35:45+00:00
 Texto:
 e44. Grupos de WhatsApp Automatizados
@@ -433,7 +433,7 @@ Você vai aprender a automatizar a criaçêo de resumos diários em grupos do Wh
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T17:34:54+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Whatsapp grupo amigos copy.json
@@ -441,7 +441,7 @@ Midia: MessageMediaDocument -> Whatsapp grupo amigos copy.json
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T17:34:50+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13869_011.jpg
@@ -449,7 +449,7 @@ Midia: MessageMediaPhoto -> photo_13869_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T17:33:38+00:00
 Texto:
 =====================
@@ -457,7 +457,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T17:33:27+00:00
 Texto:
 ### Resumo Automático de Grupos do WhatsApp com IA
@@ -506,7 +506,7 @@ Vai estar sempre atualizado **sem precisar ler tudo**.
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T17:28:41+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13866_014.jpg
@@ -514,7 +514,7 @@ Midia: MessageMediaPhoto -> photo_13866_014.jpg
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T17:28:06+00:00
 Texto:
 e44 - Resuma Grupos de Whapsapp
@@ -522,7 +522,7 @@ e44 - Resuma Grupos de Whapsapp
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T17:28:05+00:00
 Texto:
 .
@@ -530,7 +530,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T17:28:05+00:00
 Texto:
 .
@@ -538,7 +538,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T17:28:05+00:00
 Texto:
 .
@@ -546,7 +546,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T17:28:04+00:00
 Texto:
 .
@@ -554,7 +554,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T17:28:04+00:00
 Texto:
 .
@@ -562,7 +562,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T17:28:04+00:00
 Texto:
 https://chatgpt.com/c/68bb1cec-b8e0-8331-bb5e-51547e5a559f
@@ -571,7 +571,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T17:28:03+00:00
 Texto:
 1
@@ -579,7 +579,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T17:27:57+00:00
 Texto: [Sem texto]
 

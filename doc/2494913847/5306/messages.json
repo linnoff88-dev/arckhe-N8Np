@@ -1,7 +1,7 @@
 [
   {
     "id": 5319,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-11T00:43:33+00:00",
     "text": "texto para voz tts\n\nvoz para texto asr\n\n\nhttps://api.fish.audio/v1/tts\nou\nhttps://api.fish.audio/v1/asr\n\nheader Auth\n\nAuthorization\nBearer [apikey}",
     "has_media": true,
@@ -9,7 +9,7 @@
   },
   {
     "id": 5318,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-11T00:39:35+00:00",
     "text": "https://fish.audio/pt/go-api/api-keys/",
     "has_media": false,
@@ -17,7 +17,7 @@
   },
   {
     "id": 5317,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-11T00:39:19+00:00",
     "text": "https://docs.fish.audio/api-reference/endpoint/openapi-v1/text-to-speech",
     "has_media": true,
@@ -25,7 +25,7 @@
   },
   {
     "id": 5316,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-11T00:39:14+00:00",
     "text": "Conexêo Fish.audio",
     "has_media": false,
@@ -33,7 +33,7 @@
   },
   {
     "id": 5315,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-11T00:39:03+00:00",
     "text": "...",
     "has_media": false,
@@ -41,7 +41,7 @@
   },
   {
     "id": 5314,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-11T00:39:03+00:00",
     "text": "..",
     "has_media": false,
@@ -49,7 +49,7 @@
   },
   {
     "id": 5313,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-11T00:39:02+00:00",
     "text": ".",
     "has_media": false,
@@ -57,7 +57,7 @@
   },
   {
     "id": 5312,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-11T00:39:02+00:00",
     "text": "....",
     "has_media": false,
@@ -65,7 +65,7 @@
   },
   {
     "id": 5311,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-11T00:39:02+00:00",
     "text": "...",
     "has_media": false,
@@ -73,7 +73,7 @@
   },
   {
     "id": 5310,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-11T00:39:02+00:00",
     "text": "..",
     "has_media": false,
@@ -81,7 +81,7 @@
   },
   {
     "id": 5309,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-11T00:39:02+00:00",
     "text": ".",
     "has_media": false,
@@ -89,7 +89,7 @@
   },
   {
     "id": 5308,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-11T00:39:01+00:00",
     "text": ".",
     "has_media": false,
@@ -97,7 +97,7 @@
   },
   {
     "id": 5307,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-11T00:39:00+00:00",
     "text": "1",
     "has_media": false,
@@ -105,7 +105,7 @@
   },
   {
     "id": 5306,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-11T00:38:54+00:00",
     "text": "",
     "has_media": false,

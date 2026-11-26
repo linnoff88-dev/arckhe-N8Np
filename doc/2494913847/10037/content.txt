@@ -10,7 +10,7 @@ Midias baixadas: 5
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-21T00:57:12+00:00
 Texto:
 https://www.youtube.com/watch?v=RIoSYiI8FK0
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-18T11:39:27+00:00
 Texto:
 Aqui está o **passo a passo completo** para montar a automaçêo de criaçêo de vídeos virais (estilo “gato pegando rato”) **sem código** usando **n8n**, **OpenAI**, **Supabase** e **Fail.AI**** (Minimax)**:
@@ -182,14 +182,14 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-18T11:38:00+00:00
 Texto: [Sem texto]
 
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-18T11:37:18+00:00
 Texto:
 **Resumo : "Steal This 388 Million Views Video System Before It’s Too Late "**
@@ -251,7 +251,7 @@ Você pode replicar um sistema que gerou **388 milhões de views** com vídeos s
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-18T11:36:19+00:00
 Texto:
 **Vídeo Viral de Gato Pega-Rato**
@@ -262,7 +262,7 @@ Gere um prompt detalhado para um gerador de imagens por IA. O tema é um gato ma
 
 **Exemplo de Prompt de Imagem Gerado:**
 
-Um gato malhado esperto arma uma armadilha em uma cozinha moderna, segurando delicadamente uma cordinha com a pata. A armadilha consiste em uma peneira de metal, posicionada sobre um pedaço de queijo triangular em um descanso cinza. Um pequeno rato marrom se aproxima cautelosamente do queijo, sem saber da armadilha iminente. O gato observa em silêncio com os olhos focados, pronto para soltar a corda. Iluminaçêo suave e quente e profundidade de campo rasa destacam a tensêo humorística da cena. Ao fundo, detalhes sutis da cozinha, como paredes com azulejos e bancadas de madeira, reforçam a atmosfera doméstica acolhedora. A imagem é nítida, fotorrealista, divertida e cinematográfica, com uma paleta de cores natural e narrativa encantadora.
+Um gato malhado esperto arma uma armadilha em uma cozinha moderna, segurando delicadamente uma cordinha com a pata. A armadilha consiste em uma peneira de metal, posicionada sobre um pedaço de queijo triangular em um descanso cinza. Um pequeno rato marrom se aproxima cautelosamente do queijo, sem saber da armadilha iminente. O gato observa em silêncio com os olhos focados, pronto para soltar a corda. Iluminaçêo suave e quente e profundidade de campo rasa destacam a tensêo humorística da cena. Ao fundo, detalhes sutis da cozinha, como paredes com azulejos e bancadas de madeira, reforçam a atmosfera doméstica acolhedora. A imagem é nítida, fotorrealista, divertida e cARCKHÉtográfica, com uma paleta de cores natural e narrativa encantadora.
 
 **Geraçêo de Imagem com IA da OpenAI**
 
@@ -288,7 +288,7 @@ G**eraçêo de Vídeo com Minimax
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-18T11:35:50+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 28_2_Cat_Trapping_Rat_Viral_Video.json
@@ -296,7 +296,7 @@ Midia: MessageMediaDocument -> 28_2_Cat_Trapping_Rat_Viral_Video.json
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-18T11:35:42+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10046_007.jpg
@@ -304,7 +304,7 @@ Midia: MessageMediaPhoto -> photo_10046_007.jpg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-18T11:32:44+00:00
 Texto:
 al43 - Criando Videos Gatinho Minimax
@@ -312,7 +312,7 @@ al43 - Criando Videos Gatinho Minimax
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-18T11:32:42+00:00
 Texto:
 .
@@ -320,7 +320,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-18T11:32:42+00:00
 Texto:
 .
@@ -328,7 +328,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-18T11:32:41+00:00
 Texto:
 .
@@ -336,7 +336,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-18T11:32:41+00:00
 Texto:
 .
@@ -344,7 +344,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-18T11:32:41+00:00
 Texto:
 .
@@ -352,7 +352,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-18T11:32:41+00:00
 Texto:
 https://chatgpt.com/c/6852a428-ed24-8009-a339-3fcc21ed2bfc
@@ -361,7 +361,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-18T11:32:40+00:00
 Texto:
 1
@@ -369,7 +369,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-18T11:32:33+00:00
 Texto: [Sem texto]
 

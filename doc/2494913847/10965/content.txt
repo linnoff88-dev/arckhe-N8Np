@@ -26,7 +26,7 @@ onde esta o JSON?
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:39:56+00:00
 Texto:
 https://www.youtube.com/watch?v=UBx4Zudvf8s
@@ -35,7 +35,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:39:42+00:00
 Texto:
 Aqui vêo os **hacks para deixar seu agente de pesquisa com IA no n8n muito mais inteligente, rápido e útil**:
@@ -133,7 +133,7 @@ Formate o resultado com Markdown:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:37:01+00:00
 Texto:
 ===============
@@ -141,7 +141,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:36:57+00:00
 Texto:
 **Passo a Passo: Criar um Agente de Pesquisa com IA no n8n (sem código)**
@@ -251,7 +251,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:36:15+00:00
 Texto:
 ==============
@@ -259,7 +259,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:36:11+00:00
 Texto:
 **Resumo do vídeo “Build Your First Research AI Agent in 12 mins (No Code)”**
@@ -320,7 +320,7 @@ O vídeo ensina a criar um agente de pesquisa com IA no **n8n** sem escrever có
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:34:23+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10974_009.jpg
@@ -328,7 +328,7 @@ Midia: MessageMediaPhoto -> photo_10974_009.jpg
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:33:52+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10973_010.jpg
@@ -336,7 +336,7 @@ Midia: MessageMediaPhoto -> photo_10973_010.jpg
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:33:48+00:00
 Texto:
 ap41 - Agente de Pesquisa
@@ -344,7 +344,7 @@ ap41 - Agente de Pesquisa
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:33:47+00:00
 Texto:
 ..
@@ -352,7 +352,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:33:47+00:00
 Texto:
 .
@@ -360,7 +360,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:33:47+00:00
 Texto:
 .
@@ -368,7 +368,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:33:46+00:00
 Texto:
 .
@@ -376,7 +376,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:33:46+00:00
 Texto:
 https://chatgpt.com/c/6869a7b4-b13c-8009-8c07-4bd9aa31a1bb
@@ -385,7 +385,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:33:45+00:00
 Texto:
 1
@@ -393,7 +393,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-05T22:33:41+00:00
 Texto: [Sem texto]
 

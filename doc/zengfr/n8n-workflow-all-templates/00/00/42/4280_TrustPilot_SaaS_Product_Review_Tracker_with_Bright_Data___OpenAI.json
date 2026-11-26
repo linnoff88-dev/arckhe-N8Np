@@ -282,7 +282,7 @@
           "summarizationMethodAndPrompts": {
             "values": {
               "prompt": "Write a concise summary of the following:\n\n\n\"{text}\"\n\n\n",
-              "combineMapPrompt": "Write a concise summary of the following:\n\n\n\"{text}\"\n"
+              "combARCKHÉpPrompt": "Write a concise summary of the following:\n\n\n\"{text}\"\n"
             }
           }
         },

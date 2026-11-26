@@ -42,7 +42,7 @@ E pra conseguir esse fluxo professor
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-19T02:38:08+00:00
 Texto:
 nao foi compartilhado o fluxo
@@ -74,14 +74,14 @@ tem os arquivos json?
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-03T02:18:02+00:00
 Texto: [Sem texto]
 
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-03T02:17:35+00:00
 Texto:
 verificar horários disponíveis.
@@ -135,7 +135,7 @@ Essas **20 dicas e hacks** garantem que sua automaçêo:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-03T02:17:35+00:00
 Texto:
 Aqui estêo todas as **dicas e hacks** mencionados no vídeo, organizadas por categorias para facilitar a implementaçêo:
@@ -219,7 +219,7 @@ Aqui estêo todas as **dicas e hacks** mencionados no vídeo, organizadas por ca
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-03T02:17:14+00:00
 Texto:
 ====================
@@ -227,7 +227,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-03T02:17:09+00:00
 Texto:
 Sheets**
@@ -270,7 +270,7 @@ Seguindo este fluxo, você terá uma **automaçêo comercial completa**, capaz d
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-03T02:17:09+00:00
 Texto:
 Aqui está o **fluxo de instalaçêo e configuraçêo passo a passo** de toda a automaçêo apresentada no workshop. Este guia cobre desde a configuraçêo do ambiente até a integraçêo completa do WhatsApp, N8N, Retell e OpenAI.
@@ -399,7 +399,7 @@ Agora, o chatbot fará chamadas automáticas quando um cliente demonstrar intere
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-03T02:16:51+00:00
 Texto:
 =====================
@@ -407,7 +407,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-03T02:16:46+00:00
 Texto:
 corrigidos problemas no **mapeamento de variáveis** (como nome do cliente e dados do WhatsApp).
@@ -476,7 +476,7 @@ A automaçêo criada no workshop permite **um fluxo de vendas altamente eficient
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-03T02:16:46+00:00
 Texto:
 Aqui está a explicaçêo detalhada de **cada tópico** abordado na transcriçêo do workshop de **Automaçêo Comercial com WhatsApp e N8N**.
@@ -568,7 +568,7 @@ O agente foi dividido em **dois módulos principais**:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-03T02:14:19+00:00
 Texto:
 =================
@@ -576,7 +576,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-03T02:14:14+00:00
 Texto:
 permitindo um **atendimento mais contextualizado**.  
@@ -600,7 +600,7 @@ Esta automaçêo comercial **transforma o WhatsApp em um canal de vendas intelig
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-03T02:14:14+00:00
 Texto:
 ### **TDCC: 19/02 Automaçêo Comercial com WhatsApp e N8N**  
@@ -688,7 +688,7 @@ Neste workshop de cocriaçêo, foi desenvolvida uma **automaçêo comercial avan
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-03T02:13:23+00:00
 Texto:
 .
@@ -696,7 +696,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-03T02:13:23+00:00
 Texto:
 .
@@ -704,7 +704,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-03T02:13:23+00:00
 Texto:
 .
@@ -712,7 +712,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-03T02:13:02+00:00
 Texto:
 https://www.youtube.com/watch?v=nry-0_Cayeg&t=84s
@@ -721,7 +721,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-03T02:12:42+00:00
 Texto:
 🔥🔥🔥  OURO PURO 🔥🔥🔥  
@@ -751,7 +751,7 @@ Aqui estêo os links para as duas aulas:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-03T02:10:55+00:00
 Texto:
 🚀 Um **agente comercial automatizado no WhatsApp**
@@ -759,7 +759,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-03T02:10:41+00:00
 Texto:
 eTDCC-1902 - 🚀 A**gente comercial WhatsApp**
@@ -767,7 +767,7 @@ eTDCC-1902 - 🚀 A**gente comercial WhatsApp**
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-03T02:10:38+00:00
 Texto:
 ..
@@ -775,7 +775,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-03T02:10:38+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_1979_028.jpg
@@ -783,7 +783,7 @@ Midia: MessageMediaPhoto -> photo_1979_028.jpg
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-03T02:10:38+00:00
 Texto:
 .
@@ -791,7 +791,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-03T02:10:37+00:00
 Texto:
 .
@@ -799,7 +799,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-03T02:10:37+00:00
 Texto:
 .
@@ -807,7 +807,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 32
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-03T02:10:37+00:00
 Texto:
 .
@@ -815,7 +815,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 33
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-03T02:10:37+00:00
 Texto:
 https://chatgpt.com/c/67c50af2-7eec-8009-b8d5-da334f84c72b
@@ -824,7 +824,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 34
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-03T02:10:36+00:00
 Texto:
 1
@@ -832,7 +832,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 35
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-03T02:10:31+00:00
 Texto: [Sem texto]
 

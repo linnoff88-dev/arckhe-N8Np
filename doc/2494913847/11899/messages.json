@@ -1,7 +1,7 @@
 [
   {
     "id": 12648,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-12T02:42:20+00:00",
     "text": "evoapicloud/evolution-api:latest",
     "has_media": false,
@@ -9,7 +9,7 @@
   },
   {
     "id": 12647,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-12T02:41:49+00:00",
     "text": "tinha outra imagem",
     "has_media": false,
@@ -17,7 +17,7 @@
   },
   {
     "id": 12646,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-12T02:41:41+00:00",
     "text": "na pagina de servico",
     "has_media": false,
@@ -25,7 +25,7 @@
   },
   {
     "id": 12645,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-12T02:41:34+00:00",
     "text": "",
     "has_media": true,
@@ -34,7 +34,7 @@
   },
   {
     "id": 12644,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-12T02:41:13+00:00",
     "text": "",
     "has_media": true,
@@ -43,7 +43,7 @@
   },
   {
     "id": 12643,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-12T02:40:40+00:00",
     "text": "olha eu tive este problema e atulizei para esta imagem",
     "has_media": false,
@@ -51,7 +51,7 @@
   },
   {
     "id": 12642,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-12T02:40:20+00:00",
     "text": "image: evoapicloud/evolution-api:latest",
     "has_media": false,
@@ -83,7 +83,7 @@
   },
   {
     "id": 12603,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-11T20:30:41+00:00",
     "text": "o qr code vc gerou no evolution? \nai vc vai no teu celular no whatapp , como se fosse fazer whatapp web",
     "has_media": false,
@@ -139,7 +139,7 @@
   },
   {
     "id": 11915,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-28T03:56:03+00:00",
     "text": "IMPORTANTE: Atualizaçêo Evolution API\n\n\nRecebemos muitas mensagens sobre falhas na Evolution API: o código QR nêo é gerado, os webhooks nêo funcionam… Mas já temos a soluçêo.\n\nO que aconteceu?\nO WhatsApp alterou uma variável interna usada pela Evolution API para sincronizaçêo com o WhatsApp Web, causando erros nas versões antigas.\n\nComo resolver?\nVocê só precisa atualizar a configuraçêo do seu stack no Portainer seguindo estes passos:\n\nPASSO 1: Atualize a imagem do container\nTroque a linha do repositório antigo por esta nova:\nimagem: evoapicloud/evolution-api\\:latest\nEsta imagem garante a versêo mais recente, compatível com as mudanças do WhatsApp.\n\nPASSO 2: Modifique (ou comente) a variável de ambiente\nSe a variável abaixo estiver presente na sua stack:\nCONFIG\\_SESSION\\_PHONE\\_VERSION=2.2322.14.0\nSubstitua por:\nCONFIG\\_SESSION\\_PHONE\\_VERSION=2.3000.1023204200\nOu, se estiver usando a versêo mais nova da Evolution API, apenas comente ou exclua a linha:\n\n# CONFIG\\_SESSION\\_PHONE\\_VERSION=2.3000.1023204200\n\nPASSO 3: Atualize a stack\nClique em “Atualizar a stack” no Portainer.\nAguarde alguns segundos para que o serviço volte a funcionar.\n\nPronto! O sistema estará funcionando normalmente.\n\nDica : Se nêo for necessário manter versões antigas, utilize sempre a nova imagem e remova essa variável para evitar erros no futuro.\n\n---\n\n**Resumo dos tópicos e exemplos:**\n\n1. **Problema**\n\n   * Falha na Evolution API (QR nêo gera, webhooks param de funcionar).\n\n2. **Motivo**\n\n   * Mudança de variável interna do WhatsApp.\n\n3. **Soluçêo passo a passo**\n\n   * Atualizar a imagem do container para a mais recente.\n\n     * Exemplo: `evoapicloud/evolution-api:latest`\n   * Modificar ou remover a variável de ambiente da sessêo.\n\n     * Exemplo: substituir ou comentar a linha da variável.\n   * Atualizar a stack no Portainer.\n\n4. **Recomendaçêo**\n\n   * Sempre usar a versêo mais atualizada da API e remover variáveis antigas para evitar problemas.",
     "has_media": false,
@@ -147,7 +147,7 @@
   },
   {
     "id": 11914,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-28T03:54:36+00:00",
     "text": "===========",
     "has_media": false,
@@ -155,7 +155,7 @@
   },
   {
     "id": 11913,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-28T03:51:16+00:00",
     "text": "ou pode comentar a linha e atualizar",
     "has_media": false,
@@ -163,7 +163,7 @@
   },
   {
     "id": 11912,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-28T03:51:09+00:00",
     "text": "",
     "has_media": true,
@@ -172,7 +172,7 @@
   },
   {
     "id": 11911,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-28T03:50:16+00:00",
     "text": "linha 26",
     "has_media": false,
@@ -180,7 +180,7 @@
   },
   {
     "id": 11910,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-28T03:50:13+00:00",
     "text": "",
     "has_media": true,
@@ -189,7 +189,7 @@
   },
   {
     "id": 11909,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-28T03:49:37+00:00",
     "text": "",
     "has_media": true,
@@ -198,7 +198,7 @@
   },
   {
     "id": 11908,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-28T03:47:07+00:00",
     "text": "",
     "has_media": true,
@@ -207,7 +207,7 @@
   },
   {
     "id": 11907,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-28T03:44:56+00:00",
     "text": "tem atualizar\n\n \nimage: atendai/evolution-api:latest ## Versêo da Evolution API\n\npara \n\nimage: evoapiclaude/evolution-api:latest ## Versêo da Evolution API",
     "has_media": false,
@@ -215,7 +215,7 @@
   },
   {
     "id": 11906,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-28T03:43:20+00:00",
     "text": "",
     "has_media": true,
@@ -224,7 +224,7 @@
   },
   {
     "id": 11905,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-28T03:42:45+00:00",
     "text": "nm60 - Erro EvolutionAPI",
     "has_media": false,
@@ -232,7 +232,7 @@
   },
   {
     "id": 11904,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-28T03:42:42+00:00",
     "text": ".",
     "has_media": false,
@@ -240,7 +240,7 @@
   },
   {
     "id": 11903,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-28T03:42:42+00:00",
     "text": ".",
     "has_media": false,
@@ -248,7 +248,7 @@
   },
   {
     "id": 11902,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-28T03:42:42+00:00",
     "text": ".",
     "has_media": false,
@@ -256,7 +256,7 @@
   },
   {
     "id": 11901,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-28T03:42:41+00:00",
     "text": "https://chatgpt.com/c/6886f034-b5a8-8325-a023-1b4acbaa1012",
     "has_media": true,
@@ -264,7 +264,7 @@
   },
   {
     "id": 11900,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-28T03:42:41+00:00",
     "text": "1",
     "has_media": false,
@@ -272,7 +272,7 @@
   },
   {
     "id": 11899,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-28T03:42:34+00:00",
     "text": "",
     "has_media": false,

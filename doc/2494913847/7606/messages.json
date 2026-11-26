@@ -57,7 +57,7 @@
   },
   {
     "id": 7698,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-15T00:24:58+00:00",
     "text": "heygen",
     "has_media": false,
@@ -81,7 +81,7 @@
   },
   {
     "id": 7689,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-14T18:21:34+00:00",
     "text": "",
     "has_media": true,
@@ -90,7 +90,7 @@
   },
   {
     "id": 7688,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-14T18:21:22+00:00",
     "text": "",
     "has_media": true,
@@ -99,7 +99,7 @@
   },
   {
     "id": 7687,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-14T18:21:15+00:00",
     "text": "",
     "has_media": true,
@@ -108,7 +108,7 @@
   },
   {
     "id": 7686,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-14T18:20:54+00:00",
     "text": "Dublei para quem nao entende Ingles",
     "has_media": false,
@@ -116,7 +116,7 @@
   },
   {
     "id": 7620,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-13T14:22:08+00:00",
     "text": "https://www.youtube.com/watch?v=zMy5yoA-ub8",
     "has_media": true,
@@ -124,7 +124,7 @@
   },
   {
     "id": 7619,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-13T14:21:48+00:00",
     "text": "Segue o **resumo completo** do vídeo com **os 25 truques do n8n** que você vai querer conhecer o quanto antes. Ao final, há uma lista com **cada truque**, **explicações práticas** e **exemplos de uso**:\n\n### Resumo Geral\n\nEste vídeo apresenta 25 truques e recursos escondidos do n8n, que ajudam tanto iniciantes quanto usuários avançados a:\n\n* Ganhar produtividade\n* Evitar erros comuns\n* Testar fluxos com segurança\n* Criar automações mais limpas, confiáveis e eficientes\n\nAs dicas cobrem desde atalhos de teclado, uso de dados fictícios e pinagem de resultados, até manipulaçêo de arrays e controle de erros. Cada hack oferece ganhos práticos para acelerar o desenvolvimento de automações.\n\n---\n\n### Lista dos 25 Hacks com Exemplos\n\n1. **Atalho para expressêo (`=`)**\n\n   * Ao digitar `=` no campo, o valor vira expressêo direto.\n   * Exemplo: transforme `High` em `={{ $json[\"value\"] }}`.\n\n2. **Pinar dados**\n\n   * Salva o resultado de uma execuçêo para evitar reprocessar.\n   * Ideal para APIs pagas como Perplexity.\n\n3. **Mock Data (dados fictícios)**\n\n   * Simula dados em qualquer nó para testes rápidos.\n   * Exemplo: `query: \"test\"`\n\n4. **Navegaçêo entre nós**\n\n   * Use setas do teclado para navegar e `Enter` para abrir.\n   * Economiza cliques.\n\n5. **Desativar nós rapidamente**\n\n   * Use `D` para ativar/desativar sem abrir menus.\n\n6. **Sticky Notes com Markdown**\n\n   * Crie notas explicativas (atalho: `Shift + S`).\n   * Exemplo: Categorizar nós por cores: azul (IA), verde (dados), amarelo (comentários).\n\n7. **Histórico de versões**\n\n   * Veja versões anteriores do fluxo e restaure com um clique.\n\n8. **Inserir nós com Tab**\n\n   * Atalho `Tab` abre a caixa de busca de novos nós.\n\n9. **Remover “enviado por n8n”**\n\n   * Desative a atribuiçêo nos nós de e-mail, Telegram e Slack.\n\n10. **Data/hora atual com `{{$now}}`**\n\n    * Útil para timestamp, logs ou IA context-aware.\n\n11. **Salvar credenciais de API**\n\n    * Reutilize autenticações e proteja sua chave.\n    * Exemplo: API Key de Perplexity com tipo Header.\n\n12. **Workflow de erros**\n\n    * Configure um “Error Trigger” para receber alertas quando um fluxo falhar.\n\n13. **Variáveis do workflow**\n\n    * Acesse ID da execuçêo, nome do fluxo, etc., via `{{$workflow}}`.\n\n14. **Subworkflow com dados específicos**\n\n    * Defina campos como `nome`, `email` ao chamar sub-fluxos.\n\n15. **Visualizar subexecuçêo**\n\n    * Veja o que foi feito por um subworkflow em tempo real.\n\n16. **Logs do agente (agent logs)**\n\n    * Veja como o agente interpretou e respondeu ao prompt.\n\n17. **Copiar dados do subworkflow para ediçêo**\n\n    * Reaproveite dados de execuçêo real para testes.\n\n18. **“Human in the loop”**\n\n    * Pausa o fluxo e espera input humano por Slack, Discord ou email.\n\n19. **Padronizar entradas**\n\n    * Unifica nomes de campos como `chat_input` e `json.ext`.\n\n20. **Continuar mesmo com erro**\n\n    * Use a opçêo `Continue on Error` para nêo travar todo o fluxo.\n\n21. **Erro com saída separada**\n\n    * Use `Error Output` para tratar erros em um caminho alternativo.\n\n22. **Configurações avançadas de nós**\n\n    * Exemplo: Retry, duplicaçêo de itens, executar uma vez só, sempre gerar saída.\n\n23. **Saída estruturada de agentes**\n\n    * Gere respostas formatadas com JSON e divida por objetos.\n\n24. **`join()` em arrays**\n\n    * Exemplo: `[\"apple\", \"banana\", \"steak\"].join(\", \")` → \"apple, banana, steak\"\n\n25. **Substituir texto com `.replace()`**\n\n    * Útil para limpar expressões com aspas duplicadas.\n\n---\n\n### Conclusêo\n\nEsses truques permitem criar automações mais:\n\n* Rápidas\n* Inteligentes\n* Seguras\n* Reutilizáveis\n\nVocê pode baixar o template completo no link da comunidade do autor ou aplicar imediatamente os hacks em seus próprios fluxos.",
     "has_media": false,
@@ -132,7 +132,7 @@
   },
   {
     "id": 7618,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-13T14:21:27+00:00",
     "text": "===========",
     "has_media": false,
@@ -140,7 +140,7 @@
   },
   {
     "id": 7617,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-13T14:18:56+00:00",
     "text": "**25 truques n8n que eu gostaria de ter conhecido antes\n**\nCompartilho 25 dicas, truques e recursos ocultos do n8n que descobri ao longo do ano passado, coisas que eu realmente gostaria de saber quando comecei. Essas dicas ajudarêo você a criar fluxos de trabalho mais inteligentes, economizar tempo e desbloquear um nível totalmente novo de automaçêo.\n\nNêo importa se você está apenas começando ou se já está envolvido com automações complexas: esta lista começa com dicas simples e gradualmente evolui para técnicas mais avançadas. Entêo, continue acompanhando e veja quantas você já conhece.",
     "has_media": false,
@@ -148,7 +148,7 @@
   },
   {
     "id": 7616,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-13T14:18:09+00:00",
     "text": "",
     "has_media": true,
@@ -157,7 +157,7 @@
   },
   {
     "id": 7615,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-13T14:17:52+00:00",
     "text": "",
     "has_media": true,
@@ -166,7 +166,7 @@
   },
   {
     "id": 7614,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-13T14:17:20+00:00",
     "text": "",
     "has_media": true,
@@ -175,7 +175,7 @@
   },
   {
     "id": 7613,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-13T14:17:16+00:00",
     "text": "ap25 - Hacks de N8N",
     "has_media": false,
@@ -183,7 +183,7 @@
   },
   {
     "id": 7612,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-13T14:17:03+00:00",
     "text": ".",
     "has_media": false,
@@ -191,7 +191,7 @@
   },
   {
     "id": 7611,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-13T14:17:02+00:00",
     "text": ".",
     "has_media": false,
@@ -199,7 +199,7 @@
   },
   {
     "id": 7610,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-13T14:17:02+00:00",
     "text": ".",
     "has_media": false,
@@ -207,7 +207,7 @@
   },
   {
     "id": 7609,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-13T14:17:01+00:00",
     "text": ".",
     "has_media": false,
@@ -215,7 +215,7 @@
   },
   {
     "id": 7608,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-13T14:17:01+00:00",
     "text": ".",
     "has_media": false,
@@ -223,7 +223,7 @@
   },
   {
     "id": 7607,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-13T14:17:01+00:00",
     "text": "1",
     "has_media": false,
@@ -231,7 +231,7 @@
   },
   {
     "id": 7606,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-13T14:16:55+00:00",
     "text": "",
     "has_media": false,

@@ -53,12 +53,12 @@ MENSAGEM 6
 Autor: Fabio
 Data: 2025-05-05T13:33:44+00:00
 Texto:
-tem como usar o n8n ja na minha vps sem precisar instalar ele localmente? @INEMAtds
+tem como usar o n8n ja na minha vps sem precisar instalar ele localmente? @linnoff88-dev
 
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-01T03:03:06+00:00
 Texto:
 onde teve probelmas?
@@ -90,7 +90,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:40:04+00:00
 Texto:
 https://www.youtube.com/watch?v=YmTp0P4RsMs
@@ -99,7 +99,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:39:48+00:00
 Texto:
 Aqui está o **passo a passo detalhado** para você montar sua **ferramenta de recorte automático de vídeos com IA no n8n (Localhost)**, conforme o tutorial citado:
@@ -251,7 +251,7 @@ Você terá uma automaçêo local que:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:39:26+00:00
 Texto:
 =========
@@ -259,7 +259,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:39:24+00:00
 Texto:
 ===========
@@ -267,7 +267,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:39:20+00:00
 Texto:
 **Resumo do vídeo: "Build Your Own FREE AI Video Clipping Tool with n8n (Localhost)"**
@@ -317,7 +317,7 @@ Este tutorial ensina como criar uma ferramenta gratuita de automaçêo de recort
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:36:56+00:00
 Texto:
 Crie Sua Própria Ferramenta GRATUITA de Recorte de Vídeos com IA usando n8n (Localhost)
@@ -331,7 +331,7 @@ Utilizando o OpenAI Whisper e o FFMPEG, esse sistema extrai momentos-chave a par
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:36:06+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Clip Video Schedule.xlsx
@@ -339,7 +339,7 @@ Midia: MessageMediaDocument -> Clip Video Schedule.xlsx
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:36:06+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> script.txt
@@ -347,7 +347,7 @@ Midia: MessageMediaDocument -> script.txt
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:36:06+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Dockerfile
@@ -355,7 +355,7 @@ Midia: MessageMediaDocument -> Dockerfile
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:35:49+00:00
 Texto:
 al4
@@ -364,7 +364,7 @@ Midia: MessageMediaDocument -> Tutorial_14_1___Auto_Clip_Video__Local_Host__Publ
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:35:34+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_5086_021.jpg
@@ -372,7 +372,7 @@ Midia: MessageMediaPhoto -> photo_5086_021.jpg
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:33:26+00:00
 Texto:
 .
@@ -380,7 +380,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:33:24+00:00
 Texto:
 al4 - Cortes de Video com N8N
@@ -388,7 +388,7 @@ al4 - Cortes de Video com N8N
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:33:21+00:00
 Texto:
 .
@@ -396,7 +396,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:33:20+00:00
 Texto:
 .
@@ -404,7 +404,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:33:20+00:00
 Texto:
 ..
@@ -412,7 +412,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:33:20+00:00
 Texto:
 .
@@ -420,7 +420,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:33:20+00:00
 Texto:
 https://chatgpt.com/c/67f60659-9084-8009-98ea-9ac7a3fa6ae0
@@ -429,7 +429,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:33:19+00:00
 Texto:
 1
@@ -437,7 +437,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-09T05:33:03+00:00
 Texto: [Sem texto]
 

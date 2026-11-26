@@ -21,7 +21,7 @@ git status
 ```
 
 ### 2. Verificar no GitHub
-Acesse: https://github.com/inematds/N8Np
+Acesse: https://github.com/linnoff88-dev/N8Np
 
 Você deve ver todos os arquivos lá!
 
@@ -36,11 +36,11 @@ Isso vai:
 - Compilar o site
 - Criar branch `gh-pages`
 - Fazer push automaticamente
-- Seu site estará em: **https://inematds.github.io/N8Np/**
+- Seu site estará em: **https://linnoff88-dev.github.io/arckhe-/**
 
 ### 4. Configurar GitHub Pages (no navegador)
 
-1. Vá em: https://github.com/inematds/N8Np/settings/pages
+1. Vá em: https://github.com/linnoff88-dev/N8Np/settings/pages
 2. Em "Source", selecione: **Deploy from a branch**
 3. Em "Branch", selecione: **gh-pages** / (root)
 4. Clique em **Save**
@@ -85,9 +85,9 @@ mkdocs gh-deploy
 
 ## 🌐 URLs Importantes
 
-- **Repositório:** https://github.com/inematds/N8Np
-- **Site (após deploy):** https://inematds.github.io/N8Np/
-- **Settings Pages:** https://github.com/inematds/N8Np/settings/pages
+- **Repositório:** https://github.com/linnoff88-dev/N8Np
+- **Site (após deploy):** https://linnoff88-dev.github.io/arckhe-/
+- **Settings Pages:** https://github.com/linnoff88-dev/N8Np/settings/pages
 
 ---
 
@@ -102,7 +102,7 @@ mkdocs gh-deploy
 ssh -T git@github.com
 
 # Se nêo funcionar, use HTTPS:
-git remote set-url origin https://github.com/inematds/N8Np.git
+git remote set-url origin https://github.com/linnoff88-dev/N8Np.git
 git push -u origin main
 ```
 
@@ -116,10 +116,10 @@ git push -u origin main
 ## ✅ Checklist Pós-Deploy
 
 - [ ] Push concluído para GitHub
-- [ ] Arquivos visíveis em https://github.com/inematds/N8Np
+- [ ] Arquivos visíveis em https://github.com/linnoff88-dev/N8Np
 - [ ] `mkdocs gh-deploy` executado
 - [ ] GitHub Pages configurado (Settings > Pages)
-- [ ] Site acessível em https://inematds.github.io/N8Np/
+- [ ] Site acessível em https://linnoff88-dev.github.io/arckhe-/
 - [ ] Busca funcionando
 - [ ] Workflows listados corretamente
 
@@ -130,8 +130,8 @@ git push -u origin main
 Seu site de documentaçêo está no ar!
 
 Compartilhe com a comunidade:
-- Link do site: https://inematds.github.io/N8Np/
-- Link do repo: https://github.com/inematds/N8Np
+- Link do site: https://linnoff88-dev.github.io/arckhe-/
+- Link do repo: https://github.com/linnoff88-dev/N8Np
 
 ---
 

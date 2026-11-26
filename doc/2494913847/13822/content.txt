@@ -10,7 +10,7 @@ Midias baixadas: 10
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T04:08:48+00:00
 Texto:
 achei o e45 melhor
@@ -26,7 +26,7 @@ Qual o melhor esse ouno e45 ?
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-14T03:03:42+00:00
 Texto:
 olha o e45 para outras dicas
@@ -34,7 +34,7 @@ olha o e45 para outras dicas
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-14T03:03:29+00:00
 Texto:
 vc esta usando onde ? fal, kie
@@ -50,7 +50,7 @@ nêo conseguir usar o nano hoje, está como limitada minha requisiçêo.. tipo l
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-08T03:46:20+00:00
 Texto:
 sim a partir disso vc pode fazer um outro tools ou chamada de outros agentes e nele fazer o video (tem inclusive varios com veo3 q pode integrar os dois workflow
@@ -66,7 +66,7 @@ Tem como fazer videos UGC ?
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T16:11:52+00:00
 Texto:
 dublado
@@ -74,7 +74,7 @@ dublado
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T16:11:44+00:00
 Texto:
 https://www.youtube.com/watch?v=7UNsK9LoORo
@@ -83,7 +83,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T16:11:36+00:00
 Texto:
 ===============
@@ -91,7 +91,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T16:11:32+00:00
 Texto:
 Aqui estêo exemplos de **prompts que podem melhorar** o sistema:
@@ -148,7 +148,7 @@ Estilo de fotografia: editorial, iluminaçêo natural da manhê, foco no produto
 ## 5. Hacks de prompt
 
 * Sempre incluir **contexto**: quem aparece, onde está, o que está acontecendo.
-* Usar **palavras de estilo**: fotorealista, editorial, publicitário, cinematográfico, 35mm, bokeh, luz dourada etc.
+* Usar **palavras de estilo**: fotorealista, editorial, publicitário, cARCKHÉtográfico, 35mm, bokeh, luz dourada etc.
 * Especificar **ângulo de câmera**: close-up, plano médio, aérea.
 * Incluir **emoçêo ou atmosfera**: alegre, sofisticado, descontraído.
 * Definir **papel do produto**: foco principal, em destaque, interaçêo com pessoa.
@@ -156,7 +156,7 @@ Estilo de fotografia: editorial, iluminaçêo natural da manhê, foco no produto
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T16:11:21+00:00
 Texto:
 =================
@@ -164,7 +164,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T16:10:21+00:00
 Texto:
 Melhorias
@@ -220,7 +220,7 @@ O usuário pede uma ediçêo → o bot responde “🖼️ Editando sua imagem�
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T16:09:38+00:00
 Texto:
 ====================
@@ -228,7 +228,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T16:09:36+00:00
 Texto:
 ### Hacks para mais poder
@@ -266,7 +266,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T16:08:46+00:00
 Texto:
 =================
@@ -274,7 +274,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T16:08:44+00:00
 Texto:
 Entrada esperada do agente
@@ -342,7 +342,7 @@ Resposta: No HTTP Request do FAL.ai, altere o endpoint/model slug e, se necessá
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T16:08:44+00:00
 Texto:
 # Passo a passo para replicar o Photoshop AI Agent no n8n 
@@ -464,7 +464,7 @@ Nós
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T16:08:10+00:00
 Texto:
 ==================
@@ -472,7 +472,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T16:08:07+00:00
 Texto:
 Criaçêo de um agente de IA do Photoshop dentro do n8n sem código, usando o modelo de imagens Nano Banana do Google.
@@ -518,7 +518,7 @@ Criaçêo de um agente de IA do Photoshop dentro do n8n sem código, usando o mo
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T16:07:14+00:00
 Texto:
 ===============
@@ -526,7 +526,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T16:06:59+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13840_022.jpg
@@ -534,7 +534,7 @@ Midia: MessageMediaPhoto -> photo_13840_022.jpg
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T16:06:39+00:00
 Texto:
 Eu construí um Agente de IA do Photoshop no n8n sem código (NanoBanana)
@@ -546,7 +546,7 @@ Com a tecnologia de ponta do novo modelo de imagens Nano Banana do Google, esse 
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T15:55:58+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13838_024.jpg
@@ -554,7 +554,7 @@ Midia: MessageMediaPhoto -> photo_13838_024.jpg
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T15:54:29+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Nano Photoshop Agent.json
@@ -562,7 +562,7 @@ Midia: MessageMediaDocument -> Nano Photoshop Agent.json
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T15:54:29+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Combine Images Nanobanana.json
@@ -570,7 +570,7 @@ Midia: MessageMediaDocument -> Combine Images Nanobanana.json
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T15:54:29+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Edit Image Nanobanana Tool.json
@@ -578,7 +578,7 @@ Midia: MessageMediaDocument -> Edit Image Nanobanana Tool.json
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T15:54:20+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13834_028.jpg
@@ -586,7 +586,7 @@ Midia: MessageMediaPhoto -> photo_13834_028.jpg
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T15:53:19+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13833_029.jpg
@@ -594,7 +594,7 @@ Midia: MessageMediaPhoto -> photo_13833_029.jpg
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T15:52:07+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13832_030.jpg
@@ -602,7 +602,7 @@ Midia: MessageMediaPhoto -> photo_13832_030.jpg
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T15:50:00+00:00
 Texto:
 ap59 - Nano Agente de IA do Photoshop
@@ -610,7 +610,7 @@ ap59 - Nano Agente de IA do Photoshop
 ------------------------------
 
 MENSAGEM 32
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T15:49:59+00:00
 Texto:
 .
@@ -618,7 +618,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 33
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T15:49:58+00:00
 Texto:
 .
@@ -626,7 +626,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 34
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T15:49:58+00:00
 Texto:
 .
@@ -634,7 +634,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 35
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T15:49:58+00:00
 Texto:
 .
@@ -642,7 +642,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 36
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T15:49:57+00:00
 Texto:
 .
@@ -650,7 +650,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 37
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T15:49:57+00:00
 Texto:
 https://chatgpt.com/c/68bb0683-012c-832d-9290-332580215205
@@ -659,7 +659,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 38
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T15:49:57+00:00
 Texto:
 1
@@ -667,7 +667,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 39
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-05T15:49:48+00:00
 Texto: [Sem texto]
 

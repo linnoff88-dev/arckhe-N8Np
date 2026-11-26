@@ -10,7 +10,7 @@ Midias baixadas: 2
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-07T22:29:18+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15697_001.jpg
@@ -18,7 +18,7 @@ Midia: MessageMediaPhoto -> photo_15697_001.jpg
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-07T22:26:38+00:00
 Texto:
 ***NEW* n8n adds OpenAI native RAG + Web Search (very helpful)**
@@ -38,7 +38,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-07T22:26:36+00:00
 Texto:
 RAG e Pesquisa Nativa no N8N
@@ -46,7 +46,7 @@ RAG e Pesquisa Nativa no N8N
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-07T22:26:14+00:00
 Texto:
 ..
@@ -54,7 +54,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-07T22:26:14+00:00
 Texto:
 .
@@ -62,7 +62,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-07T22:26:14+00:00
 Texto:
 .
@@ -70,7 +70,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-07T22:26:13+00:00
 Texto:
 .
@@ -78,7 +78,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-07T22:26:13+00:00
 Texto:
 .
@@ -86,7 +86,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-07T22:26:13+00:00
 Texto:
 1
@@ -94,7 +94,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-07T22:26:06+00:00
 Texto: [Sem texto]
 

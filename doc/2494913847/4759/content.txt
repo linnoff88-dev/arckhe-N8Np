@@ -10,7 +10,7 @@ Midias baixadas: 4
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T04:26:33+00:00
 Texto:
 ============
@@ -18,7 +18,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T04:26:29+00:00
 Texto:
 **e11. Pesquisa Profunda (Relatório Épico)**
@@ -98,7 +98,7 @@ Gastamos aproximadamente 30 centavos por relatório completo, utilizando modelos
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T04:25:35+00:00
 Texto:
 =============
@@ -106,7 +106,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T04:25:22+00:00
 Texto:
 Seu próprio pesquisador profundo com IA  
@@ -127,7 +127,7 @@ Perfeita para criar produtos, relatórios, serviços ou apresentações automát
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T04:24:00+00:00
 Texto:
 e11
@@ -136,7 +136,7 @@ Midia: MessageMediaDocument -> Investigación Profunda (Crear copia).xlsx
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T04:22:57+00:00
 Texto:
 Sem Formulario
@@ -145,7 +145,7 @@ Midia: MessageMediaPhoto -> photo_4768_006.jpg
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T04:20:49+00:00
 Texto:
 Com Formulario
@@ -154,7 +154,7 @@ Midia: MessageMediaPhoto -> photo_4767_007.jpg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T04:18:14+00:00
 Texto:
 e**11 - Pesquisa Profunda (Relatório Épico)**
@@ -162,7 +162,7 @@ e**11 - Pesquisa Profunda (Relatório Épico)**
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T04:18:11+00:00
 Texto:
 .
@@ -170,7 +170,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T04:18:10+00:00
 Texto:
 .
@@ -178,7 +178,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T04:18:10+00:00
 Texto:
 estilo do ap11 - Pesquisa Avancada
@@ -186,7 +186,7 @@ estilo do ap11 - Pesquisa Avancada
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T04:18:10+00:00
 Texto:
 .
@@ -194,7 +194,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T04:18:10+00:00
 Texto:
 https://chatgpt.com/c/67f0adcf-76c8-8009-9d9b-974546bf3d1e
@@ -203,7 +203,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T04:18:09+00:00
 Texto:
 1
@@ -211,7 +211,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T04:18:05+00:00
 Texto: [Sem texto]
 

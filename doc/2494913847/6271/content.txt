@@ -10,7 +10,7 @@ Midias baixadas: 7
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T22:43:46+00:00
 Texto:
 ### **Resumo Geral**
@@ -69,7 +69,7 @@ O criador desenvolveu um **editor de vídeo automatizado com IA**, sem necessida
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T22:42:27+00:00
 Texto:
 ===================
@@ -77,7 +77,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T22:42:24+00:00
 Texto:
 ==================
@@ -85,7 +85,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T22:42:21+00:00
 Texto:
 ---
@@ -163,7 +163,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T22:41:30+00:00
 Texto:
 https://www.youtube.com/watch?v=dgvVS-5mRFo
@@ -172,7 +172,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T22:41:06+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Tutorial 22.1 - AI Video Editor Templates.zip
@@ -180,7 +180,7 @@ Midia: MessageMediaDocument -> Tutorial 22.1 - AI Video Editor Templates.zip
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T22:40:56+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6282_007.jpg
@@ -188,7 +188,7 @@ Midia: MessageMediaPhoto -> photo_6282_007.jpg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T22:40:56+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6281_008.jpg
@@ -196,7 +196,7 @@ Midia: MessageMediaPhoto -> photo_6281_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T22:40:55+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6280_009.jpg
@@ -204,7 +204,7 @@ Midia: MessageMediaPhoto -> photo_6280_009.jpg
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T22:35:52+00:00
 Texto:
 al12 - MCP Agent Videos
@@ -212,7 +212,7 @@ al12 - MCP Agent Videos
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T22:35:40+00:00
 Texto:
 .
@@ -220,7 +220,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T22:35:39+00:00
 Texto:
 .
@@ -228,7 +228,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T22:35:39+00:00
 Texto:
 ..
@@ -236,7 +236,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T22:35:39+00:00
 Texto:
 .
@@ -244,7 +244,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T22:35:38+00:00
 Texto:
 https://chatgpt.com/c/68096a34-9254-8009-8f17-bbb2672890c6
@@ -253,7 +253,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T22:35:38+00:00
 Texto:
 1
@@ -261,7 +261,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-23T22:35:32+00:00
 Texto: [Sem texto]
 

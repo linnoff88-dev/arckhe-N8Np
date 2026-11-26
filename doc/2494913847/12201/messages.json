@@ -1,7 +1,7 @@
 [
   {
     "id": 12219,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-03T05:44:16+00:00",
     "text": "",
     "has_media": true,
@@ -10,7 +10,7 @@
   },
   {
     "id": 12218,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-03T05:44:10+00:00",
     "text": "",
     "has_media": true,
@@ -19,7 +19,7 @@
   },
   {
     "id": 12217,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-03T05:42:54+00:00",
     "text": "**🎯 Estrutura Implementada:\n**\n**Agente Orquestrador Principal:**\nOrquestradorONG com classificaçêo inteligente de intenções\nTriggers para WhatsApp (EvolutionAPI) e E-mail (IMAP)\nRoteamento automático para agentes especializados\n\n**4 Subagentes Especializados:**\n**AgenteCastracao** - Agendamento com Supabase + Google Calendar\n**AgenteAdocaoDoacao** - Gerenciamento de adoções/doações\n**AgenteAnimaisPerdidos** - Registro com geolocalizaçêo\n**AgenteDicas** - RAG com base vetorial para dúvidas\n\n**🔧 Funcionalidades Incluídas:**\nMulticanal (WhatsApp + E-mail)\nLogging completo no Supabase\nTratamento de erros robusto\nMemória Redis e Supabase\nIntegraçêo Google Calendar\nSistema RAG para dúvidas frequentes\n\n**📋 Compatibilidade:**\nn8n v1.104.2 ✅\nJSON validado ✅\nTodas as conexões mapeadas ✅",
     "has_media": false,
@@ -27,7 +27,7 @@
   },
   {
     "id": 12216,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-03T05:41:43+00:00",
     "text": "",
     "has_media": true,
@@ -36,7 +36,7 @@
   },
   {
     "id": 12215,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-03T05:40:56+00:00",
     "text": "",
     "has_media": true,
@@ -45,7 +45,7 @@
   },
   {
     "id": 12214,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-03T05:40:27+00:00",
     "text": "",
     "has_media": true,
@@ -54,7 +54,7 @@
   },
   {
     "id": 12213,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-03T05:40:27+00:00",
     "text": "",
     "has_media": true,
@@ -63,7 +63,7 @@
   },
   {
     "id": 12212,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-03T05:38:51+00:00",
     "text": "Original feito pelo manus, alguns errinhos mas foi direto e rapido",
     "has_media": false,
@@ -71,7 +71,7 @@
   },
   {
     "id": 12211,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-03T05:38:22+00:00",
     "text": "",
     "has_media": true,
@@ -80,7 +80,7 @@
   },
   {
     "id": 12210,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-03T05:37:09+00:00",
     "text": "",
     "has_media": true,
@@ -89,7 +89,7 @@
   },
   {
     "id": 12209,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-03T05:36:47+00:00",
     "text": "nm63 - ONG Pets - Vibe Code Manus",
     "has_media": false,
@@ -97,7 +97,7 @@
   },
   {
     "id": 12208,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-03T05:36:46+00:00",
     "text": ".",
     "has_media": false,
@@ -105,7 +105,7 @@
   },
   {
     "id": 12207,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-03T05:36:46+00:00",
     "text": ".",
     "has_media": false,
@@ -113,7 +113,7 @@
   },
   {
     "id": 12206,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-03T05:36:45+00:00",
     "text": ".",
     "has_media": false,
@@ -121,7 +121,7 @@
   },
   {
     "id": 12205,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-03T05:36:45+00:00",
     "text": ".",
     "has_media": false,
@@ -129,7 +129,7 @@
   },
   {
     "id": 12204,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-03T05:36:45+00:00",
     "text": ".",
     "has_media": false,
@@ -137,7 +137,7 @@
   },
   {
     "id": 12203,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-03T05:36:44+00:00",
     "text": ".",
     "has_media": false,
@@ -145,7 +145,7 @@
   },
   {
     "id": 12202,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-03T05:36:44+00:00",
     "text": "1",
     "has_media": false,
@@ -153,7 +153,7 @@
   },
   {
     "id": 12201,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-03T05:36:38+00:00",
     "text": "",
     "has_media": false,

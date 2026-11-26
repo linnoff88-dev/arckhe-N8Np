@@ -10,7 +10,7 @@ Midias baixadas: 5
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-21T13:35:56+00:00
 Texto:
 ### Hacks de arquitetura
@@ -51,7 +51,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T22:15:38+00:00
 Texto:
 }}"
@@ -142,7 +142,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T22:15:38+00:00
 Texto:
 Aqui vai o passo a passo reestruturado, enxuto e acionável para montar o agente de vendas/suporte no WhatsApp com n8n + Unipile, sem API da Meta.
@@ -253,7 +253,7 @@ Content-Type: application/json
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T22:13:01+00:00
 Texto:
 =============
@@ -261,7 +261,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T22:12:59+00:00
 Texto:
 Agente de IA Vende para Você (100% Automatizado)
@@ -290,7 +290,7 @@ Pontos-chave:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T22:12:25+00:00
 Texto:
 =============
@@ -298,7 +298,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T22:12:20+00:00
 Texto:
 achei Caro o UNIPILE  prefiro o evolutionapi
@@ -306,7 +306,7 @@ achei Caro o UNIPILE  prefiro o evolutionapi
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T22:09:31+00:00
 Texto:
 Agente de vendas no WhatsApp
@@ -324,7 +324,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T22:08:36+00:00
 Texto:
 ===============
@@ -332,7 +332,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T22:08:33+00:00
 Texto:
 Roube este Agente de WhatsApp Lucrativo 
@@ -356,7 +356,7 @@ Eu deixei o processo o mais SIMPLES possível.😆
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T22:07:45+00:00
 Texto:
 =============
@@ -364,7 +364,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T22:07:43+00:00
 Texto:
 =======
@@ -372,7 +372,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T22:07:38+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 🔥 WhatsApp Operating System.json
@@ -380,7 +380,7 @@ Midia: MessageMediaDocument -> 🔥 WhatsApp Operating System.json
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T22:04:51+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14100_014.jpg
@@ -388,7 +388,7 @@ Midia: MessageMediaPhoto -> photo_14100_014.jpg
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T22:04:48+00:00
 Texto:
 j105 - Agente de Vendas com Whatsapp
@@ -396,7 +396,7 @@ j105 - Agente de Vendas com Whatsapp
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T22:04:47+00:00
 Texto:
 .
@@ -404,7 +404,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T22:04:44+00:00
 Texto:
 ..
@@ -412,7 +412,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T22:04:44+00:00
 Texto:
 .
@@ -420,7 +420,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T22:04:43+00:00
 Texto:
 .
@@ -428,7 +428,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T22:04:43+00:00
 Texto:
 .
@@ -436,7 +436,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T22:04:43+00:00
 Texto:
 https://chatgpt.com/c/68c0a37e-f6cc-8331-8463-692e5d1f0286
@@ -445,7 +445,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T22:04:42+00:00
 Texto:
 1
@@ -453,7 +453,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-09T22:04:37+00:00
 Texto: [Sem texto]
 

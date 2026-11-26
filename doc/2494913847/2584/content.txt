@@ -10,7 +10,7 @@ Midias baixadas: 1
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T08:39:57+00:00
 Texto:
 https://docs.n8n.io/sustainable-use-license/#can-i-use-n8ns-sustainable-use-license-for-my-own-project
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T08:39:37+00:00
 Texto:
 ======
@@ -27,7 +27,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T08:39:34+00:00
 Texto:
 ### **Licenças do n8n 🪪**  
@@ -54,7 +54,7 @@ O n8n está trabalhando para **tornar sua estrutura de licenciamento mais clara*
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T08:39:19+00:00
 Texto:
 ==
@@ -62,7 +62,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T08:39:15+00:00
 Texto:
 N8N é Free ?
@@ -70,7 +70,7 @@ N8N é Free ?
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T08:38:54+00:00
 Texto:
 ============
@@ -78,7 +78,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T08:38:50+00:00
 Texto:
 O **n8n** é **open-source e gratuito** para uso **pessoal e auto-hospedado**, mas há algumas restrições quando se trata de uso comercial e serviços para clientes. O modelo de licenciamento do n8n segue uma abordagem de código aberto com limitações para certos usos empresariais.  
@@ -133,7 +133,7 @@ Se for apenas para **uso próprio ou consultoria**, **você pode rodá-lo sem pr
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T08:38:42+00:00
 Texto:
 .
@@ -141,7 +141,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T08:38:40+00:00
 Texto:
 N8N e suas Licenças
@@ -149,7 +149,7 @@ N8N e suas Licenças
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T08:38:22+00:00
 Texto:
 .
@@ -157,7 +157,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T08:38:22+00:00
 Texto:
 N8N é Free ?
@@ -165,7 +165,7 @@ N8N é Free ?
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T08:38:22+00:00
 Texto:
 .
@@ -173,7 +173,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T08:38:22+00:00
 Texto:
 .
@@ -181,7 +181,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T08:38:21+00:00
 Texto:
 .
@@ -189,7 +189,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T08:38:21+00:00
 Texto:
 .
@@ -197,7 +197,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T08:38:20+00:00
 Texto:
 1
@@ -205,7 +205,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-10T08:38:15+00:00
 Texto: [Sem texto]
 

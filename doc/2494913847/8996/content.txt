@@ -50,7 +50,7 @@ Obrigado professor!!! fiz hoje cedo e amanha to indo apresentar para um cliente 
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T04:53:46+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9017_006.jpg
@@ -66,7 +66,7 @@ Gratidêo prof vc e D+
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T04:51:39+00:00
 Texto:
 esta dublado
@@ -74,7 +74,7 @@ esta dublado
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T04:51:32+00:00
 Texto:
 https://www.youtube.com/watch?v=zW033BRgBVk
@@ -83,7 +83,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T04:51:13+00:00
 Texto:
 **Resumo completo do vídeo "Sell this \$100k AI Dashboard… Loveable 2.0"**
@@ -151,7 +151,7 @@ O projeto mostra como combinar ferramentas no-code para criar um painel interati
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T04:51:06+00:00
 Texto:
 ===========
@@ -159,7 +159,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T04:47:22+00:00
 Texto:
 **j92) Venda este Painel de IA de \$100 mil… Loveable 2.0**
@@ -169,9 +169,9 @@ Como construir um painel de controle com IA avaliado em \$100.000 usando automa�
 Você aprenderá a configurar um sistema de geraçêo aumentada por recuperaçêo (RAG), integrar agentes de voz personalizados com a tecnologia da Eleven Labs e extrair dados de sites de clientes de forma simples com o Apify — sem necessidade de experiência em programaçêo.
 
 🧰 **Ferramentas**
-🔥 Loveable: [https://lovable.dev/?via=jack](https://lovable.dev/?via=inematds)
+🔥 Loveable: [https://lovable.dev/?via=jack](https://lovable.dev/?via=linnoff88-dev)
 🧠 n8n: [https://n8n.io](https://n8n.io/)
-🌍 Eleven Labs: [https://elevenlabs.io/?from=inematds](https://elevenlabs.io/?from=inematds
+🌍 Eleven Labs: [https://elevenlabs.io/?from=linnoff88-dev](https://elevenlabs.io/?from=linnoff88-dev
 📊 Airtable: https://airtable.com/invite/r/OCq1Acz2 
 📊 Dados de exemplo no Airtable: [https://airtable.com/appMhqPcFFnysllda/shrMtI9pyJpMne6G0](https://airtable.com/appMhqPcFFnysllda/shrMtI9pyJpMne6G0)
 Midia: MessageMediaWebPage
@@ -179,7 +179,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T04:44:36+00:00
 Texto:
 copie esta tabela
@@ -187,7 +187,7 @@ copie esta tabela
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T04:44:28+00:00
 Texto:
 https://airtable.com/appVujzOvJkrkO7Ea/tblAljmDF0Taqp9WS/viw9WjIaz5tX7DYmt?blocks=show
@@ -196,7 +196,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T04:43:24+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 🤩 Prompting AI Voice Agents.pdf
@@ -204,7 +204,7 @@ Midia: MessageMediaDocument -> 🤩 Prompting AI Voice Agents.pdf
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T04:43:24+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> 🩵 Loveable Cheat Sheet. (1).pdf
@@ -212,7 +212,7 @@ Midia: MessageMediaDocument -> 🩵 Loveable Cheat Sheet. (1).pdf
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T04:41:18+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Lovable_2_0_dashboard.json
@@ -220,7 +220,7 @@ Midia: MessageMediaDocument -> Lovable_2_0_dashboard.json
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T04:41:12+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9004_018.jpg
@@ -228,7 +228,7 @@ Midia: MessageMediaPhoto -> photo_9004_018.jpg
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T04:40:53+00:00
 Texto:
 j92 - Venda Painel $100 mil… Loveable 2.0
@@ -236,7 +236,7 @@ j92 - Venda Painel $100 mil… Loveable 2.0
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T04:40:52+00:00
 Texto:
 ..
@@ -244,7 +244,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T04:40:51+00:00
 Texto:
 .
@@ -252,7 +252,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T04:40:51+00:00
 Texto:
 .
@@ -260,7 +260,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T04:40:50+00:00
 Texto:
 .
@@ -268,7 +268,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T04:40:50+00:00
 Texto:
 https://chatgpt.com/c/684513ae-84dc-8009-8aa9-df6bc8b699ed
@@ -277,7 +277,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T04:40:49+00:00
 Texto:
 1
@@ -285,7 +285,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-08T04:40:38+00:00
 Texto: [Sem texto]
 

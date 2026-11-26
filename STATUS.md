@@ -31,7 +31,7 @@
 ### 4. Git & GitHub
 - ✅ Repositório inicializado
 - ✅ Commit inicial criado
-- ✅ Remote configurado (git@github.com:inematds/N8Np.git)
+- ✅ Remote configurado (git@github.com:linnoff88-dev/N8Np.git)
 - ✅ Secrets removidos dos workflows
 - ✅ Push concluído (1.1 GB)
 
@@ -45,12 +45,12 @@
 ## 🎉 SITE NO AR!
 
 O site está disponível em:
-**https://inematds.github.io/N8Np/**
+**https://linnoff88-dev.github.io/arckhe-/**
 
 ### Como Acessar:
-1. **Repositório:** https://github.com/inematds/N8Np
-2. **Site:** https://inematds.github.io/N8Np/
-3. **Configurações Pages:** https://github.com/inematds/N8Np/settings/pages
+1. **Repositório:** https://github.com/linnoff88-dev/N8Np
+2. **Site:** https://linnoff88-dev.github.io/arckhe-/
+3. **Configurações Pages:** https://github.com/linnoff88-dev/N8Np/settings/pages
 
 ### O que está disponível:
 - ✅ 532 workflows catalogados
@@ -125,10 +125,10 @@ mkdocs gh-deploy
 ## 🎯 RESULTADO ESPERADO
 
 **Repositório:**
-https://github.com/inematds/N8Np
+https://github.com/linnoff88-dev/N8Np
 
 **Site (após deploy):**
-https://inematds.github.io/N8Np/
+https://linnoff88-dev.github.io/arckhe-/
 
 ---
 

@@ -10,7 +10,7 @@ Midias baixadas: 5
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T22:39:00+00:00
 Texto:
 https://www.youtube.com/watch?v=4Gi3KIUTVXQ
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T22:38:41+00:00
 Texto:
 O vídeo ensina como construir um **Agente de IA** que **reaproveita automaticamente notícias e blogs** para criar **posts no Threads**, utilizando **OpenAI**, **Exa AI** e **Google Sheets**.  
@@ -52,7 +52,7 @@ Sistema de automaçêo completo que coleta notícias, gera posts formatados para
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T22:37:33+00:00
 Texto:
 Agente de IA para Reaproveitar Notícias Automaticamente em Threads Envolventes (100% Automatizado)  
@@ -64,7 +64,7 @@ Esse sistema formata, agenda e publica o conteúdo de forma fluida, ajudando voc
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T22:36:26+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Threads Post Ideas Sample.xlsx
@@ -72,7 +72,7 @@ Midia: MessageMediaDocument -> Threads Post Ideas Sample.xlsx
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T22:36:19+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Tutorial_1_4_I_Built_an_AI_Agent_to_Auto_Repurpose_News_into_Engaging.json
@@ -80,7 +80,7 @@ Midia: MessageMediaDocument -> Tutorial_1_4_I_Built_an_AI_Agent_to_Auto_Repurpos
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T22:36:11+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6890_006.jpg
@@ -88,7 +88,7 @@ Midia: MessageMediaPhoto -> photo_6890_006.jpg
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T22:34:42+00:00
 Texto:
 als08 - Reaproveitar Notícias Automaticamente em Threads Envolventes
@@ -96,7 +96,7 @@ als08 - Reaproveitar Notícias Automaticamente em Threads Envolventes
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T22:34:41+00:00
 Texto:
 ...
@@ -104,7 +104,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T22:34:41+00:00
 Texto:
 ..
@@ -112,7 +112,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T22:34:40+00:00
 Texto:
 .
@@ -120,7 +120,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T22:34:40+00:00
 Texto:
 ..
@@ -128,7 +128,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T22:34:40+00:00
 Texto:
 .
@@ -136,7 +136,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T22:34:40+00:00
 Texto:
 .
@@ -144,7 +144,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T22:34:40+00:00
 Texto:
 https://chatgpt.com/c/68100261-51e8-8009-bbf4-94320a31399d
@@ -153,7 +153,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T22:34:39+00:00
 Texto:
 1
@@ -161,7 +161,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-28T22:34:34+00:00
 Texto: [Sem texto]
 

@@ -88,7 +88,7 @@
               "value": "ENTER_YOUR_GOOGLE_SHEET_ID"
             },
             {
-              "name": "adminEmailForErrors",
+              "name": "admARCKHÉilForErrors",
               "value": "your.email@example.com"
             }
           ]
@@ -505,7 +505,7 @@
       ],
       "webhookId": "92060c17-8a4f-4afc-8b1c-5989ff778e0b",
       "parameters": {
-        "sendTo": "={{ $('Configuration: User Settings').item.json.adminEmailForErrors }}",
+        "sendTo": "={{ $('Configuration: User Settings').item.json.admARCKHÉilForErrors }}",
         "message": "=<html>\n<body>\n<h3>Invoice Processed Successfully</h3>\n<p><strong>Vendor:</strong> {{ $json.vendor_name }}</p>\n<p><strong>Amount:</strong> {{ $json.currency }} {{ $json.total_amount }}</p>\n<p><strong>GL Category:</strong> {{ $json.gl_category }}</p>\n<p><strong>Status:</strong> {{ $json.approval_status }}</p>\n<br>\n<p>Check the Google Sheet for details.</p>\n</body>\n</html>",
         "options": {
           "appendAttribution": false
@@ -591,7 +591,7 @@
       ],
       "webhookId": "9024f16d-2d54-442a-b961-cbeb25c84c22",
       "parameters": {
-        "sendTo": "={{ $('Configuration: User Settings').item.json.adminEmailForErrors }}",
+        "sendTo": "={{ $('Configuration: User Settings').item.json.admARCKHÉilForErrors }}",
         "message": "=<html>\n<body>\n<h3>Workflow Failed</h3>\n<p><strong>Error:</strong> {{ $json.error_message }}</p>\n<p><strong>Original Email:</strong> {{ $json.original_subject }}</p>\n</body>\n</html>",
         "options": {},
         "subject": "=⚠️ Finance Workflow Error: {{ $json.error_type }}"

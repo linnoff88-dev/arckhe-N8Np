@@ -10,7 +10,7 @@ Midias baixadas: 7
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-08T22:16:18+00:00
 Texto:
 Aqui vêo **dicas e hacks diretos** para essa automaçêo com IA:
@@ -29,7 +29,7 @@ Aqui vêo **dicas e hacks diretos** para essa automaçêo com IA:
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-08T22:14:51+00:00
 Texto:
 ================
@@ -37,7 +37,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-08T22:14:44+00:00
 Texto:
 Aqui está o **passo a passo simplificado** para montar um **Sistema de Vídeo com Avatar de IA sem código**, conforme apresentado no vídeo:
@@ -139,7 +139,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-08T22:14:29+00:00
 Texto:
 =================
@@ -147,7 +147,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-08T22:14:26+00:00
 Texto:
 ========================
@@ -155,7 +155,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-08T22:12:38+00:00
 Texto:
 **Resumo do vídeo:**  
@@ -241,7 +241,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-08T22:08:11+00:00
 Texto:
 ===========
@@ -249,7 +249,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-08T22:08:00+00:00
 Texto:
 **File
@@ -339,7 +339,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-08T22:07:59+00:00
 Texto:
 **al11 - AI Avatar**
@@ -420,7 +420,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-08T22:07:42+00:00
 Texto:
 .
@@ -428,7 +428,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-08T22:07:41+00:00
 Texto:
 ..
@@ -436,7 +436,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-08T22:07:41+00:00
 Texto:
 .
@@ -444,7 +444,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-08T22:07:41+00:00
 Texto:
 .
@@ -452,7 +452,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-08T22:06:36+00:00
 Texto:
 al11
@@ -461,7 +461,7 @@ Midia: MessageMediaDocument -> Tutorial 20.1 - AI_avatar.json
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-08T22:05:58+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_4993_015.jpg
@@ -469,7 +469,7 @@ Midia: MessageMediaPhoto -> photo_4993_015.jpg
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-08T22:01:58+00:00
 Texto:
 ...
@@ -477,7 +477,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-08T22:01:58+00:00
 Texto:
 O vídeo mostra como criar uma **automaçêo completa no n8n** que gera vídeos com **avatar de IA**, clonando sua **voz**, fazendo **sincronizaçêo labial** e montando tudo automaticamente, **sem precisar programar**.  
@@ -487,7 +487,7 @@ Usa ferramentas como **Claude, Fish Audio, Whisper, ****Fell.AI****, Supabase e 
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-08T22:01:57+00:00
 Texto:
 .
@@ -495,7 +495,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-08T22:01:57+00:00
 Texto:
 al11- AI Avatar - Sincronioza Voz Videos Automatico
@@ -503,7 +503,7 @@ al11- AI Avatar - Sincronioza Voz Videos Automatico
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-08T22:01:57+00:00
 Texto:
 ....
@@ -511,7 +511,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-08T22:01:57+00:00
 Texto:
 ...
@@ -519,7 +519,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-08T22:01:56+00:00
 Texto:
 ..
@@ -527,7 +527,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-08T22:01:56+00:00
 Texto:
 .
@@ -535,7 +535,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-08T22:01:56+00:00
 Texto:
 ...
@@ -543,7 +543,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-08T22:01:56+00:00
 Texto:
 ..
@@ -551,7 +551,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-08T22:01:56+00:00
 Texto:
 .
@@ -559,7 +559,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-08T22:01:55+00:00
 Texto:
 https://chatgpt.com/c/67f59c2d-22b8-8009-abd5-cfefd7a7388c
@@ -568,7 +568,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-08T22:01:54+00:00
 Texto:
 1
@@ -576,7 +576,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-08T22:01:51+00:00
 Texto: [Sem texto]
 

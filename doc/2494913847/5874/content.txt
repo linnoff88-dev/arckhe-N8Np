@@ -10,14 +10,14 @@ Midias baixadas: 4
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-24T05:59:24+00:00
 Texto: [Sem texto]
 
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-17T05:33:17+00:00
 Texto:
 [https://www.anthropic.com/engineering/claude-think-tool](https://www.anthropic.com/engineering/claude-think-tool)
@@ -26,7 +26,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-17T05:19:54+00:00
 Texto:
 Esta dublado
@@ -34,7 +34,7 @@ Esta dublado
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-17T05:19:49+00:00
 Texto:
 https://www.youtube.com/watch?v=WqyLxyALTt0
@@ -43,7 +43,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-17T05:18:40+00:00
 Texto:
 **n8n acaba de aprimorar agentes de IA (método Think da Anthropic)**
@@ -57,7 +57,7 @@ Se você estiver desenvolvendo com n8n ou experimentando agentes autônomos, est
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-17T05:18:29+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Think_Agents.json
@@ -65,7 +65,7 @@ Midia: MessageMediaDocument -> Think_Agents.json
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-17T05:16:54+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_5884_007.jpg
@@ -73,7 +73,7 @@ Midia: MessageMediaPhoto -> photo_5884_007.jpg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-17T05:14:25+00:00
 Texto:
 .
@@ -81,7 +81,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-17T05:14:24+00:00
 Texto:
 al16 - Método Think no Agente N8N
@@ -89,7 +89,7 @@ al16 - Método Think no Agente N8N
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-17T05:14:17+00:00
 Texto:
 .
@@ -97,7 +97,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-17T05:14:17+00:00
 Texto:
 .
@@ -105,7 +105,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-17T05:14:17+00:00
 Texto:
 .
@@ -113,7 +113,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-17T05:14:16+00:00
 Texto:
 .
@@ -121,7 +121,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-17T05:14:16+00:00
 Texto:
 .
@@ -129,7 +129,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-17T05:14:14+00:00
 Texto:
 1
@@ -137,7 +137,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-17T05:13:33+00:00
 Texto: [Sem texto]
 

@@ -10,7 +10,7 @@ Midias baixadas: 4
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T07:17:37+00:00
 Texto:
 https://www.youtube.com/watch?v=BhGaGFH0jR4
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T07:16:55+00:00
 Texto:
 ### **Resumo Geral**
@@ -107,7 +107,7 @@ O vídeo apresenta um sistema RAG (Retrieval-Augmented Generation) mais avançad
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T07:15:06+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Agentic_RAG (1).json
@@ -115,7 +115,7 @@ Midia: MessageMediaDocument -> Agentic_RAG (1).json
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T07:14:59+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_8383_004.jpg
@@ -123,7 +123,7 @@ Midia: MessageMediaPhoto -> photo_8383_004.jpg
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T07:14:51+00:00
 Texto:
 ap29 - Agentic - Futuro do RAG
@@ -131,7 +131,7 @@ ap29 - Agentic - Futuro do RAG
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T07:14:34+00:00
 Texto:
 .
@@ -139,7 +139,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T07:14:34+00:00
 Texto:
 .
@@ -147,7 +147,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T07:14:33+00:00
 Texto:
 .
@@ -155,7 +155,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T07:14:33+00:00
 Texto:
 .
@@ -163,7 +163,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T07:14:33+00:00
 Texto:
 .
@@ -171,7 +171,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T07:14:33+00:00
 Texto:
 .
@@ -179,7 +179,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T07:14:33+00:00
 Texto:
 https://chatgpt.com/c/68356699-7e1c-8009-b004-0e0f1a613dac
@@ -188,7 +188,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T07:14:32+00:00
 Texto:
 1
@@ -196,7 +196,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-27T07:14:25+00:00
 Texto: [Sem texto]
 

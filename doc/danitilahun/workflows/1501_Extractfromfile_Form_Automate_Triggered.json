@@ -500,7 +500,7 @@
           "summarizationMethodAndPrompts": {
             "values": {
               "prompt": "=Write a concise summary of the following:\nFirst name:{{ $json.output.first_name }}\nLast name:{{ $json.output.last_name }}\nCity: {{ $json.output.city }}\nEducational Qualification:{{ $json.output['Educational Qualification'] }}\nPrevious experience:{{ $json.output['Job History'] }}\nSkills:{{ $json.output.Skills }}\nApplied date:{{$now.format('yyyy-MM-dd')}}\n\nWrite a concise Summary and summary of 100 words or less. Be concise and professional.\n\n",
-              "combineMapPrompt": "=Write a concise summary of the following:\nFirst name:{{ $json.output.first_name }}\nLast name:{{ $json.output.last_name }}\nCity: {{ $json.output.city }}\nEducational Qualification:{{ $json.output['Educational Qualification'] }}\nPrevious experience:{{ $json.output['Job History'] }}\nSkills:{{ $json.output.Skills }}\nApplied date:{{$now.format('yyyy-MM-dd')}}\n\nWrite a concise Summary and summary of 100 words or less. Be concise and professional.\n\n"
+              "combARCKHÉpPrompt": "=Write a concise summary of the following:\nFirst name:{{ $json.output.first_name }}\nLast name:{{ $json.output.last_name }}\nCity: {{ $json.output.city }}\nEducational Qualification:{{ $json.output['Educational Qualification'] }}\nPrevious experience:{{ $json.output['Job History'] }}\nSkills:{{ $json.output.Skills }}\nApplied date:{{$now.format('yyyy-MM-dd')}}\n\nWrite a concise Summary and summary of 100 words or less. Be concise and professional.\n\n"
             }
           }
         }

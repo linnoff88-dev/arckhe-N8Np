@@ -2,12 +2,12 @@
   "id": "UTTbkRAZmXfQFS3K",
   "meta": {
     "site": "https://github.com/zengfr/n8n-workflow-all-templates",
-    "name": "Convert Form Inputs to Cinematic Videos with GPT-4, Dumpling AI & ElevenLabs Audio",
+    "name": "Convert Form Inputs to CARCKHÉtic Videos with GPT-4, Dumpling AI & ElevenLabs Audio",
     "wechat": "youandme10086",
     "id": 5393,
     "update_time": "2025-11-10"
   },
-  "name": "Auto-Generate Cinematic Animal Videos & Sound from Form using Dumpling AI",
+  "name": "Auto-Generate CARCKHÉtic Animal Videos & Sound from Form using Dumpling AI",
   "tags": [],
   "nodes": [
     {
@@ -21,7 +21,7 @@
       "parameters": {
         "width": 1700,
         "height": 920,
-        "content": "### 🟨 Sticky Notes for Workflow: Create Cinematic Animal Videos & Audio\n\n🟡 **Trigger: Form Submission**  \nStarts when a user fills out a form with a title, 4 animals, and a visual style.\n\n🟡 **Format Inputs**  \nPrepares animal inputs as an array and pulls the selected style for processing.\n\n🟡 **Generate Cinematic Prompts (OpenAI)**  \nEach animal is transformed into a cinematic, first-person prompt using GPT-4.\n\n🟡 **Create AI Image (Dumpling AI)**  \nEach prompt is sent to Dumpling AI to generate a high-quality AI image.\n\n🟡 **Motion Prompt for Video (OpenAI)**  \nThe image prompt is rewritten into a motion video prompt with natural movements.\n\n🟡 **Generate Motion Video (Leonardo)**  \nLeonardo AI turns each image into a short animated video clip using the motion prompt.\n\n🟡 **Generate Audio Prompt (OpenAI)**  \nGPT-4 generates a vivid sound prompt based on the style.\n\n🟡 **Create Ambient Sound (ElevenLabs)**  \nThe sound prompt is used to generate a 20-second ambient audio file.\n\n🟡 **Upload Audio to Drive**  \nThe generated .mp3 is saved to a Google Drive folder and made shareable.\n\n🟡 **Merge Videos and Audio (Creatomate)**  \nAll videos and audio are stitched into a single cinematic video with text overlays.\n\n🟡 **Upload Final Video**  \nThe completed video is uploaded to Google Drive in the “AI generated Videos” folder.\n\n🟡 **Log Output to Sheet**  \nVideo title and share link are logged into Google Sheets for future access.\n"
+        "content": "### 🟨 Sticky Notes for Workflow: Create CARCKHÉtic Animal Videos & Audio\n\n🟡 **Trigger: Form Submission**  \nStarts when a user fills out a form with a title, 4 animals, and a visual style.\n\n🟡 **Format Inputs**  \nPrepares animal inputs as an array and pulls the selected style for processing.\n\n🟡 **Generate CARCKHÉtic Prompts (OpenAI)**  \nEach animal is transformed into a cARCKHÉtic, first-person prompt using GPT-4.\n\n🟡 **Create AI Image (Dumpling AI)**  \nEach prompt is sent to Dumpling AI to generate a high-quality AI image.\n\n🟡 **Motion Prompt for Video (OpenAI)**  \nThe image prompt is rewritten into a motion video prompt with natural movements.\n\n🟡 **Generate Motion Video (Leonardo)**  \nLeonardo AI turns each image into a short animated video clip using the motion prompt.\n\n🟡 **Generate Audio Prompt (OpenAI)**  \nGPT-4 generates a vivid sound prompt based on the style.\n\n🟡 **Create Ambient Sound (ElevenLabs)**  \nThe sound prompt is used to generate a 20-second ambient audio file.\n\n🟡 **Upload Audio to Drive**  \nThe generated .mp3 is saved to a Google Drive folder and made shareable.\n\n🟡 **Merge Videos and Audio (Creatomate)**  \nAll videos and audio are stitched into a single cARCKHÉtic video with text overlays.\n\n🟡 **Upload Final Video**  \nThe completed video is uploaded to Google Drive in the “AI generated Videos” folder.\n\n🟡 **Log Output to Sheet**  \nVideo title and share link are logged into Google Sheets for future access.\n"
       },
       "typeVersion": 1
     },
@@ -102,7 +102,7 @@
     },
     {
       "id": "112610e5-d6ef-400a-8e43-1a55e93e269e",
-      "name": "GPT-4: Create Cinematic Prompt",
+      "name": "GPT-4: Create CARCKHÉtic Prompt",
       "type": "@n8n/n8n-nodes-langchain.openAi",
       "position": [
         1860,
@@ -120,7 +120,7 @@
           "values": [
             {
               "role": "system",
-              "content": "=Task:\nYou are an advanced AI that transforms a country name or an animal into a vivid, cinematic prompt meant for image generation only. The visual should depict a powerful, mythical warrior with the head of a symbolic animal, walking slowly and majestically toward the viewer. The scene must reflect the cultural essence of the country or the natural environment of the animal.\n\nRules for Output Generation:\n\nFocus on front-facing, full-body motion in a slow, majestic walk\n\nThe warrior should be muscular, highly detailed, and visually dominant\n\nAdd motion details like cape flow, weapon movement, foot pressure\n\nFor country input: use accurate terrain, architecture, weather, and mood\n\nFor animal input: use the animal’s natural habitat as the setting\n\nBackground must be slightly blurred for cinematic depth\n\nOutput must be in plain text, no JSON\n\nKeep each output below 950 characters\n\nDo not generate video prompts\n\n🔻 Input Format Examples:\nmakefile\nCopy\nEdit\nInput: Morocco, Brazil, Japan, Nigeria  \nInput: Tiger, Eagle, Gorilla, Falcon\n\n🔻 Output Format Example :\nInput: Morocco\nWalking with slow, thunderous steps across an ancient desert courtyard, a lion-headed warrior with golden fur and scarred bronze armor moves toward the viewer. His black cape ripples in the hot wind, dust kicking around his armored sandals. Muscles flex under leather carved with Berber motifs, and a curved blade glints at his hip. Behind him, the blurred kasbah walls glow under orange sunlight, casting long shadows across the tiled ground.\n\n\n"
+              "content": "=Task:\nYou are an advanced AI that transforms a country name or an animal into a vivid, cARCKHÉtic prompt meant for image generation only. The visual should depict a powerful, mythical warrior with the head of a symbolic animal, walking slowly and majestically toward the viewer. The scene must reflect the cultural essence of the country or the natural environment of the animal.\n\nRules for Output Generation:\n\nFocus on front-facing, full-body motion in a slow, majestic walk\n\nThe warrior should be muscular, highly detailed, and visually dominant\n\nAdd motion details like cape flow, weapon movement, foot pressure\n\nFor country input: use accurate terrain, architecture, weather, and mood\n\nFor animal input: use the animal’s natural habitat as the setting\n\nBackground must be slightly blurred for cARCKHÉtic depth\n\nOutput must be in plain text, no JSON\n\nKeep each output below 950 characters\n\nDo not generate video prompts\n\n🔻 Input Format Examples:\nmakefile\nCopy\nEdit\nInput: Morocco, Brazil, Japan, Nigeria  \nInput: Tiger, Eagle, Gorilla, Falcon\n\n🔻 Output Format Example :\nInput: Morocco\nWalking with slow, thunderous steps across an ancient desert courtyard, a lion-headed warrior with golden fur and scarred bronze armor moves toward the viewer. His black cape ripples in the hot wind, dust kicking around his armored sandals. Muscles flex under leather carved with Berber motifs, and a curved blade glints at his hip. Behind him, the blurred kasbah walls glow under orange sunlight, casting long shadows across the tiled ground.\n\n\n"
             },
             {
               "content": "=Country: {{ $json.animals }}\n"
@@ -218,7 +218,7 @@
           "values": [
             {
               "role": "system",
-              "content": "=You are helping me generate a motion video prompt based on a previous image generation prompt.\n\nI will provide the image prompt, and your job is to rewrite it so it can be used to create a motion video using Leonardo.ai.\n\nYour output must follow these rules:\n\nKeep the subject, style, and atmosphere from the original image prompt\n\nAdd natural motion elements (such as camera pan, slow zoom, blinking, fog moving, flickering lights, etc)\n\nWrite in a descriptive cinematic tone\n\nKeep the response short, between 1 to 2 sentences\n\nReturn only the rewritten motion prompt as plain text\n\nEnsure the output includes a line break at the end\n\nExample input:\n\"A black cat sitting on a haunted piano in a dark room, ghostly ambiance, cinematic style\"\n\nExample output:\n\"A black cat blinking slowly as ghostly light flickers across the haunted piano, the camera pans slowly, cinematic mood\""
+              "content": "=You are helping me generate a motion video prompt based on a previous image generation prompt.\n\nI will provide the image prompt, and your job is to rewrite it so it can be used to create a motion video using Leonardo.ai.\n\nYour output must follow these rules:\n\nKeep the subject, style, and atmosphere from the original image prompt\n\nAdd natural motion elements (such as camera pan, slow zoom, blinking, fog moving, flickering lights, etc)\n\nWrite in a descriptive cARCKHÉtic tone\n\nKeep the response short, between 1 to 2 sentences\n\nReturn only the rewritten motion prompt as plain text\n\nEnsure the output includes a line break at the end\n\nExample input:\n\"A black cat sitting on a haunted piano in a dark room, ghostly ambiance, cARCKHÉtic style\"\n\nExample output:\n\"A black cat blinking slowly as ghostly light flickers across the haunted piano, the camera pans slowly, cARCKHÉtic mood\""
             },
             {
               "content": "=Now, generate a motion video prompt from this image prompt:{{ $(' Clean: Remove Line Breaks from Prompt').item.json.prompt }}\n"
@@ -749,7 +749,7 @@
           "error": null,
           "input": {
             "image": "https://pub-1ff5a17124b34b658b5b75065b3a03e8.r2.dev/temp-7121f515-8a7f-4123-a32d-617419dfdb5b.webp",
-            "prompt": "The jackal-headed warrior strides forward through swirling sands, muscles rippling as his obsidian skin gleams, cape and gold sashes billowing in the wind; the camera follows with a slow cinematic pan while heat shimmers over blurred pyramids and ancient obelisks beneath a blazing, dusk-YOUR_OPENAI_KEY_HERE sky."
+            "prompt": "The jackal-headed warrior strides forward through swirling sands, muscles rippling as his obsidian skin gleams, cape and gold sashes billowing in the wind; the camera follows with a slow cARCKHÉtic pan while heat shimmers over blurred pyramids and ancient obelisks beneath a blazing, dusk-YOUR_OPENAI_KEY_HERE sky."
           },
           "model": "wavespeedai/wan-2.1-i2v-480p",
           "output": "https://replicate.delivery/xezq/h44ho8zD7ZpXFl1nEyufIGweq0CDdKrWwMnVep1elEpCqYrTB/output.mp4",
@@ -848,7 +848,7 @@
           "error": null,
           "input": {
             "image": "https://pub-1ff5a17124b34b658b5b75065b3a03e8.r2.dev/temp-7121f515-8a7f-4123-a32d-617419dfdb5b.webp",
-            "prompt": "The jackal-headed warrior strides forward through swirling sands, muscles rippling as his obsidian skin gleams, cape and gold sashes billowing in the wind; the camera follows with a slow cinematic pan while heat shimmers over blurred pyramids and ancient obelisks beneath a blazing, dusk-YOUR_OPENAI_KEY_HERE sky."
+            "prompt": "The jackal-headed warrior strides forward through swirling sands, muscles rippling as his obsidian skin gleams, cape and gold sashes billowing in the wind; the camera follows with a slow cARCKHÉtic pan while heat shimmers over blurred pyramids and ancient obelisks beneath a blazing, dusk-YOUR_OPENAI_KEY_HERE sky."
           },
           "model": "wavespeedai/wan-2.1-i2v-480p",
           "output": null,
@@ -913,7 +913,7 @@
       "main": [
         [
           {
-            "node": "GPT-4: Create Cinematic Prompt",
+            "node": "GPT-4: Create CARCKHÉtic Prompt",
             "type": "main",
             "index": 0
           }
@@ -991,7 +991,7 @@
         ]
       ]
     },
-    "GPT-4: Create Cinematic Prompt": {
+    "GPT-4: Create CARCKHÉtic Prompt": {
       "main": [
         [
           {

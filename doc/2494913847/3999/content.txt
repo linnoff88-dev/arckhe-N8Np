@@ -10,7 +10,7 @@ Midias baixadas: 3
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T05:27:38+00:00
 Texto:
 Aqui está o **resumo e análise do funcionamento da automaçêo de 
@@ -78,7 +78,7 @@ Aqui está o **resumo e análise do funcionamento da automaçêo de
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T05:25:07+00:00
 Texto:
 ===========
@@ -86,7 +86,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T05:25:00+00:00
 Texto:
 **O que isso faz?**  
@@ -111,7 +111,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T05:24:00+00:00
 Texto:
 Nó de Transcrissêo do Youtube foi descontinuado.
@@ -119,7 +119,7 @@ Nó de Transcrissêo do Youtube foi descontinuado.
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T05:23:37+00:00
 Texto:
 mw2
@@ -128,7 +128,7 @@ Midia: MessageMediaDocument -> ⚡AI-Powered YouTube Video Summarization & Analy
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T05:23:18+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_4009_006.jpg
@@ -136,7 +136,7 @@ Midia: MessageMediaPhoto -> photo_4009_006.jpg
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T05:18:04+00:00
 Texto:
 .
@@ -144,7 +144,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T05:18:01+00:00
 Texto:
 mw2 - Resumo e Analise Video Youtube
@@ -152,7 +152,7 @@ mw2 - Resumo e Analise Video Youtube
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T05:17:53+00:00
 Texto:
 .
@@ -160,7 +160,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T05:17:53+00:00
 Texto:
 .
@@ -168,7 +168,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T05:17:52+00:00
 Texto:
 .
@@ -176,7 +176,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T05:17:50+00:00
 Texto:
 .
@@ -184,7 +184,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T05:17:50+00:00
 Texto:
 .
@@ -192,7 +192,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T05:17:49+00:00
 Texto:
 https://chatgpt.com/c/67e4df14-0b90-8009-b31b-964d1580c16e
@@ -201,7 +201,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T05:17:49+00:00
 Texto:
 1
@@ -209,7 +209,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-27T05:17:44+00:00
 Texto: [Sem texto]
 

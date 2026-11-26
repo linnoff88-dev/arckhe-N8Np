@@ -1,7 +1,7 @@
 [
   {
     "id": 7709,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-15T02:18:03+00:00",
     "text": "https://www.youtube.com/watch?v=lrEoRH6aZWw",
     "has_media": true,
@@ -9,7 +9,7 @@
   },
   {
     "id": 7706,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-15T01:52:09+00:00",
     "text": "",
     "has_media": true,
@@ -18,7 +18,7 @@
   },
   {
     "id": 7705,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-05-15T01:52:04+00:00",
     "text": "",
     "has_media": true,
@@ -85,7 +85,7 @@
     "id": 3882,
     "author": "Leandro",
     "date": "2025-03-25T22:49:25+00:00",
-    "text": "Pessoal, boa noite.\n\nEntrei no vip, mas estou extremamente perdido, por onde eu começo a aprender sobre ia aqui no Inema VIP?",
+    "text": "Pessoal, boa noite.\n\nEntrei no vip, mas estou extremamente perdido, por onde eu começo a aprender sobre ia aqui no ARCKHÉ VIP?",
     "has_media": false,
     "media_type": null
   },
@@ -285,7 +285,7 @@
   },
   {
     "id": 2177,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-08T01:47:33+00:00",
     "text": "voce tem chamar uma api para gerar a image, pode usar no fal.ai ou replicate.com",
     "has_media": false,
@@ -293,7 +293,7 @@
   },
   {
     "id": 2169,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-03-08T01:16:49+00:00",
     "text": "usando o fal.ai, replicate.com vc pode gerar qq foitos ou videos de la. mas tambem outras tem api como leonardo.ai e o ideogram ...",
     "has_media": false,
@@ -365,7 +365,7 @@
   },
   {
     "id": 1539,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-02-14T02:58:30+00:00",
     "text": "",
     "has_media": false,
@@ -916,13 +916,13 @@
     "id": 788,
     "author": "Victor",
     "date": "2025-01-25T10:17:44+00:00",
-    "text": "@INEMAtds b dia!, faltou os arquivos",
+    "text": "@linnoff88-dev b dia!, faltou os arquivos",
     "has_media": false,
     "media_type": null
   },
   {
     "id": 769,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-25T01:58:31+00:00",
     "text": "### Criar um Agente de IA no WhatsApp com N8N  \n  \nNesta explicaçêo, você aprenderá a configurar um agente de inteligência artificial que interage diretamente no WhatsApp usando N8N. Este agente é capaz de realizar diversas tarefas, como transcriçêo de áudios, buscas na internet, criaçêo de eventos, gestêo de e-mails, e organizaçêo de tarefas no ClickUp ou Notion. Abaixo está o passo a passo para configurar e usar essa automaçêo.  \n  \n---  \n  \n### Estrutura do Fluxo  \n  \n#### 1. Recepçêo de Mensagens  \n- Trigger: Um disparador no N8N detecta mensagens recebidas no WhatsApp.  \n- Tipos de mensagens processadas:  \n  - Texto.  \n  - Áudio (convertido para texto).  \n  - Documentos.  \n  \n#### 2. Processamento de Mensagens  \n- Áudios: Sêo transcritos automaticamente com OpenAI Whisper.  \n- Textos: Sêo enviados diretamente para análise e execuçêo da próxima etapa.  \n  \n#### 3. Interaçêo com o Agente de IA  \n- O texto processado é enviado para o Agente IA configurado no N8N, que utiliza ferramentas integradas para realizar ações específicas.  \n- Este agente pode buscar informações, criar eventos, organizar notas e gerenciar tarefas de forma automatizada.  \n  \n---  \n  \n### Ferramentas Principais Utilizadas  \n  \n1. Google Search: Realiza buscas na internet em tempo real.  \n2. Calendário: Cria e gerencia eventos automaticamente, identificando variáveis como data, horário e participantes.  \n3. E-mails: Busca mensagens específicas usando palavras-chave, datas ou remetentes.  \n4. Notion: Automatiza a criaçêo e organizaçêo de notas.  \n5. ClickUp: Gerencia tarefas e projetos de forma ágil.  \n6. Pinecone (Base de Dados Vetorial):  \n   - Armazena informações estruturadas para respostas contextuais.  \n   - Responde perguntas baseadas em conhecimento armazenado.  \n  \n---  \n  \n### Detalhes da Configuraçêo  \n  \n#### Agente de Inteligência Artificial  \n- Modelo: OpenAI GPT-4 (Mini), configurado como motor principal para interpretar as interações.  \n- Memória:  \n  - Armazena o contexto das conversas para respostas mais personalizadas.  \n  - Usa um identificador único (como o ID do WhatsApp do usuário).  \n- Ferramentas (Tools):  \n  - Configuradas no N8N para executar tarefas específicas de acordo com o tipo de interaçêo.  \n  \n#### Conexêo com Ferramentas  \n1. Pinecone:  \n   - Armazena e processa grandes volumes de dados vetoriais.  \n   - Fornece respostas rápidas e precisas baseadas em contexto.  \n  \n2. Calendário:  \n   - Detecta automaticamente informações como data, horário e local a partir do texto.  \n   - Automatiza a criaçêo de eventos.  \n  \n3. E-mails:  \n   - Busca e filtra e-mails com base em palavras-chave, datas e remetentes.  \n  \n4. Notion:  \n   - Cria e organiza notas de forma personalizada.  \n  \n5. ClickUp:  \n   - Gerencia tarefas e prazos de maneira integrada.  \n  \n---  \n  \n### Exemplos Práticos  \n  \n#### 1. Buscar Informações e Criar uma Nota no Notion  \n- Exemplo:    \n  *“Busque os melhores restaurantes italianos em Sêo Paulo e crie uma nota no Notion com essas informações.”*  \n  \n#### 2. Buscar E-mails Específicos  \n- Exemplo:    \n  *“Encontre o último e-mail que menciona a palavra ‘fatura’.”*  \n  \n#### 3. Realizar Tarefas Simultâneas  \n- Exemplo:  \n  - Criar um evento no Google Calendar.  \n  - Buscar e-mails relacionados a orçamentos.  \n  - Salvar informações relevantes em uma nota no Notion.  \n  - Criar uma tarefa correspondente no ClickUp.  \n  \n---  \n  \n### Recursos  \n- Agente de IA no N8N: A configuraçêo detalhada está disponível na comunidade N8N.    \n- Gestêo de Tarefas no ClickUp: Um fluxo otimizado para organizar e acompanhar tarefas.",
     "has_media": false,
@@ -930,7 +930,7 @@
   },
   {
     "id": 768,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-25T01:58:27+00:00",
     "text": "=====================",
     "has_media": false,
@@ -938,7 +938,7 @@
   },
   {
     "id": 767,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-25T01:57:18+00:00",
     "text": "### Criar um Agente de IA no WhatsApp com N8N  \n  \nNesta explicaçêo, você aprenderá a configurar um agente de inteligência artificial que interage diretamente no WhatsApp usando N8N. Este agente é capaz de realizar diversas tarefas, como transcriçêo de áudios, buscas na internet, criaçêo de eventos, gestêo de e-mails, e organizaçêo de tarefas no ClickUp ou Notion. Abaixo está o passo a passo para configurar e usar essa automaçêo.  \n  \n---  \n  \n### Estrutura do Fluxo  \n  \n#### 1. Recepçêo de Mensagens  \n- Trigger: Um disparador no N8N detecta mensagens recebidas no WhatsApp.  \n- Tipos de mensagens processadas:  \n  - Texto.  \n  - Áudio (convertido para texto).  \n  - Documentos.  \n  \n#### 2. Processamento de Mensagens  \n- Áudios: Sêo transcritos automaticamente com OpenAI Whisper.  \n- Textos: Sêo enviados diretamente para análise e execuçêo da próxima etapa.  \n  \n#### 3. Interaçêo com o Agente de IA  \n- O texto processado é enviado para o Agente IA configurado no N8N, que utiliza ferramentas integradas para realizar ações específicas.  \n- Este agente pode buscar informações, criar eventos, organizar notas e gerenciar tarefas de forma automatizada.  \n  \n---  \n  \n### Ferramentas Principais Utilizadas  \n  \n1. Google Search: Realiza buscas na internet em tempo real.  \n2. Calendário: Cria e gerencia eventos automaticamente, identificando variáveis como data, horário e participantes.  \n3. E-mails: Busca mensagens específicas usando palavras-chave, datas ou remetentes.  \n4. Notion: Automatiza a criaçêo e organizaçêo de notas.  \n5. ClickUp: Gerencia tarefas e projetos de forma ágil.  \n6. Pinecone (Base de Dados Vetorial):  \n   - Armazena informações estruturadas para respostas contextuais.  \n   - Responde perguntas baseadas em conhecimento armazenado.  \n  \n---  \n  \n### Detalhes da Configuraçêo  \n  \n#### Agente de Inteligência Artificial  \n- Modelo: OpenAI GPT-4 (Mini), configurado como motor principal para interpretar as interações.  \n- Memória:  \n  - Armazena o contexto das conversas para respostas mais personalizadas.  \n  - Usa um identificador único (como o ID do WhatsApp do usuário).  \n- Ferramentas (Tools):  \n  - Configuradas no N8N para executar tarefas específicas de acordo com o tipo de interaçêo.  \n  \n#### Conexêo com Ferramentas  \n1. Pinecone:  \n   - Armazena e processa grandes volumes de dados vetoriais.  \n   - Fornece respostas rápidas e precisas baseadas em contexto.  \n  \n2. Calendário:  \n   - Detecta automaticamente informações como data, horário e local a partir do texto.  \n   - Automatiza a criaçêo de eventos.  \n  \n3. E-mails:  \n   - Busca e filtra e-mails com base em palavras-chave, datas e remetentes.  \n  \n4. Notion:  \n   - Cria e organiza notas de forma personalizada.  \n  \n5. ClickUp:  \n   - Gerencia tarefas e prazos de maneira integrada.  \n  \n---  \n  \n### Exemplos Práticos  \n  \n#### 1. Buscar Informações e Criar uma Nota no Notion  \n- Exemplo:    \n  *“Busque os melhores restaurantes italianos em Sêo Paulo e crie uma nota no Notion com essas informações.”*  \n  \n#### 2. Buscar E-mails Específicos  \n- Exemplo:    \n  *“Encontre o último e-mail que menciona a palavra ‘fatura’.”*  \n  \n#### 3. Realizar Tarefas Simultâneas  \n- Exemplo:  \n  - Criar um evento no Google Calendar.  \n  - Buscar e-mails relacionados a orçamentos.  \n  - Salvar informações relevantes em uma nota no Notion.  \n  - Criar uma tarefa correspondente no ClickUp.  \n  \n---  \n  \n### Recursos  \n- Agente de IA no N8N: A configuraçêo detalhada está disponível na comunidade N8N.    \n- Gestêo de Tarefas no ClickUp: Um fluxo otimizado para organizar e acompanhar tarefas.",
     "has_media": false,
@@ -946,7 +946,7 @@
   },
   {
     "id": 766,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-25T01:57:14+00:00",
     "text": "=========================",
     "has_media": false,
@@ -954,7 +954,7 @@
   },
   {
     "id": 764,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-25T01:56:54+00:00",
     "text": "Resumo do Agente de IA para WhatsApp com N8N \n  \nEssa automaçêo é uma revoluçêo para a produtividade no WhatsApp, integrando inteligência artificial e diversas ferramentas para facilitar tarefas do dia a dia. Aqui estêo as principais funcionalidades:  \n  \n1. Detecçêo Automática do Tipo de Mensagem  \n   - Identifica se o conteúdo recebido é texto, áudio ou documento e processa automaticamente.  \n   - Exemplo: Transcreve um áudio assim que é recebido.  \n  \n2. Transcriçêo de Áudios para Texto  \n   - Converte mensagens de voz em texto para leitura ou análise posterior.  \n   - Exemplo: *\"Recebi um áudio longo, transcreva para eu revisar rapidamente.\"*  \n  \n3. Organizaçêo de Tarefas e Eventos  \n   - Integra com ClickUp para criar tarefas e com Google Calendar para agendar compromissos automaticamente.  \n   - Exemplo: *\"Adicione uma tarefa no ClickUp chamada 'Revisar orçamento' para amanhê.\"*  \n  \n4. Busca de Informações em Tempo Real  \n   - Faz pesquisas na internet e retorna respostas atualizadas, incluindo recomendações locais.  \n   - Exemplo: *\"Encontre um restaurante japonês próximo a mim.\"* ou *\"Quais sêo as últimas tendências em inteligência artificial?\"*  \n  \n5. Respostas Automáticas a E-mails  \n   - Responde e-mails com base em suas instruções e personalizações.  \n   - Exemplo: *\"Responda ao e-mail confirmando o envio do contrato.\"*  \n  \n6. Memória Integrada  \n   - Lembra contextos e interações anteriores, permitindo um atendimento mais eficiente e personalizado.  \n   - Exemplo: *\"Você sugeriu um restaurante próximo antes, agora quero algo similar, mas com entrega.\"*  \n  \n### Aplicações:  \n- Gestêo Pessoal: Economize tempo organizando sua agenda e automatizando tarefas.  \n- Atendimento ao Cliente: Automatize respostas para melhorar a eficiência.  \n- Trabalho em Equipe: Sincronize tarefas e comunicações com o time de forma prática.  \n  \n---  \nDescriçêo Direta da Automaçêo \n  \nEssa automaçêo criada com N8N é uma soluçêo completa para gerenciar suas interações no WhatsApp e conectá-las a outras ferramentas essenciais do seu dia a dia. Veja o que ela faz:  \n  \n1. Detecta automaticamente se você recebeu um texto, áudio ou documento.    \n2. Transcreve áudios para texto de forma rápida e precisa.    \n3. Cria tarefas no ClickUp e eventos no Google Calendar com base em suas instruções.    \n4. Busca informações na internet em tempo real, como as melhores recomendações locais.    \n5. Responde e-mails automaticamente, seguindo critérios específicos.    \n6. Lembra contextos anteriores para interações mais inteligentes e personalizadas.    \n  \n### Exemplos de Uso:  \n- Recebeu um áudio longo no WhatsApp? Ele será automaticamente transcrito para você.    \n- Precisa de um restaurante próximo? Basta pedir, e o agente faz a pesquisa por você.    \n- Quer criar uma tarefa ou agendar um compromisso? Diga o que precisa e o agente cuida disso.    \n- Nêo tem tempo para responder e-mails? Ele pode enviar respostas automáticas personalizadas.    \n  \nEssa ferramenta é ideal para quem busca automatizar processos e aumentar a eficiência em tarefas diárias. Quer saber como configurar?",
     "has_media": false,
@@ -962,7 +962,7 @@
   },
   {
     "id": 763,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-25T01:54:58+00:00",
     "text": "e1",
     "has_media": true,
@@ -971,7 +971,7 @@
   },
   {
     "id": 762,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-25T01:54:58+00:00",
     "text": "",
     "has_media": true,
@@ -980,7 +980,7 @@
   },
   {
     "id": 761,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-25T01:54:30+00:00",
     "text": "",
     "has_media": true,
@@ -989,7 +989,7 @@
   },
   {
     "id": 760,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-25T01:54:30+00:00",
     "text": "",
     "has_media": true,
@@ -998,7 +998,7 @@
   },
   {
     "id": 756,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-25T01:49:14+00:00",
     "text": "==================",
     "has_media": false,
@@ -1006,7 +1006,7 @@
   },
   {
     "id": 754,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-25T01:46:34+00:00",
     "text": "9",
     "has_media": false,
@@ -1014,7 +1014,7 @@
   },
   {
     "id": 753,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-25T01:46:34+00:00",
     "text": "",
     "has_media": true,
@@ -1023,7 +1023,7 @@
   },
   {
     "id": 752,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-25T01:46:34+00:00",
     "text": "e1n8n - Agente IA WhatsApp N8N",
     "has_media": false,
@@ -1031,7 +1031,7 @@
   },
   {
     "id": 751,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-25T01:46:33+00:00",
     "text": "6",
     "has_media": false,
@@ -1039,7 +1039,7 @@
   },
   {
     "id": 750,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-25T01:46:33+00:00",
     "text": "5",
     "has_media": false,
@@ -1047,7 +1047,7 @@
   },
   {
     "id": 749,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-25T01:46:32+00:00",
     "text": "4",
     "has_media": false,
@@ -1055,7 +1055,7 @@
   },
   {
     "id": 748,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-25T01:46:32+00:00",
     "text": "3",
     "has_media": false,
@@ -1063,7 +1063,7 @@
   },
   {
     "id": 747,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-25T01:46:31+00:00",
     "text": "https://chatgpt.com/c/679440b4-b96c-8009-8ecc-857b8d80b1e2",
     "has_media": true,
@@ -1071,7 +1071,7 @@
   },
   {
     "id": 746,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-25T01:46:30+00:00",
     "text": "1",
     "has_media": false,
@@ -1079,7 +1079,7 @@
   },
   {
     "id": 745,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-01-25T01:46:17+00:00",
     "text": "",
     "has_media": false,

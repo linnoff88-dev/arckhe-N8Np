@@ -10,7 +10,7 @@ Midias baixadas: 23
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T20:05:24+00:00
 Texto:
 dublado
@@ -18,7 +18,7 @@ dublado
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T20:05:17+00:00
 Texto:
 https://www.youtube.com/watch?v=jBanaNBY-sM
@@ -27,7 +27,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T20:02:52+00:00
 Texto:
 Aqui estêo os hacks mais úteis para otimizar e deixar o “Ultimate Media Agent” no n8n mais rápido, barato e seguro.
@@ -110,7 +110,7 @@ Aqui estêo os hacks mais úteis para otimizar e deixar o “Ultimate Media Agen
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T20:02:12+00:00
 Texto:
 =====================
@@ -118,7 +118,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T20:02:07+00:00
 Texto:
 ilha de log para ver sequência de ferramentas e inputs; identifique gargalos.
@@ -156,7 +156,7 @@ Quer que eu gere um checklist de implementaçêo em JSON (campos e valores) para
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T20:02:07+00:00
 Texto:
 L.ai V3 Fast (imagem→vídeo).
@@ -255,7 +255,7 @@ Exemplo de comando do usuário: “Ache 2 vídeos de alta performance sobre NAND
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T20:02:07+00:00
 Texto:
 FA
@@ -263,7 +263,7 @@ FA
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T20:02:07+00:00
 Texto:
 Passo a passo para montar o “Ultimate Media Agent” no n8n
@@ -357,7 +357,7 @@ Passos:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T20:00:52+00:00
 Texto:
 ================
@@ -365,7 +365,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T20:00:46+00:00
 Texto:
 Resumo :
@@ -388,7 +388,7 @@ Principais pontos:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T19:59:01+00:00
 Texto:
 ====================
@@ -396,7 +396,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T19:58:57+00:00
 Texto:
 Construir o Exército Definitivo de Agentes de Mídia no n8n
@@ -414,7 +414,7 @@ Modelo de planilha no Google Sheets
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T19:55:46+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Cópia de Media Agent Logs.xlsx
@@ -422,7 +422,7 @@ Midia: MessageMediaDocument -> Cópia de Media Agent Logs.xlsx
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T19:54:51+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Cópia de Ultimate Media Agent.docx
@@ -430,7 +430,7 @@ Midia: MessageMediaDocument -> Cópia de Ultimate Media Agent.docx
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T19:52:02+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12885_015.jpg
@@ -438,7 +438,7 @@ Midia: MessageMediaPhoto -> photo_12885_015.jpg
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T19:50:35+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12884_016.jpg
@@ -446,7 +446,7 @@ Midia: MessageMediaPhoto -> photo_12884_016.jpg
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T19:49:23+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12883_017.jpg
@@ -454,7 +454,7 @@ Midia: MessageMediaPhoto -> photo_12883_017.jpg
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T19:48:18+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12882_018.jpg
@@ -462,7 +462,7 @@ Midia: MessageMediaPhoto -> photo_12882_018.jpg
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T19:47:04+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12881_019.jpg
@@ -470,7 +470,7 @@ Midia: MessageMediaPhoto -> photo_12881_019.jpg
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T19:45:56+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12880_020.jpg
@@ -478,7 +478,7 @@ Midia: MessageMediaPhoto -> photo_12880_020.jpg
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T19:45:00+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12879_021.jpg
@@ -486,7 +486,7 @@ Midia: MessageMediaPhoto -> photo_12879_021.jpg
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T19:44:25+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12878_022.jpg
@@ -494,7 +494,7 @@ Midia: MessageMediaPhoto -> photo_12878_022.jpg
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T19:42:39+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> X Post.json
@@ -502,7 +502,7 @@ Midia: MessageMediaDocument -> X Post.json
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T19:42:39+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Ultimate Media Agent.json
@@ -510,7 +510,7 @@ Midia: MessageMediaDocument -> Ultimate Media Agent.json
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T19:42:39+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> TikTok Post Tool.json
@@ -518,7 +518,7 @@ Midia: MessageMediaDocument -> TikTok Post Tool.json
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T19:42:39+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Instagram Post.json
@@ -526,7 +526,7 @@ Midia: MessageMediaDocument -> Instagram Post.json
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T19:42:39+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Image to Video Tool.json
@@ -534,7 +534,7 @@ Midia: MessageMediaDocument -> Image to Video Tool.json
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T19:42:39+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Edit Image Tool.json
@@ -542,7 +542,7 @@ Midia: MessageMediaDocument -> Edit Image Tool.json
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T19:42:39+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Create Video Tool.json
@@ -550,7 +550,7 @@ Midia: MessageMediaDocument -> Create Video Tool.json
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T19:42:39+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Create Image Tool.json
@@ -558,7 +558,7 @@ Midia: MessageMediaDocument -> Create Image Tool.json
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T19:42:39+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Create Doc Tool.json
@@ -566,7 +566,7 @@ Midia: MessageMediaDocument -> Create Doc Tool.json
 ------------------------------
 
 MENSAGEM 32
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T19:42:22+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12868_032.jpg
@@ -574,7 +574,7 @@ Midia: MessageMediaPhoto -> photo_12868_032.jpg
 ------------------------------
 
 MENSAGEM 33
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T19:40:14+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Ultimate Media Agent Army.zip
@@ -582,7 +582,7 @@ Midia: MessageMediaDocument -> Ultimate Media Agent Army.zip
 ------------------------------
 
 MENSAGEM 34
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T19:39:53+00:00
 Texto:
 ap55 - Exército Definitivo de Agentes de Mídia
@@ -590,7 +590,7 @@ ap55 - Exército Definitivo de Agentes de Mídia
 ------------------------------
 
 MENSAGEM 35
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T19:39:46+00:00
 Texto:
 .
@@ -598,7 +598,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 36
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T19:39:45+00:00
 Texto:
 .
@@ -606,7 +606,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 37
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T19:39:43+00:00
 Texto:
 .
@@ -614,7 +614,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 38
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T19:39:42+00:00
 Texto:
 .
@@ -622,7 +622,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 39
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T19:39:41+00:00
 Texto:
 https://chatgpt.com/c/689f8c95-d0b0-832d-b38c-71fa4de10a39
@@ -631,7 +631,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 40
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T19:39:39+00:00
 Texto:
 1
@@ -639,7 +639,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 41
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-15T19:39:34+00:00
 Texto: [Sem texto]
 

@@ -10,7 +10,7 @@ Midias baixadas: 6
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T03:56:52+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12379_001.jpg
@@ -18,7 +18,7 @@ Midia: MessageMediaPhoto -> photo_12379_001.jpg
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T03:56:32+00:00
 Texto:
 Aqui está a **avaliaçêo de desempenho** feita no vídeo para cada teste com **GPT-5, GPT-4o e GPT-5 Mini** no **n8n**, incluindo **precisêo, tempo, custo, tokens e observações** de usabilidade.
@@ -84,7 +84,7 @@ Ver imagem da tabela anexa
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T03:55:59+00:00
 Texto:
 ==========
@@ -92,7 +92,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T03:55:42+00:00
 Texto:
 ---
@@ -195,7 +195,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T03:55:04+00:00
 Texto:
 https://www.youtube.com/watch?v=gGCwSIlIRlY
@@ -204,7 +204,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T03:53:35+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12374_006.jpg
@@ -212,7 +212,7 @@ Midia: MessageMediaPhoto -> photo_12374_006.jpg
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T03:45:35+00:00
 Texto:
 Construa Qualquer Coisa com GPT-5 e Agentes de IA no n8n
@@ -337,7 +337,7 @@ Apresenta o **lançamento do GPT-5**, analisa benchmarks que comprovam sua super
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T03:40:21+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12371_008.jpg
@@ -345,7 +345,7 @@ Midia: MessageMediaPhoto -> photo_12371_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T03:40:13+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12370_009.jpg
@@ -353,7 +353,7 @@ Midia: MessageMediaPhoto -> photo_12370_009.jpg
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T03:39:56+00:00
 Texto:
 GPT5 no N8N
@@ -361,7 +361,7 @@ GPT5 no N8N
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T03:39:47+00:00
 Texto:
 .
@@ -369,7 +369,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T03:39:45+00:00
 Texto:
 ..
@@ -377,7 +377,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T03:39:44+00:00
 Texto:
 .
@@ -385,7 +385,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T03:39:43+00:00
 Texto:
 .
@@ -393,7 +393,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T03:39:41+00:00
 Texto:
 .
@@ -401,7 +401,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T03:39:38+00:00
 Texto:
 1
@@ -409,7 +409,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-08T03:39:32+00:00
 Texto: [Sem texto]
 

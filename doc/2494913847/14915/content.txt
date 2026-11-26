@@ -10,7 +10,7 @@ Midias baixadas: 2
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T07:01:46+00:00
 Texto:
 Anúncios do Google diretamente pelo Wixyn
@@ -45,7 +45,7 @@ Você pode aplicar isso se for uma agência, SaaS, consultor, médico estético�
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T07:00:58+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14924_002.jpg
@@ -53,7 +53,7 @@ Midia: MessageMediaPhoto -> photo_14924_002.jpg
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T07:00:34+00:00
 Texto:
 e26w - Anúncios do Google diretamente
@@ -61,7 +61,7 @@ e26w - Anúncios do Google diretamente
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T07:00:22+00:00
 Texto:
 .
@@ -69,7 +69,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T07:00:22+00:00
 Texto:
 .
@@ -77,7 +77,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T07:00:22+00:00
 Texto:
 .
@@ -85,7 +85,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T07:00:21+00:00
 Texto:
 .
@@ -93,7 +93,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T07:00:21+00:00
 Texto:
 .
@@ -101,7 +101,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T07:00:21+00:00
 Texto:
 https://chatgpt.com/c/68e60b5f-d940-8327-afbc-cfbbcf9f3b60
@@ -110,7 +110,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T07:00:20+00:00
 Texto:
 1
@@ -118,7 +118,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-10-08T07:00:11+00:00
 Texto: [Sem texto]
 

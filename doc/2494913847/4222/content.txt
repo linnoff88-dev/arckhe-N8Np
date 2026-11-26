@@ -26,7 +26,7 @@ Boa tarde. Nêo estou localizando
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-03T10:33:23+00:00
 Texto:
 zip
@@ -34,7 +34,7 @@ zip
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-29T08:14:08+00:00
 Texto:
 **Título: Criei um agente no n8n que cria outros agentes automaticamente**
@@ -110,7 +110,7 @@ Um fluxo automatizado no n8n onde, com **apenas um prompt simples**, o sistema:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-29T08:12:47+00:00
 Texto:
 https://www.youtube.com/watch?v=mQ-2lcl3svc
@@ -119,7 +119,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-29T08:11:11+00:00
 Texto:
 **Fluxo de trabalho 🤖 de agente para agente do n8n**
@@ -164,7 +164,7 @@ Com esse pacote, você pode criar e implantar agentes de IA totalmente funcionai
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-29T08:10:12+00:00
 Texto:
 mrg10 - collab
@@ -173,7 +173,7 @@ Midia: MessageMediaDocument -> n8n_Chunking_(Public).ipynb
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-29T08:09:25+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> N8N_Agent_creator.json
@@ -181,7 +181,7 @@ Midia: MessageMediaDocument -> N8N_Agent_creator.json
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-29T08:09:25+00:00
 Texto:
 mrg10
@@ -190,7 +190,7 @@ Midia: MessageMediaDocument -> N8N_Agent_Creator__Sub_Flow_ (3).json
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-29T08:08:41+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_4232_010.jpg
@@ -198,7 +198,7 @@ Midia: MessageMediaPhoto -> photo_4232_010.jpg
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-29T08:07:17+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_4231_011.jpg
@@ -206,7 +206,7 @@ Midia: MessageMediaPhoto -> photo_4231_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-29T08:06:29+00:00
 Texto:
 mrg10 - **Fluxo de trabalho de agente para agente do n8n**
@@ -214,7 +214,7 @@ mrg10 - **Fluxo de trabalho de agente para agente do n8n**
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-29T08:06:27+00:00
 Texto:
 ..
@@ -222,7 +222,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-29T08:06:26+00:00
 Texto:
 .
@@ -230,7 +230,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-29T08:06:26+00:00
 Texto:
 .
@@ -238,7 +238,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-29T08:06:26+00:00
 Texto:
 .
@@ -246,7 +246,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-29T08:06:25+00:00
 Texto:
 .
@@ -254,7 +254,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-29T08:06:25+00:00
 Texto:
 https://chatgpt.com/c/67e7a934-2018-8009-9146-e94ee0da889c
@@ -263,7 +263,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-29T08:06:24+00:00
 Texto:
 1
@@ -271,7 +271,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-29T08:06:18+00:00
 Texto: [Sem texto]
 

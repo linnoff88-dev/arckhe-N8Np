@@ -18,7 +18,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T01:30:40+00:00
 Texto:
 https://www.youtube.com/watch?v=l7DLolM049k
@@ -27,7 +27,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T01:30:22+00:00
 Texto:
 1. Introduçêo ao vídeo
@@ -72,7 +72,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T01:30:12+00:00
 Texto:
 =============
@@ -80,7 +80,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T01:29:57+00:00
 Texto:
 Objetivo do vídeo
@@ -140,7 +140,7 @@ Principais dicas do criador
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T01:19:46+00:00
 Texto:
 **j88) Substitua sua equipe de marketing de R\$ 50.000**
@@ -148,7 +148,7 @@ Texto:
 
 ### Ferramentas 🧰
 
-🔥 Loveable: [https://lovable.dev/?via=](https://lovable.dev/?via=inematds)inematds
+🔥 Loveable: [https://lovable.dev/?via=](https://lovable.dev/?via=linnoff88-dev)linnoff88-dev
 🧠 n8n: [https://n8n.io](https://n8n.io/)
 📊 Airtable: [https://airtable.com/invite/r/OCq1Acz2](https://airtable.com/invite/r/OCq1Acz2) 
 💥 Tavily: [https://tavily.com](https://tavily.com/)
@@ -158,7 +158,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T01:18:14+00:00
 Texto:
 Transforme ideias em POSTS COMPLETOS com imagens incríveis
@@ -190,7 +190,7 @@ Esta semana vou te mostrar como combinar o Loveable com o ChatGPT para criar pos
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T01:17:00+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> ___replace_your__10_000_Marketing_Team__Loveable_ (3).json
@@ -198,7 +198,7 @@ Midia: MessageMediaDocument -> ___replace_your__10_000_Marketing_Team__Loveable_
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T01:17:00+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> ___replace_your__10_000_Marketing_Team__Loveable_ (4).json
@@ -206,7 +206,7 @@ Midia: MessageMediaDocument -> ___replace_your__10_000_Marketing_Team__Loveable_
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T01:16:44+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7238_010.jpg
@@ -214,7 +214,7 @@ Midia: MessageMediaPhoto -> photo_7238_010.jpg
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T01:14:28+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7237_011.jpg
@@ -222,7 +222,7 @@ Midia: MessageMediaPhoto -> photo_7237_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T01:14:23+00:00
 Texto:
 j88 - Equipe de Marketing - Lovable
@@ -230,7 +230,7 @@ j88 - Equipe de Marketing - Lovable
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T01:14:01+00:00
 Texto:
 ..
@@ -238,7 +238,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T01:14:01+00:00
 Texto:
 .
@@ -246,7 +246,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T01:14:00+00:00
 Texto:
 .
@@ -254,7 +254,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T01:14:00+00:00
 Texto:
 .
@@ -262,7 +262,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T01:14:00+00:00
 Texto:
 https://chatgpt.com/c/681939d6-a9d8-8009-9d39-97a221eb777c?model=o4-mini-high
@@ -271,7 +271,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T01:13:59+00:00
 Texto:
 1
@@ -279,7 +279,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-06T01:13:48+00:00
 Texto: [Sem texto]
 

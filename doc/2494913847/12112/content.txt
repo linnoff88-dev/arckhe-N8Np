@@ -10,7 +10,7 @@ Midias baixadas: 4
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-01T00:19:09+00:00
 Texto:
 dublado
@@ -18,7 +18,7 @@ dublado
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-31T23:42:02+00:00
 Texto:
 https://www.youtube.com/watch?v=qJRFu88HUio
@@ -27,7 +27,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-31T23:41:29+00:00
 Texto:
 ## 🔥 **HACKS ESSENCIAIS**
@@ -121,7 +121,7 @@ Permite medir desempenho e ajustar os pontos fracos com base em dados reais.
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-31T23:40:52+00:00
 Texto:
 ===============
@@ -129,7 +129,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-31T23:40:50+00:00
 Texto:
 Abaixo está o **passo a passo completo** para transformar um **agente de IA em um assistente de voz com n8n e ElevenLabs**, conforme mostrado no vídeo.
@@ -227,7 +227,7 @@ Abaixo está o **passo a passo completo** para transformar um **agente de IA em 
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-31T23:39:56+00:00
 Texto:
 ============
@@ -235,7 +235,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-31T23:39:54+00:00
 Texto:
 **Resumo do vídeo "Transforme seu agente de IA em um assistente de voz em minutos (n8n e ElevenLabs)"**
@@ -303,7 +303,7 @@ O vídeo ensina de forma prática como adicionar voz aos agentes de IA usando n8
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-31T23:38:05+00:00
 Texto:
 ============
@@ -311,7 +311,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-31T23:38:02+00:00
 Texto:
 Transforme seu Agente de IA em um Assistente de Voz em Minutos (n8n & ElevenLabs)
@@ -325,7 +325,7 @@ Aqui todo o processo passo a passo para que você possa acompanhar e colocar seu
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-31T23:37:25+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Voice Workflows.json
@@ -333,7 +333,7 @@ Midia: MessageMediaDocument -> Voice Workflows.json
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-31T23:37:18+00:00
 Texto:
 tem instalar os nodes do Elevenlabs
@@ -341,7 +341,7 @@ tem instalar os nodes do Elevenlabs
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-31T23:37:03+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12120_012.jpg
@@ -349,7 +349,7 @@ Midia: MessageMediaPhoto -> photo_12120_012.jpg
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-31T23:34:36+00:00
 Texto:
 ap51 - Agente de Voz
@@ -357,7 +357,7 @@ ap51 - Agente de Voz
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-31T23:34:34+00:00
 Texto:
 ..
@@ -365,7 +365,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-31T23:34:34+00:00
 Texto:
 .
@@ -373,7 +373,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-31T23:34:33+00:00
 Texto:
 .
@@ -381,7 +381,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-31T23:34:33+00:00
 Texto:
 .
@@ -389,7 +389,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-31T23:34:33+00:00
 Texto:
 https://chatgpt.com/c/688bfcc7-c71c-832c-9253-8d74cf3accec
@@ -398,7 +398,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-31T23:34:32+00:00
 Texto:
 1
@@ -406,7 +406,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-31T23:34:27+00:00
 Texto: [Sem texto]
 

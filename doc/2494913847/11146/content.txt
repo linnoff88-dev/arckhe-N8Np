@@ -18,7 +18,7 @@ Muito bom
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T23:19:01+00:00
 Texto:
 dublado
@@ -26,7 +26,7 @@ dublado
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T23:18:53+00:00
 Texto:
 https://www.youtube.com/watch?v=qNW9KaLe1nY
@@ -35,7 +35,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T22:59:40+00:00
 Texto:
 ============
@@ -43,7 +43,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T22:59:37+00:00
 Texto:
 Resumo do vídeo **“Only 1% of n8n Builders Use This Trick (7x faster)”**:
@@ -73,7 +73,7 @@ Resumo do vídeo **“Only 1% of n8n Builders Use This Trick (7x faster)”**:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T22:59:32+00:00
 Texto:
 =============
@@ -81,7 +81,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T22:59:28+00:00
 Texto:
 Apenas 1% dos criadores no n8n usam esse truque (7x mais rápido)
@@ -93,7 +93,7 @@ Por que os subfluxos sêo úteis além da velocidade: eles tornam seus fluxos de
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T22:59:20+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Parallelization (1).json
@@ -101,7 +101,7 @@ Midia: MessageMediaDocument -> Parallelization (1).json
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T22:58:13+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11160_009.jpg
@@ -109,7 +109,7 @@ Midia: MessageMediaPhoto -> photo_11160_009.jpg
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T22:36:03+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> n8n Subworkflows & Parallelization.pdf
@@ -117,7 +117,7 @@ Midia: MessageMediaDocument -> n8n Subworkflows & Parallelization.pdf
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T22:35:57+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11154_011.jpg
@@ -125,7 +125,7 @@ Midia: MessageMediaPhoto -> photo_11154_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T22:35:46+00:00
 Texto:
 ap42 - Paralelizaçêo e SubFlow
@@ -133,7 +133,7 @@ ap42 - Paralelizaçêo e SubFlow
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T22:35:45+00:00
 Texto:
 .
@@ -141,7 +141,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T22:35:44+00:00
 Texto:
 .
@@ -149,7 +149,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T22:35:44+00:00
 Texto:
 .
@@ -157,7 +157,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T22:35:44+00:00
 Texto:
 .
@@ -165,7 +165,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T22:35:43+00:00
 Texto:
 https://chatgpt.com/c/686eec8e-1a68-8009-baf5-d469e62bfa75
@@ -174,7 +174,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T22:35:43+00:00
 Texto:
 1
@@ -182,7 +182,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T22:35:36+00:00
 Texto: [Sem texto]
 

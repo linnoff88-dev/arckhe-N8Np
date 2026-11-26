@@ -10,7 +10,7 @@ Midias baixadas: 3
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T01:08:12+00:00
 Texto:
 https://console.mistral.ai/api-keys
@@ -18,7 +18,7 @@ https://console.mistral.ai/api-keys
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T01:07:47+00:00
 Texto:
 Authorization
@@ -27,7 +27,7 @@ Bearer SUA_CHAVE_GROQ"
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T01:06:17+00:00
 Texto:
 **Extraçêo de Documentos com OCR da Mistral 📚**  
@@ -39,7 +39,7 @@ Como configurar um sistema que automatiza esse processo para um gerenciamento de
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T01:05:09+00:00
 Texto:
 ap9
@@ -48,7 +48,7 @@ Midia: MessageMediaDocument -> Commercial-Invoice-Template-TemplateLab.com_.pdf
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T01:04:58+00:00
 Texto:
 ap9
@@ -57,7 +57,7 @@ Midia: MessageMediaDocument -> Mistral_OCR_Demo.json
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T01:04:42+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_3771_006.jpg
@@ -65,7 +65,7 @@ Midia: MessageMediaPhoto -> photo_3771_006.jpg
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T01:03:27+00:00
 Texto:
 ap9 - OCR com Mistral
@@ -73,7 +73,7 @@ ap9 - OCR com Mistral
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T01:03:25+00:00
 Texto:
 ..
@@ -81,7 +81,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T01:03:25+00:00
 Texto:
 .
@@ -89,7 +89,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T01:03:24+00:00
 Texto:
 ..
@@ -97,7 +97,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T01:03:24+00:00
 Texto:
 .
@@ -105,7 +105,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T01:03:24+00:00
 Texto:
 ..
@@ -113,7 +113,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T01:03:24+00:00
 Texto:
 .
@@ -121,7 +121,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T01:03:24+00:00
 Texto:
 .
@@ -129,7 +129,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T01:03:23+00:00
 Texto:
 1
@@ -137,7 +137,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-25T01:03:18+00:00
 Texto: [Sem texto]
 

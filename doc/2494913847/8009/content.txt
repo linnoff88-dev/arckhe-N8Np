@@ -10,7 +10,7 @@ Midias baixadas: 4
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T17:50:43+00:00
 Texto:
 https://www.youtube.com/watch?v=llm60n03x3c
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T17:49:20+00:00
 Texto:
 A seguir, um resumo completo do vídeo "How to Automate Your AI Clone with No Code (HeyGen + n8n Full Guide)" com tópicos e exemplos:
@@ -72,7 +72,7 @@ Este resumo abrange os principais passos e exemplos demonstrados no tutorial: de
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T17:49:11+00:00
 Texto:
 .
@@ -80,7 +80,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T17:49:11+00:00
 Texto:
 .
@@ -88,7 +88,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T17:49:11+00:00
 Texto:
 .
@@ -96,7 +96,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T17:49:10+00:00
 Texto:
 **Resumo do vídeo "How to Automate Your AI Clone with No Code (HeyGen + n8n Full Guide)"**
@@ -170,7 +170,7 @@ Automatizar a criaçêo de vídeos com avatar e voz clonados usando **HeyGen** e
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T17:49:08+00:00
 Texto:
 1
@@ -178,7 +178,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T17:46:45+00:00
 Texto:
 **Como automatizar seu clone de IA sem código
@@ -195,7 +195,7 @@ Ao final, você terá um avatar de IA no qual poderá inserir scripts para multi
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T17:45:57+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> HeyGen_Avatar.json
@@ -203,7 +203,7 @@ Midia: MessageMediaDocument -> HeyGen_Avatar.json
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T17:44:09+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_8018_010.jpg
@@ -211,7 +211,7 @@ Midia: MessageMediaPhoto -> photo_8018_010.jpg
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T17:44:05+00:00
 Texto:
 .
@@ -219,7 +219,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T17:44:05+00:00
 Texto:
 ap27 - Avatares Heygen
@@ -227,7 +227,7 @@ ap27 - Avatares Heygen
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T17:44:05+00:00
 Texto:
 .
@@ -235,7 +235,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T17:44:04+00:00
 Texto:
 .
@@ -243,7 +243,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T17:44:04+00:00
 Texto:
 .
@@ -251,7 +251,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T17:44:04+00:00
 Texto:
 .
@@ -259,7 +259,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T17:44:04+00:00
 Texto:
 https://chatgpt.com/c/682cc03b-8dd0-8009-9682-84e0e26af2e6
@@ -268,7 +268,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T17:44:03+00:00
 Texto:
 1
@@ -276,7 +276,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T17:43:59+00:00
 Texto: [Sem texto]
 

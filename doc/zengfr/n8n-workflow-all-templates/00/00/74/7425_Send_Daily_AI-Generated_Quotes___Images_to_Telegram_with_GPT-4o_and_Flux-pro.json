@@ -110,7 +110,7 @@
             },
             {
               "name": "prompt",
-              "value": "={{ \"Create a cinematic, aesthetically pleasing illustration that captures the spirit of this quote. No text in the image. Emphasize mood, lighting, composition. Quote: \" + $('✍️ Generate Quote (AI/ML API)1').item.json.content }}"
+              "value": "={{ \"Create a cARCKHÉtic, aesthetically pleasing illustration that captures the spirit of this quote. No text in the image. Emphasize mood, lighting, composition. Quote: \" + $('✍️ Generate Quote (AI/ML API)1').item.json.content }}"
             },
             {
               "name": "n",
@@ -189,7 +189,7 @@
         "color": 6,
         "width": 300,
         "height": 428,
-        "content": "## 3️⃣ Create Image\n### The generated quote is turned into an AI image via AI/ML API (flux-pro) with cinematic and aesthetic composition."
+        "content": "## 3️⃣ Create Image\n### The generated quote is turned into an AI image via AI/ML API (flux-pro) with cARCKHÉtic and aesthetic composition."
       },
       "typeVersion": 1
     },
@@ -285,7 +285,7 @@
         "color": 6,
         "width": 460,
         "height": 296,
-        "content": "## 3️⃣ Create Image (AI/ML API — flux-pro)\n- Sends the generated quote as a prompt to `flux-pro` model.\n- Produces a cinematic, aesthetically pleasing illustration:\n  * No text in image\n  * Focus on mood, lighting, composition\n- Default parameters:\n  * Size: 1024×1024\n  * n: 1 (one image)\n- Configurable in the HTTP Request node for different styles, sizes, or counts."
+        "content": "## 3️⃣ Create Image (AI/ML API — flux-pro)\n- Sends the generated quote as a prompt to `flux-pro` model.\n- Produces a cARCKHÉtic, aesthetically pleasing illustration:\n  * No text in image\n  * Focus on mood, lighting, composition\n- Default parameters:\n  * Size: 1024×1024\n  * n: 1 (one image)\n- Configurable in the HTTP Request node for different styles, sizes, or counts."
       },
       "typeVersion": 1
     },

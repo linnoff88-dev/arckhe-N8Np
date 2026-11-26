@@ -10,7 +10,7 @@ Midias baixadas: 6
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-23T18:41:37+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_8170_001.jpg
@@ -18,7 +18,7 @@ Midia: MessageMediaPhoto -> photo_8170_001.jpg
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-23T18:40:37+00:00
 Texto:
 **19. Claude + Apify: Investigue sem limites**
@@ -118,7 +118,7 @@ Aprendemos a conectar Claude com qualquer ator do Apify através de um único se
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-23T18:39:53+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Youtube a contenido.rtf
@@ -126,7 +126,7 @@ Midia: MessageMediaDocument -> Youtube a contenido.rtf
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-23T18:39:53+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Analisis competencia RRSS.rtf
@@ -134,7 +134,7 @@ Midia: MessageMediaDocument -> Analisis competencia RRSS.rtf
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-23T18:39:53+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> PODCAST INVESTIGACION.rtf
@@ -142,7 +142,7 @@ Midia: MessageMediaDocument -> PODCAST INVESTIGACION.rtf
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-23T18:39:42+00:00
 Texto:
 https://console.apify.com/actors/1lSvMAaRcadrM1Vgv/input
@@ -151,7 +151,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-23T18:38:34+00:00
 Texto:
 .e19 - Claude + Apify: Investigue sem limites
@@ -159,7 +159,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-23T18:38:33+00:00
 Texto:
 .
@@ -167,7 +167,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-23T18:38:32+00:00
 Texto:
 .
@@ -175,7 +175,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-23T18:38:32+00:00
 Texto:
 .
@@ -183,7 +183,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-23T18:38:32+00:00
 Texto:
 .
@@ -191,7 +191,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-23T18:38:32+00:00
 Texto:
 https://chatgpt.com/c/6830c094-2664-8009-bd77-4d48e3806c2a
@@ -200,7 +200,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-23T18:38:31+00:00
 Texto:
 1
@@ -208,7 +208,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-23T18:38:27+00:00
 Texto: [Sem texto]
 

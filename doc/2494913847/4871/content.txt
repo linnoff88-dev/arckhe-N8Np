@@ -66,7 +66,7 @@ Já coloc aqui como acessar
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T04:14:13+00:00
 Texto:
 ta sendo coloca nos menus
@@ -74,7 +74,7 @@ ta sendo coloca nos menus
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-20T04:13:52+00:00
 Texto:
 entra no menu com links e categorias
@@ -130,7 +130,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-26T04:05:52+00:00
 Texto:
 to coloca na area
@@ -157,7 +157,7 @@ MENSAGEM 19
 Autor: Tiza
 Data: 2025-04-20T22:33:48+00:00
 Texto:
-Pessoal, o @INEMAtds está montando o conteúdo. Nós próximos dias estará disponível na comunidade
+Pessoal, o @linnoff88-dev está montando o conteúdo. Nós próximos dias estará disponível na comunidade
 
 ------------------------------
 
@@ -395,7 +395,7 @@ MENSAGEM 48
 Autor: Lu
 Data: 2025-04-10T17:50:14+00:00
 Texto:
-@INEMAtds é possível adaptar o 146 pra ligaçêo telefonica?
+@linnoff88-dev é possível adaptar o 146 pra ligaçêo telefonica?
 
 ------------------------------
 
@@ -499,7 +499,7 @@ top
 ------------------------------
 
 MENSAGEM 61
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T22:40:20+00:00
 Texto:
 -=== kkke vou baixar e colocar na comunidade
@@ -587,7 +587,7 @@ Quando estará disponível?
 ------------------------------
 
 MENSAGEM 72
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T08:56:18+00:00
 Texto:
 Automatize o Gerador de Conteúdo para WordPress com  
@@ -670,7 +670,7 @@ Automatize o Gerador de Conteúdo para WordPress com
 ------------------------------
 
 MENSAGEM 73
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T08:56:18+00:00
 Texto:
 Aqui está a lista completa, **organizada por grupos**, com a **numeraçêo original preservada**:
@@ -769,7 +769,7 @@ Aqui está a lista completa, **organizada por grupos**, com a **numeraçêo orig
 ------------------------------
 
 MENSAGEM 74
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T08:53:49+00:00
 Texto:
 Achei uma mina e vou baiuxar este mes ainda no grupo da Comunidade.
@@ -779,7 +779,7 @@ Olha so se tem algoe q voce s querem antes
 ------------------------------
 
 MENSAGEM 75
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T08:53:10+00:00
 Texto:
 ....
@@ -787,7 +787,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 76
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T08:53:09+00:00
 Texto:
 ..
@@ -795,7 +795,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 77
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T08:53:09+00:00
 Texto:
 .
@@ -803,7 +803,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 78
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T08:53:09+00:00
 Texto:
 .
@@ -811,7 +811,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 79
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T08:53:08+00:00
 Texto:
 1
@@ -819,7 +819,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 80
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-07T08:53:05+00:00
 Texto: [Sem texto]
 

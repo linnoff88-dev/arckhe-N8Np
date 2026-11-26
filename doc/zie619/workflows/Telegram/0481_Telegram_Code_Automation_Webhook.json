@@ -237,7 +237,7 @@
           "summarizationMethodAndPrompts": {
             "values": {
               "prompt": "Craft a concise newsletter using the given content. Include emojis, avoid starting with the subject word, summarize linked articles briefly, and ensure it's under 247 characters for easy TTS readability, and after that chick if it's very short to pass it:\n\n\n\n\"{text}\"\n\n\n",
-              "combineMapPrompt": "Craft a concise newsletter using the given content. Include emojis, avoid starting with the subject word, summarize linked articles briefly, and ensure it's under 247 characters for easy TTS readability, and after that chick if it's very short to pass it:\n\n\n\"{text}\"\n\n\n"
+              "combARCKHÉpPrompt": "Craft a concise newsletter using the given content. Include emojis, avoid starting with the subject word, summarize linked articles briefly, and ensure it's under 247 characters for easy TTS readability, and after that chick if it's very short to pass it:\n\n\n\"{text}\"\n\n\n"
             }
           }
         },

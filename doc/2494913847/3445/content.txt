@@ -10,7 +10,7 @@ Midias baixadas: 2
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-18T03:21:40+00:00
 Texto:
 Nao tenho o Video.
@@ -18,7 +18,7 @@ Nao tenho o Video.
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-18T03:21:30+00:00
 Texto:
 acb3
@@ -27,7 +27,7 @@ Midia: MessageMediaDocument -> SMS_Agent.json
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-18T03:21:04+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_3455_003.jpg
@@ -35,7 +35,7 @@ Midia: MessageMediaPhoto -> photo_3455_003.jpg
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-18T03:20:19+00:00
 Texto:
 **gente de SMS - Solicitando Ajuda Humana**
@@ -45,7 +45,7 @@ Atualizaçêo super rápida hoje. O cliente queria que integrássemos uma ferram
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-18T03:19:59+00:00
 Texto:
 acb3 - SMS Agent
@@ -53,7 +53,7 @@ acb3 - SMS Agent
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-18T03:19:57+00:00
 Texto:
 .
@@ -61,7 +61,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-18T03:19:56+00:00
 Texto:
 .
@@ -69,7 +69,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-18T03:19:56+00:00
 Texto:
 .
@@ -77,7 +77,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-18T03:19:56+00:00
 Texto:
 .
@@ -85,7 +85,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-18T03:19:55+00:00
 Texto:
 ..
@@ -93,7 +93,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-18T03:19:55+00:00
 Texto:
 .
@@ -101,7 +101,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-18T03:19:54+00:00
 Texto:
 1
@@ -109,7 +109,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-18T03:19:47+00:00
 Texto: [Sem texto]
 

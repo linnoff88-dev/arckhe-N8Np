@@ -10,7 +10,7 @@ Midias baixadas: 4
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-09T23:36:22+00:00
 Texto:
 so copiar este conteudo no chat e dizer q vc quer para colinaria
@@ -26,7 +26,7 @@ Bom dia, você poderia compartilhar ganchos assim para o nicho de culinária por
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-08T01:51:19+00:00
 Texto:
 https://www.youtube.com/watch?v=z5CmHFfaXUA
@@ -37,7 +37,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-27T01:06:48+00:00
 Texto:
 ### **Ganchos v1 para Instagram**  
@@ -149,7 +149,7 @@ Esses ganchos sêo perfeitos para atrair atençêo e gerar engajamento em postag
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-27T01:06:19+00:00
 Texto:
 ==
@@ -157,7 +157,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-27T01:06:14+00:00
 Texto:
 🚨NOVIDADE🚨 Construa este Agente de Crescimento para Instagram com Claude 3.7
@@ -175,7 +175,7 @@ Simples e EXTREMAMENTE eficaz.
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-27T01:05:35+00:00
 Texto:
 j75n
@@ -184,7 +184,7 @@ Midia: MessageMediaDocument -> ___Instagram_Agent_Workflow.json
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-27T01:04:58+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_1905_008.jpg
@@ -192,7 +192,7 @@ Midia: MessageMediaPhoto -> photo_1905_008.jpg
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-27T01:04:30+00:00
 Texto:
 j75n - Agente Viral Instagram
@@ -200,7 +200,7 @@ j75n - Agente Viral Instagram
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-27T01:04:27+00:00
 Texto:
 ..
@@ -208,7 +208,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-27T01:04:26+00:00
 Texto:
 .
@@ -216,7 +216,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-27T01:04:26+00:00
 Texto:
 ...
@@ -224,7 +224,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-27T01:04:26+00:00
 Texto:
 ..
@@ -232,7 +232,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-27T01:04:26+00:00
 Texto:
 .
@@ -240,7 +240,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-27T01:04:26+00:00
 Texto:
 https://chatgpt.com/c/67bfb3ac-b464-8009-98ec-b5e22753f8ac
@@ -249,7 +249,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-27T01:04:25+00:00
 Texto:
 1
@@ -257,7 +257,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-27T01:04:14+00:00
 Texto: [Sem texto]
 

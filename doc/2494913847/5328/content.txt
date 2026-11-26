@@ -18,7 +18,7 @@ material maravilhoso
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:45:43+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> FULL AI AUDIT REPORT (1).pdf
@@ -26,7 +26,7 @@ Midia: MessageMediaDocument -> FULL AI AUDIT REPORT (1).pdf
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:45:43+00:00
 Texto:
 Prompt usado:
@@ -84,7 +84,7 @@ O relatório deve ser prático, acionável e alinhado com o compromisso da Tiern
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:45:43+00:00
 Texto:
 **Experiência Manus #2: RIP AI Consultants... (que nêo usam isso)**
@@ -94,7 +94,7 @@ Eu casualmente carreguei cópias de nossas auditorias de IA que fizemos para os 
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:45:15+00:00
 Texto:
 .
@@ -102,7 +102,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:45:12+00:00
 Texto:
 **Experiência Manus #2: RIP AI Consultants**
@@ -110,7 +110,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:45:06+00:00
 Texto:
 ...
@@ -118,7 +118,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:45:06+00:00
 Texto:
 ..
@@ -126,7 +126,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:45:06+00:00
 Texto:
 .
@@ -134,7 +134,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:45:06+00:00
 Texto:
 ..
@@ -142,7 +142,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:45:06+00:00
 Texto:
 .
@@ -150,7 +150,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:45:05+00:00
 Texto:
 ..
@@ -158,7 +158,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:45:05+00:00
 Texto:
 .
@@ -166,7 +166,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:45:05+00:00
 Texto:
 .
@@ -174,7 +174,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:45:04+00:00
 Texto:
 1
@@ -182,7 +182,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:44:57+00:00
 Texto: [Sem texto]
 

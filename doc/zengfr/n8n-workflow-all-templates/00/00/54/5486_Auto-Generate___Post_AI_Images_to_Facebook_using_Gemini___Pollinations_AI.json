@@ -19,7 +19,7 @@
         "color": 2,
         "width": 400,
         "height": 560,
-        "content": "🌟 Automated AI Image Creation with Gemini and Facebook Page Integration\n\nThis workflow automatically generates random AI art prompts (cinematic, steampunk, surreal, or retro-futuristic) using Google Gemini via LangChain. It then creates an image from that prompt using Pollinations AI and posts it to your Facebook Page with hashtags.\n\nTrigger times: 7 AM, 11 AM, 5 PM (every day)\n\nWhat you need:\n\n  - Google Gemini API Key\n  - Facebook Page token with pages_manage_posts permission\n  - No API key needed for Pollinations\n\n\n⚙️ Includes:\n\n   - Prompt generation\n   - Image creation\n   - Facebook auto-post\n\n\n🛠 Customize prompt, model, or post styling as needed."
+        "content": "🌟 Automated AI Image Creation with Gemini and Facebook Page Integration\n\nThis workflow automatically generates random AI art prompts (cARCKHÉtic, steampunk, surreal, or retro-futuristic) using Google Gemini via LangChain. It then creates an image from that prompt using Pollinations AI and posts it to your Facebook Page with hashtags.\n\nTrigger times: 7 AM, 11 AM, 5 PM (every day)\n\nWhat you need:\n\n  - Google Gemini API Key\n  - Facebook Page token with pages_manage_posts permission\n  - No API key needed for Pollinations\n\n\n⚙️ Includes:\n\n   - Prompt generation\n   - Image creation\n   - Facebook auto-post\n\n\n🛠 Customize prompt, model, or post styling as needed."
       },
       "typeVersion": 1
     },
@@ -122,7 +122,7 @@
         -40
       ],
       "parameters": {
-        "text": "=Create 1 random AI image prompt in the style of [cinematic / surreal / steampunk / retro futuristic]. The prompt should be unique, fantastic, and full of imagination. the prompt should be in good and correct English.\n\nOutput Without any additional explanation",
+        "text": "=Create 1 random AI image prompt in the style of [cARCKHÉtic / surreal / steampunk / retro futuristic]. The prompt should be unique, fantastic, and full of imagination. the prompt should be in good and correct English.\n\nOutput Without any additional explanation",
         "promptType": "define"
       },
       "typeVersion": 1.6

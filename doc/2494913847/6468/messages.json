@@ -1,7 +1,7 @@
 [
   {
     "id": 6491,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-26T04:48:44+00:00",
     "text": "**Resumo do vídeo: Este agente n8n cria e edita imagens com a nova API de imagens da OpenAI**\n\n- A OpenAI lançou sua nova API de geraçêo de imagens (gpt-image-1), que também suporta DALL-E 2 e DALL-E 3.\n- O vídeo ensina como usar a API para criar e editar imagens através do n8n, usando um sistema dividido em três fluxos principais:\n\n1. **Criaçêo de Imagens**:  \n   - O usuário envia um prompt via gatilho de chat.\n   - O agente IA do n8n identifica a intençêo e cria imagens com as configurações escolhidas (modelo, qualidade, tamanho).\n   - As imagens sêo salvas automaticamente no Google Drive.\n\n2. **Ediçêo de Imagens**:  \n   - Permite modificar imagens já criadas, usando um link de imagem salvo no Google Drive.\n   - As imagens sêo alteradas conforme o novo prompt e também salvas no Drive.\n   - Existe uma opçêo experimental para editar imagens externas (fora do Drive), mas pode falhar.\n\n3. **Registro em Planilha**:  \n   - Cada operaçêo (criaçêo ou ediçêo) é registrada automaticamente em uma planilha Google Sheets.\n   - Guarda informações como link da imagem, tipo de operaçêo, modelo utilizado e o prompt.\n\n- O sistema é projetado para ser simples: você pode gerar, editar e acompanhar imagens de forma organizada.\n- A automaçêo usa conversêo de imagens em formato base64 para movimentaçêo interna antes do upload no Drive.\n- Para múltiplas imagens, o sistema separa e gera vários links de acesso.\n- Todos os fluxos (subworkflows) estêo disponíveis para download gratuito no Gumroad do criador.\n\n---\n\n**Fluxos disponíveis:**\n- Orquestrador principal (AI Agent)\n- Criaçêo de imagem\n- Ediçêo de imagem\n- Registro no Google Sheets",
     "has_media": false,
@@ -9,7 +9,7 @@
   },
   {
     "id": 6489,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-26T04:42:36+00:00",
     "text": "video dublado",
     "has_media": false,
@@ -17,7 +17,7 @@
   },
   {
     "id": 6488,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-26T04:42:28+00:00",
     "text": "https://www.youtube.com/watch?v=YqEtFVAV7M8",
     "has_media": true,
@@ -25,7 +25,7 @@
   },
   {
     "id": 6487,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-26T04:42:14+00:00",
     "text": "",
     "has_media": true,
@@ -34,7 +34,7 @@
   },
   {
     "id": 6486,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-26T04:41:44+00:00",
     "text": "API de imagem OpenAI Agentes 🤖 🖼️ n8n\n\n\n\nSubfluxo de Criaçêo de Imagem: Basta inserir um prompt, modelo e configurações para criar visuais impressionantes — automaticamente salvos no seu Google Drive.\n\nSubfluxo de Ediçêo de Imagem: Modifique imagens existentes com prompts detalhados (ex.: “substituir bola por osso”) e envie os resultados diretamente para a nuvem.\n\nSubfluxo de Registro no Google Sheets: Cada prompt, modelo e link de saída é armazenado automaticamente em uma planilha do Google — perfeito para auditorias ou bibliotecas de inspiraçêo.\n\nFluxo Principal de Orquestraçêo de IA: Um roteador inteligente que pega prompts em linguagem natural e envia para a ferramenta correta (criar/editar) com base na tarefa.\n\nTodos os arquivos JSON dos fluxos de trabalho estêo incluídos, para que você possa importar, modificar e escalar instantaneamente.\n\nNenhuma configuraçêo extra necessária — inclui credenciais pré-mapeadas e lógica de pastas para os fluxos de trabalho do Google Drive.\n\n❤️ Minha equipe e eu dedicamos muito tempo para criar este pacote e tornar sua jornada com IA mais tranquila — se isso ajudar você, agradeceríamos muito seu apoio adquirindo e compartilhando com outros.\n\nResumo  \nUm kit de ferramentas poderoso para quem quer aproveitar a nova API de Imagem da OpenAI — criar, editar e organizar ativos visuais em minutos usando linguagem natural e n8n.\n\nVisêo geral do fluxo de trabalho  \nVocê envia seu pedido via gatilho de chat\n\nEsse gatilho de chat irá recusar o pedido se for muito vago\n\nEnviará esse pedido para criar ou editar a imagem\n\nRegistrará esse pedido na planilha do Google (você precisará configurar suas credenciais para isso)\n\nRecursos  \n- Fluxo Principal de Orquestraçêo de Agentes de IA  \n- Subfluxo de Criaçêo de Imagem  \n- Subfluxo de Ediçêo de Imagem  \n- Subfluxo de Registro na Planilha do Google",
     "has_media": false,
@@ -42,7 +42,7 @@
   },
   {
     "id": 6485,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-26T04:41:00+00:00",
     "text": "Como usar a API de imagem da OpenAI via n8n 📸Se você quiser começar a construir todos esses casos de uso super legais em torno da geraçêo de imagens.",
     "has_media": false,
@@ -50,7 +50,7 @@
   },
   {
     "id": 6484,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-26T04:39:42+00:00",
     "text": "",
     "has_media": true,
@@ -59,7 +59,7 @@
   },
   {
     "id": 6483,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-26T04:39:42+00:00",
     "text": "",
     "has_media": true,
@@ -68,7 +68,7 @@
   },
   {
     "id": 6482,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-26T04:39:42+00:00",
     "text": "",
     "has_media": true,
@@ -77,7 +77,7 @@
   },
   {
     "id": 6481,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-26T04:39:42+00:00",
     "text": "",
     "has_media": true,
@@ -86,7 +86,7 @@
   },
   {
     "id": 6480,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-26T04:39:26+00:00",
     "text": "",
     "has_media": true,
@@ -95,7 +95,7 @@
   },
   {
     "id": 6479,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-26T04:38:59+00:00",
     "text": "",
     "has_media": true,
@@ -104,7 +104,7 @@
   },
   {
     "id": 6478,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-26T04:38:17+00:00",
     "text": "",
     "has_media": true,
@@ -113,7 +113,7 @@
   },
   {
     "id": 6477,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-26T04:37:48+00:00",
     "text": "",
     "has_media": true,
@@ -122,7 +122,7 @@
   },
   {
     "id": 6475,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-26T04:32:22+00:00",
     "text": "mrg12 - Agente de Imagem OpenAI",
     "has_media": false,
@@ -130,7 +130,7 @@
   },
   {
     "id": 6474,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-26T04:32:20+00:00",
     "text": ".",
     "has_media": false,
@@ -138,7 +138,7 @@
   },
   {
     "id": 6473,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-26T04:32:20+00:00",
     "text": ".",
     "has_media": false,
@@ -146,7 +146,7 @@
   },
   {
     "id": 6472,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-26T04:32:20+00:00",
     "text": ".",
     "has_media": false,
@@ -154,7 +154,7 @@
   },
   {
     "id": 6471,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-26T04:32:20+00:00",
     "text": ".",
     "has_media": false,
@@ -162,7 +162,7 @@
   },
   {
     "id": 6470,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-26T04:32:19+00:00",
     "text": ".",
     "has_media": false,
@@ -170,7 +170,7 @@
   },
   {
     "id": 6469,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-26T04:32:19+00:00",
     "text": "1",
     "has_media": false,
@@ -178,7 +178,7 @@
   },
   {
     "id": 6468,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-26T04:32:13+00:00",
     "text": "",
     "has_media": false,

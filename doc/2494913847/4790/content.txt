@@ -10,7 +10,7 @@ Midias baixadas: 3
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-10T17:13:27+00:00
 Texto:
 coloca a pergunta no assuntos gerais, atinge mais gente q aqui neste topico. e detalhe o q é para ser bem especificio
@@ -50,7 +50,7 @@ alguem tem evolution atualizada ?
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T09:29:26+00:00
 Texto:
 Evolution API: Parte 2 | WhatsApp mais natural**
@@ -100,7 +100,7 @@ Chatbot_Evolution_API
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T09:29:17+00:00
 Texto:
 ===============
@@ -108,7 +108,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T09:29:10+00:00
 Texto:
 RAC em um NAS. Explicamos que, até o momento, conseguimos instalar o Supabase corretamente apenas com o setup do Orion em **Ubuntu 24**.
@@ -126,7 +126,7 @@ Esse sistema permite criar **assistentes muito mais naturais, escaláveis e adap
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T09:29:10+00:00
 Texto:
 Parte 1** do conteúdo sobre Evolution API e WhatsApp Web:
@@ -212,7 +212,7 @@ Se o volume de informaçêo for pequeno, também é possível incluir diretament
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T09:26:43+00:00
 Texto:
 ===============
@@ -220,7 +220,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T09:16:02+00:00
 Texto:
 ========
@@ -228,7 +228,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T09:14:22+00:00
 Texto:
 .
@@ -236,7 +236,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T09:14:22+00:00
 Texto:
 .
@@ -244,7 +244,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T09:14:21+00:00
 Texto:
 **Domine a Evolution API com um PRO 🔥**  
@@ -257,7 +257,7 @@ E tudo isso com uma configuraçêo técnica sólida, limpa e altamente escaláve
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T09:10:55+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Chat_Evolution_API (1).json
@@ -265,7 +265,7 @@ Midia: MessageMediaDocument -> Chat_Evolution_API (1).json
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T09:10:35+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_4800_016.jpg
@@ -273,7 +273,7 @@ Midia: MessageMediaPhoto -> photo_4800_016.jpg
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T09:10:29+00:00
 Texto:
 ea2 - Evolution API Whatsapp
@@ -281,7 +281,7 @@ ea2 - Evolution API Whatsapp
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T09:10:27+00:00
 Texto:
 .
@@ -289,7 +289,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T09:10:27+00:00
 Texto:
 .
@@ -297,7 +297,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T09:10:26+00:00
 Texto:
 .
@@ -305,7 +305,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T09:10:26+00:00
 Texto:
 .
@@ -313,7 +313,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T09:10:26+00:00
 Texto:
 .
@@ -321,7 +321,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T09:10:25+00:00
 Texto:
 .
@@ -329,7 +329,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T09:10:25+00:00
 Texto:
 https://chatgpt.com/c/67f0f1eb-fb3c-8009-af25-f314102d7864
@@ -338,7 +338,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T09:10:25+00:00
 Texto:
 1
@@ -346,7 +346,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-05T09:10:18+00:00
 Texto: [Sem texto]
 

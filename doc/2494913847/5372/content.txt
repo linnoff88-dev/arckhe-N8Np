@@ -10,7 +10,7 @@ Midias baixadas: 2
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T04:07:43+00:00
 Texto:
 tem  dublagem
@@ -18,7 +18,7 @@ tem  dublagem
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T04:07:37+00:00
 Texto:
 https://www.youtube.com/watch?v=VTEg8uJ4yxo
@@ -27,7 +27,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T04:07:15+00:00
 Texto:
 Resumo completo e direto do vídeo **"Integraçêo MCP nativa do n8n (sem exageros)"**:
@@ -100,7 +100,7 @@ O vídeo apresenta a nova **integraçêo nativa dos nós MCP no n8n**, explicand
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T04:06:36+00:00
 Texto:
 ==
@@ -108,7 +108,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T04:06:34+00:00
 Texto:
 Resumo completo e direto do vídeo **"Integraçêo MCP nativa do n8n 
@@ -120,7 +120,7 @@ O vídeo apresenta a nova **integraçêo nativa dos nós MCP no n8n**, explicand
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T04:06:34+00:00
 Texto:
 .
@@ -128,7 +128,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T04:06:34+00:00
 Texto:
 ap15 - MCP Nativo - Visao  Geral
@@ -136,7 +136,7 @@ ap15 - MCP Nativo - Visao  Geral
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T04:06:34+00:00
 Texto:
 ..
@@ -144,7 +144,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T04:06:34+00:00
 Texto:
 .
@@ -152,7 +152,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T04:06:33+00:00
 Texto:
 ..
@@ -160,7 +160,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T04:06:33+00:00
 Texto:
 .
@@ -168,7 +168,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T04:06:33+00:00
 Texto:
 https://chatgpt.com/c/67f894cc-3850-8009-96ff-97815bce55f8
@@ -177,7 +177,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T04:06:32+00:00
 Texto:
 1
@@ -185,7 +185,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T04:06:24+00:00
 Texto: [Sem texto]
 

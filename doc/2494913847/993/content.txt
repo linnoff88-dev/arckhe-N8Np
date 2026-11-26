@@ -10,7 +10,7 @@ Midias baixadas: 7
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T05:51:39+00:00
 Texto:
 ## **Recursos**📌**Planilha de Dados da Fatura (Google Sheets)**📌**Modelo de Fatura (Google Docs)**📌**Fluxos no N8N e Make:
@@ -29,7 +29,7 @@ Este fluxo de automaçêo simplifica o processo de vendas, melhora a experiênci
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T05:50:44+00:00
 Texto:
 # **Agente de Vendas no WhatsApp (Stripe + Fatura)**   
@@ -85,7 +85,7 @@ Criar um fluxo de automaçêo que:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T05:50:04+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> PlantillaFacturaStripe (Hacer copia).docx
@@ -93,7 +93,7 @@ Midia: MessageMediaDocument -> PlantillaFacturaStripe (Hacer copia).docx
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T05:50:04+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Facturación Stripe (hacer copia).xlsx
@@ -101,7 +101,7 @@ Midia: MessageMediaDocument -> Facturación Stripe (hacer copia).xlsx
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T05:49:52+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Stripe_Enlace_Pago.json
@@ -109,7 +109,7 @@ Midia: MessageMediaDocument -> Stripe_Enlace_Pago.json
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-03-31T05:49:52+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Asistente_Ventas.json
@@ -117,7 +117,7 @@ Midia: MessageMediaDocument -> Asistente_Ventas.json
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-27T23:51:24+00:00
 Texto:
 Resources
@@ -135,7 +135,7 @@ MAKE: Plantilla Factura
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-27T23:49:02+00:00
 Texto:
 foi feito usando o make
@@ -143,7 +143,7 @@ foi feito usando o make
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-02-27T23:48:42+00:00
 Texto:
 https://t.me/c/2277358326/2709
@@ -151,7 +151,7 @@ https://t.me/c/2277358326/2709
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-30T02:50:04+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_1016_010.jpg
@@ -159,7 +159,7 @@ Midia: MessageMediaPhoto -> photo_1016_010.jpg
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-30T02:48:44+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_1014_011.jpg
@@ -167,7 +167,7 @@ Midia: MessageMediaPhoto -> photo_1014_011.jpg
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-30T02:48:38+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_1013_012.jpg
@@ -175,7 +175,7 @@ Midia: MessageMediaPhoto -> photo_1013_012.jpg
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-30T02:46:54+00:00
 Texto:
 os arquivos do make esta la na area do make
@@ -183,7 +183,7 @@ os arquivos do make esta la na area do make
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-30T02:08:23+00:00
 Texto:
 .
@@ -191,7 +191,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-30T02:08:21+00:00
 Texto:
 e2n8 - **Agente de Vendas no WhatsApp (Stripe + Fatura)**
@@ -199,7 +199,7 @@ e2n8 - **Agente de Vendas no WhatsApp (Stripe + Fatura)**
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-30T02:08:20+00:00
 Texto:
 .
@@ -207,7 +207,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-30T02:08:20+00:00
 Texto:
 .
@@ -215,7 +215,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-30T02:08:20+00:00
 Texto:
 .
@@ -223,7 +223,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-30T02:08:20+00:00
 Texto:
 .
@@ -231,7 +231,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-30T02:08:19+00:00
 Texto:
 .
@@ -239,7 +239,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-30T02:08:19+00:00
 Texto:
 **e3. Agente de ventas WhatsApp (Stripe + Factura)**
@@ -247,7 +247,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-30T02:08:17+00:00
 Texto:
 1
@@ -255,7 +255,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-01-30T02:08:10+00:00
 Texto: [Sem texto]
 

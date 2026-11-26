@@ -10,7 +10,7 @@ Midias baixadas: 7
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-31T15:40:31+00:00
 Texto:
 Sim! **Você precisa instalar o `n8n-mcp` localmente** na sua máquina antes de usar com o Claude Desktop.
@@ -85,7 +85,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-31T15:40:18+00:00
 Texto:
 ===================
@@ -93,7 +93,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-31T15:34:20+00:00
 Texto:
 Vamos fazer o **passo a passo completo para usar o Claude Desktop com uma instância do n8n na nuvem**, usando `n8n-mcp` para criar automações conversacionais reais.
@@ -106,7 +106,7 @@ Certifique-se de que você **consegue acessar** sua instância n8n pelo navegado
 
 Exemplo:
 
-`https://agente.inema.online`
+`https://agente.ARCKHÉ.online`
 
 Se abrir a interface do n8n, continue.
 
@@ -116,7 +116,7 @@ Se abrir a interface do n8n, continue.
 
 Abra no navegador:
 
-h`ttps://agente.inema.online/rest/workflows
+h`ttps://agente.ARCKHÉ.online/rest/workflows
 `
 * Se pedir login ou der erro 401, a **autenticaçêo básica está ativa
 *** Se der ti`meout o`u re`fused, `há problemas de rede ou o proxy está bloqueando
@@ -125,7 +125,7 @@ h`ttps://agente.inema.online/rest/workflows
 
 ## ✅ ETAPA 3 — Gere um novo token no painel do n8n
 
-1. Acesse: ht`tps://agente.inema.online
+1. Acesse: ht`tps://agente.ARCKHÉ.online
 2`. Vá em:
 
      ` Settings → Personal Access Tokens
@@ -153,7 +153,7 @@ S`ubstitua ou adicione o bloco abaixo:
         "MCP_MODE": "stdio",
         "LOG_LEVEL": "error",
         "DISABLE_CONSOLE_OUTPUT": "true",
-        "N8N_API_URL": "https://agente.inema.online",
+        "N8N_API_URL": "https://agente.ARCKHÉ.online",
         "N8N_API_KEY": "SEU_TOKEN_AQUI"
       }
     },
@@ -176,7 +176,7 @@ Su```bstitua "SEU`_TOKEN_AQUI" pel`o token copiado da etapa anterior.
 
 No` terminal (CMD ou PowerShell):
 
-curl``` -H "Authorization: Bearer SEU_TOKEN_AQUI" https://agente.inema.online/rest/workflows
+curl``` -H "Authorization: Bearer SEU_TOKEN_AQUI" https://agente.ARCKHÉ.online/rest/workflows
 
 * ```Se retornar JSON → ✅ OK
 * Se der Unau`thorized → G`ere novo token e revise
@@ -229,7 +229,7 @@ Crie``` um fluxo no n8n com webhook de entrada que recebe nome e e-mail e salva 
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-31T15:34:13+00:00
 Texto:
 ===================
@@ -237,7 +237,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-31T15:33:32+00:00
 Texto:
 Abaixo está o **passo a passo completo e atualizado para configurar do zero o Claude Desktop com `n8n-mcp` funcional**, incluindo:
@@ -374,7 +374,7 @@ Crie``` uma automaçêo no n8n que:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-31T15:32:51+00:00
 Texto:
 =============
@@ -382,7 +382,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:26:55+00:00
 Texto:
 farei live para explicar em detalhes
@@ -390,7 +390,7 @@ farei live para explicar em detalhes
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:22:41+00:00
 Texto:
 ============
@@ -398,7 +398,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:22:35+00:00
 Texto:
 `{
@@ -428,7 +428,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:22:22+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11894_010.jpg
@@ -436,7 +436,7 @@ Midia: MessageMediaPhoto -> photo_11894_010.jpg
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:21:48+00:00
 Texto:
 ============
@@ -444,7 +444,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:21:44+00:00
 Texto:
 deployed workflow
@@ -503,7 +503,7 @@ n8n_update_partial_workflow({
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:21:44+00:00
 Texto:
 Instruçêo do Projeto
@@ -590,7 +590,7 @@ The input that the user will provide can be:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:20:46+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11890_014.jpg
@@ -598,7 +598,7 @@ Midia: MessageMediaPhoto -> photo_11890_014.jpg
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:19:52+00:00
 Texto:
 {
@@ -620,7 +620,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:19:26+00:00
 Texto:
 https://github.com/czlonkowski/n8n-mcp
@@ -629,7 +629,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:18:56+00:00
 Texto:
 Configurando MCP no Claude Desktop
@@ -637,7 +637,7 @@ Configurando MCP no Claude Desktop
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:18:36+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11886_018.jpg
@@ -645,7 +645,7 @@ Midia: MessageMediaPhoto -> photo_11886_018.jpg
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:17:56+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11885_019.jpg
@@ -653,7 +653,7 @@ Midia: MessageMediaPhoto -> photo_11885_019.jpg
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:17:00+00:00
 Texto:
 nm59 - Automaçêo n8n-MCP Github
@@ -661,7 +661,7 @@ nm59 - Automaçêo n8n-MCP Github
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:16:58+00:00
 Texto:
 .
@@ -669,7 +669,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:16:58+00:00
 Texto:
 ..
@@ -677,7 +677,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:16:57+00:00
 Texto:
 .
@@ -685,7 +685,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:16:57+00:00
 Texto:
 e33
@@ -693,7 +693,7 @@ e33
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:16:57+00:00
 Texto:
 https://chatgpt.com/c/6886b9a7-dec4-832f-99f8-cda010fb8c27
@@ -702,7 +702,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:16:56+00:00
 Texto:
 1
@@ -710,7 +710,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-28T03:16:48+00:00
 Texto: [Sem texto]
 

@@ -10,7 +10,7 @@ Midias baixadas: 16
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:59:18+00:00
 Texto:
 https://www.youtube.com/watch?v=hespEQ5LDCw
@@ -19,7 +19,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:58:57+00:00
 Texto:
 14h às 15h"
@@ -31,7 +31,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:58:57+00:00
 Texto:
 Aqui está o **passo a passo completo** para criar um **Assistente Pessoal com IA** no **n8n**, capaz de gerenciar e-mails, calendários e interagir pelo Telegram, **sem precisar programar**:
@@ -175,7 +175,7 @@ Aqui está o **passo a passo completo** para criar um **Assistente Pessoal com I
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:58:37+00:00
 Texto:
 =========
@@ -183,7 +183,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:58:33+00:00
 Texto:
 **Resumo completo do conteúdo do assistente pessoal com IA usando n8n :**
@@ -269,7 +269,7 @@ A estrutura usa o n8n, OpenAI (GPT-4), Google Calendar e Notion, podendo ser ada
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:57:01+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9885_006.jpg
@@ -277,7 +277,7 @@ Midia: MessageMediaPhoto -> photo_9885_006.jpg
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:55:13+00:00
 Texto:
 Assistente Pessoal com IA usando Agentes Avançados de E-mail e Calendário no n8n 
@@ -291,7 +291,7 @@ Esse assistente com inteligência artificial gerencia e-mails, organiza sua caix
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:54:33+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> drive-download-20250615T054549Z-1-001.zip
@@ -299,7 +299,7 @@ Midia: MessageMediaDocument -> drive-download-20250615T054549Z-1-001.zip
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:54:29+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Tutorial_8_1___Personal_Assistant_V1_0.json
@@ -307,7 +307,7 @@ Midia: MessageMediaDocument -> Tutorial_8_1___Personal_Assistant_V1_0.json
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:54:29+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Common__Inbox_Management_Agent__Andy_Lo_.json
@@ -315,7 +315,7 @@ Midia: MessageMediaDocument -> Common__Inbox_Management_Agent__Andy_Lo_.json
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:54:29+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Common___Google_Calendar_Schedule__Andy_Lo_.json
@@ -323,7 +323,7 @@ Midia: MessageMediaDocument -> Common___Google_Calendar_Schedule__Andy_Lo_.json
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:54:29+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Common___Email_Agent__Andy_Lo_.json
@@ -331,7 +331,7 @@ Midia: MessageMediaDocument -> Common___Email_Agent__Andy_Lo_.json
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:54:29+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Common___Calendar_Availability_Agent__Andy_Lo_.json
@@ -339,7 +339,7 @@ Midia: MessageMediaDocument -> Common___Calendar_Availability_Agent__Andy_Lo_.js
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:54:29+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Common___Calendar_Agent__Andy_Lo_.json
@@ -347,7 +347,7 @@ Midia: MessageMediaDocument -> Common___Calendar_Agent__Andy_Lo_.json
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:53:56+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9876_015.jpg
@@ -355,7 +355,7 @@ Midia: MessageMediaPhoto -> photo_9876_015.jpg
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:52:58+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9875_016.jpg
@@ -363,7 +363,7 @@ Midia: MessageMediaPhoto -> photo_9875_016.jpg
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:52:13+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9874_017.jpg
@@ -371,7 +371,7 @@ Midia: MessageMediaPhoto -> photo_9874_017.jpg
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:51:24+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9873_018.jpg
@@ -379,7 +379,7 @@ Midia: MessageMediaPhoto -> photo_9873_018.jpg
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:50:25+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9872_019.jpg
@@ -387,7 +387,7 @@ Midia: MessageMediaPhoto -> photo_9872_019.jpg
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:49:05+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9871_020.jpg
@@ -395,7 +395,7 @@ Midia: MessageMediaPhoto -> photo_9871_020.jpg
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:47:52+00:00
 Texto:
 al41 - Agente Assistente Pessoal
@@ -403,7 +403,7 @@ al41 - Agente Assistente Pessoal
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:47:51+00:00
 Texto:
 .
@@ -411,7 +411,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:47:51+00:00
 Texto:
 ..
@@ -419,7 +419,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:47:51+00:00
 Texto:
 .
@@ -427,7 +427,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:47:50+00:00
 Texto:
 .
@@ -435,7 +435,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:47:50+00:00
 Texto:
 https://chatgpt.com/c/684e5e5b-7e68-8009-a780-a26adb797745
@@ -444,7 +444,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:47:49+00:00
 Texto:
 1
@@ -452,7 +452,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-15T05:47:44+00:00
 Texto: [Sem texto]
 

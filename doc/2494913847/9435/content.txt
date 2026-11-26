@@ -10,7 +10,7 @@ Midias baixadas: 6
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T22:21:46+00:00
 Texto:
 https://aistudio.google.com/u/1/apikey
@@ -18,7 +18,7 @@ https://aistudio.google.com/u/1/apikey
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T20:39:08+00:00
 Texto:
 https://www.youtube.com/watch?v=acB2o6nwAn8
@@ -27,7 +27,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T20:23:53+00:00
 Texto:
 Os **hacks** (dicas e truques avançados) mostrados no vídeo para usar **Google Gemini + n8n** de forma gratuita e eficiente para análise de vídeos sêo:
@@ -93,7 +93,7 @@ Os **hacks** (dicas e truques avançados) mostrados no vídeo para usar **Google
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T20:23:44+00:00
 Texto:
 ======
@@ -101,7 +101,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T20:06:16+00:00
 Texto:
 Segue o **passo a passo completo** para configurar uma automaçêo no **n8n** usando o **Google Gemini** para análise de vídeos gratuitamente:
@@ -204,7 +204,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T20:05:47+00:00
 Texto:
 Aqui está o resumo completo e estruturado  **"The Simplest Setup for FREE AI Video Analysis (n8n + Google Gemini)"**:
@@ -272,7 +272,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T20:00:19+00:00
 Texto:
 A Configuraçêo Mais Simples para Análise de Vídeo com IA Gratuita (n8n + Google Gemini)
@@ -287,7 +287,7 @@ Também como fazer prompts específicos para o Gemini, permitindo que você cont
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T19:59:17+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Analyze_Video (1).json
@@ -295,7 +295,7 @@ Midia: MessageMediaDocument -> Analyze_Video (1).json
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T19:59:10+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_9443_009.jpg
@@ -303,7 +303,7 @@ Midia: MessageMediaPhoto -> photo_9443_009.jpg
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T19:59:07+00:00
 Texto:
 ap35 - Analise de Video
@@ -311,7 +311,7 @@ ap35 - Analise de Video
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T19:58:50+00:00
 Texto:
 .
@@ -319,7 +319,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T19:58:48+00:00
 Texto:
 .
@@ -327,7 +327,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T19:58:48+00:00
 Texto:
 ..
@@ -335,7 +335,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T19:58:47+00:00
 Texto:
 .
@@ -343,7 +343,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T19:58:47+00:00
 Texto:
 https://chatgpt.com/c/684b2fc3-0d98-8009-8160-a4055f16e8ff
@@ -352,7 +352,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T19:58:46+00:00
 Texto:
 1
@@ -360,7 +360,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-12T19:58:42+00:00
 Texto: [Sem texto]
 

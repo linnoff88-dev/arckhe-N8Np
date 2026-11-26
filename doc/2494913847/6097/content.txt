@@ -10,7 +10,7 @@ Midias baixadas: 6
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T03:37:58+00:00
 Texto:
 **Resumo do vídeo "Sell this AI Client Intelligence System for $500/mo"**
@@ -71,7 +71,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T03:37:53+00:00
 Texto:
 ====================
@@ -79,7 +79,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T03:37:18+00:00
 Texto:
 j85- Este Agente de IA Economiza 19 Horas de Trabalho com Clientes
@@ -106,7 +106,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T03:32:56+00:00
 Texto:
 💎 Venda este Sistema de Inteligência de Clientes de IA por US$ 497/mês 
@@ -123,7 +123,7 @@ Este Agente de IA pode:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T03:32:08+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> ___n8n__Client_Intelligence_System.json
@@ -131,7 +131,7 @@ Midia: MessageMediaDocument -> ___n8n__Client_Intelligence_System.json
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T03:31:57+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6112_006.jpg
@@ -139,7 +139,7 @@ Midia: MessageMediaPhoto -> photo_6112_006.jpg
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T03:30:38+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6111_007.jpg
@@ -147,7 +147,7 @@ Midia: MessageMediaPhoto -> photo_6111_007.jpg
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T03:28:16+00:00
 Texto:
 j85 - Agente RAG Cliente Email e Reuniao $497
@@ -155,7 +155,7 @@ j85 - Agente RAG Cliente Email e Reuniao $497
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T03:28:14+00:00
 Texto:
 ..
@@ -163,7 +163,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T03:28:14+00:00
 Texto:
 .
@@ -171,7 +171,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T03:28:13+00:00
 Texto:
 ...
@@ -179,7 +179,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T03:28:13+00:00
 Texto:
 ..
@@ -187,7 +187,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T03:28:13+00:00
 Texto:
 .
@@ -195,7 +195,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T03:28:13+00:00
 Texto:
 .....
@@ -203,7 +203,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T03:28:13+00:00
 Texto:
 ....
@@ -211,7 +211,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T03:28:12+00:00
 Texto:
 ...
@@ -219,7 +219,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T03:28:12+00:00
 Texto:
 https://chatgpt.com/c/68070acd-3844-8009-8710-30c1e16ba524?model=gpt-4o
@@ -228,7 +228,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T03:28:11+00:00
 Texto:
 1
@@ -236,7 +236,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-22T03:28:01+00:00
 Texto: [Sem texto]
 

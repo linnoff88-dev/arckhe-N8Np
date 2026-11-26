@@ -18,7 +18,7 @@ Como consigo para aplicar na minha área?
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T14:43:27+00:00
 Texto:
 **j12. Raspagem de Emails Grátis a partir do Google Maps**
@@ -73,7 +73,7 @@ Teste com 10 bairros para “advogados em Barcelona”:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T14:43:13+00:00
 Texto:
 ==========
@@ -81,7 +81,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T14:42:31+00:00
 Texto:
 Nova Automaçêo: Raspagem de Emails Grátis com N8N 🚀
@@ -104,7 +104,7 @@ Você pode usar isso como isca digital, para vender serviços ou simplesmente co
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T14:40:51+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Scrapeador_master.json
@@ -112,7 +112,7 @@ Midia: MessageMediaDocument -> Scrapeador_master.json
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T14:40:43+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_5430_006.jpg
@@ -120,7 +120,7 @@ Midia: MessageMediaPhoto -> photo_5430_006.jpg
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T14:39:03+00:00
 Texto:
 e12n - Raspe Email Gratuito
@@ -128,7 +128,7 @@ e12n - Raspe Email Gratuito
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T14:39:03+00:00
 Texto:
 .
@@ -136,7 +136,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T14:39:01+00:00
 Texto:
 .
@@ -144,7 +144,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T14:39:00+00:00
 Texto:
 ;;
@@ -152,7 +152,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T14:39:00+00:00
 Texto:
 ;
@@ -160,7 +160,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T14:39:00+00:00
 Texto:
 ;
@@ -168,7 +168,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T14:38:59+00:00
 Texto:
 ;
@@ -176,7 +176,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T14:38:59+00:00
 Texto:
 https://chatgpt.com/c/67f928b1-cab0-8009-af46-a1c85f45e4a4
@@ -185,7 +185,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T14:38:57+00:00
 Texto:
 1
@@ -193,7 +193,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T14:38:29+00:00
 Texto: [Sem texto]
 

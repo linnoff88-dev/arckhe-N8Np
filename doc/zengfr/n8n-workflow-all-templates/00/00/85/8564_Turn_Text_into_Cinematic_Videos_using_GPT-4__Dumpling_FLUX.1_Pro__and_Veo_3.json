@@ -2,12 +2,12 @@
   "id": "NyFrooSCpKENZbDP",
   "meta": {
     "site": "https://github.com/zengfr/n8n-workflow-all-templates",
-    "name": "Turn Text into Cinematic Videos using GPT-4, Dumpling FLUX.1 Pro, and Veo 3",
+    "name": "Turn Text into CARCKHÉtic Videos using GPT-4, Dumpling FLUX.1 Pro, and Veo 3",
     "wechat": "youandme10086",
     "id": 8564,
     "update_time": "2025-11-10"
   },
-  "name": "Turn Text Ideas into Cinematic Videos using GPT-4.1, Dumpling FLUX.1 Pro, and Veo 3",
+  "name": "Turn Text Ideas into CARCKHÉtic Videos using GPT-4.1, Dumpling FLUX.1 Pro, and Veo 3",
   "tags": [],
   "nodes": [
     {
@@ -53,7 +53,7 @@
           "values": [
             {
               "role": "system",
-              "content": "\"You will receive a short image idea. Expand it into a full, descriptive prompt suitable for high quality image generation. Make it vivid, creative, and detailed by including environment, style, mood, lighting, perspective, and relevant artistic details. Keep it under 3 sentences. Do not add camera technical jargon unless it naturally enhances the scene. Output only the refined prompt, nothing else.\"\n\nExample input:\nIdea: A Chef Cat cooking Seafood\n\nExample output:\n\"A fluffy orange cat dressed as a professional chef stands in a bright kitchen, skillfully cooking seafood in a steaming pan, with vibrant colors, warm lighting, and a playful yet cinematic atmosphere.\""
+              "content": "\"You will receive a short image idea. Expand it into a full, descriptive prompt suitable for high quality image generation. Make it vivid, creative, and detailed by including environment, style, mood, lighting, perspective, and relevant artistic details. Keep it under 3 sentences. Do not add camera technical jargon unless it naturally enhances the scene. Output only the refined prompt, nothing else.\"\n\nExample input:\nIdea: A Chef Cat cooking Seafood\n\nExample output:\n\"A fluffy orange cat dressed as a professional chef stands in a bright kitchen, skillfully cooking seafood in a steaming pan, with vibrant colors, warm lighting, and a playful yet cARCKHÉtic atmosphere.\""
             },
             {
               "content": "=image idea: {{ $json['Image Ideas'] }}"
@@ -382,7 +382,7 @@
       "parameters": {
         "width": 688,
         "height": 432,
-        "content": "### 🧠 Step 1: Expand Text Idea into Visual Prompt\n\n**Trigger**: A user submits a short image idea using the Form node.\n\n**Processing**: \n- GPT-4.1 takes the raw idea and transforms it into a vivid, cinematic prompt.\n- The prompt includes visual details such as setting, lighting, mood, and characters to help guide high-quality image generation.\n\n**Example**:\n**Input**: A Chef Cat cooking seafood  \n**Expanded Prompt**: A fluffy orange cat dressed as a professional chef stands in a bright kitchen, skillfully cooking seafood in a steaming pan, with vibrant colors and a cinematic atmosphere.\n"
+        "content": "### 🧠 Step 1: Expand Text Idea into Visual Prompt\n\n**Trigger**: A user submits a short image idea using the Form node.\n\n**Processing**: \n- GPT-4.1 takes the raw idea and transforms it into a vivid, cARCKHÉtic prompt.\n- The prompt includes visual details such as setting, lighting, mood, and characters to help guide high-quality image generation.\n\n**Example**:\n**Input**: A Chef Cat cooking seafood  \n**Expanded Prompt**: A fluffy orange cat dressed as a professional chef stands in a bright kitchen, skillfully cooking seafood in a steaming pan, with vibrant colors and a cARCKHÉtic atmosphere.\n"
       },
       "typeVersion": 1
     },
@@ -398,7 +398,7 @@
         "color": 4,
         "width": 848,
         "height": 448,
-        "content": "### 🎨 Step 2: Create Image & Generate Video Prompt\n\n**Image Generation**:\n- The descriptive prompt is sent to Dumpling AI (FLUX.1 Pro) to create a cinematic-style image (16:9).\n\n**Upload**:\n- The image is uploaded to Veo 3’s server for video transformation.\n\n**Video Prompt Generation**:\n- GPT-4o reviews the image and writes a matching scene script (1 action + dialogue line + style notes).\n- The format is designed for Veo 3 compatibility (one scene, one action, short line of dialogue, audio note, camera style).\n"
+        "content": "### 🎨 Step 2: Create Image & Generate Video Prompt\n\n**Image Generation**:\n- The descriptive prompt is sent to Dumpling AI (FLUX.1 Pro) to create a cARCKHÉtic-style image (16:9).\n\n**Upload**:\n- The image is uploaded to Veo 3’s server for video transformation.\n\n**Video Prompt Generation**:\n- GPT-4o reviews the image and writes a matching scene script (1 action + dialogue line + style notes).\n- The format is designed for Veo 3 compatibility (one scene, one action, short line of dialogue, audio note, camera style).\n"
       },
       "typeVersion": 1
     },

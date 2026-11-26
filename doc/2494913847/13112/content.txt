@@ -10,7 +10,7 @@ Midias baixadas: 10
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-26T03:41:05+00:00
 Texto:
 ele tem disponibilizar, vamos aguardando
@@ -29,12 +29,12 @@ MENSAGEM 3
 Autor: Juliano
 Data: 2025-08-25T12:28:46+00:00
 Texto:
-@INEMAtds  Nei, como faço pra conseguir ter o Builder no meu N8N self hosted (rodando na minha VPS)?
+@linnoff88-dev  Nei, como faço pra conseguir ter o Builder no meu N8N self hosted (rodando na minha VPS)?
 
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T04:02:04+00:00
 Texto:
 No **AI Builder do n8n**, a escolha das palavras faz diferença no que o assistente vai montar. O vídeo mostrou alguns “truques” de vocabulário que garantem que ele crie os blocos certos. Aqui está um guia dos **termos corretos para instruir o assistente**:
@@ -115,7 +115,7 @@ No **AI Builder do n8n**, a escolha das palavras faz diferença no que o assiste
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T04:01:46+00:00
 Texto:
 =================
@@ -123,7 +123,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T04:00:37+00:00
 Texto:
 Aqui estêo os **prompts traduzidos e adaptados para português**, prontos para serem usados no **AI Builder do n8n**:
@@ -201,7 +201,7 @@ Por fim, deve gerar:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T04:00:15+00:00
 Texto:
 =================
@@ -209,7 +209,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T04:00:11+00:00
 Texto:
 ### 1. Prompt de Qualificaçêo de Leads
@@ -281,7 +281,7 @@ Esses sêo os **prompts integrais** usados no vídeo, exatamente como demonstrad
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T03:59:43+00:00
 Texto:
 ===================
@@ -289,7 +289,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T03:59:40+00:00
 Texto:
 ## Lista dos Prompts citados no vídeo
@@ -355,7 +355,7 @@ Esses foram os **prompts-chave demonstrados** no vídeo. Eles foram usados para 
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T03:58:49+00:00
 Texto:
 ====================
@@ -363,7 +363,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T03:58:45+00:00
 Texto:
 ## Hacks do vídeo
@@ -411,7 +411,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T03:44:18+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13274_013.jpg
@@ -419,7 +419,7 @@ Midia: MessageMediaPhoto -> photo_13274_013.jpg
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T03:38:21+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13273_014.jpg
@@ -427,7 +427,7 @@ Midia: MessageMediaPhoto -> photo_13273_014.jpg
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T03:12:52+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13272_015.jpg
@@ -435,7 +435,7 @@ Midia: MessageMediaPhoto -> photo_13272_015.jpg
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T03:09:28+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13271_016.jpg
@@ -443,7 +443,7 @@ Midia: MessageMediaPhoto -> photo_13271_016.jpg
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T02:58:25+00:00
 Texto:
 Aqui está um resumo estruturado do vídeo sobre o novo **Construtor de IA Nativo da n8n**:
@@ -533,7 +533,7 @@ O **AI Assistant Builder** é um marco no n8n: transforma prompts diretamente em
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-25T02:58:03+00:00
 Texto:
 https://www.youtube.com/watch?v=erSlRlwpr-g
@@ -542,7 +542,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-23T18:32:15+00:00
 Texto:
 na manutencao
@@ -551,7 +551,7 @@ Midia: MessageMediaPhoto -> photo_13125_019.jpg
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-23T18:31:34+00:00
 Texto:
 1.103.6 no n8n.cloud
@@ -560,7 +560,7 @@ Midia: MessageMediaPhoto -> photo_13124_020.jpg
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-23T18:29:39+00:00
 Texto:
 na 1.108 nao tem mais o buider
@@ -568,7 +568,7 @@ na 1.108 nao tem mais o buider
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-23T18:27:52+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13122_022.jpg
@@ -576,7 +576,7 @@ Midia: MessageMediaPhoto -> photo_13122_022.jpg
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-23T18:26:48+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_13121_023.jpg
@@ -584,7 +584,7 @@ Midia: MessageMediaPhoto -> photo_13121_023.jpg
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-23T18:26:08+00:00
 Texto:
 nm67 - n8n Vibe Code AI Builder
@@ -592,7 +592,7 @@ nm67 - n8n Vibe Code AI Builder
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-23T18:25:43+00:00
 Texto:
 .
@@ -600,7 +600,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-23T18:25:43+00:00
 Texto:
 .
@@ -608,7 +608,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-23T18:25:42+00:00
 Texto:
 .
@@ -616,7 +616,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-23T18:25:41+00:00
 Texto:
 .
@@ -624,7 +624,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 29
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-23T18:25:41+00:00
 Texto:
 .
@@ -632,7 +632,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 30
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-23T18:25:40+00:00
 Texto:
 https://chatgpt.com/c/68abd055-0a4c-8324-9e98-24d5ad8285c1
@@ -641,7 +641,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 31
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-23T18:25:39+00:00
 Texto:
 1
@@ -649,7 +649,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 32
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-23T18:25:15+00:00
 Texto: [Sem texto]
 

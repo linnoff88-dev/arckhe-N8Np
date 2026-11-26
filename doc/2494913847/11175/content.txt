@@ -10,7 +10,7 @@ Midias baixadas: 5
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T23:38:28+00:00
 Texto:
 Aqui vêo os **hacks e dicas avançadas** do fluxo para o **RAG Multimídia com texto e imagens**, direto do que foi feito na aula 👇
@@ -100,7 +100,7 @@ Aqui vêo os **hacks e dicas avançadas** do fluxo para o **RAG Multimídia com 
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T23:38:07+00:00
 Texto:
 ==============
@@ -108,7 +108,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T23:38:05+00:00
 Texto:
 **passo a passo simplificado** para montar o **RAG Multimídia com texto e imagens** :
@@ -211,7 +211,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T23:37:22+00:00
 Texto:
 ==============
@@ -219,7 +219,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T23:37:17+00:00
 Texto:
 **“RAG Multimídia com texto e imagens”**
@@ -303,7 +303,7 @@ Para um documento de 35 páginas:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T23:36:05+00:00
 Texto:
 =================
@@ -311,7 +311,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T23:36:01+00:00
 Texto:
 e28. RAG Multimídia com texto e imagens
@@ -428,7 +428,7 @@ Alta precisêo e flexibilidade.
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T23:31:33+00:00
 Texto:
 ====================
@@ -436,7 +436,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T23:31:28+00:00
 Texto:
 https://cohere.com/
@@ -445,7 +445,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T23:30:29+00:00
 Texto:
 https://docs.mistral.ai/api/
@@ -454,7 +454,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T23:30:13+00:00
 Texto:
 =====================
@@ -462,7 +462,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T23:30:00+00:00
 Texto:
 🤩 e28. RAG Multimídia com texto e imagens
@@ -494,7 +494,7 @@ Se você nêo testar, vai estar perdendo algo GRANDE.
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T23:28:02+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> RAG_con_imagenes.json
@@ -502,7 +502,7 @@ Midia: MessageMediaDocument -> RAG_con_imagenes.json
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T23:27:58+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_11183_014.jpg
@@ -510,7 +510,7 @@ Midia: MessageMediaPhoto -> photo_11183_014.jpg
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T23:27:04+00:00
 Texto:
 e28 - RAG multimídia com imagens e texto
@@ -518,7 +518,7 @@ e28 - RAG multimídia com imagens e texto
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T23:27:02+00:00
 Texto:
 .
@@ -526,7 +526,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T23:27:02+00:00
 Texto:
 ..
@@ -534,7 +534,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T23:27:02+00:00
 Texto:
 .
@@ -542,7 +542,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T23:27:02+00:00
 Texto:
 .
@@ -550,7 +550,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T23:27:01+00:00
 Texto:
 https://chatgpt.com/c/686ef9f5-9948-8009-a510-a2af0f27e850
@@ -559,7 +559,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T23:27:01+00:00
 Texto:
 1
@@ -567,7 +567,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-07-09T23:26:57+00:00
 Texto: [Sem texto]
 

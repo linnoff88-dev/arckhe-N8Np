@@ -18,7 +18,7 @@ Ooa, b tarde! Tem o Json ?
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-30T11:47:28+00:00
 Texto:
 Aqui está um **resumo completo e estruturado  sobre o sistema de journaling com N8N, Supabase e integraçêo com vetor/embeddings, ideal para documentar e implementar melhorias práticas.
@@ -107,7 +107,7 @@ Anthony criou um sistema automatizado com N8N para:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-30T11:45:29+00:00
 Texto:
 =================
@@ -115,7 +115,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-30T11:45:23+00:00
 Texto:
 A imagem mostra uma visêo geral visual e organizada do workflow de automaçêo no N8N para journaling com análise por IA e integraçêo com Supabase. Abaixo está o resumo completo **com base em cada seçêo destacada do fluxo**:
@@ -247,7 +247,7 @@ A imagem mostra uma visêo geral visual e organizada do workflow de automaçêo 
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-30T11:43:23+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10706_005.jpg
@@ -255,7 +255,7 @@ Midia: MessageMediaPhoto -> photo_10706_005.jpg
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-30T11:43:19+00:00
 Texto:
 .
@@ -263,7 +263,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-30T11:43:19+00:00
 Texto:
 .
@@ -271,7 +271,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-30T11:43:18+00:00
 Texto:
 .
@@ -279,7 +279,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-30T11:43:18+00:00
 Texto:
 .
@@ -287,7 +287,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-30T11:43:18+00:00
 Texto:
 https://chatgpt.com/c/68627711-3cf0-8009-ab29-e60c80dca1ee
@@ -296,7 +296,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-30T11:43:17+00:00
 Texto:
 1
@@ -304,7 +304,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-30T11:43:12+00:00
 Texto: [Sem texto]
 

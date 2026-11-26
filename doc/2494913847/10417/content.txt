@@ -18,7 +18,7 @@ start
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-24T21:38:04+00:00
 Texto:
 dublado
@@ -26,7 +26,7 @@ dublado
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-24T21:38:01+00:00
 Texto:
 https://www.youtube.com/watch?v=Ch-AWxvX2Jc
@@ -35,7 +35,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-24T21:37:37+00:00
 Texto:
 Aqui estêo **hacks práticos** para turbinar o sistema de estrategista de YouTube com IA no n8n e gerar ainda mais resultados com menos esforço:
@@ -140,7 +140,7 @@ Aqui estêo **hacks práticos** para turbinar o sistema de estrategista de YouTu
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-24T21:36:07+00:00
 Texto:
 ==================
@@ -148,7 +148,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-24T21:36:02+00:00
 Texto:
 curta da proposta do canal (usada no prompt).
@@ -187,7 +187,7 @@ curta da proposta do canal (usada no prompt).
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-24T21:36:02+00:00
 Texto:
 A seguir está o **passo a passo completo em português** para montar o sistema de agente estrategista de YouTube com IA no **n8n**, exatamente como mostrado no vídeo:
@@ -398,7 +398,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-24T21:35:24+00:00
 Texto:
 ==============
@@ -406,7 +406,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-24T21:35:20+00:00
 Texto:
 **Resumo completo do vídeo "I Built a YT Strategist AI Agent That Makes Me \$6k/mo"**
@@ -505,7 +505,7 @@ Esse sistema:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-24T21:33:05+00:00
 Texto:
 Agente de IA Estrategista para o YouTube
@@ -517,7 +517,7 @@ Ele roda semanalmente para trazer novos insights e tendências, e diariamente an
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-24T21:22:18+00:00
 Texto:
 https://excalidraw.com/
@@ -526,7 +526,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-24T21:20:36+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10431_012.jpg
@@ -534,7 +534,7 @@ Midia: MessageMediaPhoto -> photo_10431_012.jpg
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-24T21:19:30+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10430_013.jpg
@@ -542,7 +542,7 @@ Midia: MessageMediaPhoto -> photo_10430_013.jpg
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-24T21:18:02+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10429_014.jpg
@@ -550,7 +550,7 @@ Midia: MessageMediaPhoto -> photo_10429_014.jpg
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-24T21:07:50+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> YouTube Strategist (file -_ make a copy).xlsx
@@ -558,7 +558,7 @@ Midia: MessageMediaDocument -> YouTube Strategist (file -_ make a copy).xlsx
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-24T21:07:40+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> YouTube_Strategist.json
@@ -566,7 +566,7 @@ Midia: MessageMediaDocument -> YouTube_Strategist.json
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-24T21:07:32+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10426_017.jpg
@@ -574,7 +574,7 @@ Midia: MessageMediaPhoto -> photo_10426_017.jpg
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-24T21:07:04+00:00
 Texto:
 ap38 - Estrategia Youtube Nicho
@@ -582,7 +582,7 @@ ap38 - Estrategia Youtube Nicho
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-24T21:07:02+00:00
 Texto:
 .
@@ -590,7 +590,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-24T21:07:02+00:00
 Texto:
 .
@@ -598,7 +598,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-24T21:07:02+00:00
 Texto:
 .
@@ -606,7 +606,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-24T21:07:01+00:00
 Texto:
 .
@@ -614,7 +614,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-24T21:07:01+00:00
 Texto:
 .
@@ -622,7 +622,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-24T21:07:01+00:00
 Texto:
 .
@@ -630,7 +630,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-24T21:07:00+00:00
 Texto:
 1
@@ -638,7 +638,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-06-24T21:06:55+00:00
 Texto: [Sem texto]
 

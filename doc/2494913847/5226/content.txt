@@ -13,19 +13,19 @@ MENSAGEM 1
 Autor: Amauri
 Data: 2025-04-12T20:36:15+00:00
 Texto:
-@INEMAtds saiu seu vídeo só o mm3 no seu YouTube?
+@linnoff88-dev saiu seu vídeo só o mm3 no seu YouTube?
 
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T03:59:28+00:00
 Texto: [Sem texto]
 
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-11T00:05:26+00:00
 Texto:
 # Workflows n8n para Negócio de Massoterapia
@@ -110,7 +110,7 @@ Para instruções detalhadas de implementaçêo, consulte o arquivo `setup_instr
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T07:12:04+00:00
 Texto:
 tem dublagem
@@ -118,7 +118,7 @@ tem dublagem
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T07:11:58+00:00
 Texto:
 https://www.youtube.com/watch?v=h2Az_4T1JSg
@@ -127,7 +127,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T07:11:17+00:00
 Texto:
 **Resumoo “Como gerar agentes n8n prontos para uso INSTANTANEAMENTE com Manus AI”**
@@ -174,7 +174,7 @@ Manus AI permite criar dezenas de automações n8n **quase instantaneamente**, e
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T07:00:10+00:00
 Texto:
 **O Experimento Manus #3 desaparecido (alucinante)
@@ -184,7 +184,7 @@ Se você estava curioso para saber o quêo bem o Manus poderia produzir tonelada
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:57:19+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> venture_capital.zip
@@ -192,7 +192,7 @@ Midia: MessageMediaDocument -> venture_capital.zip
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:57:19+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> massage_therapy.zip
@@ -200,7 +200,7 @@ Midia: MessageMediaDocument -> massage_therapy.zip
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:57:19+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> coaching_standard.zip
@@ -208,7 +208,7 @@ Midia: MessageMediaDocument -> coaching_standard.zip
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:57:19+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> coaching_high.zip
@@ -216,7 +216,7 @@ Midia: MessageMediaDocument -> coaching_high.zip
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:57:03+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_5242_012.jpg
@@ -224,7 +224,7 @@ Midia: MessageMediaPhoto -> photo_5242_012.jpg
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:56:49+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_5241_013.jpg
@@ -232,7 +232,7 @@ Midia: MessageMediaPhoto -> photo_5241_013.jpg
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:56:36+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_5240_014.jpg
@@ -240,7 +240,7 @@ Midia: MessageMediaPhoto -> photo_5240_014.jpg
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:56:28+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_5239_015.jpg
@@ -248,7 +248,7 @@ Midia: MessageMediaPhoto -> photo_5239_015.jpg
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:56:01+00:00
 Texto:
 mm3 - Manus n8n - json
@@ -256,7 +256,7 @@ mm3 - Manus n8n - json
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:55:58+00:00
 Texto:
 .
@@ -264,7 +264,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:55:58+00:00
 Texto:
 .
@@ -272,7 +272,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:55:57+00:00
 Texto:
 .
@@ -280,7 +280,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:55:57+00:00
 Texto:
 ..
@@ -288,7 +288,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:55:57+00:00
 Texto:
 .
@@ -296,7 +296,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:55:57+00:00
 Texto:
 .
@@ -304,7 +304,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:55:56+00:00
 Texto:
 .
@@ -312,7 +312,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:55:56+00:00
 Texto:
 ..
@@ -320,7 +320,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:55:56+00:00
 Texto:
 .
@@ -328,7 +328,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:55:56+00:00
 Texto:
 https://chatgpt.com/c/67f76c64-17d8-8009-b30f-5adfe24800d7
@@ -337,7 +337,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 27
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:55:55+00:00
 Texto:
 1
@@ -345,7 +345,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 28
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-10T06:55:24+00:00
 Texto: [Sem texto]
 

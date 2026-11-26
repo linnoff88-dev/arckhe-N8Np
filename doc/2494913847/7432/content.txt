@@ -10,7 +10,7 @@ Midias baixadas: 4
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-09T03:52:26+00:00
 Texto:
 **Resumo do vídeo: "O Segredo para Tornar Agentes de IA 100% Confiáveis no n8n"**
@@ -68,7 +68,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-09T03:50:14+00:00
 Texto:
 **O segredo para tornar agentes de IA 100% confiáveis no n8n**
@@ -80,7 +80,7 @@ Como configurar um sistema, sem escrever nenhuma linha de código, que permite r
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-09T03:48:31+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> HITL_Example_Flows.json
@@ -88,7 +88,7 @@ Midia: MessageMediaDocument -> HITL_Example_Flows.json
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-09T03:48:26+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_7442_004.jpg
@@ -96,7 +96,7 @@ Midia: MessageMediaPhoto -> photo_7442_004.jpg
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-09T03:46:38+00:00
 Texto:
 ap21 - HITL - Agentes de IA 100% confiáveis
@@ -104,7 +104,7 @@ ap21 - HITL - Agentes de IA 100% confiáveis
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-09T03:46:36+00:00
 Texto:
 .
@@ -112,7 +112,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-09T03:46:36+00:00
 Texto:
 .
@@ -120,7 +120,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-09T03:46:36+00:00
 Texto:
 .
@@ -128,7 +128,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-09T03:46:36+00:00
 Texto:
 .
@@ -136,7 +136,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-09T03:46:35+00:00
 Texto:
 .
@@ -144,7 +144,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-09T03:46:35+00:00
 Texto:
 .
@@ -152,7 +152,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-09T03:46:35+00:00
 Texto:
 https://chatgpt.com/c/681d790c-6b44-8009-a873-aa517c0aa40c
@@ -161,7 +161,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-09T03:46:34+00:00
 Texto:
 1
@@ -169,7 +169,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-05-09T03:46:25+00:00
 Texto: [Sem texto]
 

@@ -10,7 +10,7 @@ Midias baixadas: 2
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T03:09:49+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> email_categorization.json
@@ -18,7 +18,7 @@ Midia: MessageMediaDocument -> email_categorization.json
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T03:09:45+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12741_002.jpg
@@ -26,7 +26,7 @@ Midia: MessageMediaPhoto -> photo_12741_002.jpg
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T03:09:01+00:00
 Texto:
 m29 - Gmail Categorizaçêo
@@ -34,7 +34,7 @@ m29 - Gmail Categorizaçêo
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T03:09:00+00:00
 Texto:
 .
@@ -42,7 +42,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T03:08:59+00:00
 Texto:
 .
@@ -50,7 +50,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T03:08:59+00:00
 Texto:
 .
@@ -58,7 +58,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T03:08:58+00:00
 Texto:
 .
@@ -66,7 +66,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T03:08:58+00:00
 Texto:
 .
@@ -74,7 +74,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T03:08:57+00:00
 Texto:
 1
@@ -82,7 +82,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-13T03:08:51+00:00
 Texto: [Sem texto]
 

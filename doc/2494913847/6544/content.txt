@@ -18,7 +18,7 @@ Show
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T03:47:01+00:00
 Texto:
 dublado
@@ -26,7 +26,7 @@ dublado
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T03:46:58+00:00
 Texto:
 https://www.youtube.com/watch?v=-E0kaamo3uw
@@ -35,7 +35,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T03:44:27+00:00
 Texto:
 https://getimg.ai/tools/api?utm_source=chatgpt.com
@@ -44,7 +44,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T03:44:10+00:00
 Texto:
 https://medium.com/%40admin_13769/ai-image-generation-api-competition-which-is-the-most-cost-effective-omniinfer-dezgo-clipdrop-58652c8b6800?utm_source=chatgpt.com
@@ -53,7 +53,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T03:43:57+00:00
 Texto:
 https://getimg.ai/tools/api?utm_source=chatgpt.com
@@ -62,7 +62,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T03:43:43+00:00
 Texto:
 https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans
@@ -71,7 +71,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T03:43:10+00:00
 Texto:
 https://openai.com/api/pricing/
@@ -80,7 +80,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T03:42:08+00:00
 Texto:
 https://platform.openai.com/docs/models
@@ -89,7 +89,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T03:41:42+00:00
 Texto:
 https://platform.openai.com/docs/guides/image-generation
@@ -98,7 +98,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T03:41:18+00:00
 Texto:
 =====================
@@ -106,7 +106,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T03:41:13+00:00
 Texto:
 **j86) Criar Posts Virais Ilimitados no Instagram**
@@ -218,7 +218,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T03:38:41+00:00
 Texto:
 Criar Posts Virais Ilimitados no Instagram (Com Um Clique)
@@ -240,7 +240,7 @@ PS – Isso também inclui como editar as imagens
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T03:37:09+00:00
 Texto:
 make
@@ -249,7 +249,7 @@ Midia: MessageMediaDocument -> Create Unlimited Viral Instagram Posts (One Click
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T03:36:58+00:00
 Texto:
 n8n
@@ -258,7 +258,7 @@ Midia: MessageMediaDocument -> Create_Unlimited_Viral_Instagram_Posts__One_Click
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T03:32:42+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6554_016.jpg
@@ -266,7 +266,7 @@ Midia: MessageMediaPhoto -> photo_6554_016.jpg
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T03:32:01+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_6553_017.jpg
@@ -274,7 +274,7 @@ Midia: MessageMediaPhoto -> photo_6553_017.jpg
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T03:28:31+00:00
 Texto:
 j86- Criar Posts Virais Ilimitados no Instagram
@@ -282,7 +282,7 @@ j86- Criar Posts Virais Ilimitados no Instagram
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T03:28:30+00:00
 Texto:
 .
@@ -290,7 +290,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T03:28:27+00:00
 Texto:
 .
@@ -298,7 +298,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T03:28:27+00:00
 Texto:
 .
@@ -306,7 +306,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 22
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T03:28:26+00:00
 Texto:
 .
@@ -314,7 +314,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 23
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T03:28:26+00:00
 Texto:
 .
@@ -322,7 +322,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 24
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T03:28:25+00:00
 Texto:
 https://chatgpt.com/c/680da3da-dd50-8009-b86a-5c1b438b5ee0
@@ -331,7 +331,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 25
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T03:28:25+00:00
 Texto:
 1
@@ -339,7 +339,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 26
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-04-27T03:27:48+00:00
 Texto: [Sem texto]
 

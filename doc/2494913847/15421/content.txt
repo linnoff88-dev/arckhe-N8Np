@@ -10,7 +10,7 @@ Midias baixadas: 5
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T23:11:49+00:00
 Texto:
 ### Hacks e truques avançados da automaçêo YouTube + TikTok
@@ -109,7 +109,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T23:11:13+00:00
 Texto:
 =====================
@@ -117,7 +117,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T23:11:09+00:00
 Texto:
 ### Passo a passo da automaçêo YouTube + TikTok
@@ -257,7 +257,7 @@ Um sistema automatizado que:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T23:10:35+00:00
 Texto:
 =================
@@ -265,7 +265,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T23:10:31+00:00
 Texto:
 ### Resumo geral 
@@ -389,7 +389,7 @@ Ela **analisa vídeos de concorrentes**, aprende o que funciona e **gera conteú
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T23:06:22+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15435_006.jpg
@@ -397,7 +397,7 @@ Midia: MessageMediaPhoto -> photo_15435_006.jpg
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T23:05:51+00:00
 Texto:
 ===============
@@ -405,7 +405,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T23:05:48+00:00
 Texto:
 57. Gêneros – Ideias Virais para YouTube e Redes Sociais
@@ -484,7 +484,7 @@ Recursos
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T23:04:35+00:00
 Texto:
 Ideia para o próximo nível:
@@ -508,7 +508,7 @@ Você pode aplicar isso se for **agência, SaaS, consultor ou criador** que quer
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T23:03:00+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Estratega_Youtube y Tiktok.json
@@ -516,7 +516,7 @@ Midia: MessageMediaDocument -> Estratega_Youtube y Tiktok.json
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T23:03:00+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Análisis YouTube.xlsx
@@ -524,7 +524,7 @@ Midia: MessageMediaDocument -> Análisis YouTube.xlsx
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T23:02:54+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_15429_012.jpg
@@ -532,7 +532,7 @@ Midia: MessageMediaPhoto -> photo_15429_012.jpg
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T23:02:07+00:00
 Texto:
 e57 - Gere Ideias Virais - Youtube e TikTok
@@ -540,7 +540,7 @@ e57 - Gere Ideias Virais - Youtube e TikTok
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T23:02:05+00:00
 Texto:
 .
@@ -548,7 +548,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T23:02:04+00:00
 Texto:
 .
@@ -556,7 +556,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T23:02:03+00:00
 Texto:
 .
@@ -564,7 +564,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T23:02:03+00:00
 Texto:
 .
@@ -572,7 +572,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T23:02:03+00:00
 Texto:
 https://chatgpt.com/c/6907d8f2-d0fc-832d-af64-7451883f8b59
@@ -581,7 +581,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T23:02:02+00:00
 Texto:
 1
@@ -589,7 +589,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-11-02T23:01:55+00:00
 Texto: [Sem texto]
 

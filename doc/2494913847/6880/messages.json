@@ -1,7 +1,7 @@
 [
   {
     "id": 6895,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T22:39:00+00:00",
     "text": "https://www.youtube.com/watch?v=4Gi3KIUTVXQ",
     "has_media": true,
@@ -9,7 +9,7 @@
   },
   {
     "id": 6894,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T22:38:41+00:00",
     "text": "O vídeo ensina como construir um **Agente de IA** que **reaproveita automaticamente notícias e blogs** para criar **posts no Threads**, utilizando **OpenAI**, **Exa AI** e **Google Sheets**.  \nO sistema é 100% automatizado e tem **dois fluxos principais**:\n\n1. **Fluxo 1: Consulta e Reaproveitamento de Notícias**\n   - Transforma categorias em perguntas de linguagem natural.\n   - Busca **10 artigos relevantes** usando Exa AI.\n   - Reaproveita o conteúdo em posts para Threads.\n   - Se o texto ultrapassar 500 caracteres (limite do Threads), divide em vários posts encadeados (threads).\n   - Armazena os posts prontos no **Google Sheets** com status \"pendente\".\n\n2. **Fluxo 2: Agendamento e Publicaçêo das Threads**\n   - Identifica posts pendentes no Google Sheets.\n   - Verifica se o conteúdo é único ou uma sequência (thread).\n   - Publica os posts no Threads:\n     - Se for sequência, publica cada parte como resposta à anterior, criando a thread.\n   - Atualiza o status no Google Sheets como \"postado\".\n\nOutros detalhes:\n- O sistema agenda a busca e publicaçêo em horários definidos.\n- OpenAI é usado para transformar notícias em posts no formato adequado.\n- Exa AI é utilizado para buscar as notícias relevantes.\n- O processo inclui a configuraçêo de IDs de posts para manter o encadeamento correto das mensagens no Threads.\n\nResumo final:\n\nSistema de automaçêo completo que coleta notícias, gera posts formatados para Threads, divide em partes se necessário, publica de forma encadeada e atualiza o controle no Google Sheets.",
     "has_media": false,
@@ -17,7 +17,7 @@
   },
   {
     "id": 6893,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T22:37:33+00:00",
     "text": "Agente de IA para Reaproveitar Notícias Automaticamente em Threads Envolventes (100% Automatizado)  \n\nComo construir um Agente de IA que reaproveita automaticamente notícias e conteúdos de blogs em posts no Threads, usando OpenAI, Exa AI e Google Sheets! \n\nEsse sistema formata, agenda e publica o conteúdo de forma fluida, ajudando você a manter a consistência com Threads de alta qualidade.",
     "has_media": false,
@@ -25,7 +25,7 @@
   },
   {
     "id": 6892,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T22:36:26+00:00",
     "text": "",
     "has_media": true,
@@ -34,7 +34,7 @@
   },
   {
     "id": 6891,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T22:36:19+00:00",
     "text": "",
     "has_media": true,
@@ -43,7 +43,7 @@
   },
   {
     "id": 6890,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T22:36:11+00:00",
     "text": "",
     "has_media": true,
@@ -52,7 +52,7 @@
   },
   {
     "id": 6889,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T22:34:42+00:00",
     "text": "als08 - Reaproveitar Notícias Automaticamente em Threads Envolventes",
     "has_media": false,
@@ -60,7 +60,7 @@
   },
   {
     "id": 6888,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T22:34:41+00:00",
     "text": "...",
     "has_media": false,
@@ -68,7 +68,7 @@
   },
   {
     "id": 6887,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T22:34:41+00:00",
     "text": "..",
     "has_media": false,
@@ -76,7 +76,7 @@
   },
   {
     "id": 6886,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T22:34:40+00:00",
     "text": ".",
     "has_media": false,
@@ -84,7 +84,7 @@
   },
   {
     "id": 6885,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T22:34:40+00:00",
     "text": "..",
     "has_media": false,
@@ -92,7 +92,7 @@
   },
   {
     "id": 6884,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T22:34:40+00:00",
     "text": ".",
     "has_media": false,
@@ -100,7 +100,7 @@
   },
   {
     "id": 6883,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T22:34:40+00:00",
     "text": ".",
     "has_media": false,
@@ -108,7 +108,7 @@
   },
   {
     "id": 6882,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T22:34:40+00:00",
     "text": "https://chatgpt.com/c/68100261-51e8-8009-bbf4-94320a31399d",
     "has_media": true,
@@ -116,7 +116,7 @@
   },
   {
     "id": 6881,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T22:34:39+00:00",
     "text": "1",
     "has_media": false,
@@ -124,7 +124,7 @@
   },
   {
     "id": 6880,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-04-28T22:34:34+00:00",
     "text": "",
     "has_media": false,

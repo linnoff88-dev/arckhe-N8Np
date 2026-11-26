@@ -1,7 +1,7 @@
 [
   {
     "id": 12432,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-08-10T02:31:09+00:00",
     "text": "voce pode usar qq um destes exemplos. tem muitos na lista do menus",
     "has_media": false,
@@ -17,7 +17,7 @@
   },
   {
     "id": 12044,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-30T02:06:17+00:00",
     "text": "",
     "has_media": true,
@@ -26,7 +26,7 @@
   },
   {
     "id": 12043,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-30T01:53:17+00:00",
     "text": "",
     "has_media": true,
@@ -35,7 +35,7 @@
   },
   {
     "id": 12042,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-30T01:52:09+00:00",
     "text": "===============",
     "has_media": false,
@@ -43,7 +43,7 @@
   },
   {
     "id": 12024,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-29T20:03:16+00:00",
     "text": "### **Conclusêo Prática**\n\nA **engenharia de contexto é essencial para automações de IA** robustas e confiáveis. Agentes bem estruturados:\n\n* Fazem menos erros,\n* Sêo mais rápidos,\n* Custam menos para operar,\n* E entregam resultados mais relevantes e personalizados.\n\nA lógica geral se baseia na ideia de **dar ao agente uma \"cola\" (cheat sheet) que ele possa consultar sempre, em vez de depender só do que “estudou” (prompt)**.\n\n---\n\nSe quiser, posso criar um **diagrama visual 16:9** com todos os blocos e fluxo dessas seis lições aplicadas a um exemplo real. Deseja isso?",
     "has_media": false,
@@ -51,7 +51,7 @@
   },
   {
     "id": 12023,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-29T20:03:16+00:00",
     "text": "Aqui está um **resumo completo** **“6 Lições de Engenharia de Contexto - Automações de IA (sem código)”**, seguido da **lista das 6 lições com exemplos e respostas**:\n\n---\n\n### **Resumo Completo**\n\nApós desenvolver mais de 200 automações de IA sem código, o criador percebeu que **a engenharia de contexto é o fator mais decisivo** na qualidade e consistência dos agentes de IA.\n\nDiferente da engenharia de prompts (que foca em uma única instruçêo bem formulada), a **engenharia de contexto estrutura um sistema dinâmico onde o agente consegue buscar, compreender e usar informações relevantes** de maneira inteligente e contínua. Isso transforma o agente de uma simples ferramenta de perguntas e respostas para um assistente contextual e útil.\n\nO autor divide esse conceito em **seis lições práticas**, todas com foco em aplicações reais usando ferramentas como o **n8n**.\n\n---\n\n### **As 6 Lições de Engenharia de Contexto com Exemplos e Aplicações**\n\n#### **1. Entender os Componentes do Contexto**\n\n* **Resumo**: Um bom agente precisa considerar múltiplas fontes de contexto:\n\n  * Entrada do usuário\n  * System prompt (instruçêo-base)\n  * Memória (curto e longo prazo)\n  * Recuperaçêo de conhecimento externo (RAG)\n  * Ferramentas\n  * Formato de saída esperado\n* **Exemplo**: Um agente que recebe uma pergunta, consulta um banco de dados vetorial, lembra das preferências do usuário e responde em JSON estruturado.\n\n---\n\n#### **2. Implementar Memória (Curto, Longo Prazo e Sessões)**\n\n* **Resumo**:\n\n  * **Memória de trabalho**: dentro da execuçêo atual.\n  * **Memória de curto prazo**: últimas mensagens do usuário.\n  * **Memória de longo prazo**: dados persistentes, como preferências e histórico.\n* **Técnica**: Usar identificadores de sessêo (ex: e-mail) para manter conversas separadas.\n* **Exemplo**: O agente lembra que \"Workflow\" é o nome do cachorro do usuário mesmo após várias conversas.\n\n---\n\n#### **3. Usar Ferramentas Externas (Tool/RAG Calling)**\n\n* **Resumo**: Permitir que o agente interaja com ferramentas externas como APIs, CRMs, Google Sheets, etc.\n* **RAG (Retrieval-Augmented Generation)**: O agente busca informaçêo externa para responder com mais precisêo.\n* **Exemplo**: O agente consulta a OpenWeatherMap para dizer a previsêo do tempo ou busca um documento no Supabase antes de responder.\n\n---\n\n#### **4. Aplicar Recuperaçêo Baseada em Chunk (Chunk-based Retrieval)**\n\n* **Resumo**: Dividir documentos grandes em pedaços (chunks), indexar com embeddings e buscar apenas partes relevantes.\n* **Limitaçêo**: Pode perder o contexto geral do documento.\n* **Técnicas de melhoria**:\n\n  * Adicionar **metadados** (título, URL, timestamp)\n  * Usar **re-rankers** para selecionar os chunks mais relevantes\n* **Exemplo**: Um vídeo do YouTube é dividido e indexado; o agente usa os metadados para saber de qual trecho e vídeo veio a informaçêo.\n\n---\n\n#### **5. Aplicar Técnicas de Resumo (Summarization)**\n\n* **Resumo**: Reduzir grandes blocos de texto para versões resumidas, economizando tokens e mantendo a informaçêo essencial.\n* **Aplicações**:\n\n  * Resumir respostas de subagentes\n  * Controlar o custo por token\n* **Exemplo**: Subagente faz consulta a banco vetorial, resume o conteúdo e envia para o agente principal — menor custo, mesma eficácia.\n\n---\n\n#### **6. Adotar a Mentalidade Certa (Mindset)**\n\n* **Resumo das 5 práticas recomendadas**:\n\n  1. **Comece pelo fim**: entenda o objetivo final do agente e os dados que ele precisa.\n  2. **Planeje o pipeline de dados**: dados estáticos ou dinâmicos, frequência de atualizaçêo, automações de coleta.\n  3. **Garanta precisêo dos dados**: dados desatualizados resultam em respostas ruins.\n  4. **Otimize a janela de contexto**: alimente o agente apenas com o que é mais relevante.\n  5. **Especialize seus agentes**: divida o trabalho entre agentes especializados para melhorar performance e controle de custos.\n* **Exemplo**: Um agente “assistente final” só delega tarefas, enquanto outros agentes especializados escrevem conteúdo, consultam contatos e enviam e-mails.\n\n---",
     "has_media": false,
@@ -59,7 +59,7 @@
   },
   {
     "id": 12022,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-29T20:00:18+00:00",
     "text": "",
     "has_media": true,
@@ -68,7 +68,7 @@
   },
   {
     "id": 12021,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-29T20:00:00+00:00",
     "text": "",
     "has_media": true,
@@ -77,7 +77,7 @@
   },
   {
     "id": 12020,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-29T19:58:50+00:00",
     "text": "",
     "has_media": true,
@@ -86,7 +86,7 @@
   },
   {
     "id": 12019,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-29T19:58:28+00:00",
     "text": "",
     "has_media": true,
@@ -95,7 +95,7 @@
   },
   {
     "id": 12018,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-29T19:58:00+00:00",
     "text": "==================",
     "has_media": false,
@@ -103,7 +103,7 @@
   },
   {
     "id": 12017,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-29T19:57:57+00:00",
     "text": "Quando falamos de **engenharia de contexto**, principalmente aplicada a automações com IA (como no n8n, Make ou agentes personalizados), existem **elementos básicos fundamentais** que formam a base para que o agente entenda, decida e aja corretamente.\n\n---\n\n### **Elementos Básicos da Engenharia de Contexto**\n\n1. **Entrada do Usuário (User Input)**\n\n   * O que o usuário diz, digita ou envia.\n   * Exemplo: “Quero saber o saldo da minha conta.”\n\n2. **System Prompt (Instruçêo Base)**\n\n   * Define o comportamento do agente, regras, limites e tom de voz.\n   * Exemplo: “Você é um assistente bancário. Responda com linguagem clara e amigável.”\n\n3. **Memória**\n\n   * **Curto Prazo (Janela de contexto):** Armazena últimas interações.\n   * **Longo Prazo:** Informações persistentes do usuário.\n   * Exemplo: Nome, preferências, histórico de ações.\n\n4. **Recuperaçêo de Conhecimento (RAG - Retrieval-Augmented Generation)**\n\n   * Busca dados externos em tempo real: bancos vetoriais, bancos relacionais, APIs, documentos.\n   * Exemplo: Buscar PDF com contrato, consultar base com histórico de compras.\n\n5. **Ferramentas e Funções (Tool/Function Calling)**\n\n   * Ações que a IA pode executar: enviar e-mail, salvar no banco, consultar API.\n   * Exemplo: Ferramenta de previsêo do tempo ou integraçêo com o CRM.\n\n6. **Formataçêo da Resposta (Structured Output)**\n\n   * Define como a IA deve entregar o resultado.\n   * Exemplo: JSON, Markdown, mensagem com botões, texto simples.\n\n7. **Identificaçêo da Sessêo (Session ID)**\n\n   * Relaciona contexto com cada usuário/conversa de forma separada.\n   * Exemplo: ID de e-mail, número de telefone, token de sessêo.\n\n8. **Pipeline de Dados (Data Flow e Padronizaçêo)**\n\n   * Como os dados entram, sêo limpos, organizados, classificados e entregues para a IA.\n   * Exemplo: Transformar um PDF em chunks e enriquecer com metadados.",
     "has_media": false,
@@ -111,7 +111,7 @@
   },
   {
     "id": 12016,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-29T19:57:36+00:00",
     "text": "",
     "has_media": true,
@@ -120,7 +120,7 @@
   },
   {
     "id": 12015,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-29T19:55:35+00:00",
     "text": "==================",
     "has_media": false,
@@ -128,7 +128,7 @@
   },
   {
     "id": 12014,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-29T19:55:31+00:00",
     "text": "**Engenharia de contexto no n8n** é a prática de **estruturar e fornecer informações certas para que um agente de IA consiga tomar decisões melhores dentro de um fluxo automatizado**. Em vez de apenas usar um prompt fixo, o agente recebe dados relevantes e atualizados — como histórico, documentos, preferências do usuário e ferramentas disponíveis — **em tempo real**, adaptando-se a cada situaçêo.\n\n---\n\n### **Resumo direto do conceito:**\n\n**Engenharia de contexto no n8n é como montar um sistema que \"alimenta a IA com o que ela precisa saber no momento certo\" para gerar respostas úteis e personalizadas.**\n\n---\n\n### **Como isso se aplica no n8n:**\n\n1. **Entrada do usuário (gatilho)**\n\n   * Ex: Mensagem do Telegram, e-mail, formulário etc.\n\n2. **Prompt base (System Prompt personalizado)**\n\n   * Define o papel do agente, ferramentas disponíveis e o que ele deve fazer.\n\n3. **Memória de curto e longo prazo**\n\n   * **Curto prazo**: histórico recente da conversa (armazenado em variável ou banco de dados).\n   * **Longo prazo**: informações do usuário (armazenadas em Supabase, Notion, CRM etc).\n\n4. **Recuperaçêo de dados com RAG (tool calling)**\n\n   * O agente busca informações em fontes externas (ex: Supabase, Google Drive, API do tempo, CRM).\n\n5. **Resumos ou chunking inteligentes**\n\n   * Textos longos sêo resumidos ou divididos em blocos menores e relevantes antes de serem enviados à IA.\n\n6. **Saída estruturada e açêo**\n\n   * A IA gera um resultado estruturado (JSON, texto, instruçêo), e o n8n usa isso para enviar e-mails, criar registros, acionar outras automações etc.\n\n---\n\n### **Exemplo simples prático:**\n\nUm usuário envia \"Quero um resumo do contrato do Joêo\".\n\nNo fluxo do n8n:\n\n* Gatilho: Telegram → “Resumo do contrato do Joêo”\n* IA é acionada com:\n\n  * System prompt + instruçêo\n  * Busca o contrato do Joêo no Supabase\n  * Resume com uma funçêo de IA\n  * Armazena em memória (opcional)\n  * Retorna a resposta para o Telegram\n\n---\n\n### **Frase final para lembrar:**\n\n**Engenharia de contexto no n8n é transformar dados soltos em inteligência acionável, ajustando o que a IA precisa saber em cada etapa da automaçêo.**",
     "has_media": false,
@@ -136,7 +136,7 @@
   },
   {
     "id": 12013,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-29T19:53:33+00:00",
     "text": "",
     "has_media": true,
@@ -145,7 +145,7 @@
   },
   {
     "id": 12012,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-29T19:53:12+00:00",
     "text": "nm61 - Engenharia de Contexto no N8N",
     "has_media": false,
@@ -153,7 +153,7 @@
   },
   {
     "id": 12011,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-29T19:53:11+00:00",
     "text": ".",
     "has_media": false,
@@ -161,7 +161,7 @@
   },
   {
     "id": 12010,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-29T19:53:11+00:00",
     "text": ".",
     "has_media": false,
@@ -169,7 +169,7 @@
   },
   {
     "id": 12009,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-29T19:53:11+00:00",
     "text": ".",
     "has_media": false,
@@ -177,7 +177,7 @@
   },
   {
     "id": 12008,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-29T19:53:10+00:00",
     "text": ".",
     "has_media": false,
@@ -185,7 +185,7 @@
   },
   {
     "id": 12007,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-29T19:53:10+00:00",
     "text": ".",
     "has_media": false,
@@ -193,7 +193,7 @@
   },
   {
     "id": 12006,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-29T19:53:10+00:00",
     "text": "https://chatgpt.com/c/6888e454-9128-8329-8817-44f4b179b694",
     "has_media": true,
@@ -201,7 +201,7 @@
   },
   {
     "id": 12005,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-29T19:53:09+00:00",
     "text": "1",
     "has_media": false,
@@ -209,7 +209,7 @@
   },
   {
     "id": 12004,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-07-29T19:53:00+00:00",
     "text": "",
     "has_media": false,

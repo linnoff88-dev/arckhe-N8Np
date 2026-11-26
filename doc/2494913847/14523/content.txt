@@ -10,7 +10,7 @@ Midias baixadas: 1
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T03:25:42+00:00
 Texto:
 =================
@@ -18,7 +18,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T03:25:36+00:00
 Texto:
 Resumo completo
@@ -61,7 +61,7 @@ Tópicos com exemplos e respostas
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T03:25:36+00:00
 Texto:
 Segue um fluxo completo em Mermaid para um sistema de gestêo e atendimento de uma ONG de pets. Incluí as etapas principais, decisões, integrações e retornos. Depois do diagrama, deixei um resumo e uma lista com exemplos e respostas rápidas.
@@ -131,7 +131,7 @@ Segue um fluxo completo em Mermaid para um sistema de gestêo e atendimento de u
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T03:23:49+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_14531_004.jpg
@@ -139,7 +139,7 @@ Midia: MessageMediaPhoto -> photo_14531_004.jpg
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T03:23:46+00:00
 Texto:
 .
@@ -147,7 +147,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T03:23:45+00:00
 Texto:
 ..
@@ -155,7 +155,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T03:23:45+00:00
 Texto:
 .
@@ -163,7 +163,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T03:23:45+00:00
 Texto:
 .
@@ -171,7 +171,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T03:23:44+00:00
 Texto:
 .
@@ -179,7 +179,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T03:23:44+00:00
 Texto:
 .
@@ -187,7 +187,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T03:23:43+00:00
 Texto:
 1
@@ -195,7 +195,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-09-22T03:23:28+00:00
 Texto: [Sem texto]
 

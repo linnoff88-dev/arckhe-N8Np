@@ -10,7 +10,7 @@ Midias baixadas: 5
 --------------------------------------------------
 
 MENSAGEM 1
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T18:55:06+00:00
 Texto:
 dublado
@@ -18,7 +18,7 @@ dublado
 ------------------------------
 
 MENSAGEM 2
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T18:55:02+00:00
 Texto:
 https://www.youtube.com/watch?v=qTVFGTup5qM
@@ -27,7 +27,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 3
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T18:51:58+00:00
 Texto:
 ### 🚀 HACKS GERAIS
@@ -114,7 +114,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 4
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T18:50:25+00:00
 Texto:
 =======================
@@ -122,7 +122,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 5
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T18:50:22+00:00
 Texto:
 Aqui está um **passo a passo completo** para montar o *AI Agent Army* no **n8n** com o **GPT-5**, baseado no vídeo. Dividi em blocos organizados por etapas principais e agentes envolvidos.
@@ -272,7 +272,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 6
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T18:50:05+00:00
 Texto:
 ===========
@@ -280,7 +280,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 7
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T18:49:07+00:00
 Texto:
 Como usar o GPT-5 para montar um “exército” de agentes de IA integrados no n8n, com um template gratuito. Ele faz demonstrações e depois explica a configuraçêo de cada agente.
@@ -314,7 +314,7 @@ Principais pontos:
 ------------------------------
 
 MENSAGEM 8
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T18:45:05+00:00
 Texto:
 **Crie seu próprio exército de agentes de IA com OpenAI GPT-5**
@@ -324,7 +324,7 @@ Guia passo a passo sobre como criar um exército de agentes de IA usando o GPT-5
 ------------------------------
 
 MENSAGEM 9
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T18:44:32+00:00
 Texto: [Sem texto]
 Midia: MessageMediaDocument -> Tutorial 35 - GPT-5 AI Agent Army.json
@@ -332,7 +332,7 @@ Midia: MessageMediaDocument -> Tutorial 35 - GPT-5 AI Agent Army.json
 ------------------------------
 
 MENSAGEM 10
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T18:44:27+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_12533_010.jpg
@@ -340,7 +340,7 @@ Midia: MessageMediaPhoto -> photo_12533_010.jpg
 ------------------------------
 
 MENSAGEM 11
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T18:42:50+00:00
 Texto:
 al48 - Exercito de Agentes GPT5
@@ -348,7 +348,7 @@ al48 - Exercito de Agentes GPT5
 ------------------------------
 
 MENSAGEM 12
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T18:42:46+00:00
 Texto:
 .
@@ -356,7 +356,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 13
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T18:42:44+00:00
 Texto:
 .
@@ -364,7 +364,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 14
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T18:42:43+00:00
 Texto:
 .
@@ -372,7 +372,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 15
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T18:42:41+00:00
 Texto:
 .
@@ -380,7 +380,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 16
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T18:42:40+00:00
 Texto:
 .
@@ -388,7 +388,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 17
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T18:42:38+00:00
 Texto:
 .
@@ -396,7 +396,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 18
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T18:42:37+00:00
 Texto:
 .
@@ -404,7 +404,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 19
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T18:42:35+00:00
 Texto:
 https://chatgpt.com/c/689a3ace-b90c-8325-b059-c90d693b6cf4?model=gpt-4o
@@ -413,7 +413,7 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 20
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T18:42:33+00:00
 Texto:
 1
@@ -421,7 +421,7 @@ Texto:
 ------------------------------
 
 MENSAGEM 21
-Autor: INEMA
+Autor: ARCKHÉ
 Data: 2025-08-11T18:42:27+00:00
 Texto: [Sem texto]
 

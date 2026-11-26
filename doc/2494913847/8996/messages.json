@@ -42,7 +42,7 @@
   },
   {
     "id": 9017,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-08T04:53:46+00:00",
     "text": "",
     "has_media": true,
@@ -59,7 +59,7 @@
   },
   {
     "id": 9015,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-08T04:51:39+00:00",
     "text": "esta dublado",
     "has_media": false,
@@ -67,7 +67,7 @@
   },
   {
     "id": 9014,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-08T04:51:32+00:00",
     "text": "https://www.youtube.com/watch?v=zW033BRgBVk",
     "has_media": true,
@@ -75,7 +75,7 @@
   },
   {
     "id": 9013,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-08T04:51:13+00:00",
     "text": "**Resumo completo do vídeo \"Sell this \\$100k AI Dashboard… Loveable 2.0\"**\n\nO vídeo apresenta um tutorial prático e detalhado para construir um **painel de IA avaliado em até US\\$ 100 mil**, usando **zero código**, com automações no **Lovable 2.0**, integrado com **Airtable**, **n8n**, **11 Labs** e **Apify**. O foco está em resolver problemas de negócios com sistemas inteligentes e nêo apenas “vender IA”.\n\n### Etapas e Funcionalidades Demonstradas:\n\n1. **Criaçêo do Painel com Lovable 2.0**\n\n   * Interface construída por comando de texto ou voz.\n   * Apresenta gráficos acionáveis e atualizados com dados reais do Airtable.\n   * Interface mobile-first, responsiva e com visual futurista.\n\n2. **Sistema com Métricas de Negócio**\n\n   * Métricas: leads, agendamentos, apresentações, vendas, conversêo e foco.\n   * Dados organizados no Airtable e atualizados em tempo real.\n   * IA gera insights e plano de açêo com base nos números.\n\n3. **Integraçêo com Agente de Voz (11 Labs)**\n\n   * Criaçêo de um agente chamado “Archer”.\n   * Capaz de responder perguntas, dar conselhos estratégicos e marcar reuniões.\n   * Integraçêo com voz realista, adaptável por idioma e sotaque.\n\n4. **Uso de RAG (Retrieval-Augmented Generation)**\n\n   * Permite ao agente acessar e interpretar dados do site do cliente.\n   * Utiliza **Apify** para extrair todo o conteúdo de websites.\n   * IA responde com base no contexto atualizado da empresa.\n\n5. **Automaçêo com n8n**\n\n   * O agente aciona webhooks e executa fluxos conforme comandos do usuário.\n   * Ações possíveis: agendar reuniêo, buscar dados, enviar e-mail, atualizar registros etc.\n   * Sistema modular com subagentes especializados.\n\n6. **Design e Personalizaçêo**\n\n   * Dashboard estilizado com logo e cores da marca do cliente.\n   * Fontes como \"Poppins\", design limpo e moderno.\n   * Possibilidade de embutir gráficos dinâmicos no site.\n\n7. **Venda do Sistema**\n\n   * Estratégia baseada em entrega de valor: mostrar métricas, diagnosticar gargalos e sugerir melhorias.\n   * Modelo escalável: uma única aplicaçêo pode ser personalizada por cliente.\n   * Potencial de venda por US\\$ 10 mil a US\\$ 100 mil, com custo de manutençêo muito baixo.\n\n---\n\n### Aplicações e Exemplos:\n\n* **Exemplo prático de conversêo**: 100 leads → 50 agendamentos → 20 apresentações → 6 vendas → 30% conversêo.\n* **Ajuste de foco automático**: se a taxa de apresentaçêo for baixa, o sistema sugere ações para aumentar esse índice.\n* **Substitui apresentações estáticas**: o painel com voz e dados vivos torna-se a apresentaçêo.\n\n---\n\n### Conclusêo:\n\nO projeto mostra como combinar ferramentas no-code para criar um painel interativo, inteligente e personalizável, com potencial de alto valor de mercado. A abordagem mostra como transformar dados e IA em uma experiência real para o cliente, indo além do “produto bonito” e focando em **resultados concretos e mensuráveis**.",
     "has_media": false,
@@ -83,7 +83,7 @@
   },
   {
     "id": 9012,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-08T04:51:06+00:00",
     "text": "===========",
     "has_media": false,
@@ -91,15 +91,15 @@
   },
   {
     "id": 9011,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-08T04:47:22+00:00",
-    "text": "**j92) Venda este Painel de IA de \\$100 mil… Loveable 2.0**\n\nComo construir um painel de controle com IA avaliado em \\$100.000 usando automações sem código no Loveable 2.0.\n\nVocê aprenderá a configurar um sistema de geraçêo aumentada por recuperaçêo (RAG), integrar agentes de voz personalizados com a tecnologia da Eleven Labs e extrair dados de sites de clientes de forma simples com o Apify — sem necessidade de experiência em programaçêo.\n\n🧰 **Ferramentas**\n🔥 Loveable: [https://lovable.dev/?via=jack](https://lovable.dev/?via=inematds)\n🧠 n8n: [https://n8n.io](https://n8n.io/)\n🌍 Eleven Labs: [https://elevenlabs.io/?from=inematds](https://elevenlabs.io/?from=inematds\n📊 Airtable: https://airtable.com/invite/r/OCq1Acz2 \n📊 Dados de exemplo no Airtable: [https://airtable.com/appMhqPcFFnysllda/shrMtI9pyJpMne6G0](https://airtable.com/appMhqPcFFnysllda/shrMtI9pyJpMne6G0)",
+    "text": "**j92) Venda este Painel de IA de \\$100 mil… Loveable 2.0**\n\nComo construir um painel de controle com IA avaliado em \\$100.000 usando automações sem código no Loveable 2.0.\n\nVocê aprenderá a configurar um sistema de geraçêo aumentada por recuperaçêo (RAG), integrar agentes de voz personalizados com a tecnologia da Eleven Labs e extrair dados de sites de clientes de forma simples com o Apify — sem necessidade de experiência em programaçêo.\n\n🧰 **Ferramentas**\n🔥 Loveable: [https://lovable.dev/?via=jack](https://lovable.dev/?via=linnoff88-dev)\n🧠 n8n: [https://n8n.io](https://n8n.io/)\n🌍 Eleven Labs: [https://elevenlabs.io/?from=linnoff88-dev](https://elevenlabs.io/?from=linnoff88-dev\n📊 Airtable: https://airtable.com/invite/r/OCq1Acz2 \n📊 Dados de exemplo no Airtable: [https://airtable.com/appMhqPcFFnysllda/shrMtI9pyJpMne6G0](https://airtable.com/appMhqPcFFnysllda/shrMtI9pyJpMne6G0)",
     "has_media": true,
     "media_type": "MessageMediaWebPage"
   },
   {
     "id": 9010,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-08T04:44:36+00:00",
     "text": "copie esta tabela",
     "has_media": false,
@@ -107,7 +107,7 @@
   },
   {
     "id": 9009,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-08T04:44:28+00:00",
     "text": "https://airtable.com/appVujzOvJkrkO7Ea/tblAljmDF0Taqp9WS/viw9WjIaz5tX7DYmt?blocks=show",
     "has_media": true,
@@ -115,7 +115,7 @@
   },
   {
     "id": 9008,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-08T04:43:24+00:00",
     "text": "",
     "has_media": true,
@@ -124,7 +124,7 @@
   },
   {
     "id": 9007,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-08T04:43:24+00:00",
     "text": "",
     "has_media": true,
@@ -133,7 +133,7 @@
   },
   {
     "id": 9005,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-08T04:41:18+00:00",
     "text": "",
     "has_media": true,
@@ -142,7 +142,7 @@
   },
   {
     "id": 9004,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-08T04:41:12+00:00",
     "text": "",
     "has_media": true,
@@ -151,7 +151,7 @@
   },
   {
     "id": 9003,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-08T04:40:53+00:00",
     "text": "j92 - Venda Painel $100 mil… Loveable 2.0",
     "has_media": false,
@@ -159,7 +159,7 @@
   },
   {
     "id": 9002,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-08T04:40:52+00:00",
     "text": "..",
     "has_media": false,
@@ -167,7 +167,7 @@
   },
   {
     "id": 9001,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-08T04:40:51+00:00",
     "text": ".",
     "has_media": false,
@@ -175,7 +175,7 @@
   },
   {
     "id": 9000,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-08T04:40:51+00:00",
     "text": ".",
     "has_media": false,
@@ -183,7 +183,7 @@
   },
   {
     "id": 8999,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-08T04:40:50+00:00",
     "text": ".",
     "has_media": false,
@@ -191,7 +191,7 @@
   },
   {
     "id": 8998,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-08T04:40:50+00:00",
     "text": "https://chatgpt.com/c/684513ae-84dc-8009-8aa9-df6bc8b699ed",
     "has_media": true,
@@ -199,7 +199,7 @@
   },
   {
     "id": 8997,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-08T04:40:49+00:00",
     "text": "1",
     "has_media": false,
@@ -207,7 +207,7 @@
   },
   {
     "id": 8996,
-    "author": "INEMA",
+    "author": "ARCKHÉ",
     "date": "2025-06-08T04:40:38+00:00",
     "text": "",
     "has_media": false,
