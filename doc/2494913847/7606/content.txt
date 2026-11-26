@@ -145,20 +145,20 @@ Este vídeo apresenta 25 truques e recursos escondidos do n8n, que ajudam tanto 
 * Testar fluxos com segurança
 * Criar automações mais limpas, confiáveis e eficientes
 
-As dicas cobrem desde atalhos de teclado, uso de dados fictícios e pinagem de resultados, até manipulação de arrays e controle de erros. Cada hack oferece ganhos práticos para acelerar o desenvolvimento de automações.
+As dicas cobrem desde atalhos de teclado, uso de dados fictícios e pinagem de resultados, até manipulaçêo de arrays e controle de erros. Cada hack oferece ganhos práticos para acelerar o desenvolvimento de automações.
 
 ---
 
 ### Lista dos 25 Hacks com Exemplos
 
-1. **Atalho para expressão (`=`)**
+1. **Atalho para expressêo (`=`)**
 
-   * Ao digitar `=` no campo, o valor vira expressão direto.
+   * Ao digitar `=` no campo, o valor vira expressêo direto.
    * Exemplo: transforme `High` em `={{ $json["value"] }}`.
 
 2. **Pinar dados**
 
-   * Salva o resultado de uma execução para evitar reprocessar.
+   * Salva o resultado de uma execuçêo para evitar reprocessar.
    * Ideal para APIs pagas como Perplexity.
 
 3. **Mock Data (dados fictícios)**
@@ -166,7 +166,7 @@ As dicas cobrem desde atalhos de teclado, uso de dados fictícios e pinagem de r
    * Simula dados em qualquer nó para testes rápidos.
    * Exemplo: `query: "test"`
 
-4. **Navegação entre nós**
+4. **Navegaçêo entre nós**
 
    * Use setas do teclado para navegar e `Enter` para abrir.
    * Economiza cliques.
@@ -190,7 +190,7 @@ As dicas cobrem desde atalhos de teclado, uso de dados fictícios e pinagem de r
 
 9. **Remover “enviado por n8n”**
 
-   * Desative a atribuição nos nós de e-mail, Telegram e Slack.
+   * Desative a atribuiçêo nos nós de e-mail, Telegram e Slack.
 
 10. **Data/hora atual com `{{$now}}`**
 
@@ -207,13 +207,13 @@ As dicas cobrem desde atalhos de teclado, uso de dados fictícios e pinagem de r
 
 13. **Variáveis do workflow**
 
-    * Acesse ID da execução, nome do fluxo, etc., via `{{$workflow}}`.
+    * Acesse ID da execuçêo, nome do fluxo, etc., via `{{$workflow}}`.
 
 14. **Subworkflow com dados específicos**
 
     * Defina campos como `nome`, `email` ao chamar sub-fluxos.
 
-15. **Visualizar subexecução**
+15. **Visualizar subexecuçêo**
 
     * Veja o que foi feito por um subworkflow em tempo real.
 
@@ -221,9 +221,9 @@ As dicas cobrem desde atalhos de teclado, uso de dados fictícios e pinagem de r
 
     * Veja como o agente interpretou e respondeu ao prompt.
 
-17. **Copiar dados do subworkflow para edição**
+17. **Copiar dados do subworkflow para ediçêo**
 
-    * Reaproveite dados de execução real para testes.
+    * Reaproveite dados de execuçêo real para testes.
 
 18. **“Human in the loop”**
 
@@ -235,7 +235,7 @@ As dicas cobrem desde atalhos de teclado, uso de dados fictícios e pinagem de r
 
 20. **Continuar mesmo com erro**
 
-    * Use a opção `Continue on Error` para não travar todo o fluxo.
+    * Use a opçêo `Continue on Error` para nêo travar todo o fluxo.
 
 21. **Erro com saída separada**
 
@@ -243,7 +243,7 @@ As dicas cobrem desde atalhos de teclado, uso de dados fictícios e pinagem de r
 
 22. **Configurações avançadas de nós**
 
-    * Exemplo: Retry, duplicação de itens, executar uma vez só, sempre gerar saída.
+    * Exemplo: Retry, duplicaçêo de itens, executar uma vez só, sempre gerar saída.
 
 23. **Saída estruturada de agentes**
 
@@ -259,7 +259,7 @@ As dicas cobrem desde atalhos de teclado, uso de dados fictícios e pinagem de r
 
 ---
 
-### Conclusão
+### Conclusêo
 
 Esses truques permitem criar automações mais:
 
@@ -286,9 +286,9 @@ Data: 2025-05-13T14:18:56+00:00
 Texto:
 **25 truques n8n que eu gostaria de ter conhecido antes
 **
-Compartilho 25 dicas, truques e recursos ocultos do n8n que descobri ao longo do ano passado, coisas que eu realmente gostaria de saber quando comecei. Essas dicas ajudarão você a criar fluxos de trabalho mais inteligentes, economizar tempo e desbloquear um nível totalmente novo de automação.
+Compartilho 25 dicas, truques e recursos ocultos do n8n que descobri ao longo do ano passado, coisas que eu realmente gostaria de saber quando comecei. Essas dicas ajudarêo você a criar fluxos de trabalho mais inteligentes, economizar tempo e desbloquear um nível totalmente novo de automaçêo.
 
-Não importa se você está apenas começando ou se já está envolvido com automações complexas: esta lista começa com dicas simples e gradualmente evolui para técnicas mais avançadas. Então, continue acompanhando e veja quantas você já conhece.
+Nêo importa se você está apenas começando ou se já está envolvido com automações complexas: esta lista começa com dicas simples e gradualmente evolui para técnicas mais avançadas. Entêo, continue acompanhando e veja quantas você já conhece.
 
 ------------------------------
 

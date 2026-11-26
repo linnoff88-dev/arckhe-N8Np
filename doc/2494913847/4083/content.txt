@@ -23,13 +23,13 @@ O que isso faz?
 
 - **Processa Sua Pergunta:** O fluxo de trabalho encaminha sua entrada para uma cadeia básica de LLM que prepara um prompt.
 
-- **Executa com o Ollama:** Sua mensagem é processada pelo modelo Ollama utilizando a versão mais recente do Llama 3.2, funcionando como o "cérebro" das respostas.
+- **Executa com o Ollama:** Sua mensagem é processada pelo modelo Ollama utilizando a versêo mais recente do Llama 3.2, funcionando como o "cérebro" das respostas.
 
 - **Estrutura a Resposta:** A resposta do modelo é formatada em um objeto JSON organizado com dois campos: um com seu prompt original e outro com a resposta do modelo.
 
 - **Lida com Erros de Forma Elegante:** Se algo der errado durante o processamento, uma mensagem de erro alternativa é fornecida.
 
-- **Criado para Hospedagem Própria:** Toda essa configuração permite que você execute seu próprio assistente de chat com IA em sua própria infraestrutura, aproveitando as capacidades do modelo de linguagem do Ollama.
+- **Criado para Hospedagem Própria:** Toda essa configuraçêo permite que você execute seu próprio assistente de chat com IA em sua própria infraestrutura, aproveitando as capacidades do modelo de linguagem do Ollama.
 
 **Recursos**  
 Modelo JSON

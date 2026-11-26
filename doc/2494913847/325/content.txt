@@ -46,7 +46,7 @@ MENSAGEM 5
 Autor: Márcio
 Data: 2025-05-14T01:16:14+00:00
 Texto:
-Tem vídeo no YouTube que n8n para iniciantes mas não achei aqui o vídeo....
+Tem vídeo no YouTube que n8n para iniciantes mas nêo achei aqui o vídeo....
 
 ------------------------------
 
@@ -78,7 +78,7 @@ MENSAGEM 9
 Autor: Marcelo Porto
 Data: 2025-05-09T01:34:10+00:00
 Texto:
-Preciso de automação que dispare mensagens de whatsapp
+Preciso de automaçêo que dispare mensagens de whatsapp
 
 ------------------------------
 
@@ -86,7 +86,7 @@ MENSAGEM 10
 Autor: Jonas
 Data: 2025-05-08T01:55:40+00:00
 Texto:
-Boa noite pessoal. Tem automação pra post de blog?
+Boa noite pessoal. Tem automaçêo pra post de blog?
 
 ------------------------------
 
@@ -94,7 +94,7 @@ MENSAGEM 11
 Autor: Tiza
 Data: 2025-03-24T18:47:02+00:00
 Texto:
-Oi Talita, no make e no grupo automação encontras
+Oi Talita, no make e no grupo automaçêo encontras
 
 ------------------------------
 
@@ -110,7 +110,7 @@ MENSAGEM 13
 Autor: Thalita
 Data: 2025-03-24T18:34:49+00:00
 Texto:
-Gente, boa tarde! Alguma automação para o Pinterest?
+Gente, boa tarde! Alguma automaçêo para o Pinterest?
 
 ------------------------------
 
@@ -143,18 +143,18 @@ MENSAGEM 17
 Autor: INEMA
 Data: 2025-03-11T21:42:39+00:00
 Texto:
-🎥 Desta vez, trazemos uma verdadeira joia da automação criada pelo especialista em n8n. Se você já se perguntou como levar suas automações para o próximo nível, esta aula é para você!  
+🎥 Desta vez, trazemos uma verdadeira joia da automaçêo criada pelo especialista em n8n. Se você já se perguntou como levar suas automações para o próximo nível, esta aula é para você!  
   
 ✨ O que você vai descobrir?  
 - Agentes e Multiagentes: Aprenda a criar agentes genéricos, específicos e multiagentes coordenados que trabalham em equipe como um verdadeiro sonho. 🌟  
 - Casos práticos incríveis:  
   - Análise de sentimento em comentários para tomar decisões mais inteligentes.  
-  - Automação de publicações em redes sociais (LinkedIn, X, blogs) diretamente a partir de transcrições do YouTube.  
+  - Automaçêo de publicações em redes sociais (LinkedIn, X, blogs) diretamente a partir de transcrições do YouTube.  
 - Controle absoluto dos seus fluxos de trabalho: Descubra como conectar e coordenar múltiplos agentes em paralelo, economizando tempo e otimizando seus processos ao máximo. 🛠️  
-- Dicas avançadas: Uso de Apify, gestão de bancos de dados e como chamar outros fluxos de trabalho automaticamente.  
+- Dicas avançadas: Uso de Apify, gestêo de bancos de dados e como chamar outros fluxos de trabalho automaticamente.  
   
 🎯 Por que essa aula é imprescindível?  
-Porque entender o funcionamento de agentes e multiagentes no n8n não apenas expande as possibilidades das suas automações, mas também permite criar soluções inteligentes, rápidas e personalizadas. O que antes parecia impossível, agora é automático! 🚀
+Porque entender o funcionamento de agentes e multiagentes no n8n nêo apenas expande as possibilidades das suas automações, mas também permite criar soluções inteligentes, rápidas e personalizadas. O que antes parecia impossível, agora é automático! 🚀
 
 ------------------------------
 
@@ -240,33 +240,33 @@ MENSAGEM 28
 Autor: INEMA
 Data: 2025-01-18T02:51:31+00:00
 Texto:
-###  n8n "De Zero a Hero": Implementação de Agentes e Multiagentes   
+###  n8n "De Zero a Hero": Implementaçêo de Agentes e Multiagentes   
  
 --- 
  
-#### **Introdução** 
+#### **Introduçêo** 
 Apresenta  sobre **agentes e multiagentes no n8n**. Este conteúdo cobre desde definições básicas até exemplos práticos aplicados em workflows. 
  
 --- 
  
 ### **Resumo dos Tópicos** 
  
-#### **1. Definição de Agentes** 
+#### **1. Definiçêo de Agentes** 
 - **Agentes Genéricos (Universais):** 
   - Configuráveis, adaptáveis a diferentes tarefas com prompts personalizados. 
-  - Exigem integração com modelos como GPT, Anthropic, ou outros. 
+  - Exigem integraçêo com modelos como GPT, Anthropic, ou outros. 
  
 - **Agentes Específicos:** 
   - Predefinidos para tarefas específicas como: 
     - Análise de sentimento. 
-    - Classificação de texto. 
+    - Classificaçêo de texto. 
     - Resumos rápidos. 
     - Chatbots básicos (sem memória ou ferramentas avançadas). 
  
 - **Componentes dos Agentes:** 
   - **Modelo:** Proporciona a "inteligência" (ex.: GPT, Google Gemini). 
   - **Memória:** Opcional, útil para recordar interações (ex.: Buffer Memory ou PostgreSQL). 
-  - **Ferramentas:** Permitem executar ações externas, como chamadas HTTP, integração com serviços (Apify, Gmail, etc.). 
+  - **Ferramentas:** Permitem executar ações externas, como chamadas HTTP, integraçêo com serviços (Apify, Gmail, etc.). 
  
 #### **2. Multiagentes no n8n** 
 - **Lineares:**   
@@ -285,10 +285,10 @@ Apresenta  sobre **agentes e multiagentes no n8n**. Este conteúdo cobre desde d
   2. Classificar os comentários como positivos, neutros ou negativos. 
   3. Salvar os resultados para análise. 
  
-#### **B. Multiagente para Criação de Conteúdo** 
+#### **B. Multiagente para Criaçêo de Conteúdo** 
 - **Caso:** Gerar postagens baseadas em transcrições de YouTube. 
 - **Processo:** 
-  1. Usar **Apify** para obter a transcrição de vídeos. 
+  1. Usar **Apify** para obter a transcriçêo de vídeos. 
   2. Criar posts específicos para LinkedIn, X (Twitter) e blogs. 
   3. Armazenar os posts em uma tabela no **Table**. 
  
@@ -297,20 +297,20 @@ Apresenta  sobre **agentes e multiagentes no n8n**. Este conteúdo cobre desde d
  
 --- 
  
-### **Implementação Técnica** 
+### **Implementaçêo Técnica** 
  
 #### **Agentes** 
-- **Configuração de Prompts:**   
-  Defina prompts específicos para cada tarefa, garantindo personalização.   
+- **Configuraçêo de Prompts:**   
+  Defina prompts específicos para cada tarefa, garantindo personalizaçêo.   
 - **Memória:**   
   Escolha entre memória temporária (Buffer) ou persistente (PostgreSQL).   
 - **Ferramentas:**   
   Adicione funcionalidades como: 
-  - Execução de workflows externos. 
-  - Integração com APIs e bases de dados. 
+  - Execuçêo de workflows externos. 
+  - Integraçêo com APIs e bases de dados. 
  
 #### **Multiagentes** 
-- **Execução em Paralelo:**   
+- **Execuçêo em Paralelo:**   
   Use workflows para realizar múltiplas tarefas simultaneamente.   
 - **Exemplo:**   
   Um agente coordenador decide quais tarefas realizar, conectando-se a bancos de dados e enviando informações para agentes especializados. 
@@ -318,24 +318,24 @@ Apresenta  sobre **agentes e multiagentes no n8n**. Este conteúdo cobre desde d
 --- 
  
 ### **Dicas Avançadas** 
-1. **Automação com Apify:** 
-   - Extração de dados (ex.: transcrições ou comentários). 
-   - Integração com n8n para análise e armazenamento. 
+1. **Automaçêo com Apify:** 
+   - Extraçêo de dados (ex.: transcrições ou comentários). 
+   - Integraçêo com n8n para análise e armazenamento. 
 2. **Uso de Memória:** 
    - Buffer Memory para pequenos projetos. 
    - PostgreSQL para armazenamento avançado. 
-3. **Conexão entre Workflows:** 
+3. **Conexêo entre Workflows:** 
    - Ferramenta "Execute Workflow" permite chamar outros fluxos automaticamente. 
 4. **Design Modular:** 
    - Divida tarefas complexas em agentes especializados para facilitar o gerenciamento. 
  
 --- 
  
-### **Conclusão** 
+### **Conclusêo** 
 - **Agentes e Multiagentes:**   
-  São ferramentas essenciais para otimizar processos e criar automações avançadas.   
+  Sêo ferramentas essenciais para otimizar processos e criar automações avançadas.   
 - **Benefícios:**   
-  Flexibilidade, escalabilidade e personalização.
+  Flexibilidade, escalabilidade e personalizaçêo.
 
 ------------------------------
 
@@ -408,15 +408,15 @@ MENSAGEM 37
 Autor: INEMA
 Data: 2025-01-18T02:43:19+00:00
 Texto:
-### Implementação de Agentes e Multiagentes no n8n    
+### Implementaçêo de Agentes e Multiagentes no n8n    
   
-#### Introdução    
+#### Introduçêo    
 - Objetivo: Aprender a implementar agentes e multiagentes no n8n aplicados a casos práticos.    
-- Metodologia: Workflows práticos que demonstram o uso de agentes para automação eficiente e personalizada.    
+- Metodologia: Workflows práticos que demonstram o uso de agentes para automaçêo eficiente e personalizada.    
   
 ---  
   
-### Definição de Agentes e Multiagentes    
+### Definiçêo de Agentes e Multiagentes    
   
 #### Agentes no n8n    
 1. Tipos:    
@@ -426,7 +426,7 @@ Texto:
 2. Componentes chave:    
    - Modelo: Proporciona a inteligência (ex.: GPT, Groq).    
    - Memória: Opcional, usada para armazenar histórico (Windows Buffer Memory ou PostgreSQL).    
-   - Ferramentas: Executam ações, como chamadas HTTP, execução de código ou integração com serviços externos.    
+   - Ferramentas: Executam ações, como chamadas HTTP, execuçêo de código ou integraçêo com serviços externos.    
   
 #### Multiagentes no n8n    
 1. Tipos:    
@@ -438,13 +438,13 @@ Texto:
 ### Exemplos Práticos    
   
 #### 1. Agente de Análise de Sentimento    
-- Caso: Avaliação de resenhas de hotéis no TripAdvisor.    
+- Caso: Avaliaçêo de resenhas de hotéis no TripAdvisor.    
 - Processo:    
   - Extrair comentários usando Apify.    
   - Classificar os comentários como positivos, neutros ou negativos.    
-  - Armazenar os resultados para facilitar a tomada de decisão.    
+  - Armazenar os resultados para facilitar a tomada de decisêo.    
   
-#### 2. Multiagente para Criação de Conteúdo    
+#### 2. Multiagente para Criaçêo de Conteúdo    
 - Caso: Gerar publicações com base em transcrições do YouTube.    
 - Processo:    
   - Extrair transcrições com Apify.    
@@ -452,8 +452,8 @@ Texto:
   - Salvar os resultados em uma tabela (Table).    
   
 #### 3. Agente Coordenador    
-- Função:    
-  - Escolher dinamicamente quais tarefas realizar (ex.: decidir quais redes sociais receberão postagens).    
+- Funçêo:    
+  - Escolher dinamicamente quais tarefas realizar (ex.: decidir quais redes sociais receberêo postagens).    
   - Executar workflows em paralelo para maior eficiência.    
   
 ---  
@@ -466,23 +466,23 @@ Texto:
   
 2. Multiagentes Coordenados:    
    - Mais flexíveis e dinâmicos.    
-   - Permitem controle e definição de tarefas durante a execução.    
+   - Permitem controle e definiçêo de tarefas durante a execuçêo.    
   
 ---  
   
-### Implementação Técnica    
+### Implementaçêo Técnica    
   
-#### Configuração de Agentes    
+#### Configuraçêo de Agentes    
 - Uso de prompts personalizados.    
-- Configuração de memória e ferramentas conforme o fluxo de trabalho.    
+- Configuraçêo de memória e ferramentas conforme o fluxo de trabalho.    
   
-#### Integração de Workflows    
-- Utilização da ferramenta Execute Workflow para chamadas entre workflows.    
+#### Integraçêo de Workflows    
+- Utilizaçêo da ferramenta Execute Workflow para chamadas entre workflows.    
 - Uso de parâmetros para passar dados entre os processos.    
   
-#### Automação de Processos    
+#### Automaçêo de Processos    
 - Uso do Apify para coleta de dados (ex.: transcrições, resenhas).    
-- Armazenamento e atualização em bancos de dados (ex.: Table).    
+- Armazenamento e atualizaçêo em bancos de dados (ex.: Table).    
   
 ---  
   
@@ -492,13 +492,13 @@ Texto:
   - Agente Post Blog    
   - Agente Post LinkedIn    
   - Agente Post X    
-  - Agente Transcrição YouTube    
+  - Agente Transcriçêo YouTube    
   
 - Multiagentes:    
-  - Versão 1 (V1)    
-  - Versão 2 (V2)    
+  - Versêo 1 (V1)    
+  - Versêo 2 (V2)    
   
-Esta aula fornece as bases necessárias para implementar soluções avançadas de automação no n8n, combinando inteligência artificial com coordenação de workflows.
+Esta aula fornece as bases necessárias para implementar soluções avançadas de automaçêo no n8n, combinando inteligência artificial com coordenaçêo de workflows.
 
 ------------------------------
 

@@ -21,7 +21,7 @@ MENSAGEM 2
 Autor: Emerson
 Data: 2025-05-10T01:07:16+00:00
 Texto:
-Boa noite a todos. Preciso de ajuda para expor uma automação rodando localmente na internet. Ficaria feliz se encontrasse ajuda aqui
+Boa noite a todos. Preciso de ajuda para expor uma automaçêo rodando localmente na internet. Ficaria feliz se encontrasse ajuda aqui
 
 ------------------------------
 
@@ -57,21 +57,21 @@ Evolution API: Parte 2 | WhatsApp mais natural**
 
 Como trabalhar com os módulos da Evolution API diretamente no N8N, sem precisar usar módulos HTTP personalizados. Isso simplifica muito o trabalho com o WhatsApp e outras funcionalidades relacionadas.
 
-🔌**Instalação do módulo da Evolution API**  Acessamos a seção *Community Nodes* do N8N e buscamos:  
+🔌**Instalaçêo do módulo da Evolution API**  Acessamos a seçêo *Community Nodes* do N8N e buscamos:  
 **n8n-nodes-evolution-api**.
 Selecionamos e instalamos o nó criado pela Orion Design.
 Depois de instalado, já conseguimos visualizar os módulos no painel de ações com o nome "Evolution".
-🔐**Configuração de credenciais**  Criamos uma nova credencial do tipo **Evolution API**.
-Inserimos a URL da instância da Evolution (a geral, não uma específica).
+🔐**Configuraçêo de credenciais**  Criamos uma nova credencial do tipo **Evolution API**.
+Inserimos a URL da instância da Evolution (a geral, nêo uma específica).
 Também adicionamos a **API Key**, que é obtida no Portainer (editando o stack da Evolution).
 📤**Envio de mensagens com a Evolution API**  
 Com tudo configurado, podemos enviar:
 - Texto  - Imagens  
 - Vídeos  - Áudios  
 - Documentos  - Contatos  
-- Localização  - Botões interativos  
+- Localizaçêo  - Botões interativos  
 - Respostas a mensagens  - E até **status/histórias do WhatsApp** (ainda em fase de testes)
-👉 Testamos o envio de status ou histórias, uma função muito poderosa que ainda está sendo testada.
+👉 Testamos o envio de status ou histórias, uma funçêo muito poderosa que ainda está sendo testada.
 🧠**Agrupamento de mensagens antes do envio**  
 Criamos uma lógica para agrupar todas as mensagens enviadas nos primeiros 30 segundos. Isso traz dois benefícios:
 1. Melhora a naturalidade da resposta do chatbot  2. Reduz o consumo de tokens no OpenAI
@@ -79,21 +79,21 @@ Para isso:
 - Usamos o Redis como banco de dados rápido  
 - Armazenamos todas as mensagens recebidas nesse intervalo  - Verificamos se já se passaram 30 segundos desde a última mensagem  
 - Se sim, enviamos todas as mensagens agrupadas para o webhook do chatbot
-🛠️**Configuração avançada da Evolution API**  Dentro de cada instância, na aba "Settings":
+🛠️**Configuraçêo avançada da Evolution API**  Dentro de cada instância, na aba "Settings":
 - Bloqueamos chamadas se houver um chatbot ativo  
-- Ativamos a pré-visualização de links  - Permitimos o recebimento de eventos como status, mensagens, áudios e arquivos
+- Ativamos a pré-visualizaçêo de links  - Permitimos o recebimento de eventos como status, mensagens, áudios e arquivos
 Na aba "Events":
 - Ativamos o webhook do N8N  
-- Colamos a URL do webhook (ambiente de testes ou produção)  - Ativamos a opção **Base64 Webhook** para arquivos
-📱**Vinculação do número do WhatsApp**  
+- Colamos a URL do webhook (ambiente de testes ou produçêo)  - Ativamos a opçêo **Base64 Webhook** para arquivos
+📱**Vinculaçêo do número do WhatsApp**  
 No WhatsApp:
 - Vamos em “Dispositivos vinculados”  - Escaneamos o QR code a partir da Evolution  
 Pronto! O número está conectado e funcionando.
 🧰**Novas funcionalidades do N8N**  
 - Agora é possível criar **pastas** para organizar os workflows  
-- Vimos como atualizar a versão do N8N diretamente pelo Portainer (botão “Update”)  - Também exploramos a criação de **novas instâncias da Evolution com o canal Bailys** (que permite conectar o WhatsApp tradicional)
+- Vimos como atualizar a versêo do N8N diretamente pelo Portainer (botêo “Update”)  - Também exploramos a criaçêo de **novas instâncias da Evolution com o canal Bailys** (que permite conectar o WhatsApp tradicional)
 💬**Perguntas frequentes respondidasQual é melhor: Evolution API ou WhatsApp Cloud API?**👉 O ideal é ter as duas: usar **Evolution** para conversas comuns e **Cloud API** para envios em massa.
-**Qual base de conhecimento usar: Supabase ou Pinecone?**👉 Ambas são boas. O **Supabase** é mais conveniente se for instalado junto com a Evolution no VPS, pois é **open source** e gratuito.
+**Qual base de conhecimento usar: Supabase ou Pinecone?**👉 Ambas sêo boas. O **Supabase** é mais conveniente se for instalado junto com a Evolution no VPS, pois é **open source** e gratuito.
 **Recursos:**  
 Chatbot_Evolution_API
 
@@ -113,7 +113,7 @@ Data: 2025-04-05T09:29:10+00:00
 Texto:
 RAC em um NAS. Explicamos que, até o momento, conseguimos instalar o Supabase corretamente apenas com o setup do Orion em **Ubuntu 24**.
 
-✅ **Conclusão**  
+✅ **Conclusêo**  
 Conseguimos montar um fluxo completo integrando a Evolution API com o N8N, onde:
 
 - Recebemos qualquer tipo de mensagem  
@@ -136,15 +136,15 @@ Parte 1** do conteúdo sobre Evolution API e WhatsApp Web:
 📌 **Objetivo da aula**  
 Aprendemos a instalar e configurar a Evolution API para integrá-la com agentes criados no N8N, permitindo **enviar e receber mensagens pelo WhatsApp**, incluindo texto, áudios, imagens e figurinhas (stickers). Além disso, exploramos como **gerenciar as respostas do agente com atrasos naturais** e como **dividir mensagens longas** para que pareçam mais humanas.
 
-🧰 **Passos principais e configuração**
+🧰 **Passos principais e configuraçêo**
 
-1. **Instalação e acesso ao Orion**  
-Acessamos o ambiente de instalação com o comando já utilizado em aulas anteriores.  
-Selecionamos a **opção 06** para instalar a Evolution API.  
+1. **Instalaçêo e acesso ao Orion**  
+Acessamos o ambiente de instalaçêo com o comando já utilizado em aulas anteriores.  
+Selecionamos a **opçêo 06** para instalar a Evolution API.  
 É necessário ter uma **VPS ativa** para hospedar nossa instância e garantir que tudo funcione corretamente.
 
-2. **Configuração da Evolution API**  
-Acessamos a URL do painel de gerenciamento após a instalação.  
+2. **Configuraçêo da Evolution API**  
+Acessamos a URL do painel de gerenciamento após a instalaçêo.  
 Criamos uma nova instância (ex: "cocreacion") usando o canal gratuito **Baylys**.  
 Configuramos a instância para:
 
@@ -153,21 +153,21 @@ Configuramos a instância para:
 - Marcar mensagens como lidas  
 - Sincronizar o histórico  
 
-Colamos o **webhook de entrada do N8N** e ativamos a opção para **receber arquivos em base64**.  
+Colamos o **webhook de entrada do N8N** e ativamos a opçêo para **receber arquivos em base64**.  
 Ativamos **apenas** o evento `message.upsert`.
 
-3. **Conexão com o WhatsApp**  
+3. **Conexêo com o WhatsApp**  
 Geramos o QR code a partir da Evolution API.  
 Escaneamos o QR com o aplicativo do WhatsApp, como se fosse o WhatsApp Web.  
 Confirmamos que a linha está conectada.
 
-🛠️ **Construção do fluxo no N8N**
+🛠️ **Construçêo do fluxo no N8N**
 
-4. **Recepção e filtragem de mensagens**  
+4. **Recepçêo e filtragem de mensagens**  
 Criamos um **webhook POST** no N8N para receber as mensagens.  
-Adicionamos filtros para ignorar eventos como "lido" ou "entregue" e também para **não responder mensagens enviadas por nós mesmos** (`fromMe = false`).
+Adicionamos filtros para ignorar eventos como "lido" ou "entregue" e também para **nêo responder mensagens enviadas por nós mesmos** (`fromMe = false`).
 
-5. **Normalização de variáveis**  
+5. **Normalizaçêo de variáveis**  
 Extraímos variáveis principais como número do WhatsApp, nome, ID da mensagem e tipo de conteúdo.  
 Detectamos se o conteúdo é texto, áudio, imagem ou sticker e salvamos numa variável chamada `message_type`.
 
@@ -178,16 +178,16 @@ Detectamos se o conteúdo é texto, áudio, imagem ou sticker e salvamos numa va
 - **Imagens**: Analisadas com um prompt simples como “Você é um assistente, analise esta imagem...”  
 - **Stickers**: Tratados da mesma forma que imagens  
 
-Todas as respostas são armazenadas na **mesma variável**, para que o agente as processe uniformemente.
+Todas as respostas sêo armazenadas na **mesma variável**, para que o agente as processe uniformemente.
 
-🧠 **Resposta do agente e formatação natural**
+🧠 **Resposta do agente e formataçêo natural**
 
-7. **Interação com o agente**  
+7. **Interaçêo com o agente**  
 Configuramos o agente com um **prompt base** (ex: um Coach).  
 Usamos o OpenAI com **temperatura 0** para garantir respostas coerentes e baseadas no conhecimento.  
 Armazenamos a conversa por número de telefone usando **windows buffer memory**.
 
-8. **Formatação da resposta**  
+8. **Formataçêo da resposta**  
 Se a resposta tiver mais de **120 caracteres**, dividimos em partes com um LLM.  
 Criamos uma estrutura JSON com: parte 1, parte 2, parte 3...  
 Simulamos que o bot está "escrevendo" com **delays proporcionais ao tamanho da resposta**, para parecer mais humano.
@@ -198,15 +198,15 @@ Mapeamos a URL, chave de API, instância, número e texto.
 Adicionamos um delay calculado como: `tamanho * 50` milissegundos.  
 Se houver mais partes, adicionamos etapas para enviar cada uma em sequência.
 
-📚 **Gestão do conhecimento**  
+📚 **Gestêo do conhecimento**  
 Utilizamos o **Supabase** como base de conhecimento.  
 Criamos um **RAC (Repositório de Conhecimento)** no Supabase carregando arquivos a partir de uma pasta.  
 Integramos esse RAC ao agente para que ele possa acessar as informações ao responder.  
-Se o volume de informação for pequeno, também é possível incluir diretamente no **prompt** do agente.
+Se o volume de informaçêo for pequeno, também é possível incluir diretamente no **prompt** do agente.
 
 💬 **Perguntas destacadas**
 
-- **Jannet** pergunta se é possível automatizar a divisão da resposta em partes. Explicamos que atualmente é feito manualmente, mas pode ser controlado com lógica condicional ou com um agente que calcule o número de partes necessárias.  
+- **Jannet** pergunta se é possível automatizar a divisêo da resposta em partes. Explicamos que atualmente é feito manualmente, mas pode ser controlado com lógica condicional ou com um agente que calcule o número de partes necessárias.  
 - **Víctor** pergunta sobre hospedar o
 
 ------------------------------
@@ -249,9 +249,9 @@ Data: 2025-04-05T09:14:21+00:00
 Texto:
 **Domine a Evolution API com um PRO 🔥**  
 
-Implementar uma automação avançada com a Evolution API no N8N, **sem módulos HTTP**, **sem complicações** e com resultados que falam por si só. 🔥💡**O que conseguimos com essa automação?**✅ Agrupar várias mensagens do WhatsApp como uma só ideia antes de responder (resposta mais natural!)  ✅ Economizar tokens e evitar processamentos desnecessários nos LLMs  
+Implementar uma automaçêo avançada com a Evolution API no N8N, **sem módulos HTTP**, **sem complicações** e com resultados que falam por si só. 🔥💡**O que conseguimos com essa automaçêo?**✅ Agrupar várias mensagens do WhatsApp como uma só ideia antes de responder (resposta mais natural!)  ✅ Economizar tokens e evitar processamentos desnecessários nos LLMs  
 ✅ Configurar o envio de mensagens, imagens, áudios, vídeos, documentos… e até histórias do WhatsApp! 😱✅ Armazenar temporariamente as mensagens e decidir **quando** responder
-E tudo isso com uma configuração técnica sólida, limpa e altamente escalável.
+E tudo isso com uma configuraçêo técnica sólida, limpa e altamente escalável.
 💬 Se você está criando assistentes conversacionais no WhatsApp, isso muda o jogo.  📁 O blueprint atualizado já está disponível
 
 ------------------------------

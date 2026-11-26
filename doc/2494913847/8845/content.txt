@@ -19,15 +19,15 @@ Aqui está o **passo a passo direto** para usar os **Community Nodes no n8n Clou
 
 ### Passo a Passo – Ativar e Usar Community Nodes no n8n Cloud
 
-1. **Verifique a versão do n8n**
+1. **Verifique a versêo do n8n**
 
    * Vá em **Admin Panel**
-   * Confirme se está na versão **1.94 ou superior**
+   * Confirme se está na versêo **1.94 ou superior**
 
 2. **Ative os Community Nodes**
 
    * Vá em **Settings > Community Nodes**
-   * Marque a opção **“Enable community nodes”**
+   * Marque a opçêo **“Enable community nodes”**
    * Clique em **“Save Changes”**
    * O sistema será reiniciado
 
@@ -60,7 +60,7 @@ Aqui está o **passo a passo direto** para usar os **Community Nodes no n8n Clou
 * Instale o node `tavly`
 * Crie credencial com sua **API Key**
 * Adicione o node ao workflow
-* Preencha o campo de busca com: `O que é automação com IA?`
+* Preencha o campo de busca com: `O que é automaçêo com IA?`
 * Rode o node e veja o resultado (links ou texto com resposta)
 
 ---
@@ -82,7 +82,7 @@ Data: 2025-06-07T15:53:57+00:00
 Texto:
 **n8n ficou muito mais fácil (NOVOS nós da comunidade em nuvem)**
 
-A n8n acaba de lançar uma atualização poderosa que permite usar nós da comunidade mesmo se você estiver hospedado na nuvem da n8n, o que não era possível antes. Esses nós da comunidade facilitam muito a conexão com diferentes serviços sem a necessidade de configurar solicitações HTTP complexas ou se preocupar com autenticação. Em vez disso, você obtém uma interface plug-and-play, sem código, que economiza muito tempo na criação de automações.Neste vídeo, eu mostro como configurar nós de comunidade, seja na n8n Cloud, em um ambiente auto-hospedado ou executando localmente. Ao final, você saberá exatamente como começar a usar nós de comunidade para construir mais rápido, integrar com mais facilidade e economizar horas no seu fluxo de trabalho.
+A n8n acaba de lançar uma atualizaçêo poderosa que permite usar nós da comunidade mesmo se você estiver hospedado na nuvem da n8n, o que nêo era possível antes. Esses nós da comunidade facilitam muito a conexêo com diferentes serviços sem a necessidade de configurar solicitações HTTP complexas ou se preocupar com autenticaçêo. Em vez disso, você obtém uma interface plug-and-play, sem código, que economiza muito tempo na criaçêo de automações.Neste vídeo, eu mostro como configurar nós de comunidade, seja na n8n Cloud, em um ambiente auto-hospedado ou executando localmente. Ao final, você saberá exatamente como começar a usar nós de comunidade para construir mais rápido, integrar com mais facilidade e economizar horas no seu fluxo de trabalho.
 
 📚 Recursos mencionados
 Anúncio da n8n: 

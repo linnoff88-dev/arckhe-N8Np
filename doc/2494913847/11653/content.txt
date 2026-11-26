@@ -28,7 +28,7 @@ Texto:
 
 #### 🧠 **1. Inteligência no Follow-up**
 
-* **Problema comum**: clientes não aparecem na reunião (no-show).
+* **Problema comum**: clientes nêo aparecem na reuniêo (no-show).
 * **Hack**:
 
   * Configure **delays inteligentes** com **Set + Wait Node** para enviar lembretes automáticos (SMS + E-mail) 24h, 3h e 30min antes do evento.
@@ -40,7 +40,7 @@ Texto:
 
 * **Hack**:
 
-  * Conecte o banco de dados Airtable ou Supabase a uma ferramenta de visualização como **Retool** ou **Metabase**.
+  * Conecte o banco de dados Airtable ou Supabase a uma ferramenta de visualizaçêo como **Retool** ou **Metabase**.
   * Crie gráficos que mostram:
 
     * Total de reservas
@@ -50,13 +50,13 @@ Texto:
 
 ---
 
-#### 🤖 **3. Atualização automática por voz e chat**
+#### 🤖 **3. Atualizaçêo automática por voz e chat**
 
 * **Hack**:
 
   * Integre com **Fireflies.ai** ou **Otter.ai** para transcrever reuniões.
   * Envie os resumos direto para o CRM e atualize campos como “Interesse” ou “Objeções”.
-  * Combine com Telegram: um vendedor pode mandar “Cliente João quer aumentar o orçamento” e o n8n atualiza o registro automaticamente.
+  * Combine com Telegram: um vendedor pode mandar “Cliente Joêo quer aumentar o orçamento” e o n8n atualiza o registro automaticamente.
 
 ---
 
@@ -69,17 +69,17 @@ Texto:
 
 ---
 
-#### 🔥 **5. Qualificação automática de leads**
+#### 🔥 **5. Qualificaçêo automática de leads**
 
 * **Hack**:
 
-  * Crie uma lógica que calcula uma “pontuação” para o lead com base em:
+  * Crie uma lógica que calcula uma “pontuaçêo” para o lead com base em:
 
     * Orçamento declarado
-    * Tempo até a reunião
+    * Tempo até a reuniêo
     * Respostas no formulário
-  * Leads com baixa pontuação recebem automação para nurturing (e-mails educativos).
-  * Leads com alta pontuação são sinalizados no Telegram para ação imediata.
+  * Leads com baixa pontuaçêo recebem automaçêo para nurturing (e-mails educativos).
+  * Leads com alta pontuaçêo sêo sinalizados no Telegram para açêo imediata.
 
 ---
 
@@ -87,8 +87,8 @@ Texto:
 
 * **Hack**:
 
-  * Adicione integração com **WhatsApp Business API** (via Twilio ou Z-API).
-  * Clientes recebem lembretes no WhatsApp com links clicáveis direto para a reunião.
+  * Adicione integraçêo com **WhatsApp Business API** (via Twilio ou Z-API).
+  * Clientes recebem lembretes no WhatsApp com links clicáveis direto para a reuniêo.
 
 ---
 
@@ -100,12 +100,12 @@ Texto:
 
     * Bloco de agendamento
     * Bloco de onboarding
-    * Bloco de atualização dinâmica
+    * Bloco de atualizaçêo dinâmica
   * Assim, você pode montar sistemas similares para outros clientes muito mais rápido.
 
 ---
 
-#### 🛡️ **8. Prevenção de erros**
+#### 🛡️ **8. Prevençêo de erros**
 
 * **Hack**:
 
@@ -113,7 +113,7 @@ Texto:
 
     * Detectar falhas de API (ex.: Twilio offline).
     * Notificar a equipe no Telegram.
-    * Repetir a ação automaticamente até 3 vezes antes de marcar como erro.
+    * Repetir a açêo automaticamente até 3 vezes antes de marcar como erro.
 
 ---
 
@@ -121,9 +121,9 @@ Texto:
 
 * **Hack**:
 
-  * Após uma reunião concluída, automatize um e-mail ou SMS com oferta premium:
+  * Após uma reuniêo concluída, automatize um e-mail ou SMS com oferta premium:
 
-    * Ex.: *“Gostaria de integrar também WhatsApp e transcrição automática ao seu sistema? Clique aqui para saber mais.”*
+    * Ex.: *“Gostaria de integrar também WhatsApp e transcriçêo automática ao seu sistema? Clique aqui para saber mais.”*
   * Use o node **HTTP Request** para abrir um formulário de interesse.
 
 ---
@@ -149,7 +149,7 @@ MENSAGEM 4
 Autor: INEMA
 Data: 2025-07-21T17:00:09+00:00
 Texto:
-### 🚀 Passo a Passo: Construção do AI Booking System no n8n
+### 🚀 Passo a Passo: Construçêo do AI Booking System no n8n
 
 ---
 
@@ -175,11 +175,11 @@ Texto:
    * Calendário: Calendly
    * SMS/E-mail: Twilio, Gmail, SendGrid
    * Mensagens instantâneas: Telegram
-   * Reuniões: Fireflies AI para transcrição
+   * Reuniões: Fireflies AI para transcriçêo
 
 ---
 
-#### **2️⃣ Configuração inicial no n8n**
+#### **2️⃣ Configuraçêo inicial no n8n**
 
 1. **Crie um novo workflow no n8n**
 
@@ -201,7 +201,7 @@ Texto:
 
 2. **Grave os dados no CRM**
 
-   * **Node:** HTTP Request ou integração direta com Airtable/GoHighLevel.
+   * **Node:** HTTP Request ou integraçêo direta com Airtable/GoHighLevel.
    * Crie um registro com os campos recebidos.
 
 3. **Envie SMS personalizado**
@@ -215,7 +215,7 @@ Texto:
 4. D**ispare sequência de e-mails
 **
    * N**ode: **Gmail/SendGrid
-   * Crie uma série de e-mails para engajar o cliente até o dia da reunião.
+   * Crie uma série de e-mails para engajar o cliente até o dia da reuniêo.
 
 ---
 
@@ -226,7 +226,7 @@ Texto:
    * N**ode: **Telegram Trigger (recebe mensagens da equipe)
    * Exemplo:
 
-     * Mensagem: “Cliente João atualizou orçamento para R\$50k”
+     * Mensagem: “Cliente Joêo atualizou orçamento para R\$50k”
      * Atualiza o registro no CRM automaticamente.
 
 2. A**tualize dados com e-mails recebidos
@@ -237,17 +237,17 @@ Texto:
 3. A**tualize dados com transcrições de reuniões
 **
    * N**ode: **Fireflies AI (ou outro serviço)
-   * Extrai insights da reunião e grava no CRM.
+   * Extrai insights da reuniêo e grava no CRM.
 
 ---
 
-#### 5**️⃣ Criação do Dashboard dinâmico
+#### 5**️⃣ Criaçêo do Dashboard dinâmico
 **
 1. U**se Airtable ou Supabase
 **
    * Armazene todos os dados processados.
 
-2. I**ntegre com ferramentas de visualização
+2. I**ntegre com ferramentas de visualizaçêo
 **
    * Ex.: Retool, Tableau, Google Data Studio
    * Mostre: volume de chamadas, status de clientes, agendamentos por dia.
@@ -260,7 +260,7 @@ Texto:
 
   * Novo agendamento for criado.
   * Dados do cliente forem atualizados.
-  * Reunião for concluída com insights.
+  * Reuniêo for concluída com insights.
 
 ---
 
@@ -272,7 +272,7 @@ Texto:
 * T**wilio / SendGrid:** Envia SMS e e-mails
 * T**elegram Trigger:** Captura mensagens da equipe
 * I**MAP Email Trigger:** Escuta atualizações por e-mail
-* F**ireflies AI (via API):** Transcrição automática
+* F**ireflies AI (via API):** Transcriçêo automática
 * A**irtable/Supabase:** Banco de dados para o dashboard
 
 ---
@@ -299,37 +299,37 @@ O vídeo explica por que vender **Sistemas Operacionais de IA (AIOS)** é muito 
 
 #### **Principais pontos**
 
-✅ **Chatbots são ferramentas, AIOS entregam resultados**
+✅ **Chatbots sêo ferramentas, AIOS entregam resultados**
 
-* Chatbots são commodities fáceis de substituir.
+* Chatbots sêo commodities fáceis de substituir.
 * AIOS integram vários sistemas e entregam **transformações reais** nos negócios.
 
 ✅ **Diferença entre Chatbots e AIOS**
 
-* **Chatbots**: uma única função (ex.: responder no site).
+* **Chatbots**: uma única funçêo (ex.: responder no site).
 * **AIOS**: conjunto de automações inteligentes (ex.: agendamento, CRM, e-mails, SMS, dashboards) que gerenciam todo o fluxo de negócios.
 
 ✅ **Por que o AIOS é mais valioso**
 
-* Não é substituível: ele se torna essencial para o funcionamento da empresa.
+* Nêo é substituível: ele se torna essencial para o funcionamento da empresa.
 * Gera contratos de longo prazo (retainers) ao invés de vendas pontuais.
-* Exige visão estratégica de negócios + conhecimento de IA.
+* Exige visêo estratégica de negócios + conhecimento de IA.
 
 ✅ **Passo a passo para vender o AIOS**
 
-1. **Conseguir a ligação** com o cliente (lead magnet ou avaliação gratuita).
+1. **Conseguir a ligaçêo** com o cliente (lead magnet ou avaliaçêo gratuita).
 2. **Identificar o maior gargalo** do negócio (o fator que mais limita o crescimento).
 3. **Mapear a jornada ideal do cliente** do início ao fim.
 4. **Definir os pontos de dados e o “ponto central da verdade”** (CRM).
 5. **Desenhar o blueprint do AIOS** com base nas informações coletadas.
 
-✅ **Demonstração prática**
+✅ **Demonstraçêo prática**
 
 * O sistema captura agendamentos via Calendly.
 * Envia SMS e e-mails personalizados com base no perfil do cliente.
 * Atualiza automaticamente o dashboard com dados de chamadas, e-mails e reuniões.
-* Integra ferramentas como GoHighLevel, n8n e Fireflies AI para transcrição de reuniões.
-* Exemplo ao vivo de atualização de dados (ex.: orçamento do cliente muda de \$10M para \$20M com uma mensagem no Telegram).
+* Integra ferramentas como GoHighLevel, n8n e Fireflies AI para transcriçêo de reuniões.
+* Exemplo ao vivo de atualizaçêo de dados (ex.: orçamento do cliente muda de \$10M para \$20M com uma mensagem no Telegram).
 
 ---
 
@@ -345,7 +345,7 @@ O vídeo explica por que vender **Sistemas Operacionais de IA (AIOS)** é muito 
 
 #### **Por que assistir?**
 
-Ideal para quem quer construir **sistemas de automação completos**, criar contratos de alto valor e se tornar indispensável para os clientes.
+Ideal para quem quer construir **sistemas de automaçêo completos**, criar contratos de alto valor e se tornar indispensável para os clientes.
 
 ------------------------------
 
@@ -363,18 +363,18 @@ Data: 2025-07-21T16:58:45+00:00
 Texto:
 **Sistema de Agendamento com IA**
 
-*Não venda chatbots de IA, venda este Sistema de Agendamento com IA em vez disso*
+*Nêo venda chatbots de IA, venda este Sistema de Agendamento com IA em vez disso*
 
 Este vídeo mostra como ir além dos chatbots e começar a vender sistemas completos de IA que geram resultados reais para os negócios.
 
 **O que você vai aprender:**
-🎯 Por que os clientes pagam por resultados, não por ferramentas
+🎯 Por que os clientes pagam por resultados, nêo por ferramentas
 
 💸 AIOS = contratos de alto valor e longo prazo
 
-🔁 Chatbots são substituíveis — AIOS gerenciam o negócio
+🔁 Chatbots sêo substituíveis — AIOS gerenciam o negócio
 
-🛠 Demonstração ao vivo: fluxos de agendamento, CRM, SMS, e-mail, dashboards
+🛠 Demonstraçêo ao vivo: fluxos de agendamento, CRM, SMS, e-mail, dashboards
 
 🧩 Estrutura passo a passo para apresentar o AIOS
 
@@ -415,7 +415,7 @@ Sistema Operacional de IA: Do Agendamento à Venda
 
 Vou te mostrar um sistema operacional de IA completo 🤩
 
-Vou explicar por que o modo antigo de fazer as coisas não funciona.
+Vou explicar por que o modo antigo de fazer as coisas nêo funciona.
 É isso que realmente faz os negócios avançarem:
 
 📆 Agenda compromissos de reuniões
@@ -423,7 +423,7 @@ Vou explicar por que o modo antigo de fazer as coisas não funciona.
 📊 Atualiza um painel lindo com métricas chave
 📈 Três sistemas de inteligência separados que atualizam dinamicamente o seu painel
 
-Sempre que você tiver uma reunião com o cliente, receber um e-mail dele ou deixar um correio de voz para si mesmo, isso atualizará sua fonte central de verdade.
+Sempre que você tiver uma reuniêo com o cliente, receber um e-mail dele ou deixar um correio de voz para si mesmo, isso atualizará sua fonte central de verdade.
 
 Ou seja, combinamos todos os seus pontos de dados em um único painel incrível que ajuda você a tomar decisões melhores.
 

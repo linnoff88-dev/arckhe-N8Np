@@ -1719,7 +1719,7 @@
     },
     {
       "id": "cfaee824-8acf-42bf-ace5-84bdc983915b",
-      "name": "Ativa Vector + Função Busca + Cria tabela",
+      "name": "Ativa Vector + Funçêo Busca + Cria tabela",
       "type": "n8n-nodes-base.postgres",
       "position": [
         -2040,
@@ -1730,7 +1730,7 @@
     },
     {
       "id": "ffbf8570-bf52-4229-b652-619882141321",
-      "name": "Ativa Vector + Função Busca + Cria tabela1",
+      "name": "Ativa Vector + Funçêo Busca + Cria tabela1",
       "type": "n8n-nodes-base.postgres",
       "position": [
         -2360,

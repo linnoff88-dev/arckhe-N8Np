@@ -21,7 +21,7 @@ MENSAGEM 2
 Autor: Juliano
 Data: 2025-08-25T12:29:01+00:00
 Texto:
-Estou usando a versão 1.106.3
+Estou usando a versêo 1.106.3
 
 ------------------------------
 
@@ -44,7 +44,7 @@ No **AI Builder do n8n**, a escolha das palavras faz diferença no que o assiste
 ## 1. Para criar agentes
 
 * Use **“LangChain AI Agent”** em vez de apenas “AI Agent”
-  → Isso força o Builder a usar a estrutura de agente com **ferramentas (tools)**, e não só um nó de modelo de linguagem.
+  → Isso força o Builder a usar a estrutura de agente com **ferramentas (tools)**, e nêo só um nó de modelo de linguagem.
 * Exemplos:
 
   * “Build a **LangChain AI Agent** for customer support”
@@ -106,7 +106,7 @@ No **AI Builder do n8n**, a escolha das palavras faz diferença no que o assiste
 
 ### Resumindo:
 
-* Use **LangChain AI Agent** (e não só “AI Agent”).
+* Use **LangChain AI Agent** (e nêo só “AI Agent”).
 * Prefira **Form Node** (quando for formulário) em vez de webhook.
 * Cite **ferramentas específicas** (Outlook, HubSpot, Slack, etc.).
 * Estruture ações com verbos fortes: **Trigger, Analyze, Classify, Generate**.
@@ -126,13 +126,13 @@ MENSAGEM 6
 Autor: INEMA
 Data: 2025-08-25T04:00:37+00:00
 Texto:
-Aqui estão os **prompts traduzidos e adaptados para português**, prontos para serem usados no **AI Builder do n8n**:
+Aqui estêo os **prompts traduzidos e adaptados para português**, prontos para serem usados no **AI Builder do n8n**:
 
 ---
 
-### 1. Prompt de Qualificação de Leads
+### 1. Prompt de Qualificaçêo de Leads
 
-"Crie um workflow que automatize minha qualificação de leads.
+"Crie um workflow que automatize minha qualificaçêo de leads.
 Tenho um sistema que começa com uma reserva no Calendly e depois armazena o contato em uma conta no GoHighLevel.
 Quero usar o OpenAI no meio do processo para analisar as informações da pessoa, o domínio do e-mail, extrair o sufixo do domínio e pesquisar com uma ferramenta como o Perplexity.
 Depois, registre tudo no local mais adequado.
@@ -157,12 +157,12 @@ Esse formulário deve ser o ponto inicial que alimenta o resto do workflow."
 
 ---
 
-### 3. Prompt de Extensão com Fireflies
+### 3. Prompt de Extensêo com Fireflies
 
-"Quero estender este workflow adicionando uma seção que escute as reuniões do Fireflies.
-Se a transcrição da reunião, analisada por IA, mostrar que o prospect não é o tipo de cliente que queremos, ele deve ser colocado em uma sequência de nutrição.
+"Quero estender este workflow adicionando uma seçêo que escute as reuniões do Fireflies.
+Se a transcriçêo da reuniêo, analisada por IA, mostrar que o prospect nêo é o tipo de cliente que queremos, ele deve ser colocado em uma sequência de nutriçêo.
 Essa sequência pode ser uma série de e-mails ou envio de materiais de apoio.
-Imagine e estenda a automação para acomodar esse cenário."
+Imagine e estenda a automaçêo para acomodar esse cenário."
 
 ---
 
@@ -170,12 +170,12 @@ Imagine e estenda a automação para acomodar esse cenário."
 
 "Crie um agente de IA com LangChain para atuar como um atendente autônomo de consultas de clientes.
 O workflow deve disparar a partir de um formulário de contato no site.
-O objetivo principal do agente é analisar a consulta e tomar a ação correta.
+O objetivo principal do agente é analisar a consulta e tomar a açêo correta.
 
 Equipe o agente com cinco ferramentas específicas:
 
-* Recuperação em base de conhecimento
-* Criação de ticket de atendimento no HubSpot
+* Recuperaçêo em base de conhecimento
+* Criaçêo de ticket de atendimento no HubSpot
 * Envio de mensagem no Slack
 * Envio de e-mail no Outlook para resposta direta ao cliente
 * Ferramenta de pesquisa na web
@@ -188,7 +188,7 @@ Para questões de suporte, deve usar a base de conhecimento para responder diret
 
 ### 5. Prompt para Swarm Multiagente (Master + Subagentes)
 
-"Crie um swarm multiagente com LangChain para geração de conteúdo, disparado por um formulário com um único tópico de blog.
+"Crie um swarm multiagente com LangChain para geraçêo de conteúdo, disparado por um formulário com um único tópico de blog.
 O workflow deve orquestrar um agente principal (diretor de conteúdo) equipado com quatro ferramentas.
 O agente principal deve primeiro pesquisar na web os 10 melhores artigos sobre o tópico.
 Depois deve acionar o agente de pesquisa para analisar esses artigos e criar um briefing abrangente.
@@ -212,7 +212,7 @@ MENSAGEM 8
 Autor: INEMA
 Data: 2025-08-25T04:00:11+00:00
 Texto:
-### 1. Prompt de Qualificação de Leads
+### 1. Prompt de Qualificaçêo de Leads
 
 "Can you create a workflow that will automate my lead qualification?
 I basically have a system that goes from Calendly and then it stores that contact in a GoHighLevel account.
@@ -238,7 +238,7 @@ Configure the form so that someone can enter the information:
 
 ---
 
-### 3. Prompt de Extensão com Fireflies
+### 3. Prompt de Extensêo com Fireflies
 
 "I want to be able to take this workflow and add a section that listens in for the Fireflies meeting.
 If the Fireflies meeting transcript is analyzed by AI to show that the prospect is not the type of person we want to work with, then they should go through a nurture drip sequence.
@@ -276,7 +276,7 @@ Then generate one complete blog post, five Twitter posts, and one LinkedIn post.
 
 ---
 
-Esses são os **prompts integrais** usados no vídeo, exatamente como demonstrados.
+Esses sêo os **prompts integrais** usados no vídeo, exatamente como demonstrados.
 
 ------------------------------
 
@@ -318,7 +318,7 @@ Texto:
 
 ---
 
-3. **Prompt de extensão com Fireflies**
+3. **Prompt de extensêo com Fireflies**
    "I want to be able to take this workflow and add a section that listens in for the Fireflies meeting.
    If the transcript shows the prospect is not a good fit, then send them through a nurture drip sequence with follow-up emails."
 
@@ -350,7 +350,7 @@ Texto:
 
 ---
 
-Esses foram os **prompts-chave demonstrados** no vídeo. Eles foram usados para mostrar desde fluxos simples (lead qualificação) até estruturas avançadas com múltiplos agentes e ferramentas.
+Esses foram os **prompts-chave demonstrados** no vídeo. Eles foram usados para mostrar desde fluxos simples (lead qualificaçêo) até estruturas avançadas com múltiplos agentes e ferramentas.
 
 ------------------------------
 
@@ -373,7 +373,7 @@ Texto:
    * Se você só escreve “criar um agente de IA”, o sistema pode gerar algo genérico.
    * Use palavras-chave específicas como **“LangChain AI Agent”** para forçar a estrutura correta (em vez de só “AI agent”).
 
-2. **Iteração guiada**
+2. **Iteraçêo guiada**
 
    * Em vez de aceitar o fluxo inicial, refine pedindo ajustes:
      Ex.: trocar webhook por formulário com campos específicos (nome, e-mail, empresa, etc.).
@@ -384,15 +384,15 @@ Texto:
    * Você pode pedir ao assistente do lado direito para **gerar dados JSON de teste**.
    * Isso permite testar o fluxo antes mesmo de conectar as credenciais reais.
 
-4. **Explicação de cada nó**
+4. **Explicaçêo de cada nó**
 
    * O copiloto integrado explica **o que cada nó faz** (útil para iniciantes).
    * Você pode perguntar: “O que é este webhook?” ou “Como este parâmetro funciona?”.
 
-5. **Extensão de fluxos com prompts vagos**
+5. **Extensêo de fluxos com prompts vagos**
 
-   * É possível pedir: “Adicione análise do Fireflies e, se o lead for ruim, coloque em sequência de nutrição”.
-   * O sistema cria a extensão automaticamente, inclusive com rascunhos de e-mails.
+   * É possível pedir: “Adicione análise do Fireflies e, se o lead for ruim, coloque em sequência de nutriçêo”.
+   * O sistema cria a extensêo automaticamente, inclusive com rascunhos de e-mails.
 
 6. **Agentes hierárquicos (master + subagents)**
 
@@ -401,9 +401,9 @@ Texto:
 
 7. **Ajustes em tempo real no prompt**
 
-   * Se você não gostar do texto de saída (ex.: e-mail gerado), basta pedir ao copiloto para **reescrever só aquele trecho**, sem refazer todo o fluxo.
+   * Se você nêo gostar do texto de saída (ex.: e-mail gerado), basta pedir ao copiloto para **reescrever só aquele trecho**, sem refazer todo o fluxo.
 
-8. **Redução de erros comuns**
+8. **Reduçêo de erros comuns**
 
    * O builder já conecta nós corretamente (sem “broken nodes” típicos de copiar/colar JSON).
    * Ele também insere **prompts default** dentro dos nós de IA, servindo como base para refinar.
@@ -450,15 +450,15 @@ Aqui está um resumo estruturado do vídeo sobre o novo **Construtor de IA Nativ
 
 ---
 
-## Visão Geral
+## Visêo Geral
 
-A n8n lançou o **AI Assistant Builder**, um recurso nativo que permite criar agentes e automações apenas com prompts em linguagem natural. A ideia é simplificar todo o processo de construção de workflows: sem copiar/colar JSONs, sem depender de servidores externos, e com fluxos prontos para serem ajustados em poucos minutos.
+A n8n lançou o **AI Assistant Builder**, um recurso nativo que permite criar agentes e automações apenas com prompts em linguagem natural. A ideia é simplificar todo o processo de construçêo de workflows: sem copiar/colar JSONs, sem depender de servidores externos, e com fluxos prontos para serem ajustados em poucos minutos.
 
 ---
 
 ## Principais Recursos
 
-1. **Criação instantânea de workflows**
+1. **Criaçêo instantânea de workflows**
 
    * Basta digitar ou ditar o que deseja automatizar.
    * O sistema gera um fluxo completo em segundos.
@@ -466,20 +466,20 @@ A n8n lançou o **AI Assistant Builder**, um recurso nativo que permite criar ag
 2. **Assistente explicativo (copiloto)**
 
    * Mostra cada etapa criada.
-   * Explica a função de cada nó.
+   * Explica a funçêo de cada nó.
    * Ajuda iniciantes a entender conceitos básicos (ex: webhooks, parâmetros).
 
 3. **Sugestões de prompts prontos**
 
    * Exemplos como processamento de notas fiscais, assistente de RAG, pipelines de dados etc.
-   * Serve como guia para quem ainda não domina prompt engineering.
+   * Serve como guia para quem ainda nêo domina prompt engineering.
 
-4. **Integração de múltiplas ferramentas**
+4. **Integraçêo de múltiplas ferramentas**
 
    * Conecta automaticamente com Outlook, HubSpot, Slack, OpenAI, Perplexity, Fireflies, entre outros.
    * Basta adicionar credenciais para finalizar.
 
-5. **Iteração rápida**
+5. **Iteraçêo rápida**
 
    * Permite refinar o workflow com novos prompts.
    * Pode corrigir ou estender fluxos já criados (ex.: incluir análise de reuniões do Fireflies ou sequências de e-mails).
@@ -488,31 +488,31 @@ A n8n lançou o **AI Assistant Builder**, um recurso nativo que permite criar ag
 
 ## Exemplos Mostrados
 
-1. **Qualificação de Leads**
+1. **Qualificaçêo de Leads**
 
    * Fluxo criado a partir de uma reserva no Calendly → pesquisa da empresa no Perplexity + OpenAI → análise de qualidade → envio de e-mail no Outlook → registro no GoHighLevel.
 
-2. **Extensão com Fireflies**
+2. **Extensêo com Fireflies**
 
-   * Adiciona análise de transcrição de reuniões para definir se o lead deve ir para sequência de nutrição.
-   * O agente gera prompts avançados automaticamente (ex.: avaliação BANT: Budget, Authority, Need, Timeline).
+   * Adiciona análise de transcriçêo de reuniões para definir se o lead deve ir para sequência de nutriçêo.
+   * O agente gera prompts avançados automaticamente (ex.: avaliaçêo BANT: Budget, Authority, Need, Timeline).
 
 3. **Atendimento Autônomo de Clientes (LangChain)**
 
-   * Criação de um agente com 5 ferramentas: base de conhecimento, criação de ticket no HubSpot, envio de e-mails, mensagens no Slack e pesquisa na web.
+   * Criaçêo de um agente com 5 ferramentas: base de conhecimento, criaçêo de ticket no HubSpot, envio de e-mails, mensagens no Slack e pesquisa na web.
    * Workflow inicia por formulário no site.
 
 4. **Swarm Multiagente de Conteúdo**
 
    * Um agente “diretor de conteúdo” coordena outros agentes subordinados.
-   * Exemplo: pesquisa de artigos → geração de briefing → criação de post de blog + posts para redes sociais.
+   * Exemplo: pesquisa de artigos → geraçêo de briefing → criaçêo de post de blog + posts para redes sociais.
 
 ---
 
 ## Benefícios
 
-* Criação **rápida**: fluxos funcionais em 20–30 minutos.
-* **Menos barreiras**: não exige conhecimento técnico profundo.
+* Criaçêo **rápida**: fluxos funcionais em 20–30 minutos.
+* **Menos barreiras**: nêo exige conhecimento técnico profundo.
 * **Aprendizado guiado**: funciona como tutor e copiloto.
 * **Flexibilidade**: do simples ao avançado, com agentes hierárquicos e múltiplas ferramentas.
 
@@ -520,13 +520,13 @@ A n8n lançou o **AI Assistant Builder**, um recurso nativo que permite criar ag
 
 ## Pontos a Ajustar
 
-* Ainda em **beta** (liberação gradual para usuários).
-* Pode gerar erros de configuração (ex.: Gmail em vez de Outlook).
-* Exige revisão de variáveis e preenchimento de credenciais.
+* Ainda em **beta** (liberaçêo gradual para usuários).
+* Pode gerar erros de configuraçêo (ex.: Gmail em vez de Outlook).
+* Exige revisêo de variáveis e preenchimento de credenciais.
 
 ---
 
-## Conclusão
+## Conclusêo
 
 O **AI Assistant Builder** é um marco no n8n: transforma prompts diretamente em automações completas, com explicações, ajustes e extensões quase instantâneos. Serve tanto para iniciantes quanto para usuários avançados que querem acelerar o design de agentes e workflows complexos.
 

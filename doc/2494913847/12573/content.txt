@@ -13,7 +13,7 @@ MENSAGEM 1
 Autor: INEMA
 Data: 2025-08-11T20:29:12+00:00
 Texto:
-## 🔧 HACKS PARA OTIMIZAÇÃO DA AUTOMATIZAÇÃO
+## 🔧 HACKS PARA OTIMIZAÇêO DA AUTOMATIZAÇêO
 
 ### 1. **Use categorias inteligentes de e-mail**
 
@@ -33,7 +33,7 @@ Texto:
 
 * Adicione instruções como:
 
-  * "Se o e-mail vier de João e falar de palestra, use a resposta padrão de R\$ 5.000"
+  * "Se o e-mail vier de Joêo e falar de palestra, use a resposta padrêo de R\$ 5.000"
 * **Prompt base:**
   “Sempre que encontrar \[palavra-chave] em e-mails de \[remetente], associe à resposta \[X].”
 
@@ -43,7 +43,7 @@ Texto:
 
 * Evite receber mensagens à noite ou em fins de semana:
 
-  * Configure uma verificação de horário no n8n (ex: entre 8h e 18h)
+  * Configure uma verificaçêo de horário no n8n (ex: entre 8h e 18h)
   * Ou use condições no próprio GoHighLevel
 
 ---
@@ -53,26 +53,26 @@ Texto:
 * Estruture o banco de dados com:
 
   * `Palavra-chave`
-  * `Resposta Padrão`
-  * `Última atualização`
+  * `Resposta Padrêo`
+  * `Última atualizaçêo`
 * Crie um agente no Lovable só para “inserir memórias”
 
-  * Ex: “Nova regra: coffee > resposta padrão = só aceito chá”
+  * Ex: “Nova regra: coffee > resposta padrêo = só aceito chá”
 
 ---
 
 ### 5. **Modo Turbo: Ignore e-mails inúteis**
 
-* Adicione verificação no início:
+* Adicione verificaçêo no início:
 
-  * Se `subject/text` contiver “desconto”, “promoção”, “newsletter” → descarta.
+  * Se `subject/text` contiver “desconto”, “promoçêo”, “newsletter” → descarta.
 * Evita criar rascunhos desnecessários e reduz custo de API
 
 ---
 
 ### 6. **Webhook com senha**
 
-* Adicione proteção básica no webhook:
+* Adicione proteçêo básica no webhook:
 
   * No Lovable: `"password": "secreto"`
   * No n8n: verifique se `msg.password == "secreto"` antes de executar o fluxo
@@ -95,7 +95,7 @@ Divida o prompt do agente em partes:
 
 ### 8. **Versionamento das memórias**
 
-* Crie uma coluna `versão` no Airtable para cada memória
+* Crie uma coluna `versêo` no Airtable para cada memória
 * Permite restaurar respostas antigas ou comparar alterações feitas pela IA
 
 ---
@@ -107,7 +107,7 @@ Divida o prompt do agente em partes:
 
 ---
 
-### 10. **Agente de verificação antes de atualizar memória**
+### 10. **Agente de verificaçêo antes de atualizar memória**
 
 * Quando o usuário pedir para gravar algo novo, o agente responde:
 
@@ -153,18 +153,18 @@ MENSAGEM 6
 Autor: INEMA
 Data: 2025-08-11T20:15:56+00:00
 Texto:
-**passo a passo completo** para criar a automação “Substitua sua secretária com IA” usando **n8n + Lovable + Airtable + GoHighLevel**, conforme explicado no vídeo:
+**passo a passo completo** para criar a automaçêo “Substitua sua secretária com IA” usando **n8n + Lovable + Airtable + GoHighLevel**, conforme explicado no vídeo:
 
 ---
 
-## ETAPA 1 – Classificar os e-mails automaticamente (Agente de Classificação)
+## ETAPA 1 – Classificar os e-mails automaticamente (Agente de Classificaçêo)
 
 1. **Criar cenário no n8n**
 
    * Use o gatilho do **Gmail: On New Email**
    * Conecte sua conta do Gmail
 
-2. **Adicionar um nó de Classificação de Texto**
+2. **Adicionar um nó de Classificaçêo de Texto**
 
    * Use **OpenAI GPT-4.1 Mini**
    * Informe o corpo e o assunto do e-mail
@@ -176,7 +176,7 @@ Texto:
      * Negócios / Financeiro
      * Outros
 
-3. **Salve a classificação para uso posterior**
+3. **Salve a classificaçêo para uso posterior**
 
    * Use um nó “Set” para armazenar o resultado
    * Pode usar `pin` se estiver testando com dados
@@ -201,7 +201,7 @@ Texto:
    * Instruções sobre como responder
    * Tom de voz
    * Consulta à memória (Airtable)
-   * Resposta como rascunho, sem “alucinação”
+   * Resposta como rascunho, sem “alucinaçêo”
 
 6. **Crie o rascunho da resposta no Gmail**
 
@@ -236,7 +236,7 @@ Texto:
 9. **Configure o GoHighLevel**
 
    * Crie um contato (você mesmo) com seu número
-   * Crie uma automação:
+   * Crie uma automaçêo:
 
      * Trigger: Webhook
      * Ações:
@@ -292,20 +292,20 @@ Texto:
 
 ---
 
-## ETAPA 6 – Testes e ativação
+## ETAPA 6 – Testes e ativaçêo
 
 15. **Testar todos os fluxos separadamente**
 
-* Classificação
-* Geração de resposta
+* Classificaçêo
+* Geraçêo de resposta
 * Envio de SMS
-* Atualização da base de conhecimento
+* Atualizaçêo da base de conhecimento
 * Comando via Lovable
 
 16. **Ativar todos os cenários no n8n**
 
 * Habilite o webhook
-* Verifique se os drafts estão sendo gerados
+* Verifique se os drafts estêo sendo gerados
 * Monitore notificações no celular
 
 ---
@@ -336,11 +336,11 @@ Data: 2025-08-11T20:14:31+00:00
 Texto:
 ## **Resumo Geral**
 
-O vídeo apresenta um agente de IA que simula uma secretária virtual — capaz de **classificar e-mails, responder automaticamente, identificar mensagens críticas e interagir via chat**, tudo isso sem codificação, usando **n8n, Lovable, Airtable e GoHighLevel**.
+O vídeo apresenta um agente de IA que simula uma secretária virtual — capaz de **classificar e-mails, responder automaticamente, identificar mensagens críticas e interagir via chat**, tudo isso sem codificaçêo, usando **n8n, Lovable, Airtable e GoHighLevel**.
 
 ---
 
-## **Objetivo da Automação**
+## **Objetivo da Automaçêo**
 
 Substituir uma secretária humana de alto custo por um sistema de IA que:
 
@@ -354,7 +354,7 @@ Substituir uma secretária humana de alto custo por um sistema de IA que:
 
 ## **Funcionalidades do Agente de IA**
 
-### 1. **Classificação de E-mails**
+### 1. **Classificaçêo de E-mails**
 
 * Usa n8n + OpenAI para classificar automaticamente os e-mails recebidos em categorias como:
 
@@ -364,7 +364,7 @@ Substituir uma secretária humana de alto custo por um sistema de IA que:
   * Negócios
   * Ingressos, etc.
 
-### 2. **Geração de Respostas**
+### 2. **Geraçêo de Respostas**
 
 * Um agente responde e-mails automaticamente com base:
 
@@ -406,10 +406,10 @@ Substituir uma secretária humana de alto custo por um sistema de IA que:
 
 ---
 
-## **Etapas de Construção**
+## **Etapas de Construçêo**
 
 1. Conectar Gmail → n8n
-2. Criar agente de classificação de e-mails
+2. Criar agente de classificaçêo de e-mails
 3. Criar agente de resposta com base em contexto + Airtable
 4. Criar agente de criticidade que envia SMS via GoHighLevel
 5. Criar memória e atualizações com Airtable
@@ -435,9 +435,9 @@ Substituir uma secretária humana de alto custo por um sistema de IA que:
 ## **Benefícios**
 
 * Economia de tempo real (até 20h/semana)
-* Automação completa e personalizada
+* Automaçêo completa e personalizada
 * Fácil de implementar (no-code)
-* Redução de custos com equipe
+* Reduçêo de custos com equipe
 
 ------------------------------
 
@@ -461,9 +461,9 @@ Texto:
 Como construir uma **secretária com IA** (economize até **20 horas por semana**).
 
 **Resumo rápido (TL;DR)**
-Esta automação:
+Esta automaçêo:
 
-📊 Segmenta todos os e-mails por categoria (navegação facilitada)
+📊 Segmenta todos os e-mails por categoria (navegaçêo facilitada)
 
 📧 Cria um rascunho de resposta na sua caixa de entrada (economiza horas)
 
@@ -473,7 +473,7 @@ Esta automação:
 
 🚀 Chat estilo Homem de Ferro na sua caixa de entrada (cria, responde, agenda e atualiza com inteligência)
 
-Tudo o que você precisará fazer é visitar a seção de rascunhos da sua caixa de entrada.
+Tudo o que você precisará fazer é visitar a seçêo de rascunhos da sua caixa de entrada.
 
 Nem se dará ao trabalho de responder conteúdos de baixa prioridade ou spam.
 
@@ -498,10 +498,10 @@ Texto:
 **Substitua sua secretária de R\$ 10 mil por mês em apenas 36 minutos**
 (Economize HORAS com essa IA estilo Homem de Ferro 🤖)
 
- **um sistema de automação com IA** que entrega **resultados comerciais reais e diretos**.
+ **um sistema de automaçêo com IA** que entrega **resultados comerciais reais e diretos**.
 
-💡 **Proposta**: Use essa automação = economize HORAS do seu dia
-✅ Testado e aprovado: economizei um tempo absurdo hoje com essa construção!
+💡 **Proposta**: Use essa automaçêo = economize HORAS do seu dia
+✅ Testado e aprovado: economizei um tempo absurdo hoje com essa construçêo!
 
 ---
 

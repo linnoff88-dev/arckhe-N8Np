@@ -27,13 +27,13 @@ WhatsApp.
 
 11. Logs e alertas
 
-* Exemplo: cada execução grava {runId, count, errors} no DB; se errors>5 em 1h -> Slack alert.
+* Exemplo: cada execuçêo grava {runId, count, errors} no DB; se errors>5 em 1h -> Slack alert.
 * Pergunta: que métricas acompanhar? Resposta: %processed, avg time, errors/min, %auto-labeled.
 
-12. Credenciais e rotação
+12. Credenciais e rotaçêo
 
 * Exemplo: use n8n Credentials; rota tokens via script.
-* Pergunta: como automatizar rotação? Resposta: cron job que chama provider API para renovar e atualiza credential via API do n8n.
+* Pergunta: como automatizar rotaçêo? Resposta: cron job que chama provider API para renovar e atualiza credential via API do n8n.
 
 13. IMAP corporativo
 
@@ -56,25 +56,25 @@ MENSAGEM 2
 Autor: INEMA
 Data: 2025-09-22T02:49:47+00:00
 Texto:
-tem em Google Sheet / DB para revisão humana; depois reusar exemplos para few-shot no prompt.
+tem em Google Sheet / DB para revisêo humana; depois reusar exemplos para few-shot no prompt.
 * workflow: se confidence < 0.7 -> send to Slack/Sheet for review.
 
 12. log centralizado + alertas por falha crítica
 
 * por quê: visibilidade e SLA.
-* como: gravar cada execução num DB (timestamp, itens, erros); usar node HTTP para enviar alertas ao Telegram/Slack se falhas > X em Y minutos.
+* como: gravar cada execuçêo num DB (timestamp, itens, erros); usar node HTTP para enviar alertas ao Telegram/Slack se falhas > X em Y minutos.
 
-13. usar n8n Credentials seguras e rotação de chaves
+13. usar n8n Credentials seguras e rotaçêo de chaves
 
 * por quê: segurança (tokens de Gmail, Evolution API, Google).
-* como: configure Credentials no n8n, nunca hardcode. Crie política de rotação mensal.
+* como: configure Credentials no n8n, nunca hardcode. Crie política de rotaçêo mensal.
 
 14. otimizar chamadas ao Gmail: usar “batch get” quando suportado
 
 * por quê: reduzir latência e número de requests.
 * como: use Gmail node com “Get all messages” e depois “Get message” em lote com SplitInBatches.
 
-15. integração Evolution API (WhatsApp) com fallback SMS/email
+15. integraçêo Evolution API (WhatsApp) com fallback SMS/email
 
 * por quê: garantir que o resumo chegue.
 * como: se HTTP Request ao Evolution falhar → enviar por SMTP node (email) ou pela API do Twilio.
@@ -94,10 +94,10 @@ tem em Google Sheet / DB para revisão humana; depois reusar exemplos para few-s
 * por quê: avaliar qual prompt gera melhor acurácia.
 * como: duplicar fluxo, rotular resultados por promptA/promptB e comparar confiança/erro em DB.
 
-18. salvar versão das regras de etiquetas e changelog
+18. salvar versêo das regras de etiquetas e changelog
 
 * por quê: entender mudanças no comportamento.
-* como: ao atualizar lista de categorias, gravar versão em DB e timestamp; manter histórico para rollback.
+* como: ao atualizar lista de categorias, gravar versêo em DB e timestamp; manter histórico para rollback.
 
 19. métricas: taxa de acerto, % de emails marcados como lidos, tempo médio de processamento
 
@@ -116,25 +116,25 @@ Lista dos tópicos com exemplos e respostas rápidas (seguindo seu pedido de lis
 * Exemplo: SplitInBatches com batchSize 5 → HTTP Request Gemini → Wait 800ms.
 * Pergunta: Qual batchSize usar? Resposta: comece em 5 e ajuste conforme limites da API; para limite 600/min use batchSize 10 + 1s sleep.
 
-2. Deduplicação
+2. Deduplicaçêo
 
 * Exemplo: DB table processed\_messages(id, timestamp). Antes de processar, query by messageId.
-* Pergunta: O que fazer se o ID mudar? Resposta: use combinação messageId + subject + timestamp para heurística.
+* Pergunta: O que fazer se o ID mudar? Resposta: use combinaçêo messageId + subject + timestamp para heurística.
 
 3. Fallback de snippet
 
 * Exemplo: expression body = {{\$json.textPlain  \$json.snippet  convertHTML(\$json.bodyHtml)}}
-* Pergunta: snippet é suficiente? Resposta: para classificação simples sim; para resumo prefira corpo completo.
+* Pergunta: snippet é suficiente? Resposta: para classificaçêo simples sim; para resumo prefira corpo completo.
 
 4. Prompt JSON estrito
 
 * Exemplo de retorno: {"category":"Consultorias","confidence":0.92}
-* Pergunta: E se o modelo não retorna JSON? Resposta: re-try com instrução mais forte; se persistir, marque para revisão humana.
+* Pergunta: E se o modelo nêo retorna JSON? Resposta: re-try com instruçêo mais forte; se persistir, marque para revisêo humana.
 
 5. Continue on fail
 
 * Exemplo: node HTTP Request -> continue on fail true -> next node saves error and re-iterates.
-* Pergunta: isso esconde erros? Resposta: não, grave logs; use alertas para erros repetidos.
+* Pergunta: isso esconde erros? Resposta: nêo, grave logs; use alertas para erros repetidos.
 
 6. Retries exponenciais
 
@@ -157,7 +157,7 @@ MENSAGEM 3
 Autor: INEMA
 Data: 2025-09-22T02:49:47+00:00
 Texto:
-Hacks práticos de n8n (cada item com explicação, configuração e exemplo)
+Hacks práticos de n8n (cada item com explicaçêo, configuraçêo e exemplo)
 
 1. executar em lotes (batching) para controlar custo e performance
 
@@ -166,7 +166,7 @@ Hacks práticos de n8n (cada item com explicação, configuração e exemplo)
 * exemplo: SplitInBatches -> HTTP Request (Gemini) -> Wait (1s) -> Continue.
 * dica: ajuste batchSize conforme limites da API (se 60 req/min, batchSize menor + delay).
 
-2. deduplicação por messageId antes do processamento
+2. deduplicaçêo por messageId antes do processamento
 
 * por quê: evita processar o mesmo e-mail várias vezes (re-runs, duplicatas).
 * como: usar um node Set/Function para gerar chave = messageId e um node Database (SQLite/Postgres) ou Google Sheets para checar existência.
@@ -177,11 +177,11 @@ Hacks práticos de n8n (cada item com explicação, configuração e exemplo)
   ```
 * fluxo: if exists -> skip, else -> process + save id em DB.
 
-3. fallback seguro: usar snippet se o corpo completo não estiver disponível
+3. fallback seguro: usar snippet se o corpo completo nêo estiver disponível
 
 * por quê: alguns providers devolvem só HTML ou vazio.
 * como: no mapping, faça: body = \$json\["textPlain"] ?? \$json\["snippet"] ?? convertHTML(\$json\["bodyHtml"])
-* exemplo de expressão n8n:
+* exemplo de expressêo n8n:
 
   ```  {{$json["textPlain"] || $json["snippet"] || $json["bodyPlainText"]}}
   ```
@@ -200,11 +200,11 @@ Hacks práticos de n8n (cada item com explicação, configuração e exemplo)
   - "senha 2FA" -> Códigos de segurança
   - "cupom 50%" -> Promoções
   
-```* dica: inclua 3–5 exemplos reais por categoria para maior precisão.
+```* dica: inclua 3–5 exemplos reais por categoria para maior precisêo.
 
 5. tratar erros sem parar o fluxo: continueOnFail + manejos de saída
 
-* por quê: uma falha na API não deve quebrar todo o loop.
+* por quê: uma falha na API nêo deve quebrar todo o loop.
 * como: em nós críticos, ative "Continue on Fail" e conecte saída de erro a um nó Log ou re-iterator.
 * exemplo: no node HTTP Request -> On Error: Continue; output para node Function que anota o erro e retorna para o SplitInBatches.
 
@@ -249,7 +249,7 @@ Hacks práticos de n8n (cada item com explicação, configuração e exemplo)
 
 11. modo “treinamento contínuo”: salvar exemplos rotulados manualmente para re-treino ou few-shot
 
-* por quê: melhorar precisão ao longo do tempo.
+* por quê: melhorar precisêo ao longo do tempo.
 * como: quando confidence < 0.7, criar item em
 
 ------------------------------
@@ -286,7 +286,7 @@ consultas.
    - Agrupe por categoria
    - Cada categoria inicia com *Título* usando asteriscos
    - Liste 1–3 itens por categoria no formato: • Assunto — Remetente
-   - Se não houver itens, escreva: "Hoje não há e-mails importantes."
+   - Se nêo houver itens, escreva: "Hoje nêo há e-mails importantes."
    Responda somente com o texto do WhatsApp.
    ```
 
@@ -296,7 +296,7 @@ consultas.
    Resumo de e-mails importantes — 02/06
 
 7. Fallback de vazio
-   Se o Merge retornar zero itens, pule a IA e envie direto a mensagem padrão.
+   Se o Merge retornar zero itens, pule a IA e envie direto a mensagem padrêo.
 
 ### n8n
 
@@ -314,20 +314,20 @@ Nós equivalentes:
 ## Checklist de testes
 
 * Criou todas as etiquetas no Gmail
-* Classificação está coerente em 20 e-mails de amostra
-* Promoções e notificações sociais estão sendo marcadas como lidas
+* Classificaçêo está coerente em 20 e-mails de amostra
+* Promoções e notificações sociais estêo sendo marcadas como lidas
 * Spam está indo para lixeira se habilitado
 * Resumo chega no WhatsApp todos os dias no horário configurado
 * Mensagem de “sem e-mails importantes” aparece quando aplicável
 
 ---
 
-## Solução de problemas
+## Soluçêo de problemas
 
 * IA erra a categoria: refine as descrições das categorias no prompt e inclua 2–3 exemplos reais por categoria
 * Mensagens sem corpo: use snippet ou converta HTML para texto antes de enviar ao modelo
 * Limites de API: adicione retry com backoff e mantenha continue on error
-* Duplicatas no resumo: use deduplicação por messageId antes do Merge
+* Duplicatas no resumo: use deduplicaçêo por messageId antes do Merge
 * IMAP com anexos pesados: baixe somente cabeçalho e corpo em texto
 
 ---
@@ -337,14 +337,14 @@ Nós equivalentes:
 1. Quantas horas devo buscar, 24 ou 72
    Resposta: comece com 24h para rodar diariamente. Use 72h nos primeiros testes para ter volume.
 
-2. Posso classificar e manter não lidos
-   Resposta: sim. Apenas não conecte o nó de Mark as Read para as categorias que quer manter em destaque.
+2. Posso classificar e manter nêo lidos
+   Resposta: sim. Apenas nêo conecte o nó de Mark as Read para as categorias que quer manter em destaque.
 
 3. Quero apagar spam automaticamente
    Resposta: crie rota “Spam” direto para Delete message. Teste por 3 dias antes de ativar definitivo.
 
-4. E se eu não usar Gmail
-   Resposta: use IMAP para buscar mensagens e mova para pastas equivalentes às etiquetas. O classificador e o resumo não mudam.
+4. E se eu nêo usar Gmail
+   Resposta: use IMAP para buscar mensagens e mova para pastas equivalentes às etiquetas. O classificador e o resumo nêo mudam.
 
 5. Custo da IA
    Resposta: Gemini 2.0 Flash costuma ser gratuito para este volume; se migrar para outro modelo, ative limites de tokens e lotes menores.
@@ -366,11 +366,11 @@ Data: 2025-09-22T02:40:16+00:00
 Texto:
 # Passo a passo para organizar e resumir e-mails com IA (Make e n8n)
 
-## Visão geral
+## Visêo geral
 
 Você terá dois fluxos:
 
-1. Classificação automática de e-mails por etiquetas
+1. Classificaçêo automática de e-mails por etiquetas
 2. Resumo diário no WhatsApp apenas do que é importante
 
 Funciona com Gmail ou IMAP corporativo. A IA sugerida é Gemini 2.0 Flash pelo bom custo e velocidade. O envio ao WhatsApp pode ser feito via Evolution API.
@@ -388,11 +388,11 @@ Funciona com Gmail ou IMAP corporativo. A IA sugerida é Gemini 2.0 Flash pelo b
   * Consultorias, Conteúdo criativo, Faturas, Pessoal, Suporte e consultas
   * Promoções, Notificações sociais, Códigos de segurança, Newsletters, Reservas e viagens, Atualizações de serviços, Spam
 
-Dica rápido: se não souber quais categorias usar, exporte 50–100 e-mails e peça ao ChatGPT para sugerir agrupamentos e descrições.
+Dica rápido: se nêo souber quais categorias usar, exporte 50–100 e-mails e peça ao ChatGPT para sugerir agrupamentos e descrições.
 
 ---
 
-## Fluxo A — Classificação automática
+## Fluxo A — Classificaçêo automática
 
 ### Make
 
@@ -402,7 +402,7 @@ Dica rápido: se não souber quais categorias usar, exporte 50–100 e-mails e p
 2. Gmail > Search messages
    Parâmetros:
 
-   * Query: todos lidos e não lidos
+   * Query: todos lidos e nêo lidos
    * Data inicial: now minus 72h (ou 24h) em formato ISO
    * Return all: yes
 
@@ -417,13 +417,13 @@ Dica rápido: se não souber quais categorias usar, exporte 50–100 e-mails e p
 
    * subject: assunto
    * text: corpo em texto
-   * categories: lista com nome e descrição de cada etiqueta
+   * categories: lista com nome e descriçêo de cada etiqueta
      Prompt sugerido:
 
    ```   Você é um classificador de e-mails. Retorne apenas JSON:
    { "category": "<nome-da-categoria>", "confidence": 0-1 }
    Categorias possíveis:
-   - Códigos de segurança: logins, 2FA, verificação
+   - Códigos de segurança: logins, 2FA, verificaçêo
    - Notificações sociais: redes sociais, seguidores, curtidas
    - Promoções: ofertas, marketing, cupons
    - Newsletters: comunicados recorrentes e conteúdos editoriais
@@ -434,7 +434,7 @@ Dica rápido: se não souber quais categorias usar, exporte 50–100 e-mails e p
    - Conteúdo criativo: roteiros, materiais, entregas criativas
    - Pessoal: família, amigos, assuntos pessoais
    - Suporte e consultas: dúvidas de clientes, tickets
-   Se não houver correspondência clara, use "Spam" ou "Outro".
+   Se nêo houver correspondência clara, use "Spam" ou "Outro".
    ```
 
 6. Tools > Parse JSON
@@ -502,15 +502,15 @@ Data: 2025-09-22T02:38:42+00:00
 Texto:
 Resumo :
 
-Uma automação para organizar e-mails e receber um resumo no WhatsApp. Ele divide em duas partes principais:
+Uma automaçêo para organizar e-mails e receber um resumo no WhatsApp. Ele divide em duas partes principais:
 
-### 1. Classificação automática de e-mails
+### 1. Classificaçêo automática de e-mails
 
-* Os e-mails das últimas 24 ou 72 horas são filtrados.
+* Os e-mails das últimas 24 ou 72 horas sêo filtrados.
 * Cada e-mail passa por um loop e é classificado por IA (Gemini 2.0 Flash).
-* São criadas categorias (ex.: promoções, notificações, viagens, faturas, newsletters).
+* Sêo criadas categorias (ex.: promoções, notificações, viagens, faturas, newsletters).
 * ChatGPT pode ser usado para sugerir categorias a partir de exemplos de e-mails reais.
-* Após a classificação, os e-mails recebem etiquetas e os menos importantes são marcados como lidos (ou até excluídos, no caso de spam/promoções).
+* Após a classificaçêo, os e-mails recebem etiquetas e os menos importantes sêo marcados como lidos (ou até excluídos, no caso de spam/promoções).
 * O fluxo é configurado para continuar mesmo em caso de erro (continue using error output).
 
 ### 2. Resumo diário no WhatsApp
@@ -519,14 +519,14 @@ Uma automação para organizar e-mails e receber um resumo no WhatsApp. Ele divi
 * Recupera e-mails das categorias mais importantes (consultorias, conteúdo criativo, faturas, pessoal, suporte).
 * Faz merge e agrega os dados principais (assunto, corpo do e-mail, remetente).
 * Usa Gemini 2.0 Flash para gerar um resumo organizado por categorias, com negrito (asteriscos) para leitura no WhatsApp.
-* Se não houver e-mails, envia mensagem “Hoje não há e-mails importantes”.
+* Se nêo houver e-mails, envia mensagem “Hoje nêo há e-mails importantes”.
 * O envio é feito pelo Evolution API (WhatsApp Business).
 
 ### Benefícios
 
 * Caixa de entrada limpa automaticamente.
-* Organização sem esforço manual.
-* Notificação apenas do que é realmente importante.
+* Organizaçêo sem esforço manual.
+* Notificaçêo apenas do que é realmente importante.
 * Economia de tempo e foco no essencial.
 
 ------------------------------
@@ -545,9 +545,9 @@ Data: 2025-09-22T02:32:37+00:00
 Texto:
 e23. Seu E-mail, Limpo e Organizado Automaticamente
 
-Aprendemos a automatizar completamente a organização do nosso e-mail e a receber um resumo diário no WhatsApp apenas com os e-mails mais importantes.
+Aprendemos a automatizar completamente a organizaçêo do nosso e-mail e a receber um resumo diário no WhatsApp apenas com os e-mails mais importantes.
 
-🔧 Automação 1 – Classificação Automática de E-mails
+🔧 Automaçêo 1 – Classificaçêo Automática de E-mails
 Objetivo: Etiquetar automaticamente os e-mails de acordo com o conteúdo para manter a caixa de entrada limpa e organizada.
 
 🛠️ Passos do fluxo:
@@ -558,13 +558,13 @@ Objetivo: Etiquetar automaticamente os e-mails de acordo com o conteúdo para ma
   • Assunto (subject)
   • Corpo (text)
 * Criamos etiquetas personalizadas (notificações, promoções, viagens, faturas, etc.).
-* Sugestão: Usar o ChatGPT para definir categorias com seus próprios e-mails.
-* Adicionamos etiquetas a cada e-mail conforme sua classificação.
+* Sugestêo: Usar o ChatGPT para definir categorias com seus próprios e-mails.
+* Adicionamos etiquetas a cada e-mail conforme sua classificaçêo.
 * Marcamos como lidos os menos importantes (ofertas, notificações sociais, etc.).
 * Tratamento de erros: usamos continue using error output para evitar que o fluxo pare caso algo falhe.
 * Opcional: podemos excluir diretamente e-mails classificados como spam ou promoções em vez de apenas marcá-los como lidos.
 
-💬 Automação 2 – Resumo Diário pelo WhatsApp
+💬 Automaçêo 2 – Resumo Diário pelo WhatsApp
 Objetivo: Enviar um resumo pelo WhatsApp apenas com os e-mails importantes.
 
 📦 Categorias importantes selecionadas:
@@ -584,7 +584,7 @@ Objetivo: Enviar um resumo pelo WhatsApp apenas com os e-mails importantes.
 * Chamamos o Gemini 2.0 Flash com um prompt projetado para gerar um resumo limpo para WhatsApp:
   • O resumo é agrupado por categorias.
   • Usa negritos (com asteriscos) para facilitar a leitura.
-  • Adiciona a mensagem "Hoje não há e-mails importantes" se não houver dados.
+  • Adiciona a mensagem "Hoje nêo há e-mails importantes" se nêo houver dados.
 * Enviamos o resumo por WhatsApp usando a Evolution API.
 * A mensagem inclui a data e o conteúdo agrupado.
 
@@ -611,24 +611,24 @@ Data: 2025-09-22T02:31:44+00:00
 Texto:
 Seu E-mail, Limpo e Organizado Automaticamente
 
-Quero compartilhar uma automação que mudou minha vida: ter o e-mail perfeitamente organizado de forma automática e receber um resumo no WhatsApp apenas com o que realmente importa. 📬➡️📲 Vimos isso em um workshop de automação, mas senti a obrigação de melhorá-la e compartilhar 😊
+Quero compartilhar uma automaçêo que mudou minha vida: ter o e-mail perfeitamente organizado de forma automática e receber um resumo no WhatsApp apenas com o que realmente importa. 📬➡️📲 Vimos isso em um workshop de automaçêo, mas senti a obrigaçêo de melhorá-la e compartilhar 😊
 
-O que faz essa automação?
+O que faz essa automaçêo?
 ✅ Classifica automaticamente nossos e-mails por categorias personalizadas
-✅ Marca como lidos ou exclui os que não interessam
+✅ Marca como lidos ou exclui os que nêo interessam
 ✅ Mantém os importantes em destaque
 ✅ Envia um resumo diário no WhatsApp com os e-mails mais relevantes
 
 
 Além disso, criei mais duas automações:
-👉 Para e-mails corporativos (quando não uso Gmail), estou utilizando um módulo IMAP que baixei dos nodes da comunidade.
+👉 Para e-mails corporativos (quando nêo uso Gmail), estou utilizando um módulo IMAP que baixei dos nodes da comunidade.
 Com esse módulo podemos praticamente replicar o mesmo fluxo em contas de e-mail empresariais.
 
 👉 Também deixo o link para o node IMAP que você pode instalar: NODE IMAP
 
 Se vocês acharem necessário e útil, posso gravar um pequeno vídeo explicando como montar tudo isso no Make e adiciono aqui mesmo. Basta pedir nos comentários. 👇
 
-Espero que seja tão útil para vocês quanto está sendo para mim.
+Espero que seja têo útil para vocês quanto está sendo para mim.
 Ter a caixa de entrada limpa, organizada e saber todos os dias o que é importante sem precisar abrir o e-mail é realmente um divisor de águas! 🚀
 
 ------------------------------

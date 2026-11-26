@@ -17,7 +17,7 @@ Texto:
 
 O criador apresenta o sistema RAG (Retrieval-Augmented Generation) mais completo que já demonstrou, utilizando:
 
-* **n8n** para orquestração
+* **n8n** para orquestraçêo
 * **Supabase/Postgres** para banco de dados e memória vetorial
 * **Google Drive** como repositório de arquivos observados
 
@@ -28,23 +28,23 @@ O criador apresenta o sistema RAG (Retrieval-Augmented Generation) mais completo
    * Agente que interage com o usuário via chat usando os dados armazenados.
    * Usa Supabase como base vetorial e Postgres para chat history.
 
-2. **Criação de arquivos (verde)**
+2. **Criaçêo de arquivos (verde)**
 
    * Observa a pasta “projects” no Google Drive.
    * Ao adicionar um arquivo:
 
      * Detecta o tipo (Google Doc, PDF, Slides, etc).
      * Converte para o formato de texto mais apropriado.
-     * Extrai texto e metadados (ID, nome, data, tipo, extensão, versão etc.).
+     * Extrai texto e metadados (ID, nome, data, tipo, extensêo, versêo etc.).
      * Armazena os vetores e metadados no Supabase.
 
-3. **Atualização de arquivos (azul)**
+3. **Atualizaçêo de arquivos (azul)**
 
    * Observa modificações nos arquivos da mesma pasta.
    * Ao detectar mudança:
 
      * Deleta os registros antigos no Supabase com base no `fileID`.
-     * Atualiza a versão (V1, V2, V3...) automaticamente usando OpenAI.
+     * Atualiza a versêo (V1, V2, V3...) automaticamente usando OpenAI.
      * Reinsere os dados atualizados no banco.
 
 ---
@@ -60,7 +60,7 @@ O criador apresenta o sistema RAG (Retrieval-Augmented Generation) mais completo
 * **Conversas com o agente**:
 
   * Consulta de informações ("quais as funcionalidades do projeto?").
-  * Respostas mostradas são provenientes do conteúdo processado e armazenado.
+  * Respostas mostradas sêo provenientes do conteúdo processado e armazenado.
 
 * **Controle de versões**:
 
@@ -76,12 +76,12 @@ O criador apresenta o sistema RAG (Retrieval-Augmented Generation) mais completo
 
 ### **Próximos passos sugeridos**
 
-* **Deleção automática de arquivos excluídos no Drive**:
+* **Deleçêo automática de arquivos excluídos no Drive**:
 
   * Fluxo 1: pega todos os `fileIDs` do Supabase.
   * Fluxo 2: pega todos os `fileIDs` atuais do Drive.
-  * Comparação: identifica quais foram deletados.
-  * Remove entradas órfãs no Supabase.
+  * Comparaçêo: identifica quais foram deletados.
+  * Remove entradas órfês no Supabase.
 
 ---
 
@@ -102,8 +102,8 @@ O criador apresenta o sistema RAG (Retrieval-Augmented Generation) mais completo
 ### **Resumo final com pontos chave**
 
 * Sistema RAG 100% automático usando **n8n**, **Supabase** e **Google Drive**.
-* Conversas são armazenadas e podem ser consultadas historicamente.
-* Atualizações de arquivos são versionadas e substituídas corretamente.
+* Conversas sêo armazenadas e podem ser consultadas historicamente.
+* Atualizações de arquivos sêo versionadas e substituídas corretamente.
 * Há lógica clara para diferentes formatos de arquivo.
 * Futuras melhorias incluem limpeza automática do banco para arquivos excluídos.
 

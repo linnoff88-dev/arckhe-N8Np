@@ -15,13 +15,13 @@
     "text": "",
     "has_media": true,
     "media_type": "MessageMediaDocument",
-    "media_file": "Documentação - Fluxo ONG Castração Central (n8n v1.104.2).md"
+    "media_file": "Documentaçêo - Fluxo ONG Castraçêo Central (n8n v1.104.2).md"
   },
   {
     "id": 12217,
     "author": "INEMA",
     "date": "2025-08-03T05:42:54+00:00",
-    "text": "**🎯 Estrutura Implementada:\n**\n**Agente Orquestrador Principal:**\nOrquestradorONG com classificação inteligente de intenções\nTriggers para WhatsApp (EvolutionAPI) e E-mail (IMAP)\nRoteamento automático para agentes especializados\n\n**4 Subagentes Especializados:**\n**AgenteCastracao** - Agendamento com Supabase + Google Calendar\n**AgenteAdocaoDoacao** - Gerenciamento de adoções/doações\n**AgenteAnimaisPerdidos** - Registro com geolocalização\n**AgenteDicas** - RAG com base vetorial para dúvidas\n\n**🔧 Funcionalidades Incluídas:**\nMulticanal (WhatsApp + E-mail)\nLogging completo no Supabase\nTratamento de erros robusto\nMemória Redis e Supabase\nIntegração Google Calendar\nSistema RAG para dúvidas frequentes\n\n**📋 Compatibilidade:**\nn8n v1.104.2 ✅\nJSON validado ✅\nTodas as conexões mapeadas ✅",
+    "text": "**🎯 Estrutura Implementada:\n**\n**Agente Orquestrador Principal:**\nOrquestradorONG com classificaçêo inteligente de intenções\nTriggers para WhatsApp (EvolutionAPI) e E-mail (IMAP)\nRoteamento automático para agentes especializados\n\n**4 Subagentes Especializados:**\n**AgenteCastracao** - Agendamento com Supabase + Google Calendar\n**AgenteAdocaoDoacao** - Gerenciamento de adoções/doações\n**AgenteAnimaisPerdidos** - Registro com geolocalizaçêo\n**AgenteDicas** - RAG com base vetorial para dúvidas\n\n**🔧 Funcionalidades Incluídas:**\nMulticanal (WhatsApp + E-mail)\nLogging completo no Supabase\nTratamento de erros robusto\nMemória Redis e Supabase\nIntegraçêo Google Calendar\nSistema RAG para dúvidas frequentes\n\n**📋 Compatibilidade:**\nn8n v1.104.2 ✅\nJSON validado ✅\nTodas as conexões mapeadas ✅",
     "has_media": false,
     "media_type": null
   },

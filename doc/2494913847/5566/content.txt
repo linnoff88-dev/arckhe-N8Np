@@ -29,7 +29,7 @@ MENSAGEM 3
 Autor: Felipe
 Data: 2025-07-21T19:20:59+00:00
 Texto:
-pena que esse fluxo não funciona ele atualizou pra flux eu testei mas ela não está animando a imagem
+pena que esse fluxo nêo funciona ele atualizou pra flux eu testei mas ela nêo está animando a imagem
 
 ------------------------------
 
@@ -47,7 +47,7 @@ Data: 2025-04-12T03:40:16+00:00
 Texto:
 **Resumo do vídeo: "Google Gemini 2.0 Flash + Fish Audio + n8n = AI Bedtime Story On Autopilot"**
 
-O vídeo apresenta um sistema automatizado para criação de vídeos de histórias de ninar com IA, usando Google Gemini 2.0, Fish Audio, Superbase e n8n, com custo extremamente baixo e potencial de monetização.
+O vídeo apresenta um sistema automatizado para criaçêo de vídeos de histórias de ninar com IA, usando Google Gemini 2.0, Fish Audio, Superbase e n8n, com custo extremamente baixo e potencial de monetizaçêo.
 
 **Resumo completo com tópicos, exemplos e respostas:**
 
@@ -57,38 +57,38 @@ O vídeo apresenta um sistema automatizado para criação de vídeos de históri
 
 2. **Ferramentas Utilizadas**
    - **Google Gemini 2.0 Flash**: Gera histórias e imagens (4 imagens por minuto de vídeo).
-   - **Fish Audio**: Gera a narração com voz natural (ASMR, por exemplo) por US$ 0,05 a cada 10 minutos.
+   - **Fish Audio**: Gera a narraçêo com voz natural (ASMR, por exemplo) por US$ 0,05 a cada 10 minutos.
    - **Superbase**: Armazena e fornece os links para as imagens e áudios.
-   - **Any No Code API**: Renderiza o vídeo completo com narração, imagens e trilha de fundo.
-   - **n8n**: Orquestra toda a automação.
+   - **Any No Code API**: Renderiza o vídeo completo com narraçêo, imagens e trilha de fundo.
+   - **n8n**: Orquestra toda a automaçêo.
 
 3. **Funcionamento passo a passo**
    - **Passo 1**: Um gatilho diário no n8n lê os dados de uma planilha do Google Sheets (idioma, voz, tópico, audiência, etc.).
    - **Passo 2**: Usando a API do Gemini Flash, gera-se a história e imagens baseadas no conteúdo da planilha.
-   - **Passo 3**: As imagens (base64) são convertidas e enviadas para o Superbase.
+   - **Passo 3**: As imagens (base64) sêo convertidas e enviadas para o Superbase.
    - **Passo 4**: O texto da história é enviado ao Fish Audio, que gera o áudio.
    - **Passo 5**: O áudio também é enviado para o Superbase.
-   - **Passo 6**: A composição final do vídeo é feita pela Any No Code API, usando os links de imagem e áudio.
+   - **Passo 6**: A composiçêo final do vídeo é feita pela Any No Code API, usando os links de imagem e áudio.
    - **Passo 7**: O vídeo final é publicado e o status na planilha é atualizado para "Done".
 
 4. **Custo Total por Vídeo**
-   - Geração da história + imagens: gratuito com Gemini Flash.
-   - Narração: US$ 0,05 com Fish Audio.
-   - Renderização: US$ 0,10 com Any No Code API.
+   - Geraçêo da história + imagens: gratuito com Gemini Flash.
+   - Narraçêo: US$ 0,05 com Fish Audio.
+   - Renderizaçêo: US$ 0,10 com Any No Code API.
    - **Total estimado: US$ 0,15 por vídeo de 10 minutos.**
 
 5. **Recursos Adicionais**
-   - Todos os templates e configurações estão disponíveis na comunidade "Any No Code Premium".
-   - Suporte para novos criadores, integração com redes sociais e outros agentes de IA.
+   - Todos os templates e configurações estêo disponíveis na comunidade "Any No Code Premium".
+   - Suporte para novos criadores, integraçêo com redes sociais e outros agentes de IA.
 
 6. **Exemplo de uso**
    - História: "Freddy the fox" dormindo na floresta.
-   - Resultado final: vídeo com narração suave, imagens consistentes e qualidade profissional.
+   - Resultado final: vídeo com narraçêo suave, imagens consistentes e qualidade profissional.
 
 7. **Observações Técnicas**
-   - Dados são "pinados" durante testes para evitar reprocessamento.
+   - Dados sêo "pinados" durante testes para evitar reprocessamento.
    - Workflow pode ser ajustado para rodar a cada hora ou sob demanda.
-   - Recomendado evitar reutilização do mesmo conteúdo (voz, imagem) sem reprocessar.
+   - Recomendado evitar reutilizaçêo do mesmo conteúdo (voz, imagem) sem reprocessar.
 
 ------------------------------
 

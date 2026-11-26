@@ -13,7 +13,7 @@ MENSAGEM 1
 Autor: Roberto
 Data: 2025-08-07T12:38:26+00:00
 Texto:
-Olá a todos , comecei agora no n8n e realmente ele é matador. Comecei a criar uma automação para a área de TI, mais precisamente para a área de observabilidade do ambiente de ti, minha ideia é integrar ele para consultar a base do prometheus para analisar as métricas e informar a causa raiz do problema e propor uma linha de raciocínio para a resolução do problema. Sei que vou apanhar muito, quem souber ou tiver alguma documentação para integrar o prometheus e puder fornecer  eu agradeço a ajuda.
+Olá a todos , comecei agora no n8n e realmente ele é matador. Comecei a criar uma automaçêo para a área de TI, mais precisamente para a área de observabilidade do ambiente de ti, minha ideia é integrar ele para consultar a base do prometheus para analisar as métricas e informar a causa raiz do problema e propor uma linha de raciocínio para a resoluçêo do problema. Sei que vou apanhar muito, quem souber ou tiver alguma documentaçêo para integrar o prometheus e puder fornecer  eu agradeço a ajuda.
 
 ------------------------------
 
@@ -37,7 +37,7 @@ MENSAGEM 4
 Autor: Francisco Eduardo
 Data: 2025-08-06T13:07:51+00:00
 Texto:
-Olá, criei esse grupo pois estou iniciando no N8N e gostaria da opinião de vocês que já são especialistas e estão a mais tempo nessa caminhada.  Nesse grupo proponho uma partilha do nosso aprendizado, para trocarmos experiencia e crescermos.
+Olá, criei esse grupo pois estou iniciando no N8N e gostaria da opiniêo de vocês que já sêo especialistas e estêo a mais tempo nessa caminhada.  Nesse grupo proponho uma partilha do nosso aprendizado, para trocarmos experiencia e crescermos.
 
 ------------------------------
 

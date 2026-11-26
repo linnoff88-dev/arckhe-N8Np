@@ -13,11 +13,11 @@ MENSAGEM 1
 Autor: INEMA
 Data: 2025-11-03T03:16:10+00:00
 Texto:
-Sugere que você **evite custos com a versão paga do RETTL (ou outra IA de voz)** ao usar alternativas mais acessíveis ou gratuitas, combinadas com automações. Em particular:
+Sugere que você **evite custos com a versêo paga do RETTL (ou outra IA de voz)** ao usar alternativas mais acessíveis ou gratuitas, combinadas com automações. Em particular:
 
 * Configurar o bot para iniciar com interações por texto (WhatsApp) antes de usar voz, de modo que **o voice-bot só entre quando for realmente necessário**, reduzindo uso e custo da IA de voz.
-* Utilizar gravações ou vozes pré-configuradas leves para determinados passos, reservando o uso da IA de voz cara para os momentos críticos (ex: confirmação de agenda), assim o custo global fica menor.
-* Aproveitar ferramentas gratuitas ou de baixo custo (por exemplo serviços de SMS/WhatsApp, open-source TTS ou API com plano free) para vários passos do fluxo, e somente migrar para a versão paga da IA de voz se o volume justificar.
+* Utilizar gravações ou vozes pré-configuradas leves para determinados passos, reservando o uso da IA de voz cara para os momentos críticos (ex: confirmaçêo de agenda), assim o custo global fica menor.
+* Aproveitar ferramentas gratuitas ou de baixo custo (por exemplo serviços de SMS/WhatsApp, open-source TTS ou API com plano free) para vários passos do fluxo, e somente migrar para a versêo paga da IA de voz se o volume justificar.
 
 ------------------------------
 
@@ -37,7 +37,7 @@ e processar?
 
      * Resposta: 12–18 segundos (ajustável).
 
-3. Tópico: Prompt de qualificação (JSON)
+3. Tópico: Prompt de qualificaçêo (JSON)
 
    * Exemplo de output: `{"reply_parts":["...","..."],"score":5,"action":"send_calendar"}`
    * Pergunta: Como validar saída?
@@ -49,9 +49,9 @@ e processar?
    * Exemplo: nome, empresa, 3 dores, prioridade, disponibilidade.
    * Pergunta: Pedir CPF no início?
 
-     * Resposta: Não — aumenta fricção.
+     * Resposta: Nêo — aumenta fricçêo.
 
-5. Tópico: Geração de relatório HTML
+5. Tópico: Geraçêo de relatório HTML
 
    * Exemplo: gerar PDF em Supabase e enviar link curto.
    * Pergunta: Incluir imagens embutidas?
@@ -74,7 +74,7 @@ e processar?
 
 8. Tópico: Supabase modelagem
 
-   * Exemplo SQL para update por email (veja seção 8).
+   * Exemplo SQL para update por email (veja seçêo 8).
    * Pergunta: Como proteger dados?
 
      * Resposta: RLS, tokens JWT, links assinados.
@@ -93,12 +93,12 @@ e processar?
 
       * Resposta: Após 3 tentativas sem resposta.
 
-11. Tópico: Prompts versão controlada
+11. Tópico: Prompts versêo controlada
 
     * Exemplo: V1 vs V2 em DB e A/B test no N8N.
     * Pergunta: Como medir qual prompt é melhor?
 
-      * Resposta: Compare taxa de qualificação e conversão para agendamento.
+      * Resposta: Compare taxa de qualificaçêo e conversêo para agendamento.
 
 12. Tópico: Segurança & compliance
 
@@ -129,12 +129,12 @@ Vou direto ao ponto com hacks acionáveis, trechos de código/expressões e temp
 
 ---
 
-## 1) Hacks de qualificação rápida (detecção de interesse)
+## 1) Hacks de qualificaçêo rápida (detecçêo de interesse)
 
 * Use um *score* numérico para decidir enviar formulário:
 
   * Ex.: +3 pontos por “quero agendar”, +2 por “orçamento”, +1 por “curioso”.
-* Prompt curto para classificação (IA):
+* Prompt curto para classificaçêo (IA):
 
   ```  Avalia a mensagem e responde JSON: {"score":INT,"reason":"TEXTO","intent":"qualificar|curioso|nao_qualificado"}
   ```
@@ -150,7 +150,7 @@ Exemplo n8n If expression:
 
 * Push cada mensagem em lista Redis: `LPUSH chat:{phone} "{msg}"`
 * Aguarde 12–18s com Node Wait. Depois faça `LRANGE chat:{phone} 0 4` para juntar as últimas mensagens.
-* Use um “simulador de digitação”:
+* Use um “simulador de digitaçêo”:
 
   * Enviar primeiro: "Estou pensando..." (pausa 1s), depois enviar 2–3 mensagens curtas com delays (3–6s).
 
@@ -164,7 +164,7 @@ DEL chat:+551199999999   <-- quando já processado```
 
 ## 3) Prompts de alto impacto (templates)
 
-* Prompt de qualificação (exemplo para GPT/Gemini):
+* Prompt de qualificaçêo (exemplo para GPT/Gemini):
 
   ```  Tu és um assistente comercial. Objetivo: qualificar. Regras: 1) Primeiro entregar valor; 2) Fazer 2 perguntas abertas; 3) Se há interesse, sugerir formulário e agendamento; 4) Responder em 1-3 mensagens.
   Input: {contexto_geral}, {ultima_mensagem}
@@ -178,19 +178,19 @@ DEL chat:+551199999999   <-- quando já processado```
 
 ---
 
-## 4) Formularios e UX (reduzir fricção)
+## 4) Formularios e UX (reduzir fricçêo)
 
-* Não peça CPF/CNPJ no primeiro formulário. Comece com: nome, telefone, 3 problemas e prioridade.
+* Nêo peça CPF/CNPJ no primeiro formulário. Comece com: nome, telefone, 3 problemas e prioridade.
 * Use pré-preenchimento quando possível (ex.: número do WhatsApp → preencher telefone do formulário).
-* Forneça opção “Agendar sem formulário” — converte leads que não gostam de formular.
+* Forneça opçêo “Agendar sem formulário” — converte leads que nêo gostam de formular.
 
 Exemplo de estrutura mínima do formulário (Nekron):
 
-* nome | empresa | 3 dores (texto) | prioridade (1-3) | disponibilidade (manhã/tarde)
+* nome | empresa | 3 dores (texto) | prioridade (1-3) | disponibilidade (manhê/tarde)
 
 ---
 
-## 5) Geração de HTML e envio (evitar bloqueios)
+## 5) Geraçêo de HTML e envio (evitar bloqueios)
 
 * Gere HTML simples (sem imagens embutidas). Use URLs públicas para imagens.
 * Envie e-mail com texto + link para PDF gerado (armazenar PDF no Supabase Storage e enviar link assinado).
@@ -202,7 +202,7 @@ Snippet para corpo do e-mail (template):
 
 Obrigado por preencher. Segue um diagnóstico rápido:
 - Principal problema: {problema1}
-- Solução imediata: {solucao1}
+- Soluçêo imediata: {solucao1}
 
 Veja o relatório completo: {link_pdf}
 
@@ -214,10 +214,10 @@ Agende uma conversa: {link_cal}```
 
 * Voice flow hacks:
 
-  * Use intent detection rápido no início: “Você quer agendar, receber informação ou falar com humano?” (DTMF ou voz)
-  * Se fala livre, transcreva em tempo real e passe para o mesmo motor de qualificação (mesmo `score`).
+  * Use intent detection rápido no início: “Você quer agendar, receber informaçêo ou falar com humano?” (DTMF ou voz)
+  * Se fala livre, transcreva em tempo real e passe para o mesmo motor de qualificaçêo (mesmo `score`).
 * Evite TTS com frases longas; quebre em frases curtas para parecer natural.
-* Confirme slot de horário com repeat-back: “Você confirmou terça às 15h, correto? (sim/não)”.
+* Confirme slot de horário com repeat-back: “Você confirmou terça às 15h, correto? (sim/nêo)”.
 
 Exemplo de fallback: se ASR falha duas vezes, transferir para chat de texto via WhatsApp.
 
@@ -225,7 +225,7 @@ Exemplo de fallback: se ASR falha duas vezes, transferir para chat de texto via 
 
 ## 7) N8N — arquitetura de nós e dicas
 
-* Organização:
+* Organizaçêo:
 
   * Webhook → Parser → If(conversa_nova) → Redis flow → AI Node → DB (Supabase) → Action (form/cal/email/whatsapp)
 * Use credentials separadas por ambiente (prod/test).
@@ -257,7 +257,7 @@ mensagens curtas com pausas realistas.
 **
 ### 9. Resultados espe**rados
 
-* Conversas naturais e sem fricção.
+* Conversas naturais e sem fricçêo.
 * Leads qualificados automaticamente.
 * Relatórios personalizados e instantâneos.
 * Agendamentos confirmados em tempo real.
@@ -279,7 +279,7 @@ Objetivo: criar um agente de IA que conversa com leads via WhatsApp, qualifica o
 
 Ferramentas:
 
-* **N8N** (automação)
+* **N8N** (automaçêo)
 * **Supabase** (banco de dados)
 * **Redis** (memória temporária)
 * **Neuronic API / Evolution API** (WhatsApp)
@@ -289,13 +289,13 @@ Ferramentas:
 
 ---
 
-### **2. Configuração inicial**
+### **2. Configuraçêo inicial**
 
 1. **Criar conta e configurar:**
 
    * Supabase (tabelas: leads, conversas, contexto).
-   * Redis (armazenamento temporário para concatenação de mensagens).
-   * N8N (será o motor da automação).
+   * Redis (armazenamento temporário para concatenaçêo de mensagens).
+   * N8N (será o motor da automaçêo).
    * Evolution API para WhatsApp (Business API).
 
 2. **Criar Webhook no N8N:**
@@ -339,11 +339,11 @@ Ferramentas:
   * **Push:** adiciona mensagens recebidas.
   * **Get:** agrupa mensagens dentro de uma janela de 15s.
   * **Delete:** limpa mensagens antigas.
-* **Wait Node:** pausa de 15s para simular digitação humana (“3 pontinhos”).
+* **Wait Node:** pausa de 15s para simular digitaçêo humana (“3 pontinhos”).
 
 ---
 
-### **4. Interação e memória**
+### **4. Interaçêo e memória**
 
 #### **Etapa 4: Conversa natural**
 
@@ -356,11 +356,11 @@ Ferramentas:
 * Evitar emojis e linguagem robótica.
 * Armazenar tudo no **Supabase** (tabela `conversas`).
 
-#### **Etapa 5: Detecção de interesse**
+#### **Etapa 5: Detecçêo de interesse**
 
-* IA analisa se há intenção real de compra/agendamento.
+* IA analisa se há intençêo real de compra/agendamento.
 * Se **sim** → envia link do formulário Nekron.
-* Se **não** → continua oferecendo valor e esclarecimentos.
+* Se **nêo** → continua oferecendo valor e esclarecimentos.
 
 ---
 
@@ -385,7 +385,7 @@ Ferramentas:
 * **E-mail Node + WhatsApp Node:**
 
   * Envia relatório para o cliente.
-  * Envia notificação interna para o dono do negócio.
+  * Envia notificaçêo interna para o dono do negócio.
 
 ---
 
@@ -394,14 +394,14 @@ Ferramentas:
 #### **Etapa 8: Envio de link de calendário**
 
 * Bot envia link do **Cal.com** com horários disponíveis.
-* Usuário escolhe o horário → reunião criada automaticamente.
-* **Notificação interna:** mensagem WhatsApp confirmando agendamento.
+* Usuário escolhe o horário → reuniêo criada automaticamente.
+* **Notificaçêo interna:** mensagem WhatsApp confirmando agendamento.
 
 ---
 
 ### **7. Melhoria contínua**
 
-#### **Etapa 9: Atualização de contexto**
+#### **Etapa 9: Atualizaçêo de contexto**
 
 * Cada nova mensagem ou formulário atualiza:
 
@@ -420,7 +420,7 @@ Ferramentas:
 ```
 
 ```
-Tu és um assistente de qualificação que fala de forma natural e empática.
+Tu és um assistente de qualificaçêo que fala de forma natural e empática.
 Objetivo: identificar se o lead tem interesse real e conduzi-lo até o agendamento.
 Regras:
 - Nunca enviar link de formulário no início.
@@ -442,10 +442,10 @@ Autor: INEMA
 Data: 2025-11-03T03:12:29+00:00
 Texto:
 personalizadas.
-* Redução de fricção no funil de qualificação.
+* Reduçêo de fricçêo no funil de qualificaçêo.
 * Relatórios automáticos com insights personalizados.
 * Agendamentos automáticos sem erros.
-* Economia de tempo e maior conversão de leads.
+* Economia de tempo e maior conversêo de leads.
 
 ---
 
@@ -459,10 +459,10 @@ personalizadas.
 
 ---
 
-### **Conclusão**
+### **Conclusêo**
 
-O fluxo integra **voz + IA + automação**, com aprendizado contextual e comportamento adaptativo.
-O sistema aprende com cada conversa, **parecendo um atendente humano real**, conduzindo o cliente da primeira mensagem até o agendamento — tudo sem intervenção manual.
+O fluxo integra **voz + IA + automaçêo**, com aprendizado contextual e comportamento adaptativo.
+O sistema aprende com cada conversa, **parecendo um atendente humano real**, conduzindo o cliente da primeira mensagem até o agendamento — tudo sem intervençêo manual.
 
 ------------------------------
 
@@ -470,11 +470,11 @@ MENSAGEM 11
 Autor: INEMA
 Data: 2025-11-03T03:12:29+00:00
 Texto:
-**Resumo completo – Criação de um Bot Qualificador e Agendador com IA, Voz e N8N**
+**Resumo completo – Criaçêo de um Bot Qualificador e Agendador com IA, Voz e N8N**
 
 ---
 
-### **1. Objetivo da automação**
+### **1. Objetivo da automaçêo**
 
 Ensina a criar um **agente conversacional inteligente** que:
 
@@ -485,20 +485,20 @@ Ensina a criar um **agente conversacional inteligente** que:
 * Agenda reuniões automaticamente via Cal.com.
 * Armazena todo o contexto da conversa e comportamento no Supabase.
 
-A ideia central é **simular uma conversa humana**, evitando fricções e mantendo o fluxo natural de interação antes de pedir qualquer dado formal.
+A ideia central é **simular uma conversa humana**, evitando fricções e mantendo o fluxo natural de interaçêo antes de pedir qualquer dado formal.
 
 ---
 
 ### **2. Estrutura geral do fluxo**
 
-O processo completo é dividido em **etapas lógicas**, com memória e automação integradas:
+O processo completo é dividido em **etapas lógicas**, com memória e automaçêo integradas:
 
 1. **Início da conversa**
 
    * O bot é ativado ao receber mensagem no WhatsApp.
-   * Usa *Evolution API* para conexão com WhatsApp Business.
+   * Usa *Evolution API* para conexêo com WhatsApp Business.
 
-2. **Classificação da conversa**
+2. **Classificaçêo da conversa**
 
    * Detecta se é conversa nova ou existente.
    * Se nova, cria um registro no **Supabase** com número e contexto inicial.
@@ -510,21 +510,21 @@ O processo completo é dividido em **etapas lógicas**, com memória e automaç�
 
 4. **Diálogo natural e humano**
 
-   * O bot conversa de forma segmentada, usando prompts que imitam digitação (três pontinhos, tempo de espera).
+   * O bot conversa de forma segmentada, usando prompts que imitam digitaçêo (três pontinhos, tempo de espera).
    * Evita emojis e respostas artificiais.
    * Adota tom empático e curioso sobre o negócio do cliente.
 
-5. **Avaliação e qualificação**
+5. **Avaliaçêo e qualificaçêo**
 
    * O agente analisa se o lead demonstra interesse.
    * Caso positivo, oferece preencher o **formulário personalizado (Nekron)**.
 
 6. **Envio e análise do formulário**
 
-   * O formulário coleta nome, empresa, cargo, principais problemas, prioridades e disposição para investimento.
-   * Após o envio, os dados são salvos no **Supabase**.
+   * O formulário coleta nome, empresa, cargo, principais problemas, prioridades e disposiçêo para investimento.
+   * Após o envio, os dados sêo salvos no **Supabase**.
 
-7. **Geração de relatório personalizado (HTML)**
+7. **Geraçêo de relatório personalizado (HTML)**
 
    * A IA gera um diagnóstico visual e textual com base nas respostas.
    * O relatório é enviado por **e-mail e WhatsApp**, com link para agendamento no Cal.com.
@@ -532,20 +532,20 @@ O processo completo é dividido em **etapas lógicas**, com memória e automaç�
 8. **Agendamento automático (****Cal.com****)**
 
    * O lead escolhe o horário disponível e agenda diretamente no sistema.
-   * O bot envia mensagem de confirmação.
-   * O dono do negócio recebe notificação interna no WhatsApp.
+   * O bot envia mensagem de confirmaçêo.
+   * O dono do negócio recebe notificaçêo interna no WhatsApp.
 
 ---
 
 ### **3. Tecnologias e ferramentas utilizadas**
 
-* **N8N** – Motor principal de automação.
+* **N8N** – Motor principal de automaçêo.
 * **Supabase** – Banco de dados e armazenamento contextual.
 * **Redis** – Armazenamento temporário para concatenar mensagens.
-* **Neuronic API (Evolution API)** – Integração com WhatsApp Business.
+* **Neuronic API (Evolution API)** – Integraçêo com WhatsApp Business.
 * **Cal.com** – Sistema de agendamento integrado.
 * **Formulários Nekron** – Captura de dados do lead.
-* **OpenAI (GPT)** ou **Gemini** – Geração de texto e relatórios.
+* **OpenAI (GPT)** ou **Gemini** – Geraçêo de texto e relatórios.
 
 ---
 
@@ -556,11 +556,11 @@ O processo completo é dividido em **etapas lógicas**, com memória e automaç�
 
   * *Oportunidade chave* (problema do cliente).
   * *Contexto geral* (histórico do diálogo).
-  * *Contexto temporal* (momento e frequência da interação).
+  * *Contexto temporal* (momento e frequência da interaçêo).
 * **Simular escrita humana:** pausas, múltiplas mensagens, linguagem natural.
 * **Evitar fricções:** só pedir dados depois que o usuário está engajado.
-* **Separar fluxos:** leads qualificados x não qualificados.
-* **Armazenar memórias incrementais:** atualizar contexto a cada interação.
+* **Separar fluxos:** leads qualificados x nêo qualificados.
+* **Armazenar memórias incrementais:** atualizar contexto a cada interaçêo.
 
 ---
 
@@ -569,7 +569,7 @@ O processo completo é dividido em **etapas lógicas**, com memória e automaç�
 * **Webhook** recebe mensagem do WhatsApp.
 * **If Nodes** controlam caminhos: nova conversa / conversa existente.
 * **Redis (Push → Get → Delete)** processa mensagens sequenciais.
-* **Supabase** registra contexto e status (formulário preenchido ou não).
+* **Supabase** registra contexto e status (formulário preenchido ou nêo).
 * **AI Nodes (GPT/Gemini)** recebem variáveis de contexto para respostas personalizadas.
 * **HTML Generator** cria relatório com variáveis dinâmicas.
 * **Mailer/WhatsApp Node** envia e-mails e mensagens.
@@ -597,28 +597,28 @@ Data: 2025-11-03T03:07:03+00:00
 Texto:
 Bot com IA que qualifica e agenda sozinho
 
-Você aprenderá a criar um agente conversacional qualificador impulsionado por IA, capaz de interagir naturalmente com os prospectos, detectar interesse real e levá-los automaticamente a preencher um formulário e agendar uma reunião. Todo o sistema é otimizado para parecer humano e reduzir fricções — ideal para automatizar a captação sem parecer um bot.
+Você aprenderá a criar um agente conversacional qualificador impulsionado por IA, capaz de interagir naturalmente com os prospectos, detectar interesse real e levá-los automaticamente a preencher um formulário e agendar uma reuniêo. Todo o sistema é otimizado para parecer humano e reduzir fricções — ideal para automatizar a captaçêo sem parecer um bot.
 
-🛠️ O que conseguimos com essa automação:
+🛠️ O que conseguimos com essa automaçêo:
 • Ter um bot que conversa de forma fluida e humana, usando prompts avançados e estratégia de contexto.
 • Detectar automaticamente se o usuário está qualificado e interessado.
 • Direcionar o lead no momento ideal para preencher um formulário.
 • Gerar um relatório HTML personalizado com base nas respostas do formulário.
-• Enviar esse relatório por e-mail e WhatsApp, com um CTA final para agendar uma reunião.
+• Enviar esse relatório por e-mail e WhatsApp, com um CTA final para agendar uma reuniêo.
 • Notificar a equipe quando um lead concluir o processo.
 • Integrar perfeitamente com WhatsApp Business via Neuronic API, Cal.com e formulários do Nekron.
 
 🧍‍♂️ Estrutura do fluxo automatizado
 
 1. Início da conversa: o bot é ativado ao receber uma mensagem no WhatsApp.
-2. Classificação: detecta se é uma nova conversa ou uma já existente.
+2. Classificaçêo: detecta se é uma nova conversa ou uma já existente.
 3. Memória contextual: salva e atualiza no Supabase informações importantes como nome, empresa, problemas, interesse, etc.
 4. Conversa natural: o bot mantém o diálogo em várias mensagens usando Redis + nó de espera (Wait).
-5. Avaliação de interesse: se detectar interesse real, propõe agendar.
+5. Avaliaçêo de interesse: se detectar interesse real, propõe agendar.
 6. Envio de formulário: o bot compartilha um link de formulário personalizado no Necron.
-7. Geração de relatório: após o preenchimento, um relatório HTML é criado com IA e enviado por e-mail.
+7. Geraçêo de relatório: após o preenchimento, um relatório HTML é criado com IA e enviado por e-mail.
 8. Agendamento: o bot direciona para o calendário do Cal.com.
-9. Notificação interna: a equipe é avisada no WhatsApp com os dados do lead.
+9. Notificaçêo interna: a equipe é avisada no WhatsApp com os dados do lead.
 
 🛠️ Ferramentas utilizadas
 • N8N
@@ -633,16 +633,16 @@ Você aprenderá a criar um agente conversacional qualificador impulsionado por 
 • Nunca pedir o formulário no início — primeiro gere valor.
 • Use prompts com estratégia de “oportunidade-chave”, “contexto geral” e “contexto temporal”.
 • Envie mensagens concatenadas simulando escrita humana (reticências, tempos reais, etc.).
-• Melhore o bot com armazenamento e atualização contextual avançada.
+• Melhore o bot com armazenamento e atualizaçêo contextual avançada.
 • Treine o bot para ser curioso, fazer perguntas relevantes e conectar dores a soluções.
-• Reutilize estruturas já validadas (concatenação, espera, etc.) para não reinventar a roda.
-• Elimine fricções: não peça nada sem antes gerar interesse.
-• Separe claramente os fluxos de usuários qualificados e não qualificados.
+• Reutilize estruturas já validadas (concatenaçêo, espera, etc.) para nêo reinventar a roda.
+• Elimine fricções: nêo peça nada sem antes gerar interesse.
+• Separe claramente os fluxos de usuários qualificados e nêo qualificados.
 
 📦 Recursos
 
 1. Bot conversacional
-2. Processo de utilização
+2. Processo de utilizaçêo
 
 ------------------------------
 
@@ -665,18 +665,18 @@ Sistema de agendamento com bots + voz + IA
 💣 O melhor: conectamos com bots de voz que falam com seus leads e agendam por você em tempo real.
 
 O que você vai aprender passo a passo?
-🔥 Como criar calendários que não falham, integrados com Google, Outlook, Zoom ou Meet.
+🔥 Como criar calendários que nêo falham, integrados com Google, Outlook, Zoom ou Meet.
 🔥 Como enviar automaticamente lembretes por e-mail, WhatsApp ou SMS.
 🔥 Como montar um agente de voz com RETTL que detecta horários, confirma disponibilidade e agenda em segundos.
-🔥 Como capturar a transcrição completa da chamada, analisá-la com IA e registrar tudo no Supabase.
+🔥 Como capturar a transcriçêo completa da chamada, analisá-la com IA e registrar tudo no Supabase.
 🔥 Como usar o N8N para automatizar cada etapa do fluxo, desde a reserva até o acompanhamento pós-chamada.
-🔥 E como preparar o sistema para que, se o cliente não quiser usar o link, ainda assim possa agendar falando com o bot.
+🔥 E como preparar o sistema para que, se o cliente nêo quiser usar o link, ainda assim possa agendar falando com o bot.
 
 💡 Isso pode ser usado em clínicas, consultorias, imobiliárias, assessorias...
 Qualquer negócio onde se façam agendamentos.
 
 🚀 Ah, e o melhor: tudo isso pode ser feito de graça se você souber montar.
-(Te explico como evitar a versão paga sem perder funcionalidades)
+(Te explico como evitar a versêo paga sem perder funcionalidades)
 
 ------------------------------
 

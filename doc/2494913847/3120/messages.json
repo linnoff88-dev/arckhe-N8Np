@@ -87,7 +87,7 @@
     "id": 3128,
     "author": "INEMA",
     "date": "2025-03-13T21:26:07+00:00",
-    "text": "### **Gerador de Leads Outbound com Google Maps como Scraper**  \n\n**O que faz:**  \n1. **Raspagem de Dados**: Percorre o Google Maps para coletar detalhes de empresas.  \n2. **Enriquecimento de Dados**: Utiliza **Jina AI** para complementar as informações das empresas.  \n3. **Organização**: Salva todos os dados em uma **planilha**.  \n4. **Contato Automatizado**: Envia um **e-mail frio e personalizado** para os leads coletados.  \n\n🔗 **Demonstração:** [Vídeo da demo](https://www.loom.com/share/b530d510de37422fa4d956a8254daf0c?sid=4427ca13-3872-4b20-8cc1-dd1cbe9d2449)",
+    "text": "### **Gerador de Leads Outbound com Google Maps como Scraper**  \n\n**O que faz:**  \n1. **Raspagem de Dados**: Percorre o Google Maps para coletar detalhes de empresas.  \n2. **Enriquecimento de Dados**: Utiliza **Jina AI** para complementar as informações das empresas.  \n3. **Organizaçêo**: Salva todos os dados em uma **planilha**.  \n4. **Contato Automatizado**: Envia um **e-mail frio e personalizado** para os leads coletados.  \n\n🔗 **Demonstraçêo:** [Vídeo da demo](https://www.loom.com/share/b530d510de37422fa4d956a8254daf0c?sid=4427ca13-3872-4b20-8cc1-dd1cbe9d2449)",
     "has_media": true,
     "media_type": "MessageMediaWebPage"
   },

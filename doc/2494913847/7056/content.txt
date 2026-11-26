@@ -23,13 +23,13 @@ Autor: INEMA
 Data: 2025-05-01T03:54:04+00:00
 Texto:
 ### Objetivo do Agente de IA
-Automatizar a pesquisa de palavras-chave de SEO e a criação de conteúdo otimizado, usando **n8n**, **Exa.ai** e **OpenAI**, sem necessidade de programação.
+Automatizar a pesquisa de palavras-chave de SEO e a criaçêo de conteúdo otimizado, usando **n8n**, **Exa.ai** e **OpenAI**, sem necessidade de programaçêo.
 
 ---
 
 ### Ferramentas Utilizadas
-- **n8n**: Orquestração dos fluxos de trabalho.
-- **OpenAI**: Geração e reformulação de conteúdo.
+- **n8n**: Orquestraçêo dos fluxos de trabalho.
+- **OpenAI**: Geraçêo e reformulaçêo de conteúdo.
 - **Exa.ai**: Busca dos 10 melhores resultados da web para cada palavra-chave.
 - **Google Sheets**: Entrada e saída de dados (palavras-chave, conteúdos, campanhas).
   
@@ -51,7 +51,7 @@ Automatizar a pesquisa de palavras-chave de SEO e a criação de conteúdo otimi
 
 ---
 
-### Workflow 2 – Reformulação e Criação de Conteúdo SEO
+### Workflow 2 – Reformulaçêo e Criaçêo de Conteúdo SEO
 
 **Objetivo**: Reutilizar conteúdo de alta performance e criar material SEO original.
 
@@ -79,17 +79,17 @@ Automatizar a pesquisa de palavras-chave de SEO e a criação de conteúdo otimi
 
 ### Dicas Incríveis do Vídeo
 - Pode-se automatizar *todo o funil de SEO* sem escrever código.
-- A combinação **n8n + OpenAI + ****Exa.ai** gera insights prontos para blogs, campanhas ou redes sociais.
-- Pode ser adaptado a qualquer nicho: saúde, tecnologia, beleza, educação, etc.
+- A combinaçêo **n8n + OpenAI + ****Exa.ai** gera insights prontos para blogs, campanhas ou redes sociais.
+- Pode ser adaptado a qualquer nicho: saúde, tecnologia, beleza, educaçêo, etc.
 
 ---
 
-### Conclusão
+### Conclusêo
 Esse sistema:
 - Economiza horas de pesquisa manual.
 - Gera conteúdo original e otimizado.
 - Funciona em múltiplos idiomas.
-- É ideal para quem quer escalar produção de conteúdo com consistência e relevância.
+- É ideal para quem quer escalar produçêo de conteúdo com consistência e relevância.
 
 ------------------------------
 
@@ -97,9 +97,9 @@ MENSAGEM 3
 Autor: INEMA
 Data: 2025-05-01T03:53:14+00:00
 Texto:
-Um agente de IA para automatizar a pesquisa de SEO e a criação de conteúdo (100% automatizado)
+Um agente de IA para automatizar a pesquisa de SEO e a criaçêo de conteúdo (100% automatizado)
 
-Acabei de fazer um tutorial mostrando como automatizar a pesquisa de palavras-chave de SEO e o reaproveitamento de conteúdo usando n8n, Exa.ai e OpenAI - sem necessidade de codificação! 
+Acabei de fazer um tutorial mostrando como automatizar a pesquisa de palavras-chave de SEO e o reaproveitamento de conteúdo usando n8n, Exa.ai e OpenAI - sem necessidade de codificaçêo! 
 
 Esses fluxos de trabalho baseados em IA ajudam você a gerar palavras-chave, analisar conteúdo de alto nível e otimizar artigos sem esforço.
 
@@ -133,7 +133,7 @@ MENSAGEM 7
 Autor: INEMA
 Data: 2025-05-01T03:50:16+00:00
 Texto:
-**als01-Automatize a pesquisa de SEO e a criação de conteúdo**
+**als01-Automatize a pesquisa de SEO e a criaçêo de conteúdo**
 
 ------------------------------
 

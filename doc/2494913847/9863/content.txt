@@ -23,7 +23,7 @@ Autor: INEMA
 Data: 2025-06-15T05:58:57+00:00
 Texto:
 14h às 15h"
-* "Quais são meus horários disponíveis semana que vem?"
+* "Quais sêo meus horários disponíveis semana que vem?"
 * "Responda ao último e-mail dizendo que estamos avaliando a proposta"
 
 ---
@@ -62,8 +62,8 @@ Aqui está o **passo a passo completo** para criar um **Assistente Pessoal com I
 * **Telegram Trigger**: inicia o fluxo ao receber uma mensagem.
 * **OpenAI Chat Node**: interpreta o comando do usuário.
 
-  * Exemplo: "Marque reunião com João dia 25 às 10h".
-* **Switch ou if**: identifica se a ação é e-mail, calendário ou ambos.
+  * Exemplo: "Marque reuniêo com Joêo dia 25 às 10h".
+* **Switch ou if**: identifica se a açêo é e-mail, calendário ou ambos.
 * **Chamada de Sub-Workflows**: executa o fluxo correspondente.
 
 ---
@@ -88,19 +88,19 @@ Aqui está o **passo a passo completo** para criar um **Assistente Pessoal com I
 * **Importante**:
 
   * Use "threadId" para responder corretamente.
-  * Se não houver thread, extraia o e-mail do contato via Notion.
+  * Se nêo houver thread, extraia o e-mail do contato via Notion.
 
 ---
 
 ### 4. **Sub-Workflow: Agente de Gerenciamento da Caixa de Entrada**
 
-* **Gmail Trigger**: verifica novos e-mails a cada minuto (somente não lidos).
+* **Gmail Trigger**: verifica novos e-mails a cada minuto (somente nêo lidos).
 * **Text Classifier (OpenAI)**:
 
-  * Classifica os e-mails como: "reunião", "inquérito", "parceria", etc.
-* **Regras de ação**:
+  * Classifica os e-mails como: "reuniêo", "inquérito", "parceria", etc.
+* **Regras de açêo**:
 
-  * Se for reunião → prepara resposta com horários disponíveis.
+  * Se for reuniêo → prepara resposta com horários disponíveis.
   * Se for inquérito → envia resumo para o Telegram.
 
 ---
@@ -121,7 +121,7 @@ Aqui está o **passo a passo completo** para criar um **Assistente Pessoal com I
 
 * **Extras**:
 
-  * IA decide qual ação fazer com base no comando: criar, reagendar ou excluir evento.
+  * IA decide qual açêo fazer com base no comando: criar, reagendar ou excluir evento.
 
 ---
 
@@ -140,7 +140,7 @@ Aqui está o **passo a passo completo** para criar um **Assistente Pessoal com I
 
 ### 7. **Resposta via Telegram**
 
-* Todas as respostas (e-mails rascunhados, horários, status) são enviadas de volta ao Telegram.
+* Todas as respostas (e-mails rascunhados, horários, status) sêo enviadas de volta ao Telegram.
 * Uso do nó **Telegram Node (Send Message)** com:
 
   * `chat_id` dinâmico (do trigger)
@@ -153,7 +153,7 @@ Aqui está o **passo a passo completo** para criar um **Assistente Pessoal com I
 * Cada agente (e-mail, calendário, caixa de entrada) tem seu **System Prompt** específico:
 
   * **Agente de E-mail**: “Você é um assistente especialista em redigir e-mails profissionais...”
-  * **Agente de Calendário**: “Você gerencia compromissos com precisão, considerando fusos e disponibilidade...”
+  * **Agente de Calendário**: “Você gerencia compromissos com precisêo, considerando fusos e disponibilidade...”
   * Inclui instruções claras, exemplos e cadeia de pensamento (Chain of Thought).
 
 ---
@@ -168,9 +168,9 @@ Aqui está o **passo a passo completo** para criar um **Assistente Pessoal com I
 
 ### 10. **Exemplos de comandos que funcionam via Telegram:**
 
-* "Envie um e-mail para João convidando para uma entrevista"
+* "Envie um e-mail para Joêo convidando para uma entrevista"
 * "Crie um rascunho para a Maria explicando o novo projeto"
-* "Marque reunião com Pedro dia 10 das
+* "Marque reuniêo com Pedro dia 10 das
 
 ------------------------------
 
@@ -199,39 +199,39 @@ Este projeto ensina como criar um assistente pessoal com IA no n8n, que interage
    * A IA envia e-mails com base em dados do CRM no Notion.
    * Exemplo: "Envie um e-mail para JCH convidando-o para trabalhar na empresa".
 
-2. **Criação de rascunhos de e-mails**
+2. **Criaçêo de rascunhos de e-mails**
 
-   * A IA pode redigir e salvar e-mails como rascunho no Gmail para revisão manual.
+   * A IA pode redigir e salvar e-mails como rascunho no Gmail para revisêo manual.
    * Exemplo: "Crie um rascunho de convite para JCH se juntar à equipe".
 
 3. **Resposta automática a e-mails recebidos**
 
    * Ao receber e-mails rotulados como "inquérito", a IA sugere respostas e as envia se confirmadas pelo usuário.
-   * Exemplo: "Responda que não estamos vendendo ainda, mas teremos uma comunidade em breve".
+   * Exemplo: "Responda que nêo estamos vendendo ainda, mas teremos uma comunidade em breve".
 
 4. **Agendamento de eventos no Google Calendar**
 
    * A IA cria eventos com horário, título e destinatários com base em comandos de texto.
-   * Exemplo: "Agende reunião com João dia 24 das 8h às 9h".
+   * Exemplo: "Agende reuniêo com Joêo dia 24 das 8h às 9h".
 
-5. **Reagendamento ou exclusão de eventos**
+5. **Reagendamento ou exclusêo de eventos**
 
    * A IA altera ou deleta eventos existentes.
-   * Exemplo: "Mude o horário da reunião para 9h" ou "Cancele esse evento".
+   * Exemplo: "Mude o horário da reuniêo para 9h" ou "Cancele esse evento".
 
 6. **Consulta de disponibilidade na agenda**
 
    * A IA retorna automaticamente os horários vagos para agendamentos futuros.
    * Exemplo: "Veja meus horários disponíveis para semana que vem".
 
-7. **Resposta automática a convites de reunião por e-mail**
+7. **Resposta automática a convites de reuniêo por e-mail**
 
-   * A IA lê o pedido de reunião, verifica a disponibilidade e responde com os 3 melhores horários.
+   * A IA lê o pedido de reuniêo, verifica a disponibilidade e responde com os 3 melhores horários.
    * Exemplo: ao receber e-mail pedindo disponibilidade, a IA responde: "Estou livre segunda, quarta e sexta às 10h".
 
-8. **Classificação automática de e-mails na caixa de entrada**
+8. **Classificaçêo automática de e-mails na caixa de entrada**
 
-   * Os e-mails recebidos são rotulados como “reunião”, “inquérito”, “parceria”, etc., com base no conteúdo.
+   * Os e-mails recebidos sêo rotulados como “reuniêo”, “inquérito”, “parceria”, etc., com base no conteúdo.
    * Exemplo: um e-mail com pergunta é rotulado como “inquérito” e enviado ao Telegram com opções de resposta.
 
 9. **Uso de sistema de prompts bem definidos com exemplos e instruções específicas**
@@ -240,13 +240,13 @@ Este projeto ensina como criar um assistente pessoal com IA no n8n, que interage
 
 10. **Banco de dados para contatos e agendamento**
 
-* Os contatos são buscados no Notion (mas podem ser substituídos por Google Sheets ou outro CRM).
+* Os contatos sêo buscados no Notion (mas podem ser substituídos por Google Sheets ou outro CRM).
 
 11. **Workflow modular e organizado**
 
 * Cada agente (e-mail, inbox, calendário) é um fluxo separado acionado sob demanda pelo assistente principal.
 
-12. **Verificação de eventos ocupados no Google Calendar**
+12. **Verificaçêo de eventos ocupados no Google Calendar**
 
 * A IA calcula os horários disponíveis com base nos eventos já agendados (inclusive eventos recorrentes).
 

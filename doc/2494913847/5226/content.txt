@@ -34,19 +34,19 @@ Este pacote contém 10 workflows completos do n8n projetados especificamente par
 
 ## Conteúdo do Pacote
 
-1. Arquivos JSON dos Workflows: definições prontas para importação  
-2. Documentação dos Workflows: explicações detalhadas de cada processo  
-3. Instruções de Configuração: guia passo a passo para implementação
+1. Arquivos JSON dos Workflows: definições prontas para importaçêo  
+2. Documentaçêo dos Workflows: explicações detalhadas de cada processo  
+3. Instruções de Configuraçêo: guia passo a passo para implementaçêo
 
 ## Workflows Incluídos
 
-1. **Sistema de Captura e Qualificação de Leads**  
+1. **Sistema de Captura e Qualificaçêo de Leads**  
    - Captura leads do site e os pontua com base em critérios predefinidos  
    - Encaminha leads qualificados para ações de acompanhamento apropriadas  
-   - Acompanha fontes de leads e taxas de conversão  
+   - Acompanha fontes de leads e taxas de conversêo  
 
-2. **Automação de Agendamento de Consultas**  
-   - Permite que os clientes agendem por conta própria com verificação de disponibilidade em tempo real  
+2. **Automaçêo de Agendamento de Consultas**  
+   - Permite que os clientes agendem por conta própria com verificaçêo de disponibilidade em tempo real  
    - Sincroniza com o Google Agenda para evitar agendamentos duplicados  
    - Envia confirmações de agendamento para clientes e terapeutas  
 
@@ -55,13 +55,13 @@ Este pacote contém 10 workflows completos do n8n projetados especificamente par
    - Oferece opções fáceis de reagendamento para os clientes  
    - Reduz faltas e cancelamentos de última hora  
 
-4. **Processamento de Formulário de Admissão do Cliente**  
+4. **Processamento de Formulário de Admissêo do Cliente**  
    - Automatiza a coleta e o armazenamento seguro das informações de saúde dos clientes  
    - Valida o preenchimento completo do formulário e sinaliza preocupações importantes  
    - Cria perfis de clientes no seu banco de dados  
 
 5. **Sistema de Acompanhamento Pós-Consulta**  
-   - Envia e-mails de agradecimento com pedido de avaliação  
+   - Envia e-mails de agradecimento com pedido de avaliaçêo  
    - Oferece incentivos de novo agendamento com base no tipo de serviço  
    - Coleta e analisa o feedback dos clientes  
 
@@ -75,7 +75,7 @@ Este pacote contém 10 workflows completos do n8n projetados especificamente par
    - Evita conflitos de horário e duplicidade  
    - Notifica os terapeutas sobre alterações na agenda  
 
-8. **Automação de Campanhas de Marketing**  
+8. **Automaçêo de Campanhas de Marketing**  
    - Agenda conteúdo para redes sociais em várias plataformas  
    - Acompanha a eficácia com métricas de engajamento  
    - Gera relatórios de desempenho das campanhas  
@@ -86,26 +86,26 @@ Este pacote contém 10 workflows completos do n8n projetados especificamente par
    - Fortalece o relacionamento com o cliente por meio do engajamento personalizado  
 
 10. **Painel de Análise de Negócios**  
-    - Monitora métricas principais (consultas, receita, retenção de clientes)  
+    - Monitora métricas principais (consultas, receita, retençêo de clientes)  
     - Gera relatórios semanais e mensais de desempenho  
-    - Fornece insights acionáveis para otimização do negócio  
+    - Fornece insights acionáveis para otimizaçêo do negócio  
 
-## Requisitos para Implementação
+## Requisitos para Implementaçêo
 
 - Instância do n8n (auto-hospedada ou em nuvem)  
 - Google Workspace (Gmail, Agenda, Planilhas)  
-- Opcional: contas de redes sociais para automação de marketing  
+- Opcional: contas de redes sociais para automaçêo de marketing  
 - Opcional: conta Twilio para envio de SMS
 
 ## Para Começar
 
-1. Revise o documento de instruções de configuração para ver os passos detalhados  
+1. Revise o documento de instruções de configuraçêo para ver os passos detalhados  
 2. Importe os arquivos JSON dos workflows para sua instância do n8n  
 3. Configure as credenciais e conexões necessárias  
 4. Personalize os workflows conforme as necessidades específicas do seu negócio  
-5. Teste cada workflow cuidadosamente antes da implantação completa
+5. Teste cada workflow cuidadosamente antes da implantaçêo completa
 
-Para instruções detalhadas de implementação, consulte o arquivo `setup_instructions.md` incluído neste pacote.
+Para instruções detalhadas de implementaçêo, consulte o arquivo `setup_instructions.md` incluído neste pacote.
 
 ------------------------------
 
@@ -136,29 +136,29 @@ Como utilizar a ferramenta **Manus AI** para criar **workflows completos no n8n*
 
 ### Resumo geral:
 
-- Manus AI é uma ferramenta baseada em IA que combina **pesquisa profunda com execução prática**. Ela pode criar arquivos, sites, automações e muito mais.
+- Manus AI é uma ferramenta baseada em IA que combina **pesquisa profunda com execuçêo prática**. Ela pode criar arquivos, sites, automações e muito mais.
 - Como gerar **10 automações completas para uma clínica de massoterapia**, apenas com um prompt bem estruturado.
 - Manus oferece dois modos: **Standard** (mais barato) e **High-Effort** (mais caro, mas mais potente e preciso).
 - Os arquivos gerados incluem:
   - **JSONs prontos para importar no n8n**
-  - **Instruções de configuração**
+  - **Instruções de configuraçêo**
   - **Explicações detalhadas de cada workflow**
 - Foram testados casos para outros setores, como **venture capital** e **coaching**, mostrando que a ferramenta pode ser aplicada em diversas áreas.
 
 ### Tópicos abordados com exemplos:
 
-1. **Criação de fluxos para massoterapia:**
+1. **Criaçêo de fluxos para massoterapia:**
    - Agendamento automático
-   - Reativação de clientes inativos
+   - Reativaçêo de clientes inativos
    - Aniversário de clientes (envio por e-mail ou SMS)
-   - Gestão de agenda e campanhas de marketing
+   - Gestêo de agenda e campanhas de marketing
    - Todos os fluxos vêm com lógica de negócios e arquivos explicativos.
 
 2. **Testes com outros setores (ex: venture capital):**
-   - Exemplo: automação de due diligence, assinatura de documentos, captação de deals via LinkedIn.
+   - Exemplo: automaçêo de due diligence, assinatura de documentos, captaçêo de deals via LinkedIn.
    - Alguns fluxos gerados continham erros, como *property value error* nos JSONs — mas isso foi corrigido com ajustes no prompt.
 
-3. **Comparação entre modos:**
+3. **Comparaçêo entre modos:**
    - **High-Effort Mode**: mais completo, mas consome muitos créditos (caro).
    - **Standard Mode**: mais rápido, mais barato, mas pode gerar erros ou fluxos incompletos.
    - O autor recomenda **começar pelo modo Standard** e só usar o High-Effort se for necessário.
@@ -166,10 +166,10 @@ Como utilizar a ferramenta **Manus AI** para criar **workflows completos no n8n*
 4. **Dicas para usar bem o Manus:**
    - Criar prompts claros, com contexto de negócios, ferramentas utilizadas e expectativas de entrega.
    - Usar o ChatGPT como engenheiro de prompts ajuda muito.
-   - Ajustar o prompt com feedbacks se os resultados não forem satisfatórios.
+   - Ajustar o prompt com feedbacks se os resultados nêo forem satisfatórios.
 
-### Conclusão:
-Manus AI permite criar dezenas de automações n8n **quase instantaneamente**, economizando horas ou dias de trabalho. Com prompts bem elaborados, é possível criar fluxos prontos para importar, com lógica de negócio e documentação. Apesar de algumas limitações e falhas eventuais, é uma ferramenta poderosa para acelerar projetos de automação.
+### Conclusêo:
+Manus AI permite criar dezenas de automações n8n **quase instantaneamente**, economizando horas ou dias de trabalho. Com prompts bem elaborados, é possível criar fluxos prontos para importar, com lógica de negócio e documentaçêo. Apesar de algumas limitações e falhas eventuais, é uma ferramenta poderosa para acelerar projetos de automaçêo.
 
 ------------------------------
 
@@ -179,7 +179,7 @@ Data: 2025-04-10T07:00:10+00:00
 Texto:
 **O Experimento Manus #3 desaparecido (alucinante)
 **
-Se você estava curioso para saber o quão bem o Manus poderia produzir toneladas de automações JSON ... Em massa, assista a este vídeo.Anexando capturas de tela das automações construídas com ele aqui - se você quiser comentar sobre o vídeo para um pouco de amor por algo, eu agradeceria!
+Se você estava curioso para saber o quêo bem o Manus poderia produzir toneladas de automações JSON ... Em massa, assista a este vídeo.Anexando capturas de tela das automações construídas com ele aqui - se você quiser comentar sobre o vídeo para um pouco de amor por algo, eu agradeceria!
 
 ------------------------------
 

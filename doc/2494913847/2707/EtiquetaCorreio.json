@@ -96,12 +96,12 @@
         "categories": {
           "categories": [
             {
-              "category": "Colaboração",
+              "category": "Colaboraçêo",
               "description": "=E-mails de empresas de IA ou negócios relacionados à inteligência artificial que estejam interessados em colaborar em projetos ou criar coisas em conjunto."
             },
             {
               "category": "Negocios",
-              "description": "=E-mails relacionados a assuntos gerais de negócios que não estejam diretamente vinculados a patrocínios ou colaborações, como perguntas sobre automações, interesse no desenvolvimento de automações, solicitações de informação ou qualquer outro tipo de comunicação comercial."
+              "description": "=E-mails relacionados a assuntos gerais de negócios que nêo estejam diretamente vinculados a patrocínios ou colaborações, como perguntas sobre automações, interesse no desenvolvimento de automações, solicitações de informaçêo ou qualquer outro tipo de comunicaçêo comercial."
             },
             {
               "category": "Newsletters",
@@ -118,7 +118,7 @@
           ]
         },
         "options": {
-          "systemPromptTemplate": "=Classifique o texto fornecido pelo usuário em uma das seguintes categorias: {categories}. Siga estritamente as instruções de formato indicadas abaixo. Não adicione explicações nem comentários."
+          "systemPromptTemplate": "=Classifique o texto fornecido pelo usuário em uma das seguintes categorias: {categories}. Siga estritamente as instruções de formato indicadas abaixo. Nêo adicione explicações nem comentários."
         }
       },
       "id": "e959895f-4200-47b9-93df-6beb10818cdf",

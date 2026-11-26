@@ -20,7 +20,7 @@ Aqui está um **resumo em nível diretoria** sobre os dois workflows de RAG:
 ## 1. Workflow Multimodal RAG (Blueprint 2.0)
 
 **Objetivo:**
-Automatizar a ingestão e consulta de documentos complexos (PDFs com texto, tabelas e imagens) e permitir que colaboradores façam perguntas diretas a esses conteúdos através de um chat inteligente.
+Automatizar a ingestêo e consulta de documentos complexos (PDFs com texto, tabelas e imagens) e permitir que colaboradores façam perguntas diretas a esses conteúdos através de um chat inteligente.
 
 **O que ele faz em alto nível:**
 
@@ -31,7 +31,7 @@ Automatizar a ingestão e consulta de documentos complexos (PDFs com texto, tabe
 * Oferece uma interface de chat onde um agente de IA busca informações nos documentos e responde perguntas.
 * Move os arquivos processados para uma pasta de “concluídos” no Drive.
 
-**Valor para a gestão:**
+**Valor para a gestêo:**
 
 * Centraliza conhecimento corporativo disperso em documentos.
 * Facilita consultas rápidas, reduzindo tempo gasto com busca manual.
@@ -43,7 +43,7 @@ Automatizar a ingestão e consulta de documentos complexos (PDFs com texto, tabe
 ## 2. Workflow Simples OCR Ingestion (Blueprint 1.1)
 
 **Objetivo:**
-Fornecer uma solução enxuta para leitura e consulta de documentos, focada apenas em OCR e armazenamento de conteúdo textual.
+Fornecer uma soluçêo enxuta para leitura e consulta de documentos, focada apenas em OCR e armazenamento de conteúdo textual.
 
 **O que ele faz em alto nível:**
 
@@ -51,9 +51,9 @@ Fornecer uma solução enxuta para leitura e consulta de documentos, focada apen
 * Executa OCR (Mistral) para extrair o texto.
 * Adiciona descrições básicas de imagens dentro do texto (sem upload separado).
 * Gera embeddings (OpenAI) e salva no Supabase para consultas semânticas.
-* Permite interação via chat com agente de IA que responde perguntas com base nos dados.
+* Permite interaçêo via chat com agente de IA que responde perguntas com base nos dados.
 
-**Valor para a gestão:**
+**Valor para a gestêo:**
 
 * Mais simples de implementar e manter.
 * Adequado para cenários onde apenas o texto é relevante (ex.: manuais, FAQs, documentos internos).
@@ -80,7 +80,7 @@ MENSAGEM 3
 Autor: INEMA
 Data: 2025-08-25T00:29:13+00:00
 Texto:
-ingestão.
+ingestêo.
 
 2. Supabase Storage e vetor store
    Exemplo
@@ -101,13 +101,13 @@ ingestão.
    Resposta
    O agente busca no Supabase por similaridade, insere as imagens relevantes via URL pública e responde com base nos trechos recuperados.
 
-5. Otimização de memória no n8n Cloud
+5. Otimizaçêo de memória no n8n Cloud
    Exemplo
    Quebrar OCR e parsing em sub-workflows e chamar via Execute Workflow.
    Resposta
    Ao encerrar o sub-workflow, a memória é liberada; isso evita quedas por RAM.
 
-6. Re-ingestão e atualização
+6. Re-ingestêo e atualizaçêo
    Exemplo
    Detectar alterações por hash do conteúdo do PDF; se mudou, reprocessa.
    Resposta
@@ -125,20 +125,20 @@ MENSAGEM 4
 Autor: INEMA
 Data: 2025-08-25T00:29:13+00:00
 Texto:
-Vou resumir e transformar em guia prático o blueprint Multimodal RAG em n8n que você enviou, e já deixar exemplos e respostas no final para acelerar sua implementação.&#x20;
+Vou resumir e transformar em guia prático o blueprint Multimodal RAG em n8n que você enviou, e já deixar exemplos e respostas no final para acelerar sua implementaçêo.&#x20;
 
 Resumo completo
 
 1. O que este fluxo faz
-   Um RAG multimodal no n8n que lê, analisa e consulta PDFs com texto, imagens e tabelas, exibe as imagens relevantes no chat e usa um vetor store no Supabase para buscas semânticas. Integra Google Drive (ingestão e mova-para processados), Mistral (LLM), OpenAI (embeddings ou agente), e Supabase (armazenamento, vetor e bucket público). Há também um fluxo alternativo de OCR simples.
+   Um RAG multimodal no n8n que lê, analisa e consulta PDFs com texto, imagens e tabelas, exibe as imagens relevantes no chat e usa um vetor store no Supabase para buscas semânticas. Integra Google Drive (ingestêo e mova-para processados), Mistral (LLM), OpenAI (embeddings ou agente), e Supabase (armazenamento, vetor e bucket público). Há também um fluxo alternativo de OCR simples.
 
 2. Como funciona em alto nível
    a) Disparo: Google Drive Trigger observa a pasta Multimodal RAG.
-   b) Ingestão: ao detectar PDF, extrai conteúdo multimodal, gera embeddings e grava no Supabase (tabela documents).
+   b) Ingestêo: ao detectar PDF, extrai conteúdo multimodal, gera embeddings e grava no Supabase (tabela documents).
    c) Armazenamento de mídia: envia imagens para um bucket público do Supabase Storage.
    d) Chat: você recebe uma URL pública de chat (nó when chat message received) para conversar com os dados; o agente consulta o vetor store, reune contexto e responde.
    e) Pós-processo: arquivo é movido para a pasta processed no Drive.
-   f) Observação: em n8n Cloud há limites de memória; o documento sugere dividir partes pesadas em sub-workflows ou hospedar por conta própria.
+   f) Observaçêo: em n8n Cloud há limites de memória; o documento sugere dividir partes pesadas em sub-workflows ou hospedar por conta própria.
 
 3. Checklist de setup rápido
    Google Drive
@@ -163,19 +163,19 @@ Chat
    • Google Drive Trigger → Baixar arquivo → Extrair conteúdo (texto + imagens) → Upload de imagens para Storage (URL pública) → Gerar embeddings → Upsert no Supabase Vector Store → when chat message received (rota de chat pública) → Agente RAG que faz retrieve no Supabase + gera resposta com Mistral/OpenAI → Google Drive Move to processed
 
 5. Boas práticas e hacks aplicáveis
-   • Separar ingestão pesada em sub-workflows para liberar RAM no n8n Cloud
+   • Separar ingestêo pesada em sub-workflows para liberar RAM no n8n Cloud
    • Padronizar chunking por tipo de conteúdo: texto corrido vs tabelas
-   • Gravar metadados úteis no vetor store (pasta, nome do arquivo, data, seção, número de página) para filtros precisos
+   • Gravar metadados úteis no vetor store (pasta, nome do arquivo, data, seçêo, número de página) para filtros precisos
    • Salvar URLs públicas das imagens no próprio payload de chunks para o agente decidir quando exibi-las no chat
    • Usar um re-rank leve (por ex., um scorer adicional) quando a base começar a crescer
    • Habilitar cache de respostas de consultas frequentes
-   • Criar rotinas de re-ingestão para documentos atualizados (hash de conteúdo para detectar mudanças)
-   • Logging de consultas e avaliação: medir hit rate\@k, MRR e latência por etapa
+   • Criar rotinas de re-ingestêo para documentos atualizados (hash de conteúdo para detectar mudanças)
+   • Logging de consultas e avaliaçêo: medir hit rate\@k, MRR e latência por etapa
 
 6. Erros comuns que já ficam resolvidos
    • Pasta errada no Trigger do Drive: confirme o folderId selecionado
-   • Bucket não público no Supabase: imagens não aparecem no chat
-   • Tabela documents não criada: rodar o Quickstart LangChain
+   • Bucket nêo público no Supabase: imagens nêo aparecem no chat
+   • Tabela documents nêo criada: rodar o Quickstart LangChain
    • Chave Mistral com “Bearer ” na frente: usar só o token puro
    • Service role ausente: upsert no vetor store falha
    • Explodir memória em n8n Cloud: mover OCR e parsing pesado para sub-workflow
@@ -221,52 +221,52 @@ Eu sugiro a gente organizar a conversa em blocos para ficar bem claro e prático
 
 ## 1. O que é RAG
 
-RAG é uma arquitetura que combina **recuperação de informações (retrieval)** com **geração de texto (generation)**.
+RAG é uma arquitetura que combina **recuperaçêo de informações (retrieval)** com **geraçêo de texto (generation)**.
 
 * Em vez de o modelo depender apenas da memória interna (treinamento), ele busca dados externos em **bancos de conhecimento** (ex: documentos, PDFs, bases vetoriais).
 * O fluxo é:
   **Pergunta → Busca nos dados (retrieval) → Contexto entregue ao LLM → Resposta mais precisa.**
 
 Exemplo:
-Pergunta: "Quais são os sintomas iniciais de diabetes segundo o manual da OMS?"
+Pergunta: "Quais sêo os sintomas iniciais de diabetes segundo o manual da OMS?"
 → O RAG procura no documento da OMS (embeddings) → Envia o trecho relevante ao LLM → O modelo gera uma resposta precisa e citando a fonte.
 
 ---
 
 ## 2. Principais componentes
 
-1. **Indexação** – transformar documentos em embeddings vetoriais (ex: OpenAI Embeddings, Cohere, HuggingFace).
+1. **Indexaçêo** – transformar documentos em embeddings vetoriais (ex: OpenAI Embeddings, Cohere, HuggingFace).
 2. **Armazenamento** – salvar embeddings em um **banco vetorial** (Pinecone, Weaviate, Milvus, Supabase pgvector).
-3. **Recuperação** – encontrar os trechos mais relevantes usando **similaridade semântica**.
-4. **Geração** – enviar a pergunta + trechos relevantes para um LLM (GPT, Claude, Gemini).
-5. **Orquestração** – controlar todo o fluxo com ferramentas como **n8n, LangChain, LlamaIndex**.
+3. **Recuperaçêo** – encontrar os trechos mais relevantes usando **similaridade semântica**.
+4. **Geraçêo** – enviar a pergunta + trechos relevantes para um LLM (GPT, Claude, Gemini).
+5. **Orquestraçêo** – controlar todo o fluxo com ferramentas como **n8n, LangChain, LlamaIndex**.
 
 ---
 
 ## 3. Onde o RAG é útil
 
 * Atendimento ao cliente com base em FAQs ou manuais.
-* Medicina: análise de diretrizes clínicas (como teu projeto de avaliação de feridas).
+* Medicina: análise de diretrizes clínicas (como teu projeto de avaliaçêo de feridas).
 * Jurídico: consultas rápidas em leis ou contratos.
 * Corporativo: base de conhecimento interna, manuais e treinamentos.
-* Educação: tutor personalizado com material da escola/universidade.
+* Educaçêo: tutor personalizado com material da escola/universidade.
 
 ---
 
 ## 4. Limitações e desafios
 
-* **Qualidade dos dados**: se os documentos estiverem desorganizados, as respostas também serão.
+* **Qualidade dos dados**: se os documentos estiverem desorganizados, as respostas também serêo.
 * **Chunking**: definir o tamanho certo dos pedaços de texto para indexar (nem muito longo nem muito curto).
-* **Atualização**: manter a base vetorial sincronizada com novos documentos.
-* **Custo**: consultas frequentes a embeddings e LLMs podem ficar caras se não houver otimização.
+* **Atualizaçêo**: manter a base vetorial sincronizada com novos documentos.
+* **Custo**: consultas frequentes a embeddings e LLMs podem ficar caras se nêo houver otimizaçêo.
 
 ---
 
 ## 5. Hacks e boas práticas
 
-* Usar **metadata filters** (tags como autor, data, categoria) para melhorar a recuperação.
+* Usar **metadata filters** (tags como autor, data, categoria) para melhorar a recuperaçêo.
 * Criar **camadas de memória**: curto prazo (Redis) e longo prazo (Supabase ou Pinecone).
-* Adotar **re-ranking** (segunda filtragem com outro modelo) para aumentar a precisão.
+* Adotar **re-ranking** (segunda filtragem com outro modelo) para aumentar a precisêo.
 * Cachear respostas frequentes.
 * Avaliar com métricas: **recall\@k, precision, MRR** para medir se o sistema realmente recupera bem.
 

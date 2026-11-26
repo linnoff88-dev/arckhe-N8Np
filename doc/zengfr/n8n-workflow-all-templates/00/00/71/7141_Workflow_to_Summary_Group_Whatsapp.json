@@ -635,7 +635,7 @@
       "parameters": {
         "color": 3,
         "height": 180,
-        "content": "### Se não for, finaliza o fluxo"
+        "content": "### Se nêo for, finaliza o fluxo"
       },
       "typeVersion": 1
     },
@@ -747,7 +747,7 @@
         "color": 5,
         "width": 190,
         "height": 240,
-        "content": "### Ativa opção de Mandar Resumo\n"
+        "content": "### Ativa opçêo de Mandar Resumo\n"
       },
       "typeVersion": 1
     },
@@ -1013,7 +1013,7 @@
         "color": 6,
         "width": 940,
         "height": 440,
-        "content": "### IA faz o resumo das mensagens do dia anterior e envia no grupo em questão."
+        "content": "### IA faz o resumo das mensagens do dia anterior e envia no grupo em questêo."
       },
       "typeVersion": 1
     },
@@ -1051,9 +1051,9 @@
         608
       ],
       "parameters": {
-        "text": "=texto a ser lido e resumido. Não se esqueça de resumí-lo com contexto:\n\n{{ $('Separar mensagens por grupos').item.json.mensagens }}",
+        "text": "=texto a ser lido e resumido. Nêo se esqueça de resumí-lo com contexto:\n\n{{ $('Separar mensagens por grupos').item.json.mensagens }}",
         "options": {
-          "systemMessage": "=Você é um agente de resumo de conversas do WhatsApp. Sua missão é gerar um resumo temático, fiel e direto, com no máximo 1500 caracteres.\n\n⚠️ INSTRUÇÕES OBRIGATÓRIAS:\n\n- Não substitua, modifique ou resuma nomes, projetos, empresas, pessoas ou produtos.\n- Use os nomes **exatamente como estão** nos resumos recebidos.\n- Nunca use termos genéricos como “Projeto X” ou “Cliente Y”.\n- Não alucine nem invente nomes. Caso não tenha certeza de qual nome usar, **não cite o nome**.\n- O conteúdo deve ter no máximo **1500 caracteres**.\n\n📌 ESTRUTURA:\n\n1. Comece com a frase:\n   \"Segue um resumo do que rolou ontem *{{ $now.plus(-1, 'day').format('DDDD') }}* por aqui no grupo:\"\n   → Traduza a data para o formato em **português do Brasil** (ex: terça-feira, 18 de junho).\n\n2. Agrupe os pontos por blocos temáticos **se houver volume suficiente** de acordo com os temas que você ver que existem, como por exemplo:\n   - *Conversas importantes*\n   - *Reuniões marcadas*\n   - *Próximos passos*\n   - *Assuntos delicados*\n   - *Dúvidas ou decisões pendentes*\n\n   (Inclua apenas os blocos relevantes com base no conteúdo real.)\n\n2.1 Faça os resumos por assuntos e não somente pelo o que as pessoas falaram.\n\n3. Dentro de cada bloco:\n   - Use `-` no início de cada item (bullet point).\n   - Use *apenas um asterisco de cada lado* para destacar nomes, termos e títulos dos blocos ou tópicos.\n\n4. Organize os pontos por ordem lógica e elimine repetições.\n\n5. Quando ver datas que podem ser consideradas em toda a conversa, apresente-as no resumo.\n\n🚫 Não inclua emojis, links com thumbnail ou mensagens de encerramento como:\n- “se precisarem de mais informações”\n- “essa foi a pauta do dia”\n- “fiquem à vontade para perguntar”\n\nEm caso de Links coloque os links dentro de aspas para que não apareça thumbnail:\n- \"vectorizer.com\"\n- \"www.linktal.com\"\n\n🎯 Lembre-se: Seu objetivo é gerar um resumo fiel, coeso, tematicamente organizado e compacto (até 1500 caracteres), pronto para ser enviado no WhatsApp — **sem perder nenhuma informação sensível ou nome real**.\n\n## Importante:\n- Tenha atenção e mande sempre o conteúdo referente ao dia de ontem. Para seu conhecimento a data do dia de hoje é {{ $now.format('DDDD') }}"
+          "systemMessage": "=Você é um agente de resumo de conversas do WhatsApp. Sua missêo é gerar um resumo temático, fiel e direto, com no máximo 1500 caracteres.\n\n⚠️ INSTRUÇÕES OBRIGATÓRIAS:\n\n- Nêo substitua, modifique ou resuma nomes, projetos, empresas, pessoas ou produtos.\n- Use os nomes **exatamente como estêo** nos resumos recebidos.\n- Nunca use termos genéricos como “Projeto X” ou “Cliente Y”.\n- Nêo alucine nem invente nomes. Caso nêo tenha certeza de qual nome usar, **nêo cite o nome**.\n- O conteúdo deve ter no máximo **1500 caracteres**.\n\n📌 ESTRUTURA:\n\n1. Comece com a frase:\n   \"Segue um resumo do que rolou ontem *{{ $now.plus(-1, 'day').format('DDDD') }}* por aqui no grupo:\"\n   → Traduza a data para o formato em **português do Brasil** (ex: terça-feira, 18 de junho).\n\n2. Agrupe os pontos por blocos temáticos **se houver volume suficiente** de acordo com os temas que você ver que existem, como por exemplo:\n   - *Conversas importantes*\n   - *Reuniões marcadas*\n   - *Próximos passos*\n   - *Assuntos delicados*\n   - *Dúvidas ou decisões pendentes*\n\n   (Inclua apenas os blocos relevantes com base no conteúdo real.)\n\n2.1 Faça os resumos por assuntos e nêo somente pelo o que as pessoas falaram.\n\n3. Dentro de cada bloco:\n   - Use `-` no início de cada item (bullet point).\n   - Use *apenas um asterisco de cada lado* para destacar nomes, termos e títulos dos blocos ou tópicos.\n\n4. Organize os pontos por ordem lógica e elimine repetições.\n\n5. Quando ver datas que podem ser consideradas em toda a conversa, apresente-as no resumo.\n\n🚫 Nêo inclua emojis, links com thumbnail ou mensagens de encerramento como:\n- “se precisarem de mais informações”\n- “essa foi a pauta do dia”\n- “fiquem à vontade para perguntar”\n\nEm caso de Links coloque os links dentro de aspas para que nêo apareça thumbnail:\n- \"vectorizer.com\"\n- \"www.linktal.com\"\n\n🎯 Lembre-se: Seu objetivo é gerar um resumo fiel, coeso, tematicamente organizado e compacto (até 1500 caracteres), pronto para ser enviado no WhatsApp — **sem perder nenhuma informaçêo sensível ou nome real**.\n\n## Importante:\n- Tenha atençêo e mande sempre o conteúdo referente ao dia de ontem. Para seu conhecimento a data do dia de hoje é {{ $now.format('DDDD') }}"
         },
         "promptType": "define"
       },
@@ -1087,7 +1087,7 @@
         "color": 5,
         "width": 320,
         "height": 256,
-        "content": "## Part 2 -Summary Generation and Delivery\n\n## Parte 2 – Geração e Envio do Resumo\n\n"
+        "content": "## Part 2 -Summary Generation and Delivery\n\n## Parte 2 – Geraçêo e Envio do Resumo\n\n"
       },
       "typeVersion": 1
     }

@@ -17,30 +17,30 @@ Texto:
 **Autor:** [Cole Medin](https://www.youtube.com/@ColeMedin)
 
 O que é isso?
-Este modelo fornece uma implementação completa de um sistema **RAG Agente (Geração Aumentada por Recuperação)** no n8n, que pode ser facilmente estendido para o seu caso de uso específico e base de conhecimento. Diferente do RAG padrão, que apenas realiza buscas simples, este agente pode **raciocinar sobre sua base de conhecimento**, melhorar a recuperação por conta própria e alternar dinamicamente entre diferentes ferramentas com base na pergunta feita.
+Este modelo fornece uma implementaçêo completa de um sistema **RAG Agente (Geraçêo Aumentada por Recuperaçêo)** no n8n, que pode ser facilmente estendido para o seu caso de uso específico e base de conhecimento. Diferente do RAG padrêo, que apenas realiza buscas simples, este agente pode **raciocinar sobre sua base de conhecimento**, melhorar a recuperaçêo por conta própria e alternar dinamicamente entre diferentes ferramentas com base na pergunta feita.
 
 Por que RAG Agente?
-O RAG padrão possui limitações significativas:
+O RAG padrêo possui limitações significativas:
 
 Análise deficiente de dados numéricos/tabelares
-Perda de contexto devido à fragmentação dos documentos
+Perda de contexto devido à fragmentaçêo dos documentos
 Incapacidade de conectar informações entre documentos
-Sem seleção dinâmica de ferramentas baseada no tipo de pergunta
+Sem seleçêo dinâmica de ferramentas baseada no tipo de pergunta
 
 O que torna este modelo poderoso:
-**Seleção inteligente de ferramentas**: Alterna entre buscas RAG, consultas SQL ou recuperação completa de documentos com base na pergunta
+**Seleçêo inteligente de ferramentas**: Alterna entre buscas RAG, consultas SQL ou recuperaçêo completa de documentos com base na pergunta
 **Contexto completo do documento**: Acessa documentos inteiros quando necessário, em vez de apenas fragmentos
 **Análise numérica precisa**: Usa SQL para cálculos precisos em dados de planilhas/tabelas
 **Insights entre documentos**: Conecta informações em toda a base de conhecimento
 **Processamento multi-arquivo**: Lida com vários documentos em um único loop de fluxo de trabalho
 **Armazenamento eficiente**: Usa JSONB no Supabase para armazenar dados tabulares sem precisar criar novas tabelas para cada CSV
 Primeiros Passos
-Execute primeiro os nós de criação de tabelas para configurar seu banco de dados no Supabase
-Envie seus documentos via Google Drive (ou troque por outra solução de armazenamento)
+Execute primeiro os nós de criaçêo de tabelas para configurar seu banco de dados no Supabase
+Envie seus documentos via Google Drive (ou troque por outra soluçêo de armazenamento)
 O agente os processará automaticamente (dividindo textos e armazenando dados tabulares no Supabase)
 Comece a fazer perguntas utilizando as múltiplas abordagens de raciocínio do agente
 
-PersonalizaçãoEste modelo oferece uma base sólida que você pode expandir ao:
+PersonalizaçêoEste modelo oferece uma base sólida que você pode expandir ao:
 
 Ajustar o prompt do sistema para o seu caso de uso
 Adicionar metadados aos documentos, como resumos
@@ -56,7 +56,7 @@ Data: 2025-03-10T22:04:36+00:00
 Texto:
 ### **Resumo do Vídeo: "I Built the ULTIMATE n8n RAG AI Agent Template"**
 
-O vídeo apresenta um **modelo avançado de Agente RAG (Retrieval-Augmented Generation) no n8n**, superando limitações do RAG tradicional. O criador explica como o RAG muitas vezes falha ao recuperar informações contextuais completas e demonstra uma **solução baseada em agentes** para melhorar a precisão das buscas e análises de dados.
+O vídeo apresenta um **modelo avançado de Agente RAG (Retrieval-Augmented Generation) no n8n**, superando limitações do RAG tradicional. O criador explica como o RAG muitas vezes falha ao recuperar informações contextuais completas e demonstra uma **soluçêo baseada em agentes** para melhorar a precisêo das buscas e análises de dados.
 
 #### **Principais Pontos Abordados:**
 1. **Problemas do RAG Tradicional**  
@@ -64,27 +64,27 @@ O vídeo apresenta um **modelo avançado de Agente RAG (Retrieval-Augmented Gene
    - Falhas ao conectar múltiplos documentos.  
    - Problemas ao lidar com dados tabulares (ex: planilhas).  
 
-2. **Solução: Agente RAG Inteligente**  
+2. **Soluçêo: Agente RAG Inteligente**  
    - Um agente que **raciocina** sobre a melhor forma de buscar respostas.  
-   - Uso de múltiplos métodos além do RAG (ex: consultas SQL, recuperação direta de arquivos).  
+   - Uso de múltiplos métodos além do RAG (ex: consultas SQL, recuperaçêo direta de arquivos).  
    - Capacidade de listar documentos, escolher o mais relevante e analisar tabelas corretamente.  
 
-3. **Implementação no n8n**  
+3. **Implementaçêo no n8n**  
    - Fluxo de trabalho baseado em **Google Drive + Supabase** para armazenar e recuperar documentos.  
    - Uso de ferramentas PostgreSQL para consultas mais avançadas.  
-   - Pipeline otimizado para ingerir, organizar e recuperar dados estruturados e não estruturados.  
+   - Pipeline otimizado para ingerir, organizar e recuperar dados estruturados e nêo estruturados.  
 
-4. **Demonstração do Agente em Ação**  
+4. **Demonstraçêo do Agente em Açêo**  
    - Consultas sobre dados financeiros, feedbacks de clientes e atas de reuniões.  
    - Agente reconhece falhas no RAG e utiliza outras abordagens (ex: SQL para analisar tabelas).  
-   - Integração com **AI local** e suporte a diferentes formatos de documentos.  
+   - Integraçêo com **AI local** e suporte a diferentes formatos de documentos.  
 
-5. **Conclusão e Melhorias Futuras**  
+5. **Conclusêo e Melhorias Futuras**  
    - O modelo é um ponto de partida para personalizações específicas.  
-   - Planos para uma versão **100% local**, sem dependências externas.  
-   - Incentivo à participação da comunidade para aprimorar o template.
+   - Planos para uma versêo **100% local**, sem dependências externas.  
+   - Incentivo à participaçêo da comunidade para aprimorar o template.
 
-**🎯 Objetivo do Vídeo:** Demonstrar um fluxo de trabalho prático para **automatizar a recuperação e análise de informações** com agentes RAG no n8n, superando as limitações do modelo tradicional.
+**🎯 Objetivo do Vídeo:** Demonstrar um fluxo de trabalho prático para **automatizar a recuperaçêo e análise de informações** com agentes RAG no n8n, superando as limitações do modelo tradicional.
 
 ------------------------------
 

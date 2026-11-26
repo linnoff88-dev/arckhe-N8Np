@@ -38,7 +38,7 @@ MENSAGEM 4
 Autor: INEMA
 Data: 2025-08-13T22:18:09+00:00
 Texto:
-Aqui vão alguns hacks práticos para esse sistema multi-agente no n8n ficar mais rápido, barato e com mais impacto — inclusive na hora de vender como serviço.
+Aqui vêo alguns hacks práticos para esse sistema multi-agente no n8n ficar mais rápido, barato e com mais impacto — inclusive na hora de vender como serviço.
 
 ---
 
@@ -52,7 +52,7 @@ Aqui vão alguns hacks práticos para esse sistema multi-agente no n8n ficar mai
 
 2. **Limite de dados nos scrapers**
 
-   * No Apify, defina `resultsLimit` para 20–50 posts, não 100+.
+   * No Apify, defina `resultsLimit` para 20–50 posts, nêo 100+.
    * Isso mantém o contexto limpo e evita gastar tokens com lixo.
 
 3. **Memória só com resumo**
@@ -78,7 +78,7 @@ Aqui vão alguns hacks práticos para esse sistema multi-agente no n8n ficar mai
 
    * No Google Doc do avatar, inclua frases reais de clientes.
    * Exemplo: “Eu só queria que meu time fosse mais rápido sem aumentar custo.”
-   * O Script e Hook Agent vão usar linguagem mais persuasiva.
+   * O Script e Hook Agent vêo usar linguagem mais persuasiva.
 
 7. **Adapte CTAs por plataforma**
 
@@ -88,9 +88,9 @@ Aqui vão alguns hacks práticos para esse sistema multi-agente no n8n ficar mai
 
 ---
 
-### Hacks para **Velocidade de Execução**
+### Hacks para **Velocidade de Execuçêo**
 
-8. **Execução paralela de Pesquisa e Performance**
+8. **Execuçêo paralela de Pesquisa e Performance**
 
    * Rode os dois agentes ao mesmo tempo e só depois alimente o Script.
    * No n8n, basta usar dois ramos e um Merge node antes do Script.
@@ -105,7 +105,7 @@ Aqui vão alguns hacks práticos para esse sistema multi-agente no n8n ficar mai
 
 ---
 
-### Hacks para **Venda e Demonstração**
+### Hacks para **Venda e Demonstraçêo**
 
 11. **Demonstre com dados do próprio cliente**
 
@@ -114,8 +114,8 @@ Aqui vão alguns hacks práticos para esse sistema multi-agente no n8n ficar mai
 
 12. **Ofereça pacote de 3 posts**
 
-    * Em vez de vender só a automação, venda um pacote inicial: análise + 3 posts + hooks + hashtags.
-    * A automação vira o seu “motor” interno, mas o cliente compra resultado.
+    * Em vez de vender só a automaçêo, venda um pacote inicial: análise + 3 posts + hooks + hashtags.
+    * A automaçêo vira o seu “motor” interno, mas o cliente compra resultado.
 
 13. **Mostre o ganho de tempo**
 
@@ -145,7 +145,7 @@ E se meu perfil do LinkedIn for novo?
 Use concorrentes/peers no Apify para extrair padrões setoriais até ter dados. Ex.: COMPETITOR\_URLS com 2–3 perfis.
 
 Como garantir que o texto tenha minha voz?
-Inclua um parágrafo curto de Voice Guide no Webhook e salve na memória. Ex.: “Tom direto, sem jargão, exemplos práticos do dia a dia”.
+Inclua um parágrafo curto de Voice Guide no Webhook e salve na memória. Ex.: “Tom direto, sem jargêo, exemplos práticos do dia a dia”.
 
 Onde armazenar os 250 hooks?
 Comece com 30 em Google Sheets, vá ampliando. O agente Hook seleciona e adapta.
@@ -163,11 +163,11 @@ conteúdo e vendas assistidos por IA\n\nComo começar em 7 dias:\n1) Mapear 3 ta
 "hashtags": \["#InteligenciaArtificial","#Automacao","#Produtividade","#Negocios","#Estratégia"],
 "hooks": \[
 "80% do seu crescimento está preso em tarefas que a IA resolve. Destrave assim:",
-"Se eu acordasse amanhã sem automações de IA, faria exatamente isto em 7 dias:",
+"Se eu acordasse amanhê sem automações de IA, faria exatamente isto em 7 dias:",
 "Pare de “testar IA” e comece a operar com IA: o mapa de 3 passos."
 ],
 "insights": \[
-"Empresas AI-native reduzem custos operacionais e aceleram ciclos de decisão",
+"Empresas AI-native reduzem custos operacionais e aceleram ciclos de decisêo",
 "Outliers recentes performaram melhor com aberturas diretas + bullets acionáveis"
 ],
 "sources": \[
@@ -176,7 +176,7 @@ conteúdo e vendas assistidos por IA\n\nComo começar em 7 dias:\n1) Mapear 3 ta
 ]
 }
 
-Conexão com o front-end (Lovable ou outro)
+Conexêo com o front-end (Lovable ou outro)
 • No Lovable, crie um chat simples que envia {topic, platform, sessionId} via POST para o Webhook do n8n.
 • No n8n, use o mesmo sessionId para a Simple Memory (garante contexto entre mensagens).
 • Se quiser logs detalhados, ative logging em cada AI Agent Tool e verifique os Logs ao depurar.
@@ -222,16 +222,16 @@ curl -X POST "[https://api.apify.com/v2/acts/ACTOR\_ID/runs?token=YOUR\_APIFY\_T
 Apify pegar resultados
 curl "[https://api.apify.com/v2/datasets/DATASET\_ID/items?token=YOUR\_APIFY\_TOKEN](https://api.apify.com/v2/datasets/DATASET_ID/items?token=YOUR_APIFY_TOKEN)"
 
-Planilha de hooks (opção B)
+Planilha de hooks (opçêo B)
 Estruture a primeira aba com colunas: id, categoria, template, exemplo.
 Exemplos de linhas:
-1 | dor→solução | Se você \[dor], faça isto: \[3 passos] | Se você perde horas em tarefas manuais, faça isto:…
+1 | dor→soluçêo | Se você \[dor], faça isto: \[3 passos] | Se você perde horas em tarefas manuais, faça isto:…
 2 | antes→depois | Antes eu \[estado], agora eu \[resultado] porque \[mecanismo] | Antes eu apagava incêndios…
-3 | mapa claro | Se eu começasse do zero amanhã, faria isto em 7 dias: \[passo1,2,3] | …
+3 | mapa claro | Se eu começasse do zero amanhê, faria isto em 7 dias: \[passo1,2,3] | …
 
-Redução de custo de tokens
-• O que vira memória: só resumos/IDs, não páginas inteiras
-• Pesquisa: peça 3–5 fontes, não 20
+Reduçêo de custo de tokens
+• O que vira memória: só resumos/IDs, nêo páginas inteiras
+• Pesquisa: peça 3–5 fontes, nêo 20
 • Performance: limite a 20–50 posts mais recentes
 • Use modelos mini nos agentes Pesquisa/Hook; deixe o modelo top para o Script/Orquestrador
 • Comprimir contexto entre agentes: cada subagente retorna apenas o JSON combinado, sem verborragia
@@ -243,7 +243,7 @@ Checklist de testes
 3. Performance encontra pelo menos 2 outliers e 3 padrões
 4. Script entrega post entre 700–1400 caracteres + 5–10 hashtags
 5. Hook traz 3 opções distintas e coerentes
-6. Reexecução com outro tópico mantém memória, mas não vaza contexto irrelevante
+6. Reexecuçêo com outro tópico mantém memória, mas nêo vaza contexto irrelevante
 7. Logs sem erro de credencial ou mapeamento
 
 Perguntas rápidas com respostas e exemplos
@@ -260,7 +260,7 @@ MENSAGEM 8
 Autor: INEMA
 Data: 2025-08-13T22:17:05+00:00
 Texto:
-r(): carrega medos, desejos, transformação e obstáculos do doc.
+r(): carrega medos, desejos, transformaçêo e obstáculos do doc.
   Procedimento:
 
 1. Leia o Avatar.
@@ -291,7 +291,7 @@ curl -X POST [https://api.tavily.com/search](https://api.tavily.com/search)&#x20
 5. Subagente 2 – Performance (Outliers)
    • Node: AI Agent Tool
    • Tool: HTTP Request para Apify Actor de LinkedIn Posts/Profile Scraper sem login
-   Observação: no Apify, procure por um scraper “LinkedIn … no login/cookies”. Copie o endpoint do seu actor.
+   Observaçêo: no Apify, procure por um scraper “LinkedIn … no login/cookies”. Copie o endpoint do seu actor.
 
 • Exemplo cURL para iniciar o actor no Apify (inclui a chave):
 curl -X POST "[https://api.apify.com/v2/acts/ACTOR\_ID/runs?token=YOUR\_APIFY\_TOKEN](https://api.apify.com/v2/acts/ACTOR_ID/runs?token=YOUR_APIFY_TOKEN)"&#x20;
@@ -329,7 +329,7 @@ Regras:
 
 * Abertura forte em 1–2 linhas
 * 3–6 bullets com valor prático (dados, frameworks, passo a passo)
-* Mini conclusão + CTA
+* Mini conclusêo + CTA
 * 5–10 hashtags relevantes
   Limites:
 * 700–1400 caracteres (LinkedIn)
@@ -341,15 +341,15 @@ Regras:
   }
 
 7. Subagente 4 – Hook
-   Opção A: Hooks embutidos no prompt (cole 250 linhas ao longo do tempo).
-   Opção B: Hooks em Google Sheets, lidos via Google Sheets node e passados ao agente.
+   Opçêo A: Hooks embutidos no prompt (cole 250 linhas ao longo do tempo).
+   Opçêo B: Hooks em Google Sheets, lidos via Google Sheets node e passados ao agente.
 
 • Node: AI Agent Tool
 • Tools: Google Sheets (se usar planilha)
 • System Message do Hook:
 Você é o Agente de Hook. Possui um banco de hooks virais comprovados.
 Tarefa: selecione os 3 mais relevantes ao post e adapte-os ao tópico e avatar.
-Critérios: clareza, curiosidade, tensão, benefício concreto, sem clickbait vazio.
+Critérios: clareza, curiosidade, tensêo, benefício concreto, sem clickbait vazio.
 Saída:
 {
 "hooks": \["...", "...", "..."]
@@ -364,7 +364,7 @@ Saída:
 
 Exemplo de saída final esperada
 {
-"post": "Ser AI-native não é modinha. É eficiência previsível.\n\n3 sinais de evolução:\n• Automatize processos repetitivos e ganhe 30–50% de tempo\n• Padronize decisões com dados em tempo real\n• Crie alavancas: atendimento,
+"post": "Ser AI-native nêo é modinha. É eficiência previsível.\n\n3 sinais de evoluçêo:\n• Automatize processos repetitivos e ganhe 30–50% de tempo\n• Padronize decisões com dados em tempo real\n• Crie alavancas: atendimento,
 Midia: MessageMediaWebPage
 
 ------------------------------
@@ -397,18 +397,18 @@ Guia rápido do que você vai montar
 2. Pesquisa com Tavily + leitura de Avatar no Google Docs
 3. Performance com scraping de posts do LinkedIn via Apify
 4. Script do post com estrutura otimizada
-5. Seleção de 3 hooks virais a partir de um banco de 250 hooks
+5. Seleçêo de 3 hooks virais a partir de um banco de 250 hooks
 6. Memória compartilhada entre todos os agentes
 7. Interface via webhook (para Lovable ou qualquer front-end)
 
 Pré-requisitos
 • n8n atualizado com AI Agent Tool e Simple Memory
 • Contas e chaves: OpenRouter (ou outro provedor), Tavily, Apify, Google (Docs/Sheets)
-• Documento Google com seu Avatar (medos, desejos, transformação, obstáculos)
+• Documento Google com seu Avatar (medos, desejos, transformaçêo, obstáculos)
 • Planilha Google ou JSON com os 250 hooks (pode começar com 30 e ampliar depois)
 
 Arquitetura e roteamento de modelos
-• Orquestrador: modelo forte de raciocínio e instrução (ex.: Claude 3.7, GPT-4.1)
+• Orquestrador: modelo forte de raciocínio e instruçêo (ex.: Claude 3.7, GPT-4.1)
 • Pesquisa: modelo eficiente/custo (ex.: GPT-4.1-mini, Qwen/Haiku)
 • Performance: modelo leve (agrega dados do scraper + estatística simples)
 • Script: modelo de linguagem forte (Claude/GPT-4.1)
@@ -424,12 +424,12 @@ Montagem no n8n
    TAVILY\_API\_KEY, APIFY\_TOKEN, OPENROUTER\_API\_KEY = suas chaves
 
 1. Nó inicial
-   Opção A – Webhook
+   Opçêo A – Webhook
    • Node: Webhook (POST)
    • Response: via Respond to Webhook no final
    • Campo esperado: { "topic": "assunto do post", "platform": "linkedin|instagram|x|tiktok" }
 
-Opção B – Chat Trigger do n8n
+Opçêo B – Chat Trigger do n8n
 • Node: Chat Trigger
 • Você conversa direto no n8n
 
@@ -457,11 +457,11 @@ Opção B – Chat Trigger do n8n
    Regras:
 
 * O agente de pesquisa deve retornar insights com 3–7 pontos e 2–5 fontes.
-* O agente de performance deve calcular outliers dos últimos 20–50 posts por taxa de engajamento aproximada: (curtidas+comentários+reações)/impressões ou, se não houver impressões, usar ranking por interações.
+* O agente de performance deve calcular outliers dos últimos 20–50 posts por taxa de engajamento aproximada: (curtidas+comentários+reações)/impressões ou, se nêo houver impressões, usar ranking por interações.
 * O agente de script deve montar o post escaneável: 1 abertura forte; 3–6 bullets; 1 CTA; 5–10 hashtags; 700–1400 caracteres.
 * O agente de hook deve selecionar 3 hooks mais relevantes do banco e adaptá-los ao tópico.
 * Mantenha o tom do usuário se fornecido.
-* Platform: se não for LinkedIn, ajuste CTAs e hashtags para a plataforma.
+* Platform: se nêo for LinkedIn, ajuste CTAs e hashtags para a plataforma.
 * Retorne somente o JSON exigido.
 
 Adicione quatro Sub-Agents abaixo dele (no próprio node, se seu n8n permitir, ou como nós AI Agent Tool encadeados; ambos funcionam, usando a mesma Simple Memory).
@@ -514,16 +514,16 @@ Resumo por etapas:
 6. **Memória Compartilhada**
    Todos os agentes compartilham um contexto único para manter coerência entre as etapas.
 
-7. **Integração e Execução**
-   Conexão com o Lovable para interface de chat e uso de Webhooks para disparar e receber respostas do n8n.
+7. **Integraçêo e Execuçêo**
+   Conexêo com o Lovable para interface de chat e uso de Webhooks para disparar e receber respostas do n8n.
    Utiliza modelos diferentes via OpenRouter conforme custo, velocidade e qualidade necessários.
 
 8. **Benefícios**
 
-   * Redução do uso de tokens com subagentes focados
+   * Reduçêo do uso de tokens com subagentes focados
    * Aproveitamento de dados próprios e de concorrentes
    * Sistema modular que pode ser vendido como serviço de alto valor (ex.: \$10.000)
-   * Aplicável a qualquer rede social, não apenas LinkedIn
+   * Aplicável a qualquer rede social, nêo apenas LinkedIn
 
 ------------------------------
 
@@ -539,7 +539,7 @@ MENSAGEM 15
 Autor: INEMA
 Data: 2025-08-13T22:13:49+00:00
 Texto:
-Esse sistema de crescimento social com multi-agentes no n8n funciona como uma automação em quatro etapas que usa dados reais do seu perfil e ganchos virais testados para gerar posts com alto potencial de engajamento.
+Esse sistema de crescimento social com multi-agentes no n8n funciona como uma automaçêo em quatro etapas que usa dados reais do seu perfil e ganchos virais testados para gerar posts com alto potencial de engajamento.
 Segue o resumo detalhado por etapas:
 
 1. **Agente 1 – Pesquisa**
@@ -558,7 +558,7 @@ Segue o resumo detalhado por etapas:
 
 * Usa seus próprios dados para melhorar posts
 * Reduz consumo de tokens com sub-agentes no n8n
-* Funciona para qualquer plataforma, não só LinkedIn
+* Funciona para qualquer plataforma, nêo só LinkedIn
 * Integra pesquisa, análise de performance, roteiro e ganchos em um fluxo único
 
 ------------------------------

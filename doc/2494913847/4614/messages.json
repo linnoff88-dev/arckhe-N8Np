@@ -28,7 +28,7 @@
     "id": 4636,
     "author": "INEMA",
     "date": "2025-04-02T21:12:27+00:00",
-    "text": "**📊 Campos da Tabela (no Airtable ou banco equivalente):**\n\n1. **Website**  \n   - Tipo: URL  \n   - Descrição: Link do site do cliente a ser analisado\n\n2. **Status**  \n   - Tipo: Texto ou Lista (ex: \"Completo\", \"Pendente\")  \n   - Descrição: Controle do estágio da automação\n\n3. **Texto do Site (Website Text)**  \n   - Tipo: Texto longo  \n   - Descrição: Conteúdo em texto raspado da página inicial\n\n4. **Captura de Tela (Screenshot)**  \n   - Tipo: Anexo (imagem)  \n   - Descrição: Imagem da homepage do site\n\n5. **Paleta de Cores (Color Palette)**  \n   - Tipo: Texto  \n   - Descrição: Descrição das cores predominantes do site (ex: \"rosa claro, preto, vermelho\")\n\n6. **Descrição do Site (Website Description)**  \n   - Tipo: Texto curto  \n   - Descrição: Resumo do que o site oferece (máx. 20 palavras)\n\n7. **Resumo Criativo (Mensagem da Comic)**  \n   - Tipo: Texto curto  \n   - Descrição: Frase criativa com base no conteúdo do site (ex: \"Coffee Delivery. I like it.\")\n\n8. **Prompt Gerado (Comic Prompt)**  \n   - Tipo: Texto longo  \n   - Descrição: Prompt completo para gerar a imagem da comic personalizada\n\n9. **Imagem Final (Comic Image)**  \n   - Tipo: Anexo (imagem)  \n   - Descrição: Imagem final gerada da história em quadrinhos\n\n10. **Email Personalizado (Email HTML)**  \n    - Tipo: Texto longo (formato HTML)  \n    - Descrição: E-mail de prospecção automática com elogio e CTA personalizado\n\n11. **Assunto do E-mail (Email Subject)**  \n    - Tipo: Texto curto  \n    - Descrição: Assunto do e-mail (ex: \"Adorei o que você faz na [Nome do Site]\")\n\n12. **Comentário Personalizado**  \n    - Tipo: Texto curto  \n    - Descrição: Frase complementar baseada em algo notável do site",
+    "text": "**📊 Campos da Tabela (no Airtable ou banco equivalente):**\n\n1. **Website**  \n   - Tipo: URL  \n   - Descriçêo: Link do site do cliente a ser analisado\n\n2. **Status**  \n   - Tipo: Texto ou Lista (ex: \"Completo\", \"Pendente\")  \n   - Descriçêo: Controle do estágio da automaçêo\n\n3. **Texto do Site (Website Text)**  \n   - Tipo: Texto longo  \n   - Descriçêo: Conteúdo em texto raspado da página inicial\n\n4. **Captura de Tela (Screenshot)**  \n   - Tipo: Anexo (imagem)  \n   - Descriçêo: Imagem da homepage do site\n\n5. **Paleta de Cores (Color Palette)**  \n   - Tipo: Texto  \n   - Descriçêo: Descriçêo das cores predominantes do site (ex: \"rosa claro, preto, vermelho\")\n\n6. **Descriçêo do Site (Website Description)**  \n   - Tipo: Texto curto  \n   - Descriçêo: Resumo do que o site oferece (máx. 20 palavras)\n\n7. **Resumo Criativo (Mensagem da Comic)**  \n   - Tipo: Texto curto  \n   - Descriçêo: Frase criativa com base no conteúdo do site (ex: \"Coffee Delivery. I like it.\")\n\n8. **Prompt Gerado (Comic Prompt)**  \n   - Tipo: Texto longo  \n   - Descriçêo: Prompt completo para gerar a imagem da comic personalizada\n\n9. **Imagem Final (Comic Image)**  \n   - Tipo: Anexo (imagem)  \n   - Descriçêo: Imagem final gerada da história em quadrinhos\n\n10. **Email Personalizado (Email HTML)**  \n    - Tipo: Texto longo (formato HTML)  \n    - Descriçêo: E-mail de prospecçêo automática com elogio e CTA personalizado\n\n11. **Assunto do E-mail (Email Subject)**  \n    - Tipo: Texto curto  \n    - Descriçêo: Assunto do e-mail (ex: \"Adorei o que você faz na [Nome do Site]\")\n\n12. **Comentário Personalizado**  \n    - Tipo: Texto curto  \n    - Descriçêo: Frase complementar baseada em algo notável do site",
     "has_media": false,
     "media_type": null
   },
@@ -52,7 +52,7 @@
     "id": 4631,
     "author": "INEMA",
     "date": "2025-04-02T21:08:59+00:00",
-    "text": "**Como automatizar iscas digitais imparáveis**  \n\nVamos transformar tecnologia de imagem em clientes para aquele produto ou serviço que você vende.\n\nEmpresas cuja estratégia de marketing era sob medida, única ou exigia alto esforço para os clientes. E elas arrasaram.  \n\nEsta automação permite que você faça o mesmo, usando inteligência artificial.\n\nTodos os recursos estão disponíveis 📚**Como funciona:**🔗 Você insere a URL de qualquer site  👾 Ele coleta (raspa) todo o texto e faz uma captura de tela  \n📊 A IA analisa a paleta de cores e o que o negócio oferece  🚀 Ela gera um prompt exclusivo para o ilustrador  \nDepois disso, você pode jogar tudo no ChatGPT junto com o logotipo da empresa para criar algo que:  \n✅ Faz referência ao que eles fazem  ✅ Mostra a página inicial deles  \n✅ Inclui o logotipo deles",
+    "text": "**Como automatizar iscas digitais imparáveis**  \n\nVamos transformar tecnologia de imagem em clientes para aquele produto ou serviço que você vende.\n\nEmpresas cuja estratégia de marketing era sob medida, única ou exigia alto esforço para os clientes. E elas arrasaram.  \n\nEsta automaçêo permite que você faça o mesmo, usando inteligência artificial.\n\nTodos os recursos estêo disponíveis 📚**Como funciona:**🔗 Você insere a URL de qualquer site  👾 Ele coleta (raspa) todo o texto e faz uma captura de tela  \n📊 A IA analisa a paleta de cores e o que o negócio oferece  🚀 Ela gera um prompt exclusivo para o ilustrador  \nDepois disso, você pode jogar tudo no ChatGPT junto com o logotipo da empresa para criar algo que:  \n✅ Faz referência ao que eles fazem  ✅ Mostra a página inicial deles  \n✅ Inclui o logotipo deles",
     "has_media": false,
     "media_type": null
   },
@@ -86,7 +86,7 @@
     "id": 4625,
     "author": "INEMA",
     "date": "2025-04-02T21:04:00+00:00",
-    "text": "Ímã de Leads em Quadrinhos para Abordagem (4 Quadros)\n\nComo automatizar ímãs de leads IMPARÁVEIS",
+    "text": "Ímê de Leads em Quadrinhos para Abordagem (4 Quadros)\n\nComo automatizar ímês de leads IMPARÁVEIS",
     "has_media": false,
     "media_type": null
   },
@@ -111,7 +111,7 @@
     "id": 4622,
     "author": "INEMA",
     "date": "2025-04-02T21:02:57+00:00",
-    "text": "j82 - Imã de Leads com Quadrinhos",
+    "text": "j82 - Imê de Leads com Quadrinhos",
     "has_media": false,
     "media_type": null
   },

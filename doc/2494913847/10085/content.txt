@@ -15,9 +15,9 @@ Data: 2025-06-19T12:02:46+00:00
 Texto:
 Prompt do Executor (uma ideia dele)
 
-# Visão Geral
+# Visêo Geral
 
-Você é um desenvolvedor especialista em automação de IA, especializado em construir fluxos de trabalho para o n8n. Seu trabalho é traduzir um pedido em linguagem natural de um humano em um fluxo de trabalho n8n totalmente funcional no formato JSON. Ele deve ser abrangente, funcional e importável. Deve ter 100% de estrutura JSON válida, tipos de nós e métodos de conexão.
+Você é um desenvolvedor especialista em automaçêo de IA, especializado em construir fluxos de trabalho para o n8n. Seu trabalho é traduzir um pedido em linguagem natural de um humano em um fluxo de trabalho n8n totalmente funcional no formato JSON. Ele deve ser abrangente, funcional e importável. Deve ter 100% de estrutura JSON válida, tipos de nós e métodos de conexêo.
 
 ## Saída
 
@@ -25,10 +25,10 @@ Sua saída deve ser apenas o JSON final do fluxo de trabalho completo.
 
 Sua saída deve começar com um { e terminar com um }.
 
-* Não inclua nada antes do { (como \`\`\`json ou qualquer formatação markdown).
-* Não inclua nada após o } (como blocos de código de fechamento como \`\`\` ou explicações).
+* Nêo inclua nada antes do { (como \`\`\`json ou qualquer formataçêo markdown).
+* Nêo inclua nada após o } (como blocos de código de fechamento como \`\`\` ou explicações).
 
-Sua saída deve ser um objeto JSON puro que começa com { e termina com }, pronto para ser usado como o corpo de uma solicitação POST.
+Sua saída deve ser um objeto JSON puro que começa com { e termina com }, pronto para ser usado como o corpo de uma solicitaçêo POST.
 
 O JSON deve:
 
@@ -42,17 +42,17 @@ O JSON deve:
 
 Antes de gerar o JSON, analise o pedido e:
 
-1. Quebre-o em etapas lógicas de automação
+1. Quebre-o em etapas lógicas de automaçêo
 2. Escolha os nós apropriados com base nas etapas
-3. Conecte os nós corretamente para refletir a ordem de execução
+3. Conecte os nós corretamente para refletir a ordem de execuçêo
 
-Se o pedido for ambíguo, faça uma melhor suposição usando a lógica de automação padrão.
+Se o pedido for ambíguo, faça uma melhor suposiçêo usando a lógica de automaçêo padrêo.
 
-Não retorne explicações, comentários ou qualquer saída fora do bloco de markdown JSON.
+Nêo retorne explicações, comentários ou qualquer saída fora do bloco de markdown JSON.
 
-Você deve produzir uma saída de nível de desenvolvedor adequada para importação direta no n8n.
+Você deve produzir uma saída de nível de desenvolvedor adequada para importaçêo direta no n8n.
 
-## Requisitos de Submissão da API
+## Requisitos de Submissêo da API
 
 Para criar automaticamente um fluxo de trabalho usando a API do n8n, o JSON gerado deve incluir os seguintes campos no nível superior no objeto final:
 
@@ -73,7 +73,7 @@ Exemplo de objeto "settings":
 "timezone": "America/New\_York"
 }
 
-## Documentação do n8n
+## Documentaçêo do n8n
 
 {{ \$json.data }}
 
@@ -123,27 +123,27 @@ MENSAGEM 7
 Autor: INEMA
 Data: 2025-06-19T11:35:09+00:00
 Texto:
-O agente de IA criado no n8n permite a construção automática de outros agentes, realizando tarefas específicas com base em comandos em linguagem natural. A seguir, um resumo dos principais tópicos abordados:
+O agente de IA criado no n8n permite a construçêo automática de outros agentes, realizando tarefas específicas com base em comandos em linguagem natural. A seguir, um resumo dos principais tópicos abordados:
 
-1. **Criação de Agentes de IA**: O agente recebe uma mensagem em Slack, interpreta a mensagem e decide qual ferramenta usar (Gmail ou Calendar), executando a ação e registrando os resultados no Google Sheets.
+1. **Criaçêo de Agentes de IA**: O agente recebe uma mensagem em Slack, interpreta a mensagem e decide qual ferramenta usar (Gmail ou Calendar), executando a açêo e registrando os resultados no Google Sheets.
 
 2. **Fluxo de Trabalho Automático**: O processo inclui um gatilho do Slack, um agente de IA com ferramentas como Gmail, Calendar e um parser de saída estruturada, além de um logger no Google Sheets e uma resposta de volta no Slack.
 
-3. **Configuração e Teste**: O fluxo de trabalho fornece um link direto para a visualização do fluxo de trabalho e um guia passo a passo para configurar as credenciais, o Google Sheets, e adicionar o Slackbot ao canal. Depois, o sistema envia uma resposta automatizada com as ações realizadas.
+3. **Configuraçêo e Teste**: O fluxo de trabalho fornece um link direto para a visualizaçêo do fluxo de trabalho e um guia passo a passo para configurar as credenciais, o Google Sheets, e adicionar o Slackbot ao canal. Depois, o sistema envia uma resposta automatizada com as ações realizadas.
 
 4. **Componentes do Agente de IA**: O agente tem um prompt do sistema configurado com a tarefa a ser executada e um modelo de chat que define como interagir com o usuário. Ele também é configurado para registrar todas as ações realizadas.
 
-5. **Logs e Resultados**: A cada execução, o sistema registra as ações realizadas, como e-mails enviados e eventos criados no calendário, com informações detalhadas como timestamp, canal do Slack, e resultados das tarefas.
+5. **Logs e Resultados**: A cada execuçêo, o sistema registra as ações realizadas, como e-mails enviados e eventos criados no calendário, com informações detalhadas como timestamp, canal do Slack, e resultados das tarefas.
 
-6. **Documentação e Personalização**: O fluxo de trabalho gerado pode ser modificado e customizado para atender a diferentes necessidades, e é possível ajustar as configurações de API e a estrutura do JSON para garantir a compatibilidade com o n8n.
+6. **Documentaçêo e Personalizaçêo**: O fluxo de trabalho gerado pode ser modificado e customizado para atender a diferentes necessidades, e é possível ajustar as configurações de API e a estrutura do JSON para garantir a compatibilidade com o n8n.
 
-7. **Desempenho e Eficiência**: O sistema é projetado para ser simples, utilizando dados mínimos e reduzindo a complexidade ao máximo, para facilitar a execução de tarefas automatizadas de forma eficiente e com baixo custo.
+7. **Desempenho e Eficiência**: O sistema é projetado para ser simples, utilizando dados mínimos e reduzindo a complexidade ao máximo, para facilitar a execuçêo de tarefas automatizadas de forma eficiente e com baixo custo.
 
-8. **Integração com Outras Ferramentas**: Além de Slack, Gmail e Calendar, o sistema pode ser integrado com outras ferramentas, como o Perplexity para pesquisas, e configurações adicionais para enviar e-mails personalizados e automatizar processos de negócios.
+8. **Integraçêo com Outras Ferramentas**: Além de Slack, Gmail e Calendar, o sistema pode ser integrado com outras ferramentas, como o Perplexity para pesquisas, e configurações adicionais para enviar e-mails personalizados e automatizar processos de negócios.
 
 9. **Acessibilidade e Compartilhamento**: O fluxo de trabalho gerado é acessível por um link direto e pode ser compartilhado com outros usuários. O sistema oferece a possibilidade de importar fluxos de trabalho diretamente para a plataforma n8n.
 
-10. **Futuro da Automação e IA**: Embora o processo automatizado facilite a criação de fluxos de trabalho, o entendimento de cada nó e a capacidade de personalizar automações conforme as necessidades específicas ainda são essenciais para otimizar a eficiência e garantir o sucesso da automação.
+10. **Futuro da Automaçêo e IA**: Embora o processo automatizado facilite a criaçêo de fluxos de trabalho, o entendimento de cada nó e a capacidade de personalizar automações conforme as necessidades específicas ainda sêo essenciais para otimizar a eficiência e garantir o sucesso da automaçêo.
 
 ------------------------------
 
@@ -163,7 +163,7 @@ Como criar um agente de IA no n8n que é capaz de construir outros agentes de IA
 
 Além disso, o processo é automatizado usando uma ferramenta simples, com um fluxo que inclui o uso de ferramentas como o Slack, Gmail e Google Calendar. O vídeo também explica o uso de um modelo de IA que traduz mensagens em um fluxo de trabalho n8n funcional, criando agentes com base em entradas mínimas, como documentos do Google. O autor compartilha o modelo de fluxo de trabalho para ser baixado gratuitamente e disponível para qualquer um replicar o processo.
 
-Também aborda as limitações e desafios de usar IA para a construção automática de fluxos de trabalho, ressaltando a importância de entender como as automações funcionam, mesmo que as ferramentas possam facilitar a criação de soluções.
+Também aborda as limitações e desafios de usar IA para a construçêo automática de fluxos de trabalho, ressaltando a importância de entender como as automações funcionam, mesmo que as ferramentas possam facilitar a criaçêo de soluções.
 
 ------------------------------
 

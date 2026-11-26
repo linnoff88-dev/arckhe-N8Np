@@ -13,7 +13,7 @@ MENSAGEM 1
 Autor: INEMA
 Data: 2025-09-17T16:46:54+00:00
 Texto:
-Não teve.
+Nêo teve.
 
 ------------------------------
 
@@ -70,10 +70,10 @@ Texto:
      “Crie um fluxo diário às 7h que pesquisa as 5 notícias mais relevantes de IA e tecnologia no Tavily, gera um resumo em HTML com títulos, subtítulos, negrito e links, e envia por Gmail.”
    * Quanto mais detalhes, melhor o resultado inicial.
 
-2. **Sempre revise a configuração dos nós**
+2. **Sempre revise a configuraçêo dos nós**
 
    * O builder monta a estrutura, mas endpoints, chaves de API e autenticações quase sempre precisam de ajustes manuais.
-   * Hack: salve blocos de configuração padrão (por exemplo, request para Tavily, login no Gmail) e cole direto.
+   * Hack: salve blocos de configuraçêo padrêo (por exemplo, request para Tavily, login no Gmail) e cole direto.
 
 3. **Use prompts iterativos**
 
@@ -92,7 +92,7 @@ Texto:
 
 6. **Alimente com variáveis claras desde o início**
 
-   * Defina: email do destinatário, chave de API, tópicos de pesquisa, formatação esperada.
+   * Defina: email do destinatário, chave de API, tópicos de pesquisa, formataçêo esperada.
    * Evita que o builder invente valores placeholders que você terá que trocar depois.
 
 7. **Teste com prompts diferentes**
@@ -115,25 +115,25 @@ MENSAGEM 9
 Autor: INEMA
 Data: 2025-09-11T03:41:14+00:00
 Texto:
-Com base no vídeo e no transcript, dá para separar claramente o que funciona bem e o que ainda não funciona no Text-to-Workflow do n8n:
+Com base no vídeo e no transcript, dá para separar claramente o que funciona bem e o que ainda nêo funciona no Text-to-Workflow do n8n:
 
 ### O que funciona bem
 
-* Criação rápida de workflows básicos a partir de prompts em texto.
-* Identificação de nós relevantes (Webhook, Gmail, Slack, ClickUp etc.).
-* Configuração inicial de variáveis (nome, email, dados do lead, tópicos de notícia).
-* Geração de estrutura lógica do fluxo (trigger → processamento → saída).
+* Criaçêo rápida de workflows básicos a partir de prompts em texto.
+* Identificaçêo de nós relevantes (Webhook, Gmail, Slack, ClickUp etc.).
+* Configuraçêo inicial de variáveis (nome, email, dados do lead, tópicos de notícia).
+* Geraçêo de estrutura lógica do fluxo (trigger → processamento → saída).
 * Ajuda a economizar tempo com 70% do trabalho pronto, servindo como “ponto de partida”.
 * Funciona muito bem para automações lineares e previsíveis (ex.: newsletter, captura de leads, envio de notificações).
 
-### O que não funciona bem
+### O que nêo funciona bem
 
-* Integrações mais complexas via HTTP request (geralmente ficam sem endpoint/configuração).
-* Combinação de resultados (ex.: merge de dados de várias fontes), onde tende a falhar.
+* Integrações mais complexas via HTTP request (geralmente ficam sem endpoint/configuraçêo).
+* Combinaçêo de resultados (ex.: merge de dados de várias fontes), onde tende a falhar.
 * Prompts vagos geram workflows muito genéricos e incompletos.
 * Falta de robustez em sistemas multiagentes (ex.: sub-agentes para Gmail, Calendar, ClickUp).
-* Pode criar uma “falsa sensação de segurança”: parece pronto, mas ainda precisa de revisão humana.
-* Não substitui o entendimento de como workflows funcionam (necessário saber ajustar manualmente).
+* Pode criar uma “falsa sensaçêo de segurança”: parece pronto, mas ainda precisa de revisêo humana.
+* Nêo substitui o entendimento de como workflows funcionam (necessário saber ajustar manualmente).
 
 ------------------------------
 
@@ -151,7 +151,7 @@ Data: 2025-09-11T03:40:41+00:00
 Texto:
 Resumo :
 
-O vídeo mostra como o novo recurso Text-to-Workflow do n8n facilita muito a criação de agentes e workflows a partir de prompts em linguagem natural.
+O vídeo mostra como o novo recurso Text-to-Workflow do n8n facilita muito a criaçêo de agentes e workflows a partir de prompts em linguagem natural.
 
 1. Primeiro exemplo (prompt vago)
 
@@ -169,16 +169,16 @@ O vídeo mostra como o novo recurso Text-to-Workflow do n8n facilita muito a cri
 3. Terceiro exemplo (sistema complexo)
 
 * Pediu um assistente pessoal com sub-agentes (Gmail, Calendar, ClickUp, Telegram).
-* O builder conseguiu criar uma estrutura inicial, mas errou em configurações básicas e não entregou algo funcional.
-* Confirma que ainda não é ideal para sistemas multiagentes complexos.
+* O builder conseguiu criar uma estrutura inicial, mas errou em configurações básicas e nêo entregou algo funcional.
+* Confirma que ainda nêo é ideal para sistemas multiagentes complexos.
 
 Principais pontos do vídeo:
 
-* O Text-to-Workflow é ótimo para acelerar a criação inicial e economizar tempo.
-* Não substitui o entendimento humano: é preciso saber como workflows funcionam para corrigir erros e melhorar.
+* O Text-to-Workflow é ótimo para acelerar a criaçêo inicial e economizar tempo.
+* Nêo substitui o entendimento humano: é preciso saber como workflows funcionam para corrigir erros e melhorar.
 * Funciona bem para fluxos simples e diretos (ex.: automações de e-mail, notificações, newsletter).
-* Para sistemas mais complexos, ainda precisa de bastante intervenção manual.
-* Deve ser visto como ferramenta para ganhar 70% de tempo, não como solução pronta.
+* Para sistemas mais complexos, ainda precisa de bastante intervençêo manual.
+* Deve ser visto como ferramenta para ganhar 70% de tempo, nêo como soluçêo pronta.
 
 ------------------------------
 
@@ -194,12 +194,12 @@ MENSAGEM 13
 Autor: INEMA
 Data: 2025-09-11T03:40:00+00:00
 Texto:
-De Texto para Workflow do n8n de alguma forma tornou a construção de agentes ainda mais fácil
+De Texto para Workflow do n8n de alguma forma tornou a construçêo de agentes ainda mais fácil
 
 Neste vídeo, eu exploro o novo construtor de Texto para Workflow do n8n e mostro por que ele é uma virada de jogo para economizar tempo.
-Eu passo por três exemplos ao vivo para que você veja quais tipos de prompts funcionam bem, onde ele tem dificuldades e como pensar em usá-lo da forma correta. Também abordo as limitações e a mentalidade necessária: essa ferramenta é um ótimo ponto de partida para reduzir o tempo de construção, mas você ainda precisará entender os fundamentos de como os workflows funcionam se quiser torná-los confiáveis e melhorar o que o construtor entrega.
+Eu passo por três exemplos ao vivo para que você veja quais tipos de prompts funcionam bem, onde ele tem dificuldades e como pensar em usá-lo da forma correta. Também abordo as limitações e a mentalidade necessária: essa ferramenta é um ótimo ponto de partida para reduzir o tempo de construçêo, mas você ainda precisará entender os fundamentos de como os workflows funcionam se quiser torná-los confiáveis e melhorar o que o construtor entrega.
 
-⚠️ Nota rápida: Esse recurso ainda não foi oficialmente liberado para todos. Então, se você atualizar o n8n e não ver o construtor de Texto para Workflow, não se assuste — ele está sendo liberado em fases conforme o produto continua sendo aprimorado.
+⚠️ Nota rápida: Esse recurso ainda nêo foi oficialmente liberado para todos. Entêo, se você atualizar o n8n e nêo ver o construtor de Texto para Workflow, nêo se assuste — ele está sendo liberado em fases conforme o produto continua sendo aprimorado.
 
 ------------------------------
 

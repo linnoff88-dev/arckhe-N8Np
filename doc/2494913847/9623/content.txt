@@ -62,7 +62,7 @@ relatórios
 
 ## 💡 Dicas Importantes
 
-1. **Sempre teste em desenvolvimento** antes de produção
+1. **Sempre teste em desenvolvimento** antes de produçêo
 2. **Faça backups** antes de grandes mudanças
 3. **Monitore os logs** nos primeiros dias
 4. **Ajuste os timeouts** conforme necessário
@@ -78,7 +78,7 @@ Se precisar de ajuda:
 
 ---
 
-**🎉 Parabéns!** Você tem agora um sistema completo e profissional de automação para farmácia de manipulação, pronto para produção!
+**🎉 Parabéns!** Você tem agora um sistema completo e profissional de automaçêo para farmácia de manipulaçêo, pronto para produçêo!
 
 Todos os arquivos foram criados seguindo as melhores práticas do n8n, com tratamento de erros robusto, segurança implementada e totalmente funcional. O sistema está pronto para processar centenas de receitas por dia com alta confiabilidade.
 
@@ -93,9 +93,9 @@ Texto:
 ### ✅ Arquivos Criados com Sucesso:
 
 1. **farmacia_workflow_principal.json**
-   - Recepção via WhatsApp (Evolution API), Email e Webhook
+   - Recepçêo via WhatsApp (Evolution API), Email e Webhook
    - OCR com AWS Textract e Google Vision
-   - Extração inteligente de medicamentos (AI + RegEx)
+   - Extraçêo inteligente de medicamentos (AI + RegEx)
    - Cálculo automático de orçamentos
    - Envio com botões interativos
 
@@ -114,7 +114,7 @@ Texto:
 4. **farmacia_workflow_monitoramento.json**
    - Health checks a cada 5 minutos
    - Monitoramento de filas a cada 15 minutos
-   - Auto-reconexão do WhatsApp
+   - Auto-reconexêo do WhatsApp
    - Alertas inteligentes
 
 5. **farmacia_credentials.json**
@@ -129,7 +129,7 @@ Texto:
    - Índices para performance
 
 7. **farmacia_environment.json**
-   - Variáveis para desenvolvimento e produção
+   - Variáveis para desenvolvimento e produçêo
    - Docker Compose completo
    - Configurações Kubernetes
    - Feature flags
@@ -137,12 +137,12 @@ Texto:
 8. **farmacia_setup_guide.md**
    - Guia passo-a-passo detalhado
    - Troubleshooting completo
-   - Scripts de manutenção
+   - Scripts de manutençêo
    - Boas práticas de segurança
 
 ## 🚀 Como Usar os Arquivos
 
-### 1. Preparação Inicial
+### 1. Preparaçêo Inicial
 ```# Crie a estrutura de pastas
 mkdir -p farmacia-automation/{workflows,config,database,docs}
 
@@ -152,11 +152,11 @@ mv farmacia_credentials.json farmacia_environment.json farmacia-automation/confi
 mv farmacia_database_schema.sql farmacia-automation/database/
 mv farmacia_setup_guide.md farmacia-automation/docs/```
 
-### 2. Instalação Rápida com Docker
+### 2. Instalaçêo Rápida com Docker
 ```cd farmacia-automation
 
 # Use as configurações do farmacia_environment.json
-# Crie o docker-compose.yml com base na seção docker_compose
+# Crie o docker-compose.yml com base na seçêo docker_compose
 
 docker-compose up -d```
 
@@ -183,7 +183,7 @@ curl -X POST https://sua-evolution-api.com/webhook/set \
 
 ### Segurança
 - ✅ Criptografia de dados sensíveis
-- ✅ Autenticação em todas as APIs
+- ✅ Autenticaçêo em todas as APIs
 - ✅ Rate limiting configurado
 - ✅ Logs de auditoria completos
 - ✅ Backup automático diário
@@ -206,7 +206,7 @@ curl -X POST https://sua-evolution-api.com/webhook/set \
 - ✅ Retry automático em falhas
 - ✅ Tratamento de erros robusto
 - ✅ Health checks contínuos
-- ✅ Auto-reconexão de serviços
+- ✅ Auto-reconexêo de serviços
 - ✅ Alertas proativos
 
 ## 📊 Métricas e KPIs Configurados
@@ -218,7 +218,7 @@ curl -X POST https://sua-evolution-api.com/webhook/set \
 - Performance por canal
 
 ### Negócio
-- Taxa de conversão
+- Taxa de conversêo
 - Ticket médio
 - Medicamentos mais vendidos
 - Horários de pico
@@ -273,7 +273,7 @@ MENSAGEM 12
 Autor: INEMA
 Data: 2025-06-14T17:55:18+00:00
 Texto: [Sem texto]
-Midia: MessageMediaDocument -> Farmácia - Guia de Instalação e Configuração.pdf
+Midia: MessageMediaDocument -> Farmácia - Guia de Instalaçêo e Configuraçêo.pdf
 
 ------------------------------
 

@@ -38,12 +38,12 @@ Texto:
 **Resumo completo por tópicos:**
 
 1. **Objetivo do projeto:**
-   Criar um sistema local de geração de vídeos com IA e estilo POV (ponto de vista), usando ferramentas gratuitas e sem codificação, com custo zero.
+   Criar um sistema local de geraçêo de vídeos com IA e estilo POV (ponto de vista), usando ferramentas gratuitas e sem codificaçêo, com custo zero.
 
 2. **Ferramentas utilizadas:**
 
    * **WAN 2.1** (modelo de imagem para vídeo I2V, local)
-   * **n8n** (plataforma de automação no-code)
+   * **n8n** (plataforma de automaçêo no-code)
    * **Google Sheets** (entrada de prompts)
    * **Together AI** (para gerar imagens com modelo Flux.1 Chanel 3)
    * **FFmpeg** (para compilar vídeos, músicas e legendas)
@@ -59,7 +59,7 @@ Texto:
 4. **Recursos adicionais:**
 
    * O sistema permite gerar múltiplos vídeos (duplicando os nós no n8n).
-   * O autor fornece o **workflow JSON pronto** para importação.
+   * O autor fornece o **workflow JSON pronto** para importaçêo.
    * Suporte completo via comunidade Premium do criador (opcional).
 
 5. **Exemplo de prompt:**
@@ -68,24 +68,24 @@ Texto:
    * Ambiente: Roma Antiga
    * Resultado: vídeo com legenda, som ambiente, imagens e música de fundo.
 
-6. **Técnicas de automação:**
+6. **Técnicas de automaçêo:**
 
-   * Utiliza agendamento por tempo ou execução manual.
+   * Utiliza agendamento por tempo ou execuçêo manual.
    * Usa expressões do n8n para mapear campos, inserir variáveis e compor prompts automaticamente.
 
-7. **Geração de legenda:**
+7. **Geraçêo de legenda:**
 
    * Utiliza OpenRouter com modelo gratuito (Google Jamma 327B).
    * Divide a legenda em frases curtas de até 8 palavras.
    * Inclui efeitos visuais como fade e estilo de fonte via FFmpeg.
 
-8. **Finalização:**
+8. **Finalizaçêo:**
 
    * O vídeo final é armazenado em disco com nome e data únicos.
    * Pode ser lido novamente e exibido direto do disco local.
 
-**Conclusão:**
-O projeto mostra como montar uma máquina de geração de vídeo com IA de forma **totalmente gratuita, local, sem codificação e com altíssimo grau de automação**, ideal para criadores, educadores e entusiastas.
+**Conclusêo:**
+O projeto mostra como montar uma máquina de geraçêo de vídeo com IA de forma **totalmente gratuita, local, sem codificaçêo e com altíssimo grau de automaçêo**, ideal para criadores, educadores e entusiastas.
 
 ------------------------------
 
@@ -128,13 +128,13 @@ pip install flash-attn==2.7.2.post1
 
 ### 4. Instale o FFmpeg
 
-#### A. Versão RunPod (Ubuntu):
+#### A. Versêo RunPod (Ubuntu):
 
 ```bash
 sudo apt update
 sudo apt install ffmpeg```
 
-#### B. Versão Windows:
+#### B. Versêo Windows:
 
 Siga este guia:
 h[ttps://phoenixnap.com/kb/ffmpeg-windows
@@ -162,7 +162,7 @@ Texto:
 **al14 – POV de US\$ 0**
 
 **Observações:**
-Se você já possui uma GPU compatível localmente, pode ignorar a configuração do RunPod e ir direto para a instalação do WAN2.1GP na sua máquina.
+Se você já possui uma GPU compatível localmente, pode ignorar a configuraçêo do RunPod e ir direto para a instalaçêo do WAN2.1GP na sua máquina.
 
 Selecionamos a **NVIDIA L40S no RunPod** devido à sua ampla capacidade de RAM, o que é vantajoso para lidar com grandes modelos e conjuntos de dados. Em termos de desempenho, a L40S oferece velocidades comparáveis à NVIDIA RTX 4080, sendo uma escolha econômica para tarefas intensivas de IA.
 
@@ -173,13 +173,13 @@ No RunPod, usando a NVIDIA L40S, levou aproximadamente **12 minutos para gerar u
 ### Requisitos mínimos de hardware e software para rodar o Wan2.1 i2v 720p 14B
 
 * **Para vídeos 720p, recomenda-se 12 GB de VRAM**
-* **Python:** Versão 3.11
-* **CUDA:** Versão 12.4.1 para processamento efetivo com GPU
-* **PyTorch:** Versão 2.4.0 com suporte ao CUDA 12.4.1
+* **Python:** Versêo 3.11
+* **CUDA:** Versêo 12.4.1 para processamento efetivo com GPU
+* **PyTorch:** Versêo 2.4.0 com suporte ao CUDA 12.4.1
 
 ---
 
-### Configuração do RunPod – Implantação do Pod
+### Configuraçêo do RunPod – Implantaçêo do Pod
 
 1. **Cadastre-se** no RunPod para utilizar recursos de GPU.
 2. Acesse: [https://www.runpod.io/console/explore/runpod-torch-v240](https://www.runpod.io/console/explore/runpod-torch-v240)
@@ -193,7 +193,7 @@ No RunPod, usando a NVIDIA L40S, levou aproximadamente **12 minutos para gerar u
 
 ---
 
-### Configuração do RunPod – Jupyter Lab
+### Configuraçêo do RunPod – Jupyter Lab
 
 1. Acesse: [https://www.runpod.io/console/pods](https://www.runpod.io/console/pods)
 2. Clique em **Connect > Jupyter Lab: 8888**
@@ -237,7 +237,7 @@ Referência: [https://docs.n8n.io/integrations/creating-nodes/test/run-node-loca
 
 ### 3. Instale o WAN2.1GP
 
-#### A. Versão para RunPod
+#### A. Versêo para RunPod
 
 No Jupyter Lab > Terminal, execute:
 
@@ -262,8 +262,8 @@ pip install -e .
 # 3.3 (opcional) Flash attention
 pip install flash-attn==2.7.2.post1```
 
-**Observação:**
-Você **NÃO** precisa executar:
+**Observaçêo:**
+Você **NêO** precisa executar:
 
 ```conda create -n wan2gp python=3.10.9
 conda activate wan2gp```
@@ -272,7 +272,7 @@ Porque isso impede que o **n8n** chame o Python diretamente fora do Conda.
 
 ---
 
-#### B. Versão para Windows
+#### B. Versêo para Windows
 
 ```bash
 # 0. Baixe o repositório e crie o ambiente
@@ -315,7 +315,7 @@ Criei uma máquina de vídeo com IA e POV de US$ 0 usando ferramentas de código
 
 Este tutorial passo a passo mostra como transformar um simples prompt de texto em um vídeo estilizado automaticamente usando um fluxo de trabalho de arrastar e soltar. 
 
-Se os criadores estão pagando US$$ por ferramentas de vídeo com IA, por que não criar as suas próprias gratuitamente?
+Se os criadores estêo pagando US$$ por ferramentas de vídeo com IA, por que nêo criar as suas próprias gratuitamente?
 
 ------------------------------
 

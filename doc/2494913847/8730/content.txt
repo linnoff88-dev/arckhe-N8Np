@@ -13,7 +13,7 @@ MENSAGEM 1
 Autor: INEMA
 Data: 2025-06-05T12:52:52+00:00
 Texto:
-Aqui estão os links diretos para as APIs de busca que você pode utilizar como alternativas ao SerpApi:
+Aqui estêo os links diretos para as APIs de busca que você pode utilizar como alternativas ao SerpApi:
 
 * **ContextualWeb API**: [https://publicapis.io/contextual-web-news-api](https://publicapis.io/contextual-web-news-api)
 * **Bing Web Search API**: [https://www.microsoft.com/en-us/bing/apis/bing-web-search-api](https://www.microsoft.com/en-us/bing/apis/bing-web-search-api)
@@ -42,42 +42,42 @@ Texto:
 
 Exploramos duas automações que permitem gerar e publicar conteúdo automaticamente para redes sociais usando **Make e N8N**, integrando ferramentas como **ChatGPT, Perplexity e DALL·E 3**. Também mostramos como montar um **agente inteligente que atua de forma conversacional**.
 
-🔧 **Automação com Make**
+🔧 **Automaçêo com Make**
 
-1. **Preparação dos Temas de Conteúdo**
-   Parte-se de uma tabela no Google Sheets com colunas como: tema, descrição, estilo visual, hashtags.
-   Caso não saiba o que preencher, os temas são gerados com ChatGPT usando um prompt detalhado que busca tendências, hashtags, vídeos e fóruns.
-   Os resultados são copiados na tabela para iniciar o fluxo.
+1. **Preparaçêo dos Temas de Conteúdo**
+   Parte-se de uma tabela no Google Sheets com colunas como: tema, descriçêo, estilo visual, hashtags.
+   Caso nêo saiba o que preencher, os temas sêo gerados com ChatGPT usando um prompt detalhado que busca tendências, hashtags, vídeos e fóruns.
+   Os resultados sêo copiados na tabela para iniciar o fluxo.
 
-2. **Geração das Publicações**
+2. **Geraçêo das Publicações**
    O sistema detecta as linhas vazias para processar apenas conteúdo novo.
    O fluxo executa:
 
    * Busca de informações atualizadas com **Perplexity**.
-   * Redação de uma publicação persuasiva com **gancho, desenvolvimento e chamada para ação** usando **ChatGPT 4.1 Mini**.
-   * Criação de um prompt de imagem baseado no texto, estilo visual e informações.
-   * Geração da imagem com **OpenAI Image 1**, em alta qualidade e formato personalizado (vertical, quadrado etc.).
+   * Redaçêo de uma publicaçêo persuasiva com **gancho, desenvolvimento e chamada para açêo** usando **ChatGPT 4.1 Mini**.
+   * Criaçêo de um prompt de imagem baseado no texto, estilo visual e informações.
+   * Geraçêo da imagem com **OpenAI Image 1**, em alta qualidade e formato personalizado (vertical, quadrado etc.).
 
-3. **Armazenamento e Validação**
+3. **Armazenamento e Validaçêo**
    Todo o conteúdo gerado (texto, imagem, prompt, ID do arquivo) é enviado para o Google Sheets.
-   É recomendada uma revisão manual antes da publicação, garantindo controle criativo.
+   É recomendada uma revisêo manual antes da publicaçêo, garantindo controle criativo.
 
-4. **Publicação nas Redes Sociais**
+4. **Publicaçêo nas Redes Sociais**
    Mostra-se como publicar automaticamente no **LinkedIn, Facebook ou Instagram**.
    O criador recomenda um fluxo em duas fases:
 
-   * Geração + validação manual
-   * Publicação automática ao marcar o checkbox "publicar = true".
+   * Geraçêo + validaçêo manual
+   * Publicaçêo automática ao marcar o checkbox "publicar = true".
 
-🤖 **Automação com Agente Inteligente (N8N)**
+🤖 **Automaçêo com Agente Inteligente (N8N)**
 
 1. **Conversa com o Agente**
    Cria-se um agente conversacional no N8N que:
 
    * Recebe instruções via chat.
-   * Pergunta o tema e estilo da imagem, se não forem fornecidos.
+   * Pergunta o tema e estilo da imagem, se nêo forem fornecidos.
    * Busca informações usando **SerpApi** (Google Search).
-   * Gera a publicação com **ChatGPT**.
+   * Gera a publicaçêo com **ChatGPT**.
    * Cria o prompt da imagem.
    * Gera e converte a imagem (com ferramenta externa).
    * Sobe automaticamente os resultados para o Google Sheets.
@@ -91,7 +91,7 @@ Exploramos duas automações que permitem gerar e publicar conteúdo automaticam
 
 🖼 **Exemplos Reais de Publicações Geradas**
 
-* Infográficos com dados de IA, reputação de CEOs, marketing em vídeo
+* Infográficos com dados de IA, reputaçêo de CEOs, marketing em vídeo
 * Tirinhas em estilo HQ
 * Comparações visuais como "qualidade vs quantidade"
 * Imagens personalizadas estilo revista
@@ -116,7 +116,7 @@ MENSAGEM 4
 Autor: INEMA
 Data: 2025-06-05T11:40:49+00:00
 Texto:
-**A Automação de Conteúdo que Todos Deveriam Ver**
+**A Automaçêo de Conteúdo que Todos Deveriam Ver**
 
 **30 publicações com imagem em apenas 10 minutos**.
 Tudo usando **Make, N8N, ChatGPT e Perplexity**, sem complicações.
@@ -127,7 +127,7 @@ E se você chegou há pouco tempo na comunidade… vai ficar impressionado.
 
 
 💾 Aqui você encontra:
-✅ Gravação completa
+✅ Gravaçêo completa
 ✅ Blueprints prontos para importar
 ✅ Prompts utilizados
 ✅ E exemplos reais de conteúdo gerado

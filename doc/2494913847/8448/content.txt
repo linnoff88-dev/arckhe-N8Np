@@ -59,29 +59,29 @@ Aprendemos a reduzir o custo das nossas automações com inteligência artificia
 * **openai/gpt-4o-mini**: compacto e rentável, com bom contexto.
 * **openai/gpt-4.1**: o mais potente, ideal para tarefas complexas ou técnicas.
 * **openai/gpt-4.1-mini**: equilíbrio entre desempenho e custo.
-* **anthropic/claude-sonnet-4**: excelente para redação profissional.
+* **anthropic/claude-sonnet-4**: excelente para redaçêo profissional.
 * **openai/gpt-4o-mini-search-preview**: conectado à internet para buscas atualizadas.
 
-⚙️ **Passo a passo da automação**
+⚙️ **Passo a passo da automaçêo**
 
-1. Criamos um agente de IA cuja única função é escolher o modelo mais adequado com base na solicitação do usuário.
+1. Criamos um agente de IA cuja única funçêo é escolher o modelo mais adequado com base na solicitaçêo do usuário.
 2. Passamos como entrada a mensagem do usuário e uma tabela com as descrições e pontos fortes de cada modelo.
 3. Esse agente retorna apenas o nome do modelo mais indicado, sem explicações.
-4. O próximo passo da automação utiliza o modelo sugerido para executar a tarefa.
-5. Assim, tarefas simples são realizadas com modelos rápidos e baratos, enquanto tarefas complexas usam modelos mais potentes.
+4. O próximo passo da automaçêo utiliza o modelo sugerido para executar a tarefa.
+5. Assim, tarefas simples sêo realizadas com modelos rápidos e baratos, enquanto tarefas complexas usam modelos mais potentes.
 
 💡 **Exemplos práticos apresentados**
 
-* **Consulta simples** (“Como se faz macarrão à carbonara?”): o agente escolhe o Gemini Flash, mais barato e rápido.
-* **Pedido de conversão de código**: seleciona o GPT-4.1, ideal para raciocínio técnico.
-* **Solicitação de notícias atuais**: escolhe o GPT-4o-mini-search-preview, que possui conexão à internet.
+* **Consulta simples** (“Como se faz macarrêo à carbonara?”): o agente escolhe o Gemini Flash, mais barato e rápido.
+* **Pedido de conversêo de código**: seleciona o GPT-4.1, ideal para raciocínio técnico.
+* **Solicitaçêo de notícias atuais**: escolhe o GPT-4o-mini-search-preview, que possui conexêo à internet.
 
 📈 **Benefícios dessa estratégia**
 
 * Economia significativa quando se trabalha com muitos agentes ou clientes.
 * Maior velocidade de resposta em tarefas simples.
 * Flexibilidade total no uso de múltiplos modelos sem sair de um único ambiente.
-* Proposta de valor clara para clientes: redução de custos sem perda de qualidade.
+* Proposta de valor clara para clientes: reduçêo de custos sem perda de qualidade.
 
 ------------------------------
 
@@ -90,7 +90,7 @@ Autor: INEMA
 Data: 2025-05-28T04:35:07+00:00
 Texto:
 Modelos Dinâmicos: Otimize seus agentes de IA ao máximo 🚀
-Se você usa agentes de IA e ainda não faz isso… está jogando dinheiro fora. 
+Se você usa agentes de IA e ainda nêo faz isso… está jogando dinheiro fora. 
 
 
 ✅ Você usa modelos baratos e rápidos para tarefas simples
@@ -101,7 +101,7 @@ Se você usa agentes de IA e ainda não faz isso… está jogando dinheiro fora.
 
 
 É uma daquelas automações que te fazem pensar:
-"Por que não fiz isso antes?"
+"Por que nêo fiz isso antes?"
 
 Se você trabalha com Make, n8n ou tem agentes conversacionais com alto volume, isso é um divisor de águas.
 

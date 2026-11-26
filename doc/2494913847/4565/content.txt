@@ -55,7 +55,7 @@ MENSAGEM 6
 Autor: INEMA
 Data: 2025-04-02T06:56:40+00:00
 Texto:
-Aqui está o **resumo completo "Conexões do Google no n8n (Drive, Gmail, Calendar, Docs e Sheets)"** com todos os passos explicados e listados para facilitar sua implementação:
+Aqui está o **resumo completo "Conexões do Google no n8n (Drive, Gmail, Calendar, Docs e Sheets)"** com todos os passos explicados e listados para facilitar sua implementaçêo:
 
 ---
 
@@ -122,13 +122,13 @@ Clique em “Adicionar ou remover escopos” e adicione os seguintes:
   - Gmail
   - Google Docs
   - Google Sheets
-- Cole os dados em cada integração
+- Cole os dados em cada integraçêo
 - Clique para fazer login com o Google (com o e-mail autorizado)
 - Permita o acesso
 
-### 7. **Testar cada integração**
-- Em cada nó (Drive, Calendar, etc.), escolha o tipo de ação (ex: “Copy File”, “Create Event”, “Get Message”)
-- Teste a execução manual para verificar se a conexão está funcionando corretamente
+### 7. **Testar cada integraçêo**
+- Em cada nó (Drive, Calendar, etc.), escolha o tipo de açêo (ex: “Copy File”, “Create Event”, “Get Message”)
+- Teste a execuçêo manual para verificar se a conexêo está funcionando corretamente
 
 ---
 

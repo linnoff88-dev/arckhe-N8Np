@@ -22,7 +22,7 @@
     },
     {
       "parameters": {
-        "content": "## 📊 Analisador de Vendas iFood\n\n**Fluxo de Automação:**\n1. Lê dados de vendas do Google Sheets\n2. Analisa produtos mais vendidos (últimos 7 dias)\n3. Identifica correlações entre produtos\n4. Gera sugestões de combos com desconto\n5. Envia sugestões via Telegram\n6. Registra logs na planilha\n\n**Configurações Necessárias:**\n- Credenciais do Google Sheets\n- Bot Token do Telegram\n- Chat ID do Telegram",
+        "content": "## 📊 Analisador de Vendas iFood\n\n**Fluxo de Automaçêo:**\n1. Lê dados de vendas do Google Sheets\n2. Analisa produtos mais vendidos (últimos 7 dias)\n3. Identifica correlações entre produtos\n4. Gera sugestões de combos com desconto\n5. Envia sugestões via Telegram\n6. Registra logs na planilha\n\n**Configurações Necessárias:**\n- Credenciais do Google Sheets\n- Bot Token do Telegram\n- Chat ID do Telegram",
         "color": 5
       },
       "id": "note1-2345-6789-abcd-ef1234567890",
@@ -143,7 +143,7 @@
     {
       "parameters": {
         "schemaType": "manual",
-        "inputSchema": "{\n  \"type\": \"object\",\n  \"properties\": {\n    \"combos\": {\n      \"type\": \"array\",\n      \"items\": {\n        \"type\": \"object\",\n        \"properties\": {\n          \"nome\": {\n            \"type\": \"string\",\n            \"description\": \"Nome criativo e atrativo do combo\"\n          },\n          \"itens\": {\n            \"type\": \"array\",\n            \"items\": {\n              \"type\": \"string\"\n            },\n            \"description\": \"Lista de itens incluídos no combo (máximo 3)\"\n          },\n          \"precoOriginal\": {\n            \"type\": \"number\",\n            \"description\": \"Soma dos valores individuais dos itens\"\n          },\n          \"precoCombo\": {\n            \"type\": \"number\",\n            \"description\": \"Preço do combo com 10% de desconto\"\n          },\n          \"justificativa\": {\n            \"type\": \"string\",\n            \"description\": \"Explicação baseada nos dados de vendas\"\n          }\n        },\n        \"required\": [\"nome\", \"itens\", \"precoOriginal\", \"precoCombo\", \"justificativa\"]\n      }\n    },\n    \"semSugestoes\": {\n      \"type\": \"boolean\",\n      \"description\": \"True se não há dados suficientes para sugestões\"\n    }\n  },\n  \"required\": [\"combos\"]\n}"
+        "inputSchema": "{\n  \"type\": \"object\",\n  \"properties\": {\n    \"combos\": {\n      \"type\": \"array\",\n      \"items\": {\n        \"type\": \"object\",\n        \"properties\": {\n          \"nome\": {\n            \"type\": \"string\",\n            \"description\": \"Nome criativo e atrativo do combo\"\n          },\n          \"itens\": {\n            \"type\": \"array\",\n            \"items\": {\n              \"type\": \"string\"\n            },\n            \"description\": \"Lista de itens incluídos no combo (máximo 3)\"\n          },\n          \"precoOriginal\": {\n            \"type\": \"number\",\n            \"description\": \"Soma dos valores individuais dos itens\"\n          },\n          \"precoCombo\": {\n            \"type\": \"number\",\n            \"description\": \"Preço do combo com 10% de desconto\"\n          },\n          \"justificativa\": {\n            \"type\": \"string\",\n            \"description\": \"Explicaçêo baseada nos dados de vendas\"\n          }\n        },\n        \"required\": [\"nome\", \"itens\", \"precoOriginal\", \"precoCombo\", \"justificativa\"]\n      }\n    },\n    \"semSugestoes\": {\n      \"type\": \"boolean\",\n      \"description\": \"True se nêo há dados suficientes para sugestões\"\n    }\n  },\n  \"required\": [\"combos\"]\n}"
       },
       "id": "f6a7b8c9-d012-3456-fabc-345678901207",
       "name": "Structured Output Parser",
@@ -156,7 +156,7 @@
     },
     {
       "parameters": {
-        "content": "## 🤖 Configuração da IA\n\n**Modelo:** GPT-4 Mini via OpenRouter\n**Temperatura:** 0.7 (criatividade balanceada)\n\n**Saída Estruturada:**\n- Array de combos sugeridos\n- Cada combo com nome, itens, preços e justificativa\n- Flag para casos sem dados suficientes",
+        "content": "## 🤖 Configuraçêo da IA\n\n**Modelo:** GPT-4 Mini via OpenRouter\n**Temperatura:** 0.7 (criatividade balanceada)\n\n**Saída Estruturada:**\n- Array de combos sugeridos\n- Cada combo com nome, itens, preços e justificativa\n- Flag para casos sem dados suficientes",
         "color": 6
       },
       "id": "note4-5678-9012-fabc-345678901208",
@@ -201,7 +201,7 @@
     },
     {
       "parameters": {
-        "jsCode": "const combos = $json.combos || [];\nconst mensagens = [];\n\ncombos.forEach((combo, index) => {\n  const mensagem = `📊 *Sugestão de Combo Novo!*\n\nNome: ${combo.nome}\nItens: ${combo.itens.join(', ')}\nPreço original: R$ ${combo.precoOriginal.toFixed(2)}\nPreço sugerido: R$ ${combo.precoCombo.toFixed(2)}\nMotivo: ${combo.justificativa}\n\nDeseja cadastrar este combo no sistema? ✅`;\n  \n  mensagens.push({\n    json: {\n      mensagem: mensagem,\n      combo: combo,\n      dataHora: new Date().toISOString()\n    }\n  });\n});\n\nreturn mensagens;"
+        "jsCode": "const combos = $json.combos || [];\nconst mensagens = [];\n\ncombos.forEach((combo, index) => {\n  const mensagem = `📊 *Sugestêo de Combo Novo!*\n\nNome: ${combo.nome}\nItens: ${combo.itens.join(', ')}\nPreço original: R$ ${combo.precoOriginal.toFixed(2)}\nPreço sugerido: R$ ${combo.precoCombo.toFixed(2)}\nMotivo: ${combo.justificativa}\n\nDeseja cadastrar este combo no sistema? ✅`;\n  \n  mensagens.push({\n    json: {\n      mensagem: mensagem,\n      combo: combo,\n      dataHora: new Date().toISOString()\n    }\n  });\n});\n\nreturn mensagens;"
       },
       "id": "b8c9d0e1-f234-5678-bcde-567890123410",
       "name": "Formatar Mensagens Telegram",
@@ -243,7 +243,7 @@
     },
     {
       "parameters": {
-        "content": "## 💬 Formatação Telegram\n\n**Mensagem de Sucesso:**\n- Formatação Markdown\n- Emojis para melhor visualização\n- Informações claras do combo\n- Call-to-action para cadastro\n\n**Mensagem de Falha:**\n- Aviso simples quando não há dados suficientes"
+        "content": "## 💬 Formataçêo Telegram\n\n**Mensagem de Sucesso:**\n- Formataçêo Markdown\n- Emojis para melhor visualizaçêo\n- Informações claras do combo\n- Call-to-action para cadastro\n\n**Mensagem de Falha:**\n- Aviso simples quando nêo há dados suficientes"
       },
       "id": "note5-6789-0123-cdef-678901234512",
       "name": "Sticky Note 5",
@@ -314,7 +314,7 @@
     },
     {
       "parameters": {
-        "content": "## 📝 Registro de Logs\n\n**Aba \"Sugestões\" deve conter:**\n- Data/Hora da análise\n- Nome do Combo sugerido\n- Itens incluídos\n- Preço original e com desconto\n- Justificativa da sugestão\n- Status (Sugerido/Sem Dados)\n\n**Importante:** Criar a aba se não existir",
+        "content": "## 📝 Registro de Logs\n\n**Aba \"Sugestões\" deve conter:**\n- Data/Hora da análise\n- Nome do Combo sugerido\n- Itens incluídos\n- Preço original e com desconto\n- Justificativa da sugestêo\n- Status (Sugerido/Sem Dados)\n\n**Importante:** Criar a aba se nêo existir",
         "color": 2
       },
       "id": "note6-7890-1234-efab-890123456715",
@@ -339,7 +339,7 @@
     },
     {
       "parameters": {
-        "content": "## ⚠️ CONFIGURAÇÃO OBRIGATÓRIA\n\n**Antes de executar:**\n\n1. **Google Sheets ID:**\n   - Abra sua planilha no Google Sheets\n   - Copie o ID da URL (entre /d/ e /edit)\n   - Cole no nó \"Configurar Variáveis\"\n\n2. **Telegram Chat ID:**\n   - Obtenha o ID do chat/canal\n   - Cole no nó \"Configurar Variáveis\"\n\n3. **Credenciais:**\n   - Configure Google OAuth2\n   - Configure Telegram Bot Token\n   - Configure OpenRouter API Key",
+        "content": "## ⚠️ CONFIGURAÇêO OBRIGATÓRIA\n\n**Antes de executar:**\n\n1. **Google Sheets ID:**\n   - Abra sua planilha no Google Sheets\n   - Copie o ID da URL (entre /d/ e /edit)\n   - Cole no nó \"Configurar Variáveis\"\n\n2. **Telegram Chat ID:**\n   - Obtenha o ID do chat/canal\n   - Cole no nó \"Configurar Variáveis\"\n\n3. **Credenciais:**\n   - Configure Google OAuth2\n   - Configure Telegram Bot Token\n   - Configure OpenRouter API Key",
         "height": 280,
         "color": 7
       },

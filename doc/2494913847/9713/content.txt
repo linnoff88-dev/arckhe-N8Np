@@ -17,7 +17,7 @@ Aqui está o **passo a passo completo** para criar uma ferramenta gratuita de **
 
 ---
 
-### 1. **Preparação do ambiente**
+### 1. **Preparaçêo do ambiente**
 
 * Instale o **Docker Desktop** no seu PC/Mac.
 * No terminal, configure seu ambiente com a imagem que tenha o `ffmpeg` e `yt-dlp`.
@@ -48,7 +48,7 @@ Aqui está o **passo a passo completo** para criar uma ferramenta gratuita de **
 
 ---
 
-### 4. **Extração do áudio**
+### 4. **Extraçêo do áudio**
 
 * Use o `ffmpeg` para extrair o **áudio do podcast** como `.mp3`.
 
@@ -56,7 +56,7 @@ Aqui está o **passo a passo completo** para criar uma ferramenta gratuita de **
 
 ---
 
-### 5. **Transcrição com Whisper (OpenAI)**
+### 5. **Transcriçêo com Whisper (OpenAI)**
 
 * Crie um nó HTTP Request para **enviar o áudio para o Whisper API**:
 
@@ -66,17 +66,17 @@ Aqui está o **passo a passo completo** para criar uma ferramenta gratuita de **
 
 ---
 
-### 6. **Identificação de trechos relevantes**
+### 6. **Identificaçêo de trechos relevantes**
 
-* Envie o resultado da transcrição para um **nó de IA (ChatGPT ou Claude)** com este prompt:
+* Envie o resultado da transcriçêo para um **nó de IA (ChatGPT ou Claude)** com este prompt:
 
-```"Analise a transcrição e extraia os melhores momentos com base em impacto emocional, valor informacional e clareza."```
+```"Analise a transcriçêo e extraia os melhores momentos com base em impacto emocional, valor informacional e clareza."```
 
 * Gere um array com os timestamps (start, end) de cada clipe.
 
 ---
 
-### 7. **Edição automática com FFmpeg**
+### 7. **Ediçêo automática com FFmpeg**
 
 * Crie uma lista `.txt` com os trechos marcados.
 * Use o `ffmpeg` para unir os segmentos:
@@ -97,7 +97,7 @@ Aqui está o **passo a passo completo** para criar uma ferramenta gratuita de **
 
 ---
 
-### 9. **Geração de título e legenda para Shorts**
+### 9. **Geraçêo de título e legenda para Shorts**
 
 * Use IA com o prompt:
 
@@ -105,11 +105,11 @@ Aqui está o **passo a passo completo** para criar uma ferramenta gratuita de **
 
 ---
 
-### 10. **Atualização da planilha no Google Sheets**
+### 10. **Atualizaçêo da planilha no Google Sheets**
 
 * Crie uma aba com colunas:
 
-  * Título, Legenda, URL do vídeo, Status de publicação
+  * Título, Legenda, URL do vídeo, Status de publicaçêo
 * Conecte com o Google Sheets e salve os dados.
 
 ---
@@ -146,60 +146,60 @@ Data: 2025-06-15T03:46:36+00:00
 Texto:
 Resumo completo do conteúdo:
 
-Foi apresentado um sistema completo para criar automaticamente vídeos curtos a partir de conteúdos mais longos, usando n8n rodando em um ambiente local com Docker. O objetivo principal é gerar clipes de vídeos com trechos relevantes, com transcrição automática, títulos atrativos e upload direto no YouTube, economizando custos com serviços externos.
+Foi apresentado um sistema completo para criar automaticamente vídeos curtos a partir de conteúdos mais longos, usando n8n rodando em um ambiente local com Docker. O objetivo principal é gerar clipes de vídeos com trechos relevantes, com transcriçêo automática, títulos atrativos e upload direto no YouTube, economizando custos com serviços externos.
 
 **Resumo por tópicos com exemplos e respostas:**
 
-1. **Preparação do ambiente local com Docker:**
+1. **Preparaçêo do ambiente local com Docker:**
 
-   * Instalação do Docker Desktop.
+   * Instalaçêo do Docker Desktop.
    * Uso de imagem personalizada com bibliotecas como FFmpeg instaladas.
    * Dois cenários: iniciando do zero ou já com n8n instalado.
 
 2. **Entrada de dados:**
 
    * O fluxo começa com links de vídeos do YouTube (podcast, gameplay e música de fundo).
-   * Extração dos IDs e download local dos arquivos MP4 e MP3 com `yt-dlp`.
+   * Extraçêo dos IDs e download local dos arquivos MP4 e MP3 com `yt-dlp`.
 
 3. **Processamento dos vídeos:**
 
-   * Conversão dos arquivos para os formatos necessários.
-   * Separação dos áudios (ex: podcast em MP3) usando FFmpeg.
+   * Conversêo dos arquivos para os formatos necessários.
+   * Separaçêo dos áudios (ex: podcast em MP3) usando FFmpeg.
 
-4. **Transcrição com OpenAI Whisper:**
+4. **Transcriçêo com OpenAI Whisper:**
 
    * Leitura do áudio.
    * Envio para a API do Whisper.
    * Retorno com os timestamps das falas transcritas.
 
-5. **Identificação de trechos relevantes:**
+5. **Identificaçêo de trechos relevantes:**
 
-   * Uso de IA para analisar a transcrição.
-   * Extração de trechos com maior impacto emocional, valor informacional ou falas importantes.
-   * Geração de segmentos de vídeo com base nos timestamps.
+   * Uso de IA para analisar a transcriçêo.
+   * Extraçêo de trechos com maior impacto emocional, valor informacional ou falas importantes.
+   * Geraçêo de segmentos de vídeo com base nos timestamps.
 
-6. **Edição automática do vídeo:**
+6. **Ediçêo automática do vídeo:**
 
-   * União dos segmentos com FFmpeg em um único clipe.
-   * Criação de lista.txt com trechos a serem concatenados.
-   * Geração do clipe final.
+   * Uniêo dos segmentos com FFmpeg em um único clipe.
+   * Criaçêo de lista.txt com trechos a serem concatenados.
+   * Geraçêo do clipe final.
 
 7. **Upload para o Google Cloud e YouTube:**
 
    * Upload dos arquivos (vídeo, áudio, música) para Google Cloud Storage.
    * Uso da API do YouTube para envio automático dos vídeos.
-   * Configurações como título, descrição, status (público/privado).
+   * Configurações como título, descriçêo, status (público/privado).
 
-8. **Criação automática de título e legenda:**
+8. **Criaçêo automática de título e legenda:**
 
    * Prompt com instruções para gerar título com emojis e legenda curta.
    * Uso de estrutura JSON no retorno.
    * Salvamento dos dados em uma planilha do Google Sheets.
 
-9. **Automação e agendamento:**
+9. **Automaçêo e agendamento:**
 
    * Trigger de tempo configurável (ex: a cada 24h).
-   * Verificação da planilha para novos conteúdos a publicar.
+   * Verificaçêo da planilha para novos conteúdos a publicar.
    * Upload automático via HTTP request com OAuth configurado.
 
 

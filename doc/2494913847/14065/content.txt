@@ -59,19 +59,19 @@ Título: Build an AI Agent, Win \$10,000 \[Agentic Arena]
 
 Resumo:
 
-O vídeo mostra a primeira competição mundial em formato de “game show” entre criadores de agentes de IA no N-A-N (Nodend Automation Network). Dois YouTubers, Nate e Jack, disputam em duas rodadas para ganhar um prêmio de 10 mil dólares e o troféu do Agentic Arena.
+O vídeo mostra a primeira competiçêo mundial em formato de “game show” entre criadores de agentes de IA no N-A-N (Nodend Automation Network). Dois YouTubers, Nate e Jack, disputam em duas rodadas para ganhar um prêmio de 10 mil dólares e o troféu do Agentic Arena.
 
-1. Apresentação
+1. Apresentaçêo
 
-* O apresentador introduz os competidores Nate (YouTuber de automações com 330k inscritos) e Jack (criador de agência de automação e educador em YouTube).
-* Ambos têm cerca de 1 ano de experiência em construção de agentes com N-A-N.
+* O apresentador introduz os competidores Nate (YouTuber de automações com 330k inscritos) e Jack (criador de agência de automaçêo e educador em YouTube).
+* Ambos têm cerca de 1 ano de experiência em construçêo de agentes com N-A-N.
 * O jurado é o “Dr. Pure Eval”, responsável por testar e avaliar os fluxos criados.
 
-2. Regras da Competição
+2. Regras da Competiçêo
 
-* São duas rodadas (desafios).
+* Sêo duas rodadas (desafios).
 * Cada jogador tem “power-ups” limitados, podendo usar apenas 5 vezes assistência de IA (Claude ou GPT) para pedir ajuda.
-* Avaliação é feita com base em precisão, velocidade e eficácia dos agentes.
+* Avaliaçêo é feita com base em precisêo, velocidade e eficácia dos agentes.
 
 3. Desafio 1 – Bot de Perguntas e Respostas (RAG)
 
@@ -89,7 +89,7 @@ O vídeo mostra a primeira competição mundial em formato de “game show” en
 * Objetivo: criar workflow que permita a um robô responder perguntas triviais e avançar até a linha de chegada.
 * Estratégias:
   • Nate prioriza velocidade, usando Gemini Flash.
-  • Jack cria um “complexity agent” que classifica perguntas e usa dois fluxos em série (classificação + pesquisa com Tavly).
+  • Jack cria um “complexity agent” que classifica perguntas e usa dois fluxos em série (classificaçêo + pesquisa com Tavly).
 * Testes:
   • Robô responde perguntas sobre CEOs, curiosidades e leis da robótica.
   • Alguns erros intencionais causam “smackdowns” no robô.
@@ -99,17 +99,17 @@ O vídeo mostra a primeira competição mundial em formato de “game show” en
 
 5. Resultado Final
 
-* Pontuação final:
+* Pontuaçêo final:
   • Jack: 36 pontos.
   • Nate: 42 pontos.
 * Vencedor do Agentic Arena: Nate.
 * Ele doa o prêmio de 10 mil dólares para instituições ligadas ao diabetes tipo 1, causa que o afeta pessoalmente.
-* A empresa N-A-N decide dobrar a doação, totalizando 20 mil dólares.
+* A empresa N-A-N decide dobrar a doaçêo, totalizando 20 mil dólares.
 
-6. Conclusão
+6. Conclusêo
 
 * O evento é uma mistura de show de entretenimento com prática técnica em automações.
-* Demonstra na prática os desafios de construção de agentes, erros comuns (como credenciais e vetorização), e diferentes estratégias (velocidade vs. complexidade).
+* Demonstra na prática os desafios de construçêo de agentes, erros comuns (como credenciais e vetorizaçêo), e diferentes estratégias (velocidade vs. complexidade).
 * Incentiva a comunidade a participar em futuras competições.
 
 ------------------------------

@@ -58,27 +58,27 @@ A ideia é tratar o *prompt* como um **roteiro de comportamento** do agente.
 
 ### Estrutura sugerida no vídeo:
 
-| Seção                          | Função                                                                                                                                                                                              |
+| Seçêo                          | Funçêo                                                                                                                                                                                              |
 | ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Título e propósito**         | Define quem é o agente e o que ele faz (ex: “Você é um assistente de agendamento para a empresa Green Grass.”)                                                                                      |
 | **Identidade e papel**         | Contextualiza a empresa, o tipo de cliente e o objetivo da conversa.                                                                                                                                |
 | **Personalidade e tom de voz** | Define se o agente é amigável, profissional, empático etc.                                                                                                                                          |
 | **Fluxo de conversa**          | Descreve passo a passo como reagir em diferentes situações. Exemplo: <br>– Se o cliente quer agendar → pedir nome, e-mail e data. <br>– Se menciona cancelamento → seguir política de cancelamento. |
-| **Regras e restrições**        | O que o agente *não deve fazer* (ex: “Nunca invente informações.”, “Sempre confirme o e-mail antes de finalizar.”).                                                                                 |
+| **Regras e restrições**        | O que o agente *nêo deve fazer* (ex: “Nunca invente informações.”, “Sempre confirme o e-mail antes de finalizar.”).                                                                                 |
 | **Ferramentas disponíveis**    | Lista e descreve os “tools” que o agente pode usar (ex: “use o tool *check_availability* para ver horários livres”).                                                                                |
 | **Notas adicionais**           | Contexto técnico (fuso horário, formato de data, etc.).                                                                                                                                             |
 
 ---
 
-## 🧠 2. Técnica Central: **Iteração Guiada por Feedback**
+## 🧠 2. Técnica Central: **Iteraçêo Guiada por Feedback**
 
-Ele enfatiza fortemente que **não existe prompt perfeito na primeira tentativa**.
+Ele enfatiza fortemente que **nêo existe prompt perfeito na primeira tentativa**.
 O processo que ele usa é cíclico:
 
-1. 🧱 **Crie uma primeira versão básica** — pode até gerar um rascunho com ChatGPT.
+1. 🧱 **Crie uma primeira versêo básica** — pode até gerar um rascunho com ChatGPT.
 2. 🧪 **Teste o agente em conversas reais** (simulações no dashboard do Vapi).
 3. 🧾 **Observe falhas e comportamentos ruins** — respostas incorretas, repetições, falta de contexto, tom errado, etc.
-4. ✍️ **Anote o que funcionou e o que não funcionou**.
+4. ✍️ **Anote o que funcionou e o que nêo funcionou**.
 5. 🔁 **Volte ao ChatGPT e diga:**
 
    > “Eu testei esse prompt e ele respondeu X quando deveria responder Y.
@@ -136,16 +136,16 @@ e Créditos
 
 ---
 
-## 📚 Conclusão
+## 📚 Conclusêo
 
-O vídeo mostra o ciclo completo de criação de um voice agent:
+O vídeo mostra o ciclo completo de criaçêo de um voice agent:
 
-1. Compreensão dos conceitos;
-2. Criação no Vapi;
-3. Integração com N8N;
+1. Compreensêo dos conceitos;
+2. Criaçêo no Vapi;
+3. Integraçêo com N8N;
 4. Testes e ajustes;
-5. Automação de relatórios;
-6. (Opcional) Conexão com número de telefone.
+5. Automaçêo de relatórios;
+6. (Opcional) Conexêo com número de telefone.
 
 O criador ainda convida os interessados a entrarem em sua **comunidade paga**, que oferece:
 
@@ -157,12 +157,12 @@ O criador ainda convida os interessados a entrarem em sua **comunidade paga**, q
 
 ## 🧾 Resumo Final
 
-| Tema                       | Descrição                                                                  |
+| Tema                       | Descriçêo                                                                  |
 | -------------------------- | -------------------------------------------------------------------------- |
-| **Plataformas**            | Vapi (criação de agentes de voz) + N8N (automação)                         |
+| **Plataformas**            | Vapi (criaçêo de agentes de voz) + N8N (automaçêo)                         |
 | **Componentes principais** | STT, LLM, TTS, Prompt, Voz, Ferramentas                                    |
 | **Casos de uso**           | Suporte, agendamento, vendas, lembretes                                    |
-| **Destaque técnico**       | Integração com Google Calendar, Sheets e e-mails                           |
+| **Destaque técnico**       | Integraçêo com Google Calendar, Sheets e e-mails                           |
 | **Modelo de negócio**      | Pay-as-you-go com créditos iniciais grátis                                 |
 | **Mensagem final**         | Comece agora, teste e refine — o mercado de voice agents explodirá em 2026 |
 
@@ -172,7 +172,7 @@ MENSAGEM 7
 Autor: INEMA
 Data: 2025-11-08T05:32:12+00:00
 Texto:
-## 🧠 Visão Geral
+## 🧠 Visêo Geral
 
 O vídeo ensina **como criar do zero um agente de voz com IA**, mostrando o uso prático das plataformas **Vapi (Vappy)** e **N8N (Nadn)**. O objetivo é que, ao final, o espectador entenda:
 
@@ -182,7 +182,7 @@ O vídeo ensina **como criar do zero um agente de voz com IA**, mostrando o uso 
 
 ---
 
-## 🔍 O que são Voice Agents?
+## 🔍 O que sêo Voice Agents?
 
 Um **voice agent** é um assistente virtual que **interage por voz** em tempo real, via telefone ou site.
 Difere de um chatbot por **usar fala e áudio**, mas internamente funciona igual:
@@ -206,10 +206,10 @@ Exemplo: um agente de clínica odontológica pode verificar e criar eventos no G
 
 ---
 
-## 🔗 Integração com N8N
+## 🔗 Integraçêo com N8N
 
-O **N8N** é uma plataforma de automação visual (no-code).
-Com ela, o Vapi pode **acionar fluxos de automação** para:
+O **N8N** é uma plataforma de automaçêo visual (no-code).
+Com ela, o Vapi pode **acionar fluxos de automaçêo** para:
 
 * Criar agendamentos,
 * Buscar informações de clientes,
@@ -217,7 +217,7 @@ Com ela, o Vapi pode **acionar fluxos de automação** para:
 * Processar pagamentos,
 * Gerar relatórios.
 
-Essa união amplia as capacidades do agente, conectando-o a qualquer API ou serviço.
+Essa uniêo amplia as capacidades do agente, conectando-o a qualquer API ou serviço.
 
 ---
 
@@ -233,11 +233,11 @@ Essa união amplia as capacidades do agente, conectando-o a qualquer API ou serv
 
 ### 1. Estrutura do painel
 
-O dashboard mostra métricas (duração média, custos, número de chamadas).
-As duas seções principais são:
+O dashboard mostra métricas (duraçêo média, custos, número de chamadas).
+As duas seções principais sêo:
 
-* **Assistants**: criação e gestão de agentes;
-* **Tools**: criação de ferramentas usadas pelos agentes.
+* **Assistants**: criaçêo e gestêo de agentes;
+* **Tools**: criaçêo de ferramentas usadas pelos agentes.
 
 ### 2. Criando o primeiro agente
 
@@ -266,21 +266,21 @@ As duas seções principais são:
 Criou um agente para uma empresa de estética automotiva:
 
 * **Ferramentas:** verificar disponibilidade e criar eventos no Google Calendar;
-* Configurou timezone e conexão com Google;
+* Configurou timezone e conexêo com Google;
 * Criou o **System Prompt** detalhando como e quando usar cada ferramenta;
-* Testou reservas reais (o agente agendou corretamente e enviou e-mail de confirmação).
+* Testou reservas reais (o agente agendou corretamente e enviou e-mail de confirmaçêo).
 
 ---
 
-## 📊 Automação de Relatórios de Chamadas (via N8N)
+## 📊 Automaçêo de Relatórios de Chamadas (via N8N)
 
-Após cada ligação, o Vapi envia:
+Após cada ligaçêo, o Vapi envia:
 
 * **Resumo da chamada**;
 * **Dados estruturados** (e-mail, tipo de serviço, data/hora);
   para um **webhook do N8N**.
 
-O N8N, então:
+O N8N, entêo:
 
 * Registra o log em uma **planilha do Google Sheets**;
 * Envia um **e-mail automático** com o resumo da chamada.

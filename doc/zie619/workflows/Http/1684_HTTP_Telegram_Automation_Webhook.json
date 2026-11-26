@@ -55,7 +55,7 @@
         260
       ],
       "parameters": {
-        "jsCode": "// O valor vem como um array com uma string, então precisamos pegar o primeiro item do array\nconst rawUrl = $json.choices[0].text;\n\n// Remover colchetes e aspas (se existirem) e pegar o primeiro elemento do array\nconst imageUrl = JSON.parse(rawUrl)[0];\n\nreturn {\n json: {\n imageUrl: imageUrl\n }\n};"
+        "jsCode": "// O valor vem como um array com uma string, entêo precisamos pegar o primeiro item do array\nconst rawUrl = $json.choices[0].text;\n\n// Remover colchetes e aspas (se existirem) e pegar o primeiro elemento do array\nconst imageUrl = JSON.parse(rawUrl)[0];\n\nreturn {\n json: {\n imageUrl: imageUrl\n }\n};"
       },
       "notesInFlow": true,
       "typeVersion": 2

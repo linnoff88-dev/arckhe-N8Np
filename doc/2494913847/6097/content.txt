@@ -15,51 +15,51 @@ Data: 2025-04-22T03:37:58+00:00
 Texto:
 **Resumo do vídeo "Sell this AI Client Intelligence System for $500/mo"**
 
-O criador do vídeo ensina passo a passo como montar um sistema completo de inteligência de clientes com IA, usando ferramentas como n8n, Firecrawl, Pinecone, Airtable, Fireflies e Google Drive. O sistema é voltado para empresas que desejam economizar tempo com tarefas repetitivas como leitura de e-mails, pesquisa em sites e organização de reuniões. Também pode ser vendido como serviço por até US$ 500/mês.
+O criador do vídeo ensina passo a passo como montar um sistema completo de inteligência de clientes com IA, usando ferramentas como n8n, Firecrawl, Pinecone, Airtable, Fireflies e Google Drive. O sistema é voltado para empresas que desejam economizar tempo com tarefas repetitivas como leitura de e-mails, pesquisa em sites e organizaçêo de reuniões. Também pode ser vendido como serviço por até US$ 500/mês.
 
 **Resumo por tópicos com exemplos e respostas:**
 
 1. **Objetivo do Sistema**
-   - Automatizar a coleta, organização e recuperação de dados de clientes (e-mails, reuniões, sites).
+   - Automatizar a coleta, organizaçêo e recuperaçêo de dados de clientes (e-mails, reuniões, sites).
    - Pode ser usado internamente ou vendido como serviço SaaS.
 
 2. **Funcionalidades**
    - **Firecrawl**: permite conversar com sites em tempo real e buscar dados específicos (ex: “qual o café mais barato?”).
    - **Gmail + Fireflies**: acessa todos os e-mails e transcrições de reuniões do cliente.
-   - **Vetorização (RAG)**: transforma esses dados em memória estruturada para consulta rápida por IA.
+   - **Vetorizaçêo (RAG)**: transforma esses dados em memória estruturada para consulta rápida por IA.
    - **Chat com IA (OpenAI)**: permite perguntar qualquer coisa sobre o cliente e receber resposta baseada nos dados armazenados.
 
 3. **Ferramentas Usadas**
-   - n8n (plataforma de automação)
+   - n8n (plataforma de automaçêo)
    - Firecrawl (scraper inteligente com chat)
    - Airtable (CRM para dados dos clientes)
    - Pinecone (banco vetorial para RAG)
-   - Fireflies (transcrição de reuniões)
-   - Google Drive + Docs (armazenamento e geração de documentos)
+   - Fireflies (transcriçêo de reuniões)
+   - Google Drive + Docs (armazenamento e geraçêo de documentos)
 
 4. **Exemplo Prático**
    - E-mail recebido com a frase “o CEO ama a cor rosa”.
    - O sistema armazena esse e-mail, vetoriza e permite que, dias depois, ao perguntar “qual a cor favorita do CEO?”, o agente responde “rosa” com base no RAG.
 
-5. **Automação de reuniões**
-   - Transcrições completas são salvas automaticamente após cada call com cliente.
-   - Essas transcrições são transformadas em documentos e vetorizadas.
+5. **Automaçêo de reuniões**
+   - Transcrições completas sêo salvas automaticamente após cada call com cliente.
+   - Essas transcrições sêo transformadas em documentos e vetorizadas.
 
 6. **Componentes Técnicos do Fluxo**
-   - Gatilho de e-mail → Filtragem inteligente → Criação de documento → Vetorização no Pinecone
+   - Gatilho de e-mail → Filtragem inteligente → Criaçêo de documento → Vetorizaçêo no Pinecone
    - Chat IA consulta: memória (RAG), depois Airtable, e por último faz scraping com Firecrawl.
 
 7. **Diferenciais**
    - O agente entende contexto, conversa com base em memória e aprende automaticamente.
    - Pode ser adaptado para diversos usos empresariais.
-   - Possui sistema de fallback se não encontrar a resposta nos dados internos.
+   - Possui sistema de fallback se nêo encontrar a resposta nos dados internos.
 
 8. **Dificuldade**
    - Classificado como fácil a médio, mesmo para quem nunca programou.
-   - Uso intensivo de n8n com subagentes, loops de verificação e APIs externas.
+   - Uso intensivo de n8n com subagentes, loops de verificaçêo e APIs externas.
 
 9. **Vantagem comercial**
-   - Pode ser vendido como solução white-label por US$ 500/mês.
+   - Pode ser vendido como soluçêo white-label por US$ 500/mês.
    - Ideal como lead magnet ou serviço principal de consultoria em IA.
 
 10. **Link do vídeo**

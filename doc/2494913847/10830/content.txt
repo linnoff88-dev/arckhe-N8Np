@@ -25,7 +25,7 @@ Texto:
 **Hacks e Dicas Práticas para RAG no n8n**
 
 1. **Aumente o número de chunks buscados**
-   Defina o limite do Supabase Vector Store para 20 ou mais. Mais chunks = mais opções para o reranker escolher, aumentando a precisão.
+   Defina o limite do Supabase Vector Store para 20 ou mais. Mais chunks = mais opções para o reranker escolher, aumentando a precisêo.
 
 2. **Filtragem dinâmica por metadados**
    Crie um nó de IA antes do Vector Store que entende a pergunta e monta automaticamente o filtro de metadados, deixando o agente “inteligente” para buscar só o que interessa.
@@ -36,11 +36,11 @@ Texto:
 4. **Metadados ricos**
    Sempre que possível, adicione mais campos aos metadados: datas, autores, categorias, IDs, etc. Isso facilita buscas avançadas no futuro.
 
-5. **Automatize extração de metadados**
+5. **Automatize extraçêo de metadados**
    Use IA para analisar PDFs e gerar campos como “capítulos”, “seções”, “tópicos” automaticamente, facilitando segmentações e buscas específicas.
 
 6. **Use templates prontos**
-   Importe workflows e exemplos de comunidades como a Free School Community do vídeo, para não perder tempo do zero.
+   Importe workflows e exemplos de comunidades como a Free School Community do vídeo, para nêo perder tempo do zero.
 
 7. **Salve logs detalhados**
    Ative logs de todos os passos do agente para identificar facilmente onde a busca falha ou acerta e ajustar os filtros/metadados.
@@ -52,7 +52,7 @@ Texto:
    Para perguntas amplas (“explique regras 1 a 10”), divida a consulta em várias, uma para cada metadado, e junte as respostas no final.
 
 10. **Aproveite funções condicionais**
-    Combine filtros por metadado + score + condição de fallback (ex: se não encontrar nada relevante, faça nova busca mais ampla).
+    Combine filtros por metadado + score + condiçêo de fallback (ex: se nêo encontrar nada relevante, faça nova busca mais ampla).
 
 ------------------------------
 
@@ -72,26 +72,26 @@ Texto:
 
 1. **Pré-requisitos**
 
-   * n8n na versão 1.98 ou superior.
+   * n8n na versêo 1.98 ou superior.
    * Conta e banco vetorial criado no Supabase.
    * Chave de API da Cohere (para reranker).
 
 2. **Fluxo Básico**
 
    * Estruture um fluxo no n8n conectando seu chatbot (pode ser ChatGPT ou outro modelo), Supabase e RAG Agents.
-   * Garanta que já está fazendo a vetorização dos seus documentos no Supabase.
+   * Garanta que já está fazendo a vetorizaçêo dos seus documentos no Supabase.
 
 3. **Adicionando Metadados**
 
    * Ao dividir seus documentos em chunks para enviar ao Supabase, adicione campos extras (metadados) relevantes, como:
 
      * “número\_da\_regra”, “data”, “nome\_do\_projeto”, etc.
-   * No nó de vetorização (Default Data Loader), use a opção de adicionar metadados: insira os campos desejados para cada chunk.
+   * No nó de vetorizaçêo (Default Data Loader), use a opçêo de adicionar metadados: insira os campos desejados para cada chunk.
 
 4. **Configurando o Reranker**
 
    * No nó do Supabase Vector Store, aumente o número de chunks retornados (ex: 20).
-   * Ative a opção de reranking e selecione “Cohere” como reranker.
+   * Ative a opçêo de reranking e selecione “Cohere” como reranker.
    * Insira sua chave de API Cohere e selecione o modelo (ex: v3.5).
    * O n8n buscará 20 chunks, reranqueará e devolverá apenas os mais relevantes (ex: top 3).
 
@@ -118,7 +118,7 @@ Texto:
 
 **Resumo dos principais nós no fluxo:**
 
-* Loader de documento → Divisão em chunks + metadados
+* Loader de documento → Divisêo em chunks + metadados
 * Supabase Vector Store (com reranker e filtros de metadados)
 * RAG Agent → Modelo de IA (ChatGPT, Gemini, etc.)
 * Resposta ao usuário
@@ -149,31 +149,31 @@ Texto:
 1. **O que mudou no novo RAG do n8n**
 
    * O RAG tradicional só trazia os “vetores” mais próximos da pergunta, nem sempre os mais relevantes.
-   * Agora, com o reranker, ele busca vários resultados, avalia quais realmente são relevantes, e só entrega os melhores para o agente de IA.
+   * Agora, com o reranker, ele busca vários resultados, avalia quais realmente sêo relevantes, e só entrega os melhores para o agente de IA.
    * Isso torna as respostas muito mais precisas e inteligentes.
 
 2. **Como funciona a busca e o reranking**
 
    * Quando você faz uma pergunta, ela vira um vetor.
    * O sistema busca os “chunks” (pedaços de texto) mais próximos no banco vetorial (por exemplo, Supabase).
-   * Com o reranker ativado, em vez de pegar só 3 ou 4, ele pode buscar 20, analisar todos e entregar os 3 mais relevantes com uma pontuação.
+   * Com o reranker ativado, em vez de pegar só 3 ou 4, ele pode buscar 20, analisar todos e entregar os 3 mais relevantes com uma pontuaçêo.
    * Exemplo prático: Perguntando sobre a ordem de jogo no golfe, o reranker avalia 20 trechos e retorna os 3 mais relevantes para a resposta.
 
 3. **Por que o reranker faz diferença**
 
    * Sem reranker: O sistema pode retornar pedaços de texto pouco relacionados à sua pergunta.
    * Com reranker: Ele só traz o que realmente importa, reduzindo erros e respostas fora de contexto.
-   * É possível até filtrar por uma pontuação mínima de relevância.
+   * É possível até filtrar por uma pontuaçêo mínima de relevância.
 
 4. **Uso de metadados para filtragem**
 
-   * Metadados são informações extras associadas a cada trecho, como número da regra, data, nome do projeto, etc.
+   * Metadados sêo informações extras associadas a cada trecho, como número da regra, data, nome do projeto, etc.
    * Ao buscar, o agente pode filtrar por esses metadados para trazer resultados ainda mais precisos.
-   * Exemplo: Buscar apenas as regras de número 27, mesmo que o texto do chunk não cite “regra 27”.
+   * Exemplo: Buscar apenas as regras de número 27, mesmo que o texto do chunk nêo cite “regra 27”.
 
-5. **Como adicionar metadados na vetorização**
+5. **Como adicionar metadados na vetorizaçêo**
 
-   * No fluxo de vetorização, ao carregar os dados, você pode adicionar campos como “número da regra”, “data”, “ID”, etc.
+   * No fluxo de vetorizaçêo, ao carregar os dados, você pode adicionar campos como “número da regra”, “data”, “ID”, etc.
    * Exemplo: Ao dividir um PDF de regras de golfe, cada chunk recebe um campo “número da regra”.
 
 6. **Como usar filtros por metadados na busca**
@@ -200,13 +200,13 @@ Texto:
   É uma etapa que reordena os resultados encontrados no banco vetorial, escolhendo os mais relevantes para responder à pergunta.
 
 * **Por que usar metadados?**
-  Para filtrar e encontrar com precisão só as informações que realmente correspondem ao que foi pedido, mesmo quando o texto do chunk não cita isso explicitamente.
+  Para filtrar e encontrar com precisêo só as informações que realmente correspondem ao que foi pedido, mesmo quando o texto do chunk nêo cita isso explicitamente.
 
 * **Como funciona na prática?**
   Você pode adicionar campos como “regra”, “data”, “projeto”, etc., e filtrar a busca usando esses campos, tornando o agente de IA mais eficiente.
 
 * **Como adicionar metadados?**
-  No processo de vetorização (ao dividir e subir os textos), inclua os campos de metadados que desejar.
+  No processo de vetorizaçêo (ao dividir e subir os textos), inclua os campos de metadados que desejar.
 
 * **Como usar filtro por metadados?**
   No node do Supabase Vector Store, adicione o filtro com nome do campo e valor que deseja filtrar (por exemplo, “número da regra = 27”).

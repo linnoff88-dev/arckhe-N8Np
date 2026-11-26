@@ -24,42 +24,42 @@ Texto:
 **j12. Raspagem de Emails Grátis a partir do Google Maps**
 
 ✅ **Objetivo**  
-Criar uma automação gratuita e em larga escala que, a partir do Google Maps, extraia os sites de negócios locais, escaneie essas páginas para encontrar e-mails, limpe e organize os dados, e envie tudo por e-mail.
+Criar uma automaçêo gratuita e em larga escala que, a partir do Google Maps, extraia os sites de negócios locais, escaneie essas páginas para encontrar e-mails, limpe e organize os dados, e envie tudo por e-mail.
 
 🧩 **Estrutura do cenário no N8N**
 
 1. **Formulário de entrada**  
    O usuário informa:
    - Tipo de negócio  
-   - Bairro/localização  
+   - Bairro/localizaçêo  
    - E-mail de contato  
 
    O formulário gera termos de busca combinando tipo de negócio + bairro + cidade.
 
-2. **Bloco 1: Geração dos termos de busca**  
-   A partir das variáveis fornecidas, são geradas URLs no formato:
+2. **Bloco 1: Geraçêo dos termos de busca**  
+   A partir das variáveis fornecidas, sêo geradas URLs no formato:
 
    `[tipo_de_negócio]+[bairro]+[cidade]`
 
    Cria-se uma lista com múltiplas combinações no formato JSON.
 
-3. **Bloco 2: Extração dos sites no Google Maps**  
-   - É feita uma requisição HTTP ao Google Maps.  
+3. **Bloco 2: Extraçêo dos sites no Google Maps**  
+   - É feita uma requisiçêo HTTP ao Google Maps.  
    - O HTML é obtido e filtrado com JavaScript usando regex para capturar apenas os links dos sites.  
-   - São eliminadas URLs irrelevantes como google.com, schema.org, whatsapp etc.  
-   - Os resultados duplicados são removidos com o nó "Remove Duplicates".
+   - Sêo eliminadas URLs irrelevantes como google.com, schema.org, whatsapp etc.  
+   - Os resultados duplicados sêo removidos com o nó "Remove Duplicates".
 
 4. **Bloco 3: Raspagem dos e-mails nas páginas**  
    - Um loop percorre cada site individualmente.  
    - Faz-se o scraping do HTML de cada site e aplica-se regex para extrair e-mails.  
-   - São filtrados e-mails genéricos ou inúteis como centri, wixpress, qdqmedia etc.  
-   - Todos os e-mails são reunidos, divididos (se houver mais de um por site), e os duplicados removidos.
+   - Sêo filtrados e-mails genéricos ou inúteis como centri, wixpress, qdqmedia etc.  
+   - Todos os e-mails sêo reunidos, divididos (se houver mais de um por site), e os duplicados removidos.
 
-5. **Bloco 4: Exportação e envio**  
-   - Os e-mails são exportados para uma planilha no Google Sheets.  
+5. **Bloco 4: Exportaçêo e envio**  
+   - Os e-mails sêo exportados para uma planilha no Google Sheets.  
    - A planilha é baixada como um arquivo .csv.  
    - O arquivo .csv é anexado e enviado ao e-mail informado no formulário.  
-   - Após o envio, as linhas da planilha são apagadas para prepará-la para a próxima execução.
+   - Após o envio, as linhas da planilha sêo apagadas para prepará-la para a próxima execuçêo.
 
 📊 **Resultados**  
 Teste com 10 bairros para “advogados em Barcelona”:
@@ -84,20 +84,20 @@ MENSAGEM 4
 Autor: INEMA
 Data: 2025-04-11T14:42:31+00:00
 Texto:
-Nova Automação: Raspagem de Emails Grátis com N8N 🚀
+Nova Automaçêo: Raspagem de Emails Grátis com N8N 🚀
 
 Automatizar a raspagem de e-mails a partir do Google Maps. 
 
 Transformamos em algo massivo, gratuito e sem uso de 
 APIs... e você já pode usar a partir de hoje 🚀
 
-Essa automação permite:
+Essa automaçêo permite:
 ✅ Capturar sites de negócios no Maps
 ✅ Raspá-los para extrair e-mails
 ✅ Eliminar duplicados, limpar os dados e...
 ✅ Enviar tudo por e-mail em um CSV pronto para uso!
 
-Não estou exagerando ao dizer que em 1 hora consegui extrair 600 e-mails de um nicho ou tipo de negócio específico... 🫣
+Nêo estou exagerando ao dizer que em 1 hora consegui extrair 600 e-mails de um nicho ou tipo de negócio específico... 🫣
 
 Você pode usar isso como isca digital, para vender serviços ou simplesmente como um experimento para coletar informações de sites sem limites. Uma loucura! 🤯
 

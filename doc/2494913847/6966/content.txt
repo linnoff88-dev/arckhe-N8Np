@@ -25,13 +25,13 @@ Texto:
 **Como Eu Construí um Agente de IA para Pesquisar Ideias de Vídeos no YouTube (Sem Código) - YouTube**
 
 Como criar um agente para pesquisar ideias de vídeos no YouTube.  
-Primeiro, foi feita uma demonstração rápida usando um fluxo no **n8n**.  
+Primeiro, foi feita uma demonstraçêo rápida usando um fluxo no **n8n**.  
 
 O sistema busca vídeos de diferentes canais diariamente e salva as estatísticas no **Supabase**.  
 
 As estatísticas incluem: ID do vídeo, número de visualizações, curtidas, favoritos e comentários, registradas diariamente.
 
-### Configuração Inicial:
+### Configuraçêo Inicial:
 - **Contas necessárias**:  
   - Uma conta no **Supabase**  
   - Acesso à **Google Cloud API** para usar a **YouTube Data API v3**
@@ -59,7 +59,7 @@ As estatísticas incluem: ID do vídeo, número de visualizações, curtidas, fa
 
 ### Configurações de Credenciais:
 - **Supabase**:
-  - Criar duas credenciais: uma padrão e outra para ações específicas no banco.
+  - Criar duas credenciais: uma padrêo e outra para ações específicas no banco.
   - Usar URL do projeto e chave secreta de serviço.
 
 - **Google Cloud (YouTube API)**:
@@ -68,7 +68,7 @@ As estatísticas incluem: ID do vídeo, número de visualizações, curtidas, fa
 
 ### Estrutura dos Bancos de Dados no Supabase:
 - **Tabela de Canais (YouTube_statistics_channels)**:
-  - Campos: ID, handle do canal, ID do canal, data de criação.
+  - Campos: ID, handle do canal, ID do canal, data de criaçêo.
   
 - **Tabela de Estatísticas de Vídeos (YouTube_statistics_video_stat)**:
   - Campos: ID, ID do vídeo, visualizações, curtidas, favoritos, comentários, data de registro.
@@ -79,20 +79,20 @@ As estatísticas incluem: ID do vídeo, número de visualizações, curtidas, fa
 ### Principais Etapas dos Workflows:
 
 - **Adicionar novos canais**:
-  - Submissão de formulário com URLs dos canais.
-  - Extração do identificador do canal.
-  - Verificação de canais duplicados.
+  - Submissêo de formulário com URLs dos canais.
+  - Extraçêo do identificador do canal.
+  - Verificaçêo de canais duplicados.
   - Busca de dados dos canais pela API.
   - Armazenamento dos canais no Supabase.
 
 - **Buscar vídeos**:
-  - Gatilho diário para execução.
+  - Gatilho diário para execuçêo.
   - Buscar canais no banco.
   - Buscar vídeos pelo canal usando a API.
   - Processar respostas e inserir no banco de dados.
 
 - **Obter estatísticas dos vídeos**:
-  - Gatilho diário para execução.
+  - Gatilho diário para execuçêo.
   - Selecionar IDs de vídeos no banco.
   - Buscar estatísticas na API do YouTube.
   - Atualizar banco de dados com estatísticas atualizadas.

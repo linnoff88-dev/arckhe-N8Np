@@ -1,5 +1,5 @@
 {
-  "name": "Integração WhatsApp Business API",
+  "name": "Integraçêo WhatsApp Business API",
   "nodes": [
     {
       "parameters": {
@@ -200,7 +200,7 @@
     },
     {
       "parameters": {
-        "jsCode": "// Preparar mensagem para envio via WhatsApp Business API\nconst dados = $json;\n\n// Validar dados obrigatórios\nif (!dados.to || !dados.message) {\n  throw new Error('Campos obrigatórios: to, message');\n}\n\n// Limpar número de telefone (remover caracteres especiais)\nconst numeroLimpo = dados.to.replace(/\\D/g, '');\n\n// Adicionar código do país se não tiver\nlet numeroCompleto = numeroLimpo;\nif (!numeroCompleto.startsWith('55') && numeroCompleto.length === 11) {\n  numeroCompleto = '55' + numeroCompleto;\n}\n\n// Preparar payload para WhatsApp Business API\nconst payload = {\n  messaging_product: 'whatsapp',\n  to: numeroCompleto,\n  type: 'text',\n  text: {\n    body: dados.message\n  }\n};\n\n// Se tiver template, usar template em vez de texto livre\nif (dados.template) {\n  payload.type = 'template';\n  payload.template = {\n    name: dados.template.name,\n    language: {\n      code: dados.template.language || 'pt_BR'\n    }\n  };\n  \n  if (dados.template.parameters) {\n    payload.template.components = [\n      {\n        type: 'body',\n        parameters: dados.template.parameters.map(param => ({\n          type: 'text',\n          text: param\n        }))\n      }\n    ];\n  }\n  \n  delete payload.text;\n}\n\n// Se tiver mídia\nif (dados.media) {\n  payload.type = dados.media.type; // image, video, audio, document\n  payload[dados.media.type] = {\n    link: dados.media.url\n  };\n  \n  if (dados.media.caption) {\n    payload[dados.media.type].caption = dados.media.caption;\n  }\n  \n  delete payload.text;\n}\n\nreturn {\n  json: {\n    payload: payload,\n    numero_original: dados.to,\n    numero_processado: numeroCompleto,\n    tipo_envio: payload.type\n  }\n};"
+        "jsCode": "// Preparar mensagem para envio via WhatsApp Business API\nconst dados = $json;\n\n// Validar dados obrigatórios\nif (!dados.to || !dados.message) {\n  throw new Error('Campos obrigatórios: to, message');\n}\n\n// Limpar número de telefone (remover caracteres especiais)\nconst numeroLimpo = dados.to.replace(/\\D/g, '');\n\n// Adicionar código do país se nêo tiver\nlet numeroCompleto = numeroLimpo;\nif (!numeroCompleto.startsWith('55') && numeroCompleto.length === 11) {\n  numeroCompleto = '55' + numeroCompleto;\n}\n\n// Preparar payload para WhatsApp Business API\nconst payload = {\n  messaging_product: 'whatsapp',\n  to: numeroCompleto,\n  type: 'text',\n  text: {\n    body: dados.message\n  }\n};\n\n// Se tiver template, usar template em vez de texto livre\nif (dados.template) {\n  payload.type = 'template';\n  payload.template = {\n    name: dados.template.name,\n    language: {\n      code: dados.template.language || 'pt_BR'\n    }\n  };\n  \n  if (dados.template.parameters) {\n    payload.template.components = [\n      {\n        type: 'body',\n        parameters: dados.template.parameters.map(param => ({\n          type: 'text',\n          text: param\n        }))\n      }\n    ];\n  }\n  \n  delete payload.text;\n}\n\n// Se tiver mídia\nif (dados.media) {\n  payload.type = dados.media.type; // image, video, audio, document\n  payload[dados.media.type] = {\n    link: dados.media.url\n  };\n  \n  if (dados.media.caption) {\n    payload[dados.media.type].caption = dados.media.caption;\n  }\n  \n  delete payload.text;\n}\n\nreturn {\n  json: {\n    payload: payload,\n    numero_original: dados.to,\n    numero_processado: numeroCompleto,\n    tipo_envio: payload.type\n  }\n};"
       },
       "id": "preparar-envio",
       "name": "Preparar Envio WhatsApp",
@@ -368,7 +368,7 @@
         "options": {}
       },
       "id": "webhook-verificacao",
-      "name": "Webhook Verificação",
+      "name": "Webhook Verificaçêo",
       "type": "n8n-nodes-base.webhook",
       "typeVersion": 1,
       "position": [
@@ -379,10 +379,10 @@
     },
     {
       "parameters": {
-        "jsCode": "// Verificação do webhook do WhatsApp\nconst query = $json.query;\n\n// Verificar se é uma solicitação de verificação\nif (query['hub.mode'] === 'subscribe' && \n    query['hub.verify_token'] === $vars.WHATSAPP_VERIFY_TOKEN) {\n  \n  return {\n    json: {\n      challenge: query['hub.challenge'],\n      verified: true\n    }\n  };\n}\n\nreturn {\n  json: {\n    error: 'Verification failed',\n    received: query\n  }\n};"
+        "jsCode": "// Verificaçêo do webhook do WhatsApp\nconst query = $json.query;\n\n// Verificar se é uma solicitaçêo de verificaçêo\nif (query['hub.mode'] === 'subscribe' && \n    query['hub.verify_token'] === $vars.WHATSAPP_VERIFY_TOKEN) {\n  \n  return {\n    json: {\n      challenge: query['hub.challenge'],\n      verified: true\n    }\n  };\n}\n\nreturn {\n  json: {\n    error: 'Verification failed',\n    received: query\n  }\n};"
       },
       "id": "processar-verificacao",
-      "name": "Processar Verificação",
+      "name": "Processar Verificaçêo",
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
@@ -396,7 +396,7 @@
         "responseBody": "={{ $json.challenge || 'Verification failed' }}"
       },
       "id": "resposta-verificacao",
-      "name": "Resposta Verificação",
+      "name": "Resposta Verificaçêo",
       "type": "n8n-nodes-base.respondToWebhook",
       "typeVersion": 1,
       "position": [
@@ -505,22 +505,22 @@
         ]
       ]
     },
-    "Webhook Verificação": {
+    "Webhook Verificaçêo": {
       "main": [
         [
           {
-            "node": "Processar Verificação",
+            "node": "Processar Verificaçêo",
             "type": "main",
             "index": 0
           }
         ]
       ]
     },
-    "Processar Verificação": {
+    "Processar Verificaçêo": {
       "main": [
         [
           {
-            "node": "Resposta Verificação",
+            "node": "Resposta Verificaçêo",
             "type": "main",
             "index": 0
           }

@@ -19,60 +19,60 @@ Texto:
 
 ---
 
-### **Visão Geral**
-Esse fluxo atua como um **assistente pessoal de compras com IA** para lojas WooCommerce. Ele usa **modelos de linguagem da OpenAI** e um sistema de **RAG (Geração Aumentada por Recuperação)** para responder perguntas de clientes com base em informações de produtos e dados da loja.
+### **Visêo Geral**
+Esse fluxo atua como um **assistente pessoal de compras com IA** para lojas WooCommerce. Ele usa **modelos de linguagem da OpenAI** e um sistema de **RAG (Geraçêo Aumentada por Recuperaçêo)** para responder perguntas de clientes com base em informações de produtos e dados da loja.
 
 ---
 
-### **Descrição dos Nós (Nodes)**
+### **Descriçêo dos Nós (Nodes)**
 
 1. **Chat Trigger**  
    - Tipo: Gatilho de Chat (n8n)  
-   - Função: Recebe mensagens do usuário via Telegram (ou outro canal de chat).
+   - Funçêo: Recebe mensagens do usuário via Telegram (ou outro canal de chat).
 
 2. **Edit Fields**  
    - Tipo: Set Node  
-   - Função: Extrai `sessionId` e `chatInput` da mensagem recebida.
+   - Funçêo: Extrai `sessionId` e `chatInput` da mensagem recebida.
 
 3. **OpenAI Chat Model (Primário)**  
    - Tipo: OpenAI Chat Node  
-   - Função: Processa a mensagem e gera a resposta inicial com GPT-4.
+   - Funçêo: Processa a mensagem e gera a resposta inicial com GPT-4.
 
 4. **Information Extractor**  
    - Tipo: Node Personalizado  
-   - Função: Identifica intenção de busca e extrai parâmetros como SKU, faixa de preço e categoria.
+   - Funçêo: Identifica intençêo de busca e extrai parâmetros como SKU, faixa de preço e categoria.
 
 5. **RAG – Retrieval-Augmented Generation**  
    - Tipo: Ferramenta de Vetores  
-   - Função: Busca informações adicionais (ex: horário da loja, política de trocas) em base vetorial.
+   - Funçêo: Busca informações adicionais (ex: horário da loja, política de trocas) em base vetorial.
 
 6. **Qdrant Vector Store**  
    - Tipo: Vetor Store Node  
-   - Função: Consulta o banco Qdrant para mais contexto da loja.
+   - Funçêo: Consulta o banco Qdrant para mais contexto da loja.
 
 7. **Embeddings OpenAI**  
    - Tipo: Node de Embeddings  
-   - Função: Gera vetores para fazer busca semântica nos documentos.
+   - Funçêo: Gera vetores para fazer busca semântica nos documentos.
 
 8. **OpenAI Chat Model 1 (com contexto RAG)**  
    - Tipo: OpenAI Chat Node  
-   - Função: Combina resposta do chatbot com contexto obtido via RAG.
+   - Funçêo: Combina resposta do chatbot com contexto obtido via RAG.
 
 9. **WooCommerce Personal Shopper Tool**  
-   - Tipo: Node de Integração com WooCommerce  
-   - Função: Busca produtos via API, com filtros (SKU, preço, estoque etc.).
+   - Tipo: Node de Integraçêo com WooCommerce  
+   - Funçêo: Busca produtos via API, com filtros (SKU, preço, estoque etc.).
 
 10. **Window Buffer Memory**  
    - Tipo: Node de Memória  
-   - Função: Armazena as últimas mensagens para manter contexto.
+   - Funçêo: Armazena as últimas mensagens para manter contexto.
 
 11. **Calculator**  
    - Tipo: Node de Cálculo  
-   - Função: Realiza cálculos com preços ou parâmetros numéricos.
+   - Funçêo: Realiza cálculos com preços ou parâmetros numéricos.
 
 12. **OpenAI Chat Model 2 (refinamento)**  
    - Tipo: OpenAI Chat Node  
-   - Função: Refina busca ou interação com base na intenção do usuário.
+   - Funçêo: Refina busca ou interaçêo com base na intençêo do usuário.
 
 ---
 
@@ -81,14 +81,14 @@ Esse fluxo atua como um **assistente pessoal de compras com IA** para lojas WooC
 1. Usuário envia mensagem no chat  
 2. Session ID e entrada extraídos  
 3. GPT-4 processa a mensagem inicial  
-4. Extração de parâmetros de busca  
+4. Extraçêo de parâmetros de busca  
 5. Contexto adicional buscado via RAG + Qdrant  
 6. Produto buscado na loja WooCommerce  
 7. Resposta final gerada e enviada ao usuário com base nos dados
 
 ---
 
-### **Instruções de Configuração**
+### **Instruções de Configuraçêo**
 
 **Credenciais:**
 - OpenAI API  
@@ -98,27 +98,27 @@ Esse fluxo atua como um **assistente pessoal de compras com IA** para lojas WooC
 **Configurações:**
 - Webhook do gatilho de chat  
 - Schema JSON para extractor de parâmetros  
-- Coleção correta no Qdrant  
-- Verificar permissão de acesso às APIs
+- Coleçêo correta no Qdrant  
+- Verificar permissêo de acesso às APIs
 
 **Testes:**
 - Enviar mensagem simulada no chat  
-- Verificar extração e resposta da IA  
-- Conferir se produtos são buscados corretamente
+- Verificar extraçêo e resposta da IA  
+- Conferir se produtos sêo buscados corretamente
 
 ---
 
-### **Solução de Problemas**
+### **Soluçêo de Problemas**
 
 - **Campo `chatInput` vazio?** Verifique o Set Node (Edit Fields)  
-- **Problemas de API?** Cheque chaves e conexão com Qdrant, OpenAI e WooCommerce  
+- **Problemas de API?** Cheque chaves e conexêo com Qdrant, OpenAI e WooCommerce  
 - **Respostas ruins?** Ajuste os prompts dos nós OpenAI  
 - **Valores errados?** Confira a lógica no nó Calculator e Buffer Memory
 
 ---
 
 ### **Recursos**  
-Template JSON disponível para importação no n8n.
+Template JSON disponível para importaçêo no n8n.
 
 ---
 

@@ -13,16 +13,16 @@ MENSAGEM 1
 Autor: INEMA
 Data: 2025-03-25T09:51:37+00:00
 Texto:
-Esse vídeo é uma verdadeira **mina de ouro** para quem trabalha com automações no **n8n** e quer acelerar o processo de criação ou **replicar qualquer agente** (workflow) com **Claude 3.5 ou 3.7**, **usando apenas um prompt ou uma captura de tela**. Abaixo, preparei um resumo completo e bem organizado com exemplos e todas as instruções práticas.
+Esse vídeo é uma verdadeira **mina de ouro** para quem trabalha com automações no **n8n** e quer acelerar o processo de criaçêo ou **replicar qualquer agente** (workflow) com **Claude 3.5 ou 3.7**, **usando apenas um prompt ou uma captura de tela**. Abaixo, preparei um resumo completo e bem organizado com exemplos e todas as instruções práticas.
 
 ---
 
 ## RESUMO COMPLETO — Como usar Claude para construir e replicar INSTANTANEAMENTE qualquer agente no n8n
 
 ### 1. O que é possível fazer com Claude
-- Criar **qualquer automação no n8n** com prompts simples em linguagem natural.
+- Criar **qualquer automaçêo no n8n** com prompts simples em linguagem natural.
 - **Replicar fluxos prontos** a partir de **prints de tela**, mesmo tirados de vídeos do YouTube.
-- Usar arquivos de **transcrição de vídeo** junto com a imagem para gerar JSON completo do workflow.
+- Usar arquivos de **transcriçêo de vídeo** junto com a imagem para gerar JSON completo do workflow.
 - **Economizar tempo e dinheiro**, evitando compra de templates ou repetir criações manualmente.
 
 ---
@@ -38,7 +38,7 @@ Esse vídeo é uma verdadeira **mina de ouro** para quem trabalha com automaçõ
    - Exemplos reais de fluxos (`.json`) exportados do n8n, como:
      - WhatsApp bot + Google Docs
      - Slack trigger + OpenAI + resposta automatizada
-     - Integração com Airtable, Pinecone, Make, etc.
+     - Integraçêo com Airtable, Pinecone, Make, etc.
 
 ---
 
@@ -46,7 +46,7 @@ Esse vídeo é uma verdadeira **mina de ouro** para quem trabalha com automaçõ
 Exemplo de prompt principal no projeto:
 ```Crie um workflow do n8n completo em JSON, sem imagens ou placeholders. Use apenas JSON válido. 
 Use como referência os arquivos disponíveis neste projeto: n8n tips, cheat sheet e os workflows de exemplo. 
-Se faltar alguma informação, pergunte antes de gerar. Sempre explique o que está sendo feito usando sticky notes.```
+Se faltar alguma informaçêo, pergunte antes de gerar. Sempre explique o que está sendo feito usando sticky notes.```
 
 ---
 
@@ -60,8 +60,8 @@ Claude responde com:
 - Sticky notes explicando o que faz cada parte
 
 Basta colar o JSON no n8n e ajustar pequenos detalhes como:
-- Reordenação dos nós
-- Verificação de conexões entre os blocos
+- Reordenaçêo dos nós
+- Verificaçêo de conexões entre os blocos
 
 ---
 
@@ -72,7 +72,7 @@ Basta colar o JSON no n8n e ajustar pequenos detalhes como:
 3. Claude vai gerar o JSON do fluxo automaticamente.
 4. Basta copiar e colar no n8n.
 
-Dica: adicionar a transcrição do vídeo m**elhora muito **o resultado final.
+Dica: adicionar a transcriçêo do vídeo m**elhora muito **o resultado final.
 
 ---
 
@@ -84,8 +84,8 @@ Dica: adicionar a transcrição do vídeo m**elhora muito **o resultado final.
 ---
 
 ### 7. Ferramentas e automações adicionais
-- Automatize a coleta de prints + transcrição de vídeos com n8n ou Make.
-- Use o Claude como um "motor de reconstrução visual" de agentes.
+- Automatize a coleta de prints + transcriçêo de vídeos com n8n ou Make.
+- Use o Claude como um "motor de reconstruçêo visual" de agentes.
 - Faça engenharia reversa com Claude de qualquer fluxo que você encontrar.
 
 ---
@@ -93,13 +93,13 @@ Dica: adicionar a transcrição do vídeo m**elhora muito **o resultado final.
 ## EXEMPLOS DE PROMPTS PRONTOS PARA USAR
 
 C**riar do zero:
-**> Crie um agente no n8n que começa com um gatilho do Telegram, envia a mensagem para o GPT-4, grava a resposta no Google Sheets e retorna uma confirmação para o usuário.
+**> Crie um agente no n8n que começa com um gatilho do Telegram, envia a mensagem para o GPT-4, grava a resposta no Google Sheets e retorna uma confirmaçêo para o usuário.
 
 R**eplicar print:
 **> Aqui está a imagem de um fluxo do n8n. Gere o JSON completo replicando esse fluxo exatamente como aparece na imagem.
 
 B**aseado em vídeo:
-**> Essa é a captura do vídeo e a transcrição do que ele faz. Gere o fluxo em JSON, incluindo as explicações em sticky notes.
+**> Essa é a captura do vídeo e a transcriçêo do que ele faz. Gere o fluxo em JSON, incluindo as explicações em sticky notes.
 
 ---
 
@@ -136,9 +136,9 @@ Data: 2025-03-25T09:47:37+00:00
 Texto:
 Muito boa essa dica! Esse vídeo realmente mostra algo muito poderoso: a capacidade de **reconstruir um fluxo completo do n8n apenas com base em uma captura de tela ou até um prompt descritivo**. Isso abre muitas possibilidades para:
 
-- **Documentação reversa**: você pode capturar uma automação antiga e reconstruí-la com facilidade.
-- **Colaboração**: compartilhar prints ou descrições com colegas que conseguem refazer rapidamente os agentes.
-- **Criação acelerada**: basta descrever em linguagem natural o que você precisa e já tem o esqueleto do fluxo pronto.
+- **Documentaçêo reversa**: você pode capturar uma automaçêo antiga e reconstruí-la com facilidade.
+- **Colaboraçêo**: compartilhar prints ou descrições com colegas que conseguem refazer rapidamente os agentes.
+- **Criaçêo acelerada**: basta descrever em linguagem natural o que você precisa e já tem o esqueleto do fluxo pronto.
 
 ### Resumo completo do vídeo (em formato de tópicos com exemplos):
 
@@ -146,9 +146,9 @@ Muito boa essa dica! Esse vídeo realmente mostra algo muito poderoso: a capacid
    - A captura de tela do fluxo n8n é processada por um modelo de IA.
    - O modelo entende os nós, conexões e parâmetros básicos.
 
-   *Exemplo*: um print com nós de Telegram → GPT → Google Sheets é lido e interpretado como uma automação de mensagem para resposta e armazenamento.
+   *Exemplo*: um print com nós de Telegram → GPT → Google Sheets é lido e interpretado como uma automaçêo de mensagem para resposta e armazenamento.
 
-2. **Conversão para JSON do fluxo**
+2. **Conversêo para JSON do fluxo**
    - A IA converte a estrutura visual da imagem em um arquivo `.json` que pode ser importado diretamente no n8n.
 
    *Exemplo*: a IA gera a estrutura:
@@ -162,15 +162,15 @@ Muito boa essa dica! Esse vídeo realmente mostra algo muito poderoso: a capacid
    }
    ```
 
-3. **Aplicação de prompt descritivo como alternativa**
+3. **Aplicaçêo de prompt descritivo como alternativa**
    - Em vez de imagem, você pode descrever o fluxo em linguagem natural.
-   - A IA gera o JSON baseado na descrição.
+   - A IA gera o JSON baseado na descriçêo.
 
    *Exemplo de prompt*:  
    "Quero um fluxo que receba mensagens do Telegram, envie para o GPT-4 e salve a resposta no Google Sheets."
 
 4. **Uso prático com ferramentas como Lovable, n8n, Supabase e ElevenLabs**
-   - Ferramentas modernas estão se integrando cada vez mais com esse tipo de automação visual baseada em IA.
+   - Ferramentas modernas estêo se integrando cada vez mais com esse tipo de automaçêo visual baseada em IA.
 
 ------------------------------
 
@@ -186,7 +186,7 @@ MENSAGEM 7
 Autor: INEMA
 Data: 2025-03-25T09:47:16+00:00
 Texto:
-Dicas Captura Telas e Transcrição de N8N
+Dicas Captura Telas e Transcriçêo de N8N
 
 ------------------------------
 

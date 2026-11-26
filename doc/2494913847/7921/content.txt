@@ -30,7 +30,7 @@ MENSAGEM 3
 Autor: Carlos
 Data: 2025-09-04T17:51:33+00:00
 Texto:
-**Não morreu, mas depende de uma biblioteca que tá morrendo**
+**Nêo morreu, mas depende de uma biblioteca que tá morrendo**
 
 ------------------------------
 
@@ -38,7 +38,7 @@ MENSAGEM 4
 Autor: Carlos
 Data: 2025-09-04T17:50:37+00:00
 Texto:
-**INFORMAÇÃO IMPORTANTE PRA QUEM USA EVOLUTION**
+**INFORMAÇêO IMPORTANTE PRA QUEM USA EVOLUTION**
 
 https://www.youtube.com/watch?v=FxCbUUQgMus
 Midia: MessageMediaWebPage
@@ -49,7 +49,7 @@ MENSAGEM 5
 Autor: Guilherme
 Data: 2025-08-30T20:41:34+00:00
 Texto:
-Chatwoot, mas uma versão personalizada com front refeito e outras melhorias/mudanças. 
+Chatwoot, mas uma versêo personalizada com front refeito e outras melhorias/mudanças. 
 Meu sistema é o www.fluxuz.com.br
 
 ------------------------------
@@ -66,7 +66,7 @@ MENSAGEM 7
 Autor: Bernardo
 Data: 2025-08-27T07:24:27+00:00
 Texto:
-Qual ferramenta vcs estão usando, [Guilherme](tg://user?id=838631799)? Wati, Blip, etc
+Qual ferramenta vcs estêo usando, [Guilherme](tg://user?id=838631799)? Wati, Blip, etc
 
 ------------------------------
 
@@ -74,7 +74,7 @@ MENSAGEM 8
 Autor: lock7
 Data: 2025-08-18T16:22:24+00:00
 Texto:
-Alguém sabe resolver o erro da Evolution quando a pessoa vem de anúncio e ele não dispara o webhook?
+Alguém sabe resolver o erro da Evolution quando a pessoa vem de anúncio e ele nêo dispara o webhook?
 
 ------------------------------
 
@@ -122,9 +122,9 @@ MENSAGEM 14
 Autor: nBrasa
 Data: 2025-06-16T14:54:07+00:00
 Texto:
-O maior valor que podemos gerar em uma comunidade é a interação entre os participantes que estao com o mesmo objetivo que voce, isso é surreal e abre portas inimaginaveis, encurta distancia e acelera MVP's. 
+O maior valor que podemos gerar em uma comunidade é a interaçêo entre os participantes que estao com o mesmo objetivo que voce, isso é surreal e abre portas inimaginaveis, encurta distancia e acelera MVP's. 
 
-Não consegui colocar esse workflow para funcionar, mas em qualquer outro que eu conseguir deixarei uma mensagem e caso alguem precise de algum help podem me chamar! e para os que se fecham, nao contribui...tá de boa e desejo sucesso na sua caminhada.
+Nêo consegui colocar esse workflow para funcionar, mas em qualquer outro que eu conseguir deixarei uma mensagem e caso alguem precise de algum help podem me chamar! e para os que se fecham, nao contribui...tá de boa e desejo sucesso na sua caminhada.
 
 ------------------------------
 
@@ -188,7 +188,7 @@ MENSAGEM 21
 Autor: Erick
 Data: 2025-06-10T13:49:05+00:00
 Texto:
-opa ja sim tudo funcionando agora to na elaboração do prompt
+opa ja sim tudo funcionando agora to na elaboraçêo do prompt
 
 ------------------------------
 
@@ -220,7 +220,7 @@ MENSAGEM 25
 Autor: Erick
 Data: 2025-06-09T19:54:53+00:00
 Texto:
-o problema que não marca o nó com erro
+o problema que nêo marca o nó com erro
 
 ------------------------------
 
@@ -260,7 +260,7 @@ MENSAGEM 30
 Autor: Erick
 Data: 2025-06-09T16:47:14+00:00
 Texto:
-Alguem poderia me ajudar com a implementação de um agente Whatsapp / Evolution por favor?
+Alguem poderia me ajudar com a implementaçêo de um agente Whatsapp / Evolution por favor?
 
 ------------------------------
 
@@ -324,7 +324,7 @@ MENSAGEM 38
 Autor: Leandro
 Data: 2025-05-27T23:00:32+00:00
 Texto:
-Quais são esses nodes q eu n tenho aqui
+Quais sêo esses nodes q eu n tenho aqui
 
 ------------------------------
 
@@ -340,7 +340,7 @@ MENSAGEM 40
 Autor: Leonardo
 Data: 2025-05-26T12:25:24+00:00
 Texto:
-ainda não consegui fazer funcionar no meu whatsapp
+ainda nêo consegui fazer funcionar no meu whatsapp
 
 ------------------------------
 
@@ -348,7 +348,7 @@ MENSAGEM 41
 Autor: Leonardo
 Data: 2025-05-26T12:25:05+00:00
 Texto:
-não tem um passo a passo para configurar os módulos não?
+nêo tem um passo a passo para configurar os módulos nêo?
 
 ------------------------------
 
@@ -420,7 +420,7 @@ MENSAGEM 50
 Autor: Rafael
 Data: 2025-05-23T22:22:26+00:00
 Texto:
-Minha mensagem não está descendo para wait
+Minha mensagem nêo está descendo para wait
 Midia: MessageMediaPhoto -> photo_8177_050.jpg
 
 ------------------------------
@@ -445,7 +445,7 @@ MENSAGEM 53
 Autor: Leonardo
 Data: 2025-05-23T01:44:50+00:00
 Texto:
-não tem para o make essa?
+nêo tem para o make essa?
 
 ------------------------------
 

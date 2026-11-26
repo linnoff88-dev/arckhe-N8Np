@@ -23,21 +23,21 @@ Data: 2025-04-05T04:26:29+00:00
 Texto:
 **e11. Pesquisa Profunda (Relatório Épico)**
 
-Aprendemos a construir uma superautomação que atua como um pesquisador profundo conectado à internet. A partir de um formulário com um tema e um e-mail, geramos um relatório em PDF com mais de 30 páginas, cheio de fontes clicáveis, capítulos e estrutura clara, que é entregue diretamente ao e-mail do usuário.
+Aprendemos a construir uma superautomaçêo que atua como um pesquisador profundo conectado à internet. A partir de um formulário com um tema e um e-mail, geramos um relatório em PDF com mais de 30 páginas, cheio de fontes clicáveis, capítulos e estrutura clara, que é entregue diretamente ao e-mail do usuário.
 
 🧩 **Estrutura do processo passo a passo**
 
 **1. Entrada de dados**  
 Criamos um formulário simples com dois campos: o tema a ser pesquisado (campo de texto longo) e o e-mail.
 
-Esses dados são a base de toda a automação.
+Esses dados sêo a base de toda a automaçêo.
 
-**2. Geração de subtópicos com IA**  
+**2. Geraçêo de subtópicos com IA**  
 Pedimos a um modelo do OpenRouter (GPT-4o ou similar) que gere 5 subtópicos a partir do tema principal.
 
 Recebemos os subtópicos em formato JSON para facilitar o processamento.
 
-**3. Preparação para a pesquisa**  
+**3. Preparaçêo para a pesquisa**  
 Criamos uma lista com os subtópicos e a separamos para tratá-los individualmente com um *split*.
 
 Agrupamos subtópico + título + conteúdo utilizando *merge* e estruturas do tipo array.
@@ -59,18 +59,18 @@ Salvamos no Google Sheets:
 
 - Tema  
 - Título  
-- Introdução  
+- Introduçêo  
 - Capítulos 1 a 5  
 - Fontes numeradas  
 - Seções  
 - Conteúdo por tema
 
-**7. Criação do índice**  
+**7. Criaçêo do índice**  
 Criamos um índice em HTML com capítulos e subcapítulos extraídos do conteúdo.
 
 Pedimos à IA que o devolva com um estilo limpo e clicável.
 
-**8. Compilação e envio do documento**  
+**8. Compilaçêo e envio do documento**  
 Combinamos todos os temas, capítulos, fontes e seções em um único conteúdo estruturado.
 
 Enviamos tudo ao Make por meio de um Webhook.
@@ -81,10 +81,10 @@ No Make:
 - Convertêmo-lo para PDF  
 - Enviamos por e-mail ao usuário com título limpo e o conteúdo em anexo
 
-🧪 **Otimização e melhorias**  
-Adicionamos uma segunda versão com perguntas complementares no formulário antes de gerar os subtópicos, aumentando a profundidade da pesquisa.
+🧪 **Otimizaçêo e melhorias**  
+Adicionamos uma segunda versêo com perguntas complementares no formulário antes de gerar os subtópicos, aumentando a profundidade da pesquisa.
 
-Combinamos duas automações anteriores para criar essa versão mais poderosa.
+Combinamos duas automações anteriores para criar essa versêo mais poderosa.
 
 Usamos *replace* e *stripHTML* para limpar tags e deixar o documento apresentável.
 

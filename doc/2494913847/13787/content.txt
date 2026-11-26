@@ -13,7 +13,7 @@ MENSAGEM 1
 Autor: INEMA
 Data: 2025-09-05T17:55:52+00:00
 Texto:
-## **Por que a Avaliação de Workflows com IA é Diferente**
+## **Por que a Avaliaçêo de Workflows com IA é Diferente**
 
 1. **Problema da Caixa Preta:**
    LLMs (modelos de linguagem) geram saídas diferentes mesmo com as mesmas entradas.
@@ -21,20 +21,20 @@ Texto:
 2. **Natureza Probabilística:**
    O resultado depende de fatores como temperatura, probabilidade e contexto.
 
-3. **Modelos em Constante Evolução:**
+3. **Modelos em Constante Evoluçêo:**
    Comportamentos mudam com novas versões dos modelos.
 
 4. **Além dos Testes Tradicionais:**
-   É necessário avaliar precisão, consistência, robustez, viés e custo.
+   É necessário avaliar precisêo, consistência, robustez, viés e custo.
 
 ---
 
 ## **Principais Métricas a Acompanhar**
 
-* **Performance:** Acurácia, correção, similaridade semântica, conclusão de tarefa.
+* **Performance:** Acurácia, correçêo, similaridade semântica, conclusêo de tarefa.
 * **Confiabilidade:** Consistência, taxa de erro, tempo de atividade.
-* **Eficiência:** Uso de tokens, tempo de resposta, custo por execução.
-* **Qualidade:** Taxa de alucinação, relevância, completude.
+* **Eficiência:** Uso de tokens, tempo de resposta, custo por execuçêo.
+* **Qualidade:** Taxa de alucinaçêo, relevância, completude.
 
 ---
 
@@ -49,20 +49,20 @@ Texto:
 **Variáveis comuns para testar:**
 
 * Prompt (texto e estrutura)
-* Versão do modelo
+* Versêo do modelo
 * Design do fluxo (ramificações, tratamento de erro)
 * Pré-processamento de dados
 
 ---
 
-## **Conjunto de Dados "Padrão Ouro"**
+## **Conjunto de Dados "Padrêo Ouro"**
 
 * **Objetivo:** Servir de referência para comparar saídas da IA.
 
 * **Boas características:**
 
-  * Precisão, consistência, abrangência, representatividade
-  * Cobre casos de exceção
+  * Precisêo, consistência, abrangência, representatividade
+  * Cobre casos de exceçêo
   * Volume suficiente para gerar estatística confiável
 
 * **Fontes recomendadas:**
@@ -81,7 +81,7 @@ Texto:
 ### Tamanhos recomendados de dataset:
 
 * **Testes iniciais:** 50–100 exemplos
-* **Avaliação pronta para produção:** 250–750 exemplos
+* **Avaliaçêo pronta para produçêo:** 250–750 exemplos
 * **Sistemas críticos:** 1.000+ exemplos
 
 ---
@@ -113,19 +113,19 @@ Texto:
 
 * **Performance**
 
-  * Acurácia e correção (correspondência exata, similaridade semântica, conclusão de tarefa)
+  * Acurácia e correçêo (correspondência exata, similaridade semântica, conclusêo de tarefa)
 
 * **Reliability**
 
-  * Pontuação de consistência, taxa de erro, tempo de atividade
+  * Pontuaçêo de consistência, taxa de erro, tempo de atividade
 
 * **Efficiency**
 
-  * Uso de tokens, latência de resposta, custo por execução
+  * Uso de tokens, latência de resposta, custo por execuçêo
 
 * **Quality**
 
-  * Taxa de alucinação, relevância, completude
+  * Taxa de alucinaçêo, relevância, completude
 
 ---
 
@@ -139,8 +139,8 @@ Texto:
 
 **Common Variables to Test:**
 
-* Redação e estrutura do prompt
-* Versão do LLM/modelo
+* Redaçêo e estrutura do prompt
+* Versêo do LLM/modelo
 * Design do fluxo (ramificações, tratamento de erros)
 * Métodos de pré-processamento de dados
 
@@ -166,7 +166,7 @@ Texto:
 
 ### **5. Why Data is the Core of Success**
 
-* **Good data** → avaliação confiável → melhor comportamento da IA
+* **Good data** → avaliaçêo confiável → melhor comportamento da IA
 * **Bad data** → treina o LLM para piorar
 
 #### **Minimum for a Holistic Dataset**
@@ -246,14 +246,14 @@ MENSAGEM 11
 Autor: INEMA
 Data: 2025-09-05T02:47:51+00:00
 Texto:
-### 🧠 **HACKS DE AVALIAÇÃO DE WORKFLOWS NO n8n**
+### 🧠 **HACKS DE AVALIAÇêO DE WORKFLOWS NO n8n**
 
-#### 1. **Use avaliação como método científico**
+#### 1. **Use avaliaçêo como método científico**
 
 * **Hack:** trate mudanças como hipóteses — mude **apenas uma variável por vez** (ex: prompt, modelo, temperatura).
-* **Exemplo:** se você mudar o prompt e o modelo ao mesmo tempo, não saberá qual causou o impacto.
+* **Exemplo:** se você mudar o prompt e o modelo ao mesmo tempo, nêo saberá qual causou o impacto.
 
-#### 2. **Crie datasets de avaliação com “verdade absoluta”**
+#### 2. **Crie datasets de avaliaçêo com “verdade absoluta”**
 
 * **Hack:** monte um conjunto de dados com **entradas esperadas e saídas ideais**, validadas por especialistas.
 * **Exemplo:** use os melhores e-mails classificados por humanos para treinar agentes de atendimento automático.
@@ -265,23 +265,23 @@ Texto:
   * número do teste
   * o que foi alterado
   * resultado (ex: acerto em %)
-  * tempo e custo de execução
+  * tempo e custo de execuçêo
 * **Benefício:** facilita comparações futuras e evita repetir erros.
 
-#### 4. **Avalie com IA quando não há resposta exata**
+#### 4. **Avalie com IA quando nêo há resposta exata**
 
 * **Hack:** use IA para avaliar similaridade entre respostas esperadas e geradas (ex: nota de 1 a 5).
 * **Exemplo:** atendimento automático por IA pode ser avaliado por outro modelo com base na *utilidade da resposta*.
 
-#### 5. **Otimize por mais do que precisão**
+#### 5. **Otimize por mais do que precisêo**
 
 * **Hack:** além da acurácia, avalie:
 
-  * **tempo de execução**
+  * **tempo de execuçêo**
   * **custo de tokens**
   * **viés**
   * **qualidade percebida**
-* **Exemplo:** um modelo mais barato pode ser preferido se a precisão for parecida.
+* **Exemplo:** um modelo mais barato pode ser preferido se a precisêo for parecida.
 
 #### 6. **Teste diferentes modelos com o mesmo dataset**
 
@@ -290,10 +290,10 @@ Texto:
 
 #### 7. **Corrija erros simples com um system prompt**
 
-* **Hack:** erros de classificação podem ser corrigidos apenas informando as opções válidas no prompt.
+* **Hack:** erros de classificaçêo podem ser corrigidos apenas informando as opções válidas no prompt.
 * **Exemplo:** após informar as categorias possíveis, o modelo acertou 100% das classificações.
 
-#### 8. **Use os novos nós de avaliação do n8n**
+#### 8. **Use os novos nós de avaliaçêo do n8n**
 
 * **Nódulos principais:**
 
@@ -317,23 +317,23 @@ MENSAGEM 13
 Autor: INEMA
 Data: 2025-09-05T02:46:59+00:00
 Texto:
-O vídeo ensina como usar o recurso de **avaliação de fluxos (evaluations)** no **n8n** para validar mudanças em automações de IA, com base em dados objetivos, não achismos. A abordagem transforma o processo de ajuste de automações em uma prática científica baseada em testes controlados.
+O vídeo ensina como usar o recurso de **avaliaçêo de fluxos (evaluations)** no **n8n** para validar mudanças em automações de IA, com base em dados objetivos, nêo achismos. A abordagem transforma o processo de ajuste de automações em uma prática científica baseada em testes controlados.
 
 ---
 
 ### Principais Tópicos e Exemplos
 
-1. **O que é Avaliação de Workflow**
+1. **O que é Avaliaçêo de Workflow**
 
    * É validar hipóteses com **provas objetivas**.
    * Permite comparar antes e depois de uma mudança no fluxo (ex: ajuste de prompt).
    * Evita avaliações subjetivas.
 
-2. **Por que Avaliação com IA é Diferente**
+2. **Por que Avaliaçêo com IA é Diferente**
 
-   * Modelos LLMs são **probabilísticos** e variam de saída mesmo com entradas iguais.
+   * Modelos LLMs sêo **probabilísticos** e variam de saída mesmo com entradas iguais.
    * É impossível saber o que mudou sem **isolar variáveis**.
-   * Avaliação ajuda a mensurar **desempenho, custo, tempo, viés e qualidade**.
+   * Avaliaçêo ajuda a mensurar **desempenho, custo, tempo, viés e qualidade**.
 
 3. **Exemplo Prático: Agente de Tagging de E-mails**
 
@@ -355,26 +355,26 @@ O vídeo ensina como usar o recurso de **avaliação de fluxos (evaluations)** n
 6. **Tamanho do Dataset**
 
    * Ideal para testes iniciais: **50 a 100 exemplos**.
-   * Para produção: **250 a 750 exemplos**.
+   * Para produçêo: **250 a 750 exemplos**.
    * Sistemas críticos: **1000+ exemplos**.
 
-7. **Ferramentas no n8n para Avaliação**
+7. **Ferramentas no n8n para Avaliaçêo**
 
    * Quatro novos nós: `Trigger`, `Check if Evaluating`, `Set Metrics`, `Set Outputs`.
-   * Saídas são gravadas em planilhas Google para análise.
+   * Saídas sêo gravadas em planilhas Google para análise.
    * Possibilidade de usar IA para avaliar similaridade entre respostas esperadas e geradas.
 
 8. **Comparando Modelos**
 
    * Comparou **GPT-4.1 Mini** e **Claude 2.5 Flash**.
    * Flash foi mais rápido, barato e **mais preciso (4.3 de 5 vs. 3.5)**.
-   * Decisão de mudar foi baseada em dados, não em opinião.
+   * Decisêo de mudar foi baseada em dados, nêo em opiniêo.
 
 ---
 
 ### Conclusões
 
-* A **avaliação automatizada com IA no n8n** é essencial para evoluir workflows de forma confiável.
+* A **avaliaçêo automatizada com IA no n8n** é essencial para evoluir workflows de forma confiável.
 * Testar, isolar variáveis e medir com dados confiáveis evita decisões erradas.
 * O vídeo fornece todos os **workflows, datasets e slides** gratuitamente em sua comunidade.
 
@@ -384,7 +384,7 @@ O vídeo ensina como usar o recurso de **avaliação de fluxos (evaluations)** n
 
 * Workflows prontos para copiar
 * Planilhas de dados de teste
-* Slides da apresentação
+* Slides da apresentaçêo
 * Comunidade gratuita com recursos adicionais
 * Cursos na comunidade avançada: *Agent Zero* e *10 horas em 10 segundos*
 
@@ -402,18 +402,18 @@ MENSAGEM 15
 Autor: INEMA
 Data: 2025-09-05T02:45:42+00:00
 Texto:
-### 1. **Introdução**
+### 1. **Introduçêo**
 
-* Explica que a avaliação pode parecer “chata”, mas é **fundamental**.
-* Comenta sobre sua participação no *Agentic Arena*, onde fluxos foram avaliados por IA.
-* Propõe ensinar como usar **avaliação no n8n** sem precisar programar.
+* Explica que a avaliaçêo pode parecer “chata”, mas é **fundamental**.
+* Comenta sobre sua participaçêo no *Agentic Arena*, onde fluxos foram avaliados por IA.
+* Propõe ensinar como usar **avaliaçêo no n8n** sem precisar programar.
 
 ---
 
-### 2. **O que é Avaliação**
+### 2. **O que é Avaliaçêo**
 
-* Avaliação = **validar hipóteses com provas reais**, não achismos.
-* Ao alterar um prompt ou modelo, é comum “achar” que melhorou — a avaliação mostra com dados se isso é verdade.
+* Avaliaçêo = **validar hipóteses com provas reais**, nêo achismos.
+* Ao alterar um prompt ou modelo, é comum “achar” que melhorou — a avaliaçêo mostra com dados se isso é verdade.
 
 ---
 
@@ -424,7 +424,7 @@ Texto:
 
 ---
 
-### 4. **Rodando a Avaliação**
+### 4. **Rodando a Avaliaçêo**
 
 * Mostra os novos **nós do n8n**:
 
@@ -445,7 +445,7 @@ Texto:
 ### 5. **Resultados Iniciais**
 
 * O modelo erra todas as categorias, mas acerta parte das prioridades.
-* O erro ocorre porque **não há system prompt** orientando quais categorias existem.
+* O erro ocorre porque **nêo há system prompt** orientando quais categorias existem.
 
 ---
 
@@ -461,7 +461,7 @@ Texto:
 
 ### 7. **Importância de isolar variáveis**
 
-* Se você muda várias coisas de uma vez, **não sabe o que realmente melhorou**.
+* Se você muda várias coisas de uma vez, **nêo sabe o que realmente melhorou**.
 * Recomenda **mudar uma coisa de cada vez** e registrar tudo.
 
 ---
@@ -475,31 +475,31 @@ Texto:
   * **Consistente**
   * **Representativo**
   * **Abranger exceções**
-  * Grande o suficiente (ideal: 250+ exemplos para produção)
+  * Grande o suficiente (ideal: 250+ exemplos para produçêo)
 
 ---
 
-### 9. **Exemplo com Avaliação por IA**
+### 9. **Exemplo com Avaliaçêo por IA**
 
 * Mostra como usar IA para avaliar **respostas textuais** (usando escala de 1 a 5).
 * Quando o nó do n8n falha, ele faz um **workaround** usando um agente para avaliar manualmente as respostas.
 * Comparou dois modelos:
 
-  * **GPT 4.1 Mini**: 3.5/5 de precisão
-  * **Claude 2.5 Flash**: 4.3/5 de precisão, mais rápido e mais barato
+  * **GPT 4.1 Mini**: 3.5/5 de precisêo
+  * **Claude 2.5 Flash**: 4.3/5 de precisêo, mais rápido e mais barato
 
 ---
 
-### 10. **Conclusão**
+### 10. **Conclusêo**
 
-* Avaliação permite decisões baseadas em dados, **não em achismo**.
+* Avaliaçêo permite decisões baseadas em dados, **nêo em achismo**.
 
 
 ---
 
 ## 💬 Frase-chave do vídeo:
 
-> *“Você precisa tratar sua automação como um experimento científico.”*
+> *“Você precisa tratar sua automaçêo como um experimento científico.”*
 
 ------------------------------
 
@@ -507,16 +507,16 @@ MENSAGEM 16
 Autor: INEMA
 Data: 2025-09-05T02:45:38+00:00
 Texto:
-Guia para Iniciantes sobre Avaliação de Workflows no n8n 
+Guia para Iniciantes sobre Avaliaçêo de Workflows no n8n 
 (Pare de Adivinhar!)**
 
-Como vocês sabem, na semana passada participei do primeiro *AI Agent Game Show* chamado **The Agentic Arena**, onde eu e Jack Roberts tivemos que construir automações de IA que foram avaliadas por uma IA. Então, achei que seria uma ótima ideia fazer um vídeo explicando como funciona o recurso de **avaliação do n8n**.
+Como vocês sabem, na semana passada participei do primeiro *AI Agent Game Show* chamado **The Agentic Arena**, onde eu e Jack Roberts tivemos que construir automações de IA que foram avaliadas por uma IA. Entêo, achei que seria uma ótima ideia fazer um vídeo explicando como funciona o recurso de **avaliaçêo do n8n**.
 
-Neste vídeo, eu explico o recurso de **avaliação do n8n** e mostro por que ele é uma ferramenta tão poderosa para suas automações. A avaliação oferece **provas objetivas** de se as mudanças que você está fazendo estão realmente melhorando seu fluxo de trabalho — ou se podem estar piorando. Sem a avaliação, você nunca saberia com certeza.
+Neste vídeo, eu explico o recurso de **avaliaçêo do n8n** e mostro por que ele é uma ferramenta têo poderosa para suas automações. A avaliaçêo oferece **provas objetivas** de se as mudanças que você está fazendo estêo realmente melhorando seu fluxo de trabalho — ou se podem estar piorando. Sem a avaliaçêo, você nunca saberia com certeza.
 
-Vou mostrar o que é avaliação, por que ela é importante e demonstrar alguns **exemplos práticos do mundo real** de como é fácil utilizá-la. A melhor parte é que **você não precisa escrever nenhuma linha de código** para aproveitar esse recurso. Se você está criando automações com IA, a avaliação é a **peça que falta** para levar seus fluxos de trabalho para o próximo nível. Ao final do vídeo, você verá como é **simples e poderoso** começar a aplicar a avaliação no n8n.
+Vou mostrar o que é avaliaçêo, por que ela é importante e demonstrar alguns **exemplos práticos do mundo real** de como é fácil utilizá-la. A melhor parte é que **você nêo precisa escrever nenhuma linha de código** para aproveitar esse recurso. Se você está criando automações com IA, a avaliaçêo é a **peça que falta** para levar seus fluxos de trabalho para o próximo nível. Ao final do vídeo, você verá como é **simples e poderoso** começar a aplicar a avaliaçêo no n8n.
 
-Todos os **modelos de Google Sheets e arquivos do Google Docs** necessários para testar esses fluxos de avaliação estão **linkados diretamente nos próprios workflows**.
+Todos os **modelos de Google Sheets e arquivos do Google Docs** necessários para testar esses fluxos de avaliaçêo estêo **linkados diretamente nos próprios workflows**.
 
 ------------------------------
 

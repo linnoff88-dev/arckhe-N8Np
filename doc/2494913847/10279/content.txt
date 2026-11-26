@@ -15,10 +15,10 @@ Data: 2025-06-22T04:06:09+00:00
 Texto:
 **PDF -> JPG -> ARQUIVO ZIP**
 
-**Automação N8N: Conversão de PDF para JPEG e Entrega por E-mail**
-Esta automação demonstra uma solução simplificada para converter documentos PDF em imagens JPEG e entregá-las por e-mail em formato compactado. O fluxo de trabalho gerencia todo o processo desde a entrada do PDF até a entrega do e-mail, sem exigir nenhum conhecimento de programação.
+**Automaçêo N8N: Conversêo de PDF para JPEG e Entrega por E-mail**
+Esta automaçêo demonstra uma soluçêo simplificada para converter documentos PDF em imagens JPEG e entregá-las por e-mail em formato compactado. O fluxo de trabalho gerencia todo o processo desde a entrada do PDF até a entrega do e-mail, sem exigir nenhum conhecimento de programaçêo.
 
-**O que essa automação faz:**
+**O que essa automaçêo faz:**
 
 * Recebe um documento PDF como entrada
 * Converte as páginas do PDF em imagens JPEG separadas usando o serviço PDF.co
@@ -27,7 +27,7 @@ Esta automação demonstra uma solução simplificada para converter documentos 
 * Compacta as imagens em um arquivo ZIP (nomeado como "combine\_images.zip")
 * Envia o arquivo ZIP via Gmail para os destinatários especificados
 
-Essa é uma solução completa *no-code* que automatiza o que normalmente seria um processo manual de várias etapas. O modelo está disponível para que você possa implementar esse fluxo de trabalho no seu próprio ambiente N8N, tornando a conversão e distribuição de PDFs em imagens algo simples e eficiente.
+Essa é uma soluçêo completa *no-code* que automatiza o que normalmente seria um processo manual de várias etapas. O modelo está disponível para que você possa implementar esse fluxo de trabalho no seu próprio ambiente N8N, tornando a conversêo e distribuiçêo de PDFs em imagens algo simples e eficiente.
 
 ------------------------------
 

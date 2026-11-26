@@ -1,29 +1,29 @@
-# 🏥 Guia de Instalação - Sistema de Automação para Farmácia de Manipulação
+# 🏥 Guia de Instalaçêo - Sistema de Automaçêo para Farmácia de Manipulaçêo
 
 ## 📋 Índice
 
-1. [Visão Geral](#visão-geral)
+1. [Visêo Geral](#visêo-geral)
 2. [Requisitos](#requisitos)
-3. [Instalação Rápida](#instalação-rápida)
-4. [Configuração Detalhada](#configuração-detalhada)
-5. [Importação dos Workflows](#importação-dos-workflows)
-6. [Configuração de Integrações](#configuração-de-integrações)
-7. [Testes e Validação](#testes-e-validação)
+3. [Instalaçêo Rápida](#instalaçêo-rápida)
+4. [Configuraçêo Detalhada](#configuraçêo-detalhada)
+5. [Importaçêo dos Workflows](#importaçêo-dos-workflows)
+6. [Configuraçêo de Integrações](#configuraçêo-de-integrações)
+7. [Testes e Validaçêo](#testes-e-validaçêo)
 8. [Troubleshooting](#troubleshooting)
-9. [Manutenção](#manutenção)
+9. [Manutençêo](#manutençêo)
 10. [Segurança](#segurança)
 
 ---
 
-## 🎯 Visão Geral
+## 🎯 Visêo Geral
 
-Este sistema automatiza completamente o processo de recebimento e processamento de receitas médicas para farmácias de manipulação, incluindo:
+Este sistema automatiza completamente o processo de recebimento e processamento de receitas médicas para farmácias de manipulaçêo, incluindo:
 
-- ✅ Recepção multi-canal (WhatsApp, Email, Web)
-- ✅ OCR e extração inteligente de medicamentos
+- ✅ Recepçêo multi-canal (WhatsApp, Email, Web)
+- ✅ OCR e extraçêo inteligente de medicamentos
 - ✅ Cálculo automático de orçamentos
 - ✅ Envio de propostas com botões interativos
-- ✅ Gestão de produção integrada
+- ✅ Gestêo de produçêo integrada
 - ✅ Relatórios e monitoramento em tempo real
 
 ### Arquitetura do Sistema
@@ -59,7 +59,7 @@ Este sistema automatiza completamente o processo de recebimento e processamento 
 - **Disco**: 20GB SSD
 - **Rede**: 10 Mbps
 
-### Hardware Recomendado (Produção)
+### Hardware Recomendado (Produçêo)
 - **CPU**: 4+ cores
 - **RAM**: 8GB+
 - **Disco**: 100GB SSD
@@ -68,7 +68,7 @@ Este sistema automatiza completamente o processo de recebimento e processamento 
 ### Software
 - **Docker**: 20.10+
 - **Docker Compose**: 2.0+
-- **Node.js**: 18+ (se instalação manual)
+- **Node.js**: 18+ (se instalaçêo manual)
 - **PostgreSQL**: 14+
 - **Redis**: 7+
 
@@ -78,13 +78,13 @@ Este sistema automatiza completamente o processo de recebimento e processamento 
 - ✅ AWS (Textract - opcional)
 - ✅ OpenAI API
 - ✅ Slack (notificações)
-- ✅ Trello ou Notion (gestão)
+- ✅ Trello ou Notion (gestêo)
 
 ---
 
-## 🚀 Instalação Rápida
+## 🚀 Instalaçêo Rápida
 
-### Opção 1: Docker Compose (Recomendado)
+### Opçêo 1: Docker Compose (Recomendado)
 
 1. **Clone o repositório**
 ```bash
@@ -103,7 +103,7 @@ nano .env
 docker-compose up -d
 ```
 
-4. **Aguarde a inicialização**
+4. **Aguarde a inicializaçêo**
 ```bash
 docker-compose logs -f n8n
 ```
@@ -115,7 +115,7 @@ Usuário: admin
 Senha: farmacia2024
 ```
 
-### Opção 2: Instalação Manual
+### Opçêo 2: Instalaçêo Manual
 
 1. **Instale o PostgreSQL**
 ```bash
@@ -156,7 +156,7 @@ n8n start
 
 ---
 
-## ⚙️ Configuração Detalhada
+## ⚙️ Configuraçêo Detalhada
 
 ### 1. Banco de Dados PostgreSQL
 
@@ -207,9 +207,9 @@ curl -X POST https://api.evolution.com/instance/create \
 2. **Conecte o WhatsApp**
 - Acesse o painel Evolution
 - Escaneie o QR Code
-- Verifique a conexão
+- Verifique a conexêo
 
-### 3. Configuração de Email
+### 3. Configuraçêo de Email
 
 1. **Gmail - Gere senha de app**
 - Acesse: https://myaccount.google.com/apppasswords
@@ -241,7 +241,7 @@ curl -X POST https://api.evolution.com/instance/create \
 
 ---
 
-## 📥 Importação dos Workflows
+## 📥 Importaçêo dos Workflows
 
 ### 1. Prepare o n8n
 
@@ -313,7 +313,7 @@ https://n8n.farmacia.com/webhook/farmacia-receitas
 
 ---
 
-## 🔌 Configuração de Integrações
+## 🔌 Configuraçêo de Integrações
 
 ### Slack
 
@@ -335,8 +335,8 @@ https://n8n.farmacia.com/webhook/farmacia-receitas
 ### Trello
 
 1. **Crie o board**
-- Nome: "Produção Farmácia"
-- Listas: Pendente, Em Produção, Pronto, Entregue
+- Nome: "Produçêo Farmácia"
+- Listas: Pendente, Em Produçêo, Pronto, Entregue
 
 2. **Configure automações**
 ```javascript
@@ -360,9 +360,9 @@ https://n8n.farmacia.com/webhook/farmacia-receitas
 
 ---
 
-## 🧪 Testes e Validação
+## 🧪 Testes e Validaçêo
 
-### 1. Teste de Recepção
+### 1. Teste de Recepçêo
 
 #### WhatsApp
 ```bash
@@ -388,7 +388,7 @@ https://n8n.farmacia.com/webhook/farmacia-receitas
 - Receita manuscrita
 - PDF multipáginas
 
-2. **Verifique extração**
+2. **Verifique extraçêo**
 ```sql
 SELECT 
   order_id,
@@ -402,7 +402,7 @@ LIMIT 5;
 
 ### 3. Teste de Resposta
 
-1. **Simule aprovação**
+1. **Simule aprovaçêo**
 ```bash
 curl -X POST https://n8n.farmacia.com/webhook/farmacia-responses \
   -H "Content-Type: application/json" \
@@ -431,7 +431,7 @@ ab -n 100 -c 10 -p test_payload.json \
 
 ### Problemas Comuns
 
-#### 1. WhatsApp não conecta
+#### 1. WhatsApp nêo conecta
 ```bash
 # Verifique o status
 curl https://api.evolution.com/instance/connectionState/farmacia-instance \
@@ -452,7 +452,7 @@ Settings > Credentials > Test Connection
 docker logs n8n-farmacia | grep -i error
 ```
 
-#### 3. Emails não chegam
+#### 3. Emails nêo chegam
 ```bash
 # Teste IMAP
 openssl s_client -connect imap.gmail.com:993
@@ -534,12 +534,12 @@ systemctl enable fail2ban
 apt-get install certbot
 certbot certonly --standalone -d n8n.farmacia.com.br
 
-# Auto-renovação
+# Auto-renovaçêo
 crontab -e
 0 2 * * 1 certbot renew --quiet
 ```
 
-### 3. Backup e Recuperação
+### 3. Backup e Recuperaçêo
 
 ```bash
 # Backup completo
@@ -575,7 +575,7 @@ nano /var/ossec/etc/ossec.conf
 
 ---
 
-## 📅 Manutenção
+## 📅 Manutençêo
 
 ### Diária
 - ✅ Verificar logs de erro
@@ -590,10 +590,10 @@ nano /var/ossec/etc/ossec.conf
 ### Mensal
 - ✅ Atualizar sistema e dependências
 - ✅ Revisar e otimizar queries
-- ✅ Testar recuperação de backup
+- ✅ Testar recuperaçêo de backup
 - ✅ Auditar acessos e segurança
 
-### Scripts de Manutenção
+### Scripts de Manutençêo
 
 ```bash
 # Limpeza de arquivos antigos
@@ -613,7 +613,7 @@ journalctl --vacuum-time=30d
 
 ## 📞 Suporte
 
-### Documentação Adicional
+### Documentaçêo Adicional
 - n8n: https://docs.n8n.io
 - Evolution API: https://doc.evolution-api.com
 - PostgreSQL: https://www.postgresql.org/docs/14/
@@ -634,15 +634,15 @@ journalctl --vacuum-time=30d
 
 1. **Configure as integrações** seguindo este guia
 2. **Importe os workflows** na ordem correta
-3. **Execute os testes** de validação
+3. **Execute os testes** de validaçêo
 4. **Configure o monitoramento** e alertas
 5. **Treine a equipe** no uso do sistema
 6. **Monitore as métricas** nos primeiros dias
 7. **Ajuste conforme necessário**
 
-**Lembre-se**: Este é um sistema em produção. Sempre teste em ambiente de desenvolvimento antes de aplicar mudanças!
+**Lembre-se**: Este é um sistema em produçêo. Sempre teste em ambiente de desenvolvimento antes de aplicar mudanças!
 
 ---
 
-*Última atualização: Dezembro 2024*
-*Versão: 1.0.0*
+*Última atualizaçêo: Dezembro 2024*
+*Versêo: 1.0.0*

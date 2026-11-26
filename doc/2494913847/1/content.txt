@@ -38,14 +38,14 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 5
-Autor: Lucimara Guimarães Lopes
+Autor: Lucimara Guimarêes Lopes
 Data: 2025-11-09T19:13:30+00:00
 Texto: [Sem texto]
 
 ------------------------------
 
 MENSAGEM 6
-Autor: Lucimara Guimarães Lopes
+Autor: Lucimara Guimarêes Lopes
 Data: 2025-11-09T19:12:49+00:00
 Texto: [Sem texto]
 
@@ -167,7 +167,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 23
-Autor: Pedro Henrique Rodrigues Guimarães
+Autor: Pedro Henrique Rodrigues Guimarêes
 Data: 2025-11-07T14:19:11+00:00
 Texto: [Sem texto]
 
@@ -3794,7 +3794,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 527
-Autor: Filipão
+Autor: Filipêo
 Data: 2025-08-26T00:44:29+00:00
 Texto: [Sem texto]
 
@@ -3907,7 +3907,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 542
-Autor: Lucimara Guimarães Lopes
+Autor: Lucimara Guimarêes Lopes
 Data: 2025-08-25T13:32:47+00:00
 Texto: [Sem texto]
 
@@ -4260,7 +4260,7 @@ MENSAGEM 590
 Autor: Pedro Victor
 Data: 2025-08-22T17:29:47+00:00
 Texto:
-Fala galera, preciso criar um agente que gere landpage automaticamente, já procurei nos grupos e não localizei, alguem tem uma sugestão?
+Fala galera, preciso criar um agente que gere landpage automaticamente, já procurei nos grupos e nêo localizei, alguem tem uma sugestêo?
 
 ------------------------------
 
@@ -5578,7 +5578,7 @@ MENSAGEM 775
 Autor: Alessandro
 Data: 2025-07-28T15:51:46+00:00
 Texto:
-Para geração de conteudo
+Para geraçêo de conteudo
 
 ------------------------------
 
@@ -5727,7 +5727,7 @@ MENSAGEM 796
 Autor: Marcelo
 Data: 2025-07-25T02:04:03+00:00
 Texto:
-Alguém aqui esta estudando este tipo de fluxo para a criação de videos automaticos para o Youtube? Pergunto para somarmos forças e trocarmos uma ideia
+Alguém aqui esta estudando este tipo de fluxo para a criaçêo de videos automaticos para o Youtube? Pergunto para somarmos forças e trocarmos uma ideia
 
 ------------------------------
 
@@ -6356,7 +6356,7 @@ MENSAGEM 885
 Autor: Cezar
 Data: 2025-07-15T14:32:27+00:00
 Texto:
-Salve, alguem tem alguma sugestão de macete pra colocar no prompt para encurtar as frases geradas??
+Salve, alguem tem alguma sugestêo de macete pra colocar no prompt para encurtar as frases geradas??
 
 ------------------------------
 
@@ -6445,7 +6445,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 898
-Autor: Marcão
+Autor: Marcêo
 Data: 2025-07-13T18:25:16+00:00
 Texto:
 Podem me dar uma dica de um prompt para filósofo? Tinha visto em um grupo da comunidade..
@@ -6637,7 +6637,7 @@ Tem dois caminhos:
 
 👉 N8N é mais completo, faz muitas integrações com outras ferramentas e ias. Mas requer certo conhecimento pq vc precisa criar a infraestrutura vps, banco, N8N etc. 
 
-Minha visão.
+Minha visêo.
 
 ------------------------------
 
@@ -6688,7 +6688,7 @@ MENSAGEM 931
 Autor: Adriano de Belmonte
 Data: 2025-07-10T12:24:25+00:00
 Texto:
-Olá gente eu estou iniciando, por onde começar, vejo que tem muita informação?
+Olá gente eu estou iniciando, por onde começar, vejo que tem muita informaçêo?
 
 ------------------------------
 
@@ -7305,7 +7305,7 @@ MENSAGEM 1019
 Autor: Totty
 Data: 2025-07-03T19:27:48+00:00
 Texto:
-@INEMAtds vc tem essa automação: https://www.youtube.com/watch?v=o5H5OlHr_yM
+@INEMAtds vc tem essa automaçêo: https://www.youtube.com/watch?v=o5H5OlHr_yM
 
 Se sim, pode me indicar o diretório para achar, por gentileza? Obrigado
 Midia: MessageMediaWebPage
@@ -8194,7 +8194,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 1145
-Autor: Comercio de Importação
+Autor: Comercio de Importaçêo
 Data: 2025-06-25T01:59:22+00:00
 Texto: [Sem texto]
 
@@ -8383,14 +8383,14 @@ Data: 2025-06-23T00:48:34+00:00
 Texto:
 boa noite @Diacono_Roberto_Guedes 
 Eu sugiro começar pelo canal do N8N, tem muito video la. Desde os primeiros passos para montar o primeiro workflow até coisas mais complexas.
-Os videos estão em ingles, mas aí se isso for uma dificuldade, utilzia os recursos de tradução do Youtube e até as Ias que traduzem e resumes os videos , como a Monica ou o Youtube Simmary
+Os videos estêo em ingles, mas aí se isso for uma dificuldade, utilzia os recursos de traduçêo do Youtube e até as Ias que traduzem e resumes os videos , como a Monica ou o Youtube Simmary
 
 Este é o canal
 https://www.youtube.com/@n8n-io/playlists
 
-procure entender primeiro os fundamentos, o que é um nó, uma variavel, como que testa o fluxo e como que coloca ele em produção e principalmente entender como funciona e o que é um webhook e uma api, pois estes 2 vão ser a base de qualquer automação que seja iniciada a partir de uma ferramenta externa, como o whatsapp, Instagram, um ERP, etc, e tambem utilizados nos dados de saida, como enviar dados para o Google Agenda, Watsapp, ERP, canvas, etc
+procure entender primeiro os fundamentos, o que é um nó, uma variavel, como que testa o fluxo e como que coloca ele em produçêo e principalmente entender como funciona e o que é um webhook e uma api, pois estes 2 vêo ser a base de qualquer automaçêo que seja iniciada a partir de uma ferramenta externa, como o whatsapp, Instagram, um ERP, etc, e tambem utilizados nos dados de saida, como enviar dados para o Google Agenda, Watsapp, ERP, canvas, etc
 
-Estes fundamentos são importantes, vão guiar teu trabalho daqui pra frente e vc entendendo eles, vai fazer um fluxo novo de forma fluida e bem rapido
+Estes fundamentos sêo importantes, vêo guiar teu trabalho daqui pra frente e vc entendendo eles, vai fazer um fluxo novo de forma fluida e bem rapido
 Midia: MessageMediaWebPage
 
 ------------------------------
@@ -8411,7 +8411,7 @@ Precisa. Esse modelo é pago
 ------------------------------
 
 MENSAGEM 1174
-Autor: Não Me Viu
+Autor: Nêo Me Viu
 Data: 2025-06-22T22:03:12+00:00
 Texto: [Sem texto]
 Midia: MessageMediaPhoto -> photo_10343_1174.jpg
@@ -8419,7 +8419,7 @@ Midia: MessageMediaPhoto -> photo_10343_1174.jpg
 ------------------------------
 
 MENSAGEM 1175
-Autor: Não Me Viu
+Autor: Nêo Me Viu
 Data: 2025-06-22T22:03:10+00:00
 Texto:
 preciso pagar para conectar agente aqui ?
@@ -8455,7 +8455,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 1180
-Autor: Marcão
+Autor: Marcêo
 Data: 2025-06-22T15:12:50+00:00
 Texto: [Sem texto]
 
@@ -8521,12 +8521,12 @@ MENSAGEM 1189
 Autor: Diácono Roberto Guedes
 Data: 2025-06-21T19:56:51+00:00
 Texto:
-Boa tarde, sou novo por aqui, gostaria de indicação de por onde começar, se existe algum video para explicar o passo a passo desde o início. Obrigado
+Boa tarde, sou novo por aqui, gostaria de indicaçêo de por onde começar, se existe algum video para explicar o passo a passo desde o início. Obrigado
 
 ------------------------------
 
 MENSAGEM 1190
-Autor: João Correia
+Autor: Joêo Correia
 Data: 2025-06-21T18:28:38+00:00
 Texto: [Sem texto]
 
@@ -8662,7 +8662,7 @@ MENSAGEM 1209
 Autor: Gabriel
 Data: 2025-06-20T17:58:01+00:00
 Texto:
-Boa tarde, estou com uma dúvida, preciso armazenar alguns dados específicos de um clientes dentro do supabase, porém isso não vem na primeira mensagem do lead, o meu agente vai fazendo perguntas e eu preciso que o agente vá armazenando as respostas específicas.
+Boa tarde, estou com uma dúvida, preciso armazenar alguns dados específicos de um clientes dentro do supabase, porém isso nêo vem na primeira mensagem do lead, o meu agente vai fazendo perguntas e eu preciso que o agente vá armazenando as respostas específicas.
 
 Alguém tem algum video para indiciar como posso fazer isso, ou me explicar mesmo?
 
@@ -9082,7 +9082,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 1269
-Autor: Girão
+Autor: Girêo
 Data: 2025-06-17T13:41:42+00:00
 Texto: [Sem texto]
 
@@ -9222,7 +9222,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 1289
-Autor: Digão
+Autor: Digêo
 Data: 2025-06-16T17:03:25+00:00
 Texto: [Sem texto]
 
@@ -9297,7 +9297,7 @@ MENSAGEM 1299
 Autor: Acima do topo
 Data: 2025-06-16T12:58:30+00:00
 Texto:
-Bom dia galera preciso de uma automação para entregar o relatório pro cliente do Google ads alguém me ajuda ?
+Bom dia galera preciso de uma automaçêo para entregar o relatório pro cliente do Google ads alguém me ajuda ?
 
 ------------------------------
 
@@ -9781,7 +9781,7 @@ MENSAGEM 1367
 Autor: Francisco
 Data: 2025-06-12T19:48:28+00:00
 Texto:
-Onde encontro a automação para blogpost?
+Onde encontro a automaçêo para blogpost?
 
 ------------------------------
 
@@ -10510,7 +10510,7 @@ MENSAGEM 1471
 Autor: Gustavo
 Data: 2025-06-09T12:49:38+00:00
 Texto:
-Bom dia pessoal, sou novato aqui, gostaria de indicação de por onde começar, se existe algum video para explicar desde o começo
+Bom dia pessoal, sou novato aqui, gostaria de indicaçêo de por onde começar, se existe algum video para explicar desde o começo
 
 ------------------------------
 
@@ -11306,7 +11306,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 1585
-Autor: João
+Autor: Joêo
 Data: 2025-06-04T17:15:18+00:00
 Texto: [Sem texto]
 
@@ -11803,7 +11803,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 1656
-Autor: João
+Autor: Joêo
 Data: 2025-05-31T03:36:24+00:00
 Texto: [Sem texto]
 
@@ -11852,7 +11852,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 1663
-Autor: Estevão Mateus
+Autor: Estevêo Mateus
 Data: 2025-05-30T22:37:43+00:00
 Texto: [Sem texto]
 
@@ -11974,7 +11974,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 1680
-Autor: João vitor
+Autor: Joêo vitor
 Data: 2025-05-29T23:10:08+00:00
 Texto: [Sem texto]
 
@@ -11991,7 +11991,7 @@ MENSAGEM 1682
 Autor: Júnior
 Data: 2025-05-29T20:52:55+00:00
 Texto:
-Preciso de um template de automação no n8n que agenda no google calendar usando Evolution api
+Preciso de um template de automaçêo no n8n que agenda no google calendar usando Evolution api
 
 ------------------------------
 
@@ -12522,7 +12522,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 1758
-Autor: João
+Autor: Joêo
 Data: 2025-05-26T12:21:47+00:00
 Texto: [Sem texto]
 
@@ -12865,7 +12865,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 1807
-Autor: João
+Autor: Joêo
 Data: 2025-05-23T09:51:14+00:00
 Texto: [Sem texto]
 
@@ -13105,7 +13105,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 1841
-Autor: João
+Autor: Joêo
 Data: 2025-05-21T16:28:25+00:00
 Texto: [Sem texto]
 
@@ -13239,7 +13239,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 1860
-Autor: Não Me Viu
+Autor: Nêo Me Viu
 Data: 2025-05-20T20:22:11+00:00
 Texto: [Sem texto]
 
@@ -13632,7 +13632,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 1916
-Autor: João
+Autor: Joêo
 Data: 2025-05-17T14:43:38+00:00
 Texto: [Sem texto]
 
@@ -13733,7 +13733,7 @@ MENSAGEM 1930
 Autor: Dr. Andre Lopes
 Data: 2025-05-16T22:20:52+00:00
 Texto:
-Quem ainda não conhece o gamma essa é a oportunidade! 
+Quem ainda nêo conhece o gamma essa é a oportunidade! 
 
 200 créditos para testar! 
 
@@ -14039,7 +14039,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 1973
-Autor: Magalhães
+Autor: Magalhêes
 Data: 2025-05-15T01:01:50+00:00
 Texto: [Sem texto]
 
@@ -15445,7 +15445,7 @@ MENSAGEM 2173
 Autor: Wanderson
 Data: 2025-05-02T15:05:19+00:00
 Texto:
-Fala pessoal, acredito ter visto aqui alguém que compartilhou um fluxo de N8N para a produção de vídeos para YouTube. Alguém tem?
+Fala pessoal, acredito ter visto aqui alguém que compartilhou um fluxo de N8N para a produçêo de vídeos para YouTube. Alguém tem?
 
 ------------------------------
 
@@ -15932,7 +15932,7 @@ Resumo completo:
 - Tema: Como transformar automaticamente notícias em posts de blog usando IA, sem precisar programar.
 - Ferramentas usadas: OpenAI, Supabase, Exa API.
 - Funcionalidade: O sistema extrai, formata e otimiza notícias para criar conteúdos prontos para blogs.
-- Vantagem: Automatiza a criação de posts de forma fácil e rápida.
+- Vantagem: Automatiza a criaçêo de posts de forma fácil e rápida.
 - Pedido: Curtir, comentar e se inscrever no canal; deixar nos comentários o que foi mais útil.
 
 Tópicos com exemplos e respostas:
@@ -16375,7 +16375,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 2302
-Autor: Lucimara Guimarães Lopes
+Autor: Lucimara Guimarêes Lopes
 Data: 2025-04-24T15:01:05+00:00
 Texto: [Sem texto]
 
@@ -17435,7 +17435,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 2453
-Autor: João Paulo
+Autor: Joêo Paulo
 Data: 2025-04-16T21:59:31+00:00
 Texto: [Sem texto]
 
@@ -17725,7 +17725,7 @@ MENSAGEM 2494
 Autor: ALEXANDRE
 Data: 2025-04-15T01:43:43+00:00
 Texto:
-Boa noite, teve alguma atualização do N8N que mudou criação de credenciais? Antes pedia Authorization URL e Access Token URL?
+Boa noite, teve alguma atualizaçêo do N8N que mudou criaçêo de credenciais? Antes pedia Authorization URL e Access Token URL?
 
 ------------------------------
 
@@ -17744,7 +17744,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 2497
-Autor: Magalhães
+Autor: Magalhêes
 Data: 2025-04-15T00:28:32+00:00
 Texto: [Sem texto]
 
@@ -17870,7 +17870,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 2515
-Autor: João
+Autor: Joêo
 Data: 2025-04-14T13:47:28+00:00
 Texto: [Sem texto]
 
@@ -17943,7 +17943,7 @@ MENSAGEM 2525
 Autor: Dr. Andre Lopes
 Data: 2025-04-13T23:52:52+00:00
 Texto:
-Alguém tem automação para responder postagem automática no Instagram?
+Alguém tem automaçêo para responder postagem automática no Instagram?
 
 ------------------------------
 
@@ -18101,7 +18101,7 @@ Data: 2025-04-13T00:01:21+00:00
 Texto:
 Olá! Sou a Tiza do inema.vip. Que bom ter você com a gente!
 
-Este grupo é a nossa central de recepção. Sempre que tiver dúvidas, sugestões ou algum problema, é só postar aqui.
+Este grupo é a nossa central de recepçêo. Sempre que tiver dúvidas, sugestões ou algum problema, é só postar aqui.
 
 No VIP, você encontra:
 
@@ -18615,7 +18615,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 2618
-Autor: Estevão Mateus
+Autor: Estevêo Mateus
 Data: 2025-04-10T22:25:57+00:00
 Texto: [Sem texto]
 
@@ -18760,7 +18760,7 @@ Data: 2025-04-10T15:26:33+00:00
 Texto:
 Olá! Sou a Tiza do inema.vip. Que bom ter você com a gente!
 
-Este grupo é a nossa central de recepção. Sempre que tiver dúvidas, sugestões ou algum problema, é só postar aqui.
+Este grupo é a nossa central de recepçêo. Sempre que tiver dúvidas, sugestões ou algum problema, é só postar aqui.
 
 No VIP, você encontra:
 
@@ -19282,7 +19282,7 @@ MENSAGEM 2710
 Autor: Wagner
 Data: 2025-04-08T15:17:51+00:00
 Texto:
-Eu também não sei nadinha
+Eu também nêo sei nadinha
 
 ------------------------------
 
@@ -20869,7 +20869,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 2937
-Autor: João
+Autor: Joêo
 Data: 2025-03-27T01:18:43+00:00
 Texto: [Sem texto]
 
@@ -21793,7 +21793,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 3069
-Autor: Pedro Falcão
+Autor: Pedro Falcêo
 Data: 2025-03-19T20:07:49+00:00
 Texto: [Sem texto]
 
@@ -22061,7 +22061,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 3107
-Autor: Fã
+Autor: Fê
 Data: 2025-03-18T06:10:29+00:00
 Texto: [Sem texto]
 
@@ -22465,7 +22465,7 @@ Data: 2025-03-16T12:22:08+00:00
 Texto:
 Bom dia pessoal, eu sou novo aqui. 
 
-E estou buscando uma automação que faça ligações igual no vídeo que eu vi, isso existe mesmo?
+E estou buscando uma automaçêo que faça ligações igual no vídeo que eu vi, isso existe mesmo?
 
 ------------------------------
 
@@ -22694,7 +22694,7 @@ https://t.me/+6ljyHp_Df-E0ZTM5
 
 Bem vindo a Nossa comunidade!
 
-O INEMA.VIP é nossa área de acesso a todo o restante dos conteúdos. Ali tem o repositório, onde pode acessar todas as áreas. Através da área Vip criaremos nossa conexão e atualizações.
+O INEMA.VIP é nossa área de acesso a todo o restante dos conteúdos. Ali tem o repositório, onde pode acessar todas as áreas. Através da área Vip criaremos nossa conexêo e atualizações.
 Midia: MessageMediaWebPage
 
 ------------------------------
@@ -23100,14 +23100,14 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 3254
-Autor: João Victor
+Autor: Joêo Victor
 Data: 2025-03-12T22:48:14+00:00
 Texto: [Sem texto]
 
 ------------------------------
 
 MENSAGEM 3255
-Autor: João
+Autor: Joêo
 Data: 2025-03-12T22:03:15+00:00
 Texto: [Sem texto]
 
@@ -23534,7 +23534,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 3316
-Autor: João Pedro
+Autor: Joêo Pedro
 Data: 2025-03-10T20:33:55+00:00
 Texto: [Sem texto]
 
@@ -23979,7 +23979,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 3379
-Autor: João
+Autor: Joêo
 Data: 2025-03-06T23:57:57+00:00
 Texto: [Sem texto]
 
@@ -24224,7 +24224,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 3414
-Autor: João Ricardo
+Autor: Joêo Ricardo
 Data: 2025-03-04T14:39:03+00:00
 Texto: [Sem texto]
 
@@ -24357,7 +24357,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 3433
-Autor: Marcos Gusmão.
+Autor: Marcos Gusmêo.
 Data: 2025-03-02T16:13:56+00:00
 Texto: [Sem texto]
 
@@ -24679,7 +24679,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 3479
-Autor: Fluxme Dev - Captação de projetos
+Autor: Fluxme Dev - Captaçêo de projetos
 Data: 2025-02-26T15:59:04+00:00
 Texto: [Sem texto]
 
@@ -24861,7 +24861,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 3505
-Autor: Salomão
+Autor: Salomêo
 Data: 2025-02-23T18:42:37+00:00
 Texto: [Sem texto]
 
@@ -25155,7 +25155,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 3547
-Autor: João Paulo
+Autor: Joêo Paulo
 Data: 2025-02-20T00:22:11+00:00
 Texto: [Sem texto]
 
@@ -25435,7 +25435,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 3587
-Autor: Sergio Guimarães
+Autor: Sergio Guimarêes
 Data: 2025-02-17T11:31:42+00:00
 Texto: [Sem texto]
 
@@ -25543,7 +25543,7 @@ MENSAGEM 3602
 Autor: Tiza
 Data: 2025-02-15T14:22:24+00:00
 Texto:
-@INEMAtds está em Live falando de automação no YouTube
+@INEMAtds está em Live falando de automaçêo no YouTube
 Inema.tdsx
 
 ------------------------------
@@ -26004,7 +26004,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 3668
-Autor: João Felipe
+Autor: Joêo Felipe
 Data: 2025-02-11T20:57:37+00:00
 Texto: [Sem texto]
 
@@ -27695,7 +27695,7 @@ MENSAGEM 3909
 Autor: INEMA
 Data: 2025-01-29T03:11:15+00:00
 Texto:
-Lá no repositorio do inema.vip você vai para o inema.make lá estão as automacoes
+Lá no repositorio do inema.vip você vai para o inema.make lá estêo as automacoes
 
 ------------------------------
 
@@ -27703,7 +27703,7 @@ MENSAGEM 3910
 Autor: Guilherme
 Data: 2025-01-29T02:37:35+00:00
 Texto:
-Vi um video onde a pessoa criou uma automação para criar conteúdo e postar nas redes sociais.
+Vi um video onde a pessoa criou uma automaçêo para criar conteúdo e postar nas redes sociais.
 
 ------------------------------
 
@@ -28578,7 +28578,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 4035
-Autor: Sandrão Magal
+Autor: Sandrêo Magal
 Data: 2025-01-25T15:42:48+00:00
 Texto: [Sem texto]
 
@@ -29572,7 +29572,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 4177
-Autor: Eu sou be | Leia Descrição | Lançamentos Digital
+Autor: Eu sou be | Leia Descriçêo | Lançamentos Digital
 Data: 2025-01-22T20:46:22+00:00
 Texto: [Sem texto]
 
@@ -31014,7 +31014,7 @@ Texto: [Sem texto]
 ------------------------------
 
 MENSAGEM 4383
-Autor: João Pedro
+Autor: Joêo Pedro
 Data: 2025-01-20T21:11:35+00:00
 Texto: [Sem texto]
 

@@ -28,7 +28,7 @@ Comece com o problema que você está resolvendo.
 Depois, defina sua arquitetura.
 ✔️ O sistema RAG realmente é necessário?
 ✔️ A IA será linear ou baseada em agentes?
-✔️ Quais fontes de dados serão usadas?
+✔️ Quais fontes de dados serêo usadas?
 
 O melhor RAG é simples.
 Porém, é preciso fazer do jeito certo.

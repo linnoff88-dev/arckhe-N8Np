@@ -30,10 +30,10 @@ MENSAGEM 3
 Autor: INEMA
 Data: 2025-04-11T04:07:15+00:00
 Texto:
-Resumo completo e direto do vídeo **"Integração MCP nativa do n8n (sem exageros)"**:
+Resumo completo e direto do vídeo **"Integraçêo MCP nativa do n8n (sem exageros)"**:
 
 ### Resumo Geral
-O vídeo apresenta a nova **integração nativa dos nós MCP no n8n**, explicando como funciona, suas limitações atuais e o que é possível fazer hoje conectando ferramentas como Claude Desktop. Apesar do avanço, **a integração ainda não oferece a flexibilidade ideal para agentes MCP verdadeiramente dinâmicos**.
+O vídeo apresenta a nova **integraçêo nativa dos nós MCP no n8n**, explicando como funciona, suas limitações atuais e o que é possível fazer hoje conectando ferramentas como Claude Desktop. Apesar do avanço, **a integraçêo ainda nêo oferece a flexibilidade ideal para agentes MCP verdadeiramente dinâmicos**.
 
 ---
 
@@ -41,41 +41,41 @@ O vídeo apresenta a nova **integração nativa dos nós MCP no n8n**, explicand
 
 1. **O que é MCP (Model Context Protocol)?**
    - Protocolo para conectar LLMs com ferramentas externas.
-   - Serve como um "padrão universal" de integração.
+   - Serve como um "padrêo universal" de integraçêo.
    - Exemplo: Claude acessando ferramentas do n8n via MCP.
 
 2. **Novos nós nativos no n8n**
    - `MCP Server Trigger`: escuta requisições do MCP.
    - `MCP Client Tool`: usado para chamar ferramentas no n8n.
-   - Antes era necessário instalar nodes da comunidade. Agora está nativo desde a versão **1.88**.
+   - Antes era necessário instalar nodes da comunidade. Agora está nativo desde a versêo **1.88**.
 
-3. **Como funciona a conexão**
+3. **Como funciona a conexêo**
    - Usa **SSE (Server Sent Events)** como endpoint.
-   - Não é tão flexível quanto o modo `command line + args`, usado nos nodes da comunidade.
-   - Exemplo: Claude chama um endpoint do n8n via URL de produção configurada em JSON.
+   - Nêo é têo flexível quanto o modo `command line + args`, usado nos nodes da comunidade.
+   - Exemplo: Claude chama um endpoint do n8n via URL de produçêo configurada em JSON.
 
-4. **Demonstração prática**
+4. **Demonstraçêo prática**
    - Claude cria um evento no calendário às 15h.
    - MCP Trigger ativa um fluxo no n8n que cria o evento.
    - Claude recebe os dados de volta, como título e horário do evento.
 
 5. **Limitações atuais**
-   - Os recursos e operações de cada ferramenta ainda são **fixos**.
+   - Os recursos e operações de cada ferramenta ainda sêo **fixos**.
    - Exemplo: ferramenta “create event” só faz `create` com `event`.
-   - Ideal seria o agente escolher dinamicamente recurso e operação com base no prompt.
+   - Ideal seria o agente escolher dinamicamente recurso e operaçêo com base no prompt.
 
 6. **Problemas com o prompt**
-   - Claude nem sempre envia só a instrução — às vezes já envia o conteúdo pronto.
+   - Claude nem sempre envia só a instruçêo — às vezes já envia o conteúdo pronto.
    - Exemplo: em vez de enviar “crie um post sobre Nvidia”, ele já gera o post e envia.
-   - Isso dificulta workflows que dependem de pesquisa ou validação antes.
+   - Isso dificulta workflows que dependem de pesquisa ou validaçêo antes.
 
-7. **Comparação com fluxos manuais**
-   - Em fluxos com múltiplas etapas, como “buscar contato, depois enviar email”, o modelo pode não seguir corretamente sem prompting planejado.
-   - Solução atual: usar "assistente principal" com agentes filhos, simulando MCPs separados (email, calendário, etc.).
+7. **Comparaçêo com fluxos manuais**
+   - Em fluxos com múltiplas etapas, como “buscar contato, depois enviar email”, o modelo pode nêo seguir corretamente sem prompting planejado.
+   - Soluçêo atual: usar "assistente principal" com agentes filhos, simulando MCPs separados (email, calendário, etc.).
 
-8. **Integração com Claude Desktop**
+8. **Integraçêo com Claude Desktop**
    - Necessário instalar o **Claude Desktop + Node.js**.
-   - Configuração feita via `config.json`, inserindo o URL de produção do trigger do n8n.
+   - Configuraçêo feita via `config.json`, inserindo o URL de produçêo do trigger do n8n.
    - Após reiniciar o Claude, as ferramentas do n8n ficam visíveis como "MCP tools".
 
 9. **Exemplo de uso com Claude Desktop**
@@ -84,15 +84,15 @@ O vídeo apresenta a nova **integração nativa dos nós MCP no n8n**, explicand
 
 ---
 
-### Conclusão
+### Conclusêo
 
 - **Pontos positivos:**
-  - Integração nativa no n8n facilita o uso com Claude e outras ferramentas.
+  - Integraçêo nativa no n8n facilita o uso com Claude e outras ferramentas.
   - Permite automações passo a passo bem definidas.
   
 - **Limitações atuais:**
   - Falta flexibilidade para agentes decidirem recursos e operações dinamicamente.
-  - Prompting ainda é limitado quando não controlado dentro do agente.
+  - Prompting ainda é limitado quando nêo controlado dentro do agente.
   
 - **Potencial futuro:**
   - Quando os agentes puderem escolher recursos/operações de forma dinâmica e adaptar o prompting, o uso dos MCPs será verdadeiramente poderoso.
@@ -111,11 +111,11 @@ MENSAGEM 5
 Autor: INEMA
 Data: 2025-04-11T04:06:34+00:00
 Texto:
-Resumo completo e direto do vídeo **"Integração MCP nativa do n8n 
+Resumo completo e direto do vídeo **"Integraçêo MCP nativa do n8n 
 (sem exageros)"**:
 
 ### Resumo Geral
-O vídeo apresenta a nova **integração nativa dos nós MCP no n8n**, explicando como funciona, suas limitações atuais e o que é possível fazer hoje conectando ferramentas como Claude Desktop. Apesar do avanço, **a integração ainda não oferece a flexibilidade ideal para agentes MCP verdadeiramente dinâmicos**.
+O vídeo apresenta a nova **integraçêo nativa dos nós MCP no n8n**, explicando como funciona, suas limitações atuais e o que é possível fazer hoje conectando ferramentas como Claude Desktop. Apesar do avanço, **a integraçêo ainda nêo oferece a flexibilidade ideal para agentes MCP verdadeiramente dinâmicos**.
 
 ------------------------------
 

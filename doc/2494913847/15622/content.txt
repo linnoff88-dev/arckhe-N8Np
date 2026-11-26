@@ -38,22 +38,22 @@ MENSAGEM 4
 Autor: INEMA
 Data: 2025-11-06T07:23:59+00:00
 Texto:
-Abaixo está um **prompt-padrão** completo e reutilizável para você gerar automaticamente novos **conteúdos no formato ****INEMA.VIP** (como os 10 anteriores).
-Esse modelo serve tanto para ChatGPT quanto para automação em n8n, Make ou planilhas.
+Abaixo está um **prompt-padrêo** completo e reutilizável para você gerar automaticamente novos **conteúdos no formato ****INEMA.VIP** (como os 10 anteriores).
+Esse modelo serve tanto para ChatGPT quanto para automaçêo em n8n, Make ou planilhas.
 
 ---
 
-### **[PROMPT PADRÃO – GERAÇÃO DE CONTEÚDOS ****INEMA.VIP****]**
+### **[PROMPT PADRêO – GERAÇêO DE CONTEÚDOS ****INEMA.VIP****]**
 
 **Objetivo:**
-Gerar conteúdos curtos e cinematográficos (para vídeos 16:9) com foco em transformação humana, autoconhecimento e uso prático da Inteligência Artificial — seguindo a estrutura horizontal da planilha (Geral, Persona, Produto, Cena).
+Gerar conteúdos curtos e cinematográficos (para vídeos 16:9) com foco em transformaçêo humana, autoconhecimento e uso prático da Inteligência Artificial — seguindo a estrutura horizontal da planilha (Geral, Persona, Produto, Cena).
 
 ---
 
-**INSTRUÇÃO BASE**
+**INSTRUÇêO BASE**
 
 Crie **10 conteúdos diferentes** sobre o tema abaixo, seguindo o formato do modelo INEMA.VIP:
-Cada conteúdo deve provocar reflexão, gerar identificação e estimular ação prática dentro da comunidade.
+Cada conteúdo deve provocar reflexêo, gerar identificaçêo e estimular açêo prática dentro da comunidade.
 
 **Tema:**
 `{{ assunto }}`
@@ -61,20 +61,20 @@ Cada conteúdo deve provocar reflexão, gerar identificação e estimular ação
 **Diretrizes:**
 
 1. Todos os vídeos devem seguir formato **16:9 cinematográfico**.
-2. As **descrições da cena e falas** são em **inglês**, mas o **diálogo e texto na tela** são **em português**.
+2. As **descrições da cena e falas** sêo em **inglês**, mas o **diálogo e texto na tela** sêo **em português**.
 3. O foco é sempre **autoconhecimento + IA + comportamento humano + prática real**.
 4. Estrutura de cada conteúdo (colunas da planilha):
 
    * Geral: *Aspect Ratio, Idioma*
    * Persona: *Público-alvo, Objetivos, Características*
    * Produto: *Nome, Tipo, Conteúdo, Método, Benefício*
-   * Cena: *Local, Tempo, Personagem, Ações, Emoção, Diálogo, Texto na tela, Efeitos visuais, Encerramento*
+   * Cena: *Local, Tempo, Personagem, Ações, Emoçêo, Diálogo, Texto na tela, Efeitos visuais, Encerramento*
 5. O tom deve ser **inspirador, provocativo e humano**, com linguagem natural e frases curtas.
 6. O diálogo deve sempre ser **emocional e real**, de até 2 frases curtas.
 
 **Formato de saída (tabela horizontal):**
 Cada linha representa **1 conteúdo completo**.
-Não repita blocos de instrução — apenas as linhas finais, prontas para exportar como CSV.
+Nêo repita blocos de instruçêo — apenas as linhas finais, prontas para exportar como CSV.
 
 ---
 

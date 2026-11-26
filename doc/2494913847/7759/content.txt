@@ -22,7 +22,7 @@ MENSAGEM 2
 Autor: INEMA
 Data: 2025-05-16T19:12:33+00:00
 Texto:
-Aqui estão os **principais hacks e truques**  para automatizar raspagem de dados com **Apify + n8n**, mesmo sem saber programar:
+Aqui estêo os **principais hacks e truques**  para automatizar raspagem de dados com **Apify + n8n**, mesmo sem saber programar:
 
 ### Hacks e Truques 
 
@@ -60,7 +60,7 @@ Aqui estão os **principais hacks e truques**  para automatizar raspagem de dado
 5. **Evite APIs complexas, apenas copie e cole**
 
    * Apify gera as URLs da API prontas.
-   * Basta colar no n8n (HTTP Node), trocar o método para `POST` ou `GET` e colar o JSON do corpo da requisição.
+   * Basta colar no n8n (HTTP Node), trocar o método para `POST` ou `GET` e colar o JSON do corpo da requisiçêo.
 
 6. **Reutilize e escale seus fluxos**
 
@@ -69,12 +69,12 @@ Aqui estão os **principais hacks e truques**  para automatizar raspagem de dado
 
 7. **Use polling para resultados imprevisíveis**
 
-   * Quando o tempo de execução do ator for variável, use um **loop de verificação (polling)**:
+   * Quando o tempo de execuçêo do ator for variável, use um **loop de verificaçêo (polling)**:
 
      * Verifica se o resultado está pronto.
-     * Se não, espera e tenta de novo até completar.
+     * Se nêo, espera e tenta de novo até completar.
 
-8. **Automatize geração de leads 24/7**
+8. **Automatize geraçêo de leads 24/7**
 
    * Configure para rodar todo dia, buscando novos leads de forma automática.
    * Integre com envio de e-mails, CRMs ou planilhas no Google Sheets.
@@ -114,10 +114,10 @@ Como fazer *web scraping* de qualquer fonte (sites, redes sociais, Google Maps e
 
 2. **Dois passos para scraping com n8n:**
 
-   * **1º passo:** enviar requisição HTTP com método POST para iniciar o ator.
-   * **2º passo:** após a execução, usar requisição GET para obter os resultados (leads, dados, etc.).
+   * **1º passo:** enviar requisiçêo HTTP com método POST para iniciar o ator.
+   * **2º passo:** após a execuçêo, usar requisiçêo GET para obter os resultados (leads, dados, etc.).
 
-3. **Configuração prática:**
+3. **Configuraçêo prática:**
 
    * Atores como TikTok scraper aceitam parâmetros simples via JSON (ex: hashtag, número de resultados).
    * Basta copiar os endpoints da API no Apify e colar no n8n.
@@ -143,7 +143,7 @@ Como fazer *web scraping* de qualquer fonte (sites, redes sociais, Google Maps e
 * Coleta de 25 vídeos com #AIContent no TikTok.
 
 
-Essa combinação de Apify + n8n é ideal para quem quer automatizar scraping e geração de leads de forma simples, escalável e sem precisar escrever código.
+Essa combinaçêo de Apify + n8n é ideal para quem quer automatizar scraping e geraçêo de leads de forma simples, escalável e sem precisar escrever código.
 
 ------------------------------
 
@@ -163,9 +163,9 @@ A maneira mais simples de automatizar a raspagem de qualquer coisa sem código (
 
 Quer fazer scraping de sites, redes sociais ou gerar leads sem escrever uma única linha de código? Neste vídeo, mostrarei a maneira mais rápida e fácil de usar o Apify com o n8n para fazer scraping de qualquer coisa, de perfis do Instagram a empresas do Google Maps e muito mais.
 
-O Apify é uma plataforma repleta de atores poderosos e pré-construídos. Ao conectá-lo ao n8n, você desbloqueia um sistema de automação sem código que pode coletar e mover dados para onde você precisar. Vou explicar como configurar seu primeiro Ator em menos de 5 minutos e como conectá-lo ao n8n simplesmente copiando e colando.
+O Apify é uma plataforma repleta de atores poderosos e pré-construídos. Ao conectá-lo ao n8n, você desbloqueia um sistema de automaçêo sem código que pode coletar e mover dados para onde você precisar. Vou explicar como configurar seu primeiro Ator em menos de 5 minutos e como conectá-lo ao n8n simplesmente copiando e colando.
 
-Seja você empresário, profissional de marketing ou apenas explorando ferramentas sem código, esta combinação é incrivelmente poderosa para geração de leads, pesquisa e fluxos de trabalho de conteúdo. Sem codificação, sem dores de cabeça — basta conectar, usar e começar a trabalhar.
+Seja você empresário, profissional de marketing ou apenas explorando ferramentas sem código, esta combinaçêo é incrivelmente poderosa para geraçêo de leads, pesquisa e fluxos de trabalho de conteúdo. Sem codificaçêo, sem dores de cabeça — basta conectar, usar e começar a trabalhar.
 
 ------------------------------
 

@@ -17,7 +17,7 @@ Texto:
 
 1. **Resumo ativo**
    Sempre retorne ao lead o que já foi dito:
-   *“Até agora tenho: equipe de 12 pessoas, usando GHL + Notion, e o maior gasto é faturação manual.”*
+   *“Até agora tenho: equipe de 12 pessoas, usando GHL + Notion, e o maior gasto é faturaçêo manual.”*
    Isso aumenta confiança e evita repetições.
 
 2. **Nota de voz incentivada**
@@ -34,10 +34,10 @@ Texto:
 ### Hacks de Dados e Memória
 
 4. **STOP flag no banco**
-   Salve `stop=true` na tabela após enviar o email → garante que o bot não interrompa follow-up humano.
+   Salve `stop=true` na tabela após enviar o email → garante que o bot nêo interrompa follow-up humano.
 
 5. **JSON autofix**
-   Sempre passe por camada de correção: se IA devolver JSON quebrado, outra chamada ajusta para schema fixo.
+   Sempre passe por camada de correçêo: se IA devolver JSON quebrado, outra chamada ajusta para schema fixo.
    → Elimina falhas que travam o fluxo.
 
 6. **Telefone limpo**
@@ -49,7 +49,7 @@ Texto:
 ### Hacks de Relatório
 
 7. **ICE Matrix automática**
-   Impacto + Confiança – Esforço → classificação simples de quick wins.
+   Impacto + Confiança – Esforço → classificaçêo simples de quick wins.
    → Dá ao lead um “ranking” claro de onde começar.
 
 8. **Suposições visíveis**
@@ -72,7 +72,7 @@ Texto:
 
 11. **Fallback de modelo**
     Configure sempre um 2º modelo (ex.: via OpenRouter).
-    → Se GPT-4.1-mini falhar, não perde lead.
+    → Se GPT-4.1-mini falhar, nêo perde lead.
 
 12. **Etiqueta de origem no CRM**
     Use sempre `bot_consultor`.
@@ -82,7 +82,7 @@ Texto:
 
 ### Hacks de Escalabilidade
 
-13. **Segmentação automática no CRM**
+13. **Segmentaçêo automática no CRM**
     Defina triggers:
 
 * +10 funcionários → SDR recebe tarefa
@@ -90,7 +90,7 @@ Texto:
   → Leads grandes nunca ficam parados.
 
 14. **Teste com leads fictícios**
-    Crie 3 perfis falsos (micro, médio, enterprise) e rode a automação.
+    Crie 3 perfis falsos (micro, médio, enterprise) e rode a automaçêo.
     → Ajusta perguntas, relatórios e estimativas antes de lançar.
 
 15. **Multiuso do relatório**
@@ -122,11 +122,11 @@ Bearer SUA_CHAVE_GHL" \
       "cargo": "CEO",
       "tamanho_time": "12",
       "ferramentas": "GHL, Manychat, Notion, Holded",
-      "dores": "faturação manual; relatórios meta"
+      "dores": "faturaçêo manual; relatórios meta"
     }
   }'
 ```
-* Adição de tag de origem
+* Adiçêo de tag de origem
 ```
 curl -X POST "https://rest.gohighlevel.com/v1/contacts/tags/add" \
   -H "Authorization: Bearer SUA_CHAVE_GHL" \
@@ -136,12 +136,12 @@ curl -X POST "https://rest.gohighlevel.com/v1/contacts/tags/add" \
 
 ```
 
-10. Fluxo 8 — Encerramento no WhatsApp e transição para humano
+10. Fluxo 8 — Encerramento no WhatsApp e transiçêo para humano
 
-* Mensagem final padrão
+* Mensagem final padrêo
 
   * Acabo de te enviar o relatório por email. Acredito que há bastante coisa simples de automatizar. Fico à espera da tua resposta. Abraço!
-* O flag stop=true garante que o bot não interfira no follow-up humano.
+* O flag stop=true garante que o bot nêo interfira no follow-up humano.
 
 11. Testes essenciais (roteiro rápido)
 
@@ -150,7 +150,7 @@ curl -X POST "https://rest.gohighlevel.com/v1/contacts/tags/add" \
   * Esperado: action=reprompt pedindo exemplos/detalhes.
 * Cenário 2 — Áudio longo
 
-  * Esperado: transcrição correta; campos preenchidos; resumo intermediário do bot.
+  * Esperado: transcriçêo correta; campos preenchidos; resumo intermediário do bot.
 * Cenário 3 — Email inválido
 
   * Esperado: aceita, envia; mas valide bounce no provedor.
@@ -169,7 +169,7 @@ curl -X POST "https://rest.gohighlevel.com/v1/contacts/tags/add" \
 * Suposições explícitas nas estimativas.
 * Telefone normalizado e email injetado no template.
 * Flag stop=true ao finalizar.
-* Fallback de modelo configurado (OpenRouter) para geração do relatório.
+* Fallback de modelo configurado (OpenRouter) para geraçêo do relatório.
 
 13. Exemplos práticos de quick wins (para já usar)
 
@@ -178,17 +178,17 @@ curl -X POST "https://rest.gohighlevel.com/v1/contacts/tags/add" \
   * Coleta automática semanal de métricas Meta/Google → planilha mestra + relatório com 1 clique.
 * Financeiro
 
-  * Faturação e cobrança no Holded/GHL com lembretes automáticos e exportação padronizada para a contabilidade.
+  * Faturaçêo e cobrança no Holded/GHL com lembretes automáticos e exportaçêo padronizada para a contabilidade.
 * Atendimento
 
-  * Triage de tickets WhatsApp → classificação + respostas padrão + escalonamento.
+  * Triage de tickets WhatsApp → classificaçêo + respostas padrêo + escalonamento.
 
 Perguntas frequentes rápidas
 
 * Posso rodar sem CRM?
 
-  * Pode, mas perde segmentação e priorização. Recomendado ao menos planilha com schema fixo.
-* E se o lead não quiser enviar áudio?
+  * Pode, mas perde segmentaçêo e priorizaçêo. Recomendado ao menos planilha com schema fixo.
+* E se o lead nêo quiser enviar áudio?
 
   * Funciona com texto; apenas mantenha reprompts curtos para capturar detalhes.
 * Qual modelo usar?
@@ -207,12 +207,12 @@ Data: 2025-09-05T18:34:38+00:00
 Texto:
 Segue um passo a passo direto para implementar o lead magnet no WhatsApp que gera relatório automático e alimenta o CRM. Mantive tudo enxuto, mas completo, com exemplos.
 
-1. Preparação do ambiente
+1. Preparaçêo do ambiente
 
 * Canais e chaves
 
   * WhatsApp: Evolution API (webhook + envio).
-  * IA: OpenAI (GPT-4.1-mini) e Whisper/Transcrição.
+  * IA: OpenAI (GPT-4.1-mini) e Whisper/Transcriçêo.
   * Banco: PostgreSQL (tabelas: conversations, push\_buffer).
   * Email: Gmail SMTP (ou provedor de sua escolha).
   * CRM: HighLevel (GHL) via API.
@@ -237,14 +237,14 @@ Segue um passo a passo direto para implementar o lead magnet no WhatsApp que ger
   * Se mídia for imagem/sticker → responder pedindo texto/áudio.
   * Se áudio → baixar e transcrever com Whisper.
   * Normalizar sempre para pares: msg\_id e msg\_content.
-* Exemplo de resposta quando mídia não suportada
+* Exemplo de resposta quando mídia nêo suportada
 
   * Envie por favor texto ou nota de voz para eu entender melhor e te ajudar de verdade 🙂
 
 4. Fluxo 2 — Buffer e agrupamento
 
 * Ao chegar uma mensagem, empurre no push\_buffer.
-* Aguarde \~10s e, então, agregue todas as entradas do período por phone.
+* Aguarde \~10s e, entêo, agregue todas as entradas do período por phone.
 * Limpe o push\_buffer do número após agregar.
 * Resultado: um bloco coeso de conteúdo para passar ao bot.
 
@@ -255,7 +255,7 @@ Segue um passo a passo direto para implementar o lead magnet no WhatsApp que ger
   * Você é Silvia, consultora SolutechIA no WhatsApp. Faça 1 pergunta por vez, resuma o que já sabe, incentive nota de voz para respostas longas. Controle de fluxo via action: ask | reprompt | finish. Quando coletar o email, encerre: Em alguns minutos você receberá seu relatório por email. Um abraço.
 * Ordem de perguntas
 
-  * nome completo → empresa e atividade → cargo → tamanho da equipe → ferramentas usadas → canais de aquisição (opcional) → tarefas repetitivas/dor (incentivar áudio) → se resolvesse 1 problema amanhã, qual seria e por quê → volume mensal (opcional) → email para envio do relatório.
+  * nome completo → empresa e atividade → cargo → tamanho da equipe → ferramentas usadas → canais de aquisiçêo (opcional) → tarefas repetitivas/dor (incentivar áudio) → se resolvesse 1 problema amanhê, qual seria e por quê → volume mensal (opcional) → email para envio do relatório.
 * Saída esperada do bot (JSON)
 
 ```{
@@ -282,9 +282,9 @@ Segue um passo a passo direto para implementar o lead magnet no WhatsApp que ger
 6. Fluxo 4 — Desvio condicional
 
 * Se action ≠ finish → enviar próxima pergunta no WhatsApp e voltar ao Fluxo 1.
-* Se action=finish → ir para geração do relatório, email, CRM e encerramento.
+* Se action=finish → ir para geraçêo do relatório, email, CRM e encerramento.
 
-7. Fluxo 5 — Geração do relatório HTML5
+7. Fluxo 5 — Geraçêo do relatório HTML5
 
 * Entradas do agente de relatório
 
@@ -354,25 +354,25 @@ Criar um lead magnet conversacional no WhatsApp que, em minutos, coleta contexto
 Por que isso importa
 
 1. Valor antes da venda: o lead recebe um diagnóstico claro do que economiza e como começar.
-2. Qualificação automática: a conversa estrutura dados-chave (empresa, cargo, tamanho, ferramentas, dores).
+2. Qualificaçêo automática: a conversa estrutura dados-chave (empresa, cargo, tamanho, ferramentas, dores).
 3. Eficiência comercial: reduz back-and-forth, prioriza quem tem maior potencial e prepara o follow-up humano.
-4. Baixo custo de execução: automação roda por centavos e escala com pouco esforço.
+4. Baixo custo de execuçêo: automaçêo roda por centavos e escala com pouco esforço.
 5. Preditibilidade: estimativas com suposições explícitas aumentam credibilidade e taxa de resposta.
 
 Para quem é
 Agências, consultores, SaaS e negócios B2B que precisam captar e qualificar leads com rapidez, oferecendo utilidade prática já no primeiro contato.
 
-O que é e o que não é
+O que é e o que nêo é
 É: um funil de diagnóstico que usa conversa natural para gerar um plano consultivo acionável.
-Não é: um chatbot genérico de FAQ nem um orçamento fechado; é um documento de orientação com estimativas.
+Nêo é: um chatbot genérico de FAQ nem um orçamento fechado; é um documento de orientaçêo com estimativas.
 
 Como cumpre o propósito
 
 1. Conversa no WhatsApp capta contexto por texto/áudio.
-2. A automação resume e organiza em JSON os dados críticos.
+2. A automaçêo resume e organiza em JSON os dados críticos.
 3. Um prompt consultivo gera o relatório em HTML5 com quick wins de 2–3 semanas e fases seguintes.
-4. O relatório é enviado por email; o contato é criado/atualizado no CRM com tags para segmentação.
-5. O bot encerra e passa o bastão para atendimento humano quando fizer sentido.
+4. O relatório é enviado por email; o contato é criado/atualizado no CRM com tags para segmentaçêo.
+5. O bot encerra e passa o bastêo para atendimento humano quando fizer sentido.
 
 Resultado esperado para o lead
 Clareza do problema, do caminho e do ganho potencial (tempo e dinheiro), com próximos passos simples para iniciar.
@@ -393,15 +393,15 @@ Riscos e como mitigar
 • Ruído no CRM → normalizar telefone, usar tags de origem e esquema JSON fixo.
 
 Exemplos práticos ligados ao propósito
-• Agência de tráfego: relatório sugere automação de coleta de métricas semanais e template de apresentação ao cliente; mostra economia de 10 h/semana.
-• Consultoria financeira: relatório mapeia gargalos de faturamento e cobrança; sugere templates e rotinas automáticas; estima redução de 6 h/semana.
-• SaaS B2B: relatório identifica integrações prioritárias e onboarding; propõe quick win de 14 dias e checklist para adoção.
+• Agência de tráfego: relatório sugere automaçêo de coleta de métricas semanais e template de apresentaçêo ao cliente; mostra economia de 10 h/semana.
+• Consultoria financeira: relatório mapeia gargalos de faturamento e cobrança; sugere templates e rotinas automáticas; estima reduçêo de 6 h/semana.
+• SaaS B2B: relatório identifica integrações prioritárias e onboarding; propõe quick win de 14 dias e checklist para adoçêo.
 
 Perguntas comuns e respostas curtas
 • Isso substitui a proposta comercial?
-Não. Entrega um diagnóstico rápido com estimativas; a proposta vem depois, guiada pelo relatório.
+Nêo. Entrega um diagnóstico rápido com estimativas; a proposta vem depois, guiada pelo relatório.
 
-• E se o lead não tiver todas as respostas?
+• E se o lead nêo tiver todas as respostas?
 O sistema completa com suposições declaradas e pede detalhes críticos com perguntas simples ou nota de voz.
 
 • Posso usar sem CRM?
@@ -411,7 +411,7 @@ Pode, mas perde o principal ganho do propósito: segmentar e priorizar. O mínim
 Perguntas 1 a 1, resumo do que já foi dito, convite a áudio e encerramento humano quando o relatório é enviado.
 
 Próximo passo para colocar o propósito em prática
-Definir 3 quick wins típicos do seu nicho, a matriz de priorização (ICE) e a lista mínima de campos do JSON para o CRM. Em seguida, rodar um teste com 5 leads reais e medir respostas, reuniões e tempo de follow-up.
+Definir 3 quick wins típicos do seu nicho, a matriz de priorizaçêo (ICE) e a lista mínima de campos do JSON para o CRM. Em seguida, rodar um teste com 5 leads reais e medir respostas, reuniões e tempo de follow-up.
 
 ------------------------------
 
@@ -433,13 +433,13 @@ e43. WhatsApp que vende: informe automático
 Criar um lead magnet automatizado no WhatsApp que entrevista potenciais clientes, captura contexto do negócio e gera relatório consultivo em HTML5 com quick wins, estimativa de impacto (horas/€) e próximos passos.
 Valor: entrega imediata, qualifica o lead e enriquece o CRM com dados acionáveis.
 
-🛠️ O que a automação faz
+🛠️ O que a automaçêo faz
 
 * Captura leads via WhatsApp (texto e áudio transcrito).
 * Estrutura a conversa em JSON com campos chave.
 * Gera relatório consultivo automático em HTML5.
 * Envia relatório por email + mensagem final no WhatsApp.
-* Integra no CRM (HighLevel) com tags e segmentação.
+* Integra no CRM (HighLevel) com tags e segmentaçêo.
 * Filtra leads por critérios (ex.: tamanho da equipe, nº de clientes).
 
 🧩 Estrutura do fluxo
@@ -456,7 +456,7 @@ Valor: entrega imediata, qualifica o lead e enriquece o CRM com dados acionávei
 3. Memória e contexto.
 
    * PostgreSQL armazena conversa e status (STOP ao finalizar).
-4. Geração do relatório.
+4. Geraçêo do relatório.
 
    * Conversa + JSON → GPT-4.1 Mini (fallback OpenRouter).
    * Prompt consultivo: cita cliente, prioriza via matriz ICE, sugere quick wins, fases, impacto em horas/€.
@@ -476,7 +476,7 @@ Valor: entrega imediata, qualifica o lead e enriquece o CRM com dados acionávei
 
 * WhatsApp + Evolution API
 * OpenAI GPT-4.1 Mini (principal) + OpenRouter (fallback)
-* Transcrição de áudio (OpenAI)
+* Transcriçêo de áudio (OpenAI)
 * PostgreSQL (memória/estado)
 * HighLevel CRM (API upsert + tags)
 * Gmail (envio de email HTML)
@@ -514,14 +514,14 @@ MENSAGEM 10
 Autor: INEMA
 Data: 2025-09-05T18:31:53+00:00
 Texto:
-Ímã Digital no WhatsApp com relatório automático 🔥
+Ímê Digital no WhatsApp com relatório automático 🔥
 
-O que trago hoje não surgiu do nada, mas sim de uma mistura explosiva de duas aulas que já vimos juntos:
+O que trago hoje nêo surgiu do nada, mas sim de uma mistura explosiva de duas aulas que já vimos juntos:
 
 ➡️ A do chatbot com tom humano. 🔥 #e27. O Chatbot Mais Poderoso e Humano
-➡️ E a do ímã digital brutal com relatórios automáticos. ✨ #e41. Ímã de leads brutal com apenas 4 módulos
+➡️ E a do ímê digital brutal com relatórios automáticos. ✨ #e41. Ímê de leads brutal com apenas 4 módulos
 
-Dessa fusão nasceu essa automação TOP que vai surpreender vocês.
+Dessa fusêo nasceu essa automaçêo TOP que vai surpreender vocês.
 
 👉 O bot no WhatsApp entrevista o lead como se fosse você mesmo (aceita texto e áudios).
 👉 Detecta as dores, os processos repetitivos e as informações-chave do negócio.
@@ -529,12 +529,12 @@ Dessa fusão nasceu essa automação TOP que vai surpreender vocês.
 👉 Envia o relatório instantaneamente por e-mail com um template profissional e encerra a conversa no WhatsApp de forma natural.
 👉 Além disso, salva o contato no HighLevel CRM, já etiquetado para segmentar e dar o próximo passo.
 
-Mas não para por aí 👀.
-Eu mesmo vou começar a aplicar essa automação na minha própria empresa esta semana. Vocês vão ver nas redes sociais como eu lanço, como uso para captar leads e qual impacto isso gera.
+Mas nêo para por aí 👀.
+Eu mesmo vou começar a aplicar essa automaçêo na minha própria empresa esta semana. Vocês vêo ver nas redes sociais como eu lanço, como uso para captar leads e qual impacto isso gera.
 
 E fiquem atentos, porque mais adiante vamos compartilhar os resultados ao vivo em uma aula da Wixyn.
 
-Por quê? Porque essa não é a única automação que criamos: dentro da Wixyn fizemos outra que segmenta automaticamente e entra em contato com os clientes potenciais captados por este sistema.
+Por quê? Porque essa nêo é a única automaçêo que criamos: dentro da Wixyn fizemos outra que segmenta automaticamente e entra em contato com os clientes potenciais captados por este sistema.
 
 Ou seja, um combo perfeito:
 🚀 WhatsApp que qualifica e gera relatórios.
@@ -542,14 +542,14 @@ Ou seja, um combo perfeito:
 
 Isso funciona se você é agência, SaaS, consultor ou negócio B2B que queira captar leads entregando valor real desde o primeiro minuto.
 
-🌐 Você pode testar a automação neste LINK 😏
+🌐 Você pode testar a automaçêo neste LINK 😏
 
 Estamos falando de mostrar para o lead:
 ➡️ "Isso é o que te custa o seu problema".
 ➡️ "Isso é o que você poderia economizar".
 ➡️ "E aqui está o caminho para resolver".
 
-Resultado: leads quentes, qualificados e que já percebem o seu valor antes da primeira ligação.
+Resultado: leads quentes, qualificados e que já percebem o seu valor antes da primeira ligaçêo.
 
 📺 Você pode ver a aula completa aqui: #🤑e43. WhatsApp que vende: relatório automático
 
@@ -608,7 +608,7 @@ MENSAGEM 17
 Autor: INEMA
 Data: 2025-09-05T18:24:03+00:00
 Texto:
-e43 - Ímã Digital no WhatsApp
+e43 - Ímê Digital no WhatsApp
 
 ------------------------------
 

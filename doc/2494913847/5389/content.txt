@@ -24,16 +24,16 @@ Data: 2025-04-11T04:51:50+00:00
 Texto:
 ## Resumo Geral
 
-O vídeo apresenta como usar os **dois novos nós MCP nativos do n8n** – **gatilho MCP (MCP Trigger)** e **cliente MCP (MCP Client Tool)** – para automatizar postagens em redes sociais com **Claude como agente de IA**, de forma simples, sem múltiplos nós separados para cada ação.
+O vídeo apresenta como usar os **dois novos nós MCP nativos do n8n** – **gatilho MCP (MCP Trigger)** e **cliente MCP (MCP Client Tool)** – para automatizar postagens em redes sociais com **Claude como agente de IA**, de forma simples, sem múltiplos nós separados para cada açêo.
 
-Essa integração simplifica a execução de tarefas como **postar no Facebook e Threads** com apenas uma configuração.  
+Essa integraçêo simplifica a execuçêo de tarefas como **postar no Facebook e Threads** com apenas uma configuraçêo.  
 
 ---
 
 ## Tópicos Explicados no Vídeo
 
 ### 1. O que é MCP
-- **MCP (Model Context Protocol)** é um padrão que permite que **LLMs (como Claude ou GPT)** se conectem com ferramentas externas de forma padronizada e simplificada.
+- **MCP (Model Context Protocol)** é um padrêo que permite que **LLMs (como Claude ou GPT)** se conectem com ferramentas externas de forma padronizada e simplificada.
 - Funciona como um “**USB universal**” para ferramentas de IA, facilitando chamadas e execuções.
 
 ### 2. Dois novos nós nativos no n8n
@@ -41,7 +41,7 @@ Essa integração simplifica a execução de tarefas como **postar no Facebook e
 - **MCP Client Tool**: permite que um agente IA **chame ferramentas** desse servidor ou outros disponíveis em marketplaces MCP.
 
 ### 3. Vantagens da nova abordagem
-- **Antes**: era necessário um nó por ação (ex: enviar e-mail, criar rascunho, postar).
+- **Antes**: era necessário um nó por açêo (ex: enviar e-mail, criar rascunho, postar).
 - **Agora**: um só nó MCP substitui **dezenas de ações**, como postar em várias redes sociais.
 
 ### 4. Exemplo prático (demonstrado)
@@ -55,9 +55,9 @@ Essa integração simplifica a execução de tarefas como **postar no Facebook e
 
 ## Ferramentas e configurações usadas
 
-- **Configuração do Facebook e Threads** com token estendido (SS token).
-- **Criação de app no Facebook Developer**.
-- Uso de **Angro (ngrok)** para expor localmente o servidor n8n se não estiver na nuvem.
+- **Configuraçêo do Facebook e Threads** com token estendido (SS token).
+- **Criaçêo de app no Facebook Developer**.
+- Uso de **Angro (ngrok)** para expor localmente o servidor n8n se nêo estiver na nuvem.
 - **Claude ou outro LLM** configurado como agente, usando memória simples e prompts personalizados.
 
 ---
@@ -69,9 +69,9 @@ Essa integração simplifica a execução de tarefas como **postar no Facebook e
 
 ---
 
-## Conclusão
+## Conclusêo
 
-Essa atualização torna possível montar **fluxos completos de automação com IA** para redes sociais **sem múltiplas conexões manuais**. Usando apenas dois nós e Claude, você:
+Essa atualizaçêo torna possível montar **fluxos completos de automaçêo com IA** para redes sociais **sem múltiplas conexões manuais**. Usando apenas dois nós e Claude, você:
 - Centraliza tudo no n8n.
 - Reduz tempo e complexidade.
 - Ganha escalabilidade imediata.
@@ -91,7 +91,7 @@ Autor: INEMA
 Data: 2025-04-11T04:50:23+00:00
 Texto:
 MCP nativos: ferramenta de gatilho e cliente MCP
-Criei um sistema de automação de mídia social no n8n usando o novo gatilho oficial do MCP e os nós do cliente - sem necessidade de configuração complicada ou vários nós de ferramentas. Neste vídeo, mostrarei como usar o MCP com Claude para postar conteúdo de texto em várias plataformas sem esforço. Você aprenderá como acionar fluxos de trabalho usando o MCP e como capacitar seu agente de IA no n8n para lidar com postagens de mídia social com apenas uma configuração simplificada. Este é um divisor de águas para a automação de IA - sintonize para aumentar o nível do seu fluxo de trabalho!
+Criei um sistema de automaçêo de mídia social no n8n usando o novo gatilho oficial do MCP e os nós do cliente - sem necessidade de configuraçêo complicada ou vários nós de ferramentas. Neste vídeo, mostrarei como usar o MCP com Claude para postar conteúdo de texto em várias plataformas sem esforço. Você aprenderá como acionar fluxos de trabalho usando o MCP e como capacitar seu agente de IA no n8n para lidar com postagens de mídia social com apenas uma configuraçêo simplificada. Este é um divisor de águas para a automaçêo de IA - sintonize para aumentar o nível do seu fluxo de trabalho!
 
 ------------------------------
 

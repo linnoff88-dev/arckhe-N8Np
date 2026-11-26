@@ -32,7 +32,7 @@ O sistema é 100% automatizado e tem **dois fluxos principais**:
    - Se o texto ultrapassar 500 caracteres (limite do Threads), divide em vários posts encadeados (threads).
    - Armazena os posts prontos no **Google Sheets** com status "pendente".
 
-2. **Fluxo 2: Agendamento e Publicação das Threads**
+2. **Fluxo 2: Agendamento e Publicaçêo das Threads**
    - Identifica posts pendentes no Google Sheets.
    - Verifica se o conteúdo é único ou uma sequência (thread).
    - Publica os posts no Threads:
@@ -40,14 +40,14 @@ O sistema é 100% automatizado e tem **dois fluxos principais**:
    - Atualiza o status no Google Sheets como "postado".
 
 Outros detalhes:
-- O sistema agenda a busca e publicação em horários definidos.
+- O sistema agenda a busca e publicaçêo em horários definidos.
 - OpenAI é usado para transformar notícias em posts no formato adequado.
 - Exa AI é utilizado para buscar as notícias relevantes.
-- O processo inclui a configuração de IDs de posts para manter o encadeamento correto das mensagens no Threads.
+- O processo inclui a configuraçêo de IDs de posts para manter o encadeamento correto das mensagens no Threads.
 
 Resumo final:
 
-Sistema de automação completo que coleta notícias, gera posts formatados para Threads, divide em partes se necessário, publica de forma encadeada e atualiza o controle no Google Sheets.
+Sistema de automaçêo completo que coleta notícias, gera posts formatados para Threads, divide em partes se necessário, publica de forma encadeada e atualiza o controle no Google Sheets.
 
 ------------------------------
 

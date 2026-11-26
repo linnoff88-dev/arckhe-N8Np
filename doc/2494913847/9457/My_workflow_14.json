@@ -173,7 +173,7 @@
             {
               "id": "6",
               "name": "instructions",
-              "value": "={{ $json['Instruções Específicas (opcional)'] || 'Análise padrão' }}",
+              "value": "={{ $json['Instruções Específicas (opcional)'] || 'Análise padrêo' }}",
               "type": "string"
             },
             {
@@ -253,7 +253,7 @@
         "resource": "messages-api",
         "instanceName": "Prueba",
         "remoteJid": "={{ $json.whatsapp_number }}",
-        "messageText": "🤖 *Sistema de Análise de Vídeo*\n\n⏳ Processando seu vídeo...\n📋 Tipo: {{ $json.analysis_type }}\n🆔 Sessão: {{ $json.session_id }}\n\n_Aguarde alguns momentos, o resultado será enviado em breve._",
+        "messageText": "🤖 *Sistema de Análise de Vídeo*\n\n⏳ Processando seu vídeo...\n📋 Tipo: {{ $json.analysis_type }}\n🆔 Sessêo: {{ $json.session_id }}\n\n_Aguarde alguns momentos, o resultado será enviado em breve._",
         "options_message": {}
       },
       "type": "n8n-nodes-evolution-api.evolutionApi",
@@ -529,7 +529,7 @@
                 "conditions": [
                   {
                     "leftValue": "={{ $json.analysis_type }}",
-                    "rightValue": "Criar Aplicativo/Apresentação",
+                    "rightValue": "Criar Aplicativo/Apresentaçêo",
                     "operator": {
                       "type": "string",
                       "operation": "equals"
@@ -751,7 +751,7 @@
         "resource": "messages-api",
         "instanceName": "Prueba",
         "remoteJid": "={{ $json.whatsapp_number }}",
-        "messageText": "✅ *Análise Completa!*\n\n📋 *Sessão:* {{ $json.session_id }}\n⏰ *Concluída em:* {{ $now.format('dd/MM/yyyy HH:mm') }}\n\n📝 *Resultado da Análise:*\n{{ $json.analysis_result.substring(0, 1000) }}{{ $json.analysis_result.length > 1000 ? '...' : '' }}",
+        "messageText": "✅ *Análise Completa!*\n\n📋 *Sessêo:* {{ $json.session_id }}\n⏰ *Concluída em:* {{ $now.format('dd/MM/yyyy HH:mm') }}\n\n📝 *Resultado da Análise:*\n{{ $json.analysis_result.substring(0, 1000) }}{{ $json.analysis_result.length > 1000 ? '...' : '' }}",
         "options_message": {}
       },
       "type": "n8n-nodes-evolution-api.evolutionApi",
@@ -774,7 +774,7 @@
         "resource": "messages-api",
         "instanceName": "Prueba",
         "remoteJid": "={{ $('form-processor').item.json.whatsapp_number || $('evolution-processor').item.json.whatsapp_number }}",
-        "messageText": "🚀 *Aplicativo Criado com Sucesso!*\n\n📋 *Sessão:* {{ $('form-processor').item.json.session_id || $('evolution-processor').item.json.session_id }}\n⏰ *Criado em:* {{ $now.format('dd/MM/yyyy HH:mm') }}\n\n🔗 *Link do Aplicativo:*\n{{ $json.webViewLink }}\n\n📱 *Acesse pelo navegador para ver seu app personalizado baseado na análise do vídeo!*",
+        "messageText": "🚀 *Aplicativo Criado com Sucesso!*\n\n📋 *Sessêo:* {{ $('form-processor').item.json.session_id || $('evolution-processor').item.json.session_id }}\n⏰ *Criado em:* {{ $now.format('dd/MM/yyyy HH:mm') }}\n\n🔗 *Link do Aplicativo:*\n{{ $json.webViewLink }}\n\n📱 *Acesse pelo navegador para ver seu app personalizado baseado na análise do vídeo!*",
         "options_message": {}
       },
       "type": "n8n-nodes-evolution-api.evolutionApi",
@@ -797,7 +797,7 @@
         "resource": "messages-api",
         "instanceName": "Prueba",
         "remoteJid": "={{ $('form-processor').item.json.whatsapp_number || $('evolution-processor').item.json.whatsapp_number }}",
-        "messageText": "📊 *Relatório com Gráficos Gerado!*\n\n📋 *Sessão:* {{ $('form-processor').item.json.session_id || $('evolution-processor').item.json.session_id }}\n⏰ *Gerado em:* {{ $now.format('dd/MM/yyyy HH:mm') }}\n\n🔗 *Link do Relatório:*\n{{ $json.webViewLink }}\n\n📈 *Visualize os gráficos e insights detalhados baseados na análise do seu vídeo!*",
+        "messageText": "📊 *Relatório com Gráficos Gerado!*\n\n📋 *Sessêo:* {{ $('form-processor').item.json.session_id || $('evolution-processor').item.json.session_id }}\n⏰ *Gerado em:* {{ $now.format('dd/MM/yyyy HH:mm') }}\n\n🔗 *Link do Relatório:*\n{{ $json.webViewLink }}\n\n📈 *Visualize os gráficos e insights detalhados baseados na análise do seu vídeo!*",
         "options_message": {}
       },
       "type": "n8n-nodes-evolution-api.evolutionApi",
@@ -820,7 +820,7 @@
         "resource": "messages-api",
         "instanceName": "Prueba",
         "remoteJid": "={{ $('form-processor').item.json.whatsapp_number || $('evolution-processor').item.json.whatsapp_number }}",
-        "messageText": "❌ *Erro no Processamento*\n\n📋 *Sessão:* {{ $('form-processor').item.json.session_id || $('evolution-processor').item.json.session_id }}\n⏰ *Erro em:* {{ $now.format('dd/MM/yyyy HH:mm') }}\n\n🚨 *Detalhes do Erro:*\n{{ $json.error?.message || 'Erro desconhecido durante o processamento' }}\n\n🔄 *Por favor, tente novamente ou entre em contato com o suporte.*",
+        "messageText": "❌ *Erro no Processamento*\n\n📋 *Sessêo:* {{ $('form-processor').item.json.session_id || $('evolution-processor').item.json.session_id }}\n⏰ *Erro em:* {{ $now.format('dd/MM/yyyy HH:mm') }}\n\n🚨 *Detalhes do Erro:*\n{{ $json.error?.message || 'Erro desconhecido durante o processamento' }}\n\n🔄 *Por favor, tente novamente ou entre em contato com o suporte.*",
         "options_message": {}
       },
       "type": "n8n-nodes-evolution-api.evolutionApi",
@@ -915,7 +915,7 @@
         -440
       ],
       "id": "4c1dc17b-242e-4f9d-9dda-7f06a19bfc9e",
-      "name": "📋 Visão Geral"
+      "name": "📋 Visêo Geral"
     },
     {
       "parameters": {

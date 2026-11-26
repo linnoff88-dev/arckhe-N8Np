@@ -21,7 +21,7 @@ MENSAGEM 2
 Autor: INEMA
 Data: 2025-08-11T23:52:03+00:00
 Texto:
-Aqui vão alguns hacks que saem dessa sessão inteira e ajudam a otimizar avaliações de fluxos de IA no n8n:
+Aqui vêo alguns hacks que saem dessa sessêo inteira e ajudam a otimizar avaliações de fluxos de IA no n8n:
 
 ---
 
@@ -36,13 +36,13 @@ Aqui vão alguns hacks que saem dessa sessão inteira e ajudam a otimizar avalia
 **2. Sempre isole variáveis**
 
 * Mude **apenas um** elemento por vez: modelo, prompt, chunk size, re-ranking etc.
-* Crie uma planilha de controle com a coluna “alteração” para registrar o que mudou em cada rodada.
+* Crie uma planilha de controle com a coluna “alteraçêo” para registrar o que mudou em cada rodada.
 
 ---
 
-**3. Modelo de avaliação fixo**
+**3. Modelo de avaliaçêo fixo**
 
-* Escolha um modelo (ex.: GPT-4.1) para ser o avaliador e **não troque** durante os testes.
+* Escolha um modelo (ex.: GPT-4.1) para ser o avaliador e **nêo troque** durante os testes.
 * Isso garante consistência nas pontuações e evita distorções.
 
 ---
@@ -54,21 +54,21 @@ Aqui vão alguns hacks que saem dessa sessão inteira e ajudam a otimizar avalia
 
 ---
 
-**5. Automação de logging**
+**5. Automaçêo de logging**
 
 * Salve automaticamente: modelo, data, hora, custo, tempo, acurácia e alterações no Google Sheets ou Airtable.
-* Isso cria histórico para identificar padrões e evolução.
+* Isso cria histórico para identificar padrões e evoluçêo.
 
 ---
 
-**6. Ciclo rápido de otimização**
+**6. Ciclo rápido de otimizaçêo**
 
 * Dataset pequeno (10 a 20 entradas) para ajustes rápidos.
-* Dataset grande (50 a 100+) para validação final antes de ir para produção.
+* Dataset grande (50 a 100+) para validaçêo final antes de ir para produçêo.
 
 ---
 
-**7. Integre produção e teste**
+**7. Integre produçêo e teste**
 
 * Use o **“Check if Evaluating”** no n8n para ter o mesmo fluxo rodando tanto em modo produtivo quanto em modo teste, sem duplicar tudo.
 
@@ -76,16 +76,16 @@ Aqui vão alguns hacks que saem dessa sessão inteira e ajudam a otimizar avalia
 
 **8. Hacks para RAG**
 
-* Inclua no prompt do agente a lista de categorias, formatos ou estilo esperado para aumentar a precisão.
-* Teste chunk size e sobreposição em avaliação controlada para encontrar o ponto ótimo.
-* Use métricas de similaridade semântica além da avaliação 1-5 para pegar nuances.
+* Inclua no prompt do agente a lista de categorias, formatos ou estilo esperado para aumentar a precisêo.
+* Teste chunk size e sobreposiçêo em avaliaçêo controlada para encontrar o ponto ótimo.
+* Use métricas de similaridade semântica além da avaliaçêo 1-5 para pegar nuances.
 
 ---
 
 **9. Padronize o feedback visual**
 
-* Use formatação condicional na planilha (ex.: vermelho = erro) para identificar problemas rápido.
-* Gere gráficos automáticos para ver evolução da acurácia por modelo ou prompt.
+* Use formataçêo condicional na planilha (ex.: vermelho = erro) para identificar problemas rápido.
+* Gere gráficos automáticos para ver evoluçêo da acurácia por modelo ou prompt.
 
 ------------------------------
 
@@ -110,33 +110,33 @@ Autor: INEMA
 Data: 2025-08-11T23:51:28+00:00
 Texto:
 **1ª **
-Tema: **Visão geral e princípios de avaliação de fluxos de IA**
+Tema: **Visêo geral e princípios de avaliaçêo de fluxos de IA**
 
-* Conceito de avaliação como forma de validar hipóteses em mudanças de workflow (prompt, modelo, estrutura).
-* Definição de métricas (acurácia, custo, tempo, consistência, qualidade).
+* Conceito de avaliaçêo como forma de validar hipóteses em mudanças de workflow (prompt, modelo, estrutura).
+* Definiçêo de métricas (acurácia, custo, tempo, consistência, qualidade).
 * Importância de datasets representativos e confiáveis.
 * Isolamento de variáveis para entender impacto real das mudanças.
-* Erros comuns e boas práticas para avaliação contínua.
+* Erros comuns e boas práticas para avaliaçêo contínua.
 
 ---
 
 **2ª **
-Tema: **Avaliação prática de classificação no n8n (tagging agent)**
+Tema: **Avaliaçêo prática de classificaçêo no n8n (tagging agent)**
 
 * Exemplo de fluxo que classifica e-mails por categoria e prioridade.
-* Uso do recurso de avaliação no n8n com métricas de categorização (1 ou 0).
-* Integração com Google Sheets para armazenar dataset, respostas e métricas.
-* Registro automático de resultados e comparação de execuções para otimização.
+* Uso do recurso de avaliaçêo no n8n com métricas de categorizaçêo (1 ou 0).
+* Integraçêo com Google Sheets para armazenar dataset, respostas e métricas.
+* Registro automático de resultados e comparaçêo de execuções para otimizaçêo.
 
 ---
 
 **3ª **
-Tema: **Avaliação de respostas abertas em RAG usando métricas de similaridade**
+Tema: **Avaliaçêo de respostas abertas em RAG usando métricas de similaridade**
 
-* Aplicação da avaliação no n8n para um agente que usa base vetorial (FAQ e políticas).
-* Métrica de “correção” (escala de 1 a 5) para medir proximidade com a resposta ideal.
-* Uso de modelo fixo para avaliação consistente.
-* Comparação entre diferentes modelos (ex.: GPT-4.1 mini vs Claude 3.7) considerando custo, tempo e acurácia.
+* Aplicaçêo da avaliaçêo no n8n para um agente que usa base vetorial (FAQ e políticas).
+* Métrica de “correçêo” (escala de 1 a 5) para medir proximidade com a resposta ideal.
+* Uso de modelo fixo para avaliaçêo consistente.
+* Comparaçêo entre diferentes modelos (ex.: GPT-4.1 mini vs Claude 3.7) considerando custo, tempo e acurácia.
 * Importância de mudar apenas um fator por vez e manter dataset robusto.
 
 ------------------------------
@@ -177,22 +177,22 @@ MENSAGEM 10
 Autor: INEMA
 Data: 2025-08-11T23:42:16+00:00
 Texto:
-**Avaliação de Fluxos de Trabalho de IA**, dá para resumir assim:
+**Avaliaçêo de Fluxos de Trabalho de IA**, dá para resumir assim:
 
 ---
 
 **1. Por que avaliar fluxos de IA**
 
-* Sem métricas, mudanças são baseadas em suposições.
+* Sem métricas, mudanças sêo baseadas em suposições.
 * Avaliar permite saber, com dados, se alterações (prompt, modelo, estrutura do fluxo) melhoram ou pioram o desempenho.
-* Em IA, a variabilidade nas respostas exige um processo contínuo de medição.
+* Em IA, a variabilidade nas respostas exige um processo contínuo de mediçêo.
 
 ---
 
-**2. Tipos de avaliação**
+**2. Tipos de avaliaçêo**
 
-* **Classificação (1 ou 0)**: usado quando existe resposta exata e única (ex.: categoria e prioridade de e-mails).
-* **Correção em escala (1 a 5)**: usado quando a saída é conteúdo mais aberto (ex.: respostas de um RAG), avaliando proximidade com a resposta ideal.
+* **Classificaçêo (1 ou 0)**: usado quando existe resposta exata e única (ex.: categoria e prioridade de e-mails).
+* **Correçêo em escala (1 a 5)**: usado quando a saída é conteúdo mais aberto (ex.: respostas de um RAG), avaliando proximidade com a resposta ideal.
 * **Métricas personalizadas**: similaridade de strings, uso de ferramentas, completude, relevância etc.
 
 ---
@@ -201,8 +201,8 @@ Texto:
 
 * **Dataset de teste confiável**: precisa representar casos reais e ser preciso.
 * **Isolar variáveis**: mudar um fator por vez para identificar o impacto.
-* **Consistência de modelo de avaliação**: usar sempre o mesmo para garantir comparabilidade.
-* **Documentação**: registrar o que foi alterado e os resultados obtidos.
+* **Consistência de modelo de avaliaçêo**: usar sempre o mesmo para garantir comparabilidade.
+* **Documentaçêo**: registrar o que foi alterado e os resultados obtidos.
 * **Amostra suficiente**: mais exemplos → maior confiabilidade (20, 30, 50+).
 
 ---
@@ -210,9 +210,9 @@ Texto:
 **4. Métricas principais**
 
 * Acurácia (% de acertos ou média de notas).
-* Consistência (variação entre execuções idênticas).
-* Tempo de execução.
-* Custo por execução (tokens).
+* Consistência (variaçêo entre execuções idênticas).
+* Tempo de execuçêo.
+* Custo por execuçêo (tokens).
 * Qualidade subjetiva (relevância, ausência de alucinações, clareza).
 
 ---
@@ -222,8 +222,8 @@ Texto:
 * **Trigger** puxa dataset do Google Sheets.
 * Agente processa cada entrada.
 * **Set Outputs** escreve resultado na planilha.
-* **Set Metrics** compara com resposta esperada e registra pontuação.
-* Execuções registram histórico para comparação entre modelos, prompts ou parâmetros.
+* **Set Metrics** compara com resposta esperada e registra pontuaçêo.
+* Execuções registram histórico para comparaçêo entre modelos, prompts ou parâmetros.
 
 ---
 
@@ -248,7 +248,7 @@ MENSAGEM 12
 Autor: INEMA
 Data: 2025-08-11T23:40:20+00:00
 Texto:
-ap53 - Avaliação de Fluxos de IA
+ap53 - Avaliaçêo de Fluxos de IA
 
 ------------------------------
 

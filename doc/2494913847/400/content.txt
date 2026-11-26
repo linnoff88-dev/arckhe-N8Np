@@ -37,7 +37,7 @@ MENSAGEM 4
 Autor: Arthur
 Data: 2025-02-22T17:00:44+00:00
 Texto:
-tipo a resposta que o tolls agent gera nao é tao fluida e as açoes do conversacional não é tao precisa?
+tipo a resposta que o tolls agent gera nao é tao fluida e as açoes do conversacional nêo é tao precisa?
 
 ------------------------------
 
@@ -78,7 +78,7 @@ Texto:
 ### **Este Agente de IA Automatiza Tudo (n8n)** 
  
 **Contexto :**   
-Como criar um agente de IA no **n8n**. Este agente é capaz de acessar múltiplas ferramentas e realizar tarefas automatizadas usando memória contextual e um sistema RAG (Recuperação de Dados Aprimorada). É uma alternativa mais avançada e modular em comparação ao **Make.com**, com funcionalidades que vão além do linear. 
+Como criar um agente de IA no **n8n**. Este agente é capaz de acessar múltiplas ferramentas e realizar tarefas automatizadas usando memória contextual e um sistema RAG (Recuperaçêo de Dados Aprimorada). É uma alternativa mais avançada e modular em comparaçêo ao **Make.com**, com funcionalidades que vêo além do linear. 
  
 --- 
  
@@ -94,32 +94,32 @@ Como criar um agente de IA no **n8n**. Este agente é capaz de acessar múltipla
 3. **Ferramentas Integradas:** 
    - **Telegram**: Recebe mensagens e interage. 
    - **API SERP (Google)**: Pesquisa na internet. 
-   - **Google Calendar**: Criação e gerenciamento de eventos. 
+   - **Google Calendar**: Criaçêo e gerenciamento de eventos. 
    - **Gmail**: Leitura e envio de emails. 
  
-4. **Execução Modular:** 
+4. **Execuçêo Modular:** 
    - Pode acessar diversas ferramentas em paralelo, decidindo a sequência de ações conforme necessário. 
  
-5. **Atualização Dinâmica de Conhecimento:** 
-   - Documentos enviados ao Google Drive são automaticamente carregados para o banco de dados do Pinecone. 
+5. **Atualizaçêo Dinâmica de Conhecimento:** 
+   - Documentos enviados ao Google Drive sêo automaticamente carregados para o banco de dados do Pinecone. 
  
 --- 
  
 ### **Destaques Técnicos do Tutorial:** 
  
-1. **Configuração Inicial:** 
+1. **Configuraçêo Inicial:** 
    - Criar um fluxo de trabalho no n8n. 
    - Conectar contas de Telegram, Google, e outras APIs (usando credenciais como chaves API e URIs de redirecionamento). 
  
-2. **Integração com o Pinecone:** 
+2. **Integraçêo com o Pinecone:** 
    - Criar um banco de dados vetorial. 
    - Configurar o carregamento e processamento de documentos (ex.: PDFs, arquivos de texto). 
  
-3. **Memória e Recuperação de Dados:** 
+3. **Memória e Recuperaçêo de Dados:** 
    - Implementar memória de janela para conversas. 
    - Configurar divisores de texto recursivos para processar documentos extensos. 
  
-4. **Execução de Exemplos:** 
+4. **Execuçêo de Exemplos:** 
    - Perguntar ao agente informações sobre arquivos carregados no Pinecone. 
    - Criar eventos no Google Calendar ou pesquisar informações na web via SERP API. 
  
@@ -133,8 +133,8 @@ Como criar um agente de IA no **n8n**. Este agente é capaz de acessar múltipla
  
 --- 
  
-### **Conclusão ** 
-Este sistema é poderoso e escalável, permitindo uma automação mais robusta em comparação com outras plataformas. O n8n é mais técnico e requer um pouco mais de aprendizado inicial, mas oferece flexibilidade para criar agentes multifuncionais.   
+### **Conclusêo ** 
+Este sistema é poderoso e escalável, permitindo uma automaçêo mais robusta em comparaçêo com outras plataformas. O n8n é mais técnico e requer um pouco mais de aprendizado inicial, mas oferece flexibilidade para criar agentes multifuncionais.   
  
 O tutorial completo, incluindo blueprints e automações, está disponível na comunidade  
  
@@ -157,13 +157,13 @@ Autor: INEMA
 Data: 2025-01-21T03:25:23+00:00
 Texto:
 produto?" 
-     - **Agente**: "Os três principais benefícios são X, Y e Z. Eles ajudam a economizar tempo e aumentar a produtividade." 
+     - **Agente**: "Os três principais benefícios sêo X, Y e Z. Eles ajudam a economizar tempo e aumentar a produtividade." 
    - **Mau Exemplo**: 
      - **Agente**: "Apenas compre, é o melhor." (Falta de detalhe ou referências). 
  
 --- 
  
-7. **Formatação e Especificações de Saída** 
+7. **Formataçêo e Especificações de Saída** 
    - **Metadados**: Se múltiplos agentes forem combinar saídas, inclua metadados (ex.: timestamps, referências). 
    - **Saída Estruturada**: Defina o formato necessário (JSON, texto simples). 
    - **Tratamento de Erros**: Explique como o agente deve proceder caso encontre problemas. 
@@ -171,7 +171,7 @@ produto?"
    **Exemplo:** 
    - **Formato de Saída**: 
      - Retorne a resposta como JSON com as chaves: “resumo”, “referências”. 
-     - Se não encontrar referências válidas, retorne uma lista vazia. 
+     - Se nêo encontrar referências válidas, retorne uma lista vazia. 
  
 --- 
  
@@ -206,14 +206,14 @@ Aqui está o modelo de **AI Agent Prompting Template** ajustado para português,
 #### **[TAREFA]** 
 - Objetivo: [Resultado específico desejado]. 
 - Restrições: [Limite de tempo, comprimento, etc.]. 
-- Estilo: [Tom, diretrizes de formatação]. 
+- Estilo: [Tom, diretrizes de formataçêo]. 
 - Formato de saída: [Texto simples, HTML, JSON, etc.]. 
  
 --- 
  
-#### **[COLABORAÇÃO]** 
-- Outros agentes: [Quem são, o que fornecem]. 
-- Interação: [Como e quando este agente deve interagir com os outros]. 
+#### **[COLABORAÇêO]** 
+- Outros agentes: [Quem sêo, o que fornecem]. 
+- Interaçêo: [Como e quando este agente deve interagir com os outros]. 
  
 --- 
  
@@ -224,35 +224,35 @@ Aqui está o modelo de **AI Agent Prompting Template** ajustado para português,
 --- 
  
 #### **[REQUISITOS FINAIS]** 
-- Verificações de QA: [Ortografia, gramática, precisão factual]. 
-- Diretrizes éticas: [Conteúdo permitido/não permitido]. 
+- Verificações de QA: [Ortografia, gramática, precisêo factual]. 
+- Diretrizes éticas: [Conteúdo permitido/nêo permitido]. 
 - Tratamento de erros: [Instruções para lidar com problemas]. 
  
 --- 
  
 ### **Como funciona** 
  
-1. **Definição do Papel** 
-   - **Função/Persona**: Explique o que este agente deve fazer ou representar (ex.: "Você é um consultor financeiro" ou "Você é um especialista em marketing"). 
+1. **Definiçêo do Papel** 
+   - **Funçêo/Persona**: Explique o que este agente deve fazer ou representar (ex.: "Você é um consultor financeiro" ou "Você é um especialista em marketing"). 
    - **Nível de Expertise**: Especifique o nível de conhecimento esperado (ex.: "Especialista em assuntos legais", "Instrutor para iniciantes"). 
    - **Objetivos Primários**: Resuma o papel do agente no sistema (ex.: "Gerador de código", "Verificador de fatos"). 
  
    **Exemplo:** 
-   - **Papel**: Você é o “Verificador de Fatos”, responsável por verificar a precisão de textos e fornecer correções ou evidências de apoio. 
+   - **Papel**: Você é o “Verificador de Fatos”, responsável por verificar a precisêo de textos e fornecer correções ou evidências de apoio. 
  
 --- 
  
 2. **Contexto e Antecedentes** 
    - **Contexto do Sistema**: Descreva o cenário onde o sistema multiagente está operando (ex.: "Equipe de AIs criando guias de usuário"). 
    - **Conhecimento Compartilhado**: Indique fatos relevantes, restrições ou informações já conhecidas. 
-   - **Recursos Disponíveis**: Informe quais materiais estão disponíveis (FAQs, bases de conhecimento, manuais). 
+   - **Recursos Disponíveis**: Informe quais materiais estêo disponíveis (FAQs, bases de conhecimento, manuais). 
  
    **Exemplo:** 
    - **Contexto**: O sistema é projetado para criar um guia detalhado sobre um novo produto de software. 
  
 --- 
  
-3. **Descrição da Tarefa** 
+3. **Descriçêo da Tarefa** 
    - **Tarefa Principal**: Explique o objetivo principal (ex.: "Escrever um tutorial", "Gerar slogans", "Verificar dados"). 
    - **Detalhes de Entrada**: Especifique entradas ou dados que devem ser processados. 
    - **Formato de Saída**: Defina como o resultado deve ser entregue (ex.: bullet points, JSON, parágrafos completos). 
@@ -265,7 +265,7 @@ Aqui está o modelo de **AI Agent Prompting Template** ajustado para português,
 4. **Restrições e Instruções** 
    - **Tamanho**: Comprimento máximo ou mínimo. 
    - **Tom ou Estilo**: Formal, casual, acadêmico, etc. 
-   - **Do’s e Don’ts**: Regras a seguir (ex.: "Não inclua especulações", "Sempre forneça referências"). 
+   - **Do’s e Don’ts**: Regras a seguir (ex.: "Nêo inclua especulações", "Sempre forneça referências"). 
    - **Limites de Tempo ou Recursos**: Especifique limites se necessário. 
  
    **Exemplo:** 
@@ -275,13 +275,13 @@ Aqui está o modelo de **AI Agent Prompting Template** ajustado para português,
  
 --- 
  
-5. **Protocolo de Colaboração** 
+5. **Protocolo de Colaboraçêo** 
    - **Papel de Outros Agentes**: Resuma o papel de outros agentes no fluxo de trabalho. 
    - **Troca de Mensagens**: Indique como este agente pode interagir com outros (ex.: "Perguntar ao ‘Agente de Pesquisa’ por referências"). 
-   - **Sequência de Interação**: Explique como o agente deve atuar no sistema. 
+   - **Sequência de Interaçêo**: Explique como o agente deve atuar no sistema. 
  
    **Exemplo:** 
-   - **Colaboração**: 
+   - **Colaboraçêo**: 
      - O “Agente de Pesquisa” fornece dados do produto. 
      - O “Agente de Design” contribui com ideias visuais. 
  
@@ -293,7 +293,7 @@ Aqui está o modelo de **AI Agent Prompting Template** ajustado para português,
  
    **Exemplo:** 
    - **Bom Exemplo**: 
-     - **Usuário**: "Quais são os principais benefícios do
+     - **Usuário**: "Quais sêo os principais benefícios do
 
 ------------------------------
 
@@ -331,8 +331,8 @@ Aqui está um resumo do conteúdo e as ferramentas essenciais mencionadas:
 **Título: Steal this AI RAG Agent... INSANE**   
  
  
-**Descrição:**   
-Aprenda a automatizar tarefas complexas sem escrever código, utilizando agentes de IA no **n8n**. O tutorial cobre desde a configuração inicial até a integração de ferramentas poderosas como RAG (Recuperação de Dados Aprimorada), Pinecone, e OpenAI.   
+**Descriçêo:**   
+Aprenda a automatizar tarefas complexas sem escrever código, utilizando agentes de IA no **n8n**. O tutorial cobre desde a configuraçêo inicial até a integraçêo de ferramentas poderosas como RAG (Recuperaçêo de Dados Aprimorada), Pinecone, e OpenAI.   
  
 --- 
  
@@ -350,7 +350,7 @@ Aprenda a automatizar tarefas complexas sem escrever código, utilizando agentes
 4. **OpenAI**: Para acesso a modelos de IA como GPT e embeddings.   
    - [OpenAI Platform](https://platform.openai.com/)   
  
-5. **Telegram**: Para comunicação e interações em tempo real.   
+5. **Telegram**: Para comunicaçêo e interações em tempo real.   
    - [Site Oficial do Telegram](https://telegram.org/)   
  
 --- 
@@ -382,11 +382,11 @@ O resumo é que este Agente de IA pode fazer muitas coisas ao mesmo tempo. Ele a
  
 👾 **Upload automático de documentos**: Envie seus documentos para a base de conhecimento facilmente.  
  
-🤩 **Acesso rápido às informações**: Consulte dados em conversas usando RAG (Recuperação de Dados Aprimorada).   
+🤩 **Acesso rápido às informações**: Consulte dados em conversas usando RAG (Recuperaçêo de Dados Aprimorada).   
 
-📆 **Gestão de agenda**: Crie, verifique e cancele compromissos.   
+📆 **Gestêo de agenda**: Crie, verifique e cancele compromissos.   
 
-👨‍💻 **Acesso à Internet**: Faça pesquisas na web com integração SERP.   
+👨‍💻 **Acesso à Internet**: Faça pesquisas na web com integraçêo SERP.   
 
 🧠 **Memória conversacional**: Lembre-se de contextos para interações mais inteligentes.   
 

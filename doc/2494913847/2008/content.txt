@@ -69,10 +69,10 @@ MENSAGEM 7
 Autor: OneNode
 Data: 2025-09-07T14:08:57+00:00
 Texto:
-Bom dia pessoal tudo bem?? queria uma informação por gentileza..
-Estou criando uma automação para o whatsapp, e quero enviar audios..
+Bom dia pessoal tudo bem?? queria uma informaçêo por gentileza..
+Estou criando uma automaçêo para o whatsapp, e quero enviar audios..
 
-Qual IA voces estao usando para gerar audios?? que não seja robotica?
+Qual IA voces estao usando para gerar audios?? que nêo seja robotica?
 
 Obrigado
 
@@ -82,7 +82,7 @@ MENSAGEM 8
 Autor: Carlos
 Data: 2025-09-04T17:58:24+00:00
 Texto:
-mas não consegue fazer com que ele seja controlado externamente.
+mas nêo consegue fazer com que ele seja controlado externamente.
 
 ------------------------------
 
@@ -90,7 +90,7 @@ MENSAGEM 9
 Autor: Carlos
 Data: 2025-09-04T17:58:03+00:00
 Texto:
-O manus não tem API. ele tem disponibilidade de conexão com qualquer api de terceiros, ou seja, usar o manus como "controler" de outras ferramentas.
+O manus nêo tem API. ele tem disponibilidade de conexêo com qualquer api de terceiros, ou seja, usar o manus como "controler" de outras ferramentas.
 
 ------------------------------
 
@@ -155,7 +155,7 @@ MENSAGEM 17
 Autor: Z.R.M
 Data: 2025-08-12T10:39:46+00:00
 Texto:
-Alguém pode me ajudar como eu monto uma automação que eu consiga pegar o contato de todos os vereadores do Estado de Minas Gerais . Trabalho com algumas instituições
+Alguém pode me ajudar como eu monto uma automaçêo que eu consiga pegar o contato de todos os vereadores do Estado de Minas Gerais . Trabalho com algumas instituições
 
 ------------------------------
 
@@ -187,7 +187,7 @@ MENSAGEM 21
 Autor: Roberto
 Data: 2025-08-08T17:41:43+00:00
 Texto:
-Boa tarde pessoal. Estou com problema na conexão n8n e evolution api. Alguém pode me ajudar?
+Boa tarde pessoal. Estou com problema na conexêo n8n e evolution api. Alguém pode me ajudar?
 
 ------------------------------
 
@@ -227,13 +227,13 @@ MENSAGEM 26
 Autor: Carlos
 Data: 2025-07-08T04:14:52+00:00
 Texto:
-Distribuição Regional Oficial
-Segundo as fontes que consultei, a distribuição das localidades da Estrada Real é:
+Distribuiçêo Regional Oficial
+Segundo as fontes que consultei, a distribuiçêo das localidades da Estrada Real é:
  • Minas Gerais: 163-169 municípios
  • Rio de Janeiro: 8-16 municípios
- • São Paulo: 8 municípios
+ • Sêo Paulo: 8 municípios
 
-Não dá 236
+Nêo dá 236
 
 ------------------------------
 
@@ -253,19 +253,19 @@ Midia: MessageMediaWebPage
 ------------------------------
 
 MENSAGEM 28
-Autor: Marcão
+Autor: Marcêo
 Data: 2025-07-02T18:28:27+00:00
 Texto:
 Algo do tipo:
 
-1-captação de  mais clientes de forma inteligente.
-2- Fluxos personalizados para transformar seus posts nas redes sociais em ferramentas de captação de leads, conectando direto com o WhatsApp.
-3-Automatizar o envio de mensagens para: responder dúvidas, agendamento de consultas e organização da  rotina de atendimento.
+1-captaçêo de  mais clientes de forma inteligente.
+2- Fluxos personalizados para transformar seus posts nas redes sociais em ferramentas de captaçêo de leads, conectando direto com o WhatsApp.
+3-Automatizar o envio de mensagens para: responder dúvidas, agendamento de consultas e organizaçêo da  rotina de atendimento.
 
 ------------------------------
 
 MENSAGEM 29
-Autor: Marcão
+Autor: Marcêo
 Data: 2025-07-02T16:48:35+00:00
 Texto:
 Te passo já...
@@ -281,10 +281,10 @@ Qual é a principal demanda dele?
 ------------------------------
 
 MENSAGEM 31
-Autor: Marcão
+Autor: Marcêo
 Data: 2025-06-29T22:14:41+00:00
 Texto:
-Alguém aqui já desenvolveu ou tem em operação agente para Studio de Pilates
+Alguém aqui já desenvolveu ou tem em operaçêo agente para Studio de Pilates
 
 ------------------------------
 
@@ -292,7 +292,7 @@ MENSAGEM 32
 Autor: @jaimefreitasjunior
 Data: 2025-06-15T08:30:05+00:00
 Texto:
-Bom dia, alguém ja desenvolveu algo no n8n um assistente para gestão de grupos de whatsapp?
+Bom dia, alguém ja desenvolveu algo no n8n um assistente para gestêo de grupos de whatsapp?
 
 - envia mensagens programadas 
 - conversa
@@ -304,7 +304,7 @@ MENSAGEM 33
 Autor: Davi
 Data: 2025-06-09T18:34:29+00:00
 Texto:
-Qual erro queridão? Manda ano privado que tenho ajudar
+Qual erro queridêo? Manda ano privado que tenho ajudar
 
 ------------------------------
 
@@ -312,7 +312,7 @@ MENSAGEM 34
 Autor: Davi
 Data: 2025-06-09T18:33:47+00:00
 Texto:
-Pode ser esse o erro acima queridão... Passei raiva com ele essa semana e é super simples de resolver.
+Pode ser esse o erro acima queridêo... Passei raiva com ele essa semana e é super simples de resolver.
 
 ------------------------------
 
@@ -354,58 +354,58 @@ INEMA TOOLS : VPS
 Conexao FISH.AUDIO
 https://t.me/c/2494913847/9025
 
-Conexão com Gmail = MAKE
+Conexêo com Gmail = MAKE
 https://t.me/c/2277358326/2078
 
-Conexão YouTube API V3 - MAKE
+Conexêo YouTube API V3 - MAKE
 https://t.me/c/2277358326/3147
 
 Conexões GOOGLE - n8n
 https://t.me/c/2494913847/4565
 
-Conexão para Meta - INstagram e Facebook
+Conexêo para Meta - INstagram e Facebook
 https://t.me/c/2277358326/2093
 
-Conexão para WhatApp
+Conexêo para WhatApp
 https://t.me/c/2277358326/2088
 
-Conexão OpenRouter
+Conexêo OpenRouter
 https://t.me/c/2277358326/2118
 
-Conexão X
+Conexêo X
 https://t.me/c/2277358326/2130
 
-Conexão OpenAI
+Conexêo OpenAI
 https://t.me/c/2277358326/2141
 
 Conexao DeepSeek 
 https://t.me/c/2277358326/2151
 
-Conexão AirTable
+Conexêo AirTable
 https://t.me/c/2277358326/2165
 
-Conexão Apify (raspagem) 
+Conexêo Apify (raspagem) 
 https://t.me/c/2277358326/2175
 
-Conexão para Telegram MAKE
+Conexêo para Telegram MAKE
 https://t.me/c/2277358326/3042
 
 Conexao Telegram e BOT N8N
 https://t.me/c/2494913847/3215
 
-Conexão DeepSeek N8N
+Conexêo DeepSeek N8N
 [https://t.me/c/2494913847/966](https://t.me/c/2494913847/966)
 
-Conexão NOTION
+Conexêo NOTION
 https://t.me/c/2494913847/3603
 
-Conexão Mistral
+Conexêo Mistral
 https://t.me/c/2494913847/3785
 
-Conexão SLACK N8N
+Conexêo SLACK N8N
 https://t.me/c/2494913847/4469
 
-**Conexão - Instagram Setup
+**Conexêo - Instagram Setup
 ****https://t.me/c/2494913847/9663**
 
 
@@ -418,7 +418,7 @@ MENSAGEM 38
 Autor: INEMA
 Data: 2025-04-11T23:30:53+00:00
 Texto:
-Instalação Local
+Instalaçêo Local
 
 al7 - Docker e N8N Local
 https://t.me/c/2494913847/5480

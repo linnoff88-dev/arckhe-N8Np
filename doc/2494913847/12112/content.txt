@@ -55,8 +55,8 @@ Grave frases que o personagem/IA costuma dizer, para manter consistência no est
 
 ### 3. **Otimize para Telegram (ou outro canal)**
 
-* Ao enviar arquivos de voz no Telegram, use o tipo **audio/mp3** e **renomeie com extensão `.mp3`** no campo de metadados do binário.
-* Configure o nó Telegram para **“Send Audio”**, não “Send File”, para que toque diretamente no chat.
+* Ao enviar arquivos de voz no Telegram, use o tipo **audio/mp3** e **renomeie com extensêo `.mp3`** no campo de metadados do binário.
+* Configure o nó Telegram para **“Send Audio”**, nêo “Send File”, para que toque diretamente no chat.
 
 ---
 
@@ -88,14 +88,14 @@ Se idioma = "en", use voz “Jarvis”
 
 ### 7. **Censura ou Filtros de Conteúdo**
 
-* Adicione um nó de `IF` para verificar se há palavras inadequadas na transcrição antes de responder.
-* Use regex ou IA de moderação (como OpenAI `Moderation`) para bloquear ou redirecionar o fluxo.
+* Adicione um nó de `IF` para verificar se há palavras inadequadas na transcriçêo antes de responder.
+* Use regex ou IA de moderaçêo (como OpenAI `Moderation`) para bloquear ou redirecionar o fluxo.
 
 ---
 
 ### 8. **Rastreamento e Analytics Internos**
 
-* Registre em uma planilha ou banco (ex: Supabase) cada interação com:
+* Registre em uma planilha ou banco (ex: Supabase) cada interaçêo com:
 
   * Tempo de resposta
   * Texto da pergunta
@@ -108,7 +108,7 @@ Permite medir desempenho e ajustar os pontos fracos com base em dados reais.
 
 ### 9. **Recursos Locais para Economizar Créditos**
 
-* Faça a **transcrição com Whisper localmente** (usando outro servidor) para poupar tokens da ElevenLabs.
+* Faça a **transcriçêo com Whisper localmente** (usando outro servidor) para poupar tokens da ElevenLabs.
 * Ou use `OpenAI Whisper` se já tiver outro uso da API.
 
 ---
@@ -156,7 +156,7 @@ Abaixo está o **passo a passo completo** para transformar um **agente de IA em 
 * Insira sua **API Key do ElevenLabs** (pode ser plano gratuito ou pago).
 * Aponte o campo `data` para o binário do áudio baixado.
 
-### 4. **Enviar a transcrição para o agente de IA**
+### 4. **Enviar a transcriçêo para o agente de IA**
 
 * Adicione um nó de agente de IA (pode ser do próprio n8n ou OpenRouter).
 * Configure o **system prompt** com uma personalidade, ex: *“Você é um assistente útil e engraçado”*.
@@ -189,7 +189,7 @@ Abaixo está o **passo a passo completo** para transformar um **agente de IA em 
 
 * Adicione um nó `Webhook (POST)` no n8n.
 * Copie a URL gerada e cole no campo do Tool Calling da ElevenLabs.
-* Configure o corpo da requisição para aceitar algo como `searchQuery`.
+* Configure o corpo da requisiçêo para aceitar algo como `searchQuery`.
 
 ### 3. **Realizar a busca com IA externa (ex: Perplexity)**
 
@@ -209,12 +209,12 @@ Abaixo está o **passo a passo completo** para transformar um **agente de IA em 
 
 ---
 
-## **🔐 Ativação e Produção**
+## **🔐 Ativaçêo e Produçêo**
 
-### Trocar o Webhook de Teste pelo de Produção:
+### Trocar o Webhook de Teste pelo de Produçêo:
 
 * Ao finalizar os testes, ative o workflow no n8n.
-* Copie o novo Webhook de produção (sem `/test`) e substitua no agente da ElevenLabs.
+* Copie o novo Webhook de produçêo (sem `/test`) e substitua no agente da ElevenLabs.
 
 ---
 
@@ -240,18 +240,18 @@ Data: 2025-07-31T23:39:54+00:00
 Texto:
 **Resumo do vídeo "Transforme seu agente de IA em um assistente de voz em minutos (n8n e ElevenLabs)"**
 
-O vídeo apresenta duas maneiras práticas de transformar um agente de IA em um assistente de voz, utilizando **n8n** e **ElevenLabs**, sem a necessidade de programação.
+O vídeo apresenta duas maneiras práticas de transformar um agente de IA em um assistente de voz, utilizando **n8n** e **ElevenLabs**, sem a necessidade de programaçêo.
 
 ---
 
-### **Parte 1 – Agente com Resposta por Áudio (não conversacional)**
+### **Parte 1 – Agente com Resposta por Áudio (nêo conversacional)**
 
 1. **Fluxo básico com n8n + Telegram + ElevenLabs:**
 
    * O usuário envia um áudio via Telegram.
    * O n8n capta e baixa o arquivo.
    * O áudio é transcrito via ElevenLabs (ou OpenAI).
-   * A transcrição é enviada para um agente de IA que gera uma resposta em texto.
+   * A transcriçêo é enviada para um agente de IA que gera uma resposta em texto.
    * A resposta é convertida em áudio usando ElevenLabs (Text to Speech).
    * O áudio gerado é enviado de volta ao Telegram como arquivo de voz.
 
@@ -259,22 +259,22 @@ O vídeo apresenta duas maneiras práticas de transformar um agente de IA em um 
 
    * Nodes do Telegram, ElevenLabs e AI Agent.
    * Chaves de API para ElevenLabs e OpenRouter.
-   * Configuração do agente com prompts personalizados e escolha de voz.
+   * Configuraçêo do agente com prompts personalizados e escolha de voz.
 
 ---
 
 ### **Parte 2 – Agente de Voz Conversacional em Tempo Real (ElevenLabs)**
 
-1. **Criação de um agente conversacional direto na ElevenLabs:**
+1. **Criaçêo de um agente conversacional direto na ElevenLabs:**
 
    * Agente recebe e responde por voz de forma contínua.
    * É criado um **webhook personalizado no n8n**, que recebe dados do agente ElevenLabs.
-   * ElevenLabs envia a solicitação (por voz) ao webhook.
+   * ElevenLabs envia a solicitaçêo (por voz) ao webhook.
    * O n8n consulta fontes (ex: Perplexity.ai) e retorna um resumo para o agente responder.
 
-2. **Integração avançada com ferramenta de pesquisa:**
+2. **Integraçêo avançada com ferramenta de pesquisa:**
 
-   * ElevenLabs extrai a intenção do usuário (ex: "pesquisar diferenças entre cães e gatos").
+   * ElevenLabs extrai a intençêo do usuário (ex: "pesquisar diferenças entre cêes e gatos").
    * n8n executa a busca e resume os resultados com outro agente de IA.
    * A resposta final é enviada de volta à ElevenLabs como áudio.
 
@@ -282,14 +282,14 @@ O vídeo apresenta duas maneiras práticas de transformar um agente de IA em um 
 
 ### **Destaques e boas práticas:**
 
-* Utilização de **dois modos**: simples (voz para voz) e conversacional (com busca e resposta).
-* Criação de **ferramentas personalizadas (tool calling)** no painel de agentes da ElevenLabs.
-* Importância de trocar a URL do webhook de teste pela de produção ao ativar o fluxo.
+* Utilizaçêo de **dois modos**: simples (voz para voz) e conversacional (com busca e resposta).
+* Criaçêo de **ferramentas personalizadas (tool calling)** no painel de agentes da ElevenLabs.
+* Importância de trocar a URL do webhook de teste pela de produçêo ao ativar o fluxo.
 * Uso de modelos como **Perplexity**, **OpenRouter**, e **ElevenLabs** com API key.
 
 ---
 
-### **Conclusão:**
+### **Conclusêo:**
 
 O vídeo ensina de forma prática como adicionar voz aos agentes de IA usando n8n e ElevenLabs, criando uma experiência mais interativa e natural. É possível baixar o workflow completo na comunidade gratuita do autor ou participar da comunidade paga com cursos avançados sobre automações com IA.
 
@@ -297,8 +297,8 @@ O vídeo ensina de forma prática como adicionar voz aos agentes de IA usando n8
 
 **Exemplos demonstrados:**
 
-* Conversão de áudio enviado no Telegram em resposta falada.
-* Pesquisa sobre *Nvidia Q4 2025* e *diferenças entre cães e gatos*, respondidas por agente de voz com personalidade.
+* Conversêo de áudio enviado no Telegram em resposta falada.
+* Pesquisa sobre *Nvidia Q4 2025* e *diferenças entre cêes e gatos*, respondidas por agente de voz com personalidade.
 
 ------------------------------
 
@@ -318,7 +318,7 @@ Transforme seu Agente de IA em um Assistente de Voz em Minutos (n8n & ElevenLabs
 
 Já quis que seu agente de IA respondesse com voz? Neste vídeo, eu mostro como criar um agente de IA com voz no n8n usando o ElevenLabs, capaz de responder com arquivos de áudio ou manter conversas em tempo real.
 
-Não é necessário programar — basta configurar uma chamada de API ou um webhook simples.
+Nêo é necessário programar — basta configurar uma chamada de API ou um webhook simples.
 
 Aqui todo o processo passo a passo para que você possa acompanhar e colocar seu próprio agente de IA com voz em funcionamento em poucos minutos.
 

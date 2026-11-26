@@ -30,7 +30,7 @@ MENSAGEM 3
 Autor: INEMA
 Data: 2025-07-06T23:54:23+00:00
 Texto:
-Aqui estão os links com uma descrição para cada um deles:
+Aqui estêo os links com uma descriçêo para cada um deles:
 
 1. **n8n-workflows (Zie619)**
    [https://github.com/Zie619/n8n-workflows/tree/main](https://github.com/Zie619/n8n-workflows/tree/main)
@@ -38,11 +38,11 @@ Aqui estão os links com uma descrição para cada um deles:
 
 2. **context7 (Upstash)**
    [https://github.com/upstash/context7](https://github.com/upstash/context7)
-   Uma ferramenta para **engenharia de contexto** no n8n e outras aplicações MCP, permitindo fluxos mais inteligentes com armazenamento e recuperação de contexto.
+   Uma ferramenta para **engenharia de contexto** no n8n e outras aplicações MCP, permitindo fluxos mais inteligentes com armazenamento e recuperaçêo de contexto.
 
 3. **n8n-mcp (PromptAdvisers)**
    [https://github.com/promptadvisers/n8n-mcp](https://github.com/promptadvisers/n8n-mcp)
-   Um servidor MCP para **orquestrar e gerenciar fluxos n8n** com suporte a múltiplos agentes e integração com modelos de IA.
+   Um servidor MCP para **orquestrar e gerenciar fluxos n8n** com suporte a múltiplos agentes e integraçêo com modelos de IA.
 Midia: MessageMediaWebPage
 
 ------------------------------
@@ -63,7 +63,7 @@ Os Recursos Mais Lendários de Fluxos de Trabalho n8n + MCP
 
 41:29
 Ferramenta usada para converter repositórios do Github para MCP: **GitMCP**
-Este é o JSON para o arquivo de configuração necessário para o **Nível 1**:
+Este é o JSON para o arquivo de configuraçêo necessário para o **Nível 1**:
 
 ```{
   "mcpServers": {
@@ -147,10 +147,10 @@ Texto:
 
 ---
 
-## **Visão geral**
+## **Visêo geral**
 
 * O vídeo ensina a criar agentes de IA e fluxos de trabalho n8n automaticamente usando **Claude** e **MCP Servers**.
-* São apresentadas **3 abordagens (níveis)** que vão de simples a avançadas.
+* Sêo apresentadas **3 abordagens (níveis)** que vêo de simples a avançadas.
 * Objetivo: com um único prompt, gerar fluxos completos no n8n, prontos para uso.
 
 ---
@@ -160,19 +160,19 @@ Texto:
 * **Como funciona**:
 
   * Adiciona servidores MCP ao Claude Desktop via arquivo `config.json`.
-  * Permite que Claude busque documentação, exemplos e fluxos diretamente de repositórios GitHub.
+  * Permite que Claude busque documentaçêo, exemplos e fluxos diretamente de repositórios GitHub.
 * **Ferramentas usadas**:
 
   * `n8n-workflows Docs` (milhares de fluxos prontos)
-  * `Context7` (acesso à documentação atualizada)
-  * `n8n-mcp Docs` (criação e edição de fluxos)
+  * `Context7` (acesso à documentaçêo atualizada)
+  * `n8n-mcp Docs` (criaçêo e ediçêo de fluxos)
 * **Processo**:
 
   1. Copiar o JSON com as configurações dos MCP Servers.
-  2. Colar no arquivo de configuração do Claude Desktop.
+  2. Colar no arquivo de configuraçêo do Claude Desktop.
   3. Reiniciar Claude Desktop para ativar os servidores.
-  4. Usar um prompt no Claude para gerar um fluxo n8n baseado em exemplos e documentação.
-* **Limitação**: sem Docker, não é possível executar todas as funções do n8n-mcp.
+  4. Usar um prompt no Claude para gerar um fluxo n8n baseado em exemplos e documentaçêo.
+* **Limitaçêo**: sem Docker, nêo é possível executar todas as funções do n8n-mcp.
 
 ---
 
@@ -204,7 +204,7 @@ Texto:
   * Permite Claude interagir com milhares de arquivos JSON e criar fluxos complexos com agentes.
 * **Ferramentas usadas**:
 
-  * Cursor (acesso a todos os arquivos e integração com Claude)
+  * Cursor (acesso a todos os arquivos e integraçêo com Claude)
   * Docker (executa MCP local)
   * Repositórios com agentes e fluxos (agent tools e workflows)
 * **Processo**:
@@ -213,7 +213,7 @@ Texto:
   2. Importar pastas com agentes e fluxos prontos no Cursor.
   3. Enviar prompts para Claude criar fluxos que combinam automações e agentes.
   4. Claude pode validar, corrigir erros e até criar diagramas dos fluxos.
-* **Benefício**: geração de **workflows multiagente** completos, sem limitações de contexto ou tamanho.
+* **Benefício**: geraçêo de **workflows multiagente** completos, sem limitações de contexto ou tamanho.
 
 ---
 
@@ -225,11 +225,11 @@ Texto:
 
 * **Context7 (Upstash)**
   [https://github.com/upstash/context7](https://github.com/upstash/context7)
-  → Fornece documentação atualizada para diversos serviços.
+  → Fornece documentaçêo atualizada para diversos serviços.
 
 * **n8n-mcp (PromptAdvisers)**
   [https://github.com/promptadvisers/n8n-mcp](https://github.com/promptadvisers/n8n-mcp)
-  → MCP Server para criação e gestão de fluxos no n8n.
+  → MCP Server para criaçêo e gestêo de fluxos no n8n.
 
 ---
 
@@ -246,7 +246,7 @@ Texto:
 
 ✅ Claude pode **diagnosticar e corrigir** fluxos automaticamente.
 ✅ Possibilidade de criar **exércitos de agentes de IA** no n8n.
-✅ Integração total com GitHub, Docker e editores avançados como Cursor.
+✅ Integraçêo total com GitHub, Docker e editores avançados como Cursor.
 ✅ Métodos acessíveis tanto para iniciantes como para desenvolvedores experientes.
 Midia: MessageMediaWebPage
 
@@ -275,16 +275,16 @@ Texto:
 **“How to Use Claude & MCPs to INSTANTLY Build n8n AI Agents (MASTERCLASS)”** é mostrar **como qualquer pessoa pode criar agentes de IA e fluxos de trabalho complexos no n8n de forma automática**, apenas com um prompt, usando:
 
 ✅ **Claude (IA)** para pensar e montar fluxos.
-✅ **MCP Servers (Multi-Context Protocol)** para dar acesso à documentação, exemplos e APIs externas.
+✅ **MCP Servers (Multi-Context Protocol)** para dar acesso à documentaçêo, exemplos e APIs externas.
 ✅ **Ferramentas como Docker e Cursor** para liberar todo o potencial, mesmo em fluxos enormes.
 
-A ideia central é **transformar Claude em um superconsultor de automação**, capaz de:
+A ideia central é **transformar Claude em um superconsultor de automaçêo**, capaz de:
 
 * Planejar, gerar e corrigir fluxos completos.
 * Integrar APIs e serviços com um único comando.
 * Criar workflows com agentes inteligentes e multi-etapas.
 
-Tudo isso sem exigir conhecimento técnico profundo, permitindo desde iniciantes até profissionais avançados acelerarem a construção de automações no n8n.
+Tudo isso sem exigir conhecimento técnico profundo, permitindo desde iniciantes até profissionais avançados acelerarem a construçêo de automações no n8n.
 
 ------------------------------
 

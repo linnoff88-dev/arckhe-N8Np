@@ -23,29 +23,29 @@ Data: 2025-10-15T03:01:00+00:00
 Texto:
 e53. Bot com IA que qualifica e agenda sozinho
 
-Nesta aula, você aprende a criar um agente conversacional qualificador impulsionado por IA, capaz de interagir de forma natural com os prospectos, detectar interesse real e levá-los automaticamente a preencher um formulário e agendar uma reunião. Todo o sistema é otimizado para parecer humano e reduzir atritos. Ideal para automatizar a captação sem parecer um bot.
+Nesta aula, você aprende a criar um agente conversacional qualificador impulsionado por IA, capaz de interagir de forma natural com os prospectos, detectar interesse real e levá-los automaticamente a preencher um formulário e agendar uma reuniêo. Todo o sistema é otimizado para parecer humano e reduzir atritos. Ideal para automatizar a captaçêo sem parecer um bot.
 
-🛠️ O que conseguimos com essa automação?
+🛠️ O que conseguimos com essa automaçêo?
 
 * Ter um bot que conversa de forma fluida e humana graças a prompts avançados e estratégias de contexto.
 * Detectar automaticamente se o usuário está qualificado e interessado.
 * Redirecionar o lead no momento ideal para completar um formulário.
 * Gerar um relatório HTML personalizado com base nas respostas do formulário.
-* Enviar esse relatório por e-mail e WhatsApp, com um CTA final para agendar uma reunião.
+* Enviar esse relatório por e-mail e WhatsApp, com um CTA final para agendar uma reuniêo.
 * Notificar a equipe quando um lead completa o processo.
 * Integrar-se perfeitamente com WhatsApp Business via Neuronic API, Cal.com e formulários de Nekron.
 
 🧍‍♂️ Estrutura do fluxo automatizado
 
 1. **Início da conversa:** o bot é ativado ao receber uma mensagem no WhatsApp.
-2. **Classificação do tipo de conversa:** o sistema detecta se é uma conversa nova ou existente.
-3. **Memória contextual:** informações como nome, empresa, problemas e interesses são salvas e atualizadas no Supabase.
+2. **Classificaçêo do tipo de conversa:** o sistema detecta se é uma conversa nova ou existente.
+3. **Memória contextual:** informações como nome, empresa, problemas e interesses sêo salvas e atualizadas no Supabase.
 4. **Conversa natural:** o bot conversa em várias mensagens, usando Redis + nó de espera.
-5. **Avaliação de interesse:** se detectar interesse real, propõe o agendamento.
+5. **Avaliaçêo de interesse:** se detectar interesse real, propõe o agendamento.
 6. **Envio do formulário:** o bot compartilha um link de formulário personalizado via Necron.
-7. **Geração de relatório:** após o preenchimento, o sistema cria um relatório HTML com IA e o envia por e-mail.
-8. **Agendamento da reunião:** o bot redireciona o lead para o calendário no Cal.com.
-9. **Notificação interna:** a equipe é avisada pelo WhatsApp com os dados do lead.
+7. **Geraçêo de relatório:** após o preenchimento, o sistema cria um relatório HTML com IA e o envia por e-mail.
+8. **Agendamento da reuniêo:** o bot redireciona o lead para o calendário no Cal.com.
+9. **Notificaçêo interna:** a equipe é avisada pelo WhatsApp com os dados do lead.
 
 🛠️ Ferramentas utilizadas
 
@@ -62,16 +62,16 @@ Nesta aula, você aprende a criar um agente conversacional qualificador impulsio
 * Nunca pedir o formulário no início: primeiro, ofereça valor.
 * Use prompts com estratégias de “oportunidade-chave”, “contexto geral” e “contexto temporal”.
 * Encadeie mensagens simulando escrita humana (três pontos, pausas reais, etc.).
-* Melhore a qualidade do bot com armazenamento e atualização contextual avançada.
+* Melhore a qualidade do bot com armazenamento e atualizaçêo contextual avançada.
 * Treine o bot para ser curioso, fazer perguntas relevantes e conectar dores com soluções.
-* Reutilize estruturas já testadas (encadeamento, espera, etc.) para não reinventar.
-* Elimine atritos: não peça informações antes de gerar interesse.
-* Separe bem os fluxos de usuários qualificados e não qualificados.
+* Reutilize estruturas já testadas (encadeamento, espera, etc.) para nêo reinventar.
+* Elimine atritos: nêo peça informações antes de gerar interesse.
+* Separe bem os fluxos de usuários qualificados e nêo qualificados.
 
 📚 Recursos
 
 1. Bot conversacional
-2. Processo de utilização
+2. Processo de utilizaçêo
 
 ------------------------------
 
@@ -99,29 +99,29 @@ O bot que qualifica, convence e agenda sozinho
 
 Esta semana é 100% sobre chatbots INCRÍVEIS... 
 
-E já começamos com uma AUTOMATIZAÇÃO INSANA que vai explodir sua mente 🤯
+E já começamos com uma AUTOMATIZAÇêO INSANA que vai explodir sua mente 🤯
 
-👉 Criamos um agente conversacional que não apenas responde como um humano...
-pensa como você, detecta se o lead tem potencial e o conduz com estratégia até que ele mesmo marque uma reunião.
+👉 Criamos um agente conversacional que nêo apenas responde como um humano...
+pensa como você, detecta se o lead tem potencial e o conduz com estratégia até que ele mesmo marque uma reuniêo.
 
 🔥 O que exatamente esse bot faz?
 
 * Conversa pelo WhatsApp como se fosse parte da sua equipe (usando contexto real, memória e tom humano).
-* Detecta se o lead está qualificado, interessado e com real intenção de compra.
+* Detecta se o lead está qualificado, interessado e com real intençêo de compra.
 * No momento certo, envia um formulário inteligente que adapta o conteúdo conforme o que o lead disse.
 * Gera um relatório HTML personalizado para demonstrar autoridade e valor.
-* Conduz o lead diretamente ao seu calendário para agendar a reunião.
+* Conduz o lead diretamente ao seu calendário para agendar a reuniêo.
 * E notifica sua equipe assim que surge uma nova oportunidade quente.
 
 👉 Tudo isso sem que você mova um dedo.
-E o melhor: não parece um bot. Parece mágica.
+E o melhor: nêo parece um bot. Parece mágica.
 
 🔧 Construído com: N8N + Supabase + Redis + Cal.com + Neuronic API + IA (OpenAI ou Gemini).
 
 🚀 Você pode aplicar isso se vende serviços, faz consultoria, tem uma agência, é formador ou possui um SaaS.
 Qualquer negócio que precise qualificar bem antes de vender deveria ter algo assim funcionando já.
 
-📆 E fique atento, porque na quinta-feira lançamos outro bot tão poderoso quanto este...
+📆 E fique atento, porque na quinta-feira lançamos outro bot têo poderoso quanto este...
 Esta é a semana dos chatbots TOP.
 
 ------------------------------

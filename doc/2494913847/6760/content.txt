@@ -39,9 +39,9 @@ Principais etapas:
 
 2. **Fluxo de Trabalho 1 – Transformar Transcrições em Posts**:
    - Buscar vídeos populares no YouTube.
-   - Usar uma API de terceiros (Search API) para extrair a transcrição do vídeo.
-   - Processar a transcrição no OpenAI para criar posts formatados para redes sociais.
-   - Atualizar os dados (transcrição, post, URL, status) no Google Sheets.
+   - Usar uma API de terceiros (Search API) para extrair a transcriçêo do vídeo.
+   - Processar a transcriçêo no OpenAI para criar posts formatados para redes sociais.
+   - Atualizar os dados (transcriçêo, post, URL, status) no Google Sheets.
 
 3. **Fluxo de Trabalho 2 – Criar Threads no X/Twitter**:
    - Pegar os posts formatados do Google Sheets.
@@ -49,15 +49,15 @@ Principais etapas:
    - Publicar o primeiro tweet e responder com os tweets subsequentes para formar a thread.
    - Atualizar o status do post no Google Sheets.
 
-4. **Demonstração**:
-   - O vídeo mostra como buscar a transcrição de um vídeo, gerar os posts no Google Sheets e postar a thread no X/Twitter automaticamente.
+4. **Demonstraçêo**:
+   - O vídeo mostra como buscar a transcriçêo de um vídeo, gerar os posts no Google Sheets e postar a thread no X/Twitter automaticamente.
 
-5. **Configuração de Credenciais**:
+5. **Configuraçêo de Credenciais**:
    - Para YouTube: configurar a API no Google Cloud, ativar o YouTube Data API v3, gerar Client ID e Client Secret, e configurar no sistema.
    - Para X/Twitter: criar um projeto no painel de desenvolvedores, definir permissões de leitura e escrita, configurar o tipo de app como automatizado/bot e obter Client ID e Secret.
 
 6. **Notas técnicas**:
-   - É necessário usar uma API externa para transcrição, pois o YouTube limita o acesso a transcrições de vídeos que não são seus.
+   - É necessário usar uma API externa para transcriçêo, pois o YouTube limita o acesso a transcrições de vídeos que nêo sêo seus.
    - O OpenAI é utilizado para adaptar as transcrições em formato adequado para postagens.
    - O sistema garante que, se o post ultrapassar o limite de caracteres, ele será dividido corretamente em vários tweets.
 
@@ -69,8 +69,8 @@ Principais etapas:
 Tópicos resumidos com exemplos e respostas:
 
 - Ferramentas necessárias: YouTube, OpenAI, Google Sheets, X/Twitter.
-- Buscar vídeos e extrair transcrição: Usar Search API.
-- Gerar posts: OpenAI transforma transcrição em posts.
+- Buscar vídeos e extrair transcriçêo: Usar Search API.
+- Gerar posts: OpenAI transforma transcriçêo em posts.
 - Publicar threads: Automatizar a sequência de tweets.
 - Configurar credenciais: YouTube API e X Developer Panel.
 - Dividir conteúdo: Limitar caracteres e formar threads.

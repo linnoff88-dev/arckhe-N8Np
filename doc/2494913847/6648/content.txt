@@ -55,9 +55,9 @@ MENSAGEM 6
 Autor: INEMA
 Data: 2025-05-16T04:10:12+00:00
 Texto:
-Você é um chatbot inteligente chamado INEMA BOT, com uma interface visual amigável e moderna. Sua função é realizar atendimentos eficientes, personalizados e empáticos, utilizando webhooks para obter e enviar dados em tempo real.
+Você é um chatbot inteligente chamado INEMA BOT, com uma interface visual amigável e moderna. Sua funçêo é realizar atendimentos eficientes, personalizados e empáticos, utilizando webhooks para obter e enviar dados em tempo real.
 
-🔗 Webhook de integração: https://webhk.inema.online/webhook/32b289bc-d4a7-419c-a6a3-74572502c752
+🔗 Webhook de integraçêo: https://webhk.inema.online/webhook/32b289bc-d4a7-419c-a6a3-74572502c752
 
 📋 Instruções:
 
@@ -65,7 +65,7 @@ Você é um chatbot inteligente chamado INEMA BOT, com uma interface visual amig
 2. Espere a resposta do webhook antes de continuar a conversa. A resposta sempre trará a **mensagem ideal** para o usuário com base no contexto.
 3. Mantenha o tom acolhedor, com frases curtas, claras e adaptadas ao público.
 4. Se o usuário fizer uma pergunta sem resposta imediata no webhook, diga:  
-   "Estou buscando essa informação para você, só um instante…"  
+   "Estou buscando essa informaçêo para você, só um instante…"  
    E tente reencaminhar a mensagem para o webhook com o contexto adicional.
 5. Exiba imagens ou botões quando disponíveis na resposta do webhook.
 6. Registre o histórico da conversa (sem dados sensíveis) para futuras análises de melhoria.
@@ -73,10 +73,10 @@ Você é um chatbot inteligente chamado INEMA BOT, com uma interface visual amig
 🎨 Design e usabilidade:
 - Use balões de conversa com cantos arredondados, tons de azul e cinza.
 - Ícones para ações como “Falar com Humano”, “Ver Detalhes”, “Reiniciar Chat”.
-- O botão de iniciar conversa deve conter: "👋 Olá! Posso te ajudar em algo agora?"
+- O botêo de iniciar conversa deve conter: "👋 Olá! Posso te ajudar em algo agora?"
 
 🧠 Comportamento adicional:
-- Detecte palavras-chave como “ajuda”, “problema”, “erro”, “cancelar” e redirecione para um fluxo humano, enviando essa informação ao webhook.
+- Detecte palavras-chave como “ajuda”, “problema”, “erro”, “cancelar” e redirecione para um fluxo humano, enviando essa informaçêo ao webhook.
 - Se o usuário estiver inativo por 3 minutos, envie uma mensagem gentil oferecendo ajuda ou encerrar o atendimento.
 - Sempre finalize com: "Posso ajudar em mais alguma coisa? 😊"
 
@@ -84,7 +84,7 @@ Você é um chatbot inteligente chamado INEMA BOT, com uma interface visual amig
 
 ```json
 {
-  "nome": "João",
+  "nome": "Joêo",
   "mensagem": "Quero saber como alterar meu cadastro",
   "hora": "2025-05-15T22:35:00",
   "canal": "site",
@@ -179,32 +179,32 @@ Texto:
 **"Build a Multichannel RAG based AI Chatbot with Custom Knowledge Base in 20 mins"**
 
 **Objetivo:**  
-Criar um chatbot de IA para gestão de conhecimento interno, acessível via WhatsApp, Slack e Telegram, usando n8n, Deepseek AI, OpenAI e Pinecone, sem precisar programar.
+Criar um chatbot de IA para gestêo de conhecimento interno, acessível via WhatsApp, Slack e Telegram, usando n8n, Deepseek AI, OpenAI e Pinecone, sem precisar programar.
 
-**Demonstração rápida:**  
+**Demonstraçêo rápida:**  
 - Testaram perguntas sobre o relatório financeiro Q3 da Coca-Cola em WhatsApp, Slack e Telegram, comprovando respostas corretas e consistentes.
 
-**Configuração passo a passo:**
+**Configuraçêo passo a passo:**
 
-1. **Workflow 1: Alimentação da base de conhecimento no Pinecone**
+1. **Workflow 1: Alimentaçêo da base de conhecimento no Pinecone**
    - Configurar formulário de envio de arquivos (PDFs, por exemplo).
    - Extrair texto dos arquivos enviados.
    - Inserir documentos na base vetorial Pinecone.
    - Usar modelo de embeddings do OpenAI (text-embedding-3-large).
-   - Dividir o texto em blocos de 1000 tokens, com sobreposição de 100.
+   - Dividir o texto em blocos de 1000 tokens, com sobreposiçêo de 100.
 
-2. **Workflow 2: Integração dos canais (WhatsApp, Slack, Telegram)**
+2. **Workflow 2: Integraçêo dos canais (WhatsApp, Slack, Telegram)**
    - Configurar gatilhos (triggers) de mensagem para cada canal.
    - Identificar a plataforma de origem da mensagem.
    - Ajustar mensagens para reconhecer o bot no Slack (é necessário mencionar o bot para ativar).
 
-3. **Configuração do Agente de IA (Conversacional)**
-   - Usar Deepseek AI como modelo de chat (não OpenAI padrão).
+3. **Configuraçêo do Agente de IA (Conversacional)**
+   - Usar Deepseek AI como modelo de chat (nêo OpenAI padrêo).
    - Configurar a chave de API do Deepseek.
    - Definir o modelo Deepseek específico (`deepseek-chat`).
    - Configurar base URL do Deepseek API.
 
-4. **Integração com a Base de Conhecimento**
+4. **Integraçêo com a Base de Conhecimento**
    - Usar ferramenta de busca no Pinecone para recuperar documentos relevantes.
    - Embedding de consulta feito via OpenAI antes de buscar no Pinecone.
 
@@ -220,18 +220,18 @@ Criar um chatbot de IA para gestão de conhecimento interno, acessível via What
      - Slack: envia para o canal especificado.
      - Telegram: envia para o chat ID correto.
 
-**Conclusão:**  
-Sistema completo de chatbot multicanal com base de conhecimento personalizada e integração inteligente via n8n, Deepseek AI, OpenAI e Pinecone.
+**Conclusêo:**  
+Sistema completo de chatbot multicanal com base de conhecimento personalizada e integraçêo inteligente via n8n, Deepseek AI, OpenAI e Pinecone.
 
 ---
 
 **Tópicos listados com exemplos do que foi feito:**
 
 - WhatsApp, Slack e Telegram recebem e enviam mensagens usando o mesmo agente de IA.
-- PDFs (como relatórios financeiros) são transformados em base vetorial para respostas precisas.
-- Utiliza-se Deepseek AI para reduzir custos de uso em comparação com OpenAI.
-- Switch de plataforma para manter organização e correta distribuição de mensagens.
-- Configurações práticas para inserção e recuperação de informações.
+- PDFs (como relatórios financeiros) sêo transformados em base vetorial para respostas precisas.
+- Utiliza-se Deepseek AI para reduzir custos de uso em comparaçêo com OpenAI.
+- Switch de plataforma para manter organizaçêo e correta distribuiçêo de mensagens.
+- Configurações práticas para inserçêo e recuperaçêo de informações.
 
 ------------------------------
 
@@ -260,15 +260,15 @@ Perguntas e Respostas Relacionadas
 Pergunta: Quero usar uma fanpage do Facebook em vez do Telegram para conversar com o "Chatbot de IA Multicanal baseado em RAG".  
 Resposta:
 
-1. Conecte o chatbot à sua fanpage do Facebook integrando a plataforma do chatbot com o Facebook Messenger. A maioria das plataformas de chatbot oferece suporte à integração com o Facebook Messenger.
+1. Conecte o chatbot à sua fanpage do Facebook integrando a plataforma do chatbot com o Facebook Messenger. A maioria das plataformas de chatbot oferece suporte à integraçêo com o Facebook Messenger.
 
-2. Configure as permissões e ajustes necessários dentro da plataforma do chatbot para habilitar a comunicação com a sua fanpage do Facebook.
+2. Configure as permissões e ajustes necessários dentro da plataforma do chatbot para habilitar a comunicaçêo com a sua fanpage do Facebook.
 
-3. Teste a integração para garantir que o chatbot consiga interagir com os usuários através da sua fanpage do Facebook.
+3. Teste a integraçêo para garantir que o chatbot consiga interagir com os usuários através da sua fanpage do Facebook.
 
 4. Atualize quaisquer links ou promoções existentes para direcionar os usuários à sua fanpage do Facebook para interações com o chatbot, em vez do Telegram.
 
-Seguindo esses passos, você poderá fazer a transição do uso do Telegram para utilizar sua fanpage do Facebook nas interações com o chatbot de forma contínua.
+Seguindo esses passos, você poderá fazer a transiçêo do uso do Telegram para utilizar sua fanpage do Facebook nas interações com o chatbot de forma contínua.
 
 ------------------------------
 
@@ -286,9 +286,9 @@ Data: 2025-04-28T02:10:20+00:00
 Texto:
 Crie um Chatbot de IA Multicanal com RAG e Base de Conhecimento Personalizada em 20 minutos  
 
-Como construir um chatbot de IA para conhecimento interno no WhatsApp, Slack e Telegram usando n8n, Deepseek, OpenAI e Pinecone — sem necessidade de programação!  
+Como construir um chatbot de IA para conhecimento interno no WhatsApp, Slack e Telegram usando n8n, Deepseek, OpenAI e Pinecone — sem necessidade de programaçêo!  
 
-Este sistema baseado em IA oferece respostas rápidas e precisas e facilita a gestão do conhecimento da equipe de forma simples.
+Este sistema baseado em IA oferece respostas rápidas e precisas e facilita a gestêo do conhecimento da equipe de forma simples.
 
 ------------------------------
 

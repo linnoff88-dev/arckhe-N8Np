@@ -52,7 +52,7 @@
         544
       ],
       "parameters": {
-        "jsCode": "// Verifica se `chatInput` existe no JSON\nif ($json.chatInput) {\n  return [{ json: { result: $json.chatInput } }];\n} \n// Caso contrário, verifica se `message.content` existe no JSON\nelse if ($json.message && $json.message.content) {\n  return [{ json: { result: $json.message.content } }];\n}\n// Caso nenhum dos dois existam, retorna um valor padrão (opcional)\nelse {\n  return [{ json: { result: 'Nenhuma entrada encontrada' } }];\n}\n"
+        "jsCode": "// Verifica se `chatInput` existe no JSON\nif ($json.chatInput) {\n  return [{ json: { result: $json.chatInput } }];\n} \n// Caso contrário, verifica se `message.content` existe no JSON\nelse if ($json.message && $json.message.content) {\n  return [{ json: { result: $json.message.content } }];\n}\n// Caso nenhum dos dois existam, retorna um valor padrêo (opcional)\nelse {\n  return [{ json: { result: 'Nenhuma entrada encontrada' } }];\n}\n"
       },
       "typeVersion": 2
     },

@@ -21,7 +21,7 @@ MENSAGEM 2
 Autor: Camila massoterapeuta
 Data: 2025-08-27T18:19:10+00:00
 Texto:
-Mas eu não encontrei no grupo do make .. eu gostaria do blueprint dela ...
+Mas eu nêo encontrei no grupo do make .. eu gostaria do blueprint dela ...
 
 ------------------------------
 
@@ -60,7 +60,7 @@ Texto:
   Use em um nó de `Function` ou `Set`. Isso simula comportamento humano.
 
 * **Hack da resposta única (anti-pattern):**
-  Crie **variações dinâmicas de prompts** ou use campos aleatórios (como emojis, frases de transição, complementos):
+  Crie **variações dinâmicas de prompts** ou use campos aleatórios (como emojis, frases de transiçêo, complementos):
 
   * Exemplo:
 
@@ -73,13 +73,13 @@ Texto:
 
 ### 2**. Use o contexto do post para respostas mais inteligentes
 **
-* Sempre recupere o c**aption da publicação **com:
+* Sempre recupere o c**aption da publicaçêo **com:
 
    ``` GET /{media-id}?fields=caption
   
 ```
   e adicione isso ao prompt da IA.
-  Isso au**menta a precisão e autenticidade d**a resposta, fazendo parecer que a IA realmente “leu” o post.
+  Isso au**menta a precisêo e autenticidade d**a resposta, fazendo parecer que a IA realmente “leu” o post.
 
 ---
 
@@ -92,7 +92,7 @@ Texto:
   * Regras visuais (ex: usar só ! no final das frases)
 * Exemplo:
 
-    ```Responda como [Seu Nome]. Tom alegre, direto, humano, com emoção. Use gírias que eu usaria.
+    ```Responda como [Seu Nome]. Tom alegre, direto, humano, com emoçêo. Use gírias que eu usaria.
   
 
 ```---
@@ -164,13 +164,13 @@ Texto:
 * C**rie um try/c`atch no f`luxo com branch de erro:
 
   * Se a IA falhar, registre o comentário e alerte via Telegram ou e-mail.
-  * Exemplo: "Comentário não respondido. Revisar manualmente."
+  * Exemplo: "Comentário nêo respondido. Revisar manualmente."
 
 ---
 
-### 10. E**xpansão futura:
+### 10. E**xpansêo futura:
 
-* C**rie automação para:
+* C**rie automaçêo para:
 
   * Sortear entre comentaristas
   * Enviar DM automática para leads
@@ -196,7 +196,7 @@ Texto:
 
 ---
 
-### **1. Configurar a aplicação no Meta Developers**
+### **1. Configurar a aplicaçêo no Meta Developers**
 
 * Acesse: [developers.facebook.com](https://developers.facebook.com/)
 * Crie um aplicativo e ative o **Instagram Graph API**.
@@ -216,7 +216,7 @@ Texto:
 ### 2**. Criar o Webhook no N8N
 **
 * Crie um nó W**ebhook **no N8N com método G**ET e POST **(habilite múltiplos métodos).
-* Configure o H**ub Challenge **de verificação para que o Meta aceite o Webhook.
+* Configure o H**ub Challenge **de verificaçêo para que o Meta aceite o Webhook.
 * Faça o filtro inicial:
 
   * f`ields == comments
@@ -231,13 +231,13 @@ Texto:
   * I`D do comentário
 `  * U`suário
 `  * T`exto
-`  * I`D da publicação
+`  * I`D da publicaçêo
 `
 ---
 
-### 4**. Obter o *caption* da publicação
+### 4**. Obter o *caption* da publicaçêo
 **
-* Chame o endpoint do Instagram para recuperar o texto da publicação original.
+* Chame o endpoint do Instagram para recuperar o texto da publicaçêo original.
 
   * Use: G`ET /{media-id}?fields=caption
 `  * Isso fornece c**ontexto **para gerar uma resposta mais precisa com IA.
@@ -247,7 +247,7 @@ Texto:
 ### 5**. Classificar o comentário com IA
 **
 * Use um nó de IA (Gemini 2.5 ou OpenAI, Claude etc.)
-* Prompt de classificação:
+* Prompt de classificaçêo:
 
    ``` Classifique o comentário abaixo como: 
   - positivo
@@ -274,7 +274,7 @@ Texto:
   Linguagem informal (português de Portugal ou Brasil, conforme seu estilo).
 
   Comentário: "Texto do comentário"
-  Contexto: "Caption da publicação"
+  Contexto: "Caption da publicaçêo"
   
 *``` Adicione também o nome de usuário com @, se possível.
 
@@ -288,7 +288,7 @@ Texto:
   
 
  ``` → Espera entre 2 a **5 minutos
-* I**sso evita que o Instagram detecte padrão de bot.
+* I**sso evita que o Instagram detecte padrêo de bot.
 
 ---
 
@@ -322,7 +322,7 @@ Texto:
 * Nu**nca repita as mesmas respostas.
 * Nunca responda no mesmo segundo.
 * Evite links diretos → redirecione para o perfil**.
-* Us**e linguagem natural e variação de emojis, risadas etc.
+* Us**e linguagem natural e variaçêo de emojis, risadas etc.
 * Adicione filtros para *comentários técnicos*, *leads* ou *trolls* se quiser personalizar mais.
 Midia: MessageMediaWebPage
 
@@ -340,7 +340,7 @@ MENSAGEM 9
 Autor: INEMA
 Data: 2025-08-01T00:09:34+00:00
 Texto:
-**Resumo: Automação de Respostas de Comentários no Instagram com N8N e Gemini**
+**Resumo: Automaçêo de Respostas de Comentários no Instagram com N8N e Gemini**
 
 ---
 
@@ -352,40 +352,40 @@ Ensinar como automatizar respostas personalizadas para comentários no Instagram
 
 ### Etapas do Processo:
 
-**1. Demonstração prática:**
+**1. Demonstraçêo prática:**
 
-* Criador comenta “Wow, interessante, como mola” em sua própria publicação no Instagram.
+* Criador comenta “Wow, interessante, como mola” em sua própria publicaçêo no Instagram.
 * O N8N detecta o comentário automaticamente.
 * O fluxo é ativado com **delay aleatório entre 2 a 5 minutos**, simulando comportamento humano.
 * O comentário é classificado como **positivo** e respondido com IA no estilo do criador (“Brutal, a mim também me voa a cabeça”).
 
 ---
 
-**2. Estrutura da automação:**
+**2. Estrutura da automaçêo:**
 
-* **Webhook N8N + API do Instagram:** Conecta e escuta eventos de comentários via aplicação criada em `developers.facebook.com`.
-* **Verificação via Hub Challenge:** Necessário configurar GET e POST.
+* **Webhook N8N + API do Instagram:** Conecta e escuta eventos de comentários via aplicaçêo criada em `developers.facebook.com`.
+* **Verificaçêo via Hub Challenge:** Necessário configurar GET e POST.
 * **Filtro de comentários:** Só dispara se:
 
   * O evento for um comentário.
-  * O comentário **não for do próprio usuário** (evita loop).
-* **Coleta de dados do comentário:** ID, usuário, texto, ID da publicação etc.
-* **Busca do *caption* da publicação:** Usando curl e o Media ID.
-* **Classificação com IA (Gemini):**
+  * O comentário **nêo for do próprio usuário** (evita loop).
+* **Coleta de dados do comentário:** ID, usuário, texto, ID da publicaçêo etc.
+* **Busca do *caption* da publicaçêo:** Usando curl e o Media ID.
+* **Classificaçêo com IA (Gemini):**
 
   * Positivo → responde.
   * Negativo → exclui.
   * Neutro → pode redirecionar.
-* **Geração de resposta personalizada:** Estilo próximo, informal e emocional.
+* **Geraçêo de resposta personalizada:** Estilo próximo, informal e emocional.
 
   * Expressões usadas: “mola mil”, “me flipa”, “brutal”, etc.
   * Linguagem: espanhol da Espanha, sem parecer bot.
   * Nunca usar links diretos, só redirecionar ao perfil.
 * **Delay aleatório:** Entre 120 a 300 segundos (2 a 5 min) para evitar bloqueio do Instagram.
-* **Publicação da resposta ou exclusão do comentário:**
+* **Publicaçêo da resposta ou exclusêo do comentário:**
 
-  * Resposta é postada com menção (@usuário).
-  * Comentários negativos são excluídos via método DELETE da API.
+  * Resposta é postada com mençêo (@usuário).
+  * Comentários negativos sêo excluídos via método DELETE da API.
 
 ---
 
@@ -401,7 +401,7 @@ Ensinar como automatizar respostas personalizadas para comentários no Instagram
 * **Nunca** repetir exatamente a mesma resposta.
 * **Nunca** responder sempre no mesmo tempo.
 * Adicionar o **contexto do post** melhora a resposta.
-* Personalização com **IA gratuita (Gemini 2.5 Flash)** evita custos de ferramentas como Manychat.
+* Personalizaçêo com **IA gratuita (Gemini 2.5 Flash)** evita custos de ferramentas como Manychat.
 * Tempo de espera aleatório e estilo humano evitam bloqueios.
 
 ---
@@ -415,13 +415,13 @@ Ensinar como automatizar respostas personalizadas para comentários no Instagram
 
 ---
 
-### Conclusão:
+### Conclusêo:
 
-O sistema permite escalar, filtrar, responder e até redirecionar para mensagens diretas com IA — tudo sem custos por operação. O criador recomenda expandir para:
+O sistema permite escalar, filtrar, responder e até redirecionar para mensagens diretas com IA — tudo sem custos por operaçêo. O criador recomenda expandir para:
 
 * Mensagens diretas
 * Sorteios
-* Diferenciação por tipo de comentário
+* Diferenciaçêo por tipo de comentário
 
 ------------------------------
 
@@ -431,7 +431,7 @@ Data: 2025-08-01T00:08:03+00:00
 Texto:
 **Recursos:**
 
-* Blueprint de gestão de comentários no IG
+* Blueprint de gestêo de comentários no IG
 * Console de desenvolvedores Meta
 * API Graph Meta
 
@@ -446,16 +446,16 @@ Texto:
 
 
 🎯 **Objetivo **
-Aprendemos a automatizar a gestão de comentários em publicações do Instagram, classificando o tom (positivo, negativo, neutro) e gerando respostas humanas e personalizadas com inteligência artificial. Também mostramos como remover automaticamente comentários negativos — tudo pelo **N8N**, sem pagar por ferramentas como o Manychat.
+Aprendemos a automatizar a gestêo de comentários em publicações do Instagram, classificando o tom (positivo, negativo, neutro) e gerando respostas humanas e personalizadas com inteligência artificial. Também mostramos como remover automaticamente comentários negativos — tudo pelo **N8N**, sem pagar por ferramentas como o Manychat.
 
-🛠️ **O que conseguimos com essa automação?**
+🛠️ **O que conseguimos com essa automaçêo?**
 
 * Detectar automaticamente novos comentários no Instagram
 * Classificá-los por tom usando IA
 * Responder de forma automatizada e personalizada, com o estilo de Ángel Aparicio
 * Remover comentários negativos instantaneamente
 * Imitar comportamento humano com tempos de espera aleatórios
-* Evitar que o Instagram detecte a automação
+* Evitar que o Instagram detecte a automaçêo
 * Trabalhar sem custo adicional usando o **Gemini 2.5 Flash**
 
 🧩 **Estrutura do fluxo automatizado**
@@ -468,36 +468,36 @@ Aprendemos a automatizar a gestão de comentários em publicações do Instagram
 * Filtrar os eventos para que só disparem se:
 
   * O evento for um comentário
-  * O comentário não tenha sido feito pelo próprio Ángel (para evitar loop infinito)
+  * O comentário nêo tenha sido feito pelo próprio Ángel (para evitar loop infinito)
 
 **2. Captura e limpeza de dados**
 
-* Armazenar os campos principais: ID do comentário, usuário, texto, ID da publicação, etc.
-* Fazer uma chamada para o endpoint do Instagram para obter o *caption* da publicação (contexto)
+* Armazenar os campos principais: ID do comentário, usuário, texto, ID da publicaçêo, etc.
+* Fazer uma chamada para o endpoint do Instagram para obter o *caption* da publicaçêo (contexto)
 
-**3. Classificação do comentário (IA)**
+**3. Classificaçêo do comentário (IA)**
 
 * Executar um classificador de sentimentos:
 
   * Positivo → Resposta automática
-  * Negativo → Remoção imediata
+  * Negativo → Remoçêo imediata
   * Neutro → Pode ser tratado de forma diferente
 * O classificador usa um *prompt* com exemplos claros de cada tipo de comentário
 
-**4. Geração de resposta com IA personalizada**
+**4. Geraçêo de resposta com IA personalizada**
 
-* Passar para a IA (Gemini) o comentário e o *caption* da publicação
+* Passar para a IA (Gemini) o comentário e o *caption* da publicaçêo
 * O *prompt* foi cuidadosamente desenhado para imitar o estilo de Ángel:
 
   * Tom próximo, entusiástico, bem humano e em espanhol da Espanha
   * Expressões naturais e pessoais (“brutal”, “mola mil”, “me flipa”, etc.)
-  * Evita parecer um bot, não usa links diretos (só redireciona ao perfil)
+  * Evita parecer um bot, nêo usa links diretos (só redireciona ao perfil)
 
-**5. Simulação de comportamento humano**
+**5. Simulaçêo de comportamento humano**
 
 * Introduz um tempo de espera aleatório entre 2 e 5 minutos antes de responder, para evitar padrões automáticos que o Instagram poderia detectar
 
-**6. Publicação da resposta ou remoção do comentário**
+**6. Publicaçêo da resposta ou remoçêo do comentário**
 
 * Se for positivo: publica a resposta mencionando o usuário (@usuario), se possível
 * Se for negativo: remove o comentário com uma chamada DELETE à API do Instagram
@@ -511,8 +511,8 @@ Aprendemos a automatizar a gestão de comentários em publicações do Instagram
 🧠 **Dicas importantes que aprendemos**
 
 * Nunca repetir exatamente o mesmo texto nas respostas automáticas
-* Evitar responder sempre no mesmo segundo (padrão de bot)
-* Usar IA gratuita como Gemini 2.5 reduz custos em relação a ferramentas como Manychat
+* Evitar responder sempre no mesmo segundo (padrêo de bot)
+* Usar IA gratuita como Gemini 2.5 reduz custos em relaçêo a ferramentas como Manychat
 * Adicionar o *caption* como contexto melhora muito a qualidade das respostas
 * Um estilo humano e personalizado é essencial para evitar bloqueios da plataforma
 
@@ -558,17 +558,17 @@ Texto:
 🚀 Você paga o Manychat só para responder comentários no Instagram?
 Pois sinto te dizer que está jogando dinheiro fora 😅
 
-🔥 Como criar uma automação no **N8N** que responde por você os comentários do Instagram usando **IA**, de forma personalizada, próxima e com o seu estilo.
+🔥 Como criar uma automaçêo no **N8N** que responde por você os comentários do Instagram usando **IA**, de forma personalizada, próxima e com o seu estilo.
 
-💸 Custo por operação? Zero.
+💸 Custo por operaçêo? Zero.
 Custo por contato? Zero.
 Limites? Nenhum.
 Você só precisa do **N8N** e do **Gemini (gratuito)**, e pronto.
 
-**O que essa automação faz?**
+**O que essa automaçêo faz?**
 ✅ Detecta automaticamente novos comentários nas suas publicações.
 ✅ Classifica se o comentário é positivo, neutro ou negativo.
-✅ Responde com inteligência artificial imitando o seu estilo (com contexto real da publicação).
+✅ Responde com inteligência artificial imitando o seu estilo (com contexto real da publicaçêo).
 ✅ Remove comentários tóxicos instantaneamente.
 ✅ Adiciona tempos de espera aleatórios para parecer totalmente humano.
 ✅ E você pode expandir para mensagens privadas, sorteios, respostas por tipo de comentário e muito mais!

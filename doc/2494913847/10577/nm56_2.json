@@ -27,7 +27,7 @@
     },
     {
       "parameters": {
-        "jsCode": "// Processar métricas e gerar alertas\nconst metricas = $input.all();\nconst alertas = [];\nconst dashboard = {};\n\n// Processar cada métrica\nfor (const item of metricas) {\n  const { metrica, valor, timestamp } = item.json;\n  dashboard[metrica] = valor;\n  \n  // Verificar alertas\n  switch (metrica) {\n    case 'hitl_pendentes':\n      if (valor > 5) {\n        alertas.push({\n          tipo: 'warning',\n          metrica: metrica,\n          valor: valor,\n          limite: 5,\n          mensagem: `${valor} solicitações HITL pendentes (limite: 5)`\n        });\n      }\n      break;\n      \n    case 'tempo_resposta_medio':\n      if (valor > 300) { // 5 minutos\n        alertas.push({\n          tipo: 'warning',\n          metrica: metrica,\n          valor: valor,\n          limite: 300,\n          mensagem: `Tempo médio de resposta: ${Math.round(valor)}s (limite: 300s)`\n        });\n      }\n      break;\n      \n    case 'interacoes_periodo':\n      if (valor > 100) {\n        alertas.push({\n          tipo: 'info',\n          metrica: metrica,\n          valor: valor,\n          limite: 100,\n          mensagem: `Alto volume de interações: ${valor} nos últimos 15min`\n        });\n      }\n      break;\n  }\n}\n\n// Calcular taxa de conversão\nconst visitas = dashboard.visitas_hoje || 0;\nconst interacoes = dashboard.interacoes_periodo || 1;\nconst taxa_conversao = (visitas / interacoes * 100).toFixed(2);\n\ndashboard.taxa_conversao_estimada = taxa_conversao;\ndashboard.timestamp = new Date().toISOString();\ndashboard.alertas = alertas;\n\nreturn {\n  json: {\n    dashboard: dashboard,\n    alertas: alertas,\n    necessita_notificacao: alertas.length > 0\n  }\n};"
+        "jsCode": "// Processar métricas e gerar alertas\nconst metricas = $input.all();\nconst alertas = [];\nconst dashboard = {};\n\n// Processar cada métrica\nfor (const item of metricas) {\n  const { metrica, valor, timestamp } = item.json;\n  dashboard[metrica] = valor;\n  \n  // Verificar alertas\n  switch (metrica) {\n    case 'hitl_pendentes':\n      if (valor > 5) {\n        alertas.push({\n          tipo: 'warning',\n          metrica: metrica,\n          valor: valor,\n          limite: 5,\n          mensagem: `${valor} solicitações HITL pendentes (limite: 5)`\n        });\n      }\n      break;\n      \n    case 'tempo_resposta_medio':\n      if (valor > 300) { // 5 minutos\n        alertas.push({\n          tipo: 'warning',\n          metrica: metrica,\n          valor: valor,\n          limite: 300,\n          mensagem: `Tempo médio de resposta: ${Math.round(valor)}s (limite: 300s)`\n        });\n      }\n      break;\n      \n    case 'interacoes_periodo':\n      if (valor > 100) {\n        alertas.push({\n          tipo: 'info',\n          metrica: metrica,\n          valor: valor,\n          limite: 100,\n          mensagem: `Alto volume de interações: ${valor} nos últimos 15min`\n        });\n      }\n      break;\n  }\n}\n\n// Calcular taxa de conversêo\nconst visitas = dashboard.visitas_hoje || 0;\nconst interacoes = dashboard.interacoes_periodo || 1;\nconst taxa_conversao = (visitas / interacoes * 100).toFixed(2);\n\ndashboard.taxa_conversao_estimada = taxa_conversao;\ndashboard.timestamp = new Date().toISOString();\ndashboard.alertas = alertas;\n\nreturn {\n  json: {\n    dashboard: dashboard,\n    alertas: alertas,\n    necessita_notificacao: alertas.length > 0\n  }\n};"
       },
       "id": "3a946d1d-dda3-45ff-a5a6-0a82f5cdebe9",
       "name": "Processar Métricas e Alertas",
@@ -118,7 +118,7 @@
         "options": {}
       },
       "id": "b8086702-644a-4169-b03a-eee52791add4",
-      "name": "Enviar Notificação Telegram",
+      "name": "Enviar Notificaçêo Telegram",
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.1,
       "position": [
@@ -235,7 +235,7 @@
       "main": [
         [
           {
-            "node": "Enviar Notificação Telegram",
+            "node": "Enviar Notificaçêo Telegram",
             "type": "main",
             "index": 0
           }

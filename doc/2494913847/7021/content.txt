@@ -13,17 +13,17 @@ MENSAGEM 1
 Autor: INEMA
 Data: 2025-05-01T03:38:39+00:00
 Texto:
-O **Transistor.fm** é uma **plataforma de hospedagem e distribuição de podcasts**, usada por criadores e empresas para **publicar, gerenciar e analisar seus podcasts em diversas plataformas de áudio**, como Spotify, Apple Podcasts, Google Podcasts, Amazon Music, entre outras.
+O **Transistor.fm** é uma **plataforma de hospedagem e distribuiçêo de podcasts**, usada por criadores e empresas para **publicar, gerenciar e analisar seus podcasts em diversas plataformas de áudio**, como Spotify, Apple Podcasts, Google Podcasts, Amazon Music, entre outras.
 
 Veja como ele funciona, passo a passo:
 
 ---
 
-### **1. Criação de Conta e Podcast**
+### **1. Criaçêo de Conta e Podcast**
 - Você cria uma conta no [https://transistor.fm](https://transistor.fm/)
 - Adiciona um **novo podcast**, preenchendo:
   - Nome do programa
-  - Descrição
+  - Descriçêo
   - Categoria e linguagem
   - Capa (imagem 1400x1400)
   - Domínio ou subdomínio customizado (opcional)
@@ -34,23 +34,23 @@ Veja como ele funciona, passo a passo:
 - Você pode **fazer upload manual** dos episódios ou usar a **API** (como mostrado no vídeo) para automatizar.
 - Cada episódio precisa de:
   - Título
-  - Descrição
+  - Descriçêo
   - Arquivo de áudio (formato MP3 recomendado)
-  - Data e hora de publicação (agendável)
+  - Data e hora de publicaçêo (agendável)
 
 ---
 
-### **3. Publicação automática**
+### **3. Publicaçêo automática**
 - Transistor gera um **feed RSS**, que você cadastra nas plataformas como:
   - Spotify for Podcasters
   - Apple Podcasts Connect
   - Google Podcasts Manager
-- Após a primeira configuração, toda nova publicação vai automaticamente para todas essas plataformas.
+- Após a primeira configuraçêo, toda nova publicaçêo vai automaticamente para todas essas plataformas.
 
 ---
 
 ### **4. Estatísticas e Análises**
-- Visualização clara de:
+- Visualizaçêo clara de:
   - Número de downloads por episódio
   - Origem geográfica dos ouvintes
   - Plataformas de escuta
@@ -71,7 +71,7 @@ Veja como ele funciona, passo a passo:
 - Envia dados como:
   ```  {
     "show_id": "123456",
-    "title": "Episódio 01 - Introdução",
+    "title": "Episódio 01 - Introduçêo",
     "audio_url": "https://link-para-o-mp3.com",
     "description": "Neste episódio falamos sobre...",
     "published_at": "2025-05-01T12:00:00Z"
@@ -89,12 +89,12 @@ Veja como ele funciona, passo a passo:
 
 ### **Resumo com tópicos + exemplos:**
 
-| Etapa                          | Descrição                                                                 |
+| Etapa                          | Descriçêo                                                                 |
 |-------------------------------|---------------------------------------------------------------------------|
-| Criação da conta              | Cadastro no site e criação de podcast                                     |
-| Upload de episódios           | Manual ou via API (ex: n8n, Make) com título, descrição e áudio           |
-| Distribuição                  | Geração automática do feed RSS para Spotify, Apple, Google, etc.         |
-| Estatísticas                  | Visualização de dados dos ouvintes e desempenho dos episódios            |
+| Criaçêo da conta              | Cadastro no site e criaçêo de podcast                                     |
+| Upload de episódios           | Manual ou via API (ex: n8n, Make) com título, descriçêo e áudio           |
+| Distribuiçêo                  | Geraçêo automática do feed RSS para Spotify, Apple, Google, etc.         |
+| Estatísticas                  | Visualizaçêo de dados dos ouvintes e desempenho dos episódios            |
 | Integrações                   | API, sites personalizados, múltiplos usuários, automações                 |
 
 ---
@@ -115,26 +115,26 @@ MENSAGEM 3
 Autor: INEMA
 Data: 2025-05-01T03:37:05+00:00
 Texto:
-Aqui estão **os melhores hacks** que você pode aplicar com base nesse fluxo de automação de YouTube para podcast, aproveitando ao máximo os recursos do **n8n, OpenAI, 11Labs, ****Transistor.fm**** e Google Sheets**:
+Aqui estêo **os melhores hacks** que você pode aplicar com base nesse fluxo de automaçêo de YouTube para podcast, aproveitando ao máximo os recursos do **n8n, OpenAI, 11Labs, ****Transistor.fm**** e Google Sheets**:
 
 ---
 
 ### **1. Hack: Recorte inteligente de vídeos longos**
 - **Como fazer:** Use `timestamp` no transcript para dividir vídeos longos em episódios curtos (ex: "parte 1", "parte 2").
-- **Vantagem:** Multiplica conteúdo e mantém atenção em episódios curtos.
+- **Vantagem:** Multiplica conteúdo e mantém atençêo em episódios curtos.
 
 ---
 
-### **2. Hack: Personalização de voz por tema**
+### **2. Hack: Personalizaçêo de voz por tema**
 - **Como fazer:** No 11Labs, configure vozes diferentes para temas distintos (ex: uma voz séria para notícias, outra animada para tutoriais).
 - **Vantagem:** Cria identidade auditiva e engajamento.
 
 ---
 
-### **3. Hack: Título e descrição otimizados com IA**
-- **Como fazer:** No mesmo prompt do OpenAI, peça que gere *título clickbait* e descrição otimizada com palavras-chave.
+### **3. Hack: Título e descriçêo otimizados com IA**
+- **Como fazer:** No mesmo prompt do OpenAI, peça que gere *título clickbait* e descriçêo otimizada com palavras-chave.
 - **Exemplo:**  
-  Prompt → "Crie um título chamativo, descrição com até 150 caracteres e um call-to-action no final."
+  Prompt → "Crie um título chamativo, descriçêo com até 150 caracteres e um call-to-action no final."
 
 ---
 
@@ -144,25 +144,25 @@ Aqui estão **os melhores hacks** que você pode aplicar com base nesse fluxo de
 
 ---
 
-### **5. Hack: Integração com Notion ou Airtable**
+### **5. Hack: Integraçêo com Notion ou Airtable**
 - **Como fazer:** Substitua o Google Sheets por Notion ou Airtable via API.
-- **Vantagem:** Facilita gestão editorial, histórico de episódios e distribuição entre equipes.
+- **Vantagem:** Facilita gestêo editorial, histórico de episódios e distribuiçêo entre equipes.
 
 ---
 
 ### **6. Hack: Monitoramento de concorrentes**
 - **Como fazer:** Monitore canais concorrentes com o mesmo fluxo (só mudar o `channel ID`) e crie análises comparativas automáticas.
-- **Exemplo:** Transcreva vídeos concorrentes, gere resumo em podcast, depois adicione sua opinião.
+- **Exemplo:** Transcreva vídeos concorrentes, gere resumo em podcast, depois adicione sua opiniêo.
 
 ---
 
-### **7. Hack: Automação de repostagens**
+### **7. Hack: Automaçêo de repostagens**
 - **Como fazer:** Agende repostagem do episódio nas redes com descrições variadas (usando GPT para reescrever).
 - **Ferramenta:** n8n + Google Calendar + Buffer/Zapier/Make.
 
 ---
 
-### **8. Hack: Segmentação por playlists**
+### **8. Hack: Segmentaçêo por playlists**
 - **Como fazer:** Extraia vídeos de playlists específicas (em vez do canal todo) para ter controle temático.
 - **Vantagem:** Garante foco no conteúdo de maior valor.
 
@@ -193,18 +193,18 @@ Autor: INEMA
 Data: 2025-05-01T03:36:27+00:00
 Texto:
 ### **Resumo Geral:**
-Automatização completa de criação de **podcast a partir de vídeos do YouTube**, sem código, com geração de script, áudio com voz realista e publicação automática.
+Automatizaçêo completa de criaçêo de **podcast a partir de vídeos do YouTube**, sem código, com geraçêo de script, áudio com voz realista e publicaçêo automática.
 
 ---
 
-### **Passo a Passo da Automação (n8n):**
+### **Passo a Passo da Automaçêo (n8n):**
 
 1. **Pré-requisitos (crie contas e gere API Keys):**
    - OpenAI
    - 11Labs (voz realista)
-   - Transistor.fm (distribuição de podcast)
-   - Search API para transcrição de vídeos do YouTube (Ex: Gladia, Deepgram, etc.)
-   - Google Sheets (planilha com colunas: episódio, nome, descrição, data, link)
+   - Transistor.fm (distribuiçêo de podcast)
+   - Search API para transcriçêo de vídeos do YouTube (Ex: Gladia, Deepgram, etc.)
+   - Google Sheets (planilha com colunas: episódio, nome, descriçêo, data, link)
 
 2. **Crie uma planilha no Google Sheets com as colunas:**
    - `episode_number`, `episode_name`, `description`, `post_day`, `share_link`
@@ -212,15 +212,15 @@ Automatização completa de criação de **podcast a partir de vídeos do YouTub
 3. **Fluxo no n8n (estrutura simplificada):**
    - **Trigger:** Agendamento automático (ex: diário)
    - **Get Metadata:** Buscar metadados dos vídeos mais recentes do YouTube (usando ID do canal)
-     - Para obter o `Channel ID`: clique com botão direito na página do canal → "Exibir código-fonte" → buscar por "channel_id"
-   - **Transcrição:** Pegar transcrição via API usando o `video_id`
-   - **OpenAI (ChatGPT):** Transformar transcrição em um monólogo estilo podcast
-     - Instrução: “Você é um diretor de podcast. Resuma o conteúdo em forma de diálogo solo, com comentários, pontos de vista e exemplo de estrutura JSON.”
+     - Para obter o `Channel ID`: clique com botêo direito na página do canal → "Exibir código-fonte" → buscar por "channel_id"
+   - **Transcriçêo:** Pegar transcriçêo via API usando o `video_id`
+   - **OpenAI (ChatGPT):** Transformar transcriçêo em um monólogo estilo podcast
+     - Instruçêo: “Você é um diretor de podcast. Resuma o conteúdo em forma de diálogo solo, com comentários, pontos de vista e exemplo de estrutura JSON.”
    - **11Labs:** Gerar áudio com a voz realista a partir do texto
    - **Upload ****Transistor.fm****:**
-     - Autorização via PUT
+     - Autorizaçêo via PUT
      - Upload do áudio
-     - Criação de novo episódio com: título, descrição, URL do áudio
+     - Criaçêo de novo episódio com: título, descriçêo, URL do áudio
    - **Update Google Sheets:**
      - Inserir link gerado do episódio
      - Atualizar status e colunas
@@ -229,17 +229,17 @@ Automatização completa de criação de **podcast a partir de vídeos do YouTub
 
 ### **Dicas incríveis do vídeo:**
 
-- **Otimização 100% no-code com n8n** — fluxos organizados, fáceis de manter.
-- **Uso de APIs chave:** OpenAI para texto, 11Labs para voz, Transistor para publicação.
-- **Geração automática e humanizada do roteiro** com tom de podcast.
-- **Estrutura em Google Sheets** permite controle editorial manual e visualização simples.
+- **Otimizaçêo 100% no-code com n8n** — fluxos organizados, fáceis de manter.
+- **Uso de APIs chave:** OpenAI para texto, 11Labs para voz, Transistor para publicaçêo.
+- **Geraçêo automática e humanizada do roteiro** com tom de podcast.
+- **Estrutura em Google Sheets** permite controle editorial manual e visualizaçêo simples.
 - **Escalabilidade:** Ideal para canais com atualizações frequentes e múltiplos episódios por semana.
 
 ---
 
-### **Exemplo de Instrução para o OpenAI (Prompt):**
+### **Exemplo de Instruçêo para o OpenAI (Prompt):**
 
-> "Você é um diretor de podcast. Converta esta transcrição em um episódio solo, resumindo o conteúdo e adicionando comentários pessoais. O tom deve ser natural e envolvente. Retorne em formato JSON com título, descrição e script completo."
+> "Você é um diretor de podcast. Converta esta transcriçêo em um episódio solo, resumindo o conteúdo e adicionando comentários pessoais. O tom deve ser natural e envolvente. Retorne em formato JSON com título, descriçêo e script completo."
 
 ------------------------------
 
@@ -249,7 +249,7 @@ Data: 2025-05-01T03:31:16+00:00
 Texto:
 como transformar seus vídeos do YouTube em podcasts de alta qualidade com um fluxo de trabalho de IA sem código! 
 
-Usando OpenAI, ElevenLabs e [Transistor.fm](http://transistor.fm/), esse sistema automatiza a transcrição, a transformação de conteúdo e a publicação, para que você possa redirecionar o conteúdo sem esforço.
+Usando OpenAI, ElevenLabs e [Transistor.fm](http://transistor.fm/), esse sistema automatiza a transcriçêo, a transformaçêo de conteúdo e a publicaçêo, para que você possa redirecionar o conteúdo sem esforço.
 Midia: MessageMediaWebPage
 
 ------------------------------

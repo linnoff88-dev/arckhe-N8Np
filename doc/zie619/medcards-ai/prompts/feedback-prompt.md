@@ -21,12 +21,12 @@ Provide deep, personalized feedback that helps the student understand:
     "options": [
       {"id": "A", "text": "Angioplastia primária", "is_correct": true},
       {"id": "B", "text": "Trombolítico", "is_correct": false},
-      {"id": "C", "text": "Observação clínica", "is_correct": false},
+      {"id": "C", "text": "Observaçêo clínica", "is_correct": false},
       {"id": "D", "text": "Teste ergométrico", "is_correct": false}
     ],
     "correct_answer_id": "A",
     "clinical_algorithm": "Manejo de STEMI",
-    "key_concepts": ["Síndrome coronariana aguda", "Janela terapêutica", "Reperfusão"]
+    "key_concepts": ["Síndrome coronariana aguda", "Janela terapêutica", "Reperfusêo"]
   },
   "student_answer": {
     "selected_answer_id": "B",
@@ -40,8 +40,8 @@ Provide deep, personalized feedback that helps the student understand:
     "similar_cases_attempted": 12,
     "similar_cases_correct": 7,
     "recurring_mistakes": [
-      "Confunde indicação de trombólise vs angioplastia primária",
-      "Não considera tempo de evolução adequadamente"
+      "Confunde indicaçêo de trombólise vs angioplastia primária",
+      "Nêo considera tempo de evoluçêo adequadamente"
     ]
   }
 }
@@ -95,18 +95,18 @@ Connect to broader knowledge:
       "Troponina elevada",
       "Janela terapêutica < 12 horas"
     ],
-    "pathophysiology_brief": "Oclusão coronariana aguda com necrose miocárdica em evolução"
+    "pathophysiology_brief": "Oclusêo coronariana aguda com necrose miocárdica em evoluçêo"
   },
 
   "reasoning_analysis": {
     "what_student_got_right": [
       "Reconheceu síndrome coronariana aguda",
-      "Entendeu necessidade de reperfusão urgente"
+      "Entendeu necessidade de reperfusêo urgente"
     ],
     "critical_mistake": "Escolheu trombolítico quando angioplastia primária é superior e está disponível",
     "information_missed": [
       "Hospital possui hemodinâmica disponível (informado no caso)",
-      "Tempo porta-balão < 90min é preferível a trombolítico",
+      "Tempo porta-balêo < 90min é preferível a trombolítico",
       "Diretrizes brasileiras priorizam angioplastia quando disponível"
     ],
     "cognitive_error_type": "Conhecimento incompleto de guidelines + falha em interpretar recursos disponíveis"
@@ -114,42 +114,42 @@ Connect to broader knowledge:
 
   "correct_reasoning_path": {
     "step_1": "Identificar STEMI pelos critérios: dor + ECG + tempo < 12h",
-    "step_2": "Confirmar indicação de reperfusão imediata (STEMI confirmado)",
+    "step_2": "Confirmar indicaçêo de reperfusêo imediata (STEMI confirmado)",
     "step_3": "Avaliar disponibilidade de hemodinâmica (INFORMADO: hospital possui)",
-    "step_4": "Escolher angioplastia primária (padrão-ouro quando disponível em tempo adequado)",
-    "step_5": "Trombolítico seria segunda escolha apenas se tempo porta-balão > 120min ou hemodinâmica indisponível",
+    "step_4": "Escolher angioplastia primária (padrêo-ouro quando disponível em tempo adequado)",
+    "step_5": "Trombolítico seria segunda escolha apenas se tempo porta-balêo > 120min ou hemodinâmica indisponível",
 
-    "clinical_decision_rule": "STEMI + hemodinâmica disponível + tempo porta-balão < 90min = ANGIOPLASTIA PRIMÁRIA"
+    "clinical_decision_rule": "STEMI + hemodinâmica disponível + tempo porta-balêo < 90min = ANGIOPLASTIA PRIMÁRIA"
   },
 
   "key_takeaways": [
     "Angioplastia primária é SEMPRE preferível a trombolítico quando disponível em tempo adequado",
     "Leia atentamente os recursos disponíveis mencionados no caso",
-    "Tempo porta-balão ideal: < 90 minutos (aceitável até 120min)",
-    "Trombolítico: usar quando angioplastia indisponível OU tempo porta-balão > 120min"
+    "Tempo porta-balêo ideal: < 90 minutos (aceitável até 120min)",
+    "Trombolítico: usar quando angioplastia indisponível OU tempo porta-balêo > 120min"
   ],
 
   "common_exam_traps": [
-    "Caso menciona 'hospital possui hemodinâmica' → pegadinha para testar se você leu com atenção",
-    "Tempo de evolução 2h está DENTRO da janela (< 12h) → não é critério para escolher um ou outro",
-    "Ambos são válidos em contextos diferentes → você precisa identificar QUAL CONTEXTO é este"
+    "Caso menciona 'hospital possui hemodinâmica' → pegadinha para testar se você leu com atençêo",
+    "Tempo de evoluçêo 2h está DENTRO da janela (< 12h) → nêo é critério para escolher um ou outro",
+    "Ambos sêo válidos em contextos diferentes → você precisa identificar QUAL CONTEXTO é este"
   ],
 
   "next_steps": {
     "immediate_practice": [
-      "Revisar 3 casos de STEMI focando em INDICAÇÃO de angioplastia vs trombolítico",
+      "Revisar 3 casos de STEMI focando em INDICAÇêO de angioplastia vs trombolítico",
       "Praticar casos onde recursos hospitalares variam"
     ],
     "concept_to_review": "Diretrizes brasileiras de síndrome coronariana aguda (2021)",
     "similar_patterns": [
       "AVC isquêmico: trombólise vs trombectomia mecânica (mesma lógica de disponibilidade)",
-      "TEP: trombolítico vs anticoagulação (decisão baseada em gravidade + recursos)"
+      "TEP: trombolítico vs anticoagulaçêo (decisêo baseada em gravidade + recursos)"
     ]
   },
 
   "encouragement": {
-    "positive_reinforcement": "Você identificou corretamente a urgência e a necessidade de reperfusão! Isso é fundamental.",
-    "growth_mindset": "Este erro é comum e importante: aprender a considerar recursos disponíveis no contexto hospitalar. Agora você não vai mais esquecer!",
+    "positive_reinforcement": "Você identificou corretamente a urgência e a necessidade de reperfusêo! Isso é fundamental.",
+    "growth_mindset": "Este erro é comum e importante: aprender a considerar recursos disponíveis no contexto hospitalar. Agora você nêo vai mais esquecer!",
     "progress_note": "Sua taxa de acerto em cardiologia está em 68% e subindo. Continue focando nestas nuances de guidelines."
   },
 
@@ -182,9 +182,9 @@ Connect to broader knowledge:
 ✅ **Good:**
 - "Você identificou corretamente que..."
 - "O raciocínio estava no caminho certo, mas..."
-- "Atenção para este detalhe que faz toda diferença..."
+- "Atençêo para este detalhe que faz toda diferença..."
 - "Pegadinha clássica de prova!"
-- "Agora você não erra mais esse padrão."
+- "Agora você nêo erra mais esse padrêo."
 
 ❌ **Avoid:**
 - Overly academic: "Conforme preconizam as diretrizes internacionais..."
@@ -235,7 +235,7 @@ Your feedback should achieve:
   "time_analysis": {
     "time_taken": 420,
     "benchmark_time": 180,
-    "feedback": "Você levou 7 minutos. Tempo ideal: 3 minutos. Possível causa: indecisão entre A e B. Treine reconhecimento rápido de padrões clássicos."
+    "feedback": "Você levou 7 minutos. Tempo ideal: 3 minutos. Possível causa: indecisêo entre A e B. Treine reconhecimento rápido de padrões clássicos."
   }
 }
 ```

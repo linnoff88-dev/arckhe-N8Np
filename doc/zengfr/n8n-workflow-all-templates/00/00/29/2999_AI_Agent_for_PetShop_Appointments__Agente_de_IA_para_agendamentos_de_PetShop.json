@@ -1841,7 +1841,7 @@
     },
     {
       "id": "0f39f6c5-41b2-49b0-881f-a6dc31e58879",
-      "name": "Cria função Busca em Vetor",
+      "name": "Cria funçêo Busca em Vetor",
       "type": "n8n-nodes-base.postgres",
       "position": [
         -2580,
@@ -1852,7 +1852,7 @@
     },
     {
       "id": "c585e98a-d436-49b5-95b8-a5fd45c62763",
-      "name": "Cria Extensão Vetor",
+      "name": "Cria Extensêo Vetor",
       "type": "n8n-nodes-base.postgres",
       "position": [
         -2580,

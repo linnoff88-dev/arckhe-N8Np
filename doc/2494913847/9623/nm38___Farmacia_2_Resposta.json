@@ -175,7 +175,7 @@
     },
     {
       "parameters": {
-        "text": ":handshake: *Cliente Solicitou Negociação*\n\n:clipboard: *Pedido:* `{{$json.order_id}}`\n:bust_in_silhouette: *Cliente:* {{$json.client_name}}\n:phone: *Telefone:* {{$json.client_phone}}\n:email: *Email:* {{$json.client_email}}\n:moneybag: *Valor Original:* R$ {{$json.budget_data.summary.finalTotal.toFixed(2)}}\n\n*Medicamentos:*\n{{$json.budget_data.medications.map(m => `• ${m.name} ${m.dosage} - ${m.quantity} un - R$ ${m.total.toFixed(2)}`).join('\\n')}}\n\n:arrow_right: <{{$env.ADMIN_URL}}/negotiate/{{$json.order_id}}|Negociar Agora>",
+        "text": ":handshake: *Cliente Solicitou Negociaçêo*\n\n:clipboard: *Pedido:* `{{$json.order_id}}`\n:bust_in_silhouette: *Cliente:* {{$json.client_name}}\n:phone: *Telefone:* {{$json.client_phone}}\n:email: *Email:* {{$json.client_email}}\n:moneybag: *Valor Original:* R$ {{$json.budget_data.summary.finalTotal.toFixed(2)}}\n\n*Medicamentos:*\n{{$json.budget_data.medications.map(m => `• ${m.name} ${m.dosage} - ${m.quantity} un - R$ ${m.total.toFixed(2)}`).join('\\n')}}\n\n:arrow_right: <{{$env.ADMIN_URL}}/negotiate/{{$json.order_id}}|Negociar Agora>",
         "otherOptions": {}
       },
       "id": "0f98be9c-3150-4209-ba98-0162d98ec4a5",
@@ -236,7 +236,7 @@
     },
     {
       "parameters": {
-        "text": ":chart_with_downwards_trend: *Pedido Cancelado*\n\n:x: `{{$json.order_id}}` - {{$json.client_name}}\n:moneybag: Valor perdido: R$ {{$json.budget_data.summary.finalTotal.toFixed(2)}}\n:timer: Tempo até cancelamento: {{$json.timeToCancel}} minutos\n\nAção recomendada: Analisar motivo do cancelamento",
+        "text": ":chart_with_downwards_trend: *Pedido Cancelado*\n\n:x: `{{$json.order_id}}` - {{$json.client_name}}\n:moneybag: Valor perdido: R$ {{$json.budget_data.summary.finalTotal.toFixed(2)}}\n:timer: Tempo até cancelamento: {{$json.timeToCancel}} minutos\n\nAçêo recomendada: Analisar motivo do cancelamento",
         "otherOptions": {}
       },
       "id": "53e572ca-134f-42c3-bc29-9365d80f614c",

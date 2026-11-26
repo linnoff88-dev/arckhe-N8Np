@@ -29,7 +29,7 @@ MENSAGEM 3
 Autor: INEMA
 Data: 2025-08-13T03:05:20+00:00
 Texto:
-m28 - Exemplo GTP Ação
+m28 - Exemplo GTP Açêo
 
 ------------------------------
 

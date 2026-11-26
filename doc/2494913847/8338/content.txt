@@ -29,7 +29,7 @@ MENSAGEM 3
 Autor: thigos
 Data: 2025-07-15T12:44:39+00:00
 Texto:
-pessoal, estou começando agora no mundo da automação e queria ajuda em algumas coisas.
+pessoal, estou começando agora no mundo da automaçêo e queria ajuda em algumas coisas.
 posso vender automações parra clientes usando o evolution api?
 Qual vps eu uso para que funcione o evolution api?
 oque mais falta alem disso para vender?
@@ -64,7 +64,7 @@ MENSAGEM 7
 Autor: Marcos
 Data: 2025-07-15T03:14:57+00:00
 Texto:
-evolution api credencial não conecta, sabe o que pode ser?
+evolution api credencial nêo conecta, sabe o que pode ser?
 
 ------------------------------
 

@@ -18,30 +18,30 @@ para michael@exemplo.com e agende almoço hoje às 14:00 com bob@exemplo.com.
 16. Tratamento de erros e estabilidade
 
 * Se uma chamada falhar, faça retry com backoff.
-* Se o agente confundir argumentos, sanitize antes (regex de e-mail, datas ISO, títulos não vazios).
+* Se o agente confundir argumentos, sanitize antes (regex de e-mail, datas ISO, títulos nêo vazios).
 * Se expor muitas ferramentas diretas causar erro, reduza e mantenha apenas via sub-agentes.
 
 # Passo a passo 5 — Medir e escolher por ROI
 
-17. Criar planilha de avaliação
+17. Criar planilha de avaliaçêo
 
 * Colunas: caso de teste, modelo, custo estimado, tokens in/out, latência, nota, observações.
 * Preencher automaticamente via nós Set/Append Sheet no fluxo.
 
 18. Decidir por caso de uso
 
-* Para codificação longa e coerência de projeto, testar primeiro Sonnet 4.5.
+* Para codificaçêo longa e coerência de projeto, testar primeiro Sonnet 4.5.
 * Para custo menor em tarefas básicas, testar GPT-4.1/5.
-* Fixar um modelo padrão por tarefa e documentar quando trocar.
+* Fixar um modelo padrêo por tarefa e documentar quando trocar.
 
 # Tópicos com exemplos rápidos
 
-Conexão do modelo
+Conexêo do modelo
 
 * O que fazer: criar credencial e testar hello.
 * Exemplo: se Sonnet 4.5 via Anthropic retornar erro de top_p/temperature, usar OpenRouter e repetir.
 
-Criação de conteúdo
+Criaçêo de conteúdo
 
 * O que fazer: mesmo prompt, trocar apenas o modelo e comparar formato/qualidade.
 * Exemplo: e-mail HTML sobre sono; Sonnet 4.5 tende a formatar mais rico; GPT-5 pode trazer fontes.
@@ -54,22 +54,22 @@ Contexto grande
 Ferramentas com sub-agentes
 
 * O que fazer: encapsular busca, contatos, e-mail e calendário em sub-workflows.
-* Exemplo: pedido único dispara os quatro e retorna confirmação final.
+* Exemplo: pedido único dispara os quatro e retorna confirmaçêo final.
 
-Medição e custo
+Mediçêo e custo
 
 * O que fazer: rodar 50–200 casos, registrar custo/latência/nota.
-* Exemplo: escolher o modelo por ROI, não por hype.
+* Exemplo: escolher o modelo por ROI, nêo por hype.
 
 # Perguntas rápidas com respostas
 
 1. Preciso de prompt de sistema longo?
 
-* Não. Um prompt mínimo funciona bem; foque em dar dados corretos e boas ferramentas.
+* Nêo. Um prompt mínimo funciona bem; foque em dar dados corretos e boas ferramentas.
 
 2. Por que meu agente erra argumentos de ferramenta?
 
-* Falta de validação. Adicione checagens de e-mail/data e normalize parâmetros antes de chamar o nó.
+* Falta de validaçêo. Adicione checagens de e-mail/data e normalize parâmetros antes de chamar o nó.
 
 3. Quantas ferramentas diretas posso expor?
 
@@ -81,7 +81,7 @@ Medição e custo
 
 5. Quando Sonnet 4.5 compensa?
 
-* Codificação, sessões longas e coerência entre muitos arquivos. Teste contra custo real.
+* Codificaçêo, sessões longas e coerência entre muitos arquivos. Teste contra custo real.
 
 6. Quantos casos para um benchmark confiável?
 
@@ -97,8 +97,8 @@ Texto:
 
 1. Criar credencial
 
-   * Opção A Anthropic: acesse o console da Anthropic, cadastre um cartão e gere uma API key.
-   * Opção B OpenRouter (recomendado se o Sonnet 4.5 der erro de parâmetros): crie uma conta no OpenRouter e gere uma API key.
+   * Opçêo A Anthropic: acesse o console da Anthropic, cadastre um cartêo e gere uma API key.
+   * Opçêo B OpenRouter (recomendado se o Sonnet 4.5 der erro de parâmetros): crie uma conta no OpenRouter e gere uma API key.
 
 2. Adicionar credencial no n8n
 
@@ -113,7 +113,7 @@ Texto:
    * Teste com a mensagem hello.
    * Se aparecer erro de top_p/temperature via Anthropic, troque o provedor do nó para OpenRouter e selecione novamente sonnet-4.5.
 
-# Passo a passo 2 — Experimento de criação de conteúdo (comparar modelos)
+# Passo a passo 2 — Experimento de criaçêo de conteúdo (comparar modelos)
 
 4. Preparar o prompt de teste
 
@@ -122,7 +122,7 @@ Texto:
 5. Rodar com 3 modelos
 
    * Troque apenas o modelo do nó e execute três vezes: GPT-4.1, Claude Sonnet 4.5, GPT-5.
-   * Compare clareza, estrutura, presença de fontes e formatação HTML.
+   * Compare clareza, estrutura, presença de fontes e formataçêo HTML.
 
 6. Opcional: enviar por e-mail
 
@@ -131,7 +131,7 @@ Texto:
    * Enviar para um destinatário de teste.
 
 Exemplo de prompt rápido para o nó
-Crie um e-mail em HTML responsivo sobre os efeitos da privação de sono em adultos. Use título, subtítulos, bullets e uma seção de recomendações práticas. Linguagem clara e objetiva.
+Crie um e-mail em HTML responsivo sobre os efeitos da privaçêo de sono em adultos. Use título, subtítulos, bullets e uma seçêo de recomendações práticas. Linguagem clara e objetiva.
 
 # Passo a passo 3 — Experimento de contexto com documento grande
 
@@ -146,7 +146,7 @@ Crie um e-mail em HTML responsivo sobre os efeitos da privação de sono em adul
    * Nó Move Binary Data → to JSON (texto em field: doc).
    * Nó Function para chunking do texto em partes de 3–5 mil tokens aproximados (por tamanho em caracteres).
 
-Sugestão de Function para chunking
+Sugestêo de Function para chunking
 const text = $json.doc;
 const maxChars = 12000; // ~3–4k tokens aproximados
 const chunks = [];
@@ -159,13 +159,13 @@ return chunks.map(c => ({ json: c }));
 
    * Crie um nó Set com um array de perguntas objetivas (ex.: receita, lucro, guidance, riscos).
    * Use Split In Batches para iterar pelas perguntas.
-   * Em cada iteração, passe a pergunta + 2–3 chunks relevantes para o AI Agent.
+   * Em cada iteraçêo, passe a pergunta + 2–3 chunks relevantes para o AI Agent.
    * Registre a resposta e, se tiver gabarito, calcule uma nota de 0 a 5 em um Function.
 
 10. Comparar modelos e custo
 
 * Execute o mesmo lote de perguntas com GPT-5 e depois com Sonnet 4.5.
-* Salve por execução: modelo, média de acerto, tokens de entrada/saída (se disponível no provedor), custo estimado e latência.
+* Salve por execuçêo: modelo, média de acerto, tokens de entrada/saída (se disponível no provedor), custo estimado e latência.
 * Para ter confiança, rode 50–200 perguntas. Com 10 perguntas é só indicativo.
 
 # Passo a passo 4 — Ferramentas com sub-agentes (evita sobrecarga)
@@ -195,7 +195,7 @@ return chunks.map(c => ({ json: c }));
 
 15. Orquestrar no workflow principal
 
-* Nó AI Agent principal recebe uma instrução em linguagem natural e decide a sequência.
+* Nó AI Agent principal recebe uma instruçêo em linguagem natural e decide a sequência.
 * Em vez de expor 10 ferramentas direto ao agente, chame os sub-workflows via Execute Workflow ou HTTP Node interno.
 * Exemplo de pedido único:
   Pesquise as últimas novidades sobre agentes de voz, envie um resumo
@@ -223,7 +223,7 @@ Passo a Realizar
 5. Criar agente de IA no n8n.
 6. Testar com prompt simples (ex.: “hello”).
 7. Se der erro no Sonnet 4.5 via Anthropic → usar OpenRouter.
-8. Experimento 1: pedir criação de e-mail HTML (sem system prompt).
+8. Experimento 1: pedir criaçêo de e-mail HTML (sem system prompt).
 9. Comparar saída com GPT-4.1 e GPT-5.
 10. Experimento 2: carregar PDF grande (~100k tokens).
 11. Fazer perguntas ao documento e medir acerto/custo entre modelos.
@@ -255,15 +255,15 @@ Texto:
 
 5. O que fazer quando o agente "se perde" ao chamar ferramentas?
 
-* Resposta: modularize (sub-agents), valide args, reduzir número de ferramentas simultâneas e adicionar checks de integridade antes da execução.
+* Resposta: modularize (sub-agents), valide args, reduzir número de ferramentas simultâneas e adicionar checks de integridade antes da execuçêo.
 
 6. Quantos exemplos devo rodar em um benchmark?
 
-* Resposta: idealmente 100–200 para obter estatísticas confiáveis (média, desvio, custo por execução).
+* Resposta: idealmente 100–200 para obter estatísticas confiáveis (média, desvio, custo por execuçêo).
 
 7. Como reduzir custos sem perder qualidade?
 
-* Resposta: usar modelos menores para tasks simples, compressão de prompts, RAG para reduzir tokens enviados e escolher o modelo por ROI (custo vs melhoria de acurácia).
+* Resposta: usar modelos menores para tasks simples, compressêo de prompts, RAG para reduzir tokens enviados e escolher o modelo por ROI (custo vs melhoria de acurácia).
 
 ------------------------------
 
@@ -280,18 +280,18 @@ Texto:
 
 2. Teste custo x desempenho com avaliações objetivas
 
-* O que fazer: rodar avaliações comparativas (ex.: 100+ casos) medindo precisão e tokens usados (input/output) antes de escolher modelo para produção.
-* Exemplo: rodar a mesma tarefa em Sonnet 4.5 e GPT5, coletar score médio e custo por execução; escolha com base em ROI.
+* O que fazer: rodar avaliações comparativas (ex.: 100+ casos) medindo precisêo e tokens usados (input/output) antes de escolher modelo para produçêo.
+* Exemplo: rodar a mesma tarefa em Sonnet 4.5 e GPT5, coletar score médio e custo por execuçêo; escolha com base em ROI.
 
 3. Gerencie a janela de contexto com chunking e RAG quando for > limite
 
-* O que fazer: dividir documentos enormes em chunks, indexar embeddings e usar RAG (recuperação + contexto) para manter respostas precisas sem pressionar o token limit.
+* O que fazer: dividir documentos enormes em chunks, indexar embeddings e usar RAG (recuperaçêo + contexto) para manter respostas precisas sem pressionar o token limit.
 * Exemplo: PDF de 120 páginas → dividir em pedaços de ~3–5k tokens → criar embeddings → trazer apenas os chunks relevantes ao agente.
 
 4. Evite sobrecarregar o agente com muitas ferramentas diretas — agrupe em sub-agentes/subworkflows
 
-* O que fazer: em vez de dar 10 ferramentas soltas, encapsular funcionalidades (email, calendário, pesquisa) em sub-agents que fazem validação de argumentos e falha controlada.
-* Exemplo: Agente "Contato" (busca e validação de e-mails) + Agente "EnvioEmail" (formatação e envio) → agente principal invoca sub-agents.
+* O que fazer: em vez de dar 10 ferramentas soltas, encapsular funcionalidades (email, calendário, pesquisa) em sub-agents que fazem validaçêo de argumentos e falha controlada.
+* Exemplo: Agente "Contato" (busca e validaçêo de e-mails) + Agente "EnvioEmail" (formataçêo e envio) → agente principal invoca sub-agents.
 
 5. Use prompts mínimos do sistema quando o modelo já for forte, mas forneça contexto e ferramentas específicas
 
@@ -300,7 +300,7 @@ Texto:
 
 6. Validar e sanitizar argumentos de ferramenta antes do envio
 
-* O que fazer: scripts de pré-validação (email válido, formato de data) para evitar erros de parsing gerados pelo agente ao chamar ferramentas.
+* O que fazer: scripts de pré-validaçêo (email válido, formato de data) para evitar erros de parsing gerados pelo agente ao chamar ferramentas.
 * Exemplo: checar regex de e-mail e converter datas ISO antes de passar ao nó de envio.
 
 7. Otimize custo monitorando tokens e ajustando frequência de chamadas
@@ -310,17 +310,17 @@ Texto:
 
 8. Use avaliações com amostras diversificadas e N grande (50–200) para decisões robustas
 
-* O que fazer: não confiar em 10 samples; medir variância, custo e latência.
-* Exemplo: rodar 200 queries de busca de fatos e comparar média, desvio padrão e custo total.
+* O que fazer: nêo confiar em 10 samples; medir variância, custo e latência.
+* Exemplo: rodar 200 queries de busca de fatos e comparar média, desvio padrêo e custo total.
 
 9. Trate falhas como parte do fluxo — rollback, retries e logs legíveis
 
 * O que fazer: implementar retry exponencial, fallback (usar outro modelo ou sub-agent) e logs que permitam reproduzir inputs/outputs.
-* Exemplo: se Sonnet retorna erro de parsing em tool call → retry com sanitização dos args → se falhar, usar GPT-4.1 como fallback.
+* Exemplo: se Sonnet retorna erro de parsing em tool call → retry com sanitizaçêo dos args → se falhar, usar GPT-4.1 como fallback.
 
-10. Aproveite Sonnet 4.5 para tarefas de codificação/engenharia e processos long-running
+10. Aproveite Sonnet 4.5 para tarefas de codificaçêo/engenharia e processos long-running
 
-* O que fazer: delegar correção de código, geração de testes e manutenção de longas sessões de codificação a Sonnet, com checkpoints e revisão humana.
+* O que fazer: delegar correçêo de código, geraçêo de testes e manutençêo de longas sessões de codificaçêo a Sonnet, com checkpoints e revisêo humana.
 * Exemplo: pipeline que pede ao agente gerar PR + testes unitários + resumo das mudanças; humano revisa antes do merge.
 
 ---
@@ -329,7 +329,7 @@ Perguntas frequentes rápidas (com respostas)
 
 1. Qual modelo escolher: Sonnet 4.5 ou GPT5?
 
-* Resposta: depende do caso. Sonnet 4.5 costuma brilhar em codificação, raciocínio técnico e tarefas long-run; GPT5 pode ser mais barato por token. Compare precisão vs custo em 100+ testes para decidir.
+* Resposta: depende do caso. Sonnet 4.5 costuma brilhar em codificaçêo, raciocínio técnico e tarefas long-run; GPT5 pode ser mais barato por token. Compare precisêo vs custo em 100+ testes para decidir.
 
 2. Como evitar problema de parâmetros (top_p, temperature) em Anthropic?
 
@@ -357,41 +357,41 @@ Texto:
 
 * Modelo lançado em 29/09/2025 pela Anthropic.
 * Disponível via web, iOS, Android e API.
-* Criado para ajudar em **codificação, construção de agentes, fluxos de negócios/pesquisa** e uso de computadores como um assistente humano.
+* Criado para ajudar em **codificaçêo, construçêo de agentes, fluxos de negócios/pesquisa** e uso de computadores como um assistente humano.
 * Se destaca em **tarefas de longo prazo**, mantendo coerência em grandes bases de código.
 
-### Comparação com outros modelos da família Claude
+### Comparaçêo com outros modelos da família Claude
 
 * Haiku → mais rápido e barato.
 * Sonnet → equilíbrio entre custo e desempenho.
 * Opus → máxima capacidade de raciocínio, mas bem mais caro.
-* Sonnet 4.5 mantém o mesmo preço do Sonnet 4, mas supera em **memória, codificação, automação real e tarefas práticas**.
+* Sonnet 4.5 mantém o mesmo preço do Sonnet 4, mas supera em **memória, codificaçêo, automaçêo real e tarefas práticas**.
 
 ### Contexto e Limitações
 
-* Janela de contexto: **200k tokens** (até 1 milhão em planos beta/enterprise via OpenRouter).
+* Janela de contexto: **200k tokens** (até 1 milhêo em planos beta/enterprise via OpenRouter).
 * Ainda abaixo de concorrentes como GPT-4.1 (1M) e Gemini (2,5M), mas muito além de usos básicos.
 
 ### Benchmarks e Desempenho
 
 * **SWE-Bench Verified (engenharia de software): 77–82%**, nível de programador profissional.
-* Supera GPT-5 e Codex em tarefas de programação.
+* Supera GPT-5 e Codex em tarefas de programaçêo.
 * Melhor em áreas críticas: **finanças, medicina, direito e ciência**, oferecendo respostas mais precisas e de nível especializado.
 
 ### Experimentos práticos no vídeo
 
-1. **Criação de conteúdo**
+1. **Criaçêo de conteúdo**
 
-   * Teste de geração de e-mail HTML sobre falta de sono.
+   * Teste de geraçêo de e-mail HTML sobre falta de sono.
    * GPT-4.1 → resultado simples.
    * Sonnet 4.5 → mais detalhado, colorido e bem estruturado.
    * GPT-5 → profissional, com fontes, considerado ligeiramente melhor.
 
-2. **Avaliação de contexto (PDF 100k tokens)**
+2. **Avaliaçêo de contexto (PDF 100k tokens)**
 
    * GPT-5 obteve **4,2/5**.
    * Sonnet 4.5 obteve **4,3/5**, levemente superior, mas com custo maior.
-   * Observação: para testes reais seriam necessários 100+ casos, não apenas 10.
+   * Observaçêo: para testes reais seriam necessários 100+ casos, nêo apenas 10.
 
 3. **Chamadas de ferramentas (n8n)**
 
@@ -405,10 +405,10 @@ Texto:
 
 ### Conclusões do criador
 
-* Sonnet 4.5 não é “o rei dos LLMs”, mas se mostra **fortíssimo para codificação, agentes e automações complexas**.
+* Sonnet 4.5 nêo é “o rei dos LLMs”, mas se mostra **fortíssimo para codificaçêo, agentes e automações complexas**.
 * Cada modelo tem pontos fortes → escolha deve ser feita pelo caso de uso (custo, contexto, raciocínio, especialidade).
-* O avanço reduz a barreira para iniciantes em automação (mesmo sem saber programar).
-* Impacto esperado em setores-chave como **finanças, medicina, direito, ciência e programação**.
+* O avanço reduz a barreira para iniciantes em automaçêo (mesmo sem saber programar).
+* Impacto esperado em setores-chave como **finanças, medicina, direito, ciência e programaçêo**.
 
 ------------------------------
 
@@ -427,9 +427,9 @@ Texto:
 Construa QUALQUER COISA com Claude Sonnet 4.5 e n8n AI Agents
 Neste vídeo, eu explico em detalhes o novo modelo Claude Sonnet 4.5 da Anthropic e mostro o que há de novo nesse lançamento. Eu abordo seus pontos fortes, fracos e como ele se compara no uso real.
 
-Depois, mostro passo a passo como conectar rapidamente um agente de IA ao Sonnet 4.5 e colocá-lo à prova. Realizamos três experimentos: primeiro, criação de conteúdo em comparação com outros modelos; segundo, uma avaliação da janela de contexto para ver como ele lida com perguntas; e terceiro, conectando-o a várias ferramentas para atuar como um assistente definitivo.
+Depois, mostro passo a passo como conectar rapidamente um agente de IA ao Sonnet 4.5 e colocá-lo à prova. Realizamos três experimentos: primeiro, criaçêo de conteúdo em comparaçêo com outros modelos; segundo, uma avaliaçêo da janela de contexto para ver como ele lida com perguntas; e terceiro, conectando-o a várias ferramentas para atuar como um assistente definitivo.
 
-Se você tem curiosidade sobre esse novo modelo e como ele pode mudar o jogo da automação, este vídeo vai te dar uma visão clara do que ele realmente é capaz de fazer.
+Se você tem curiosidade sobre esse novo modelo e como ele pode mudar o jogo da automaçêo, este vídeo vai te dar uma visêo clara do que ele realmente é capaz de fazer.
 
 ------------------------------
 

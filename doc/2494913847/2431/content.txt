@@ -37,7 +37,7 @@ MENSAGEM 4
 Autor: Michael
 Data: 2025-04-27T22:48:50+00:00
 Texto:
-fala nei, Consegue manda um video ou fazer uma aula ao vivo, sobre a criação dessa automação utilizando o whatssap conectado com api do Evolution ?????
+fala nei, Consegue manda um video ou fazer uma aula ao vivo, sobre a criaçêo dessa automaçêo utilizando o whatssap conectado com api do Evolution ?????
 
 ------------------------------
 

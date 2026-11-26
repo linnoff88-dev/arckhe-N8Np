@@ -32,26 +32,26 @@ Data: 2025-04-13T03:34:32+00:00
 Texto:
 "This video got 2475 views & I got 28300 subscribers"
 
-O vídeo mostra como automatizar a atualização de títulos e thumbnails de vídeos no YouTube com base em estatísticas em tempo real (número de visualizações e inscritos) usando **n8n**, sem necessidade de programar.
+O vídeo mostra como automatizar a atualizaçêo de títulos e thumbnails de vídeos no YouTube com base em estatísticas em tempo real (número de visualizações e inscritos) usando **n8n**, sem necessidade de programar.
 
 ### Etapas do processo automatizado:
 
 1. **Captura de dados em tempo real do YouTube**  
    - Coleta o número atual de visualizações e inscritos usando a API do YouTube.
 
-2. **Atualização do título do vídeo**  
+2. **Atualizaçêo do título do vídeo**  
    - O título é modificado automaticamente a cada 15 minutos com os dados atualizados (ex: “2.475 views & 28.300 subscribers”).
 
-3. **Criação e atualização dinâmica do thumbnail**
+3. **Criaçêo e atualizaçêo dinâmica do thumbnail**
    - Usa os dados para gerar uma imagem de thumbnail personalizada.
    - Utiliza a plataforma **ScreenshotOne** para transformar uma página HTML com os dados em uma imagem real.
 
-4. **Configuração técnica**  
-   - Autenticação via OAuth2 na conta do YouTube.
-   - Uso de templates prontos para facilitar a implementação.
+4. **Configuraçêo técnica**  
+   - Autenticaçêo via OAuth2 na conta do YouTube.
+   - Uso de templates prontos para facilitar a implementaçêo.
    - Agendamento a cada 15 minutos para evitar ultrapassar a cota gratuita da API do YouTube (10.000 unidades por dia).
 
-5. **Publicação do sistema**  
+5. **Publicaçêo do sistema**  
    - É possível importar o workflow diretamente no n8n.
    - Comunidade oferece mais de 50 templates e suporte técnico.
 
@@ -64,7 +64,7 @@ O vídeo mostra como automatizar a atualização de títulos e thumbnails de ví
 - **Thumbnail automático**
   - Mostra uma imagem atualizada com os mesmos dados do título
 - **Ferramentas utilizadas**
-  - n8n (automação no-code)
+  - n8n (automaçêo no-code)
   - YouTube Data API v3
   - ScreenshotOne (para gerar imagens)
 

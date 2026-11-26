@@ -32,7 +32,7 @@ Texto:
   * `url`
   * `timestamp`
   * `autor`, `tema`, `categoria`, `data`, etc.
-* Isso **não pesa no embedding**, mas **dá rastreabilidade e controle**.
+* Isso **nêo pesa no embedding**, mas **dá rastreabilidade e controle**.
 
 🔧 *Dica*: use sempre JSON para embutir todos os metadados juntos num único campo `metadata`.
 
@@ -64,7 +64,7 @@ Isso permite:
 
 ### 4. **Evite embutir texto bruto demais**
 
-* Não envie para embedding:
+* Nêo envie para embedding:
 
   * Título do vídeo
   * URLs
@@ -82,7 +82,7 @@ Isso permite:
   * Ordenar melhor os resultados recuperados
   * Reduzir respostas irrelevantes
 
-⚙️ *No n8n*, use rerank via API externa após o embedding e recuperação.
+⚙️ *No n8n*, use rerank via API externa após o embedding e recuperaçêo.
 
 ---
 
@@ -104,13 +104,13 @@ Isso permite:
   * Vídeos indexados
   * Número de chunks
   * Status: ativo/remover
-  * Última atualização
+  * Última atualizaçêo
 
 🧩 *Ajuda a manter controle sem precisar acessar o banco direto.*
 
 ---
 
-### 8. **Automatize a exclusão de conteúdo**
+### 8. **Automatize a exclusêo de conteúdo**
 
 * Se um vídeo for obsoleto ou errado:
 
@@ -141,7 +141,7 @@ Isso permite:
 
 * Basta converter o `timestamp` "12:05" para segundos (12×60 + 5 = 725s)
 
-🧷 Facilita a navegação exata pelo usuário.
+🧷 Facilita a navegaçêo exata pelo usuário.
 
 ------------------------------
 
@@ -179,13 +179,13 @@ Texto:
 
 ---
 
-### 2. **Capturar transcrição do vídeo (Apify)**
+### 2. **Capturar transcriçêo do vídeo (Apify)**
 
 * Criar um nó `HTTP Request` que envia o link do vídeo para a **API do Apify** (YouTube Transcript Scraper).
 * Obter resposta em JSON com:
 
   * Texto
-  * Início e duração de cada trecho (timestamp)
+  * Início e duraçêo de cada trecho (timestamp)
 
 ---
 
@@ -193,7 +193,7 @@ Texto:
 
 #### a) Unificar todo o texto (opcional)
 
-* Juntar os textos em uma única string (útil para indexação geral).
+* Juntar os textos em uma única string (útil para indexaçêo geral).
 
 #### b) Dividir por chunks com timestamps
 
@@ -201,7 +201,7 @@ Texto:
 
   * Texto combinado
   * Tempo inicial (primeiro trecho)
-  * Tempo final (último trecho + duração)
+  * Tempo final (último trecho + duraçêo)
 * Criar estrutura:
 
 ```{
@@ -252,12 +252,12 @@ Use um nó HTTP ou plugin Supabase para isso.
 
 ---
 
-### 7. **Remoção automática de conteúdos**
+### 7. **Remoçêo automática de conteúdos**
 
 * Marcar vídeos como `status: remover` em uma planilha ou painel.
 * Criar um workflow que:
 
-  * Detecta essa marcação
+  * Detecta essa marcaçêo
   * Filtra os vetores por metadado `video_url`
   * Exclui do banco vetorial (Supabase)
 
@@ -269,7 +269,7 @@ Use um nó HTTP ou plugin Supabase para isso.
 
   * Lista de vídeos processados
   * Status: ativo/remover
-  * Última atualização
+  * Última atualizaçêo
   * Número de chunks por vídeo
 
 ---
@@ -278,9 +278,9 @@ Use um nó HTTP ou plugin Supabase para isso.
 
 * Um sistema que:
 
-  * **Busca informações em vídeos com precisão**
-  * **Responde com base na transcrição real**
-  * **Mostra exatamente de onde veio a informação**
+  * **Busca informações em vídeos com precisêo**
+  * **Responde com base na transcriçêo real**
+  * **Mostra exatamente de onde veio a informaçêo**
   * **É fácil de atualizar e controlar**
 Midia: MessageMediaWebPage
 
@@ -300,7 +300,7 @@ Data: 2025-07-24T15:40:07+00:00
 Texto:
 ## O que é RAG?
 
-**RAG (Geração Aumentada por Recuperação)** é uma técnica onde um modelo de IA (como o ChatGPT) consulta uma base externa de dados (por exemplo, um banco vetorial) antes de gerar uma resposta. Isso permite que ele **responda com informações atualizadas, específicas e rastreáveis**, mesmo que essas informações não estejam no modelo.
+**RAG (Geraçêo Aumentada por Recuperaçêo)** é uma técnica onde um modelo de IA (como o ChatGPT) consulta uma base externa de dados (por exemplo, um banco vetorial) antes de gerar uma resposta. Isso permite que ele **responda com informações atualizadas, específicas e rastreáveis**, mesmo que essas informações nêo estejam no modelo.
 
 ---
 
@@ -316,9 +316,9 @@ A pergunta é **transformada em vetor (embedding)** e comparada com vetores arma
 
 ### 3. **Reranking (opcional)**
 
-Um **modelo secundário** classifica os resultados mais relevantes (melhora a precisão da resposta).
+Um **modelo secundário** classifica os resultados mais relevantes (melhora a precisêo da resposta).
 
-### 4. **Recuperação com Metadados**
+### 4. **Recuperaçêo com Metadados**
 
 A IA **retorna os chunks de texto** mais relevantes **juntamente com os metadados**:
 
@@ -326,7 +326,7 @@ A IA **retorna os chunks de texto** mais relevantes **juntamente com os metadado
 * **URL**
 * **Timestamp (intervalo de tempo)**
 
-### 5. **Geração da Resposta**
+### 5. **Geraçêo da Resposta**
 
 Com base nesses dados recuperados, o modelo gera a resposta final para o usuário, com a **referência exata da fonte**.
 
@@ -334,11 +334,11 @@ Com base nesses dados recuperados, o modelo gera a resposta final para o usuári
 
 ## Por que o uso de **metadados** torna o RAG mais inteligente?
 
-Sem metadados, a IA apenas mostra a resposta, mas **não diz de onde veio**. Com metadados:
+Sem metadados, a IA apenas mostra a resposta, mas **nêo diz de onde veio**. Com metadados:
 
 * Você sabe **de qual vídeo veio o conteúdo**.
 * Pode clicar na **URL exata**.
-* Pode ver o **trecho exato no tempo (timestamp)** de onde foi extraída a informação.
+* Pode ver o **trecho exato no tempo (timestamp)** de onde foi extraída a informaçêo.
 
 Isso aumenta a **confiabilidade**, **rastreabilidade** e melhora a **experiência do usuário**.
 
@@ -349,34 +349,34 @@ Isso aumenta a **confiabilidade**, **rastreabilidade** e melhora a **experiênci
 1. **Mais contexto**
    Ex: “Essa frase veio do vídeo X, entre 12:00 e 12:40”.
 
-2. **Organização e rastreabilidade**
-   Ex: saber se o conteúdo vem de um vídeo técnico ou de opinião.
+2. **Organizaçêo e rastreabilidade**
+   Ex: saber se o conteúdo vem de um vídeo técnico ou de opiniêo.
 
 3. **Filtragem avançada**
    Ex: "Buscar apenas no vídeo da Anthropic", filtrando por título no banco.
 
-4. **Manutenção fácil da base**
+4. **Manutençêo fácil da base**
    Possibilidade de excluir vetores específicos com base em metadados como status ou URL.
 
 ---
 
 ## Exemplo prático (caso real do vídeo)
 
-* **Transcrições de vídeos do YouTube** são capturadas com Apify.
-* Elas são limpas e divididas em **chunks pequenos com timestamps**.
+* **Transcrições de vídeos do YouTube** sêo capturadas com Apify.
+* Elas sêo limpas e divididas em **chunks pequenos com timestamps**.
 * Cada chunk é vetorizado e enriquecido com:
 
   * Título do vídeo
   * URL do vídeo
   * Intervalo de tempo daquele trecho
-* Esses dados são armazenados no **Supabase (banco vetorial)**.
+* Esses dados sêo armazenados no **Supabase (banco vetorial)**.
 * O agente RAG consulta essa base para responder perguntas e **mostra de onde tirou cada resposta**.
 
 ---
 
-## Conclusão
+## Conclusêo
 
-RAG é uma solução poderosa para construir **assistentes inteligentes**, mas o **uso de metadados é o diferencial** que:
+RAG é uma soluçêo poderosa para construir **assistentes inteligentes**, mas o **uso de metadados é o diferencial** que:
 
 * Dá **credibilidade** à resposta,
 * Permite **filtragem precisa**,
@@ -398,47 +398,47 @@ Data: 2025-07-24T15:39:34+00:00
 Texto:
 **Resumo do vídeo “Smarter RAG Starts with Metadata (Beginner’s Guide)”**
 
-Como construir um fluxo RAG (Geração Aumentada por Recuperação) inteligente, utilizando **n8n** e **Supabase**, com foco no uso de **metadados** para aumentar a precisão, o contexto e o controle das respostas da IA. A seguir, os principais pontos do conteúdo:
+Como construir um fluxo RAG (Geraçêo Aumentada por Recuperaçêo) inteligente, utilizando **n8n** e **Supabase**, com foco no uso de **metadados** para aumentar a precisêo, o contexto e o controle das respostas da IA. A seguir, os principais pontos do conteúdo:
 
 ### 1. **Importância dos Metadados**
 
-* Metadados são “dados sobre os dados” (ex: título do vídeo, URL, timestamp).
-* Eles não influenciam a posição dos vetores, mas **enriquecem o conteúdo** retornado e permitem contextualização e **rastreamento da fonte**.
-* Sem metadados, não é possível saber de qual vídeo vem o conteúdo exibido pela IA.
+* Metadados sêo “dados sobre os dados” (ex: título do vídeo, URL, timestamp).
+* Eles nêo influenciam a posiçêo dos vetores, mas **enriquecem o conteúdo** retornado e permitem contextualizaçêo e **rastreamento da fonte**.
+* Sem metadados, nêo é possível saber de qual vídeo vem o conteúdo exibido pela IA.
 
-### 2. **Demonstração prática do agente RAG**
+### 2. **Demonstraçêo prática do agente RAG**
 
 * Usuário faz perguntas (ex: diferenças entre banco relacional e banco vetorial).
 * O agente busca no Supabase e retorna a resposta, **incluindo o vídeo exato**, o **link** e o **trecho exato** de onde a resposta foi extraída.
-* Isso só é possível porque os chunks de transcrição foram enriquecidos com metadados.
+* Isso só é possível porque os chunks de transcriçêo foram enriquecidos com metadados.
 
 ### 3. **Pipeline com n8n**
 
-* Transcrição de vídeos do YouTube é extraída com **Apify**.
+* Transcriçêo de vídeos do YouTube é extraída com **Apify**.
 * Texto é limpo e dividido em **chunks com timestamps**.
 * Cada chunk recebe metadados: **título do vídeo, URL e intervalo de tempo**.
-* Os chunks vetorizados são armazenados no Supabase com esses metadados.
+* Os chunks vetorizados sêo armazenados no Supabase com esses metadados.
 
 ### 4. **Exemplo de enriquecimento com código**
 
 * Usa-se um nó de código para combinar ou dividir os textos com base em timestamps.
-* Com ajuda do Claude, cria-se código para juntar 20 objetos da transcrição e manter início/fim do tempo.
+* Com ajuda do Claude, cria-se código para juntar 20 objetos da transcriçêo e manter início/fim do tempo.
 
 ### 5. **Filtro por metadados**
 
 * É possível configurar o agente para buscar informações **apenas de um vídeo específico** usando filtros por título de vídeo.
 * Isso melhora o controle sobre a origem das respostas.
 
-### 6. **Exclusão de dados do Supabase**
+### 6. **Exclusêo de dados do Supabase**
 
 * Existe um fluxo para marcar e remover vídeos do banco vetorial com base no status.
-* Após exclusão, o sistema atualiza a planilha do Google Sheets e remove os vetores no Supabase com base na URL do vídeo.
+* Após exclusêo, o sistema atualiza a planilha do Google Sheets e remove os vetores no Supabase com base na URL do vídeo.
 
 
 
 ### Tópicos listados com exemplos
 
-1. **O que são metadados**
+1. **O que sêo metadados**
 
    * Exemplo: título do vídeo, timestamp, URL
 
@@ -448,28 +448,28 @@ Como construir um fluxo RAG (Geração Aumentada por Recuperação) inteligente,
 
 3. **Benefícios dos metadados**
 
-   * Maior contexto, organização e possibilidade de filtros por origem
+   * Maior contexto, organizaçêo e possibilidade de filtros por origem
 
 4. **Pipeline no n8n**
 
-   * Entrada via formulário → Apify → código → vetorização → Supabase + Google Sheets
+   * Entrada via formulário → Apify → código → vetorizaçêo → Supabase + Google Sheets
 
 5. **Filtragem com metadados**
 
    * Exemplo: buscar somente respostas do vídeo "Dicas para criar agentes de IA"
 
-6. **Exclusão de vetores**
+6. **Exclusêo de vetores**
 
-   * Marcação com status “remover” → atualização na planilha → remoção no banco
+   * Marcaçêo com status “remover” → atualizaçêo na planilha → remoçêo no banco
 
-7. **Integração com Claude**
+7. **Integraçêo com Claude**
 
-   * Uso para gerar código que trata JSON da transcrição
+   * Uso para gerar código que trata JSON da transcriçêo
 
 8. **Templates e comunidade**
 
    * Workflow e Google Sheets prontos para download
-   * Cursos com foco prático sobre agentes e automação com IA
+   * Cursos com foco prático sobre agentes e automaçêo com IA
 
 ------------------------------
 
@@ -512,13 +512,13 @@ Texto:
 **RAG mais inteligente começa com metadados (Guia para iniciantes)**
 
 
-Um fluxo de trabalho RAG (Geração Aumentada por Recuperação) sem código que construí usando o n8n.
+Um fluxo de trabalho RAG (Geraçêo Aumentada por Recuperaçêo) sem código que construí usando o n8n.
 
 Vou te mostrar como pego transcrições de vídeos do YouTube, armazeno em um banco de dados vetorial no Supabase, e enriqueço com metadados como títulos dos vídeos, URLs e marcações de tempo.
 
 Isso permite que o agente RAG me diga exatamente de onde veio a resposta recuperada — incluindo de qual vídeo, o link para esse vídeo e até o momento exato do vídeo de onde os dados foram extraídos.
 
-Também explico o que são metadados, por que eles são importantes e como melhoram drasticamente a precisão da recuperação e o contexto.
+Também explico o que sêo metadados, por que eles sêo importantes e como melhoram drasticamente a precisêo da recuperaçêo e o contexto.
 Se você está construindo qualquer tipo de assistente ou agente de IA, esse é um conceito fundamental a ser compreendido — e eu o explico da forma mais simples e prática possível.
 
 ------------------------------
@@ -551,7 +551,7 @@ MENSAGEM 17
 Autor: INEMA
 Data: 2025-07-24T15:31:37+00:00
 Texto:
-ap48 - Youtube Transcrição RAG
+ap48 - Youtube Transcriçêo RAG
 
 ------------------------------
 

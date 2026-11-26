@@ -30,21 +30,21 @@ MENSAGEM 3
 Autor: INEMA
 Data: 2025-06-08T23:51:11+00:00
 Texto:
-Como criar um agente de automação para navegador usando **n8n** e **Airtop**, sem escrever nenhuma linha de código. Esse agente simula ações humanas como digitar, clicar, navegar e extrair informações de sites em tempo real.
+Como criar um agente de automaçêo para navegador usando **n8n** e **Airtop**, sem escrever nenhuma linha de código. Esse agente simula ações humanas como digitar, clicar, navegar e extrair informações de sites em tempo real.
 
 ---
 
 ### Etapas e Funcionalidades Demonstradas
 
-1. **Demonstração ao vivo**:
+1. **Demonstraçêo ao vivo**:
 
    * O agente abre um navegador pelo Airtop, digita na barra de busca do Twitter (X), faz a busca por “Google V3” e retorna os principais resultados.
    * Outro exemplo: busca por promoções de laptops no site da BestBuy.
 
 2. **Componentes principais**:
 
-   * Integração entre n8n, Airtop e OpenRouter.
-   * Criação de fluxos com ferramentas como:
+   * Integraçêo entre n8n, Airtop e OpenRouter.
+   * Criaçêo de fluxos com ferramentas como:
 
      * `start browser`
      * `load URL`
@@ -52,9 +52,9 @@ Como criar um agente de automação para navegador usando **n8n** e **Airtop**, 
      * `type`
      * `query`
      * `end session`
-     * `think` (reflexão da IA para decidir próximos passos).
+     * `think` (reflexêo da IA para decidir próximos passos).
 
-3. **Gerenciamento de sessão**:
+3. **Gerenciamento de sessêo**:
 
    * Cada navegador remoto gera um `session ID` e `window ID`.
    * É possível ver ao vivo os movimentos do agente pelo Slack ou URL gerada.
@@ -74,7 +74,7 @@ Como criar um agente de automação para navegador usando **n8n** e **Airtop**, 
 6. **Limitações e ajustes**:
 
    * Algumas funções nativas do Airtop podem falhar por timeout, sendo substituídas por `HTTP Request`.
-   * A automação pode ser feita em fluxo único ou usando workflows separados chamados por ID.
+   * A automaçêo pode ser feita em fluxo único ou usando workflows separados chamados por ID.
 
 7. **Casos de uso recomendados**:
 
@@ -89,7 +89,7 @@ Como criar um agente de automação para navegador usando **n8n** e **Airtop**, 
 
 * **OpenRouter + Claude 3.5 Sonnet**: recomendada como modelo de chat.
 * **Slack**: para receber URLs ao vivo das sessões.
-* **Airtop**: fornece a automação via navegador remoto.
+* **Airtop**: fornece a automaçêo via navegador remoto.
 * **n8n**: orquestra os fluxos sem código.
 
 
@@ -102,9 +102,9 @@ Como criar um agente de automação para navegador usando **n8n** e **Airtop**, 
 
 ---
 
-### Conclusão
+### Conclusêo
 
-O vídeo mostra como qualquer pessoa pode criar um agente de automação que simula um humano navegando na web, sem programar. Ideal para automatizar tarefas repetitivas ou extrair informações de forma visual e natural.
+O vídeo mostra como qualquer pessoa pode criar um agente de automaçêo que simula um humano navegando na web, sem programar. Ideal para automatizar tarefas repetitivas ou extrair informações de forma visual e natural.
 
 ------------------------------
 
@@ -114,15 +114,15 @@ Data: 2025-06-08T23:49:21+00:00
 Texto:
 OAgente de Navegador Definitivo Sem Código (n8n + Airtop)
 
-Como construir um agente de IA poderoso para navegador no **n8n** — completamente sem código — usando o **Airtop**. Esse agente de IA pode usar um computador como um ser humano. Ele entende suas instruções, abre um navegador ao vivo, e então clica, digita e navega pela tela até completar sua tarefa ou responder à sua pergunta.
+Como construir um agente de IA poderoso para navegador no **n8n** — completamente sem código — usando o **Airtop**. Esse agente de IA pode usar um computador como um ser humano. Ele entende suas instruções, abre um navegador ao vivo, e entêo clica, digita e navega pela tela até completar sua tarefa ou responder à sua pergunta.
 
-Seja para coletar dados (scraping), automatizar uma interação em um site ou executar uma tarefa online repetitiva, essa configuração dá conta — tudo isso sem escrever uma única linha de código.
+Seja para coletar dados (scraping), automatizar uma interaçêo em um site ou executar uma tarefa online repetitiva, essa configuraçêo dá conta — tudo isso sem escrever uma única linha de código.
 
 Você vai aprender:
 
 * Como conectar **Airtop** e **OpenRouter** ao **n8n**
 * Como configurar o agente para interagir visualmente com sites
-* Como obter um link do navegador ao vivo para ver seu agente em ação
+* Como obter um link do navegador ao vivo para ver seu agente em açêo
 
 ------------------------------
 

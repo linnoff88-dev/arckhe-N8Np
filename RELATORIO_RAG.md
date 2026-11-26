@@ -1,6 +1,6 @@
 # RELATÓRIO COMPLETO: RECURSOS RAG NO REPOSITÓRIO N8Np
 
-**Data de Geração:** 2026-01-04
+**Data de Geraçêo:** 2026-01-04
 **Total de Recursos:** 400+ workflows, 157 tópicos, 3 PDFs
 
 ---
@@ -21,18 +21,18 @@
 
 **Pasta:** `doc/2494913847/8187/`
 
-| Arquivo | Descrição |
+| Arquivo | Descriçêo |
 |---------|-----------|
 | `1) RAG Pipeline & Chatbot.json` | Sistema básico RAG com Google Drive + Pinecone |
-| `11) RAG Workflow vs RAG Agent.json` | Comparação entre implementações |
+| `11) RAG Workflow vs RAG Agent.json` | Comparaçêo entre implementações |
 | `12) Technical Analyst Agent vs Workflow.json` | Agente técnico |
 | `13) First AI Agent.json` | Primeiro agente IA |
-| `14) Supabase Postgres.json` | Integração com banco de dados |
-| `15) Orchestrator Architecture.json` | Padrão orquestrador |
+| `14) Supabase Postgres.json` | Integraçêo com banco de dados |
+| `15) Orchestrator Architecture.json` | Padrêo orquestrador |
 | `16) Prompt Chaining.json` | Encadeamento de prompts |
 | `17) Routing.json` | Roteamento de fluxos |
 | `18) Parallelization.json` | Processamento paralelo |
-| `19) Evaluator Optimizer.json` | Avaliação e otimização |
+| `19) Evaluator Optimizer.json` | Avaliaçêo e otimizaçêo |
 | `20) HITL Example Flows.json` | Human-in-the-Loop |
 | `21) Error Logger.json` | Logging de erros |
 | `22) Dynamic Brain.json` | Arquitetura dinâmica |
@@ -42,13 +42,13 @@
 
 ## 2. TÓPICOS TELEGRAM PRINCIPAIS
 
-### 2.1 Documentação e Tutoriais
+### 2.1 Documentaçêo e Tutoriais
 
 | Tópico | Assunto | Pasta |
 |--------|---------|-------|
 | 8187 | Curso Completo N8N | `doc/2494913847/8187/` |
 | 2057 | Guia RAG + Pinecone | `doc/2494913847/2057/` |
-| 2954 | Q&A Implementação RAG | `doc/2494913847/2954/` |
+| 2954 | Q&A Implementaçêo RAG | `doc/2494913847/2954/` |
 | 8373 | Agentic RAG (avançado) | `doc/2494913847/8373/` |
 | 10830 | RAG + Reranker Cohere | `doc/2494913847/10830/` |
 | 11175 | RAG Multimídia | `doc/2494913847/11175/` |
@@ -334,12 +334,12 @@ doc/zengfr/tags/retrieval.md     # 22 linhas - Retrieval
 
 ---
 
-## 7. CONTENT.TXT COM DOCUMENTAÇÃO RAG
+## 7. CONTENT.TXT COM DOCUMENTAÇêO RAG
 
 | Tópico | Conteúdo | Pasta |
 |--------|----------|-------|
 | 2057 | Guia passo a passo RAG + Pinecone | `doc/2494913847/2057/content.txt` |
-| 2954 | Q&A sobre implementação RAG | `doc/2494913847/2954/content.txt` |
+| 2954 | Q&A sobre implementaçêo RAG | `doc/2494913847/2954/content.txt` |
 | 8373 | Agentic RAG explicado | `doc/2494913847/8373/content.txt` |
 | 10830 | RAG com reranker e metadados | `doc/2494913847/10830/content.txt` |
 | 11175 | RAG multimídia (texto + imagens) | `doc/2494913847/11175/content.txt` |
@@ -363,7 +363,7 @@ doc/zengfr/tags/retrieval.md     # 22 linhas - Retrieval
 - **OCR:** Mistral
 - **Workflow:** `RAG_con_imagenes.json`
 
-### Fluxo de Dados Padrão
+### Fluxo de Dados Padrêo
 ```
 Documents → Chunking (500-1000 tokens)
          → Embeddings (OpenAI/Gemini)
@@ -397,7 +397,7 @@ Documents → Chunking (500-1000 tokens)
 - TogetherAI
 - Azure OpenAI
 
-### Canais de Comunicação
+### Canais de Comunicaçêo
 - Telegram
 - WhatsApp (Twilio)
 - Email (Gmail)
@@ -484,7 +484,7 @@ grep -l "WhatsApp" doc/zengfr/n8n-workflow-all-templates/**/*RAG*.json
 grep -l "pinecone" doc/zengfr/n8n-workflow-all-templates/**/*.json
 ```
 
-### Ler documentação de um tópico:
+### Ler documentaçêo de um tópico:
 ```bash
 cat doc/2494913847/8373/content.txt
 ```

@@ -44,51 +44,51 @@ Texto:
 
 1. **Website**  
    - Tipo: URL  
-   - Descrição: Link do site do cliente a ser analisado
+   - Descriçêo: Link do site do cliente a ser analisado
 
 2. **Status**  
    - Tipo: Texto ou Lista (ex: "Completo", "Pendente")  
-   - Descrição: Controle do estágio da automação
+   - Descriçêo: Controle do estágio da automaçêo
 
 3. **Texto do Site (Website Text)**  
    - Tipo: Texto longo  
-   - Descrição: Conteúdo em texto raspado da página inicial
+   - Descriçêo: Conteúdo em texto raspado da página inicial
 
 4. **Captura de Tela (Screenshot)**  
    - Tipo: Anexo (imagem)  
-   - Descrição: Imagem da homepage do site
+   - Descriçêo: Imagem da homepage do site
 
 5. **Paleta de Cores (Color Palette)**  
    - Tipo: Texto  
-   - Descrição: Descrição das cores predominantes do site (ex: "rosa claro, preto, vermelho")
+   - Descriçêo: Descriçêo das cores predominantes do site (ex: "rosa claro, preto, vermelho")
 
-6. **Descrição do Site (Website Description)**  
+6. **Descriçêo do Site (Website Description)**  
    - Tipo: Texto curto  
-   - Descrição: Resumo do que o site oferece (máx. 20 palavras)
+   - Descriçêo: Resumo do que o site oferece (máx. 20 palavras)
 
 7. **Resumo Criativo (Mensagem da Comic)**  
    - Tipo: Texto curto  
-   - Descrição: Frase criativa com base no conteúdo do site (ex: "Coffee Delivery. I like it.")
+   - Descriçêo: Frase criativa com base no conteúdo do site (ex: "Coffee Delivery. I like it.")
 
 8. **Prompt Gerado (Comic Prompt)**  
    - Tipo: Texto longo  
-   - Descrição: Prompt completo para gerar a imagem da comic personalizada
+   - Descriçêo: Prompt completo para gerar a imagem da comic personalizada
 
 9. **Imagem Final (Comic Image)**  
    - Tipo: Anexo (imagem)  
-   - Descrição: Imagem final gerada da história em quadrinhos
+   - Descriçêo: Imagem final gerada da história em quadrinhos
 
 10. **Email Personalizado (Email HTML)**  
     - Tipo: Texto longo (formato HTML)  
-    - Descrição: E-mail de prospecção automática com elogio e CTA personalizado
+    - Descriçêo: E-mail de prospecçêo automática com elogio e CTA personalizado
 
 11. **Assunto do E-mail (Email Subject)**  
     - Tipo: Texto curto  
-    - Descrição: Assunto do e-mail (ex: "Adorei o que você faz na [Nome do Site]")
+    - Descriçêo: Assunto do e-mail (ex: "Adorei o que você faz na [Nome do Site]")
 
 12. **Comentário Personalizado**  
     - Tipo: Texto curto  
-    - Descrição: Frase complementar baseada em algo notável do site
+    - Descriçêo: Frase complementar baseada em algo notável do site
 
 ------------------------------
 
@@ -119,9 +119,9 @@ Vamos transformar tecnologia de imagem em clientes para aquele produto ou servi�
 
 Empresas cuja estratégia de marketing era sob medida, única ou exigia alto esforço para os clientes. E elas arrasaram.  
 
-Esta automação permite que você faça o mesmo, usando inteligência artificial.
+Esta automaçêo permite que você faça o mesmo, usando inteligência artificial.
 
-Todos os recursos estão disponíveis 📚**Como funciona:**🔗 Você insere a URL de qualquer site  👾 Ele coleta (raspa) todo o texto e faz uma captura de tela  
+Todos os recursos estêo disponíveis 📚**Como funciona:**🔗 Você insere a URL de qualquer site  👾 Ele coleta (raspa) todo o texto e faz uma captura de tela  
 📊 A IA analisa a paleta de cores e o que o negócio oferece  🚀 Ela gera um prompt exclusivo para o ilustrador  
 Depois disso, você pode jogar tudo no ChatGPT junto com o logotipo da empresa para criar algo que:  
 ✅ Faz referência ao que eles fazem  ✅ Mostra a página inicial deles  
@@ -157,9 +157,9 @@ MENSAGEM 11
 Autor: INEMA
 Data: 2025-04-02T21:04:00+00:00
 Texto:
-Ímã de Leads em Quadrinhos para Abordagem (4 Quadros)
+Ímê de Leads em Quadrinhos para Abordagem (4 Quadros)
 
-Como automatizar ímãs de leads IMPARÁVEIS
+Como automatizar ímês de leads IMPARÁVEIS
 
 ------------------------------
 
@@ -183,7 +183,7 @@ MENSAGEM 14
 Autor: INEMA
 Data: 2025-04-02T21:02:57+00:00
 Texto:
-j82 - Imã de Leads com Quadrinhos
+j82 - Imê de Leads com Quadrinhos
 
 ------------------------------
 

@@ -619,7 +619,7 @@ Total de workflows: **256**
 
 ## Tópico 12253
 
-### Sistema Completo ONG Pets - Automação N8N
+### Sistema Completo ONG Pets - Automaçêo N8N
 
 - **Nodes:** 29
 - **Integrações:** Gmail, OpenAI/LangChain, Supabase
@@ -2974,7 +2974,7 @@ Total de workflows: **256**
 
 ## Tópico 4469
 
-### Conexão SLACK
+### Conexêo SLACK
 
 - **Nodes:** 5
 - **Integrações:** OpenAI/LangChain

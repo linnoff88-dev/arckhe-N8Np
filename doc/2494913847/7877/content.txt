@@ -37,7 +37,7 @@ MENSAGEM 4
 Autor: Daniel N
 Data: 2025-07-11T14:37:45+00:00
 Texto:
-Opa bom dia ,deixa eu ver se entendi comecei agora a usar a área vip, seguindo o vídeo de toda automação,terei que estuda cada IA entende como funciona seus pronpts , em seguida configurar de acordo com o vídeo é isto ?
+Opa bom dia ,deixa eu ver se entendi comecei agora a usar a área vip, seguindo o vídeo de toda automaçêo,terei que estuda cada IA entende como funciona seus pronpts , em seguida configurar de acordo com o vídeo é isto ?
 
 ------------------------------
 
@@ -45,7 +45,7 @@ MENSAGEM 5
 Autor: Felipe
 Data: 2025-06-24T03:10:14+00:00
 Texto:
-esse tipo de video a quase zero é só fazendo o que eu falei, porém não será zero
+esse tipo de video a quase zero é só fazendo o que eu falei, porém nêo será zero
 
 ------------------------------
 
@@ -61,7 +61,7 @@ MENSAGEM 7
 Autor: Evandro
 Data: 2025-06-24T01:51:04+00:00
 Texto:
-Vc conseguiu realizar esta automação a custo zero ou quase pelo menos? O suno no free, gera músicas comerciais? Sem direitos autorais? Queria rodar uma automação dessa mas pra começar sem ter canal ou alguma rede social monetizada fica difícil o investimento, já pensou 3x ao dia subindo os vídeos nesse custo? O cara quebra na largada...
+Vc conseguiu realizar esta automaçêo a custo zero ou quase pelo menos? O suno no free, gera músicas comerciais? Sem direitos autorais? Queria rodar uma automaçêo dessa mas pra começar sem ter canal ou alguma rede social monetizada fica difícil o investimento, já pensou 3x ao dia subindo os vídeos nesse custo? O cara quebra na largada...
 
 ------------------------------
 
@@ -69,7 +69,7 @@ MENSAGEM 8
 Autor: Willian
 Data: 2025-06-15T13:15:48+00:00
 Texto:
-Tens alguma sugestão de ia de vídeo e imagem pra rodar na vps? Para gerar posts e criativos.
+Tens alguma sugestêo de ia de vídeo e imagem pra rodar na vps? Para gerar posts e criativos.
 
 ------------------------------
 
@@ -109,7 +109,7 @@ MENSAGEM 13
 Autor: Luiz EasyImports
 Data: 2025-06-15T00:25:47+00:00
 Texto:
-@INEMAtds uma dúvida, posso trocar a categoria e as marcas? Eu poderia colocar ao invés disso PAÍS e CIDADES por exemplo ou então vamos além, se puséssemos CAMPEONATO e TIMES. O que mais precisaria ser alterado no sistema?
+@INEMAtds uma dúvida, posso trocar a categoria e as marcas? Eu poderia colocar ao invés disso PAÍS e CIDADES por exemplo ou entêo vamos além, se puséssemos CAMPEONATO e TIMES. O que mais precisaria ser alterado no sistema?
 
 ------------------------------
 
@@ -264,7 +264,7 @@ MENSAGEM 32
 Autor: WADJET
 Data: 2025-06-09T12:13:55+00:00
 Texto:
-Vi o vídeo do Nate mas não ajudou
+Vi o vídeo do Nate mas nêo ajudou
 
 ------------------------------
 
@@ -284,7 +284,7 @@ Bom dia
 A ideia é a seguinte...
 1) Usar esse sistema automático de postagens em alta escala para TIK TOK SHOP EUA... faturar em dólar. Porém, tem os detalhes tributários serissímos.
 Tipo, abrir empresa lá. Pagar os impostos lá e também aqui. Será BItributado. 
-Mas se alguém souber de algum estado nos EUA com menor tributação é possível sim pagar as 2 tributações. Por exemplo, 6% lá 12% aqui via SIMPLES mais ou menos (se possível).
+Mas se alguém souber de algum estado nos EUA com menor tributaçêo é possível sim pagar as 2 tributações. Por exemplo, 6% lá 12% aqui via SIMPLES mais ou menos (se possível).
 
 2) Esse sistema automático tem que ser economicamente factível, vi que o custo ainda está pesado pra começo.
 
@@ -399,7 +399,7 @@ MENSAGEM 46
 Autor: WADJET
 Data: 2025-06-06T18:28:07+00:00
 Texto:
-ATENÇÃO A TODOS AQUI NESTE TEMA
+ATENÇêO A TODOS AQUI NESTE TEMA
 
 ------------------------------
 
@@ -447,7 +447,7 @@ MENSAGEM 52
 Autor: Leandro
 Data: 2025-05-30T03:22:53+00:00
 Texto:
-Então
+Entêo
 
 ------------------------------
 
@@ -712,7 +712,7 @@ MENSAGEM 85
 Autor: INEMA
 Data: 2025-05-19T03:41:53+00:00
 Texto:
-Etapa: Renderização com Creatmate
+Etapa: Renderizaçêo com Creatmate
 
 **Objetivo**: juntar 4 vídeos (de 5 segundos cada) e 4 áudios (também de 5s) em **um único vídeo final de 20 segundos**, com aspecto cinematográfico e pronto para redes sociais.
 
@@ -744,7 +744,7 @@ Copie o **Template ID**.
 
 
 
-**Configuração da requisição HTTP no n8n**:
+**Configuraçêo da requisiçêo HTTP no n8n**:
 
 
 
@@ -788,13 +788,13 @@ Resultado: o Creatmate processa e retorna a URL do vídeo final renderizado.
 
 
 
-**Tempo de renderização**:
+**Tempo de renderizaçêo**:
 
 
 Leva em média **60 segundos**.
 
 
-Ele usa um **método de polling**: espera 1 minuto, e se não estiver pronto, espera mais um pouco e tenta de novo até completar.
+Ele usa um **método de polling**: espera 1 minuto, e se nêo estiver pronto, espera mais um pouco e tenta de novo até completar.
 
 ------------------------------
 
@@ -802,7 +802,7 @@ MENSAGEM 86
 Autor: INEMA
 Data: 2025-05-19T03:40:42+00:00
 Texto:
-Se sua chave da ElevenLabs for 123abc456def, então no n8n:
+Se sua chave da ElevenLabs for 123abc456def, entêo no n8n:
 
 
 Header Name: xi-api-key
@@ -860,11 +860,11 @@ MENSAGEM 92
 Autor: INEMA
 Data: 2025-05-19T02:11:35+00:00
 Texto:
-Aqui está um **resumo completo e estruturado** do vídeo **"I Built a 24/7 Viral Shorts Machine with No-Code"** com base na transcrição fornecida:
+Aqui está um **resumo completo e estruturado** do vídeo **"I Built a 24/7 Viral Shorts Machine with No-Code"** com base na transcriçêo fornecida:
 
 ### Objetivo do Projeto
 
-Criar uma máquina de criação de **vídeos virais em formato Shorts (TikTok, Instagram, YouTube)** usando **n8n** e **integrações no-code**. Todo o sistema funciona 24/7 e é alimentado por IA.
+Criar uma máquina de criaçêo de **vídeos virais em formato Shorts (TikTok, Instagram, YouTube)** usando **n8n** e **integrações no-code**. Todo o sistema funciona 24/7 e é alimentado por IA.
 
 ---
 
@@ -873,33 +873,33 @@ Criar uma máquina de criação de **vídeos virais em formato Shorts (TikTok, I
 1. **Entrada via Planilha Google**
 
    * Pega uma categoria e quatro marcas.
-   * Cada linha marcada como “to-do” é processada uma vez por execução.
+   * Cada linha marcada como “to-do” é processada uma vez por execuçêo.
 
-2. **Geração de Prompts com IA (OpenRouter com GPT-4.1)**
+2. **Geraçêo de Prompts com IA (OpenRouter com GPT-4.1)**
 
    * Cria prompts específicos para imagem, vídeo e áudio para cada marca.
-   * Usa formatação estruturada para separar cada tipo de prompt.
+   * Usa formataçêo estruturada para separar cada tipo de prompt.
 
-3. **Criação de Imagens com FAL AI (modelo Flux Pro v1.1)**
+3. **Criaçêo de Imagens com FAL AI (modelo Flux Pro v1.1)**
 
    * Gera 4 imagens (uma por marca).
    * Configura cabeçalhos, API key e parâmetros no n8n.
 
-4. **Conversão de Imagens em Vídeos com kling (via FAL)**
+4. **Conversêo de Imagens em Vídeos com kling (via FAL)**
 
    * Usa o modelo kling para gerar vídeos cinematográficos de 5 segundos.
    * Envia imagem + prompt de vídeo.
 
-5. **Geração de Áudio com ElevenLabs**
+5. **Geraçêo de Áudio com ElevenLabs**
 
    * Usa o áudio prompt para criar efeitos sonoros personalizados.
    * Cada som tem 5 segundos para sincronizar com os vídeos.
 
 6. **Upload dos Áudios para o Google Drive e Torná-los Públicos**
 
-   * Os arquivos são compartilhados com permissões públicas para serem usados no Creatmate.
+   * Os arquivos sêo compartilhados com permissões públicas para serem usados no Creatmate.
 
-7. **Renderização Final com Creatmate**
+7. **Renderizaçêo Final com Creatmate**
 
    * Junta os 4 vídeos e 4 áudios em um único vídeo de 20 segundos.
    * Usa um template do Creatmate via API.
@@ -907,7 +907,7 @@ Criar uma máquina de criação de **vídeos virais em formato Shorts (TikTok, I
 8. **Postagem Automática com Botato**
 
    * Publica automaticamente no Instagram, TikTok e YouTube Shorts.
-   * Cada rede tem pequenas variações no corpo da requisição JSON.
+   * Cada rede tem pequenas variações no corpo da requisiçêo JSON.
    * Salva URL final no Google Sheets e marca como "done".
 
 ---
@@ -921,18 +921,18 @@ Criar uma máquina de criação de **vídeos virais em formato Shorts (TikTok, I
 
 ---
 
-### Custo Estimado por Execução
+### Custo Estimado por Execuçêo
 
 * **Imagem (FAL - Flux Pro)**: \$0.06 por imagem → \$0.24 total.
 * **Vídeo (FAL - Cling)**: \$0.46 por vídeo → \$1.84 total.
 * **Som (ElevenLabs)**: incluso em plano de \$5/mês.
-* **Renderização (Creatmate)**: \~\$0.20 por vídeo (12.5 créditos).
+* **Renderizaçêo (Creatmate)**: \~\$0.20 por vídeo (12.5 créditos).
 * **Botato (opcional)**: \$30/mês (com cupom 30%: *Nate30*).
 * **Custo Total Estimado por Shorts**: \~**US\$ 2 a US\$ 2,50**.
 
 ---
 
-### Tempo de Configuração
+### Tempo de Configuraçêo
 
 * Menos de 10 minutos para configurar tudo:
 
@@ -942,7 +942,7 @@ Criar uma máquina de criação de **vídeos virais em formato Shorts (TikTok, I
   * Importar JSON no n8n
 
 
-### Exemplo de Execução
+### Exemplo de Execuçêo
 
 * Categoria: *Fast Food Chains*.
 * Marcas: McDonald's, In-N-Out, Taco Bell, Chick-fil-A.
@@ -973,9 +973,9 @@ Data: 2025-05-19T01:52:24+00:00
 Texto:
 Máquina de Shorts Virais 24/7
 
-Sistema totalmente automatizado de criação de conteúdo usando o n8n, sem necessidade de programação. A partir do momento em que você digita uma categoria de marca, o fluxo assume o controle: gera ideias criativas, cria imagens hiper-realistas, monta vídeos cinematográficos com design de som, junta tudo e publica automaticamente no Instagram, YouTube Shorts e TikTok.
+Sistema totalmente automatizado de criaçêo de conteúdo usando o n8n, sem necessidade de programaçêo. A partir do momento em que você digita uma categoria de marca, o fluxo assume o controle: gera ideias criativas, cria imagens hiper-realistas, monta vídeos cinematográficos com design de som, junta tudo e publica automaticamente no Instagram, YouTube Shorts e TikTok.
 
-Tudo utilizando ferramentas abertas e APIs, e você não precisa ter conhecimento prévio em programação para acompanhar.
+Tudo utilizando ferramentas abertas e APIs, e você nêo precisa ter conhecimento prévio em programaçêo para acompanhar.
 
 ------------------------------
 

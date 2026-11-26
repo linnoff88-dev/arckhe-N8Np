@@ -14,8 +14,8 @@ Autor: INEMA
 Data: 2025-04-22T22:12:36+00:00
 Texto:
 Logger`.
-8. Cuidar para o logger não ter erros internos.
-9. Facilita manutenção e análise de múltiplos fluxos.
+8. Cuidar para o logger nêo ter erros internos.
+9. Facilita manutençêo e análise de múltiplos fluxos.
 10. Pode ser usado para dezenas de workflows diferentes com **1 único logger**.
 
 ------------------------------
@@ -25,7 +25,7 @@ Autor: INEMA
 Data: 2025-04-22T22:12:35+00:00
 Texto:
 ### Resumo Geral:
-O vídeo ensina como criar um **fluxo de tratamento centralizado de erros no n8n**. A ideia é que qualquer workflow ativo que apresentar erro, dispare um **workflow específico de captura de erro**, que registra o erro em uma **planilha do Google Sheets** e envia uma **notificação por Slack ou e-mail**. É possível associar esse fluxo de erro a múltiplos workflows.
+O vídeo ensina como criar um **fluxo de tratamento centralizado de erros no n8n**. A ideia é que qualquer workflow ativo que apresentar erro, dispare um **workflow específico de captura de erro**, que registra o erro em uma **planilha do Google Sheets** e envia uma **notificaçêo por Slack ou e-mail**. É possível associar esse fluxo de erro a múltiplos workflows.
 
 ---
 
@@ -33,7 +33,7 @@ O vídeo ensina como criar um **fluxo de tratamento centralizado de erros no n8n
 
 1. **Criar Workflow de Teste com Erro**
    - Configure um fluxo com um trigger (ex: Telegram).
-   - Adicione uma ação que pode falhar propositalmente (ex: modelo de chat sem configuração).
+   - Adicione uma açêo que pode falhar propositalmente (ex: modelo de chat sem configuraçêo).
    - Ative esse fluxo.
 
    *Exemplo:* 
@@ -43,7 +43,7 @@ O vídeo ensina como criar um **fluxo de tratamento centralizado de erros no n8n
 
 2. **Criar Workflow de Tratamento de Erro (Error Logger)**
    - Crie novo fluxo chamado `Error Logger`.
-   - Primeiro nó: `Error Trigger` (não precisa configurar nada).
+   - Primeiro nó: `Error Trigger` (nêo precisa configurar nada).
 
    *Esse nó escuta qualquer erro de fluxo ativo vinculado a ele.*
 
@@ -55,9 +55,9 @@ O vídeo ensina como criar um **fluxo de tratamento centralizado de erros no n8n
 
 4. **Registrar o erro em uma Planilha Google**
    - Adicione o nó “Google Sheets”.
-   - Ação: `Append Row`.
+   - Açêo: `Append Row`.
    - Configure colunas para:
-     - Timestamp (`{{$now}}` com formatação opcional)
+     - Timestamp (`{{$now}}` com formataçêo opcional)
      - Nome do Workflow
      - URL do Workflow
      - Nome do Node que causou erro
@@ -69,44 +69,44 @@ O vídeo ensina como criar um **fluxo de tratamento centralizado de erros no n8n
    | 2025-04-22 18:20:33 | Ultimate Assistant  | https://n8n.io/workflow/1234...     | ChatModel         | Chat model subnode must be connected.  |
    ```
 
-5. N**otificação por Slack (ou e-mail)
-**   - Adicione o nó “Slack” com ação “Send Message”.
+5. N**otificaçêo por Slack (ou e-mail)
+**   - Adicione o nó “Slack” com açêo “Send Message”.
    - Configure o canal (ex: #errors).
    - Monte a mensagem com expressões:
       ```    Workflow Error: {{$json["workflow"]["name"]}}
      Node: {{$json["node"]["name"]}}
      Time: {{$now}}
      Message: {{$json["error"]["message"]}}
-     [Ver execução]({{$json["workflow"]["url"]}})
+     [Ver execuçêo]({{$json["workflow"]["url"]}})
      
-```   - Desative a opção “Include link to workflow” para evitar o texto padrão do n8n.
+```   - Desative a opçêo “Include link to workflow” para evitar o texto padrêo do n8n.
 
 6. Ex**emplo de Disparo Real
  **  - Enviar mensagem “Hey” no Telegram.
    - Com erro proposital (sem modelo de chat), o workflow principal falha.
    - O Er`ror Logger é` ativado automaticamente.
    - Uma nova linha aparece na planilha.
-   - Notificação aparece no Slack.
+   - Notificaçêo aparece no Slack.
 
-7. Er**ros que NÃO Disparam o Workflow de Erro
- **  - Se o fluxo executa “verde” mas internamente algo falha (ex: API sem autenticação), nã**o será tratado como erro pelo n8n.
+7. Er**ros que NêO Disparam o Workflow de Erro
+ **  - Se o fluxo executa “verde” mas internamente algo falha (ex: API sem autenticaçêo), nê**o será tratado como erro pelo n8n.
 **   - Para esses casos, seria necessário capturar a falha manualmente (ex: checando resposta da API).
 
 8. Er**ro proposital para testar
  **  - Alterar uma variável mal intencionadamente (ex: se`ssionIDD e`m vez de `sessionID`).
    - Executar novamente.
-   - Verificação: linha na planilha + notificação no Slack com detalhes atualizados.
+   - Verificaçêo: linha na planilha + notificaçêo no Slack com detalhes atualizados.
 
 9. Li**mitações e Cuidados
  **  - O próprio workflow de erro (`Error Logger`) raramente deve falhar, já que apenas lê dados e os insere.
-   - Caso falhe com frequência, é sinal de problemas mais profundos (ex: autenticação, excesso de lógica complexa).
+   - Caso falhe com frequência, é sinal de problemas mais profundos (ex: autenticaçêo, excesso de lógica complexa).
 
 ---
 
-### Conclusão
+### Conclusêo
 Esse método:
 - Centraliza o tratamento de erros.
-- Facilita o debug com link direto à execução.
+- Facilita o debug com link direto à execuçêo.
 - Ajuda a manter registros para análise posterior.
 
 ---
@@ -117,9 +117,9 @@ Esse método:
 2. Criar workflow de erro com nó Er`ror Trigger.
 `3. Ativar e vincular workflow principal ao Er`ror Logger.
 `4. Logar dados em Google Sheets.
-5. Enviar notificação via Slack ou outro canal.
+5. Enviar notificaçêo via Slack ou outro canal.
 6. Testar com erro real.
-7. Entender quando o erro nã**o d**ispara o `Error
+7. Entender quando o erro nê**o d**ispara o `Error
 
 ------------------------------
 
@@ -174,7 +174,7 @@ Resumo direto em tópicos:
 - Vincular esse fluxo a todos os workflows ativos que deseja monitorar (em *Settings > Error Workflow*).
 - Quando qualquer workflow falhar, o `Error Logger` é acionado automaticamente.
 - O logger registra os erros em uma planilha Google Sheets (timestamp, nome do workflow, nó, mensagem e link).
-- Envia também uma notificação no Slack com os mesmos dados.
+- Envia também uma notificaçêo no Slack com os mesmos dados.
 - Só erros que “quebram” o fluxo (executam em vermelho) disparam o logger.
 - Ideal para centralizar e automatizar o controle de falhas em projetos com múltiplos fluxos.
 

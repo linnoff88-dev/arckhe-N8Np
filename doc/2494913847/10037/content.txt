@@ -22,18 +22,18 @@ MENSAGEM 2
 Autor: INEMA
 Data: 2025-06-18T11:39:27+00:00
 Texto:
-Aqui está o **passo a passo completo** para montar a automação de criação de vídeos virais (estilo “gato pegando rato”) **sem código** usando **n8n**, **OpenAI**, **Supabase** e **Fail.AI**** (Minimax)**:
+Aqui está o **passo a passo completo** para montar a automaçêo de criaçêo de vídeos virais (estilo “gato pegando rato”) **sem código** usando **n8n**, **OpenAI**, **Supabase** e **Fail.AI**** (Minimax)**:
 
 ---
 
 ### **1. Criar o disparador (Schedule Trigger)**
 
-**Objetivo:** Definir quando a automação será executada.
+**Objetivo:** Definir quando a automaçêo será executada.
 
 * Adicione o nó **Schedule Trigger**
 * Configure o intervalo:
 
-  * Ex: a cada 1 dia às 8:00 da manhã
+  * Ex: a cada 1 dia às 8:00 da manhê
 * Teste o nó para garantir que dispara corretamente
 
 ---
@@ -61,7 +61,7 @@ O**bjetivo: **Criar a imagem baseada no prompt.
 * Adicione um H**TTP Request
 *** Método: P**OST
 *** URL: h`ttps://api.openai.com/v1/images/generations
-`* Corpo da requisição:
+`* Corpo da requisiçêo:
 
    ``` {
     "model": "gpt-image-1",
@@ -70,7 +70,7 @@ O**bjetivo: **Criar a imagem baseada no prompt.
     "size": "1024x1536"
   }
   
-```* Autenticação: API Key da OpenAI
+```* Autenticaçêo: API Key da OpenAI
 * Salve o b`ase64 `da imagem
 
 ---
@@ -79,7 +79,7 @@ O**bjetivo: **Criar a imagem baseada no prompt.
 **
 O**bjetivo: **Transformar base64 em arquivo utilizável.
 
-* Use o nó M**ove binary data **com função de b**ase64 para arquivo
+* Use o nó M**ove binary data **com funçêo de b**ase64 para arquivo
 *** Pegue o resultado do nó anterior (imagem)
 * Configure:
 
@@ -152,7 +152,7 @@ O**bjetivo: **Armazenar a imagem na nuvem.
 
 **  * Método: GE`T
  ` * URL: ht`tps://api.fail.ai/minimax/video-01/image-to-video/<request_id>
- ` * Autenticação: mesma usada no passo anterior
+ ` * Autenticaçêo: mesma usada no passo anterior
   * Resultado: link do vídeo gerado
 
 ---
@@ -170,11 +170,11 @@ O**bjetivo: **Armazenar a imagem na nuvem.
 ### Re**sumo visual dos nós no n8n:
 
 **1. Sc`hedule Trigger
-2`. LL`M (OpenRouter) →` Geração do prompt
-3. HT`TP Request (OpenAI) →` Geração da imagem
-4. Mo`ve Binary Data →` Conversão base64
+2`. LL`M (OpenRouter) →` Geraçêo do prompt
+3. HT`TP Request (OpenAI) →` Geraçêo da imagem
+4. Mo`ve Binary Data →` Conversêo base64
 5. HT`TP Request (Supabase) →` Upload imagem
-6. HT`TP Request (Fail.AI) →` Geração de vídeo
+6. HT`TP Request (Fail.AI) →` Geraçêo de vídeo
 7. Wa`it →` Aguardar processamento
 8. HT`TP Request (GET Fail.AI) →` Recuperar vídeo
 Midia: MessageMediaWebPage
@@ -194,23 +194,23 @@ Data: 2025-06-18T11:37:18+00:00
 Texto:
 **Resumo : "Steal This 388 Million Views Video System Before It’s Too Late "**
 
-Como criar vídeos virais como o de um gato pegando um rato, que teve mais de 388 milhões de visualizações, usando uma automação no **n8n**, **sem código**.
+Como criar vídeos virais como o de um gato pegando um rato, que teve mais de 388 milhões de visualizações, usando uma automaçêo no **n8n**, **sem código**.
 
 **Resumo por tópicos com exemplos e respostas:**
 
-1. **Inspiração do conteúdo**
+1. **Inspiraçêo do conteúdo**
 
    * Canal com **11 vídeos e 371 mil inscritos**.
    * Vídeo mais popular: **gato malhado armando armadilha para rato com queijo**.
    * Sem trilha sonora, estilo simples e eficaz.
    * Exemplo de sucesso viral por manter o público curioso.
 
-2. **Motivo da viralização**
+2. **Motivo da viralizaçêo**
 
-   * Expectativa da armadilha prendendo o rato gera **retenção de audiência**.
+   * Expectativa da armadilha prendendo o rato gera **retençêo de audiência**.
    * Conteúdo simples com **alto poder de engajamento visual**.
 
-3. **Automação completa no n8n**
+3. **Automaçêo completa no n8n**
 
    * Criado um **workflow pronto para replicar o vídeo automaticamente**.
 
@@ -220,15 +220,15 @@ Como criar vídeos virais como o de um gato pegando um rato, que teve mais de 38
    * **Gerador de prompt** com modelo de linguagem (ex: GPT-4 mini via OpenRouter).
 
      * Exemplo de prompt: criar imagem realista de gato armando armadilha.
-   * **Geração da imagem** com modelo da OpenAI (`gpt-image-1`) via `HTTP Request`.
-   * **Conversão base64 para arquivo**.
-   * **Armazenamento da imagem** no Supabase (requisição `POST` com bucket público).
-   * **Geração do vídeo** com modelo **Minimax** (da plataforma Fail.AI).
+   * **Geraçêo da imagem** com modelo da OpenAI (`gpt-image-1`) via `HTTP Request`.
+   * **Conversêo base64 para arquivo**.
+   * **Armazenamento da imagem** no Supabase (requisiçêo `POST` com bucket público).
+   * **Geraçêo do vídeo** com modelo **Minimax** (da plataforma Fail.AI).
 
      * Gera vídeo a partir da imagem estática.
-     * Autenticação com `API Key` e cabeçalho `Authorization`.
+     * Autenticaçêo com `API Key` e cabeçalho `Authorization`.
    * **Tempo de espera**: adicionado delay de 5 minutos para processamento.
-   * **Recuperação do vídeo** via requisição `GET`.
+   * **Recuperaçêo do vídeo** via requisiçêo `GET`.
 
 5. **Ferramentas utilizadas**
 
@@ -245,8 +245,8 @@ Como criar vídeos virais como o de um gato pegando um rato, que teve mais de 38
    * Template completo está disponível na comunidade do criador.
    * Pode ser adaptado para outros animais ou situações.
 
-**Conclusão:**
-Você pode replicar um sistema que gerou **388 milhões de views** com vídeos simples e virais de gatos armando armadilhas, usando IA e automação **no-code** com n8n, OpenAI, Supabase e Fail.AI.
+**Conclusêo:**
+Você pode replicar um sistema que gerou **388 milhões de views** com vídeos simples e virais de gatos armando armadilhas, usando IA e automaçêo **no-code** com n8n, OpenAI, Supabase e Fail.AI.
 
 ------------------------------
 
@@ -258,13 +258,13 @@ Texto:
 
 **Prompt de Imagem**
 
-Gere um prompt detalhado para um gerador de imagens por IA. O tema é um gato malhado. Ele está armando habilidosamente uma armadilha para um rato usando um queijo (por exemplo, uma peneira de cozinha, cesto, ratoeira, tigela). O cenário deve ser um ambiente doméstico aconchegante (como uma cozinha, sala de estar ou escritório), em um estilo fotográfico natural com iluminação realista. A iluminação deve ser de uma cena de manhã clara, com luz solar forte e acolhedora. Forneça o prompt da imagem diretamente, sem título nem explicação.
+Gere um prompt detalhado para um gerador de imagens por IA. O tema é um gato malhado. Ele está armando habilidosamente uma armadilha para um rato usando um queijo (por exemplo, uma peneira de cozinha, cesto, ratoeira, tigela). O cenário deve ser um ambiente doméstico aconchegante (como uma cozinha, sala de estar ou escritório), em um estilo fotográfico natural com iluminaçêo realista. A iluminaçêo deve ser de uma cena de manhê clara, com luz solar forte e acolhedora. Forneça o prompt da imagem diretamente, sem título nem explicaçêo.
 
 **Exemplo de Prompt de Imagem Gerado:**
 
-Um gato malhado esperto arma uma armadilha em uma cozinha moderna, segurando delicadamente uma cordinha com a pata. A armadilha consiste em uma peneira de metal, posicionada sobre um pedaço de queijo triangular em um descanso cinza. Um pequeno rato marrom se aproxima cautelosamente do queijo, sem saber da armadilha iminente. O gato observa em silêncio com os olhos focados, pronto para soltar a corda. Iluminação suave e quente e profundidade de campo rasa destacam a tensão humorística da cena. Ao fundo, detalhes sutis da cozinha, como paredes com azulejos e bancadas de madeira, reforçam a atmosfera doméstica acolhedora. A imagem é nítida, fotorrealista, divertida e cinematográfica, com uma paleta de cores natural e narrativa encantadora.
+Um gato malhado esperto arma uma armadilha em uma cozinha moderna, segurando delicadamente uma cordinha com a pata. A armadilha consiste em uma peneira de metal, posicionada sobre um pedaço de queijo triangular em um descanso cinza. Um pequeno rato marrom se aproxima cautelosamente do queijo, sem saber da armadilha iminente. O gato observa em silêncio com os olhos focados, pronto para soltar a corda. Iluminaçêo suave e quente e profundidade de campo rasa destacam a tensêo humorística da cena. Ao fundo, detalhes sutis da cozinha, como paredes com azulejos e bancadas de madeira, reforçam a atmosfera doméstica acolhedora. A imagem é nítida, fotorrealista, divertida e cinematográfica, com uma paleta de cores natural e narrativa encantadora.
 
-**Geração de Imagem com IA da OpenAI**
+**Geraçêo de Imagem com IA da OpenAI**
 
 ```{
   "model": "gpt-image-1",
@@ -277,7 +277,7 @@ Um gato malhado esperto arma uma armadilha em uma cozinha moderna, segurando del
 
 ```https://[URL do Projeto]/storage/v1/object/[Nome do Bucket Público]/{{ $now.format('yyyyMMddHHmmss')}}_tmpimage.png```
 
-G**eração de Vídeo com Minimax
+G**eraçêo de Vídeo com Minimax
 **
 {```
   "image_url": "https://gdrxrpfqehlcglamyemm.supabase.co/storage/v1/object/public/{{ $json.Key }}",

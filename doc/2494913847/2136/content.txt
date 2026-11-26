@@ -42,12 +42,12 @@ Texto:
 2. Escolha **"Send Email"**.  
 3. Configure os seguintes campos:  
    - **To:** `{{$json["user_email"]}}`  
-   - **Subject:** `"Confirmação do seu agendamento"`  
+   - **Subject:** `"Confirmaçêo do seu agendamento"`  
    - **Message:**  
      ```     Olá {{$json["user_name"]}}, <br>
      Seu agendamento com Jack foi confirmado para {{$json["appointment_time"]}}.  
      ```
-4. Conecte esse nó ao **nó de agendamento** para que o e-mail seja enviado após a confirmação.  
+4. Conecte esse nó ao **nó de agendamento** para que o e-mail seja enviado após a confirmaçêo.  
 
 ---
 
@@ -66,16 +66,16 @@ Depois que o processo for concluído, precisamos enviar uma resposta de volta ao
 ---
 
 ## **7️⃣ Testar e Ajustar o Fluxo**  
-1. Ative o Webhook e envie uma **solicitação de teste** a partir do ElevenLabs.  
-2. Verifique se os nós de **Google Calendar** e **Gmail** estão funcionando corretamente.  
-3. Corrija possíveis erros de autenticação ou campos mal preenchidos.  
+1. Ative o Webhook e envie uma **solicitaçêo de teste** a partir do ElevenLabs.  
+2. Verifique se os nós de **Google Calendar** e **Gmail** estêo funcionando corretamente.  
+3. Corrija possíveis erros de autenticaçêo ou campos mal preenchidos.  
 4. Teste diferentes comandos para garantir que o agente responde corretamente.  
 
 ---
 
 ## **8️⃣ Publicar o Workflow e Automatizar**  
-1. Clique em **“Activate Workflow”** para ativar o fluxo de automação.  
-2. Copie a **URL do Webhook** final e adicione ao ElevenLabs para garantir a comunicação contínua.  
+1. Clique em **“Activate Workflow”** para ativar o fluxo de automaçêo.  
+2. Copie a **URL do Webhook** final e adicione ao ElevenLabs para garantir a comunicaçêo contínua.  
 3. Teste o agente no site ou aplicativo integrado.  
 
 ---
@@ -94,7 +94,7 @@ Texto:
 
 ## **1️⃣ Criar uma Conta e Configurar o n8n**  
 1. Acesse **[****n8n.io****](****https://n8n.io****)** e **crie uma conta**.  
-2. Após o login, clique em **“Workflows”** e, em seguida, em **“+ Create Workflow”** para criar um novo fluxo de automação.  
+2. Após o login, clique em **“Workflows”** e, em seguida, em **“+ Create Workflow”** para criar um novo fluxo de automaçêo.  
 3. Dê um nome ao fluxo, por exemplo: **"Agente de Voz JD Gyms"**.  
 
 ---
@@ -109,7 +109,7 @@ Um **Webhook** é um ponto de entrada que permite que o agente de voz do **Eleve
 3. Configure o Webhook da seguinte forma:  
    - **Método:** **POST** (o agente de voz enviará os dados para o n8n).  
    - **Path:** Defina um nome como **“voice-agent-webhook”**.  
-   - **Respond immediately:** Marque como **"Sim"** para que o ElevenLabs não fique esperando a resposta do n8n.  
+   - **Respond immediately:** Marque como **"Sim"** para que o ElevenLabs nêo fique esperando a resposta do n8n.  
 4. **Copie a URL gerada**, pois ela será usada no ElevenLabs.  
 
 ### 🔹 Testando o Webhook  
@@ -145,11 +145,11 @@ else if (input.message.includes("enviar e-mail") || input.message.includes("conf
 }
 
 return [{ action }];```
-Isso permite que o fluxo decida qual ação tomar com base na mensagem do usuário.  
+Isso permite que o fluxo decida qual açêo tomar com base na mensagem do usuário.  
 
 ---
 
-## **4️⃣ Criar a Integração com o Google Calendar**  
+## **4️⃣ Criar a Integraçêo com o Google Calendar**  
 O próximo passo é conectar o **Google Calendar** para verificar horários e marcar compromissos.  
 
 ### 🔹 Adicionar o Nó de Google Calendar  
@@ -171,8 +171,8 @@ O próximo passo é conectar o **Google Calendar** para verificar horários e ma
    - **Description:** `"Agendamento confirmado."`  
 
 ### 🔹 Conectar os Nós ao Processador de Comandos  
-- Se a ação detectada for `"check_availability"`, o fluxo direciona para o nó **Google Calendar "Get Many Events"**.  
-- Se a ação for `"schedule_appointment"`, o fluxo passa pelo nó **"Create an Event"**.  
+- Se a açêo detectada for `"check_availability"`, o fluxo direciona para o nó **Google Calendar "Get Many Events"**.  
+- Se a açêo for `"schedule_appointment"`, o fluxo passa pelo nó **"Create an Event"**.  
 
 ---
 
@@ -206,21 +206,21 @@ Texto:
 
 #### **2️⃣ Acessar a Área de Agentes de Voz**  
 - No painel do ElevenLabs, vá para a aba **"Agents"**.  
-- Clique no **botão “+ Criar Novo Agente”**.  
+- Clique no **botêo “+ Criar Novo Agente”**.  
 
 #### **3️⃣ Nomear e Definir o Agente**  
 - Escolha um nome para o agente (ex: **"Jack Helper"**).  
-- Selecione um **modelo de IA** (Gemini 1.5 Flash para baixa latência ou GPT-4 Turbo para precisão).  
+- Selecione um **modelo de IA** (Gemini 1.5 Flash para baixa latência ou GPT-4 Turbo para precisêo).  
 - Escolha uma **voz** (pode ser uma gerada ou personalizada).  
 
 #### **4️⃣ Criar o Prompt do Agente**  
-- Escreva um **sistema prompt** curto e objetivo, definindo a personalidade e função do agente.  
+- Escreva um **sistema prompt** curto e objetivo, definindo a personalidade e funçêo do agente.  
   **Exemplo de prompt:**  
   *"Você é um assistente de voz amigável para a academia JD Gyms. Seu trabalho é responder perguntas sobre planos e agendar consultas. Mantenha um tom natural e educado."*  
 - Evite prompts muito longos para evitar erros e respostas confusas.  
 
 #### **5️⃣ Definir as Ferramentas do Agente**  
-- Vá até a seção **"Tools"** e adicione ferramentas como:  
+- Vá até a seçêo **"Tools"** e adicione ferramentas como:  
   - **Calendário** para agendamentos.  
   - **E-mail** para confirmações.  
   - **Banco de dados** para informações do site (usando RAG).  
@@ -232,20 +232,20 @@ Texto:
   - **Arquivo:** Faça upload de documentos importantes.  
   - **Texto Manual:** Digite informações diretamente.  
 
-#### **7️⃣ Ajustar a Configuração de Voz**  
-- Vá para a seção **"Voice Settings"** e escolha:  
+#### **7️⃣ Ajustar a Configuraçêo de Voz**  
+- Vá para a seçêo **"Voice Settings"** e escolha:  
   - **Velocidade da fala**  
   - **Tom de voz (mais natural ou robótico)**  
   - **Latência (resposta rápida ou detalhada)**  
 
-#### **8️⃣ Gerar e Copiar o Código de Integração**  
-- Vá até **"Embed"** e copie o código de incorporação para integrar o agente ao site.  
+#### **8️⃣ Gerar e Copiar o Código de Integraçêo**  
+- Vá até **"Embed"** e copie o código de incorporaçêo para integrar o agente ao site.  
 - **Personalize cores e layout** do widget para combinar com a identidade visual da empresa.  
 
 #### **9️⃣ Testar o Agente e Ajustar Configurações**  
 - Faça **testes de conversa** para verificar se ele responde corretamente.  
 - Ajuste **o prompt, a base de conhecimento e a latência** conforme necessário.  
-- **Corrija erros** e otimize as respostas antes da implementação final.  
+- **Corrija erros** e otimize as respostas antes da implementaçêo final.  
 
 #### **🔟 Integrar o Agente com Outros Sistemas (Opcional)**  
 - Use **n8n ou ****Make.com** para conectar o agente com **calendário, e-mail, WhatsApp e outros serviços**.  
@@ -291,14 +291,14 @@ O vídeo menciona **o valor e o custo** do agente de voz criado com **n8n e Elev
 ### **Detalhes sobre o Custo:**  
 - **Plano do ElevenLabs:** **$22/mês** inclui **250 minutos grátis**.  
 - **Custo adicional:** **$7,20 por hora** após os minutos gratuitos.  
-- Comparação com um atendente humano: **muito mais barato do que contratar um serviço de atendimento ao cliente.**  
+- Comparaçêo com um atendente humano: **muito mais barato do que contratar um serviço de atendimento ao cliente.**  
 
-### **Redução de Custos**  
+### **Reduçêo de Custos**  
 - **Menos latência** e **mais eficiência** ao usar **modelos otimizados** como Gemini 1.5 Flash.  
-- **Automação reduz a necessidade de equipe humana**, diminuindo custos operacionais.  
-- **Integração fácil com n8n e outras plataformas**, sem necessidade de programação avançada.  
+- **Automaçêo reduz a necessidade de equipe humana**, diminuindo custos operacionais.  
+- **Integraçêo fácil com n8n e outras plataformas**, sem necessidade de programaçêo avançada.  
 
-**💡 Conclusão:** A solução é **50% mais barata** do que alternativas tradicionais de atendimento e pode ser aplicada a diversos negócios para **economizar tempo e dinheiro.**
+**💡 Conclusêo:** A soluçêo é **50% mais barata** do que alternativas tradicionais de atendimento e pode ser aplicada a diversos negócios para **economizar tempo e dinheiro.**
 
 ------------------------------
 
@@ -316,43 +316,43 @@ Data: 2025-03-07T17:40:07+00:00
 Texto:
 ### **Tópicos abordados no vídeo: Como Criar Agentes de Voz com IA (50% Mais Barato)**  
 
-#### **1. Introdução ao Projeto**  
-- Apresentação dos **agentes de voz com IA** usando **n8n + ElevenLabs**  
-- Benefícios: **baixo custo, baixa latência e fácil integração**  
-- Demonstração de um agente real para uma academia  
+#### **1. Introduçêo ao Projeto**  
+- Apresentaçêo dos **agentes de voz com IA** usando **n8n + ElevenLabs**  
+- Benefícios: **baixo custo, baixa latência e fácil integraçêo**  
+- Demonstraçêo de um agente real para uma academia  
 
-#### **2. Configuração do Agente de Voz no ElevenLabs**  
-- Criação do agente de voz **Jack Helper**  
+#### **2. Configuraçêo do Agente de Voz no ElevenLabs**  
+- Criaçêo do agente de voz **Jack Helper**  
 - Escolha de modelos de IA (Gemini, GPT-4 Turbo, Claude) e seus trade-offs  
-- Ajustes na latência e otimização do tempo de resposta  
-- Definição do **sistema prompt** para orientar o comportamento do agente  
+- Ajustes na latência e otimizaçêo do tempo de resposta  
+- Definiçêo do **sistema prompt** para orientar o comportamento do agente  
 
-#### **3. Integração com n8n para Automação**  
-- Adição de ferramentas ao agente de voz (**calendário, e-mails, base de conhecimento**)  
-- Uso de **Webhooks** para comunicação entre **n8n e ElevenLabs**  
-- Configuração de **requisições GET e POST** para obter e registrar informações  
+#### **3. Integraçêo com n8n para Automaçêo**  
+- Adiçêo de ferramentas ao agente de voz (**calendário, e-mails, base de conhecimento**)  
+- Uso de **Webhooks** para comunicaçêo entre **n8n e ElevenLabs**  
+- Configuraçêo de **requisições GET e POST** para obter e registrar informações  
 
 #### **4. Testes e Ajustes no Agente**  
-- Simulação de interações para validar a automação  
+- Simulaçêo de interações para validar a automaçêo  
 - Erros comuns e correções (e.g., problemas de e-mail e agendamento)  
 - Ajuste da estrutura de prompts para otimizar respostas  
 
-#### **5. Aplicação do Agente em um Site Real**  
-- **Criação de um site interativo para uma academia** usando **Loable.dev**  
-- Integração do agente de voz no site via **widget do ElevenLabs**  
-- Personalização da interface e ajustes na experiência do usuário  
+#### **5. Aplicaçêo do Agente em um Site Real**  
+- **Criaçêo de um site interativo para uma academia** usando **Loable.dev**  
+- Integraçêo do agente de voz no site via **widget do ElevenLabs**  
+- Personalizaçêo da interface e ajustes na experiência do usuário  
 
-#### **6. Demonstração Prática do Agente em Funcionamento**  
+#### **6. Demonstraçêo Prática do Agente em Funcionamento**  
 - O agente **responde perguntas sobre planos e horários da academia**  
 - Ele **consulta disponibilidade no calendário e agenda sessões**  
-- **Confirmação automática** por e-mail para o cliente  
+- **Confirmaçêo automática** por e-mail para o cliente  
 
-#### **7. Conclusão e Próximos Passos**  
-- Revisão do processo e ajustes finais  
+#### **7. Conclusêo e Próximos Passos**  
+- Revisêo do processo e ajustes finais  
 - Sugestões para expandir a funcionalidade do agente  
 - Como aplicar a tecnologia em **outros tipos de negócios**  
 
-**🚀 O vídeo ensina a construir um agente de voz completo e integrado a sistemas reais, facilitando a automação de atendimento!**
+**🚀 O vídeo ensina a construir um agente de voz completo e integrado a sistemas reais, facilitando a automaçêo de atendimento!**
 
 ------------------------------
 
@@ -374,19 +374,19 @@ Neste vídeo, você aprende a construir **agentes de voz realistas usando n8n e 
 
 🔹 **Principais Funcionalidades:**  
 ✔️ Agentes de voz de **baixa latência e baixo custo**  
-✔️ **Integração com qualquer site ou app web**  
+✔️ **Integraçêo com qualquer site ou app web**  
 ✔️ Uso de **RAG (Retrieval-Augmented Generation)** para capturar informações diretamente de URLs  
-✔️ **Automação de tarefas**: marcar compromissos, responder perguntas e enviar e-mails  
+✔️ **Automaçêo de tarefas**: marcar compromissos, responder perguntas e enviar e-mails  
 ✔️ **Treinamento dinâmico** para personalizar o agente conforme as necessidades do negócio  
 
-🔹 **Processo de Construção:**  
+🔹 **Processo de Construçêo:**  
 1️⃣ Criar o agente de voz no **ElevenLabs**  
 2️⃣ Integrar com **n8n** para adicionar ferramentas como **calendário e e-mail**  
 3️⃣ Aplicar a um caso real, como um site de academia, para captar novos clientes automaticamente  
 
-🔹 **Demonstração Prática:**  
+🔹 **Demonstraçêo Prática:**  
 💬 O agente interage de forma natural, confirmando horários, agendando consultas e enviando confirmações por e-mail.   
-🔄 Durante o desenvolvimento, ajustes são feitos para otimizar o fluxo e garantir melhor resposta do modelo.  
+🔄 Durante o desenvolvimento, ajustes sêo feitos para otimizar o fluxo e garantir melhor resposta do modelo.  
 
 🔹 **Resultado Final:**  
 🚀 Um **agente de voz automatizado e interativo** que pode ser integrado a qualquer site para **responder dúvidas e agendar serviços** de forma eficiente e personalizada.  
@@ -402,10 +402,10 @@ Texto:
 ### 🏗️ Construa Agentes de Voz com n8n + ElevenLabs  
 
 💡 Ferramentas Essenciais:  
-🔥 **n8n**: [Automação avançada sem código](https://n8n.io/)  
+🔥 **n8n**: [Automaçêo avançada sem código](https://n8n.io/)  
 🔮 **Loveable**: [Plataforma para automações](https://lovable.dev/?via=inematds) (*)  
 👾 **Codepen**: [Explore tendências de código](https://codepen.io/trending?cursor=inematds)  
-🌍 **Eleven Labs**: [Conversão de texto em voz realista](https://elevenlabs.io/?from=inematds)
+🌍 **Eleven Labs**: [Conversêo de texto em voz realista](https://elevenlabs.io/?from=inematds)
 Midia: MessageMediaWebPage
 
 ------------------------------

@@ -13,7 +13,7 @@ MENSAGEM 1
 Autor: Arthur
 Data: 2025-03-19T12:47:01+00:00
 Texto:
-Se não quiser ver o vídeo .
+Se nêo quiser ver o vídeo .
 
 Senta e analisa a imagem.
 
@@ -88,9 +88,9 @@ verificar horários disponíveis.
 
 ---
 
-### **📊 Hacks para Monitoramento e Otimização**
+### **📊 Hacks para Monitoramento e Otimizaçêo**
 #### 1️⃣5️⃣ **Analisar conversas pós-chamada**
-- Depois da ligação, extraia **insights** para entender o que funciona melhor.
+- Depois da ligaçêo, extraia **insights** para entender o que funciona melhor.
 - **Hack:** Use IA para identificar padrões como:
   - Quais argumentos convenceram os clientes?
   - Quais dúvidas aparecem com mais frequência?
@@ -101,7 +101,7 @@ verificar horários disponíveis.
 - **Hack:** Use um número **Sideline ou Sardana** (custo fixo de $4/mês) para receber chamadas sem custos adicionais.
 
 #### 1️⃣7️⃣ **Adicionar gatilhos para remarketing**
-- Após uma conversa ou ligação, o bot pode enviar **mensagens de follow-up**.
+- Após uma conversa ou ligaçêo, o bot pode enviar **mensagens de follow-up**.
 - **Hack:** Automatize mensagens como:
   - **"Temos um desconto especial para você, válido até hoje!"**
   - **"Você ainda tem dúvidas? Podemos te ligar agora."**
@@ -109,7 +109,7 @@ verificar horários disponíveis.
 
 ---
 
-### **🚀 Hacks para Escalar a Automação**
+### **🚀 Hacks para Escalar a Automaçêo**
 #### 1️⃣8️⃣ **Criar diferentes perfis de assistentes**
 - Um mesmo sistema pode ter **agentes diferentes** para vendas, suporte e logística.
 - **Hack:** No Retell, defina **múltiplos agentes** e alterne entre eles conforme necessário.
@@ -118,16 +118,16 @@ verificar horários disponíveis.
 - Todos os clientes atendidos podem ser salvos em um banco de dados de **CRM**.
 - **Hack:** Conecte o N8N ao **HubSpot, Pipedrive ou Google Sheets** para registrar clientes potenciais.
 
-#### 2️⃣0️⃣ **Transformar a automação em um serviço pago**
+#### 2️⃣0️⃣ **Transformar a automaçêo em um serviço pago**
 - Empresas podem usar esse sistema para **vender consultorias** ou **gerenciar vendas de múltiplos clientes**.
 - **Hack:** Monte um SaaS (Software as a Service) com múltiplas integrações e cobre por volume de uso.
 
 ---
 
-## **📢 Conclusão**
-Essas **20 dicas e hacks** garantem que sua automação:
+## **📢 Conclusêo**
+Essas **20 dicas e hacks** garantem que sua automaçêo:
 ✅ **Seja eficiente e economize dinheiro.**  
-✅ **Atenda clientes com personalização e velocidade.**  
+✅ **Atenda clientes com personalizaçêo e velocidade.**  
 ✅ **Escale seu negócio sem precisar contratar mais atendentes.**  
 
 🚀 **Aplique esses hacks e tenha um sistema de vendas 100% automatizado!**
@@ -138,39 +138,39 @@ MENSAGEM 10
 Autor: INEMA
 Data: 2025-03-03T02:17:35+00:00
 Texto:
-Aqui estão todas as **dicas e hacks** mencionados no vídeo, organizadas por categorias para facilitar a implementação:
+Aqui estêo todas as **dicas e hacks** mencionados no vídeo, organizadas por categorias para facilitar a implementaçêo:
 
 ---
 
 ## **📌 Dicas e Hacks do Workshop**
-### **🔧 Hacks Técnicos (Configuração e Otimização)**
+### **🔧 Hacks Técnicos (Configuraçêo e Otimizaçêo)**
 #### 1️⃣ **Usar Ubuntu em vez de Windows Server para rodar o N8N**
 - O Windows Server 2022 apresenta problemas com permissões e Webhooks.
-- O Ubuntu simplifica a configuração e evita falhas de IP.
+- O Ubuntu simplifica a configuraçêo e evita falhas de IP.
 - **Hack:** Se precisar rodar no Windows, configure manualmente permissões de API.
 
-#### 2️⃣ **Evitar altos custos de automação usando N8N**
-- O Make cobra por operação, tornando-se caro com grandes volumes de mensagens.
-- O N8N, rodando localmente ou na nuvem, **não tem custo por operação**.
+#### 2️⃣ **Evitar altos custos de automaçêo usando N8N**
+- O Make cobra por operaçêo, tornando-se caro com grandes volumes de mensagens.
+- O N8N, rodando localmente ou na nuvem, **nêo tem custo por operaçêo**.
 - **Hack:** Para fluxos intensivos, mova tudo para N8N e reduza gastos em até 90%.
 
 #### 3️⃣ **Hospedar N8N por apenas 5 euros/mês**
-- Servidores baratos na DigitalOcean, Linode ou Vultr permitem rodar N8N sem custo por execução.
-- **Hack:** Escolha planos com pelo menos **2 CPUs e 4GB de RAM** para evitar lentidão.
+- Servidores baratos na DigitalOcean, Linode ou Vultr permitem rodar N8N sem custo por execuçêo.
+- **Hack:** Escolha planos com pelo menos **2 CPUs e 4GB de RAM** para evitar lentidêo.
 
 #### 4️⃣ **Usar NGINX como Proxy Reverso para acessar o N8N via HTTPS**
 - Permite acessar o N8N de qualquer lugar, sem depender de IPs internos.
 - **Hack:** Use o **Certbot** para gerar certificados SSL grátis.
 
 #### 5️⃣ **Armazenar histórico de conversas no PostgreSQL**
-- A IA poderá lembrar o que foi falado anteriormente, aumentando a personalização.
+- A IA poderá lembrar o que foi falado anteriormente, aumentando a personalizaçêo.
 - **Hack:** Caso prefira algo mais simples, armazene as interações como JSON no próprio N8N.
 
 ---
 
 ### **🤖 Hacks para Melhorar o Chatbot**
 #### 6️⃣ **Filtrar mensagens inúteis do WhatsApp Business API**
-- O WhatsApp envia notificações de leitura e status que são **desnecessárias para o bot**.
+- O WhatsApp envia notificações de leitura e status que sêo **desnecessárias para o bot**.
 - **Hack:** Use um nó `IF` no N8N para processar apenas mensagens de texto enviadas pelos clientes.
 
 #### 7️⃣ **Criar um agente de IA que responde com personalidade**
@@ -197,11 +197,11 @@ Aqui estão todas as **dicas e hacks** mencionados no vídeo, organizadas por ca
 
 #### 1️⃣1️⃣ **Passar todo o contexto da conversa para a chamada**
 - Em vez de apenas ligar, o agente Retell recebe **toda a conversa do WhatsApp** para entender o que foi discutido antes.
-- **Hack:** Use variáveis dinâmicas (`username`, `conversa`, `intenção de compra`) ao enviar os dados para a API do Retell.
+- **Hack:** Use variáveis dinâmicas (`username`, `conversa`, `intençêo de compra`) ao enviar os dados para a API do Retell.
 
 #### 1️⃣2️⃣ **Corrigir erros de JSON ao passar a conversa para Retell**
 - O JSON se quebra ao incluir quebras de linha (`\n`) nas mensagens.
-- **Hack:** Use esta função para remover os saltos de linha:
+- **Hack:** Use esta funçêo para remover os saltos de linha:
   ```  conversation.replace(/\n/g, " ")
   ```
 
@@ -209,11 +209,11 @@ Aqui estão todas as **dicas e hacks** mencionados no vídeo, organizadas por ca
 - Algumas vozes soam muito robóticas.
 - **Hack:** Teste diferentes modelos no Retell, como:
   - **Flash Multilingual** (mais natural).
-  - **Voices clonadas no ElevenLabs** (para personalização).
-  - **Voz padrão do GPT-4o** (boa opção custo-benefício).
+  - **Voices clonadas no ElevenLabs** (para personalizaçêo).
+  - **Voz padrêo do GPT-4o** (boa opçêo custo-benefício).
 
 #### 1️⃣4️⃣ **Agendar chamadas automaticamente**
-- Se o cliente não puder falar na hora, o bot pode **oferecer horários alternativos**.
+- Se o cliente nêo puder falar na hora, o bot pode **oferecer horários alternativos**.
 - **Hack:** Integre Retell com Google Calendar e use o webhook para
 
 ------------------------------
@@ -233,7 +233,7 @@ Texto:
 Sheets**
 1. **Crie uma planilha no Google Sheets** com colunas:
    - Nome do Produto
-   - Descrição
+   - Descriçêo
    - Benefícios
    - Preço
 2. No N8N, crie um **nó Google Sheets** e configure para buscar essas informações.
@@ -241,7 +241,7 @@ Sheets**
 
 ---
 
-## **🔄 8️⃣ Otimização e Testes**
+## **🔄 8️⃣ Otimizaçêo e Testes**
 - **Teste todas as conexões** entre WhatsApp, IA e Retell.
 - **Otimize os fluxos** para evitar chamadas desnecessárias.
 - **Ajuste os modelos de voz no Retell** para melhorar a naturalidade da chamada.
@@ -249,7 +249,7 @@ Sheets**
 
 ---
 
-## **🚀 9️⃣ Expansão e Melhorias Futuras**
+## **🚀 9️⃣ Expansêo e Melhorias Futuras**
 Agora que o sistema está rodando, você pode:
 - **Adicionar um sistema de agendamento** automático de chamadas.
 - **Incorporar análise de sentimentos** para ajustar o tom do chatbot.
@@ -258,8 +258,8 @@ Agora que o sistema está rodando, você pode:
 
 ---
 
-### **🎯 Conclusão**
-Seguindo este fluxo, você terá uma **automação comercial completa**, capaz de:
+### **🎯 Conclusêo**
+Seguindo este fluxo, você terá uma **automaçêo comercial completa**, capaz de:
 ✅ **Atender clientes automaticamente no WhatsApp**  
 ✅ **Manter um histórico de conversas**  
 ✅ **Realizar chamadas automatizadas para fechar vendas**  
@@ -273,16 +273,16 @@ MENSAGEM 13
 Autor: INEMA
 Data: 2025-03-03T02:17:09+00:00
 Texto:
-Aqui está o **fluxo de instalação e configuração passo a passo** de toda a automação apresentada no workshop. Este guia cobre desde a configuração do ambiente até a integração completa do WhatsApp, N8N, Retell e OpenAI.
+Aqui está o **fluxo de instalaçêo e configuraçêo passo a passo** de toda a automaçêo apresentada no workshop. Este guia cobre desde a configuraçêo do ambiente até a integraçêo completa do WhatsApp, N8N, Retell e OpenAI.
 
 ---
 
-# **📌 Fluxo de Instalação da Automação Comercial com WhatsApp e N8N**  
+# **📌 Fluxo de Instalaçêo da Automaçêo Comercial com WhatsApp e N8N**  
 ✅ **Objetivo**: Criar um sistema automatizado que responde clientes via WhatsApp, mantém memória conversacional e faz chamadas telefônicas para fechar vendas.  
 
-## **🛠 1️⃣ Preparação do Ambiente**
+## **🛠 1️⃣ Preparaçêo do Ambiente**
 **Antes de iniciar, escolha a infraestrutura para rodar o N8N**:
-- **Opção Recomendada**: **Servidor Ubuntu na Nuvem (5€ por mês)**
+- **Opçêo Recomendada**: **Servidor Ubuntu na Nuvem (5€ por mês)**
 - **Alternativa**: Windows Server 2022 (possíveis problemas com permissões)
   
 ### **🖥 Criando o Servidor na Nuvem**
@@ -330,7 +330,7 @@ Para acessar o N8N externamente, configure um domínio e um proxy reverso com **
 3. Configure o NGINX com o domínio:
    ```   sudo nano /etc/nginx/sites-available/n8n
    ```
-   **Adicione esta configuração:**
+   **Adicione esta configuraçêo:**
    ```   server {
        server_name seu-dominio.com;
 
@@ -366,7 +366,7 @@ Para receber mensagens do WhatsApp no N8N:
    - Vá para W**ebhook **e cole a URL do N8N.
 5. Teste enviando uma mensagem para o número do WhatsApp.
 
-Agora, todas as mensagens recebidas no WhatsApp serão capturadas pelo N8N.
+Agora, todas as mensagens recebidas no WhatsApp serêo capturadas pelo N8N.
 
 ---
 
@@ -415,28 +415,28 @@ corrigidos problemas no **mapeamento de variáveis** (como nome do cliente e dad
 
 ---
 
-### **1️⃣2️⃣ Comparação de Custos: N8N vs. Make**
-- O **Make** cobra por operação, tornando-se **muito caro** para automações com alto volume.
-- O **N8N**, quando hospedado localmente, **não tem custo por operação**.
+### **1️⃣2️⃣ Comparaçêo de Custos: N8N vs. Make**
+- O **Make** cobra por operaçêo, tornando-se **muito caro** para automações com alto volume.
+- O **N8N**, quando hospedado localmente, **nêo tem custo por operaçêo**.
 - Para quem recebe **milhares de mensagens por dia**, o **N8N é até 10 vezes mais barato** do que Make.
 
 ---
 
-### **1️⃣3️⃣ Explicação sobre RAG (Retrieval-Augmented Generation)**
-- **RAG** é uma técnica usada para **melhorar a precisão das respostas** da IA.
+### **1️⃣3️⃣ Explicaçêo sobre RAG (Retrieval-Augmented Generation)**
+- **RAG** é uma técnica usada para **melhorar a precisêo das respostas** da IA.
 - Em vez de buscar respostas em uma **base genérica**, a IA busca **dados atualizados e específicos**.
 - No contexto do agente virtual, um **RAG permitiria melhorar as respostas sobre os produtos**.
 
 ---
 
-### **1️⃣4️⃣ Criação de um Assistente de Voz com Retell**
+### **1️⃣4️⃣ Criaçêo de um Assistente de Voz com Retell**
 - Foi configurado um **agente de voz no Retell** para atender clientes que preferem ligações.
-- O tom de voz foi personalizado para tornar a interação mais **natural**.
+- O tom de voz foi personalizado para tornar a interaçêo mais **natural**.
 - O agente foi programado para seguir **diferentes fluxos de conversa**, dependendo das respostas do cliente.
 
 ---
 
-### **1️⃣5️⃣ Configuração das Credenciais do Retell**
+### **1️⃣5️⃣ Configuraçêo das Credenciais do Retell**
 - Foram geradas as credenciais para conectar o Retell ao N8N:
   1. **API Key** → Para autenticar as chamadas.
   2. **ID do Telefone** → Definir o número usado para ligações.
@@ -453,25 +453,25 @@ corrigidos problemas no **mapeamento de variáveis** (como nome do cliente e dad
 
 ### **1️⃣7️⃣ Funções Extras do Retell**
 - O Retell pode ser **integrado ao calendário** para agendar chamadas automaticamente.
-- Foi demonstrado como **enviar um webhook** para disparar notificações após uma ligação.
+- Foi demonstrado como **enviar um webhook** para disparar notificações após uma ligaçêo.
 - Exemplos práticos foram apresentados para conectar Retell ao N8N de forma eficiente.
 
 ---
 
 ### **1️⃣8️⃣ Encerramento e Próximos Passos**
-- Foi anunciado um **tutorial sobre instalação do N8N no Ubuntu**.
-- Foi sugerida a criação de um **minicurso sobre Retell** para aprofundar no tema.
-- Foram discutidos ajustes e otimizações futuras para aprimorar a automação.
+- Foi anunciado um **tutorial sobre instalaçêo do N8N no Ubuntu**.
+- Foi sugerida a criaçêo de um **minicurso sobre Retell** para aprofundar no tema.
+- Foram discutidos ajustes e otimizações futuras para aprimorar a automaçêo.
 
 ---
 
 ## **📌 Resumo Final**
-A automação criada no workshop permite **um fluxo de vendas altamente eficiente**, combinando **WhatsApp, IA e chamadas automáticas**. Com essa tecnologia, é possível:
+A automaçêo criada no workshop permite **um fluxo de vendas altamente eficiente**, combinando **WhatsApp, IA e chamadas automáticas**. Com essa tecnologia, é possível:
 - **Filtrar e qualificar leads automaticamente**.
 - **Agilizar vendas** com respostas e ligações imediatas.
 - **Reduzir custos operacionais**, eliminando a necessidade de suporte humano para interações simples.
 
-🚀 **Essa solução pode transformar completamente o atendimento e as vendas de qualquer negócio!**
+🚀 **Essa soluçêo pode transformar completamente o atendimento e as vendas de qualquer negócio!**
 
 ------------------------------
 
@@ -479,54 +479,54 @@ MENSAGEM 16
 Autor: INEMA
 Data: 2025-03-03T02:16:46+00:00
 Texto:
-Aqui está a explicação detalhada de **cada tópico** abordado na transcrição do workshop de **Automação Comercial com WhatsApp e N8N**.
+Aqui está a explicaçêo detalhada de **cada tópico** abordado na transcriçêo do workshop de **Automaçêo Comercial com WhatsApp e N8N**.
 
 ---
 
-### **1️⃣ Introdução ao Workshop**
-O workshop apresenta uma solução de automação comercial para **WhatsApp**, usando **N8N, Retell e OpenAI**, com o objetivo de criar um **agente virtual** que:
+### **1️⃣ Introduçêo ao Workshop**
+O workshop apresenta uma soluçêo de automaçêo comercial para **WhatsApp**, usando **N8N, Retell e OpenAI**, com o objetivo de criar um **agente virtual** que:
 - **Responde automaticamente a clientes via WhatsApp.**
 - **Filtra leads qualificados.**
 - **Faz chamadas automáticas para fechar vendas.**
 
-A proposta é agilizar o atendimento e aumentar as taxas de conversão, eliminando a necessidade de um humano intervir em todas as conversas.
+A proposta é agilizar o atendimento e aumentar as taxas de conversêo, eliminando a necessidade de um humano intervir em todas as conversas.
 
 ---
 
 ### **2️⃣ Ferramentas Utilizadas**
-Para construir a automação, foram usadas várias ferramentas:
-- **N8N**: Plataforma de automação **sem código**, que conecta diferentes sistemas.
+Para construir a automaçêo, foram usadas várias ferramentas:
+- **N8N**: Plataforma de automaçêo **sem código**, que conecta diferentes sistemas.
 - **Retell**: Serviço de **chamadas automatizadas**, usado para **ligar automaticamente para clientes**.
 - **OpenAI (GPT-4)**: Utilizado para **gerar respostas inteligentes e personalizadas** no WhatsApp.
 - **Google Sheets**: Funciona como **banco de dados** para armazenar informações dos produtos.
-- **Windows Server 2022 e Ubuntu**: Comparação entre os dois sistemas para rodar o N8N.
+- **Windows Server 2022 e Ubuntu**: Comparaçêo entre os dois sistemas para rodar o N8N.
 
 ---
 
-### **3️⃣ Configuração do Ambiente**
+### **3️⃣ Configuraçêo do Ambiente**
 Foram analisadas **duas opções de hospedagem** para rodar o N8N:
 - **Windows Server 2022**: Apresenta problemas com permissões e gerenciamento de IPs.
-- **Ubuntu**: **Mais recomendado**, pois facilita a configuração do N8N e reduz complicações.
+- **Ubuntu**: **Mais recomendado**, pois facilita a configuraçêo do N8N e reduz complicações.
 
-Também foi discutida a opção de **hospedar N8N em servidores na nuvem**, custando aproximadamente **5 euros por mês**.
+Também foi discutida a opçêo de **hospedar N8N em servidores na nuvem**, custando aproximadamente **5 euros por mês**.
 
 ---
 
-### **4️⃣ Integração do WhatsApp com N8N**
+### **4️⃣ Integraçêo do WhatsApp com N8N**
 - Conectou-se o **WhatsApp Business Cloud** ao N8N via **webhook**.
 - O webhook captura **automaticamente** todas as mensagens enviadas por clientes.
 - Foi necessário criar **filtros** para remover mensagens **irrelevantes** (como notificações de leitura e status).
 
 ---
 
-### **5️⃣ Criação do Agente Virtual no WhatsApp**
+### **5️⃣ Criaçêo do Agente Virtual no WhatsApp**
 - O agente virtual foi programado para **responder clientes automaticamente**.
 - Para isso, usa **GPT-4** e mantém **memória conversacional**, garantindo continuidade no atendimento.
 - O sistema foi projetado para identificar quando um cliente **precisa de mais informações** antes de uma compra.
 
 ---
 
-### **6️⃣ Estruturação do Agente Inteligente**
+### **6️⃣ Estruturaçêo do Agente Inteligente**
 - O agente foi configurado para responder com **linguagem natural e personalizada**.
 - Foram definidas **regras de comportamento** para evitar respostas genéricas ou inadequadas.
 - O agente pode usar **variáveis dinâmicas**, adaptando as respostas ao nome e histórico do cliente.
@@ -536,32 +536,32 @@ Também foi discutida a opção de **hospedar N8N em servidores na nuvem**, cust
 ### **7️⃣ Módulos do Agente Virtual**
 O agente foi dividido em **dois módulos principais**:
 1. **InfoTécnica** → Extrai informações dos produtos armazenados no **Google Sheets**.
-2. **Chamada Retell** → Ativa automaticamente uma **ligação telefônica** quando um cliente mostra interesse.
+2. **Chamada Retell** → Ativa automaticamente uma **ligaçêo telefônica** quando um cliente mostra interesse.
 
 ---
 
 ### **8️⃣ Uso do Google Sheets como Base de Conhecimento**
 - Foi criado um banco de dados no **Google Sheets**, contendo **descrições detalhadas dos produtos**.
 - O agente busca **automaticamente** essas informações para responder perguntas técnicas.
-- A vantagem é que **as informações podem ser atualizadas facilmente sem alterar a programação**.
+- A vantagem é que **as informações podem ser atualizadas facilmente sem alterar a programaçêo**.
 
 ---
 
-### **9️⃣ Execução de Chamadas Automatizadas com Retell**
-- Quando um cliente **demonstra interesse, mas não finaliza a compra**, o sistema aciona uma **ligação automática**.
+### **9️⃣ Execuçêo de Chamadas Automatizadas com Retell**
+- Quando um cliente **demonstra interesse, mas nêo finaliza a compra**, o sistema aciona uma **ligaçêo automática**.
 - A chamada é feita via **API do Retell** e é personalizada com o **contexto da conversa**.
 - Um **loop de tentativas** foi implementado para garantir que a chamada ocorra sem falhas.
 
 ---
 
-### **🔟 Criação de Função de Memória para o Agente**
+### **🔟 Criaçêo de Funçêo de Memória para o Agente**
 - Testes foram feitos usando **PostgreSQL** para armazenar conversas passadas.
 - A ideia é garantir que o agente lembre **interações anteriores** e ofereça um atendimento **mais contextualizado**.
 - Alternativas para **evitar respostas repetitivas** foram exploradas.
 
 ---
 
-### **1️⃣1️⃣ Testes e Ajustes no Fluxo da Automação**
+### **1️⃣1️⃣ Testes e Ajustes no Fluxo da Automaçêo**
 - Foram realizadas simulações para testar a **fluidez das respostas** do agente.
 - Foram
 
@@ -580,22 +580,22 @@ Autor: INEMA
 Data: 2025-03-03T02:14:14+00:00
 Texto:
 permitindo um **atendimento mais contextualizado**.  
-✔ Comparação de **custos operacionais**, destacando que **o N8N pode ser até 10x mais barato** do que plataformas comerciais como **Make**.  
+✔ Comparaçêo de **custos operacionais**, destacando que **o N8N pode ser até 10x mais barato** do que plataformas comerciais como **Make**.  
 
 ---
 
 ## **📢 Conclusões e Próximos Passos**  
-✔ A automação permite **gerenciar vendas de forma eficiente e proativa**, combinando **chatbots e chamadas em tempo real**.  
+✔ A automaçêo permite **gerenciar vendas de forma eficiente e proativa**, combinando **chatbots e chamadas em tempo real**.  
 ✔ Planejamento para um **vídeo tutorial** explicando como **configurar um servidor em nuvem com Ubuntu e N8N**.  
-✔ Possível implementação de **RAGs (bases de conhecimento otimizadas para IA)** para tornar as respostas ainda mais precisas.  
+✔ Possível implementaçêo de **RAGs (bases de conhecimento otimizadas para IA)** para tornar as respostas ainda mais precisas.  
 ✔ Testes com **outros modelos de IA** para avaliar alternativas mais econômicas e especializadas que **GPT-4**.  
 
 ---  
 
 ### **📌 Resumo Final:**  
-Esta automação comercial **transforma o WhatsApp em um canal de vendas inteligente**, filtrando leads e acionando chamadas automáticas quando necessário. Isso resulta em **mais vendas fechadas, menos clientes perdidos e maior eficiência operacional**.  
+Esta automaçêo comercial **transforma o WhatsApp em um canal de vendas inteligente**, filtrando leads e acionando chamadas automáticas quando necessário. Isso resulta em **mais vendas fechadas, menos clientes perdidos e maior eficiência operacional**.  
 
-🔥 **Se você trabalha com captação de clientes e vendas online, essa solução pode revolucionar seu negócio!** 🔥
+🔥 **Se você trabalha com captaçêo de clientes e vendas online, essa soluçêo pode revolucionar seu negócio!** 🔥
 
 ------------------------------
 
@@ -603,16 +603,16 @@ MENSAGEM 19
 Autor: INEMA
 Data: 2025-03-03T02:14:14+00:00
 Texto:
-### **TDCC: 19/02 Automação Comercial com WhatsApp e N8N**  
+### **TDCC: 19/02 Automaçêo Comercial com WhatsApp e N8N**  
 
-Neste workshop de cocriação, foi desenvolvida uma **automação comercial avançada** utilizando **N8N, WhatsApp, Retell e OpenAI**. O objetivo principal foi criar um **agente virtual** capaz de interagir com clientes via **WhatsApp** e, caso não consiga concretizar uma venda, ativar **automaticamente uma chamada telefônica via Retell** para maximizar as oportunidades comerciais e reduzir o risco de perda de clientes.  
+Neste workshop de cocriaçêo, foi desenvolvida uma **automaçêo comercial avançada** utilizando **N8N, WhatsApp, Retell e OpenAI**. O objetivo principal foi criar um **agente virtual** capaz de interagir com clientes via **WhatsApp** e, caso nêo consiga concretizar uma venda, ativar **automaticamente uma chamada telefônica via Retell** para maximizar as oportunidades comerciais e reduzir o risco de perda de clientes.  
 
 ---
 
 ## **📌 Pontos-Chave**  
 
 ### **🎯 Objetivo do Workshop:**  
-✔ Criar uma **automação completa**, onde os clientes possam interagir pelo WhatsApp sem necessidade de intervenção humana inicial.  
+✔ Criar uma **automaçêo completa**, onde os clientes possam interagir pelo WhatsApp sem necessidade de intervençêo humana inicial.  
 ✔ Desenvolver um **fluxo automatizado** para identificar quando um cliente tem dúvidas persistentes e acionar **automaticamente uma chamada via Retell** para fechar a venda.  
 ✔ Utilizar **inteligência artificial (GPT-4, da OpenAI)** para personalizar as respostas e tornar o atendimento mais **natural e próximo**.  
 
@@ -621,7 +621,7 @@ Neste workshop de cocriação, foi desenvolvida uma **automação comercial avan
 ## **🛠️ Ferramentas Utilizadas**  
 
 ### **📌 N8N**  
-✅ Plataforma de **automação de fluxos de trabalho** sem código.  
+✅ Plataforma de **automaçêo de fluxos de trabalho** sem código.  
 ✅ Usada para integrar **WhatsApp, Retell, OpenAI e Google Sheets** em um fluxo coeso.  
 
 ### **📌 Retell**  
@@ -634,28 +634,28 @@ Neste workshop de cocriação, foi desenvolvida uma **automação comercial avan
 
 ### **📌 Google Sheets**  
 ✅ **Base de dados** com informações técnicas dos produtos comercializados.  
-✅ O agente virtual usa essas informações para responder **perguntas técnicas** com precisão.  
+✅ O agente virtual usa essas informações para responder **perguntas técnicas** com precisêo.  
 
 ### **📌 Windows Server 2022 e Ubuntu**  
-✅ O **N8N** foi testado em um servidor **Windows Server 2022**, mas recomendou-se **migrar para Ubuntu** para facilitar a configuração e evitar problemas com permissões e IPs.  
+✅ O **N8N** foi testado em um servidor **Windows Server 2022**, mas recomendou-se **migrar para Ubuntu** para facilitar a configuraçêo e evitar problemas com permissões e IPs.  
 
 ---
 
 ## **🔄 Fluxo de Trabalho**  
 
-### **⚙️ Configuração do Servidor**  
+### **⚙️ Configuraçêo do Servidor**  
 ✔ O **N8N foi configurado em um servidor virtual**, sendo uma alternativa **mais econômica** às plataformas comerciais.  
-✔ **Ubuntu** foi sugerido para melhor gestão de permissões e IPs.  
+✔ **Ubuntu** foi sugerido para melhor gestêo de permissões e IPs.  
 
-### **📲 Integração com WhatsApp**  
-✔ Conexão com **WhatsApp Business Cloud** via **webhook no N8N**.  
+### **📲 Integraçêo com WhatsApp**  
+✔ Conexêo com **WhatsApp Business Cloud** via **webhook no N8N**.  
 ✔ O webhook recebe e processa **automaticamente os chats**.  
 
 ### **📊 Filtragem de Mensagens**  
-✔ Uso da função **"If" no N8N** para processar **apenas mensagens relevantes**.  
+✔ Uso da funçêo **"If" no N8N** para processar **apenas mensagens relevantes**.  
 ✔ O agente **ignora mensagens vazias ou irrelevantes**.  
 
-### **🤖 Configuração do Agente Inteligente**  
+### **🤖 Configuraçêo do Agente Inteligente**  
 ✔ Criado um **agente virtual** com **GPT-4** para responder às mensagens.  
 ✔ Configurado para responder em um **tom próximo e coloquial**, adaptado para **vendas de produtos femininos**.  
 
@@ -663,11 +663,11 @@ Neste workshop de cocriação, foi desenvolvida uma **automação comercial avan
 📌 **InfoTécnica** → Extrai informações técnicas do **Google Sheets** para responder dúvidas.  
 📌 **Chamada Retell** → Aciona **automaticamente** uma chamada quando necessário.  
 
-### **💬 Automação de Respostas**  
+### **💬 Automaçêo de Respostas**  
 ✔ O agente responde automaticamente via **WhatsApp**, com informações detalhadas e personalizadas.  
 ✔ As respostas se adaptam às perguntas do cliente, garantindo **uma experiência mais fluida**.  
 
-### **📞 Execução de Chamadas com Retell**  
+### **📞 Execuçêo de Chamadas com Retell**  
 ✔ O N8N foi configurado para **fazer chamadas automáticas** via **Retell**.  
 ✔ O sistema identifica **quando o cliente precisa de mais informações** e aciona a chamada **em tempo real**.  
 ✔ Uso de **módulo HTTP Request no N8N** para integrar com a API do **Retell**.  
@@ -680,10 +680,10 @@ Neste workshop de cocriação, foi desenvolvida uma **automação comercial avan
 
 ---
 
-## **🚀 Otimização do Fluxo**  
-✔ Redução de conexões e módulos desnecessários no **N8N**.  
+## **🚀 Otimizaçêo do Fluxo**  
+✔ Reduçêo de conexões e módulos desnecessários no **N8N**.  
 ✔ Uso de **webhooks internos** para aumentar a **velocidade de processamento**.  
-✔ Sugestão de armazenamento em **PostgreSQL** para histórico de interações,
+✔ Sugestêo de armazenamento em **PostgreSQL** para histórico de interações,
 
 ------------------------------
 
@@ -726,27 +726,27 @@ Data: 2025-03-03T02:12:42+00:00
 Texto:
 🔥🔥🔥  OURO PURO 🔥🔥🔥  
 
-Os dois  workshops de cocriação em um grupo Espanhol foram uma verdadeira loucura. Se você ainda não assistiu, está perdendo algo MUITO grande! Nessas sessões, Alejandro Romero ensina como levou a automação do WhatsApp e chamadas para o próximo nível usando **Retell, N8N e Make**.  
+Os dois  workshops de cocriaçêo em um grupo Espanhol foram uma verdadeira loucura. Se você ainda nêo assistiu, está perdendo algo MUITO grande! Nessas sessões, Alejandro Romero ensina como levou a automaçêo do WhatsApp e chamadas para o próximo nível usando **Retell, N8N e Make**.  
 
 🔄 **O que criamos?**  
-🚀 Um **agente comercial automatizado no WhatsApp** que responde dúvidas e, quando detecta que um cliente não está convencido, faz uma chamada em tempo real com **Retell** para fechar a venda.  
-🔎 **Memória avançada com N8N**, permitindo que o bot lembre conversas anteriores e ofereça respostas personalizadas em cada interação.  
-🌟 **Integração com bancos de dados**, garantindo que a IA responda com informações precisas e em tempo real.  
+🚀 Um **agente comercial automatizado no WhatsApp** que responde dúvidas e, quando detecta que um cliente nêo está convencido, faz uma chamada em tempo real com **Retell** para fechar a venda.  
+🔎 **Memória avançada com N8N**, permitindo que o bot lembre conversas anteriores e ofereça respostas personalizadas em cada interaçêo.  
+🌟 **Integraçêo com bancos de dados**, garantindo que a IA responda com informações precisas e em tempo real.  
 💬 **Análise pós-chamada**, extraindo insights importantes das conversas para melhorar a experiência e otimizar o funil de vendas.  
-📈 **Redução drástica de custos**, montando tudo isso em **N8N e Retell**, evitando gastos excessivos com plataformas como **Make ou Twilio**.  
+📈 **Reduçêo drástica de custos**, montando tudo isso em **N8N e Retell**, evitando gastos excessivos com plataformas como **Make ou Twilio**.  
 
-🔮 **Por que isso é tão poderoso?**  
-Se você tem um negócio ou um cliente que depende da captação de leads e fechamento de vendas, essa automação é uma VERDADEIRA MÁQUINA. Imagine um chatbot que filtra consultas e, ao detectar uma oportunidade real, faz uma ligação com um **agente de voz IA** que fecha a venda em segundos.  
+🔮 **Por que isso é têo poderoso?**  
+Se você tem um negócio ou um cliente que depende da captaçêo de leads e fechamento de vendas, essa automaçêo é uma VERDADEIRA MÁQUINA. Imagine um chatbot que filtra consultas e, ao detectar uma oportunidade real, faz uma ligaçêo com um **agente de voz IA** que fecha a venda em segundos.  
 Sem esperas. Sem clientes desistindo. Sem perda de dinheiro.  
 
 📢 **E O MELHOR AINDA ESTÁ POR VIR**  
 🎉 Na próxima semana, lançaremos um **curso exclusivo sobre Retell**, com nosso especialista Alejandro, para que você aprenda a fundo como usar essa ferramenta incrível para automatizar chamadas telefônicas. **Spoiler:** Retell é atualmente melhor que Vapi em funcionalidades.  
-🚀 Além disso, estou desenvolvendo um **agente de IA conectado ao Retell** para realizar chamadas, então é essencial entender como ele funciona para **aproveitar ao máximo**.  
+🚀 Além disso, estou desenvolvendo um **agente de IA conectado ao Retell** para realizar chamadas, entêo é essencial entender como ele funciona para **aproveitar ao máximo**.  
 
-🚨 **Se você ainda não assistiu aos workshops, corra e veja AGORA!**  
-Aqui estão os links para as duas aulas:  
-📌 **Automação com WhatsApp, N8N e RETELL - PARTE 1**  
-📌 **Automação com WhatsApp, N8N e RETELL - PARTE 2**
+🚨 **Se você ainda nêo assistiu aos workshops, corra e veja AGORA!**  
+Aqui estêo os links para as duas aulas:  
+📌 **Automaçêo com WhatsApp, N8N e RETELL - PARTE 1**  
+📌 **Automaçêo com WhatsApp, N8N e RETELL - PARTE 2**
 
 ------------------------------
 

@@ -54,16 +54,16 @@ MENSAGEM 6
 Autor: INEMA
 Data: 2025-03-17T22:46:17+00:00
 Texto:
-### **Tópicos do Vídeo - Guia de Configuração do Ultimate No Code MCP**  
+### **Tópicos do Vídeo - Guia de Configuraçêo do Ultimate No Code MCP**  
 
-1. **Introdução ao MCP e n8n**  
-   - Explicação sobre o que é MCP  
+1. **Introduçêo ao MCP e n8n**  
+   - Explicaçêo sobre o que é MCP  
    - Como ele se conecta ao n8n  
-   - Benefícios de não precisar usar código  
+   - Benefícios de nêo precisar usar código  
 
 2. **Por que escolher a plataforma Aleso para auto-hospedagem?**  
    - Facilidade de uso  
-   - Instalação rápida  
+   - Instalaçêo rápida  
    - Conformidade com SOC 2 e GDPR  
 
 3. **Criando e configurando um servidor MCP no Aleso**  
@@ -73,20 +73,20 @@ Texto:
 
 4. **Instalando e acessando o n8n**  
    - Criando a instância e acessando o painel  
-   - Configuração inicial do ambiente  
+   - Configuraçêo inicial do ambiente  
 
 5. **Instalando o Nó da Comunidade MCP no n8n**  
    - Como encontrar e instalar o nó no painel do n8n  
    - Diferença entre nó nativo e nó da comunidade  
 
 6. **Conectando-se a servidores MCP no n8n**  
-   - Explicação sobre credenciais e autenticação  
+   - Explicaçêo sobre credenciais e autenticaçêo  
    - Como listar as ferramentas disponíveis  
 
 7. **Exemplo prático: Conectando ao MCP do Airbnb**  
    - Como configurar o comando MPX no n8n  
    - Ajuste dos parâmetros para buscar resultados  
-   - Testando a conexão e validando os retornos  
+   - Testando a conexêo e validando os retornos  
 
 8. **Criando um Agente de IA que usa MCP**  
    - Adicionando um chatbot ao n8n  
@@ -94,8 +94,8 @@ Texto:
    - Habilitando o agente para escolher e usar ferramentas MCP  
 
 9. **Resolvendo problemas comuns com MCP**  
-   - Erros de conexão e API Key  
-   - Configuração errada de variáveis de ambiente  
+   - Erros de conexêo e API Key  
+   - Configuraçêo errada de variáveis de ambiente  
    - Diferenças entre servidores MCP locais e na nuvem  
 
 10. **Exemplo com Brave Search API no MCP**  
@@ -109,8 +109,8 @@ Texto:
     - Como estruturar múltiplos passos para consultas complexas  
 
 12. **Limitantes do MCP e desafios atuais**  
-    - Algumas ferramentas MCP ainda não estão totalmente funcionais  
-    - Problemas com integração de alguns servidores específicos  
+    - Algumas ferramentas MCP ainda nêo estêo totalmente funcionais  
+    - Problemas com integraçêo de alguns servidores específicos  
     - Possível melhoria com um nó MCP oficial no futuro  
 
 13. **Encerramento e recomendações**  
@@ -133,7 +133,7 @@ Autor: INEMA
 Data: 2025-03-17T22:45:41+00:00
 Texto:
 **argumentos e variáveis de ambiente** necessárias.
-- Se um servidor não funcionar, pode ser um problema do lado do provedor.
+- Se um servidor nêo funcionar, pode ser um problema do lado do provedor.
 - Use **expressões no n8n** para que o agente selecione ferramentas dinamicamente.
 
 ---
@@ -144,12 +144,12 @@ MENSAGEM 9
 Autor: INEMA
 Data: 2025-03-17T22:45:41+00:00
 Texto:
-Aqui está um guia detalhado baseado no vídeo sobre **configuração do Ultimate No Code MCP**. Ele cobre **auto-hospedagem, instalação, configuração e resolução de problemas comuns**.
+Aqui está um guia detalhado baseado no vídeo sobre **configuraçêo do Ultimate No Code MCP**. Ele cobre **auto-hospedagem, instalaçêo, configuraçêo e resoluçêo de problemas comuns**.
 
 ---
 
-# **Guia Definitivo de Configuração do MCP Sem Código**  
-(Instalação, Auto-Hospedagem e Problemas Comuns)  
+# **Guia Definitivo de Configuraçêo do MCP Sem Código**  
+(Instalaçêo, Auto-Hospedagem e Problemas Comuns)  
 
 ## **O que é MCP e Por Que Usá-lo?**
 MCP (**Multi-Cloud Processing**) permite que agentes de IA acessem **ferramentas externas** sem precisar configurar APIs manualmente. Ele se conecta a serviços como **Airbnb, Brave Search, Airtable** e outros, sem precisar de código.
@@ -165,18 +165,18 @@ O vídeo usa a plataforma **Aleso**, mas você pode usar **Hetzner, Render, Digi
 1. **Criar uma conta na Aleso** (ou outra plataforma similar).
 2. **Configurar um método de pagamento** (se necessário).
 3. **Criar um serviço**:
-   - Busque **n8n** e selecione a opção de instalação rápida.
-   - Escolha **Hetzner** como provedor e selecione a região.
+   - Busque **n8n** e selecione a opçêo de instalaçêo rápida.
+   - Escolha **Hetzner** como provedor e selecione a regiêo.
    - Defina **RAM, CPU e armazenamento** conforme a demanda.
    - Defina um nome para o servidor (**ex.: n8n-demo**).
    - Habilite atualizações automáticas (opcional).
    - **Criar e ativar o serviço**.
-4. **Acesse o n8n** pelo domínio gerado e conclua a configuração inicial.
+4. **Acesse o n8n** pelo domínio gerado e conclua a configuraçêo inicial.
 
 ---
 
 ## **2. Instalando o Nó da Comunidade MCP no n8n**
-Como o MCP não é um nó oficial do n8n, precisamos instalar o **nó da comunidade**.
+Como o MCP nêo é um nó oficial do n8n, precisamos instalar o **nó da comunidade**.
 
 1. **Acesse as Configurações do n8n**.
 2. Vá para **Community Nodes**.
@@ -194,9 +194,9 @@ Agora, vamos configurar o **MCP Client** para conectar a um servidor específico
    - **Método:** POST  
    - **URL:** `http://seu-servidor-mcp:3000/api`
    - **Cabeçalhos:** Adicione sua **API Key** (caso necessário).
-3. **Teste a conexão**.
+3. **Teste a conexêo**.
 
-Caso use um servidor com autenticação, será necessário criar uma credencial para armazenar a API Key.
+Caso use um servidor com autenticaçêo, será necessário criar uma credencial para armazenar a API Key.
 
 ---
 
@@ -206,7 +206,7 @@ Depois de conectar, você pode listar e executar comandos no MCP.
 ### **4.1 Listando Ferramentas Disponíveis**
 1. Adicione um **nó MCP Client**.
 2. Selecione **List Available Tools**.
-3. Execute o nó para ver quais ferramentas estão disponíveis.
+3. Execute o nó para ver quais ferramentas estêo disponíveis.
 
 ### **4.2 Executando uma Ferramenta (Exemplo com Airbnb)**
 1. Adicione um **nó MCP Client**.
@@ -227,20 +227,20 @@ Para criar um agente que use **MCP** e **OpenAI**, siga estes passos:
 3. Conecte um **modelo de linguagem** (como OpenAI GPT).
 4. Conecte o **MCP Client** e liste as ferramentas disponíveis.
 5. Adicione um nó **MCP Client - Execute Tool** para executar a ferramenta escolhida.
-6. **Configure a ferramenta dinamicamente**, permitindo que a IA selecione a melhor opção.
+6. **Configure a ferramenta dinamicamente**, permitindo que a IA selecione a melhor opçêo.
 
 Isso permite que seu agente escolha **qual ferramenta MCP usar** baseado na conversa.
 
 ---
 
 ## **6. Problemas Comuns e Soluções**
-| Problema | Causa | Solução |
+| Problema | Causa | Soluçêo |
 |----------|-------|---------|
-| O n8n não detecta o nó MCP | Nó não instalado corretamente | Reinstale e reinicie o n8n |
+| O n8n nêo detecta o nó MCP | Nó nêo instalado corretamente | Reinstale e reinicie o n8n |
 | Erro 403 ao conectar | API Key inválida | Verifique sua chave no `.env` |
 | Latência alta | Pouca CPU/RAM | Atualize o plano do servidor |
-| Falha ao executar ferramenta | MCP não ativado | Verifique se a variável de ambiente `N8N_COMMUNITY_PACKAGE_ALLOW_TOOL_USAGE=true` está ativa |
-| Não encontra comandos no MCP | Servidor instável | Tente outro servidor MCP |
+| Falha ao executar ferramenta | MCP nêo ativado | Verifique se a variável de ambiente `N8N_COMMUNITY_PACKAGE_ALLOW_TOOL_USAGE=true` está ativa |
+| Nêo encontra comandos no MCP | Servidor instável | Tente outro servidor MCP |
 
 ---
 
@@ -263,11 +263,11 @@ MENSAGEM 11
 Autor: INEMA
 Data: 2025-03-17T22:41:49+00:00
 Texto:
-**Guia de configuração do Ultimate No Code MCP (auto-host, instalação, problemas comuns)**
+**Guia de configuraçêo do Ultimate No Code MCP (auto-host, instalaçêo, problemas comuns)**
 
-Para uma discussão mais profunda sobre os servidores MCP e a criação de agentes . 
+Para uma discussêo mais profunda sobre os servidores MCP e a criaçêo de agentes . 
 
-Aqui mostro tudo o que você precisa saber sobre como se conectar a servidores MCP no n8n. Desde a criação de uma instância auto-hospedada até a instalação do nó da comunidade MCP, eu divido tudo passo a passo.
+Aqui mostro tudo o que você precisa saber sobre como se conectar a servidores MCP no n8n. Desde a criaçêo de uma instância auto-hospedada até a instalaçêo do nó da comunidade MCP, eu divido tudo passo a passo.
 
 Você aprenderá como se conectar a qualquer servidor MCP, configurá-los como ferramentas e entender as limitações e problemas atuais que você pode encontrar.
 

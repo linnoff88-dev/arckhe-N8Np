@@ -13,7 +13,7 @@ MENSAGEM 1
 Autor: INEMA
 Data: 2025-08-02T22:52:38+00:00
 Texto:
-**Como usar agentes como ferramentas no N8N (versão recente)
+**Como usar agentes como ferramentas no N8N (versêo recente)
 **
 Uma nova funcionalidade do **N8N** que permite adicionar **agentes como ferramentas (tools)** dentro de outros agentes, criando estruturas com **subagentes encadeados** de forma modular e eficiente.
 
@@ -33,7 +33,7 @@ Uma nova funcionalidade do **N8N** que permite adicionar **agentes como ferramen
 
 ### Etapas e dicas apresentadas:
 
-* **Criação rápida de fluxos**: copiar a URL de um workflow e colar em outra aba para criar um novo rapidamente.
+* **Criaçêo rápida de fluxos**: copiar a URL de um workflow e colar em outra aba para criar um novo rapidamente.
 * **Empilhamento de agentes**:
 
   * Exemplo: um agente principal usando **Anthropic Claude** com memória, e subagentes como:
@@ -41,10 +41,10 @@ Uma nova funcionalidade do **N8N** que permite adicionar **agentes como ferramen
     * **Pesquisador**
     * **Revisor de texto**
     * **Analista de qualidade**
-* **Composição arquitetural**:
+* **Composiçêo arquitetural**:
 
   * Os subagentes podem ser simples e usar modelos mais baratos como **GPT-4.0 mini**, enquanto o agente principal pode usar modelos mais avançados.
-  * Cuidado com **alucinações** quando muitos agentes são empilhados sem objetivo claro.
+  * Cuidado com **alucinações** quando muitos agentes sêo empilhados sem objetivo claro.
 
 ---
 
@@ -74,14 +74,14 @@ Uma nova funcionalidade do **N8N** que permite adicionar **agentes como ferramen
 
 ### Aplicações sugeridas:
 
-1. Atendimento ao cliente → com roteamento por intenção e subagentes.
-2. Suporte técnico → com subagente que consulta a documentação.
+1. Atendimento ao cliente → com roteamento por intençêo e subagentes.
+2. Suporte técnico → com subagente que consulta a documentaçêo.
 3. Vendas → com subagente que enriquece dados de leads.
 4. Operações → com subagente que faz análises de dados.
 
 ---
 
-### Conclusão:
+### Conclusêo:
 
 A funcionalidade de usar **agentes como ferramentas dentro de agentes** no N8N aumenta muito a flexibilidade dos fluxos, permitindo criar sistemas modulares, inteligentes e escaláveis — mas deve ser usada com **cautela e arquitetura bem planejada**.
 
@@ -99,7 +99,7 @@ MENSAGEM 3
 Autor: INEMA
 Data: 2025-08-02T22:51:34+00:00
 Texto:
-**Novo recurso de agente como ferramenta do n8n --> Gerenciador de construção + agentes de funcionários**
+**Novo recurso de agente como ferramenta do n8n --> Gerenciador de construçêo + agentes de funcionários**
 
 O n8n recentemente implantou a capacidade de adicionar agentes como ferramentas dentro de outros agentes, criando possibilidades ilimitadas de aninhamentoé assim que funciona:
 agente mestre (Claude Sonnet, por exemplo)
@@ -108,15 +108,15 @@ agente mestre (Claude Sonnet, por exemplo)
 → criar hierarquias inteiras de agentes
 → cada um com modelos e memórias diferentes
 
-Um exemplo de atendimento ao cliente com roteamento de departamentos - o agente mestre de sucesso do cliente delega ao subagente de pesquisa de contas, o mestre de suporte técnico usa o especialista em documentação, o mestre de vendas tem o subagente de enriquecimento de leads
+Um exemplo de atendimento ao cliente com roteamento de departamentos - o agente mestre de sucesso do cliente delega ao subagente de pesquisa de contas, o mestre de suporte técnico usa o especialista em documentaçêo, o mestre de vendas tem o subagente de enriquecimento de leads
 
-Mas aqui está a parte importante: só porque você pode, não significa que você deve 👈🏼👈🏼👈🏼
+Mas aqui está a parte importante: só porque você pode, nêo significa que você deve 👈🏼👈🏼👈🏼
 
-Subagentes adicionam complexidade e risco de alucinação - use-os somente quando estiver realmente sobrecarregando o contexto de um único agente ou precisar de conhecimento especializado
+Subagentes adicionam complexidade e risco de alucinaçêo - use-os somente quando estiver realmente sobrecarregando o contexto de um único agente ou precisar de conhecimento especializado
 dicas profissionais: use modelos baratos (40-mini) para "peões" subagentes e guarde os custos computacionais para seus agentes mestres
 
 pense nisso como se fosse um gerente - você só delega quando tem muita coisa para fazer ou tarefas abaixo do seu nível salarial
-as possibilidades arquitetônicas são vastas, mas a contenção é fundamental
+as possibilidades arquitetônicas sêo vastas, mas a contençêo é fundamental
 
 ------------------------------
 

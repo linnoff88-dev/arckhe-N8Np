@@ -1,39 +1,39 @@
-# Documentação - Fluxo ONG Castração Central (n8n v1.104.2)
+# Documentaçêo - Fluxo ONG Castraçêo Central (n8n v1.104.2)
 
-## Visão Geral
+## Visêo Geral
 
-Este fluxo n8n implementa um sistema de atendimento automatizado para uma ONG de castração de animais, utilizando inteligência artificial para classificar intenções e direcionar usuários para agentes especializados.
+Este fluxo n8n implementa um sistema de atendimento automatizado para uma ONG de castraçêo de animais, utilizando inteligência artificial para classificar intenções e direcionar usuários para agentes especializados.
 
 ## Arquitetura do Sistema
 
 ### 🎯 Agente Orquestrador Principal
 - **OrquestradorONG**: Recebe mensagens, identifica intenções e roteia para agentes especializados
 - **Canais de entrada**: WhatsApp (EvolutionAPI) e E-mail (IMAP)
-- **Classificação inteligente**: Usa OpenAI para identificar a intenção do usuário
+- **Classificaçêo inteligente**: Usa OpenAI para identificar a intençêo do usuário
 
 ### 🤖 Subagentes Especializados
 
 #### 1. AgenteCastracao
-- **Função**: Agendamento de castrações
+- **Funçêo**: Agendamento de castrações
 - **Integrações**: 
   - Supabase (armazenamento de dados)
   - Google Calendar (agendamento)
 - **Dados coletados**: Nome do tutor, animal, contato, data preferida, endereço
 
 #### 2. AgenteAdocaoDoacao
-- **Função**: Gerenciamento de adoções e doações
-- **Integração**: Supabase
-- **Dados coletados**: Tipo de solicitação, detalhes do animal, localização, contato
+- **Funçêo**: Gerenciamento de adoções e doações
+- **Integraçêo**: Supabase
+- **Dados coletados**: Tipo de solicitaçêo, detalhes do animal, localizaçêo, contato
 
 #### 3. AgenteAnimaisPerdidos
-- **Função**: Registro de animais perdidos/encontrados
-- **Integração**: Supabase com geolocalização
+- **Funçêo**: Registro de animais perdidos/encontrados
+- **Integraçêo**: Supabase com geolocalizaçêo
 - **Dados coletados**: Características do animal, local, data, contato responsável
 
 #### 4. AgenteDicas (RAG)
-- **Função**: Resposta a dúvidas frequentes
-- **Integração**: Base vetorial no Supabase
-- **Funcionalidade**: Busca semântica e geração de respostas contextualizadas
+- **Funçêo**: Resposta a dúvidas frequentes
+- **Integraçêo**: Base vetorial no Supabase
+- **Funcionalidade**: Busca semântica e geraçêo de respostas contextualizadas
 
 ## Fluxo de Dados
 
@@ -44,9 +44,9 @@ Set Initial Data
     ↓
 Switch Channel 
     ↓
-OrquestradorONG (Classificação IA)
+OrquestradorONG (Classificaçêo IA)
     ↓
-Switch Intenção 
+Switch Intençêo 
     ↓
 Agentes Especializados
     ↓
@@ -68,7 +68,7 @@ Envio (WhatsApp/Email)
 - **Email IMAP Trigger**: Monitora caixa de entrada
 
 ### Processamento
-- **Set Nodes**: Formatação e preparação de dados
+- **Set Nodes**: Formataçêo e preparaçêo de dados
 - **Switch Nodes**: Roteamento condicional
 - **Agent Nodes**: Processamento com IA (OpenAI)
 - **HTTP Request Nodes**: Integrações com APIs externas
@@ -179,7 +179,7 @@ CREATE TABLE logs_sistema (
 - E-mail via IMAP/SMTP
 
 ### ✅ IA Conversacional
-- Classificação automática de intenções
+- Classificaçêo automática de intenções
 - Agentes especializados por domínio
 - Respostas contextualizadas
 
@@ -195,8 +195,8 @@ CREATE TABLE logs_sistema (
 
 ### ✅ Escalabilidade
 - Arquitetura modular
-- Fácil adição de novos agentes
-- Configuração via variáveis de ambiente
+- Fácil adiçêo de novos agentes
+- Configuraçêo via variáveis de ambiente
 
 ## Próximos Passos
 
@@ -208,7 +208,7 @@ CREATE TABLE logs_sistema (
 6. **Implementar Redis** para cache (opcional)
 7. **Configurar monitoramento** e alertas
 
-## Versão
+## Versêo
 - **n8n**: v1.104.2
 - **Fluxo**: v1.0.0
 - **Data**: {{ $now }}

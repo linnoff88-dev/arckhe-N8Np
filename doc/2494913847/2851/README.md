@@ -1,15 +1,15 @@
-# Workflow de Geração de Músicas
+# Workflow de Geraçêo de Músicas
 
-## Descrição
-Este é um workflow do n8n que automatiza a criação de músicas usando a API da PiAPI e as envia para uma pasta específica no Google Drive. O workflow é ideal para quem precisa de trilhas sonoras originais para Reels, vídeos ou outros conteúdos digitais.
+## Descriçêo
+Este é um workflow do n8n que automatiza a criaçêo de músicas usando a API da PiAPI e as envia para uma pasta específica no Google Drive. O workflow é ideal para quem precisa de trilhas sonoras originais para Reels, vídeos ou outros conteúdos digitais.
 
 ## Funcionalidades
 
-- Geração automática de música baseada em um prompt de estilo
+- Geraçêo automática de música baseada em um prompt de estilo
 - Monitoramento do status de processamento da música
 - Download automático do áudio gerado
 - Upload para uma pasta específica no Google Drive
-- Lógica de repetição para verificar o status até a conclusão
+- Lógica de repetiçêo para verificar o status até a conclusêo
 
 ## Requisitos
 
@@ -30,7 +30,7 @@ Este é um workflow do n8n que automatiza a criação de músicas usando a API d
    - Atualize o ID da pasta de destino no Google Drive
 
 3. **Personalize o prompt de estilo** (opcional):
-   - O prompt padrão já está configurado para criar uma música suave e etérea
+   - O prompt padrêo já está configurado para criar uma música suave e etérea
    - Você pode modificar o campo `style_prompt` para alterar o estilo da música
 
 4. **Execute o workflow**:
@@ -40,12 +40,12 @@ Este é um workflow do n8n que automatiza a criação de músicas usando a API d
 ## Estrutura do Workflow
 
 1. **Gerar Música**
-   - Envia uma requisição para a API da PiAPI com o prompt de estilo
+   - Envia uma requisiçêo para a API da PiAPI com o prompt de estilo
    
 2. **Busca Música Gerada**
-   - Verifica o status da tarefa de geração de áudio
+   - Verifica o status da tarefa de geraçêo de áudio
    
-3. **Lógica de Verificação**
+3. **Lógica de Verificaçêo**
    - Se a música estiver pronta, faz o download
    - Se ainda estiver processando, aguarda 20 segundos e tenta novamente
    
@@ -55,7 +55,7 @@ Este é um workflow do n8n que automatiza a criação de músicas usando a API d
 5. **Upload para o Google Drive**
    - Envia o arquivo para a pasta configurada
 
-## Configuração das Credenciais
+## Configuraçêo das Credenciais
 
 ### PiAPI
 1. Acesse https://piapi.ai/
@@ -64,10 +64,10 @@ Este é um workflow do n8n que automatiza a criação de músicas usando a API d
 
 ### Google Drive
 1. No n8n, adicione as credenciais do Google Drive OAuth2
-2. Siga o fluxo de autenticação do Google
+2. Siga o fluxo de autenticaçêo do Google
 3. Copie o ID da pasta de destino no Google Drive
 
-## Personalização
+## Personalizaçêo
 
 ### Alterar o Estilo da Música
 Para modificar o estilo da música gerada, edite o campo `style_prompt` no nó "Gerar Música".
@@ -75,10 +75,10 @@ Para modificar o estilo da música gerada, edite o campo `style_prompt` no nó "
 ### Agendamento
 Para executar o workflow automaticamente em horários específicos, configure o nó "Schedule Trigger" de acordo com suas necessidades.
 
-## Solução de Problemas
+## Soluçêo de Problemas
 
-- **Erro de autenticação**: Verifique se as credenciais da PiAPI e do Google Drive estão corretas
-- **Tempo de processamento**: Dependendo da carga da API, a geração da música pode levar alguns minutos
+- **Erro de autenticaçêo**: Verifique se as credenciais da PiAPI e do Google Drive estêo corretas
+- **Tempo de processamento**: Dependendo da carga da API, a geraçêo da música pode levar alguns minutos
 - **Limites da API**: Verifique os limites de uso da sua conta na PiAPI
 
 ## Segurança
@@ -89,4 +89,4 @@ Para executar o workflow automaticamente em horários específicos, configure o 
 
 ## Suporte
 
-Para suporte ou dúvidas, abra uma issue no repositório ou consulte a documentação do n8n.
+Para suporte ou dúvidas, abra uma issue no repositório ou consulte a documentaçêo do n8n.

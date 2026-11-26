@@ -24,41 +24,41 @@ Data: 2025-05-01T03:47:07+00:00
 Texto:
 **Resumo  "How I Built an AI Agent Auto-Reply System for Threads Using Chrome Extension + n8n (100% Automated)"**
 
-Como criar um sistema de respostas automáticas no Threads da Meta usando uma extensão do Chrome e o n8n como back-end, superando as limitações da API oficial do Threads (que só permite interações com suas próprias postagens).
+Como criar um sistema de respostas automáticas no Threads da Meta usando uma extensêo do Chrome e o n8n como back-end, superando as limitações da API oficial do Threads (que só permite interações com suas próprias postagens).
 
 **Etapas principais do processo:**
 
-1. **Motivo da Extensão Chrome:**
-   - A API da Meta é limitada e não permite responder postagens de terceiros.
-   - A extensão simula ações do usuário no navegador, permitindo interações automáticas mais amplas.
+1. **Motivo da Extensêo Chrome:**
+   - A API da Meta é limitada e nêo permite responder postagens de terceiros.
+   - A extensêo simula ações do usuário no navegador, permitindo interações automáticas mais amplas.
 
 2. **Requisitos:**
-   - Extensão do Chrome (em modo desenvolvedor)
+   - Extensêo do Chrome (em modo desenvolvedor)
    - OpenAI (para gerar respostas)
    - n8n (como orquestrador backend)
 
 3. **Funcionamento do Sistema:**
-   - O usuário define palavras-chave, tipo de postagem e configurações de resposta pela extensão.
-   - A extensão busca postagens no Threads e envia o conteúdo via Webhook para o n8n.
-   - O n8n processa o conteúdo com o OpenAI, gera uma resposta e a devolve para a extensão.
-   - A extensão então publica automaticamente a resposta no Threads.
+   - O usuário define palavras-chave, tipo de postagem e configurações de resposta pela extensêo.
+   - A extensêo busca postagens no Threads e envia o conteúdo via Webhook para o n8n.
+   - O n8n processa o conteúdo com o OpenAI, gera uma resposta e a devolve para a extensêo.
+   - A extensêo entêo publica automaticamente a resposta no Threads.
 
-4. **Criação da Extensão:**
-   - O código da extensão é gerado com auxílio do ChatGPT.
+4. **Criaçêo da Extensêo:**
+   - O código da extensêo é gerado com auxílio do ChatGPT.
    - Inclui os arquivos: `manifest.json`, `settings.html`, `settings.js`, `popup.html`, `popup.js`, `content.js`.
-   - Os arquivos são colados no VS Code e carregados via "Load unpacked" no Chrome (modo desenvolvedor ativado).
+   - Os arquivos sêo colados no VS Code e carregados via "Load unpacked" no Chrome (modo desenvolvedor ativado).
 
-5. **Configuração do n8n:**
-   - Um Webhook recebe os dados da extensão.
+5. **Configuraçêo do n8n:**
+   - Um Webhook recebe os dados da extensêo.
    - O conteúdo é processado pelo nó do OpenAI.
    - A resposta é enviada de volta via Webhook Response.
-   - A URL do Webhook é colada nas configurações da extensão.
+   - A URL do Webhook é colada nas configurações da extensêo.
 
-6. **Demonstração final:**
-   - Mostra como a extensão automatiza a busca, análise e resposta em tempo real, utilizando o fluxo completo entre Chrome → n8n → OpenAI → Threads.
+6. **Demonstraçêo final:**
+   - Mostra como a extensêo automatiza a busca, análise e resposta em tempo real, utilizando o fluxo completo entre Chrome → n8n → OpenAI → Threads.
 
 **Exemplo prático de uso:**
-- Definir palavra-chave "automação", tipo de post "recentes", e esperar respostas geradas e publicadas automaticamente no Threads.
+- Definir palavra-chave "automaçêo", tipo de post "recentes", e esperar respostas geradas e publicadas automaticamente no Threads.
 
 ------------------------------
 
@@ -66,9 +66,9 @@ MENSAGEM 3
 Autor: INEMA
 Data: 2025-05-01T03:46:17+00:00
 Texto:
-Sistema de resposta automática para threads usando a extensão do Chrome + n8n (100% automatizado)
+Sistema de resposta automática para threads usando a extensêo do Chrome + n8n (100% automatizado)
 
-Automatizar as respostas no Threads sem lidar com as limitações da Meta API? Neste tutorial, mostrarei como criar um agente de IA usando uma extensão do Chrome e o n8n como back-end para interagir perfeitamente com as postagens.
+Automatizar as respostas no Threads sem lidar com as limitações da Meta API? Neste tutorial, mostrarei como criar um agente de IA usando uma extensêo do Chrome e o n8n como back-end para interagir perfeitamente com as postagens.
 
 ------------------------------
 
@@ -76,7 +76,7 @@ MENSAGEM 4
 Autor: INEMA
 Data: 2025-05-01T03:42:49+00:00
 Texto:
-Repositório do Github (extensão do Chrome): [https://github.com/proxateam/n8n-Reply-Chrome-Extension](https://github.com/proxateam/n8n-Reply-Chrome-Extension)
+Repositório do Github (extensêo do Chrome): [https://github.com/proxateam/n8n-Reply-Chrome-Extension](https://github.com/proxateam/n8n-Reply-Chrome-Extension)
 Midia: MessageMediaWebPage
 
 ------------------------------

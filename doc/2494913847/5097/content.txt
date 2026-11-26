@@ -17,11 +17,11 @@ Aqui está o **passo a passo completo para criar o fluxo no n8n** baseado no ví
 
 ---
 
-### 🧠 Visão geral do fluxo:
+### 🧠 Visêo geral do fluxo:
 1. Entrada do Prompt em texto  
-2. Tradução (opcional) com Google Translate  
+2. Traduçêo (opcional) com Google Translate  
 3. Envio do prompt para as 4 APIs (Minimax, Hunyuan, Kling, Google Veo 2)  
-4. Acompanhamento do status de cada geração  
+4. Acompanhamento do status de cada geraçêo  
 5. Download dos vídeos gerados  
 6. Saída com links para os 4 vídeos
 
@@ -45,7 +45,7 @@ Aqui está o **passo a passo completo para criar o fluxo no n8n** baseado no ví
 
 ---
 
-#### 2. **Tradução com Google Translate (opcional)**
+#### 2. **Traduçêo com Google Translate (opcional)**
 - **Node:** *HTTP Request*
 - Método: `POST`
 - URL: `https://translation.googleapis.com/language/translate/v2`
@@ -89,7 +89,7 @@ Aqui está o **passo a passo completo para criar o fluxo no n8n** baseado no ví
   "prompt": "={{$json["translatedPrompt"] || $json["prompt"]}}"
 }```
 
-> Sugestão: criar um subfluxo com chamada para o modelo, status e download para evitar repetição de nodes.
+> Sugestêo: criar um subfluxo com chamada para o modelo, status e download para evitar repetiçêo de nodes.
 
 ---
 
@@ -102,7 +102,7 @@ Para cada modelo, adicione:
 - Use `Wait` (Delay de 30 segundos)
 - **Node IF:**
   - Se `status == completed`, continuar.
-  - Se não, voltar para o Delay e checar de novo.
+  - Se nêo, voltar para o Delay e checar de novo.
 
 ---
 
@@ -135,27 +135,27 @@ Texto:
 **Faceless Video Generator Comparison (Minimax vs Hunyuan vs Kling vs Google Veo 2)**  
 [Link: https://www.youtube.com/watch?v=NtOMpOrHyow](https://www.youtube.com/watch?v=NtOMpOrHyow)
 
-O criador do vídeo mostra um sistema automatizado usando **n8n** para comparar quatro modelos de geração de vídeo por IA (sem rosto): **Minimax**, **Tencent Hunyuan**, **Kling** e **Google Veo 2**. O fluxo automatizado traduz prompts de texto com o **Google Translate**, envia esses prompts para cada modelo, acompanha o status da geração e baixa os vídeos finais — tudo sem intervenção manual.
+O criador do vídeo mostra um sistema automatizado usando **n8n** para comparar quatro modelos de geraçêo de vídeo por IA (sem rosto): **Minimax**, **Tencent Hunyuan**, **Kling** e **Google Veo 2**. O fluxo automatizado traduz prompts de texto com o **Google Translate**, envia esses prompts para cada modelo, acompanha o status da geraçêo e baixa os vídeos finais — tudo sem intervençêo manual.
 
 ---
 
 ### Tópicos abordados no vídeo:
 
-1. **Demonstração dos 4 vídeos simultaneamente:**
+1. **Demonstraçêo dos 4 vídeos simultaneamente:**
    - O autor apresenta os vídeos gerados pelas quatro plataformas com o mesmo prompt para que os espectadores comparem visualmente.
    - Todos os modelos receberam o mesmo prompt em inglês.
 
-2. **Automação com n8n (No-Code):**
+2. **Automaçêo com n8n (No-Code):**
    - Mostra como configurar requisições HTTP no n8n para cada modelo.
    - Explica como inserir as chaves de API, URLs e parâmetros.
-   - Demonstra como monitorar o status da geração e baixar o vídeo ao final.
+   - Demonstra como monitorar o status da geraçêo e baixar o vídeo ao final.
 
 3. **Uso do Google Translate:**
-   - Tradução automática de prompts para chinês (especialmente útil para Minimax e Hunyuan).
+   - Traduçêo automática de prompts para chinês (especialmente útil para Minimax e Hunyuan).
    - O prompt em chinês gerou resultados visualmente melhores nos modelos chineses.
 
 4. **Detalhes Técnicos:**
-   - Mostra os tempos de geração dos vídeos e os custos aproximados:
+   - Mostra os tempos de geraçêo dos vídeos e os custos aproximados:
      - **Kling**: cerca de **US$ 0,10** por vídeo de 5 segundos.
      - **Google Veo 2 (F2)**: mais caro.
      - Diferença de custo entre API direta (Minimax) e via FA AI é pequena.
@@ -172,8 +172,8 @@ O criador do vídeo mostra um sistema automatizado usando **n8n** para comparar 
 
 ---
 
-### Conclusão:
-O vídeo é um **guia prático e técnico** para quem deseja testar e comparar plataformas de geração de vídeos por IA sem rosto. Ele mostra como montar uma automação no **n8n**, reduzindo o trabalho manual e permitindo escalabilidade. Ideal para desenvolvedores, criadores de conteúdo e entusiastas de IA.
+### Conclusêo:
+O vídeo é um **guia prático e técnico** para quem deseja testar e comparar plataformas de geraçêo de vídeos por IA sem rosto. Ele mostra como montar uma automaçêo no **n8n**, reduzindo o trabalho manual e permitindo escalabilidade. Ideal para desenvolvedores, criadores de conteúdo e entusiastas de IA.
 Midia: MessageMediaWebPage
 
 ------------------------------
@@ -190,16 +190,16 @@ MENSAGEM 4
 Autor: INEMA
 Data: 2025-04-09T05:46:11+00:00
 Texto:
-Comparação de Geradores de Vídeo sem Rosto 
+Comparaçêo de Geradores de Vídeo sem Rosto 
 
 (Minimax vs Hunyuan vs Kling vs Google Veo 2)
 
 
-Sistema de geração de vídeos com inteligência artificial que cria automaticamente vídeos impressionantes a partir de prompts de texto — tudo com automação no-code usando o n8n!
+Sistema de geraçêo de vídeos com inteligência artificial que cria automaticamente vídeos impressionantes a partir de prompts de texto — tudo com automaçêo no-code usando o n8n!
 
 Esse sistema compara o desempenho das plataformas Minimax, Tencent Hunyuan, Kling e Google Veo 2 
 
-— gerando vídeos sem rosto em cada uma, traduzindo automaticamente os prompts com o Google Tradutor, acompanhando o status da geração e baixando os vídeos finais — tudo de forma totalmente automatizada!
+— gerando vídeos sem rosto em cada uma, traduzindo automaticamente os prompts com o Google Tradutor, acompanhando o status da geraçêo e baixando os vídeos finais — tudo de forma totalmente automatizada!
 
 ------------------------------
 

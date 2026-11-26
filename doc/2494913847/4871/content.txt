@@ -98,7 +98,7 @@ Eu tb!
 ------------------------------
 
 MENSAGEM 12
-Autor: João
+Autor: Joêo
 Data: 2025-05-19T02:13:29+00:00
 Texto:
 Olá, gostaria de acessar esse conteúdo
@@ -109,7 +109,7 @@ MENSAGEM 13
 Autor: Willian
 Data: 2025-05-01T17:18:25+00:00
 Texto:
-Já temos previsão pra esses materiais?
+Já temos previsêo pra esses materiais?
 
 ------------------------------
 
@@ -190,7 +190,7 @@ MENSAGEM 23
 Autor: Diego
 Data: 2025-04-19T23:19:40+00:00
 Texto:
-eu achei tb mas não tem nada que preste, eles dividiram muitos codigos para dizer que é 1
+eu achei tb mas nêo tem nada que preste, eles dividiram muitos codigos para dizer que é 1
 
 ------------------------------
 
@@ -338,7 +338,7 @@ MENSAGEM 41
 Autor: Robson
 Data: 2025-04-13T16:48:36+00:00
 Texto:
-Pessoal quem puder me ajudar agradeço. Sou jornalista e quero uma automação que leia notícias dos sites que quero escolher e faça uma reportagem + foto da reportagem e post no Facebook + Instagram. Tem algum fluxo desse pronto na comunidade? Se sim, onde?
+Pessoal quem puder me ajudar agradeço. Sou jornalista e quero uma automaçêo que leia notícias dos sites que quero escolher e faça uma reportagem + foto da reportagem e post no Facebook + Instagram. Tem algum fluxo desse pronto na comunidade? Se sim, onde?
 
 ------------------------------
 
@@ -371,7 +371,7 @@ MENSAGEM 45
 Autor: Carlos
 Data: 2025-04-12T18:40:21+00:00
 Texto:
-Soltei vídeo de ia de ligação telefônica essa semana
+Soltei vídeo de ia de ligaçêo telefônica essa semana
 
 ------------------------------
 
@@ -379,7 +379,7 @@ MENSAGEM 46
 Autor: Willian
 Data: 2025-04-12T18:37:23+00:00
 Texto:
-Onde estão as automações?
+Onde estêo as automações?
 
 ------------------------------
 
@@ -387,7 +387,7 @@ MENSAGEM 47
 Autor: Dr. Andre Lopes
 Data: 2025-04-12T18:09:35+00:00
 Texto:
-Preciso de uma automação para venda de curso on-line
+Preciso de uma automaçêo para venda de curso on-line
 
 ------------------------------
 
@@ -395,7 +395,7 @@ MENSAGEM 48
 Autor: Lu
 Data: 2025-04-10T17:50:14+00:00
 Texto:
-@INEMAtds é possível adaptar o 146 pra ligação telefonica?
+@INEMAtds é possível adaptar o 146 pra ligaçêo telefonica?
 
 ------------------------------
 
@@ -436,7 +436,7 @@ MENSAGEM 53
 Autor: Marcelo
 Data: 2025-04-09T17:16:09+00:00
 Texto:
-Também gostaria de saber onde estão os fluxos....
+Também gostaria de saber onde estêo os fluxos....
 
 ------------------------------
 
@@ -444,7 +444,7 @@ MENSAGEM 54
 Autor: D
 Data: 2025-04-09T16:55:28+00:00
 Texto:
-Onde estão os fluxos?
+Onde estêo os fluxos?
 
 ------------------------------
 
@@ -452,7 +452,7 @@ MENSAGEM 55
 Autor: Monica
 Data: 2025-04-08T13:06:31+00:00
 Texto:
-onde estão estes fluxos para baixar?
+onde estêo estes fluxos para baixar?
 
 ------------------------------
 
@@ -591,30 +591,30 @@ Autor: INEMA
 Data: 2025-04-07T08:56:18+00:00
 Texto:
 Automatize o Gerador de Conteúdo para WordPress com  
-77. Automatize a resolução de problemas de suporte ao cliente  
-78. Automatize tarefas de validação de imagem usando o AI Vision  
+77. Automatize a resoluçêo de problemas de suporte ao cliente  
+78. Automatize tarefas de validaçêo de imagem usando o AI Vision  
 79. Automatize o alcance do LinkedIn com Notion e OpenAI  
 80. Automatize a análise do Pinterest e  
-81. Automatize a preparação de reuniões de vendas com IA e  
+81. Automatize a preparaçêo de reuniões de vendas com IA e  
 82. Automatize capturas de tela com URLbox &  
 83. Automatize o enriquecimento de alertas do SIEM com  
 84. Automatize depoimentos no Strapi com n8n.txt  
 85. Automatize seu processo de RFP com assistentes OpenAI  
 116. Gerar dinamicamente uma página da Web do usuário  
 117. Gerar dinamicamente uma página da Web a partir de  
-139. Geração de imagens do Flux Dev (Fal.ai) para o Google Drive  
+139. Geraçêo de imagens do Flux Dev (Fal.ai) para o Google Drive  
 145. Gerar consultas SQL somente a partir do esquema - alimentado por IA  
-146. Gere conversão de texto em fala usando Elevenlabs via API.  
+146. Gere conversêo de texto em fala usando Elevenlabs via API.  
 149. O Gmail AI Responder_ criar rascunhos de respostas  
-158. Criação de imagens com OpenAI e Telegram.txt  
+158. Criaçêo de imagens com OpenAI e Telegram.txt  
 
 ---
 
-**Gestão e Análise de Negócios:**  
-17. Acionando as próximas etapas da sua reunião  
+**Gestêo e Análise de Negócios:**  
+17. Acionando as próximas etapas da sua reuniêo  
 44. Pesquisador web de IA para vendas  
 48. Gerenciamento e consulta de leads orientados por IA  
-126. Enriqueça os dados da organização do Pipedrive com  
+126. Enriqueça os dados da organizaçêo do Pipedrive com  
 148. Obtenha dados do Airtable via IA e Obsidian Notes.txt  
 153. Lidando com leads de compromissos e acompanhamento  
 167. lemlist __ GPT-3_ Turbine seus fluxos de trabalho de vendas  
@@ -632,24 +632,24 @@ Automatize o Gerador de Conteúdo para WordPress com
 73. Marcar automaticamente postagens de blog no WordPress com AI.txt  
 101. Crie banner.txt de perfil dinâmico no Twitter  
 143. Gere conteúdo do Instagram a partir das principais tendências  
-185. Otimize e atualize o título e a descrição do Printify  
+185. Otimize e atualize o título e a descriçêo do Printify  
 189. Publique novos vídeos do YouTube no X.txt  
 
 ---
 
 **RH, Currículos e Vagas:**  
 32. Fluxo de trabalho de RH automatizado de IA para CV  
-50. Seleção de candidatos com inteligência artificial  
+50. Seleçêo de candidatos com inteligência artificial  
 109. Triagem de currículos com OpenAI.txt  
-157. Anúncio e avaliação de vagas de RH com AI.txt  
+157. Anúncio e avaliaçêo de vagas de RH com AI.txt  
 
 ---
 
-**Scraping e Extração de Dados:**  
-2. Raspador de agente de IA baseado em visão  
+**Scraping e Extraçêo de Dados:**  
+2. Raspador de agente de IA baseado em visêo  
 26. Agente de IA que pode raspar páginas da Web  
-37. Extração de dados de IA com dinâmica  
-38. Extração de dados de IA com prompts dinâmicos e Baserow  
+37. Extraçêo de dados de IA com dinâmica  
+38. Extraçêo de dados de IA com prompts dinâmicos e Baserow  
 40. Web Scraping alimentado por IA com Jina,  
 129. Extraia e processe informações diretamente  
 130. Extraia dados do currículo e crie PDF com  
@@ -660,10 +660,10 @@ Automatize o Gerador de Conteúdo para WordPress com
 135. Extraia o histórico de gastos do gmail para  
 136. Extraia texto de PDF e imagem usando  
 150. Hacker News Job Listing Scraper e Parser.txt  
-162. Extração de dados de faturas com LlamaParse e  
-163. Extração de dados de faturas com LlamaParse e OpenAI  
+162. Extraçêo de dados de faturas com LlamaParse e  
+163. Extraçêo de dados de faturas com LlamaParse e OpenAI  
 187. Analise o PDF com o LlamaParse e salve em Airtable.txt  
-191. Detecção de objetos baseada em prompt com Gemini 2.0.txt  
+191. Detecçêo de objetos baseada em prompt com Gemini 2.0.txt  
 
 ---
 
@@ -673,7 +673,7 @@ MENSAGEM 73
 Autor: INEMA
 Data: 2025-04-07T08:56:18+00:00
 Texto:
-Aqui está a lista completa, **organizada por grupos**, com a **numeração original preservada**:
+Aqui está a lista completa, **organizada por grupos**, com a **numeraçêo original preservada**:
 
 ---
 
@@ -720,7 +720,7 @@ Aqui está a lista completa, **organizada por grupos**, com a **numeração orig
 114. Detecte linguagem tóxica no Telegram messages.txt  
 115. bot.txt com tecnologia de IA do Discord  
 155. Hospede seu próprio agente de pesquisa profunda de IA com n8n,  
-156. Chatbot de Helpdesk de RH e TI com Transcrição de Áudio.  
+156. Chatbot de Helpdesk de RH e TI com Transcriçêo de Áudio.  
 164. Fluxo de trabalho do SlackBot de IA de operações de TI -  
 168. Assistente LINE com Google Agenda e  
 171. Assistente de e-mail do Microsoft Outlook AI com contato  
@@ -732,7 +732,7 @@ Aqui está a lista completa, **organizada por grupos**, com a **numeração orig
 
 ---
 
-**Educação e Treinamento:**  
+**Educaçêo e Treinamento:**  
 68. Faça perguntas sobre um PDF usando AI.txt  
 94. Dividir documentos em notas de estudo  
 108. Análise de PDF com Multimodal Vision AI.  
@@ -748,8 +748,8 @@ Aqui está a lista completa, **organizada por grupos**, com a **numeração orig
 102. crie respostas de e-mail com fastmail e OpenAI.  
 128. Pipeline de ETL para processing.txt de texto  
 142. Gere áudio a partir de texto usando OpenAI e  
-159. Integração de IA com a API Open-Meteo para  
-169. Faça uma citação OpenAI para recuperação de arquivos RAG.txt  
+159. Integraçêo de IA com a API Open-Meteo para  
+169. Faça uma citaçêo OpenAI para recuperaçêo de arquivos RAG.txt  
 170. Manipular PDF com o API.txt de desenvolvedor da Adobe  
 182. OpenAI Assistant workflow_ fazer upload de arquivo,  
 183. OpenAI examples_ ChatGPT, DALLE-2,  
@@ -759,10 +759,10 @@ Aqui está a lista completa, **organizada por grupos**, com a **numeração orig
 
 ---
 
-**Geração e Automação de Conteúdo:**  
-8. 📚 Gerar documentação automaticamente para fluxos de trabalho n8n  
-53. Automação de e-mail com inteligência artificial para  
-74. Automatize a criação de blogs no Brand Voice com AI.txt  
+**Geraçêo e Automaçêo de Conteúdo:**  
+8. 📚 Gerar documentaçêo automaticamente para fluxos de trabalho n8n  
+53. Automaçêo de e-mail com inteligência artificial para  
+74. Automatize a criaçêo de blogs no Brand Voice com AI.txt  
 75. Automatize a pesquisa de concorrentes com Exa.ai,  
 76.
 

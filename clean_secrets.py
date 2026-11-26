@@ -52,7 +52,7 @@ def clean_credentials(obj):
                 else:
                     cleaned[key] = '[REMOVED]'
             elif key == 'id' and isinstance(value, str) and len(value) > 10:
-                # IDs de credenciais são geralmente strings longas
+                # IDs de credenciais sêo geralmente strings longas
                 cleaned[key] = '[REMOVED]'
             elif any(sensitive in key.lower() for sensitive in SENSITIVE_FIELDS):
                 # Campo sensível - limpar valor

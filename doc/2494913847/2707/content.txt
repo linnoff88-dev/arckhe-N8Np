@@ -15,27 +15,27 @@ Data: 2025-03-11T05:44:44+00:00
 Texto:
 ### 1. Classifique e-mails automaticamente
 
-🎯 **Objetivo da Automação**  
-Nesta aula, veremos como automatizar a organização de e-mails no Gmail utilizando **N8N**. Essa automação permite classificar os e-mails em **etiquetas automaticamente**, economizando tempo e esforço na gestão da caixa de entrada.  
+🎯 **Objetivo da Automaçêo**  
+Nesta aula, veremos como automatizar a organizaçêo de e-mails no Gmail utilizando **N8N**. Essa automaçêo permite classificar os e-mails em **etiquetas automaticamente**, economizando tempo e esforço na gestêo da caixa de entrada.  
 
 🛠 **Funcionamento Geral**  
-- A automação analisa a caixa de entrada e filtra os e-mails importantes.  
+- A automaçêo analisa a caixa de entrada e filtra os e-mails importantes.  
 - Um classificador de texto com **inteligência artificial** atribui categorias aos e-mails.  
-- Os e-mails são etiquetados automaticamente com base no conteúdo.  
+- Os e-mails sêo etiquetados automaticamente com base no conteúdo.  
 - Pode ser executado manualmente ou configurado para rodar automaticamente em intervalos regulares.  
 
-🔍 **Configuração Passo a Passo**  
+🔍 **Configuraçêo Passo a Passo**  
 
-### 1️⃣ Configuração Inicial  
-**Trigger Manual**: Configuramos um gatilho de execução manual para testar a automação antes de ativá-la automaticamente.  
+### 1️⃣ Configuraçêo Inicial  
+**Trigger Manual**: Configuramos um gatilho de execuçêo manual para testar a automaçêo antes de ativá-la automaticamente.  
 
 **Módulo Gmail (Get Many Messages)**: Extraímos os e-mails da caixa de entrada com as seguintes configurações:  
 - Filtramos apenas os e-mails importantes (**is:important**).  
 - Evitamos e-mails de spam, promoções ou redes sociais.  
-- Decidimos se processamos e-mails lidos e não lidos.  
-- Desativamos a opção "**Simplify**" para obter o texto completo do e-mail.  
+- Decidimos se processamos e-mails lidos e nêo lidos.  
+- Desativamos a opçêo "**Simplify**" para obter o texto completo do e-mail.  
 
-### 2️⃣ Classificação de E-mails com IA  
+### 2️⃣ Classificaçêo de E-mails com IA  
 Usamos o módulo **Text Classifier**, na categoria **Advanced AI** dentro do **N8N**.  
 
 - Configuramos um modelo de IA para analisar o texto do e-mail:  
@@ -47,28 +47,28 @@ Usamos o módulo **Text Classifier**, na categoria **Advanced AI** dentro do **N
   - **Negócios**: E-mails relacionados a informações comerciais ou automações.  
   - **Newsletters**: Boletins informativos ou conteúdos periódicos.  
   - **Assuntos pessoais**: Comunicações privadas e confidenciais.  
-  - **Outros**: E-mails que não se encaixam em nenhuma das categorias anteriores.  
+  - **Outros**: E-mails que nêo se encaixam em nenhuma das categorias anteriores.  
 
-- Configuramos um **System Prompt** para que a IA classifique os e-mails com precisão, sem adicionar explicações extras.  
+- Configuramos um **System Prompt** para que a IA classifique os e-mails com precisêo, sem adicionar explicações extras.  
 
-### 3️⃣ Aplicação de Etiquetas no Gmail  
+### 3️⃣ Aplicaçêo de Etiquetas no Gmail  
 - Adicionamos o módulo **Gmail (Add Label to Message)** para atribuir etiquetas aos e-mails conforme a categoria determinada pela IA.  
 - Obtemos o **Message ID** do e-mail e aplicamos a etiqueta correspondente.  
 - Repetimos o processo para cada categoria.  
 
-🚀 **Automação em Tempo Real**  
-Para que a automação funcione automaticamente sem intervenção manual:  
+🚀 **Automaçêo em Tempo Real**  
+Para que a automaçêo funcione automaticamente sem intervençêo manual:  
 - Adicionamos um **Trigger Automático**:  
   - **Trigger**: Gmail - On Message Received.  
-  - Execução a cada hora (ou no intervalo desejado).  
-  - Filtramos e-mails importantes e não lidos.  
-  - Os novos e-mails são processados conforme chegam.  
+  - Execuçêo a cada hora (ou no intervalo desejado).  
+  - Filtramos e-mails importantes e nêo lidos.  
+  - Os novos e-mails sêo processados conforme chegam.  
   - A IA os classifica e adiciona as etiquetas automaticamente.  
 
 ✅ **Resultados Finais**  
 ✔ E-mails organizados automaticamente de acordo com seu conteúdo.  
 ✔ Maior produtividade e menos tempo perdido gerenciando e-mails.  
-✔ Configuração flexível para atender diferentes necessidades.  
+✔ Configuraçêo flexível para atender diferentes necessidades.  
 
 🔗 **Recursos**  
 - Classificador de etiquetas.
@@ -127,7 +127,7 @@ Se a sua caixa de entrada parece um campo de batalha, esta aula vai salvar sua v
 💡 **O que vamos aprender?**  
 ✅ **Extrair e filtrar** e-mails importantes do Gmail.  
 ✅ **Usar IA** para classificá-los por categorias.  
-✅ **Aplicar etiquetas** automaticamente para organização.  
+✅ **Aplicar etiquetas** automaticamente para organizaçêo.  
 ✅ **Automatizar** tudo para rodar no piloto automático.
 
 ------------------------------

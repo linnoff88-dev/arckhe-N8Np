@@ -37,9 +37,9 @@ da ferramenta** para direcionar a consulta.
 
 ---
 
-### 🎯 **Conclusão**  
+### 🎯 **Conclusêo**  
 - Se o objetivo for apenas perguntas e respostas, **use o módulo Question & Answer**.  
-- Se precisar de automação avançada e múltiplas integrações, **use o Agente de IA**.  
+- Se precisar de automaçêo avançada e múltiplas integrações, **use o Agente de IA**.  
 
 Ambos os métodos permitem construir um sistema de busca eficiente utilizando RAG no n8n, armazenando documentos e processando perguntas de maneira rápida e precisa.
 
@@ -53,39 +53,39 @@ Texto:
 
 
 
-### **Introdução**  
+### **Introduçêo**  
 Neste tutorial, Carlos  demonstra como implementar **RAG (Retrieval-Augmented Generation)** no **n8n** utilizando **Pinecone** como base vetorial. O fluxo de trabalho é dividido em duas partes:  
 
-1. **Carregamento da documentação na base vetorial** (Pinecone ou Supabase)  
+1. **Carregamento da documentaçêo na base vetorial** (Pinecone ou Supabase)  
 2. **Consulta e teste de funcionamento**  
 
-Antes de começar a implementação, é explicado o que são bases vetoriais e como funciona o **RAG**.  
+Antes de começar a implementaçêo, é explicado o que sêo bases vetoriais e como funciona o **RAG**.  
 
 ---
 
 ### 📊 **O que é RAG?**  
 
-O **RAG (Retrieval-Augmented Generation)** melhora a precisão das respostas geradas por modelos como **GPT ou Mistral**, extraindo informações de documentos previamente armazenados.  
+O **RAG (Retrieval-Augmented Generation)** melhora a precisêo das respostas geradas por modelos como **GPT ou Mistral**, extraindo informações de documentos previamente armazenados.  
 
 📌 **Fluxo básico de funcionamento:**  
 1. **Carregamento** de documentos (PDF, DOC, TXT, etc.).  
-2. **Conversão para embeddings** usando OpenAI.  
+2. **Conversêo para embeddings** usando OpenAI.  
 3. **Armazenamento na base vetorial** (Pinecone ou Supabase).  
-4. **Consulta e geração de respostas** baseadas nos dados armazenados.  
+4. **Consulta e geraçêo de respostas** baseadas nos dados armazenados.  
 
 📌 **Exemplo prático:**  
 Se um usuário perguntar **"O que é RAG?"**, o chatbot acessa a base vetorial, onde os documentos armazenados explicam o conceito, e gera uma resposta detalhada.  
 
 ---
 
-### 🔍 **Comparação entre Pinecone e Supabase**  
+### 🔍 **Comparaçêo entre Pinecone e Supabase**  
 
 | Critério | **Pinecone** | **Supabase** |
 |----------|-------------|--------------|
-| **Facilidade de Integração** | Totalmente integrado ao n8n | Requer configuração manual |
-| **Plano Gratuito** | Até 1 milhão de vetores | Até 500 MB de armazenamento |
+| **Facilidade de Integraçêo** | Totalmente integrado ao n8n | Requer configuraçêo manual |
+| **Plano Gratuito** | Até 1 milhêo de vetores | Até 500 MB de armazenamento |
 | **Escalabilidade** | Alta escalabilidade | Escalabilidade limitada |
-| **Complexidade Inicial** | Fácil de configurar e usar | Exige mais trabalho na configuração |
+| **Complexidade Inicial** | Fácil de configurar e usar | Exige mais trabalho na configuraçêo |
 | **Vantagens** | Otimizado para buscas semânticas | Versátil, suporta vários tipos de dados |
 | **Desvantagens** | Somente para armazenamento vetorial | Mais lento para buscas vetoriais |
 
@@ -95,16 +95,16 @@ Se um usuário perguntar **"O que é RAG?"**, o chatbot acessa a base vetorial, 
 
 ---
 
-## 🚀 **Implementação Passo a Passo no n8n**  
+## 🚀 **Implementaçêo Passo a Passo no n8n**  
 
 ### **1️⃣ Carregamento de documentos na base vetorial**  
 1. **Baixar documento do Google Drive** ou carregar localmente.  
 2. **Converter para embeddings** com OpenAI.  
 3. **Armazenar no Pinecone**.  
-4. **Dividir o documento em fragmentos** (*chunks*) de 1000 tokens, com sobreposição de 100 tokens.  
+4. **Dividir o documento em fragmentos** (*chunks*) de 1000 tokens, com sobreposiçêo de 100 tokens.  
 5. **Salvar os fragmentos na base vetorial**.  
 
-📌 **Configuração no n8n**  
+📌 **Configuraçêo no n8n**  
 - Criar um **Trigger manual** para iniciar o fluxo.  
 - Utilizar o nó **Download a File** para baixar documentos do Google Drive.  
 - Processar o documento e **armazenar os embeddings** na base vetorial.  
@@ -123,7 +123,7 @@ Se um usuário perguntar **"O que é RAG?"**, o chatbot acessa a base vetorial, 
 
 2. **Agente de IA** 🤖  
    - Mais avançado e flexível.  
-   - Permite integração com Gmail, Google Sheets, etc.  
+   - Permite integraçêo com Gmail, Google Sheets, etc.  
    - Pode armazenar memória e lembrar perguntas anteriores.  
 
 **💡 Escolha ideal:**  
@@ -132,7 +132,7 @@ Se um usuário perguntar **"O que é RAG?"**, o chatbot acessa a base vetorial, 
 
 ---
 
-## **📌 Configuração do Módulo Question & Answer**  
+## **📌 Configuraçêo do Módulo Question & Answer**  
 1. Criar um **Trigger de Chat**.  
 2. Adicionar o **nó Question & Answer**.  
 3. Configurar o modelo LLM (**OpenAI 4.0 Mini**).  
@@ -142,14 +142,14 @@ Se um usuário perguntar **"O que é RAG?"**, o chatbot acessa a base vetorial, 
 
 ---
 
-## **📌 Configuração do Agente de IA**  
+## **📌 Configuraçêo do Agente de IA**  
 1. Criar um **nó de Agente de IA**.  
 2. Adicionar três componentes principais:  
    - **Modelo de Chat** (ex: OpenAI GPT-4.0 Mini).  
    - **Memória** (opcional, para lembrar perguntas anteriores).  
    - **Ferramentas** (como Gmail, Google Sheets e a base vetorial).  
 3. Adicionar o **Vector Store Tool** e configurar para acessar **Pinecone**.  
-4. Especificar **descrição e nome
+4. Especificar **descriçêo e nome
 
 ------------------------------
 
@@ -169,43 +169,43 @@ Texto:
 
 
 
-### Introdução  
+### Introduçêo  
 Aqui exploramos como implementar um sistema 
-RAG (Retrieval-Augmented Generation) no n8n utilizando o Pinecone como base vetorial. Explicamos a funcionalidade do RAG, as vantagens das bases vetoriais e a comparação entre Pinecone e Supabase. Por fim, realizamos uma implementação prática no n8n para armazenar e recuperar informações a partir de uma base vetorial.  
+RAG (Retrieval-Augmented Generation) no n8n utilizando o Pinecone como base vetorial. Explicamos a funcionalidade do RAG, as vantagens das bases vetoriais e a comparaçêo entre Pinecone e Supabase. Por fim, realizamos uma implementaçêo prática no n8n para armazenar e recuperar informações a partir de uma base vetorial.  
 
 ---
 
 ### 📊 1. Conceitos-chave  
 
 **O que é RAG?**  
-RAG é um modelo de IA que combina busca e geração de texto para melhorar a precisão das respostas. Ele se baseia na extração de informações de documentos armazenados em uma base vetorial e gera respostas baseadas nesses dados.  
+RAG é um modelo de IA que combina busca e geraçêo de texto para melhorar a precisêo das respostas. Ele se baseia na extraçêo de informações de documentos armazenados em uma base vetorial e gera respostas baseadas nesses dados.  
 
 **Como funciona?**  
 1. Carregamento de documentos em formatos como PDF, DOC, TXT, etc.  
-2. Conversão para embeddings utilizando OpenAI.  
+2. Conversêo para embeddings utilizando OpenAI.  
 3. Armazenamento em uma base vetorial, como Pinecone ou Supabase.  
-4. Consulta e geração de respostas com base nas informações armazenadas.  
+4. Consulta e geraçêo de respostas com base nas informações armazenadas.  
 
 ---
 
-### 🔬 2. Comparação entre Pinecone e Supabase  
+### 🔬 2. Comparaçêo entre Pinecone e Supabase  
 
-- **Pinecone**: oferece integração direta com o n8n, é altamente escalável e otimizado para buscas semânticas rápidas.  
-- **Supabase**: é mais versátil, permitindo armazenar diferentes tipos de dados, mas exige configuração manual e é menos eficiente para buscas vetoriais.  
+- **Pinecone**: oferece integraçêo direta com o n8n, é altamente escalável e otimizado para buscas semânticas rápidas.  
+- **Supabase**: é mais versátil, permitindo armazenar diferentes tipos de dados, mas exige configuraçêo manual e é menos eficiente para buscas vetoriais.  
 
 **Escolha ideal:**  
-- Se o foco for velocidade e escalabilidade, **Pinecone** é a melhor opção.  
+- Se o foco for velocidade e escalabilidade, **Pinecone** é a melhor opçêo.  
 - Se precisar armazenar diferentes tipos de dados e tiver necessidade de maior flexibilidade, **Supabase** é uma alternativa interessante.  
 
 ---
 
-### 🚀 3. Implementação prática no n8n  
+### 🚀 3. Implementaçêo prática no n8n  
 
 #### 3.1 Carregamento de documentos na base vetorial  
 1. Baixar o arquivo do Google Drive.  
 2. Processar o documento com OpenAI para gerar embeddings.  
 3. Armazenar os embeddings no Pinecone.  
-4. Dividir o documento em fragmentos (**chunks**) de 1000 tokens, com sobreposição de 100 tokens.  
+4. Dividir o documento em fragmentos (**chunks**) de 1000 tokens, com sobreposiçêo de 100 tokens.  
 5. Salvar os fragmentos na base vetorial.  
 
 #### 3.2 Consulta da base vetorial com n8n  
@@ -218,7 +218,7 @@ Há duas opções para consultar a base vetorial:
 
 **Agente de IA:**  
 - Mais avançado e flexível.  
-- Permite integração com ferramentas adicionais, como Gmail ou Google Sheets.  
+- Permite integraçêo com ferramentas adicionais, como Gmail ou Google Sheets.  
 - Pode ser configurado com memória para lembrar perguntas anteriores.  
 
 **Escolha ideal:**  

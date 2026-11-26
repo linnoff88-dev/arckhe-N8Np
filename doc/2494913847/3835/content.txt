@@ -13,7 +13,7 @@ MENSAGEM 1
 Autor: INEMA
 Data: 2025-03-31T20:35:07+00:00
 Texto:
-Aqui estão as **dicas práticas que o autor do vídeo dá sobre como e quando usar o agente de engenharia de prompt no n8n**, organizadas por situação e tipo de modelo de linguagem:
+Aqui estêo as **dicas práticas que o autor do vídeo dá sobre como e quando usar o agente de engenharia de prompt no n8n**, organizadas por situaçêo e tipo de modelo de linguagem:
 
 ---
 
@@ -25,7 +25,7 @@ Aqui estão as **dicas práticas que o autor do vídeo dá sobre como e quando u
 - Quiser **comparar resultados entre diferentes LLMs** (OpenAI, Claude, Gemini...).
 - Precisar de prompts reutilizáveis com placeholders.
 - Quiser fazer **refinamentos iterativos**, ajustando o estilo, formato ou nível de detalhe do prompt.
-- Estiver criando fluxos automatizados com IA e quiser integrar geração de prompt como parte do processo.
+- Estiver criando fluxos automatizados com IA e quiser integrar geraçêo de prompt como parte do processo.
 
 ---
 
@@ -33,13 +33,13 @@ Aqui estão as **dicas práticas que o autor do vídeo dá sobre como e quando u
 
 #### **OpenAI**
 - **Modelos antigos (GPT-3.5, GPT-4, GPT-4.5)**:  
-  - Não são modelos de raciocínio (non-reasoning).
+  - Nêo sêo modelos de raciocínio (non-reasoning).
   - **Use exemplos claros** (1 a 3) para tarefas de escrita ou estilo.
   - Divida o prompt em **seções bem marcadas** com Markdown.
   - **Evite muitas tarefas em um só prompt**, seja direto.
 
 - **Modelos de raciocínio (GPT-4o, O-models, O3 Mini etc.)**:  
-  - São inteligentes o bastante para pensar com menos exemplos.
+  - Sêo inteligentes o bastante para pensar com menos exemplos.
   - **Prefira contexto enxuto e bem direcionado.**
   - Pode colocar múltiplas tarefas no mesmo prompt.
   - **Ideal para tarefas complexas**, onde o modelo precisa "pensar".
@@ -58,16 +58,16 @@ Aqui estão as **dicas práticas que o autor do vídeo dá sobre como e quando u
 #### **Gemini (Google)**
 - **Direto, sem "personalidade"**, respostas secas e objetivas.
 - **Evite floreios ou frases longas** — vá direto ao ponto.
-- Use **contexto mínimo**: 2 frases geralmente são suficientes.
+- Use **contexto mínimo**: 2 frases geralmente sêo suficientes.
 - Melhor para quem quer **respostas rápidas e assertivas.**
-- Não exige exemplos; **menos é mais** com Gemini.
+- Nêo exige exemplos; **menos é mais** com Gemini.
 
 ---
 
 ### 3. **Dicas gerais de estrutura**
 
 - Sempre use **placeholders** no final do prompt para facilitar reuso, como:  
-  - `{{nome_da_empresa}}`, `{{setor}}`, `{{descrição}}`.
+  - `{{nome_da_empresa}}`, `{{setor}}`, `{{descriçêo}}`.
 
 - Use **formato Markdown** para separar:
   - Contexto
@@ -106,7 +106,7 @@ Data: 2025-03-31T20:33:34+00:00
 Texto:
 ### Resumo Geral
 
-O vídeo mostra como criar um **agente de engenharia de prompt automatizado dentro do n8n**, que gera prompts personalizados e otimizados para diferentes modelos de linguagem (OpenAI, Gemini, Claude, etc.). O agente entende o que o usuário precisa, pergunta qual modelo será usado e entrega o melhor prompt possível para aquela situação.
+O vídeo mostra como criar um **agente de engenharia de prompt automatizado dentro do n8n**, que gera prompts personalizados e otimizados para diferentes modelos de linguagem (OpenAI, Gemini, Claude, etc.). O agente entende o que o usuário precisa, pergunta qual modelo será usado e entrega o melhor prompt possível para aquela situaçêo.
 
 ---
 
@@ -126,7 +126,7 @@ O vídeo mostra como criar um **agente de engenharia de prompt automatizado dent
 3. **Subfluxos incluídos**
    - **OpenAI**: ajustado para GPT-4, GPT-3.5, GPT-4o etc.
    - **Gemini**: otimizado para prompts diretos e concisos.
-   - **Anthropic Claude**: aproveita XML/Markdown e compreensão híbrida.
+   - **Anthropic Claude**: aproveita XML/Markdown e compreensêo híbrida.
    - **Curinga**: modelo genérico que pode ser customizado.
 
 4. **Exemplo prático de uso**
@@ -141,10 +141,10 @@ O vídeo mostra como criar um **agente de engenharia de prompt automatizado dent
 
 6. **Refinamento iterativo**
    - O usuário pode pedir ajustes (ex: mudar estrutura, deixar mais direto, colocar campos em branco).
-   - O agente refina e retorna a nova versão do prompt.
+   - O agente refina e retorna a nova versêo do prompt.
 
 7. **Dicas para diferentes LLMs**
-   - **OpenAI (GPT antigos)**: modelos não "pensam", exigem mais exemplos.
+   - **OpenAI (GPT antigos)**: modelos nêo "pensam", exigem mais exemplos.
    - **OpenAI (O-models)**: modelos de raciocínio, aceitam menos exemplos e mais contexto direto.
    - **Claude**: aceita bem XML, Markdown; híbrido entre raciocínio e resposta direta.
    - **Gemini**: direto, conciso e robótico; exige pouco contexto e responde rápido.
@@ -158,8 +158,8 @@ O vídeo mostra como criar um **agente de engenharia de prompt automatizado dent
 
 ### Exemplos de Aplicações
 
-- **Criação de roadmap de IA para empresas**
-- **Geração de ideias para blogs**
+- **Criaçêo de roadmap de IA para empresas**
+- **Geraçêo de ideias para blogs**
 - **Estratégias de conteúdo personalizadas**
 - **Prompts que exigem ajustes por tipo de tarefa ou estilo de modelo**
 
@@ -167,16 +167,16 @@ O vídeo mostra como criar um **agente de engenharia de prompt automatizado dent
 
 ### Recursos mencionados
 
-- **WhisperFlow**: ferramenta de transcrição de áudio para preencher o prompt por voz.
+- **WhisperFlow**: ferramenta de transcriçêo de áudio para preencher o prompt por voz.
 - **Perplexity Pro**: usado para pesquisa profunda sobre como otimizar prompts para novos LLMs.
 - **n8n com módulo de memória**: mantém histórico da conversa e permite iterações inteligentes.
 
 ---
 
-### Conclusão
+### Conclusêo
 
 Você pode criar um **engenheiro de prompts pessoal e automatizado** com o n8n, adaptável para qualquer modelo de linguagem. A ferramenta oferece:
-- geração de prompts otimizados,
+- geraçêo de prompts otimizados,
 - ajustes iterativos com feedback,
 - capacidade de escalar para novos modelos no futuro.
 
@@ -199,7 +199,7 @@ Data: 2025-03-25T10:36:48+00:00
 Texto:
 **Prompt para Assistente Virtual em Atendimento Médico
 **
-Você é um assistente virtual especializado no agendamento de consultas e no fornecimento de informações sobre os serviços de uma clínica médica. Sua missão é oferecer suporte acolhedor, claro e preciso aos pacientes, sempre com empatia e respeito. Ao interagir, siga estas diretrizes:
+Você é um assistente virtual especializado no agendamento de consultas e no fornecimento de informações sobre os serviços de uma clínica médica. Sua missêo é oferecer suporte acolhedor, claro e preciso aos pacientes, sempre com empatia e respeito. Ao interagir, siga estas diretrizes:
 
 Auxilie os pacientes no agendamento de consultas, perguntando sobre disponibilidade e fornecendo orientações claras sobre datas e horários.
 
@@ -207,10 +207,10 @@ Forneça informações detalhadas sobre os serviços da clínica, incluindo espe
 
 Ao oferecer orientações sobre cuidados básicos de saúde, lembre-se de: 
 
-a. Incluir um aviso de que as informações não substituem uma avaliação médica profissional;
+a. Incluir um aviso de que as informações nêo substituem uma avaliaçêo médica profissional;
  b. Sugerir que, em caso de persistência ou agravamento dos sintomas, o paciente consulte um médico ou procure atendimento de emergência.
 
-Se a solicitação do paciente for ambígua ou não estiver totalmente clara, peça por mais informações ou esclarecimentos antes de prosseguir.
+Se a solicitaçêo do paciente for ambígua ou nêo estiver totalmente clara, peça por mais informações ou esclarecimentos antes de prosseguir.
 
 Mantenha sempre um tom humanizado, acolhedor e empático, adaptando sua resposta à linguagem natural utilizada pelo paciente.
 **Exemplos:**
@@ -219,12 +219,12 @@ Paciente: "Gostaria de marcar uma consulta com um cardiologista."
 Resposta: "Claro, posso te ajudar com isso. Poderia, por favor, informar sua disponibilidade para os próximos dias para agendarmos a consulta com o cardiologista?"
 **Exemplo 2:**
 Paciente: "Quais serviços vocês oferecem para tratamento de diabetes?"
-Resposta: "Oferecemos consultas com endocrinologistas, acompanhamento nutricional e programas de educação sobre diabetes. Posso te ajudar com mais informações ou até mesmo no agendamento de uma consulta, se desejar."
+Resposta: "Oferecemos consultas com endocrinologistas, acompanhamento nutricional e programas de educaçêo sobre diabetes. Posso te ajudar com mais informações ou até mesmo no agendamento de uma consulta, se desejar."
 **Exemplo 3:**
 Paciente: "Estou com febre e dor de garganta, o que devo fazer?"
-Resposta: "Sinto muito que você não esteja se sentindo bem. Em casos de febre e dor de garganta, recomendamos repouso, hidratação e monitoramento dos sintomas. No entanto, essas orientações não substituem uma avaliação médica. Se os sintomas persistirem ou piorarem, é importante marcar uma consulta para uma avaliação detalhada. Gostaria de agendar uma consulta?"
+Resposta: "Sinto muito que você nêo esteja se sentindo bem. Em casos de febre e dor de garganta, recomendamos repouso, hidrataçêo e monitoramento dos sintomas. No entanto, essas orientações nêo substituem uma avaliaçêo médica. Se os sintomas persistirem ou piorarem, é importante marcar uma consulta para uma avaliaçêo detalhada. Gostaria de agendar uma consulta?"
 
-Este prompt garante que o modelo atue de forma eficiente, clara e cuidadosa, sempre direcionando o paciente conforme as necessidades e mantendo a segurança quanto às orientações de saúde. Se precisar de ajustes ou mais alguma informação, me avise!
+Este prompt garante que o modelo atue de forma eficiente, clara e cuidadosa, sempre direcionando o paciente conforme as necessidades e mantendo a segurança quanto às orientações de saúde. Se precisar de ajustes ou mais alguma informaçêo, me avise!
 
 ------------------------------
 
@@ -259,16 +259,16 @@ Texto:
 **Fluxo de trabalho ✏️ do engenheiro de prompt n8n**
 
 **Fluxos de trabalho abrangentes para engenharia de prompts:**  
-Workflows prontos para uso no n8n, otimizados especificamente para OpenAI, Google Gemini, Anthropic Claude e outros modelos de IA, projetados para maximizar a precisão, eficiência e exatidão.
+Workflows prontos para uso no n8n, otimizados especificamente para OpenAI, Google Gemini, Anthropic Claude e outros modelos de IA, projetados para maximizar a precisêo, eficiência e exatidêo.
 
 **Orientações específicas para cada modelo de IA:**  
-Mensagens de sistema estruturadas, passo a passo, adaptadas para definir claramente os papéis da IA, tarefas, saídas e contexto — garantindo execução perfeita e mínima alucinação.
+Mensagens de sistema estruturadas, passo a passo, adaptadas para definir claramente os papéis da IA, tarefas, saídas e contexto — garantindo execuçêo perfeita e mínima alucinaçêo.
 
 **Modelos de prompt versáteis:**  
-Prompts totalmente personalizáveis cobrindo planejamento de ações, análise de documentos, priorização de objetivos, formulação de estratégias, definição de KPIs e processos de refinamento iterativo.
+Prompts totalmente personalizáveis cobrindo planejamento de ações, análise de documentos, priorizaçêo de objetivos, formulaçêo de estratégias, definiçêo de KPIs e processos de refinamento iterativo.
 
-**Integração inteligente com agentes de IA:**  
-Conecte seus fluxos de trabalho com Agentes de IA para gerar e refinar prompts automaticamente, aumentando a clareza e reduzindo a necessidade de inserção manual.
+**Integraçêo inteligente com agentes de IA:**  
+Conecte seus fluxos de trabalho com Agentes de IA para gerar e refinar prompts automaticamente, aumentando a clareza e reduzindo a necessidade de inserçêo manual.
 
 **Ajuste dinâmico de prompts:**  
 Itere facilmente os prompts com base no feedback do usuário, usando mecanismos de refinamento incorporados que permitem melhoria contínua e ajustes precisos.

@@ -13,29 +13,29 @@ MENSAGEM 1
 Autor: INEMA
 Data: 2025-08-27T03:04:54+00:00
 Texto:
-Aqui estão **hacks práticos** para turbinar esse lead magnet de auditoria web no n8n:
+Aqui estêo **hacks práticos** para turbinar esse lead magnet de auditoria web no n8n:
 
 ---
 
 ### 1. Reduzir custo ao máximo
 
-* Use **GPT-5 Mini** como padrão (≈ R\$0,06 por lead).
+* Use **GPT-5 Mini** como padrêo (≈ R\$0,06 por lead).
 * Peça saída em **Markdown** e converta depois em HTML com um nó simples (`Markdown → HTML`), em vez de pedir HTML direto (economiza tokens).
 * Faça **limpeza do HTML** antes de enviar ao modelo (remover `<script>`, `<style>`, comentários e tags repetitivas).
 
 ---
 
-### 2. Aumentar a percepção de valor
+### 2. Aumentar a percepçêo de valor
 
 * Personalize com **branding automático**: injete logo, cores hex e CTA fixo no template de email.
 * Insira um **badge dinâmico** (ex.: "Auditoria gerada em 3s") usando variáveis do n8n.
-* Gere **comparação antes/depois** no prompt, mostrando como ficaria a página corrigida.
+* Gere **comparaçêo antes/depois** no prompt, mostrando como ficaria a página corrigida.
 
 ---
 
 ### 3. Captar mais dados sem atrito
 
-* No formulário, além de email e URL, peça **cargo ou área de atuação** → facilita segmentação.
+* No formulário, além de email e URL, peça **cargo ou área de atuaçêo** → facilita segmentaçêo.
 * Use um nó “**Enrich via Clearbit/PhantomBuster**” para puxar info extra da empresa a partir do domínio.
 * Armazene tudo em **Supabase ou Google Sheets** para CRM futuro.
 
@@ -45,7 +45,7 @@ Aqui estão **hacks práticos** para turbinar esse lead magnet de auditoria web 
 
 * Configure SPF/DKIM/DMARC do domínio → evita cair no spam.
 * Use **títulos personalizados** no email: “Auditoria do seu site \[nome-do-domínio]”.
-* Adicione **botão CTA bem visível** (ex.: “Quero implementar essas melhorias”).
+* Adicione **botêo CTA bem visível** (ex.: “Quero implementar essas melhorias”).
 
 ---
 
@@ -53,10 +53,10 @@ Aqui estão **hacks práticos** para turbinar esse lead magnet de auditoria web 
 
 * Clone o fluxo e troque o **prompt** para outros nichos:
 
-  * Avaliação de perfil LinkedIn
+  * Avaliaçêo de perfil LinkedIn
   * Auditoria de funil de vendas
   * Diagnóstico de anúncios pagos
-* Cada versão vira um lead magnet diferente para segmentos distintos.
+* Cada versêo vira um lead magnet diferente para segmentos distintos.
 
 ---
 
@@ -72,7 +72,7 @@ Aqui estão **hacks práticos** para turbinar esse lead magnet de auditoria web 
 
 * 48h após a entrega, dispare outro email automático:
   “Conseguiu aplicar as melhorias? Quer que eu te ajude a implementar?”
-* Se não abrir o email inicial → use um **Webhook de tracking** e envie lembrete customizado.
+* Se nêo abrir o email inicial → use um **Webhook de tracking** e envie lembrete customizado.
 
 ---
 
@@ -90,7 +90,7 @@ MENSAGEM 3
 Autor: INEMA
 Data: 2025-08-27T03:04:31+00:00
 Texto:
-meiro scroll, com cor contrastante e label orientado a ação
+meiro scroll, com cor contrastante e label orientado a açêo
 
 
 Reduzir primeiro bloco de texto a 2–3 bullet points com benefícios
@@ -108,7 +108,7 @@ Funciona para qualquer nicho?
 Sim. Basta adaptar o prompt para os critérios do seu setor (dentistas, SaaS, e-commerce, etc.).
 
 Como acompanhar resultados?
-Salve cada execução com email, URL, status e métricas no CRM/Sheets. Dispare follow-up automático 48h depois com um convite para call.
+Salve cada execuçêo com email, URL, status e métricas no CRM/Sheets. Dispare follow-up automático 48h depois com um convite para call.
 
 ------------------------------
 
@@ -122,7 +122,7 @@ e">Auditoria automática</span>
       {{ $json.content_html }}
     </div>
     <a class="cta" href="https://seu-dominio.com/agendar" target="_blank" rel="noopener">Quero ajuda para implementar</a>
-    <div class="foot">Gerado automaticamente a partir da URL enviada. Caso não reconheça esta auditoria, ignore este email.</div>
+    <div class="foot">Gerado automaticamente a partir da URL enviada. Caso nêo reconheça esta auditoria, ignore este email.</div>
   </div>
 </body>
 </html>
@@ -138,17 +138,17 @@ Campo: content_html  valor: {{$json.choices[0].message.content}}
 
 
 Enviar por email
-Opção Gmail
+Opçêo Gmail
 • Nó: Gmail
 • Recurso: Message
-• Operação: Send
-• To: {{$json.email}} (volte ao nó do formulário com uma expressão tipo {{$item(0).$node["Form Trigger"].json.email}} se necessário)
+• Operaçêo: Send
+• To: {{$json.email}} (volte ao nó do formulário com uma expressêo tipo {{$item(0).$node["Form Trigger"].json.email}} se necessário)
 • Subject: Auditoria do seu site: diagnóstico e 10 recomendações
 • HTML: use {{$json.html_final}} do Set anterior
-Opção SMTP genérico
+Opçêo SMTP genérico
 • Nó: Email
 • HTML: habilitado, cole {{$json.html_final}}
-• Configure seu SMTP (ou provider de transação) e domínio autenticado.
+• Configure seu SMTP (ou provider de transaçêo) e domínio autenticado.
 
 
 Testes e custos
@@ -175,19 +175,19 @@ system:
 ```undefined
 Você é um consultor sênior de CRO/UX. Avalie sites com rigor técnico, porém em tom amistoso e claro.
 Entregue SEMPRE um documento HTML5 válido (com <head> e <body>) contendo:
-1) Avaliação da página (diagnóstico com referências objetivas e impacto na conversão)
+1) Avaliaçêo da página (diagnóstico com referências objetivas e impacto na conversêo)
 2) Recomendações de melhoria (até 10 itens, específicos, priorizados, com exemplos)
-Não use Markdown fora de tags HTML. Evite jargões desnecessários.
+Nêo use Markdown fora de tags HTML. Evite jargões desnecessários.
 ```
 user:
 
 A```valie a página e gere a auditoria conforme as regras acima.
 
 Regras adicionais:
-• Seja objetivo e orientado a ação.
-• Explique por que cada problema afeta conversão e SEO/UX quando aplicável.
+• Seja objetivo e orientado a açêo.
+• Explique por que cada problema afeta conversêo e SEO/UX quando aplicável.
 • Traga exemplos (rótulos de botões, hierarquia de seções, microcopy).
-• Se faltar informação, aponte suposições e riscos.
+• Se faltar informaçêo, aponte suposições e riscos.
 
 HTML da página:
 {{cole aqui {{$json.body}} ou {{$json.html_clean}}}}
@@ -216,7 +216,7 @@ Exemplo de CTA
 https://seu-dominio.com/agendar
 
 Exemplo de cabeçalho do relatório gerado
-Avaliação da Página
+Avaliaçêo da Página
 • Menu confuso e CTA secundário escondido
 • Hero muito longo, sem proposta de valor clara nos 5s iniciais
 • Vídeo sem legendas e sem thumbnail persuasivo
@@ -247,7 +247,7 @@ Data: 2025-08-27T03:04:29+00:00
 Texto:
 Passo a passo para montar o lead magnet de auditoria web em 4 módulos no n8n, com exemplos prontos de prompt, HTML e mapeamentos.
 
-Visão geral
+Visêo geral
 Fluxo: Form Trigger → HTTP Request → OpenAI (GPT-5 Mini) → Gmail/Email.
 Objetivo: capturar URL e email, auditar a página e enviar um relatório em HTML com CTA.
 
@@ -265,7 +265,7 @@ url  tipo: text  label: URL do seu site
 
 
 email  tipo: email  label: Seu email
-• Mensagem/descrição: Otimizador de conversão: receba uma auditoria gratuita do seu site em minutos.
+• Mensagem/descriçêo: Otimizador de conversêo: receba uma auditoria gratuita do seu site em minutos.
 • Após publicar, você terá um link público do formulário.
 Exemplo de referência no fluxo: a URL enviada estará em {{$json.url}} e o email em {{$json.email}}.
 
@@ -288,7 +288,7 @@ User-Agent: Mozilla/5.0 (AuditBot/1.0)
 
 Accept-Language: pt-BR,pt;q=0.9
 • Saída usada depois: {{$json.body}}
-Observação: isso retorna o HTML completo. Para páginas muito pesadas, veja o passo 2b.
+Observaçêo: isso retorna o HTML completo. Para páginas muito pesadas, veja o passo 2b.
 
 
 2b) Opcional: limpar/comprimir HTML (se a página for muito grande)
@@ -320,9 +320,9 @@ system:
 
 ```Você é um consultor sênior de CRO/UX. Avalie sites com rigor técnico, mas em tom amistoso. Foque em aumentar conversões.
 Entregue SEMPRE um HTML5 válido (com <head> e <body>) contendo duas seções:
-1) Avaliação da página (diagnóstico com referências objetivas)
+1) Avaliaçêo da página (diagnóstico com referências objetivas)
 2) Recomendações de melhoria (ações específicas e priorizadas)
-Não use Markdown fora de tags HTML. Evite jargão excessivo. Máximo de 10 recomendações.
+Nêo use Markdown fora de tags HTML. Evite jargêo excessivo. Máximo de 10 recomendações.
 ```
 
 
@@ -332,21 +332,21 @@ user:
 ```Avalie a página a seguir e gere a auditoria conforme as regras acima.
 
 Regras adicionais:
-• Seja claro, objetivo e orientado a ação.
-• Se algo estiver confuso, diga por que e o impacto na conversão.
-• Dê exemplos práticos (ex.: texto de botão, estrutura de seção, ordem do menu).
+• Seja claro, objetivo e orientado a açêo.
+• Se algo estiver confuso, diga por que e o impacto na conversêo.
+• Dê exemplos práticos (ex.: texto de botêo, estrutura de seçêo, ordem do menu).
 
 HTML da página:
 {{HTML_INTEIRO_AQUI}}
 ```
-No campo onde você coloca o HTML, use a expressão do n8n: normalmente {{$json.body}} ou {{$json.html_clean}} se usou o passo 2b.
+No campo onde você coloca o HTML, use a expressêo do n8n: normalmente {{$json.body}} ou {{$json.html_clean}} se usou o passo 2b.
 • Saída usada depois: {{$json.choices[0].message.content}} ou o campo equivalente exposto pelo nó como text/content.
 
 
 
 Aplicar o template visual do email (branding)
-Opção A simples: pedir ao OpenAI para já devolver com seu CSS inline (feito no system acima).
-Opção B mais robusta: usar um nó Set para montar um HTML final com sua moldura e injetar o conteúdo do modelo em uma variável {{content}}.
+Opçêo A simples: pedir ao OpenAI para já devolver com seu CSS inline (feito no system acima).
+Opçêo B mais robusta: usar um nó Set para montar um HTML final com sua moldura e injetar o conteúdo do modelo em uma variável {{content}}.
 • Nó: Set
 
 
@@ -409,12 +409,12 @@ Foi apresentado um **lead magnet automatizado** simples mas muito eficaz, com ap
 
 1. **Formulário no N8N**: coleta a URL da página e o email do usuário.
 2. **HTTP Request**: faz o scraping da página completa (HTML).
-3. **Análise com GPT-5 ou GPT-5 Mini**: gera uma avaliação (roast) da página e lista recomendações práticas.
+3. **Análise com GPT-5 ou GPT-5 Mini**: gera uma avaliaçêo (roast) da página e lista recomendações práticas.
 4. **Envio por Gmail (N8N)**: relatório personalizado em HTML com branding, cores e CTA final.
 
 ### Exemplos do output
 
-* O modelo gera uma análise crítica, apontando problemas como: confusão de navegação, vídeos mal aproveitados, páginas duplicadas entre desktop e mobile, microcopy fraco, etc.
+* O modelo gera uma análise crítica, apontando problemas como: confusêo de navegaçêo, vídeos mal aproveitados, páginas duplicadas entre desktop e mobile, microcopy fraco, etc.
 * Em seguida, sugere **10 (ou 11, no GPT-5 Mini)** recomendações concretas de melhorias.
 
 ### Custos comparados
@@ -424,24 +424,24 @@ Foi apresentado um **lead magnet automatizado** simples mas muito eficaz, com ap
 
 ### Boas práticas destacadas
 
-* Estruturar o prompt pedindo dois blocos: avaliação + recomendações.
+* Estruturar o prompt pedindo dois blocos: avaliaçêo + recomendações.
 * Solicitar que a saída seja em **HTML5 válido** (com tags `<head>` e `<body>`).
 * Opcional: gerar em Markdown e converter depois para HTML para reduzir tokens.
 * Melhorar o design pedindo ao ChatGPT um template customizado com cores de marca e botões de CTA.
 
-### Expansão do caso
+### Expansêo do caso
 
-O instrutor mostrou como evoluiu a automação:
+O instrutor mostrou como evoluiu a automaçêo:
 
 * Criou um **consultor automático via WhatsApp**, coletando mais dados (nome, empresa, cargo, processos, métricas) e guardando no CRM.
-* Essa versão envia **relatórios personalizados de oportunidades de automação**, com roadmap, KPIs, estimativa de economia e próximos passos.
+* Essa versêo envia **relatórios personalizados de oportunidades de automaçêo**, com roadmap, KPIs, estimativa de economia e próximos passos.
 * O sistema já foi aplicado em empresas de marketing e traz leads altamente qualificados.
 
-### Conclusão
+### Conclusêo
 
-* É uma automação **simples, barata e poderosa** para atrair leads.
-* Pode ser adaptada a qualquer setor que envolva avaliação, diagnóstico ou feedback.
-* Entregar valor antes de vender gera confiança, autoridade e aumenta a taxa de conversão.
+* É uma automaçêo **simples, barata e poderosa** para atrair leads.
+* Pode ser adaptada a qualquer setor que envolva avaliaçêo, diagnóstico ou feedback.
+* Entregar valor antes de vender gera confiança, autoridade e aumenta a taxa de conversêo.
 
 ------------------------------
 
@@ -461,13 +461,13 @@ e41. Lead magnet poderoso com apenas 4 módulos
 
 🚨 Mesmo fluxo trabalhado com MAKE:  no INEMA.MAKE
 
-Nesta aula você aprende a criar um sistema automatizado de “roast” ou avaliação de um site que é entregue por email ao usuário. A proposta funciona como um lead magnet espetacular: você oferece uma auditoria gratuita da página web do potencial cliente e, em troca, captura seu email e gera confiança para vender seus serviços.
+Nesta aula você aprende a criar um sistema automatizado de “roast” ou avaliaçêo de um site que é entregue por email ao usuário. A proposta funciona como um lead magnet espetacular: você oferece uma auditoria gratuita da página web do potencial cliente e, em troca, captura seu email e gera confiança para vender seus serviços.
 
-🛠️ O que conseguimos com esta automação?
+🛠️ O que conseguimos com esta automaçêo?
 
 * Capturar leads de forma elegante oferecendo valor real.
 * Entregar uma auditoria web profissional com recomendações claras.
-* Posicionar-se como especialista em otimização e conversão web.
+* Posicionar-se como especialista em otimizaçêo e conversêo web.
 * Personalizar a auditoria com identidade visual e design próprio.
 * Minimizar custos usando GPT-5 Mini, custando apenas 6 centavos por lead.
 
@@ -475,9 +475,9 @@ Nesta aula você aprende a criar um sistema automatizado de “roast” ou avali
 
 1. Formulário no N8N: o usuário informa a URL e seu email.
 2. HTTP Request: faz o scraping completo da página com método GET.
-3. Avaliação com OpenAI: todo o HTML é enviado ao GPT-5 Mini com um prompt projetado para avaliar a web e gerar recomendações.
-4. Design do relatório em HTML: personalização da saída com cores da marca e layout amigável.
-5. Envio por email: o usuário recebe a avaliação com recomendações e um CTA para solicitar ajuda profissional.
+3. Avaliaçêo com OpenAI: todo o HTML é enviado ao GPT-5 Mini com um prompt projetado para avaliar a web e gerar recomendações.
+4. Design do relatório em HTML: personalizaçêo da saída com cores da marca e layout amigável.
+5. Envio por email: o usuário recebe a avaliaçêo com recomendações e um CTA para solicitar ajuda profissional.
 
 🛠️ Ferramentas utilizadas
 
@@ -491,8 +491,8 @@ Nesta aula você aprende a criar um sistema automatizado de “roast” ou avali
 * Usar GPT-5 Mini reduz drasticamente os custos com resultados muito próximos ao modelo completo.
 * Sempre desenhe o prompt para que a IA entregue o conteúdo em HTML limpo.
 * Pode-se usar Markdown para economizar tokens e depois converter para HTML.
-* Reforçar o design com sua própria identidade visual aumenta a percepção de valor.
-* O sistema é facilmente adaptável a qualquer tipo de serviço: diagnóstico de processos, revisão de perfis, avaliação de campanhas etc.
+* Reforçar o design com sua própria identidade visual aumenta a percepçêo de valor.
+* O sistema é facilmente adaptável a qualquer tipo de serviço: diagnóstico de processos, revisêo de perfis, avaliaçêo de campanhas etc.
 * No final do email, inclua sempre um CTA claro para agendar uma chamada ou pedir ajuda.
 
 Recursos
@@ -512,18 +512,18 @@ MENSAGEM 13
 Autor: INEMA
 Data: 2025-08-27T02:57:50+00:00
 Texto:
-Imã de leads automatizado com auditoria web
+Imê de leads automatizado com auditoria web
 
 Você imagina que, cada vez que alguém colocar seu site em um formulário, receba automaticamente uma auditoria profissional — e você ainda fique com o contato da pessoa?
 
 Pois é exatamente isso que montamos nesta aula:
-🚀 Uma automação poderosa para captar leads no piloto automático, entregando valor real desde o primeiro minuto.
+🚀 Uma automaçêo poderosa para captar leads no piloto automático, entregando valor real desde o primeiro minuto.
 
 🧩 O que faz o sistema?
 
 * O usuário insere sua URL e email em um formulário bonito.
 * O N8N faz o scraping do site e envia tudo para o GPT-5 Mini.
-* O GPT analisa o site e gera uma avaliação (roast) com feedback construtivo e recomendações personalizadas.
+* O GPT analisa o site e gera uma avaliaçêo (roast) com feedback construtivo e recomendações personalizadas.
 * Todo esse resultado é enviado por email… com sua marca, suas cores e um CTA final oferecendo ajuda caso ele queira implementar.
 
 🔥 O melhor?
@@ -531,7 +531,7 @@ Pois é exatamente isso que montamos nesta aula:
 * É realmente útil.
 * Posiciona sua autoridade.
 * Custa 6 centavos.
-* Funciona em qualquer setor: marketing, design, UX, SEO, copy, vendas, educação…
+* Funciona em qualquer setor: marketing, design, UX, SEO, copy, vendas, educaçêo…
 
 📩 No meu caso, já estou usando com agências reais e está trazendo leads qualificados sem gastar um euro em anúncios.
 
@@ -540,7 +540,7 @@ Perfeito. Esse sistema se adapta a qualquer serviço em que você possa avaliar,
 
 👉 Imagine colocar isso na sua bio, em um story ou na sua página principal. Toda vez que alguém usar… deixa o email e você já impacta entregando valor real.
 
-Isso é captação em 2025: entregar antes de vender.
+Isso é captaçêo em 2025: entregar antes de vender.
 
 🔴 Fluxo feito no N8N: #✨ 41. Lead magnet poderoso com apenas 4 módulos
 🟣 Fluxo feito no MAKE: #🟢 58. Lead magnet poderoso

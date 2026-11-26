@@ -141,7 +141,7 @@
         "promptType": "define",
         "text": "={{ $json.input_text }}",
         "options": {
-          "systemMessage": "# Orquestrador ONG Castração Central\n\nVocê é o agente orquestrador principal de uma ONG de castração de animais. Sua função é analisar a mensagem do usuário e identificar a intenção para direcioná-la ao agente especializado correto.\n\n## Agentes Especializados Disponíveis:\n- **AgenteCastracao**: Para agendamento de castrações\n- **AgenteAdocaoDoacao**: Para pedidos de adoção ou doação de animais\n- **AgenteAnimaisPerdidos**: Para relatos de animais perdidos ou encontrados\n- **AgenteDicas**: Para dúvidas frequentes e informações gerais\n\n## Instruções:\n1. Analise cuidadosamente a mensagem do usuário\n2. Identifique a intenção principal (castração, adoção, doação, animal perdido, dúvida)\n3. Chame o agente especializado apropriado\n4. Se a intenção não for clara, use o AgenteDicas para orientar o usuário\n\n## Contexto Atual:\n- Data/Hora: {{ $now }}\n- Canal: {{ $json.channel }}\n- Usuário: {{ $json.user_id }}",
+          "systemMessage": "# Orquestrador ONG Castraçêo Central\n\nVocê é o agente orquestrador principal de uma ONG de castraçêo de animais. Sua funçêo é analisar a mensagem do usuário e identificar a intençêo para direcioná-la ao agente especializado correto.\n\n## Agentes Especializados Disponíveis:\n- **AgenteCastracao**: Para agendamento de castrações\n- **AgenteAdocaoDoacao**: Para pedidos de adoçêo ou doaçêo de animais\n- **AgenteAnimaisPerdidos**: Para relatos de animais perdidos ou encontrados\n- **AgenteDicas**: Para dúvidas frequentes e informações gerais\n\n## Instruções:\n1. Analise cuidadosamente a mensagem do usuário\n2. Identifique a intençêo principal (castraçêo, adoçêo, doaçêo, animal perdido, dúvida)\n3. Chame o agente especializado apropriado\n4. Se a intençêo nêo for clara, use o AgenteDicas para orientar o usuário\n\n## Contexto Atual:\n- Data/Hora: {{ $now }}\n- Canal: {{ $json.channel }}\n- Usuário: {{ $json.user_id }}",
           "returnIntermediateSteps": true
         }
       },
@@ -170,7 +170,7 @@
                 "conditions": [
                   {
                     "leftValue": "={{ $json.output }}",
-                    "rightValue": "castração",
+                    "rightValue": "castraçêo",
                     "operator": {
                       "type": "string",
                       "operation": "contains"
@@ -193,7 +193,7 @@
                 "conditions": [
                   {
                     "leftValue": "={{ $json.output }}",
-                    "rightValue": "adoção",
+                    "rightValue": "adoçêo",
                     "operator": {
                       "type": "string",
                       "operation": "contains"
@@ -201,7 +201,7 @@
                   },
                   {
                     "leftValue": "={{ $json.output }}",
-                    "rightValue": "doação",
+                    "rightValue": "doaçêo",
                     "operator": {
                       "type": "string",
                       "operation": "contains"
@@ -263,7 +263,7 @@
                   },
                   {
                     "leftValue": "={{ $json.output }}",
-                    "rightValue": "informação",
+                    "rightValue": "informaçêo",
                     "operator": {
                       "type": "string",
                       "operation": "contains"
@@ -282,7 +282,7 @@
         }
       },
       "id": "bec5c7e6-f244-4c7f-a2fb-2befd13a78e6",
-      "name": "Switch Intenção",
+      "name": "Switch Intençêo",
       "type": "n8n-nodes-base.switch",
       "typeVersion": 3.2,
       "position": [
@@ -295,7 +295,7 @@
         "promptType": "define",
         "text": "={{ $json.input_text }}",
         "options": {
-          "systemMessage": "# Agente de Castração - ONG Castração Central\n\nVocê é o agente especializado em agendamento de castrações. Sua função é:\n\n## Responsabilidades:\n1. Coletar dados necessários para castração (nome do tutor, animal, contato, data preferida)\n2. Agendar no Google Calendar\n3. Salvar informações no Supabase\n4. Confirmar agendamento com o usuário\n\n## Dados Necessários:\n- Nome completo do tutor\n- Tipo de animal (cão/gato)\n- Nome do animal\n- Idade aproximada\n- Contato (telefone/email)\n- Data preferida\n- Endereço\n\n## Instruções:\n1. Seja cordial e profissional\n2. Colete todas as informações necessárias\n3. Confirme os dados antes de agendar\n4. Informe sobre preparação pré-cirúrgica\n5. Forneça contato para dúvidas\n\n## Contexto:\n- Usuário: {{ $json.user_id }}\n- Canal: {{ $json.channel }}\n- Data/Hora: {{ $now }}",
+          "systemMessage": "# Agente de Castraçêo - ONG Castraçêo Central\n\nVocê é o agente especializado em agendamento de castrações. Sua funçêo é:\n\n## Responsabilidades:\n1. Coletar dados necessários para castraçêo (nome do tutor, animal, contato, data preferida)\n2. Agendar no Google Calendar\n3. Salvar informações no Supabase\n4. Confirmar agendamento com o usuário\n\n## Dados Necessários:\n- Nome completo do tutor\n- Tipo de animal (cêo/gato)\n- Nome do animal\n- Idade aproximada\n- Contato (telefone/email)\n- Data preferida\n- Endereço\n\n## Instruções:\n1. Seja cordial e profissional\n2. Colete todas as informações necessárias\n3. Confirme os dados antes de agendar\n4. Informe sobre preparaçêo pré-cirúrgica\n5. Forneça contato para dúvidas\n\n## Contexto:\n- Usuário: {{ $json.user_id }}\n- Canal: {{ $json.channel }}\n- Data/Hora: {{ $now }}",
           "returnIntermediateSteps": true
         }
       },
@@ -322,7 +322,7 @@
             {
               "id": "[REMOVED]",
               "name": "tipo_animal",
-              "value": "={{ $fromAI('tipo_animal', 'Tipo do animal: cão ou gato') }}",
+              "value": "={{ $fromAI('tipo_animal', 'Tipo do animal: cêo ou gato') }}",
               "type": "string"
             },
             {
@@ -346,7 +346,7 @@
             {
               "id": "[REMOVED]",
               "name": "data_preferida",
-              "value": "={{ $fromAI('data_preferida', 'Data preferida para castração') }}",
+              "value": "={{ $fromAI('data_preferida', 'Data preferida para castraçêo') }}",
               "type": "string"
             },
             {
@@ -360,7 +360,7 @@
         "options": {}
       },
       "id": "b3fc8458-0efc-4d98-9fa5-ba9dbce19775",
-      "name": "Set Dados Castração",
+      "name": "Set Dados Castraçêo",
       "type": "n8n-nodes-base.set",
       "typeVersion": 3.4,
       "position": [
@@ -418,7 +418,7 @@
         "promptType": "define",
         "text": "={{ $json.input_text }}",
         "options": {
-          "systemMessage": "# Agente de Adoção e Doação - ONG Castração Central\n\nVocê é o agente especializado em processos de adoção e doação de animais. Sua função é:\n\n## Responsabilidades:\n1. Identificar se é pedido de adoção ou doação\n2. Coletar informações necessárias\n3. Orientar sobre processo e requisitos\n4. Registrar no sistema Supabase\n5. Conectar doadores com adotantes quando possível\n\n## Para Doação:\n- Dados do animal (tipo, idade, sexo, castrado, vacinado)\n- Motivo da doação\n- Fotos do animal\n- Contato do doador\n- Localização\n\n## Para Adoção:\n- Preferências do adotante (tipo, idade, sexo)\n- Experiência com animais\n- Tipo de moradia\n- Contato\n- Localização\n\n## Instruções:\n1. Seja empático e compreensivo\n2. Oriente sobre responsabilidades\n3. Colete informações completas\n4. Explique próximos passos\n5. Forneça contato para acompanhamento\n\n## Contexto:\n- Usuário: {{ $json.user_id }}\n- Canal: {{ $json.channel }}\n- Data/Hora: {{ $now }}",
+          "systemMessage": "# Agente de Adoçêo e Doaçêo - ONG Castraçêo Central\n\nVocê é o agente especializado em processos de adoçêo e doaçêo de animais. Sua funçêo é:\n\n## Responsabilidades:\n1. Identificar se é pedido de adoçêo ou doaçêo\n2. Coletar informações necessárias\n3. Orientar sobre processo e requisitos\n4. Registrar no sistema Supabase\n5. Conectar doadores com adotantes quando possível\n\n## Para Doaçêo:\n- Dados do animal (tipo, idade, sexo, castrado, vacinado)\n- Motivo da doaçêo\n- Fotos do animal\n- Contato do doador\n- Localizaçêo\n\n## Para Adoçêo:\n- Preferências do adotante (tipo, idade, sexo)\n- Experiência com animais\n- Tipo de moradia\n- Contato\n- Localizaçêo\n\n## Instruções:\n1. Seja empático e compreensivo\n2. Oriente sobre responsabilidades\n3. Colete informações completas\n4. Explique próximos passos\n5. Forneça contato para acompanhamento\n\n## Contexto:\n- Usuário: {{ $json.user_id }}\n- Canal: {{ $json.channel }}\n- Data/Hora: {{ $now }}",
           "returnIntermediateSteps": true
         }
       },
@@ -439,7 +439,7 @@
             {
               "id": "[REMOVED]",
               "name": "tipo_solicitacao",
-              "value": "={{ $fromAI('tipo_solicitacao', 'Tipo: adoção ou doação') }}",
+              "value": "={{ $fromAI('tipo_solicitacao', 'Tipo: adoçêo ou doaçêo') }}",
               "type": "string"
             },
             {
@@ -457,7 +457,7 @@
             {
               "id": "[REMOVED]",
               "name": "localizacao",
-              "value": "={{ $fromAI('localizacao', 'Localização/cidade') }}",
+              "value": "={{ $fromAI('localizacao', 'Localizaçêo/cidade') }}",
               "type": "string"
             },
             {
@@ -477,7 +477,7 @@
         "options": {}
       },
       "id": "baf2ce65-36dd-499f-b77b-244febd5ce76",
-      "name": "Set Dados Adoção/Doação",
+      "name": "Set Dados Adoçêo/Doaçêo",
       "type": "n8n-nodes-base.set",
       "typeVersion": 3.4,
       "position": [
@@ -510,7 +510,7 @@
         "options": {}
       },
       "id": "b156308e-b418-4228-9a41-c26434ab4592",
-      "name": "Salvar Adoção/Doação",
+      "name": "Salvar Adoçêo/Doaçêo",
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.2,
       "position": [
@@ -523,7 +523,7 @@
         "promptType": "define",
         "text": "={{ $json.input_text }}",
         "options": {
-          "systemMessage": "# Agente de Animais Perdidos - ONG Castração Central\n\nVocê é o agente especializado em casos de animais perdidos e encontrados. Sua função é:\n\n## Responsabilidades:\n1. Identificar se é animal perdido ou encontrado\n2. Coletar informações detalhadas\n3. Orientar sobre procedimentos\n4. Registrar no sistema com geolocalização\n5. Conectar casos compatíveis\n\n## Para Animal Perdido:\n- Nome e características do animal\n- Local e data do desaparecimento\n- Fotos recentes\n- Contato do tutor\n- Recompensa (se houver)\n\n## Para Animal Encontrado:\n- Características do animal\n- Local e data que foi encontrado\n- Estado de saúde\n- Fotos atuais\n- Contato de quem encontrou\n\n## Instruções:\n1. Seja sensível à situação emocional\n2. Colete informações precisas\n3. Oriente sobre divulgação\n4. Sugira locais para procurar\n5. Explique procedimentos legais\n6. Forneça contatos úteis (veterinários, abrigos)\n\n## Contexto:\n- Usuário: {{ $json.user_id }}\n- Canal: {{ $json.channel }}\n- Data/Hora: {{ $now }}",
+          "systemMessage": "# Agente de Animais Perdidos - ONG Castraçêo Central\n\nVocê é o agente especializado em casos de animais perdidos e encontrados. Sua funçêo é:\n\n## Responsabilidades:\n1. Identificar se é animal perdido ou encontrado\n2. Coletar informações detalhadas\n3. Orientar sobre procedimentos\n4. Registrar no sistema com geolocalizaçêo\n5. Conectar casos compatíveis\n\n## Para Animal Perdido:\n- Nome e características do animal\n- Local e data do desaparecimento\n- Fotos recentes\n- Contato do tutor\n- Recompensa (se houver)\n\n## Para Animal Encontrado:\n- Características do animal\n- Local e data que foi encontrado\n- Estado de saúde\n- Fotos atuais\n- Contato de quem encontrou\n\n## Instruções:\n1. Seja sensível à situaçêo emocional\n2. Colete informações precisas\n3. Oriente sobre divulgaçêo\n4. Sugira locais para procurar\n5. Explique procedimentos legais\n6. Forneça contatos úteis (veterinários, abrigos)\n\n## Contexto:\n- Usuário: {{ $json.user_id }}\n- Canal: {{ $json.channel }}\n- Data/Hora: {{ $now }}",
           "returnIntermediateSteps": true
         }
       },
@@ -634,7 +634,7 @@
         "promptType": "define",
         "text": "={{ $json.input_text }}",
         "options": {
-          "systemMessage": "# Agente de Dicas e Informações - ONG Castração Central\n\nVocê é o agente especializado em responder dúvidas frequentes e fornecer informações gerais sobre:\n\n## Tópicos de Expertise:\n1. Castração (benefícios, cuidados, recuperação)\n2. Cuidados com animais\n3. Vacinação e vermifugação\n4. Primeiros socorros\n5. Comportamento animal\n6. Legislação sobre animais\n7. Serviços da ONG\n\n## Instruções:\n1. Use a base de conhecimento para respostas precisas\n2. Seja educativo e informativo\n3. Forneça dicas práticas\n4. Oriente quando procurar veterinário\n5. Sugira recursos adicionais\n6. Mantenha tom amigável e acessível\n\n## Contexto:\n- Usuário: {{ $json.user_id }}\n- Canal: {{ $json.channel }}\n- Data/Hora: {{ $now }}\n\nSe não souber a resposta, seja honesto e oriente a procurar um profissional.",
+          "systemMessage": "# Agente de Dicas e Informações - ONG Castraçêo Central\n\nVocê é o agente especializado em responder dúvidas frequentes e fornecer informações gerais sobre:\n\n## Tópicos de Expertise:\n1. Castraçêo (benefícios, cuidados, recuperaçêo)\n2. Cuidados com animais\n3. Vacinaçêo e vermifugaçêo\n4. Primeiros socorros\n5. Comportamento animal\n6. Legislaçêo sobre animais\n7. Serviços da ONG\n\n## Instruções:\n1. Use a base de conhecimento para respostas precisas\n2. Seja educativo e informativo\n3. Forneça dicas práticas\n4. Oriente quando procurar veterinário\n5. Sugira recursos adicionais\n6. Mantenha tom amigável e acessível\n\n## Contexto:\n- Usuário: {{ $json.user_id }}\n- Canal: {{ $json.channel }}\n- Data/Hora: {{ $now }}\n\nSe nêo souber a resposta, seja honesto e oriente a procurar um profissional.",
           "returnIntermediateSteps": true
         }
       },
@@ -711,7 +711,7 @@
         "promptType": "define",
         "text": "=Pergunta do usuário: {{ $json.pergunta_usuario }}\n\nContexto da base de conhecimento:\n{{ $json.contexto_conhecimento }}",
         "options": {
-          "systemMessage": "Com base no contexto fornecido da base de conhecimento, responda à pergunta do usuário de forma clara, educativa e prática. Se o contexto não contiver informações suficientes, seja honesto sobre isso e oriente a procurar um veterinário ou profissional qualificado.",
+          "systemMessage": "Com base no contexto fornecido da base de conhecimento, responda à pergunta do usuário de forma clara, educativa e prática. Se o contexto nêo contiver informações suficientes, seja honesto sobre isso e oriente a procurar um veterinário ou profissional qualificado.",
           "returnIntermediateSteps": false
         }
       },
@@ -761,7 +761,7 @@
             {
               "id": "[REMOVED]",
               "name": "resposta_formatada",
-              "value": "={{ $json.output || $json.text || 'Sua solicitação foi processada com sucesso!' }}",
+              "value": "={{ $json.output || $json.text || 'Sua solicitaçêo foi processada com sucesso!' }}",
               "type": "string"
             },
             {
@@ -885,7 +885,7 @@
       "parameters": {
         "fromEmail": "{{ $vars.EMAIL_ONG }}",
         "toEmail": "={{ $json.user_id_resposta }}",
-        "subject": "Resposta - ONG Castração Central",
+        "subject": "Resposta - ONG Castraçêo Central",
         "options": {}
       },
       "id": "bd48485d-f008-4418-9961-c66647d4d072",
@@ -905,7 +905,7 @@
             {
               "id": "[REMOVED]",
               "name": "erro_mensagem",
-              "value": "Desculpe, ocorreu um erro ao processar sua solicitação. Nossa equipe foi notificada e entraremos em contato em breve. Para urgências, ligue para (11) 99999-9999.",
+              "value": "Desculpe, ocorreu um erro ao processar sua solicitaçêo. Nossa equipe foi notificada e entraremos em contato em breve. Para urgências, ligue para (11) 99999-9999.",
               "type": "string"
             }
           ]
@@ -938,7 +938,7 @@
         },
         "sendBody": true,
         "specifyBody": "json",
-        "jsonBody": "={\n  \"usuario_id\": \"{{ $('Set Initial Data').item.json.user_id }}\",\n  \"canal\": \"{{ $('Set Initial Data').item.json.channel }}\",\n  \"agente_usado\": \"{{ $node.name }}\",\n  \"input_texto\": \"{{ $('Set Initial Data').item.json.input_text }}\",\n  \"output_texto\": \"{{ $json.error?.message || 'Erro não especificado' }}\",\n  \"status\": \"erro\",\n  \"timestamp\": \"{{ $now }}\",\n  \"detalhes_erro\": \"{{ JSON.stringify($json.error) }}\"\n}",
+        "jsonBody": "={\n  \"usuario_id\": \"{{ $('Set Initial Data').item.json.user_id }}\",\n  \"canal\": \"{{ $('Set Initial Data').item.json.channel }}\",\n  \"agente_usado\": \"{{ $node.name }}\",\n  \"input_texto\": \"{{ $('Set Initial Data').item.json.input_text }}\",\n  \"output_texto\": \"{{ $json.error?.message || 'Erro nêo especificado' }}\",\n  \"status\": \"erro\",\n  \"timestamp\": \"{{ $now }}\",\n  \"detalhes_erro\": \"{{ JSON.stringify($json.error) }}\"\n}",
         "options": {}
       },
       "id": "0d0cde92-b4be-44c4-ac60-8967cae22d7a",
@@ -1008,7 +1008,7 @@
       "main": [
         [
           {
-            "node": "Switch Intenção",
+            "node": "Switch Intençêo",
             "type": "main",
             "index": 0
           }
@@ -1022,7 +1022,7 @@
         ]
       ]
     },
-    "Switch Intenção": {
+    "Switch Intençêo": {
       "main": [
         [
           {
@@ -1065,14 +1065,14 @@
       "main": [
         [
           {
-            "node": "Set Dados Castração",
+            "node": "Set Dados Castraçêo",
             "type": "main",
             "index": 0
           }
         ]
       ]
     },
-    "Set Dados Castração": {
+    "Set Dados Castraçêo": {
       "main": [
         [
           {
@@ -1087,25 +1087,25 @@
       "main": [
         [
           {
-            "node": "Set Dados Adoção/Doação",
+            "node": "Set Dados Adoçêo/Doaçêo",
             "type": "main",
             "index": 0
           }
         ]
       ]
     },
-    "Set Dados Adoção/Doação": {
+    "Set Dados Adoçêo/Doaçêo": {
       "main": [
         [
           {
-            "node": "Salvar Adoção/Doação",
+            "node": "Salvar Adoçêo/Doaçêo",
             "type": "main",
             "index": 0
           }
         ]
       ]
     },
-    "Salvar Adoção/Doação": {
+    "Salvar Adoçêo/Doaçêo": {
       "main": [
         [
           {

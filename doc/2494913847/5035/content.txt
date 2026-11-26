@@ -21,7 +21,7 @@ MENSAGEM 2
 Autor: Rodiney
 Data: 2025-04-11T17:48:00+00:00
 Texto:
-Esse cara  do vídeo não ensina, só passa por cima dos assuntos. Para quem não entende, fica muito difícil acompanhar. Se alguém do grupo pudesse mostrar o passo a passo, seria de grande valor. Sei que esse não é exatamente o objetivo da comunidade, mas que ajudaria, com certeza ajudaria
+Esse cara  do vídeo nêo ensina, só passa por cima dos assuntos. Para quem nêo entende, fica muito difícil acompanhar. Se alguém do grupo pudesse mostrar o passo a passo, seria de grande valor. Sei que esse nêo é exatamente o objetivo da comunidade, mas que ajudaria, com certeza ajudaria
 
 ------------------------------
 
@@ -29,7 +29,7 @@ MENSAGEM 3
 Autor: Kaio
 Data: 2025-04-10T21:56:32+00:00
 Texto:
-O passo a passo tá aqui irmão: https://www.youtube.com/watch?v=4K_xtccRESM
+O passo a passo tá aqui irmêo: https://www.youtube.com/watch?v=4K_xtccRESM
 Midia: MessageMediaWebPage
 
 ------------------------------
@@ -38,7 +38,7 @@ MENSAGEM 4
 Autor: Luiz
 Data: 2025-04-10T20:17:20+00:00
 Texto:
-Quero fazer essa automação
+Quero fazer essa automaçêo
 
 ------------------------------
 
@@ -86,7 +86,7 @@ Texto:
 
 ---
 
-### **2. Geração do Roteiro com DeepSeek AI**
+### **2. Geraçêo do Roteiro com DeepSeek AI**
 - Criar um nó HTTP Request:
   - Método: POST
   - Modelo: `deepseek-coder`
@@ -95,7 +95,7 @@ Texto:
 
 ---
 
-### **3. Narração com ElevenLabs**
+### **3. Narraçêo com ElevenLabs**
 - Criar um novo nó:
   - Método: POST
   - URL: `https://api.elevenlabs.io/v1/text-to-speech/[VOICE_ID]`
@@ -106,15 +106,15 @@ Texto:
 
 ---
 
-### **4. Transcrição com OpenAI Whisper**
+### **4. Transcriçêo com OpenAI Whisper**
 - Fazer um POST para `https://api.openai.com/v1/audio/transcriptions`
   - Enviar o `.mp3` gerado
-  - Retorna o texto do áudio (transcrição)
+  - Retorna o texto do áudio (transcriçêo)
 - Esse texto será usado para gerar imagens
 
 ---
 
-### **5. Geração de Prompts de Imagem com Together AI**
+### **5. Geraçêo de Prompts de Imagem com Together AI**
 - Quebrar o texto em trechos (ex: 3 frases)
 - Para cada trecho:
   - Criar prompt com o seguinte comando:
@@ -123,7 +123,7 @@ Texto:
 
 ---
 
-### **6. Geração de Imagens com modelo Flux**
+### **6. Geraçêo de Imagens com modelo Flux**
 - Enviar cada prompt para a API Together AI (modelo Flux)
   - Recebe imagens em `base64`
   - Converter `base64` em imagem `.jpg`
@@ -131,7 +131,7 @@ Texto:
 
 ---
 
-### **7. Criar Animação com Hailuo AI**
+### **7. Criar Animaçêo com Hailuo AI**
 - Enviar a primeira imagem para a API da Hailuo (Minimax)
   - Parâmetros:
     - `first_frame_image`: URL da imagem no Google Cloud
@@ -145,11 +145,11 @@ Texto:
 ### **8. Montagem do Vídeo com AnyNoCode**
 - Combinar:
   - Áudio (.mp3)
-  - Animação (.mp4)
+  - Animaçêo (.mp4)
   - Música de fundo (opcional)
-  - Legenda (transcrição)
+  - Legenda (transcriçêo)
 - Chamada via API do AnyNoCode:
-  - Criação de vídeo final
+  - Criaçêo de vídeo final
   - Esperar processamento (loop de 30s)
   - Obter link final do vídeo renderizado
 
@@ -165,7 +165,7 @@ Texto:
 
 ---
 
-### **10. Publicação automática nas plataformas**
+### **10. Publicaçêo automática nas plataformas**
 
 #### **YouTube**
 - Agendador (Trigger diário)
@@ -216,12 +216,12 @@ Criar vídeos anônimos curtos e animados com IA e publicar automaticamente no Y
 
 **Ferramentas utilizadas:**
 - DeepSeek AI – roteiro curto
-- ElevenLabs – narração
-- OpenAI Whisper – transcrição
+- ElevenLabs – narraçêo
+- OpenAI Whisper – transcriçêo
 - Together AI (modelo Flux) – imagens
-- Hailuo AI – animação
+- Hailuo AI – animaçêo
 - Google Cloud – armazenamento
-- AnyNoCode – renderização
+- AnyNoCode – renderizaçêo
 - Google Sheets – controle
 - APIs do YouTube, Instagram, TikTok
 
@@ -229,7 +229,7 @@ Criar vídeos anônimos curtos e animados com IA e publicar automaticamente no Y
 
 **Fluxo dividido em 4 etapas principais:**
 
-1. **Geração de roteiro e áudio**
+1. **Geraçêo de roteiro e áudio**
    - DeepSeek AI cria texto (ex: “história de um pato na selva”)
    - ElevenLabs transforma em voz
    - Salva o áudio no Google Cloud
@@ -240,27 +240,27 @@ Criar vídeos anônimos curtos e animados com IA e publicar automaticamente no Y
    - Gera imagens com modelo Flux
    - Salva imagens no Google Cloud
 
-3. **Animação**
-   - Usa primeira imagem e cria animação com Hailuo AI
+3. **Animaçêo**
+   - Usa primeira imagem e cria animaçêo com Hailuo AI
    - Acompanha status até completar
 
-4. **Renderização do vídeo**
+4. **Renderizaçêo do vídeo**
    - Junta voz, imagens e música
    - Gera o vídeo final com AnyNoCode
    - Salva no Google Cloud
 
 ---
 
-**Publicação automática:**
+**Publicaçêo automática:**
 
-- **YouTube:** via API Google (requisição + upload)
+- **YouTube:** via API Google (requisiçêo + upload)
 - **Instagram:** via API Meta (Reels)
 - **TikTok:** apenas para contas privadas (API + upload em blocos)
 
 ---
 
 **Extras:**
-- Todos os dados são organizados no Google Sheets
+- Todos os dados sêo organizados no Google Sheets
 - Templates prontos disponíveis na comunidade AnyNoCode
 - Suporte técnico e chamadas mensais incluídas (plano pago)
 
@@ -272,7 +272,7 @@ MENSAGEM 11
 Autor: INEMA
 Data: 2025-04-09T05:07:36+00:00
 Texto:
-[Tutorial + Modelo] V2.0: O Agente de IA Definitivo para Vídeos Anônimos Animados no YouTube – 95% de Redução de Custos com o DeepSeek AI! (Sem Código)
+[Tutorial + Modelo] V2.0: O Agente de IA Definitivo para Vídeos Anônimos Animados no YouTube – 95% de Reduçêo de Custos com o DeepSeek AI! (Sem Código)
 
 
 Esse fluxo de trabalho combina DeepSeek AI, ElevenLabs, OpenAI, Flux, Hailuo AI e Google Cloud para gerar roteiros, narrações, visuais e vídeos — totalmente no piloto automático.

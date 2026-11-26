@@ -38,7 +38,7 @@ Texto:
 
 2. **Combine múltiplos agentes em uma única mensagem**
 
-   * Exemplo: “Verifique meu CRM e agende uma reunião com o João às 14h de amanhã.”
+   * Exemplo: “Verifique meu CRM e agende uma reuniêo com o Joêo às 14h de amanhê.”
    * O sistema identifica que deve usar o agente de CRM + agente de calendário.
 
 3. **Use variáveis do Telegram diretamente nos nós**
@@ -48,20 +48,20 @@ Texto:
 
 4. **Use o mesmo fluxo para diferentes plataformas de entrada**
 
-   * Substitua o `Telegram Trigger` por `Slack`, `WhatsApp (via API)`, ou `Webhook` para usar o mesmo motor de automação.
+   * Substitua o `Telegram Trigger` por `Slack`, `WhatsApp (via API)`, ou `Webhook` para usar o mesmo motor de automaçêo.
 
 5. **Crie um painel com status das execuções**
 
-   * Use `Notion` ou `Google Sheets` para logar cada interação com data, tarefa, status, e resposta da IA.
+   * Use `Notion` ou `Google Sheets` para logar cada interaçêo com data, tarefa, status, e resposta da IA.
 
 ---
 
 ### 🧠 HACKS DE PROMPTING
 
-6. **Use system prompts claros e com função definida**
+6. **Use system prompts claros e com funçêo definida**
 
    * Exemplo: `"Você é um assistente de e-mail responsável por criar, responder e enviar mensagens via Gmail."`
-   * Isso ajuda o GPT-5 a agir com mais precisão.
+   * Isso ajuda o GPT-5 a agir com mais precisêo.
 
 7. **Oriente o modelo com exemplos de resposta**
 
@@ -71,11 +71,11 @@ Texto:
 8. **Adicione regras no prompt**
 
    * Exemplo: “Nunca envie e-mail sem assunto. Sempre use linguagem formal. Sempre agende eventos com 1h de antecedência mínima.”
-   * Isso cria um padrão de comportamento da IA.
+   * Isso cria um padrêo de comportamento da IA.
 
 ---
 
-### 🔧 HACKS DE CONFIGURAÇÃO
+### 🔧 HACKS DE CONFIGURAÇêO
 
 9. **Use `context window = 20` para manter conversas curtas e rápidas**
 
@@ -84,7 +84,7 @@ Texto:
 10. **Organize os agentes com nomes claros**
 
 * Ex: `email_agent`, `calendar_agent`, `crm_agent`
-* Facilita o reuso e manutenção futura do fluxo.
+* Facilita o reuso e manutençêo futura do fluxo.
 
 11. **Use `IF nodes` para condicionar a resposta ou executar múltiplos agentes**
 
@@ -92,7 +92,7 @@ Texto:
 
 12. **Salve o histórico em um banco (Airtable, Supabase, Notion, etc.)**
 
-* Permite análise posterior, geração de dashboards e logs de desempenho.
+* Permite análise posterior, geraçêo de dashboards e logs de desempenho.
 
 ---
 
@@ -102,7 +102,7 @@ Texto:
 
 * Caso o GPT-5 esteja lento ou instável, use roteamento condicional para outro modelo.
 
-14. **Adicione verificação de contexto antes da execução**
+14. **Adicione verificaçêo de contexto antes da execuçêo**
 
 * Ex: “Você já enviou este e-mail hoje. Deseja repetir?”
 * Isso evita duplicações e melhora a experiência do usuário.
@@ -129,7 +129,7 @@ Aqui está um **passo a passo completo** para montar o *AI Agent Army* no **n8n*
 
 ---
 
-### ⚙️ ETAPA 1 – CONFIGURAÇÃO INICIAL DO n8n
+### ⚙️ ETAPA 1 – CONFIGURAÇêO INICIAL DO n8n
 
 1. **Crie um bot no Telegram**
 
@@ -140,7 +140,7 @@ Aqui está um **passo a passo completo** para montar o *AI Agent Army* no **n8n*
 
    * Conecte com o token do seu bot
    * Tipo de recurso: `Message`
-   * Operação: `On New Message`
+   * Operaçêo: `On New Message`
 
 3. **Adicione o nó `Edit Fields`**
 
@@ -160,18 +160,18 @@ Aqui está um **passo a passo completo** para montar o *AI Agent Army* no **n8n*
 
    * Conecta ao mesmo bot
    * Recurso: `Message`
-   * Operação: `Send Message`
+   * Operaçêo: `Send Message`
    * Chat ID: vindo do nó de trigger
    * Texto: resposta do GPT-5
 
 ---
 
-### 🧠 ETAPA 2 – CONFIGURAÇÃO DOS AGENTES (SUBAGENTES)
+### 🧠 ETAPA 2 – CONFIGURAÇêO DOS AGENTES (SUBAGENTES)
 
 #### 1. **Email Agent (Gmail)**
 
-* Função: Redigir, enviar, responder e deletar e-mails
-* Integração: Google Gmail API
+* Funçêo: Redigir, enviar, responder e deletar e-mails
+* Integraçêo: Google Gmail API
 * Ações:
 
   * `Create Draft`
@@ -181,8 +181,8 @@ Aqui está um **passo a passo completo** para montar o *AI Agent Army* no **n8n*
 
 #### 2. **Calendar Agent (Google Calendar)**
 
-* Função: Criar, deletar, atualizar e listar eventos
-* Integração: Google Calendar
+* Funçêo: Criar, deletar, atualizar e listar eventos
+* Integraçêo: Google Calendar
 * Campos:
 
   * `start time`, `end time`, `description`, `summary`
@@ -191,8 +191,8 @@ Aqui está um **passo a passo completo** para montar o *AI Agent Army* no **n8n*
 
 #### 3. **Database Agent (Airtable)**
 
-* Função: Buscar, criar e atualizar registros
-* Integração: Airtable
+* Funçêo: Buscar, criar e atualizar registros
+* Integraçêo: Airtable
 * Campos: nome, e-mail, empresa, etc.
 * Operações:
 
@@ -202,7 +202,7 @@ Aqui está um **passo a passo completo** para montar o *AI Agent Army* no **n8n*
 
 #### 4. **CRM Agent (Sales Tracker - Airtable)**
 
-* Função: Gerenciar oportunidades e leads
+* Funçêo: Gerenciar oportunidades e leads
 * Campos: nome da oportunidade, status, prioridade, valor, prazo
 * Ações:
 
@@ -211,44 +211,44 @@ Aqui está um **passo a passo completo** para montar o *AI Agent Army* no **n8n*
 
 #### 5. **Social Media Agent**
 
-* Função: Postar em redes sociais
+* Funçêo: Postar em redes sociais
 * Integrações:
 
   * LinkedIn: criar post como pessoa ou empresa
   * Twitter/X: criar tweet
   * Threads (via Graph API do Facebook)
-* Campos como texto da publicação definidos automaticamente
+* Campos como texto da publicaçêo definidos automaticamente
 
 #### 6. **Proposal Agent (Google Docs)**
 
-* Função: Criar e atualizar propostas em documentos
-* Integração: Google Docs
+* Funçêo: Criar e atualizar propostas em documentos
+* Integraçêo: Google Docs
 * Ações:
 
   * `Create Document`
   * `Update Document`
-* Define título, conteúdo, posição de inserção via IA
+* Define título, conteúdo, posiçêo de inserçêo via IA
 
 #### 7. **Web Research Agent (Pesquisa Online)**
 
-* Função: Buscar informações externas
+* Funçêo: Buscar informações externas
 * Ferramentas usadas:
 
   * Perplexity
   * Google Search
   * YouTube
-* Não foi detalhado no vídeo, mas funciona com o GPT-5 consultando essas fontes
+* Nêo foi detalhado no vídeo, mas funciona com o GPT-5 consultando essas fontes
 
 ---
 
-### 🧩 ETAPA 3 – FLUXO DE EXECUÇÃO (EXEMPLO)
+### 🧩 ETAPA 3 – FLUXO DE EXECUÇêO (EXEMPLO)
 
-1. Usuário envia mensagem no Telegram (ex: “Marcar reunião com João amanhã às 14h”)
+1. Usuário envia mensagem no Telegram (ex: “Marcar reuniêo com Joêo amanhê às 14h”)
 2. `Telegram Trigger` capta a mensagem
 3. `Edit Fields` estrutura o conteúdo
 4. `AI Agent (GPT-5)` interpreta e aciona o agente necessário (ex: `Calendar Agent`)
 5. `Calendar Agent` agenda o evento no Google Calendar
-6. `Telegram Send Message` responde ao usuário com confirmação
+6. `Telegram Send Message` responde ao usuário com confirmaçêo
 
 ---
 
@@ -256,17 +256,17 @@ Aqui está um **passo a passo completo** para montar o *AI Agent Army* no **n8n*
 
 * Todos os agentes utilizam memória simples
 * O template **pode ser baixado gratuitamente**
-* A maioria dos parâmetros (como horários, e-mails, campos) são definidos pelo GPT-5 automaticamente
+* A maioria dos parâmetros (como horários, e-mails, campos) sêo definidos pelo GPT-5 automaticamente
 * Pode-se adicionar outras ferramentas ao fluxo, como Notion, Slack, etc.
 
 ---
 
 ### 📌 Exemplo de tarefas que você pode enviar ao Telegram:
 
-* “Crie um rascunho de e-mail para reunião na sexta às 14h”
-* “Agende um evento no calendário amanhã às 10h”
+* “Crie um rascunho de e-mail para reuniêo na sexta às 14h”
+* “Agende um evento no calendário amanhê às 10h”
 * “Publique um post no LinkedIn com este conteúdo”
-* “Atualize o status da oportunidade XYZ para ‘Em negociação’”
+* “Atualize o status da oportunidade XYZ para ‘Em negociaçêo’”
 Midia: MessageMediaWebPage
 
 ------------------------------
@@ -283,16 +283,16 @@ MENSAGEM 7
 Autor: INEMA
 Data: 2025-08-11T18:49:07+00:00
 Texto:
-Como usar o GPT-5 para montar um “exército” de agentes de IA integrados no n8n, com um template gratuito. Ele faz demonstrações e depois explica a configuração de cada agente.
+Como usar o GPT-5 para montar um “exército” de agentes de IA integrados no n8n, com um template gratuito. Ele faz demonstrações e depois explica a configuraçêo de cada agente.
 
 Principais pontos:
 
-  * GPT-5 usado para responder mensagens, criar e-mails no Gmail, agendar eventos no Google Calendar e executar múltiplas tarefas em sequência (buscar dados no CRM, criar e-mail, agendar reunião etc.).
+  * GPT-5 usado para responder mensagens, criar e-mails no Gmail, agendar eventos no Google Calendar e executar múltiplas tarefas em sequência (buscar dados no CRM, criar e-mail, agendar reuniêo etc.).
 
-* **Configuração no n8n**
+* **Configuraçêo no n8n**
 
   * Gatilho inicial via Telegram Bot (configurado pelo BotFather).
-  * Nó de edição de campo para capturar o input do chat.
+  * Nó de ediçêo de campo para capturar o input do chat.
   * Nó AI Agent configurado com GPT-5, prompts para orientar o papel do agente e ferramentas necessárias.
   * Nó final do Telegram para enviar a resposta ao usuário.
 
@@ -309,7 +309,7 @@ Principais pontos:
 * **Observações finais**
 
   * O template é personalizável e gratuito.
-  * Apesar de todo o sistema usar GPT-5, o autor não percebeu grande diferença prática entre GPT-5 e outros modelos para essa aplicação específica.
+  * Apesar de todo o sistema usar GPT-5, o autor nêo percebeu grande diferença prática entre GPT-5 e outros modelos para essa aplicaçêo específica.
 
 ------------------------------
 

@@ -48,27 +48,27 @@ Data: 2025-07-09T22:59:37+00:00
 Texto:
 Resumo do vídeo **“Only 1% of n8n Builders Use This Trick (7x faster)”**:
 
-* **Técnica principal:** Uso de **paralelização** no n8n para executar múltiplas tarefas simultaneamente, acelerando os fluxos de trabalho em até 7x.
-* **Demonstração prática:** Comparação entre execução sequencial (uma tarefa por vez) e paralela (todas ao mesmo tempo), mostrando ganhos de tempo significativos.
-* **Subworkflows:** Explicação de como criar subfluxos para modularizar, reutilizar e simplificar fluxos complexos.
-* **Passos principais para paralelização:**
+* **Técnica principal:** Uso de **paralelizaçêo** no n8n para executar múltiplas tarefas simultaneamente, acelerando os fluxos de trabalho em até 7x.
+* **Demonstraçêo prática:** Comparaçêo entre execuçêo sequencial (uma tarefa por vez) e paralela (todas ao mesmo tempo), mostrando ganhos de tempo significativos.
+* **Subworkflows:** Explicaçêo de como criar subfluxos para modularizar, reutilizar e simplificar fluxos complexos.
+* **Passos principais para paralelizaçêo:**
 
   * Converter blocos de nós em um subworkflow.
   * Configurar para “Run once for each item”.
-  * Desmarcar a opção “Wait for subworkflow completion” para permitir execução simultânea.
+  * Desmarcar a opçêo “Wait for subworkflow completion” para permitir execuçêo simultânea.
 * **Vantagens dos subworkflows:**
 
   * Reuso de lógica repetida.
-  * Redução da complexidade visual do fluxo.
-  * Melhor tratamento de erros e manutenção.
+  * Reduçêo da complexidade visual do fluxo.
+  * Melhor tratamento de erros e manutençêo.
 * **Considerações e limitações:**
 
   * Restrições de APIs (rate limits).
   * Maior dificuldade para depurar fluxos com muitas execuções paralelas.
-  * Dependências de etapas que exigem execução sequencial.
-* **Exemplo ilustrativo:** Comparação com assar 3 perus: sequencialmente leva 90 min, paralelamente com 3 fornos leva só 30 min.
+  * Dependências de etapas que exigem execuçêo sequencial.
+* **Exemplo ilustrativo:** Comparaçêo com assar 3 perus: sequencialmente leva 90 min, paralelamente com 3 fornos leva só 30 min.
 * **Conteúdo extra:** Disponibiliza um PDF e arquivos JSON do fluxo na comunidade gratuita e cursos avançados na comunidade paga.
-* **Conclusão:** Paralelização pode cortar pela metade (ou mais) o tempo de execução, principalmente com muitos itens, mas deve ser usada com cuidado para evitar problemas com limites e erros.
+* **Conclusêo:** Paralelizaçêo pode cortar pela metade (ou mais) o tempo de execuçêo, principalmente com muitos itens, mas deve ser usada com cuidado para evitar problemas com limites e erros.
 
 ------------------------------
 
@@ -86,9 +86,9 @@ Data: 2025-07-09T22:59:28+00:00
 Texto:
 Apenas 1% dos criadores no n8n usam esse truque (7x mais rápido)
 
-Como usar **paralelização no n8n** para acelerar significativamente seus fluxos de trabalho, processando várias execuções ao mesmo tempo. Vou mostrar passo a passo como configurar um subfluxo, enviar dados para ele e executar essas tarefas em paralelo, tornando suas automações muito mais eficientes. 
+Como usar **paralelizaçêo no n8n** para acelerar significativamente seus fluxos de trabalho, processando várias execuções ao mesmo tempo. Vou mostrar passo a passo como configurar um subfluxo, enviar dados para ele e executar essas tarefas em paralelo, tornando suas automações muito mais eficientes. 
 
-Por que os subfluxos são úteis além da velocidade: eles tornam seus fluxos de trabalho mais **modulares, reutilizáveis** e **fáceis de manter** ao longo do tempo. Seja para otimizar o desempenho ou simplesmente organizar melhor suas construções no n8n, este vídeo oferece uma base prática para começar a usar subfluxos da maneira certa.
+Por que os subfluxos sêo úteis além da velocidade: eles tornam seus fluxos de trabalho mais **modulares, reutilizáveis** e **fáceis de manter** ao longo do tempo. Seja para otimizar o desempenho ou simplesmente organizar melhor suas construções no n8n, este vídeo oferece uma base prática para começar a usar subfluxos da maneira certa.
 
 ------------------------------
 
@@ -128,7 +128,7 @@ MENSAGEM 12
 Autor: INEMA
 Data: 2025-07-09T22:35:46+00:00
 Texto:
-ap42 - Paralelização e SubFlow
+ap42 - Paralelizaçêo e SubFlow
 
 ------------------------------
 

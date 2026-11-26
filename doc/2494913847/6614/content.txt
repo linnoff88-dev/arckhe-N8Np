@@ -49,7 +49,7 @@ Em seguida, execute o seguinte comando para configurar o servidor n8n associado 
   n8nio/n8n:1.88.0
 
 ```
-Atenção: Substitua "https://externally-helped-hippo.ngrok-free.app" pela sua própria URL do ngrok.
+Atençêo: Substitua "https://externally-helped-hippo.ngrok-free.app" pela sua própria URL do ngrok.
 
 Como instalar o FFmpeg no seu Docker (Para renderizar vídeos sem usar a API andynocode)
 No Docker > Container > Copie o ID do container (que aparece abaixo do nome do container) e cole-o no comando abaixo, substituindo a parte {{container id}}.

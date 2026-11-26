@@ -38,13 +38,13 @@ MENSAGEM 4
 Autor: INEMA
 Data: 2025-06-24T21:37:37+00:00
 Texto:
-Aqui estão **hacks práticos** para turbinar o sistema de estrategista de YouTube com IA no n8n e gerar ainda mais resultados com menos esforço:
+Aqui estêo **hacks práticos** para turbinar o sistema de estrategista de YouTube com IA no n8n e gerar ainda mais resultados com menos esforço:
 
 ---
 
 ## **Hacks para Otimizar o Sistema de IA no n8n (YouTube Strategist)**
 
-### 1. **Evite repetição com cache diário**
+### 1. **Evite repetiçêo com cache diário**
 
 * **Problema**: Scraping diário consome API e repete vídeos.
 * **Hack**: Armazene os IDs dos vídeos já analisados num Google Sheet ou banco (ex: Supabase). Antes de analisar novos, use um node `IF` para ignorar os repetidos.
@@ -59,7 +59,7 @@ Aqui estão **hacks práticos** para turbinar o sistema de estrategista de YouTu
   * Twitter/X
   * Product Hunt
   * Google Trends
-* Isso turbina a **fase 5 (ideação)** com mais contexto real de tendências.
+* Isso turbina a **fase 5 (ideaçêo)** com mais contexto real de tendências.
 
 ---
 
@@ -79,13 +79,13 @@ Aqui estão **hacks práticos** para turbinar o sistema de estrategista de YouTu
 
 ---
 
-### 5. **Classifique os vídeos com pontuação**
+### 5. **Classifique os vídeos com pontuaçêo**
 
 * Crie uma lógica simples para ranquear vídeos analisados:
 
   * Views x Likes = engajamento
   * Presença de palavra de impacto no início do título = +10 pontos
-* Ordene por pontuação para definir o que replicar.
+* Ordene por pontuaçêo para definir o que replicar.
 
 ---
 
@@ -111,16 +111,16 @@ Aqui estão **hacks práticos** para turbinar o sistema de estrategista de YouTu
 
 ---
 
-### 8. A**utopublicação programada
+### 8. A**utopublicaçêo programada
 **
 * Conecte n8n ao YouTube Studio via M**ake.com**** **ou API oficial.
-* Após ideação e thumbnail, envie para uma planilha de agendamento automático.
+* Após ideaçêo e thumbnail, envie para uma planilha de agendamento automático.
 
 ---
 
 ### 9. C**rie um banco de *hooks* de abertura
 **
-* Baixe a transcrição dos vídeos que mais performam (via **YouTube Transcript API**).
+* Baixe a transcriçêo dos vídeos que mais performam (via **YouTube Transcript API**).
 * Use IA para extrair apenas os primeiros 15 segundos (gancho).
 * Monte uma biblioteca de “aberturas que funcionam” por nicho.
 
@@ -166,7 +166,7 @@ curta da proposta do canal (usada no prompt).
 
 7. O**pcional: Slack
 **
-   * Envia notificação diária com o link da planilha.
+   * Envia notificaçêo diária com o link da planilha.
 
 ---
 
@@ -180,7 +180,7 @@ curta da proposta do canal (usada no prompt).
 
 * O**penAI / OpenRouter:
 **
-  * Custo muito baixo por requisição (menos de R\$0,01 cada)
+  * Custo muito baixo por requisiçêo (menos de R\$0,01 cada)
 
 ---
 
@@ -255,7 +255,7 @@ Coletar os 10 vídeos de maior sucesso dos 3 canais concorrentes, analisar títu
 
 8. **Node AI (OpenAI – Analisar Thumbnail)**
 
-   * Usa a URL da thumbnail para descrever o que chama atenção.
+   * Usa a URL da thumbnail para descrever o que chama atençêo.
 
 9. **Node SET / MERGE**
 
@@ -367,14 +367,14 @@ Coletar comentários dos 5 vídeos mais recentes do seu canal e entender:
 
 ---
 
-## **Fase 5: Geração de Ideias (Ideation)**
+## **Fase 5: Geraçêo de Ideias (Ideation)**
 
 ### Objetivo:
 
 Com base nos vídeos em alta + comentários do seu canal, criar 3 ideias de vídeos por dia, com:
 
 * Título
-* Sugestão de thumbnail
+* Sugestêo de thumbnail
 
 ### Etapas:
 
@@ -390,9 +390,9 @@ Com base nos vídeos em alta + comentários do seu canal, criar 3 ideias de víd
 
    * Junta os títulos, palavras de impacto, comentários e sugestões.
 
-4. **Node SET (Descrição do Canal)**
+4. **Node SET (Descriçêo do Canal)**
 
-   * Uma descrição
+   * Uma descriçêo
 Midia: MessageMediaWebPage
 
 ------------------------------
@@ -422,16 +422,16 @@ O criador mostra como construiu um agente de IA estrategista para YouTube utiliz
 * Entrada de 3 canais do mesmo nicho.
 * O sistema coleta os 10 vídeos com melhor desempenho (últimos 6 meses) de cada canal.
 * Analisa **títulos** (palavras de impacto) e **thumbnails** (estilo, contraste, promessa visual).
-* Os dados são organizados numa aba do Google Sheets.
+* Os dados sêo organizados numa aba do Google Sheets.
 
 **Exemplo de palavras de impacto detectadas:**
 “Full course”, “Start and sell”, “2025”, “1.5K cada”.
 
 ---
 
-#### **Fase 2 – Broad Niche Weekly (Automação semanal)**
+#### **Fase 2 – Broad Niche Weekly (Automaçêo semanal)**
 
-* Roda todo domingo às 5h da manhã.
+* Roda todo domingo às 5h da manhê.
 * Busca vídeos de nicho mais amplo (ex: “inteligência artificial”).
 * Analisa títulos, thumbnails e identifica padrões que podem ser aplicados no nicho mais específico.
 
@@ -439,7 +439,7 @@ O criador mostra como construiu um agente de IA estrategista para YouTube utiliz
 
 ---
 
-#### **Fase 3 – Niche Daily (Automação diária)**
+#### **Fase 3 – Niche Daily (Automaçêo diária)**
 
 * Busca vídeos de melhor desempenho no próprio nicho diariamente.
 * Analisa títulos, thumbnails e organiza numa aba do Google Sheets.
@@ -447,7 +447,7 @@ O criador mostra como construiu um agente de IA estrategista para YouTube utiliz
 
 ---
 
-#### **Fase 4 – Análise de Comentários (Automação diária)**
+#### **Fase 4 – Análise de Comentários (Automaçêo diária)**
 
 * Coleta comentários dos 5 vídeos mais recentes do canal do criador.
 * Analisa o que está indo bem, críticas e o que o público está pedindo.
@@ -459,7 +459,7 @@ O criador mostra como construiu um agente de IA estrategista para YouTube utiliz
 
 ---
 
-#### **Fase 5 – Ideação de Vídeos (Automação diária)**
+#### **Fase 5 – Ideaçêo de Vídeos (Automaçêo diária)**
 
 * Baseado nas fases 3 e 4, gera **3 novas ideias de vídeos por dia**.
 * Cada ideia inclui:
@@ -478,22 +478,22 @@ O criador mostra como construiu um agente de IA estrategista para YouTube utiliz
   * \$1,30 para 1.000 comentários.
 * **OpenAI e OpenRouter:** Para análises de imagens e textos.
 
-  * Custo muito baixo por requisição.
+  * Custo muito baixo por requisiçêo.
 * **Google Sheets:** Armazena todos os resultados.
 * **Slack:** Notificações automáticas diárias com os insights e links para os dados.
 
 ---
 
 
-### Ideias de Expansão Futuras
+### Ideias de Expansêo Futuras
 
 * Análise de **transcrições de vídeos** para gerar **hooks**.
 * Agente para ajudar com **posicionamento de conteúdo**.
-* Geração de calendário de conteúdo com base nas tendências.
+* Geraçêo de calendário de conteúdo com base nas tendências.
 
 ---
 
-### Conclusão
+### Conclusêo
 
 Esse sistema:
 

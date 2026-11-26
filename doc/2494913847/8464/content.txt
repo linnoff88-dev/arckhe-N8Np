@@ -24,8 +24,8 @@ Data: 2025-05-28T05:13:57+00:00
 Texto:
 1. **Objetivo Geral**
 
-   * Criar um sistema de automação de SEO completo com **n8n**, sem código.
-   * Desde a pesquisa de palavras-chave até a publicação automática no **WordPress**.
+   * Criar um sistema de automaçêo de SEO completo com **n8n**, sem código.
+   * Desde a pesquisa de palavras-chave até a publicaçêo automática no **WordPress**.
 
 2. **Etapa 1: Pesquisa de Palavras-chave**
 
@@ -41,8 +41,8 @@ Texto:
      * Volume de busca
      * CPC (custo por clique)
      * Concorrência
-     * Intenção de busca
-   * Geração de um **score personalizado** para priorização.
+     * Intençêo de busca
+   * Geraçêo de um **score personalizado** para priorizaçêo.
 
 3. **Etapa 2: Análise SERP**
 
@@ -50,30 +50,30 @@ Texto:
    * Agente de IA faz:
 
      * Análise de lacunas de conteúdo (content gap)
-     * Identificação do tipo de conteúdo ideal
+     * Identificaçêo do tipo de conteúdo ideal
      * Público-alvo, tom, objetivo e formato preferido do Google
-   * Geração de dados para estratégia de conteúdo baseada em concorrentes.
+   * Geraçêo de dados para estratégia de conteúdo baseada em concorrentes.
 
-4. **Etapa 3: Geração do Content Brief**
+4. **Etapa 3: Geraçêo do Content Brief**
 
-   * Criação automática de briefing SEO:
+   * Criaçêo automática de briefing SEO:
 
-     * Título, introdução, H2/H3, palavras-chave, CTA
+     * Título, introduçêo, H2/H3, palavras-chave, CTA
      * Links internos e externos
      * Ângulo único e estrutura lógica
    * Envio automático para o Google Sheets para os redatores.
 
-5. **Etapa 4: Redação e Publicação**
+5. **Etapa 4: Redaçêo e Publicaçêo**
 
    * Agente de IA redige o artigo com base no briefing.
-   * Geração de imagem via **OpenAI Image API**.
-   * Formatação automática do conteúdo com HTML.
-   * Publicação direta no **WordPress** (modo rascunho ou publicado).
+   * Geraçêo de imagem via **OpenAI Image API**.
+   * Formataçêo automática do conteúdo com HTML.
+   * Publicaçêo direta no **WordPress** (modo rascunho ou publicado).
 
 6. **Extras Técnicos**
 
    * Uso do **pin** de notas no n8n para evitar reruns caros.
-   * Configuração de autenticação com:
+   * Configuraçêo de autenticaçêo com:
 
      * **OpenRouter** (múltiplos modelos de IA)
      * **Apify** (crawler de conteúdo)
@@ -81,8 +81,8 @@ Texto:
    * Explicações sobre:
 
      * **Search intent** (informacional, navegacional, comercial, transacional)
-     * **Keyword clustering** (evitar canibalização e aumentar autoridade)
-     * **Frequência ideal de publicação** (2 a 4 posts por semana)
+     * **Keyword clustering** (evitar canibalizaçêo e aumentar autoridade)
+     * **Frequência ideal de publicaçêo** (2 a 4 posts por semana)
 
 ------------------------------
 
@@ -100,14 +100,14 @@ Data: 2025-05-28T05:13:26+00:00
 Texto:
 Resumo da masterclass:
 
-Um sistema completo de **automação de SEO** foi criado usando **n8n**, **DataForSEO**, **Apify**, **OpenAI** e **WordPress**, sem necessidade de programação. O fluxo automatiza desde a pesquisa de palavras-chave até a publicação final de artigos no blog.
+Um sistema completo de **automaçêo de SEO** foi criado usando **n8n**, **DataForSEO**, **Apify**, **OpenAI** e **WordPress**, sem necessidade de programaçêo. O fluxo automatiza desde a pesquisa de palavras-chave até a publicaçêo final de artigos no blog.
 
 Resumo por tópicos:
 
 1. **Pesquisa de palavras-chave**
 
-   * Extração automatizada com 5 métodos (relacionadas, sugestões, autocomplete, ideias, subtópicos).
-   * Geração de score baseado em volume, CPC, dificuldade e intenção.
+   * Extraçêo automatizada com 5 métodos (relacionadas, sugestões, autocomplete, ideias, subtópicos).
+   * Geraçêo de score baseado em volume, CPC, dificuldade e intençêo.
 
 2. **Análise SERP (resultados do Google)**
 
@@ -116,21 +116,21 @@ Resumo por tópicos:
 
 3. **Content Brief automático**
 
-   * Geração de briefing completo com estrutura SEO (H2, H3, CTAs, links internos/externos).
+   * Geraçêo de briefing completo com estrutura SEO (H2, H3, CTAs, links internos/externos).
    * Resultado enviado para Google Sheets para uso do redator.
 
-4. **Redação e publicação automática**
+4. **Redaçêo e publicaçêo automática**
 
    * Agente de IA redige o artigo com base no briefing.
    * Imagens geradas por IA.
-   * Publicação no WordPress com um clique (como rascunho ou publicado).
+   * Publicaçêo no WordPress com um clique (como rascunho ou publicado).
 
 5. **Recursos adicionais**
 
    * Técnicas como pin de nós no n8n para testes econômicos.
-   * Estratégias como **clustering de palavras-chave**, análise de intenção e frequência de postagem para melhorar o SEO.
+   * Estratégias como **clustering de palavras-chave**, análise de intençêo e frequência de postagem para melhorar o SEO.
 
-Esse sistema economiza horas de trabalho manual e permite escalar produção de conteúdo SEO com eficiência. Deseja que eu gere um template pronto desse fluxo no n8n?
+Esse sistema economiza horas de trabalho manual e permite escalar produçêo de conteúdo SEO com eficiência. Deseja que eu gere um template pronto desse fluxo no n8n?
 
 ------------------------------
 
@@ -138,9 +138,9 @@ MENSAGEM 5
 Autor: INEMA
 Data: 2025-05-28T05:08:27+00:00
 Texto:
-**Masterclass de SEO com n8n: Da Pesquisa de Palavras-chave à Publicação Automática no WordPress (Tudo no Piloto Automático)**
+**Masterclass de SEO com n8n: Da Pesquisa de Palavras-chave à Publicaçêo Automática no WordPress (Tudo no Piloto Automático)**
 
-Construa uma máquina de automação de SEO usando ferramentas de código aberto como n8n, DataForSEO e Apify — sem código, sem assinaturas e totalmente personalizável. Esse fluxo de trabalho em estilo "arrastar e soltar" automatiza a pesquisa de palavras-chave, análise de SERP, criação de resumos de conteúdo e até a publicação no WordPress.
+Construa uma máquina de automaçêo de SEO usando ferramentas de código aberto como n8n, DataForSEO e Apify — sem código, sem assinaturas e totalmente personalizável. Esse fluxo de trabalho em estilo "arrastar e soltar" automatiza a pesquisa de palavras-chave, análise de SERP, criaçêo de resumos de conteúdo e até a publicaçêo no WordPress.
 
 Se você administra uma agência de conteúdo, está escalando sites de nicho ou simplesmente está cansado de fazer SEO manualmente — este sistema faz todo o trabalho pesado por você.
 

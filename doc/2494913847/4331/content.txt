@@ -52,11 +52,11 @@ Aqui vai um **passo a passo completo e prático** para construir o **Painel de I
 ---
 
 ### **OBJETIVO:**
-Criar um **painel interativo** que conecta Instagram, LinkedIn e YouTube, extrai dados automaticamente, armazena no Airtable e apresenta insights com **ChatGPT**, tudo sem programação.
+Criar um **painel interativo** que conecta Instagram, LinkedIn e YouTube, extrai dados automaticamente, armazena no Airtable e apresenta insights com **ChatGPT**, tudo sem programaçêo.
 
 ---
 
-## **ETAPA 1: PREPARAÇÃO**
+## **ETAPA 1: PREPARAÇêO**
 
 ### 1.1. Crie contas nas plataformas:
 - [Loveable](https://lovable.dev/?via=jack)
@@ -75,7 +75,7 @@ Criar um **painel interativo** que conecta Instagram, LinkedIn e YouTube, extrai
 ### 2.1. **LinkedIn com PhantomBuster**
 - Vá até o PhantomBuster e adicione o **“LinkedIn Activity Extractor”**.
 - Cole a URL do seu perfil do LinkedIn.
-- Instale a extensão do PhantomBuster no Chrome.
+- Instale a extensêo do PhantomBuster no Chrome.
 - Salve e execute.
 - Resultado: Posts, likes, comentários, reposts.
 
@@ -88,7 +88,7 @@ Criar um **painel interativo** que conecta Instagram, LinkedIn e YouTube, extrai
 ### 2.3. **YouTube com RSS + API**
 - Pegue o link RSS do seu canal (usando RSS.app ou similares).
 - Configure um módulo de RSS no Make para buscar vídeos dos últimos 7 dias.
-- Use a **API do YouTube** no Make para extrair dados como: título, visualizações, likes, comentários, thumbnail e transcrição.
+- Use a **API do YouTube** no Make para extrair dados como: título, visualizações, likes, comentários, thumbnail e transcriçêo.
 - Habilite a API no [Google Cloud Console](https://console.cloud.google.com/).
 
 ---
@@ -97,7 +97,7 @@ Criar um **painel interativo** que conecta Instagram, LinkedIn e YouTube, extrai
 
 ### 3.1. Crie uma base chamada `Social Media Domination`
 - Crie 3 tabelas: **LinkedIn**, **Instagram**, **YouTube**
-- Adicione campos padrão:
+- Adicione campos padrêo:
   - `Post URL`
   - `Post Content` ou `Caption`
   - `Likes`
@@ -106,7 +106,7 @@ Criar um **painel interativo** que conecta Instagram, LinkedIn e YouTube, extrai
   - `When Posted`
   - `Video Duration` (se for o caso)
 
-### 3.2. Mantenha os mesmos nomes de campos nas 3 tabelas para facilitar a integração.
+### 3.2. Mantenha os mesmos nomes de campos nas 3 tabelas para facilitar a integraçêo.
 
 ---
 
@@ -126,20 +126,20 @@ Criar um **painel interativo** que conecta Instagram, LinkedIn e YouTube, extrai
 
 ---
 
-## **ETAPA 5: CRIAÇÃO DO PAINEL COM LOVEABLE**
+## **ETAPA 5: CRIAÇêO DO PAINEL COM LOVEABLE**
 
 ### 5.1. Acesse [Loveable.dev](https://lovable.dev/)
 - Crie um novo projeto.
-- Adicione o **template de dashboard** com gráficos (use Codepen como inspiração).
+- Adicione o **template de dashboard** com gráficos (use Codepen como inspiraçêo).
 
 ### 5.2. Conecte ao Airtable:
 - Forneça a **Base ID** e **API Key**.
 - Permita que a página carregue os dados automaticamente.
-- Verifique se os dados estão aparecendo corretamente.
+- Verifique se os dados estêo aparecendo corretamente.
 
 ---
 
-## **ETAPA 6: INTEGRAÇÃO COM IA (ChatGPT)**
+## **ETAPA 6: INTEGRAÇêO COM IA (ChatGPT)**
 
 ### 6.1. No painel do Loveable:
 - Adicione um campo para o usuário inserir sua **API Key da OpenAI**.
@@ -187,7 +187,7 @@ Data: 2025-03-30T22:04:16+00:00
 Texto:
 **Resumo “Build this AI-Powered Social Dashboard (Loveable)”**
 
-O criador ensina passo a passo como construir um painel de insights de redes sociais com IA, conectando dados do Instagram, YouTube e LinkedIn a uma aplicação web criada com a ferramenta **Loveable**, usando automações no **n8n**, **Make.com**, **Airtable** e raspadores como **PhantomBuster** e **Apify**. O painel também conta com integração com **ChatGPT** para gerar análises automáticas dos dados.
+O criador ensina passo a passo como construir um painel de insights de redes sociais com IA, conectando dados do Instagram, YouTube e LinkedIn a uma aplicaçêo web criada com a ferramenta **Loveable**, usando automações no **n8n**, **Make.com**, **Airtable** e raspadores como **PhantomBuster** e **Apify**. O painel também conta com integraçêo com **ChatGPT** para gerar análises automáticas dos dados.
 
 ---
 
@@ -198,9 +198,9 @@ Criar um painel interativo que centralize os dados das redes sociais e ofereça 
 
 **Etapas e Ferramentas Utilizadas:**
 
-1. **Planejamento e estruturação do projeto**
+1. **Planejamento e estruturaçêo do projeto**
    - Escolha das redes sociais: Instagram, YouTube e LinkedIn.
-   - Visualização do painel com design limpo e responsivo via Loveable.
+   - Visualizaçêo do painel com design limpo e responsivo via Loveable.
 
 2. **Raspagem de dados (Scraping):**
    - **LinkedIn:**  
@@ -209,29 +209,29 @@ Criar um painel interativo que centralize os dados das redes sociais e ofereça 
 
    - **Instagram:**  
      - Utiliza Apify para extrair dados de posts, reels e métricas como likes, visualizações e comentários.  
-     - Integração via requisição HTTP no n8n com auxílio do modelo Qwen ou Claude para gerar os requests.
+     - Integraçêo via requisiçêo HTTP no n8n com auxílio do modelo Qwen ou Claude para gerar os requests.
 
    - **YouTube:**  
      - Utiliza feed RSS para pegar os vídeos da última semana.  
-     - Faz scraping dos dados (título, comentários, likes, visualizações, thumbnail, transcrição) com Make usando Google API.
+     - Faz scraping dos dados (título, comentários, likes, visualizações, thumbnail, transcriçêo) com Make usando Google API.
 
 3. **Banco de dados:**
-   - Criação de base no **Airtable** para armazenar os dados de cada rede.
-   - Organização dos campos com nomes consistentes para facilitar a integração com o painel.
+   - Criaçêo de base no **Airtable** para armazenar os dados de cada rede.
+   - Organizaçêo dos campos com nomes consistentes para facilitar a integraçêo com o painel.
 
-4. **Criação do painel com ****Loveable.dev****:**
-   - Integração com Airtable (via API Key e ID de base).
+4. **Criaçêo do painel com ****Loveable.dev****:**
+   - Integraçêo com Airtable (via API Key e ID de base).
    - Carregamento automático dos dados quando o painel é aberto.
-   - Utilização de templates de design via CodePen e personalização do layout com CSS e JavaScript.
+   - Utilizaçêo de templates de design via CodePen e personalizaçêo do layout com CSS e JavaScript.
 
-5. **Integração com ChatGPT:**
+5. **Integraçêo com ChatGPT:**
    - Campo para inserir a API Key do OpenAI.
    - Interface de chat integrada ao painel.
-   - Capacidade de responder perguntas como “quais são os melhores conteúdos?”, “o que performou pior?”, etc.
-   - Geração de insights automáticos via botões como "Top Performing Insights" e "Poor Performing Insights".
+   - Capacidade de responder perguntas como “quais sêo os melhores conteúdos?”, “o que performou pior?”, etc.
+   - Geraçêo de insights automáticos via botões como "Top Performing Insights" e "Poor Performing Insights".
 
-6. **Automação semanal:**
-   - Os fluxos no Make e n8n são programados para rodar automaticamente uma vez por semana, atualizando o Airtable com novos dados.
+6. **Automaçêo semanal:**
+   - Os fluxos no Make e n8n sêo programados para rodar automaticamente uma vez por semana, atualizando o Airtable com novos dados.
 
 ---
 
@@ -244,13 +244,13 @@ Criar um painel interativo que centralize os dados das redes sociais e ofereça 
 
 ---
 
-**Conclusão e aprendizados:**
+**Conclusêo e aprendizados:**
 
-- O ideal é **priorizar a integração funcional antes do design visual**.
+- O ideal é **priorizar a integraçêo funcional antes do design visual**.
 - Consistência nos nomes dos campos facilita a escalabilidade.
-- Claude se mostrou mais eficaz do que outras IAs na geração de requests HTTP e troubleshooting.
-- O painel final traz não só os dados, mas **análises automatizadas com IA**, facilitando decisões de marketing.
-- O projeto é **modular**, podendo ser ampliado com novos recursos como login, gráficos em tempo real, ou integração com pagamentos.
+- Claude se mostrou mais eficaz do que outras IAs na geraçêo de requests HTTP e troubleshooting.
+- O painel final traz nêo só os dados, mas **análises automatizadas com IA**, facilitando decisões de marketing.
+- O projeto é **modular**, podendo ser ampliado com novos recursos como login, gráficos em tempo real, ou integraçêo com pagamentos.
 
 ---
 
@@ -260,8 +260,8 @@ Criar um painel interativo que centralize os dados das redes sociais e ofereça 
 - **n8n / ****Make.com** – automações no-code
 - **Airtable** – banco de dados com interface
 - **PhantomBuster / Apify** – raspagem de dados
-- **Claude / Qwen / ChatGPT** – geração de prompts, requisições e análises com IA
-- **Google API + RSS Feed** – para extração de dados do YouTube
+- **Claude / Qwen / ChatGPT** – geraçêo de prompts, requisições e análises com IA
+- **Google API + RSS Feed** – para extraçêo de dados do YouTube
 
 ------------------------------
 
@@ -301,8 +301,8 @@ Texto:
 👾 Raspagem do Instagram  
 📹 Raspagem do YouTube  
 🤙 Raspagem do LinkedIn  
-📊 Criação de banco de dados no Airtable  
-🚀 Criação de Aplicação Web com IA usando seus dados  
+📊 Criaçêo de banco de dados no Airtable  
+🚀 Criaçêo de Aplicaçêo Web com IA usando seus dados  
 
 
 Se você estiver planejando vender isso para clientes, só será necessário UM aplicativo.

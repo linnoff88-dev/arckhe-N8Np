@@ -471,7 +471,7 @@ WHERE (EXTRACT(EPOCH FROM (NOW() - created_at)) < ttl);
 
 ```
 1. Open App → See streak (don't break it!)
-2. Dashboard shows: "Your friend João just beat your cardiology score"
+2. Dashboard shows: "Your friend Joêo just beat your cardiology score"
 3. Do 5 quick cases to regain #1 spot
 4. Unlock badge → Share on WhatsApp
 5. Friend sees → comes back to compete
@@ -566,7 +566,7 @@ CREATE TABLE study_buddy_matches (
 **Algorithm:**
 - Match by: similar level, complementary weaknesses, same exam date, compatible schedules
 - "You're both weak in neuro → practice together"
-- "João is strong where you're weak → learn from him"
+- "Joêo is strong where you're weak → learn from him"
 
 ---
 

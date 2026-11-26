@@ -72,7 +72,7 @@ MENSAGEM 8
 Autor: INEMA
 Data: 2025-07-28T19:25:32+00:00
 Texto:
-O RunPod é uma plataforma de computação em nuvem especializada em IA e aprendizado de máquina, onde você pode alugar GPUs poderosas sob demanda, de forma simples, flexível e escalável.
+O RunPod é uma plataforma de computaçêo em nuvem especializada em IA e aprendizado de máquina, onde você pode alugar GPUs poderosas sob demanda, de forma simples, flexível e escalável.
 
 ---
 
@@ -104,27 +104,27 @@ O RunPod é uma plataforma de computação em nuvem especializada em IA e aprend
 
 ### 🧠 Vantagens para projetos com IA
 
-* Não exige compra de hardware sofisticado: ideal para quem precisa de processamento GPU ocasionalmente 
+* Nêo exige compra de hardware sofisticado: ideal para quem precisa de processamento GPU ocasionalmente 
 * Facilita o uso de ferramentas como **n8n, Jupyter**, automações e pipelines em IA sem precisar manter uma infraestrutura própria.
 * Escala conforme sua necessidade: você pode rodar apenas quando quiser e pausar depois.
 
 ---
 
-### ⚠️ Limitações e pontos de atenção
+### ⚠️ Limitações e pontos de atençêo
 
-* **Instâncias temporárias (spot/cloud)** podem ser interrompidas, exigindo reconfiguração — usar volumes de rede ajuda a preservar dados entre sessões 
+* **Instâncias temporárias (spot/cloud)** podem ser interrompidas, exigindo reconfiguraçêo — usar volumes de rede ajuda a preservar dados entre sessões 
 * A estabilidade e experiência podem variar, especialmente na community cloud. Monitorar performance e disponibilidade é essencial
 
 ---
 
 ### 📝 Para que serve — casos de uso
 
-| Caso de Uso                           | Descrição                                                                   |
+| Caso de Uso                           | Descriçêo                                                                   |
 | ------------------------------------- | --------------------------------------------------------------------------- |
 | **Treinamento de modelos IA**         | Use GPUs potentes como H100 e A100 para treinar ou fine-tunar modelos       |
 | **Inferência com baixa latência**     | Deploy de endpoints para servir modelos em tempo real                       |
-| **Renderização de vídeo e conteúdos** | Geração de vídeos com IA via pipelines Python                               |
-| **Automação e prototipagem rápida**   | Integrar com ferramentas como n8n, Jupyter e Docker para acelerar workflows |
+| **Renderizaçêo de vídeo e conteúdos** | Geraçêo de vídeos com IA via pipelines Python                               |
+| **Automaçêo e prototipagem rápida**   | Integrar com ferramentas como n8n, Jupyter e Docker para acelerar workflows |
 
 ---
 
@@ -136,9 +136,9 @@ Usuários relatam que o RunPod é significativamente mais barato que manter uma 
 
 ---
 
-### ✅ Conclusão
+### ✅ Conclusêo
 
-O RunPod é uma solução acessível, flexível e prática para quem quer usar GPUs de alto desempenho sem custos fixos ou infraestrutura própria. É ideal para gerar vídeos IA, automação, treinamento ou deploy de modelos, com suporte a instâncias spot e serverless.
+O RunPod é uma soluçêo acessível, flexível e prática para quem quer usar GPUs de alto desempenho sem custos fixos ou infraestrutura própria. É ideal para gerar vídeos IA, automaçêo, treinamento ou deploy de modelos, com suporte a instâncias spot e serverless.
 
 ------------------------------
 
@@ -179,7 +179,7 @@ Imagem de uma bola de gude em mesa de madeira → ótimo contraste para gerar mo
 
 ---
 
-### 3. **Combine o som com descrição emocional no prompt**
+### 3. **Combine o som com descriçêo emocional no prompt**
 
 * Ao criar o prompt para áudio, inclua emoções sutis:
 
@@ -200,7 +200,7 @@ Imagem de uma bola de gude em mesa de madeira → ótimo contraste para gerar mo
 * Nomear arquivos como `3.mp4` e `3_final.mp4` permite:
 
   * Rastreabilidade automática
-  * Redução de erro no workflow
+  * Reduçêo de erro no workflow
   * Fácil debug
 
 ---
@@ -209,7 +209,7 @@ Imagem de uma bola de gude em mesa de madeira → ótimo contraste para gerar mo
 
 * Salve seus checkpoints e modelos no **volume disk**:
 
-  * Não será perdido ao desligar a máquina
+  * Nêo será perdido ao desligar a máquina
   * Evita baixar tudo novamente
   * Garante desempenho mais rápido nas execuções seguintes
 
@@ -217,15 +217,15 @@ Imagem de uma bola de gude em mesa de madeira → ótimo contraste para gerar mo
 
 ### 7. **Reaproveite o mesmo workflow para gerar reels, shorts e TikTok**
 
-* Gere vídeos verticais (9:16) alterando o parâmetro de resolução no script.
+* Gere vídeos verticais (9:16) alterando o parâmetro de resoluçêo no script.
 * Exporte vídeos curtos (3-5s) com loop, ideais para YouTube Shorts, TikTok, Reels.
 
 ---
 
-### 8. **Agende execução automática com Google Sheets + n8n**
+### 8. **Agende execuçêo automática com Google Sheets + n8n**
 
-* Coloque uma coluna “data de execução” e use uma rotina no n8n para verificar a planilha diariamente.
-* Automatize a produção contínua (tipo “fábrica de vídeos”).
+* Coloque uma coluna “data de execuçêo” e use uma rotina no n8n para verificar a planilha diariamente.
+* Automatize a produçêo contínua (tipo “fábrica de vídeos”).
 
 ---
 
@@ -239,7 +239,7 @@ Imagem de uma bola de gude em mesa de madeira → ótimo contraste para gerar mo
 
 ### 10. **Rode múltiplas execuções em paralelo (GPU permitting)**
 
-* Se sua GPU permitir, paralelize a execução com múltiplos scripts.
+* Se sua GPU permitir, paralelize a execuçêo com múltiplos scripts.
 * Use nomes únicos para arquivos (ex: timestamp ou UUID).
 
 ---
@@ -256,7 +256,7 @@ Imagem de uma bola de gude em mesa de madeira → ótimo contraste para gerar mo
 
   * Sons de relaxamento
   * Sons de objetos específicos (teclas, vidro, areia)
-  * Sons com nomes de marcas para personalização
+  * Sons com nomes de marcas para personalizaçêo
 Midia: MessageMediaWebPage
 
 ------------------------------
@@ -277,8 +277,8 @@ Texto:
 
 ### **1. Escolher onde rodar o sistema**
 
-* **Opção A:** Localmente (se seu PC tem **GPU compatível** com CUDA >= 12.4.1).
-* **Opção B:** Em nuvem usando **RunPod**.
+* **Opçêo A:** Localmente (se seu PC tem **GPU compatível** com CUDA >= 12.4.1).
+* **Opçêo B:** Em nuvem usando **RunPod**.
 
 ---
 
@@ -312,14 +312,14 @@ pip install -r requirements.txt```
 
 ---
 
-### **4. Transformar o script em versão dinâmica**
+### **4. Transformar o script em versêo dinâmica**
 
 * Copie o `i2v.py` para o ChatGPT ou ChatGPT Code Interpreter.
 * Peça para converter em um script **com parâmetros de entrada**:
 
   * `imagem`
   * `prompt`
-* Use: `python i2v.py --image caminho.png --prompt "descrição"`
+* Use: `python i2v.py --image caminho.png --prompt "descriçêo"`
 
 ---
 
@@ -327,7 +327,7 @@ pip install -r requirements.txt```
 
 #### a) Instalar bibliotecas adicionais:
 
-```pip install torchaudio==<compatível com sua versão CUDA>```
+```pip install torchaudio==<compatível com sua versêo CUDA>```
 
 * Exemplo para CUDA 12.4.1:
 
@@ -349,8 +349,8 @@ pip install -r requirements.txt```
 
 #### b) Importe o template de workflow com 8 nós:
 
-* Usar o botão: **Import from File**
-* Se não tiver o template, posso te ajudar a recriar.
+* Usar o botêo: **Import from File**
+* Se nêo tiver o template, posso te ajudar a recriar.
 
 ---
 
@@ -368,7 +368,7 @@ pip install -r requirements.txt```
 
 | object | texture | image\_url   | status  | output |
 | ------ | ------- | ------------ | ------- | ------ |
-| maçã   | vidro   | https\://... | pending |        |
+| maçê   | vidro   | https\://... | pending |        |
 
 #### c) Autenticar o Google Sheets no n8n
 
@@ -397,9 +397,9 @@ pip install -r requirements.txt```
 
 ### 9. Melhorias e ajustes
 
-* Ajustar a escala de orientação ("guidance scale") no script Python (ex: valor 7) para melhorar fidelidade do vídeo ao prompt.
+* Ajustar a escala de orientaçêo ("guidance scale") no script Python (ex: valor 7) para melhorar fidelidade do vídeo ao prompt.
 * Ajustar prompt se o movimento estiver estranho.
-* Otimize o tempo de execução usando GPUs mais rápidas como H100.
+* Otimize o tempo de execuçêo usando GPUs mais rápidas como H100.
 
 ---
 
@@ -423,54 +423,54 @@ MENSAGEM 14
 Autor: INEMA
 Data: 2025-07-28T04:52:00+00:00
 Texto:
-**Objetivo:** Ensinar como criar vídeos ASMR com IA no piloto automático, sem custo e sem necessidade de codificação (ou com mínima edição).
+**Objetivo:** Ensinar como criar vídeos ASMR com IA no piloto automático, sem custo e sem necessidade de codificaçêo (ou com mínima ediçêo).
 
 ---
 
 ### 1. **Proposta do Sistema**
 
 * Criar vídeos ASMR com IA gratuitamente, rodando localmente ou em nuvem (como RunPod).
-* Utiliza o **n8n** (automação), **Python**, e bibliotecas como **torch**, **torch-audio**, e **mm-audio**.
-* Vídeos e áudios são gerados a partir de prompts e imagens definidas numa **planilha do Google Sheets**.
+* Utiliza o **n8n** (automaçêo), **Python**, e bibliotecas como **torch**, **torch-audio**, e **mm-audio**.
+* Vídeos e áudios sêo gerados a partir de prompts e imagens definidas numa **planilha do Google Sheets**.
 * Pode ser feito **sem codar**, usando templates prontos e arrastar e soltar.
 
 ---
 
 ### 2. **Tecnologias e Ferramentas Usadas**
 
-* **n8n (self-hosted)** para automação
+* **n8n (self-hosted)** para automaçêo
 * **RunPod** para máquinas com GPU (ou uso local se tiver GPU)
 * **Google Sheets** como base de controle (prompts, imagens, status)
 * **Python scripts**:
 
   * `i2v.py`: converte imagem em vídeo
   * `mm_audio_demo.py`: gera áudio ASMR com base no vídeo
-* **Jupyter Notebook**: para instalação e controle do ambiente
+* **Jupyter Notebook**: para instalaçêo e controle do ambiente
 * **Docker + CUDA**: ambiente com suporte a PyTorch
 
 ---
 
 ### 3. **Passos Principais do Tutorial**
 
-#### Parte 1 – Preparação
+#### Parte 1 – Preparaçêo
 
 * Configurar ambiente no RunPod com Docker + CUDA >= 12.4.1.
 * Criar volume disk (persistência) e expor portas (5678 para n8n).
-* Instalar `wan2.1` para geração de vídeo e bibliotecas necessárias.
+* Instalar `wan2.1` para geraçêo de vídeo e bibliotecas necessárias.
 
-#### Parte 2 – Geração do vídeo
+#### Parte 2 – Geraçêo do vídeo
 
 * Baixar imagem do Google Drive via n8n.
 * Escrever imagem no disco (baseado no número da linha da planilha).
 * Executar script Python para gerar vídeo com base na imagem e no prompt.
 
-#### Parte 3 – Geração do áudio
+#### Parte 3 – Geraçêo do áudio
 
 * Gerar o áudio ASMR com o script `mm_audio_demo.py`.
 * Baseia-se no prompt de som definido na planilha.
 * Combina com o vídeo anterior.
 
-#### Parte 4 – Atualização dos dados
+#### Parte 4 – Atualizaçêo dos dados
 
 * Atualiza o status na planilha do Google para “completed”.
 * Inclui o link do vídeo final no campo de saída.
@@ -480,7 +480,7 @@ Texto:
 ### 4. **Considerações**
 
 * Pode levar de 5 a 20 minutos por vídeo, dependendo da GPU.
-* Resultados podem variar — é necessário ajustar o prompt e a escala de orientação para melhorar qualidade.
+* Resultados podem variar — é necessário ajustar o prompt e a escala de orientaçêo para melhorar qualidade.
 * Possui suporte na comunidade do autor com templates prontos e ajuda técnica.
 
 ---
@@ -488,14 +488,14 @@ Texto:
 ### 5. **Exemplos Citados**
 
 * Vídeo ASMR de objetos com texturas como vidro ou frutas.
-* Demonstração de criação de vídeo com imagem e som totalmente gerados por IA.
+* Demonstraçêo de criaçêo de vídeo com imagem e som totalmente gerados por IA.
 * Workflow com 8 nós no **n8n**, conectando imagem, prompt, vídeo e som automaticamente.
 
 ---
 
 ### 6. **Resumo Final**
 
-Esse sistema permite que você crie vídeos ASMR gerados por IA de forma automatizada, usando uma planilha como painel de controle, Python para processar, e n8n para orquestrar — sem gastar com APIs externas. Ideal para quem quer escalar a produção de vídeos ASMR ou iniciar uma agência de conteúdo com IA.
+Esse sistema permite que você crie vídeos ASMR gerados por IA de forma automatizada, usando uma planilha como painel de controle, Python para processar, e n8n para orquestrar — sem gastar com APIs externas. Ideal para quem quer escalar a produçêo de vídeos ASMR ou iniciar uma agência de conteúdo com IA.
 
 ------------------------------
 

@@ -97,18 +97,18 @@ rm``` ./{{ $('Generate File Name2').item.json['File Name'] }}.mp4
 
 ### Bônus
 
-In**icializar lista de geração de vídeos:
+In**icializar lista de geraçêo de vídeos:
 c**o```nst executionList = new Array($input.first().json['Number of Video Generation']).fill("")
 return { executionList };
 
 ```Ge**rar texto do vídeo (prompt):
 
 **Prompt:
-Ge```re uma transcrição e título de vídeo motivacional.
+Ge```re uma transcriçêo e título de vídeo motivacional.
 
 Título: motivacional, com menos de 20 palavras  
-Transcrição: motivacional, concisa, menos de 20 palavras  
-***Não adicione pontuação ou emojis em nenhum dos dois
+Transcriçêo: motivacional, concisa, menos de 20 palavras  
+***Nêo adicione pontuaçêo ou emojis em nenhum dos dois
 
 ```Exe**mplo de saída estruturada:
 {
@@ -165,7 +165,7 @@ doc```ker exec -it -u root e2b38713d607627c6aa25a4ef61ddfee1630256e0a6c58ca75e2f
 - Template n8n:  
   https://drive.google.com/file/d/1oKkyD-r-tZ4v-Gp-Ot1iYVhJfjiKDqfY/view?usp=sharing
 
-- Template do Google Sheets (NÃO usar formato .xlsx ou outros):  
+- Template do Google Sheets (NêO usar formato .xlsx ou outros):  
   https://docs.google.com/spreadsheets/d/1PXkCdruolQS_gw6ZH1DKL6vGpmZZFXr1/edit?gid=1543141306#gid=1543141306
 
 ---
@@ -182,7 +182,7 @@ Prom**pt:
 G**ere 100 frases motivacionais curtas e também o título do vídeo. Forneça duas colunas:  
 1ª coluna = título do vídeo  
 2ª coluna = frase  
-*Não coloque números no início*
+*Nêo coloque números no início*
 
 ---
 
@@ -191,7 +191,7 @@ Arra```y.from({ length: 10 }, () => Math.random().toString(36)[2]).join('')
 
 --```-
 
-### Criar 20 títulos e transcrições motivacionais totalmente diferentes, sem emojis ou pontuação.  
+### Criar 20 títulos e transcrições motivacionais totalmente diferentes, sem emojis ou pontuaçêo.  
 Formato: tabela do Excel.
 
 ---

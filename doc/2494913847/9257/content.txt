@@ -21,7 +21,7 @@ MENSAGEM 2
 Autor: IMR
 Data: 2025-06-12T23:50:21+00:00
 Texto:
-Gente onde eu acho automação para atender cliente com AI?
+Gente onde eu acho automaçêo para atender cliente com AI?
 
 ------------------------------
 
@@ -54,15 +54,15 @@ MENSAGEM 6
 Autor: INEMA
 Data: 2025-06-10T22:02:40+00:00
 Texto:
-**Sistemas Multiagentes Nunca Foram Tão Fáceis de Construir (n8n, sem código)**
+**Sistemas Multiagentes Nunca Foram Têo Fáceis de Construir (n8n, sem código)**
 
 Aprenda o que é um sistema multiagente e descubra os poderosos benefícios de ter agentes de IA especializados trabalhando em conjunto! 
 
 Neste vídeo, vou explicar o conceito de sistemas multiagentes e por que eles costumam ser mais eficazes do que soluções com uma única IA.
 
-Depois, vou te guiar passo a passo em um exemplo prático de criação de um fluxo simples no n8n que funciona como uma ferramenta secundária especializada — um agente que pode ser chamado sempre que o agente principal precisar dessa funcionalidade específica.
+Depois, vou te guiar passo a passo em um exemplo prático de criaçêo de um fluxo simples no n8n que funciona como uma ferramenta secundária especializada — um agente que pode ser chamado sempre que o agente principal precisar dessa funcionalidade específica.
 
-Perfeito para iniciantes — sem necessidade de programação, apenas usando a interface visual de arrastar e soltar do n8n. Seja você novo em automações com IA ou esteja buscando construir sistemas mais sofisticados, este tutorial vai te mostrar como criar agentes de IA capazes de delegar tarefas de forma inteligente a ferramentas especializadas.
+Perfeito para iniciantes — sem necessidade de programaçêo, apenas usando a interface visual de arrastar e soltar do n8n. Seja você novo em automações com IA ou esteja buscando construir sistemas mais sofisticados, este tutorial vai te mostrar como criar agentes de IA capazes de delegar tarefas de forma inteligente a ferramentas especializadas.
 
 ------------------------------
 

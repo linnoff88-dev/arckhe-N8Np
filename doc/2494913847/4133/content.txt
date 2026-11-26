@@ -13,35 +13,35 @@ MENSAGEM 1
 Autor: INEMA
 Data: 2025-03-28T02:51:05+00:00
 Texto:
-**📚 Geração Automática de Documentação para Workflows do n8n com GPT e Docsify**
+**📚 Geraçêo Automática de Documentaçêo para Workflows do n8n com GPT e Docsify**
 
 **O que isso faz?**
 
-- **Configura o Ambiente de Documentação:**  
-  Inicia definindo configurações importantes, como onde armazenar os arquivos de documentação, a URL da instância e códigos HTML personalizados (cabeçalhos, estilos e inclusão do Docsify). Isso cria a base para uma interface de documentação dinâmica.
+- **Configura o Ambiente de Documentaçêo:**  
+  Inicia definindo configurações importantes, como onde armazenar os arquivos de documentaçêo, a URL da instância e códigos HTML personalizados (cabeçalhos, estilos e inclusêo do Docsify). Isso cria a base para uma interface de documentaçêo dinâmica.
 
-- **Gera Documentação a partir dos Workflows:**  
-  O fluxo extrai dados dos seus workflows do n8n (detalhes, nós, metadados, etc.) e utiliza uma cadeia de IA (alimentada pelo GPT-4 Turbo) para gerar automaticamente uma documentação estruturada em Markdown. Inclui:
-  - Descrição geral do fluxo  
+- **Gera Documentaçêo a partir dos Workflows:**  
+  O fluxo extrai dados dos seus workflows do n8n (detalhes, nós, metadados, etc.) e utiliza uma cadeia de IA (alimentada pelo GPT-4 Turbo) para gerar automaticamente uma documentaçêo estruturada em Markdown. Inclui:
+  - Descriçêo geral do fluxo  
   - Diagrama esquemático gerado com Mermaid
 
 - **Gerencia e Edita Arquivos:**  
-  Verifica se já existe um arquivo de documentação:
+  Verifica se já existe um arquivo de documentaçêo:
   - **Se existir:** Carrega o conteúdo do arquivo.  
-  - **Se não existir:** Cria um modelo em branco que você pode editar.  
+  - **Se nêo existir:** Cria um modelo em branco que você pode editar.  
   Um editor Markdown ao vivo é fornecido para você revisar, editar e visualizar os diagramas em tempo real.
 
 - **Serviço Dinâmico via Webhooks:**  
-  Dependendo do tipo de solicitação (visualizar, editar ou salvar), a documentação é exibida como HTML (com Docsify) ou Markdown. Isso permite acesso por URLs personalizadas e atualização em tempo real.
+  Dependendo do tipo de solicitaçêo (visualizar, editar ou salvar), a documentaçêo é exibida como HTML (com Docsify) ou Markdown. Isso permite acesso por URLs personalizadas e atualizaçêo em tempo real.
 
-- **Visão Geral dos Workflows e Navegação:**  
+- **Visêo Geral dos Workflows e Navegaçêo:**  
   Compila uma tabela com todos os seus workflows do n8n, contendo:
   - Status  
-  - Data de criação  
+  - Data de criaçêo  
   - Número de nós  
   - Gatilhos (triggers)  
 
-  Isso facilita a navegação e o gerenciamento dos seus fluxos de trabalho.
+  Isso facilita a navegaçêo e o gerenciamento dos seus fluxos de trabalho.
 
 ---
 

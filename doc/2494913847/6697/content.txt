@@ -29,44 +29,44 @@ Como criar um sistema automático que gera imagens, legendas e publica posts no 
 
 ---
 
-**Demonstração inicial:**  
+**Demonstraçêo inicial:**  
 - Usam o n8n + Google Sheets para organizar:
   - Link da imagem gerada (Flux)
   - Link da imagem no Instagram
   - Legenda
   - Status
-  - Data de publicação
-- Notícias são buscadas online, resumidas em legenda via Deepseek AI, imagens são criadas via Flux.
+  - Data de publicaçêo
+- Notícias sêo buscadas online, resumidas em legenda via Deepseek AI, imagens sêo criadas via Flux.
 
 ---
 
 **Ferramentas necessárias:**  
 - **Exa.ai**: busca de notícias (API Key necessária).  
 - **ScreenshotOne**: captura de tela para gerar imagens a partir de páginas HTML (API Key necessária).  
-- **Together AI (Flux)**: criação de imagens estilizadas (API Key necessária).  
+- **Together AI (Flux)**: criaçêo de imagens estilizadas (API Key necessária).  
 - **Deepseek AI**: reescrever notícias em legendas otimizadas (API Key necessária).  
 - **Redis**: armazenamento temporário de tokens e IDs.  
 - **AnyNoCode (opcional)**: templates prontos para motivacionais.
 
 ---
 
-**Configuração de credenciais:**  
+**Configuraçêo de credenciais:**  
 - Cada ferramenta configurada dentro do n8n como credencial segura (com Header Authorization ou Query).
 - Redis é usado para armazenar tokens e dados intermediários.
-- Configura-se o acesso à API do Facebook e Instagram (Meta Developers) para publicação.
+- Configura-se o acesso à API do Facebook e Instagram (Meta Developers) para publicaçêo.
 
 ---
 
-**Descrição dos dois principais Workflows:**  
+**Descriçêo dos dois principais Workflows:**  
 
-1. **Workflow de Criação de Conteúdo:**
+1. **Workflow de Criaçêo de Conteúdo:**
    - Buscar notícias no Exa.ai sobre um tema (ex: "Robótica").
    - Gerar uma legenda usando Deepseek AI.
    - Criar imagem no estilo Flux com Together AI.
    - Converter imagem para JPEG (com ScreenshotOne).
    - Armazenar no Google Cloud e registrar no Google Sheets.
    
-2. **Workflow de Publicação no Instagram:**
+2. **Workflow de Publicaçêo no Instagram:**
    - Gerar token longo do Facebook.
    - Buscar ID da conta de Instagram associada.
    - Fazer upload da imagem e legenda.
@@ -85,7 +85,7 @@ Como criar um sistema automático que gera imagens, legendas e publica posts no 
 **Dicas Extras:**  
 - Para os prompts de imagem, você pode usar o ChatGPT para converter o estilo visual desejado em um prompt para o Flux.
 - Usa a captura de tela de uma página HTML para transformar em imagem final no formato JPEG (compatível com Instagram).
-- Sempre aplicar JSON.stringify nos conteúdos que serão enviados por API para não dar erro de formato.
+- Sempre aplicar JSON.stringify nos conteúdos que serêo enviados por API para nêo dar erro de formato.
 
 ---
 
@@ -97,12 +97,12 @@ Como criar um sistema automático que gera imagens, legendas e publica posts no 
 
 **Ferramentas citadas e suas funções resumidas:**  
 - Exa.ai → Busca de notícias  
-- Deepseek AI → Transformação da notícia em legenda  
-- Together AI (Flux) → Criação da imagem estilizada  
-- ScreenshotOne → Geração de imagem JPEG de uma página HTML  
-- Google Sheets → Organização dos dados  
+- Deepseek AI → Transformaçêo da notícia em legenda  
+- Together AI (Flux) → Criaçêo da imagem estilizada  
+- ScreenshotOne → Geraçêo de imagem JPEG de uma página HTML  
+- Google Sheets → Organizaçêo dos dados  
 - Redis → Armazenamento temporário de tokens  
-- Facebook API/Instagram API → Publicação no Instagram
+- Facebook API/Instagram API → Publicaçêo no Instagram
 
 ------------------------------
 
@@ -126,9 +126,9 @@ MENSAGEM 5
 Autor: INEMA
 Data: 2025-04-28T05:08:44+00:00
 Texto:
-Um agente de IA para gerar posts de imagem ilimitados no Instagram automaticamente (sem programação)  
+Um agente de IA para gerar posts de imagem ilimitados no Instagram automaticamente (sem programaçêo)  
 
-Como automatizar a criação de posts de imagem para o Instagram usando IA com n8n, Exa.ai, Deepseek AI, Flux e ScreenshotOne — sem necessidade de programação!  
+Como automatizar a criaçêo de posts de imagem para o Instagram usando IA com n8n, Exa.ai, Deepseek AI, Flux e ScreenshotOne — sem necessidade de programaçêo!  
 
 Este sistema baseado em IA busca notícias, gera legendas e imagens, e publica posts dinamicamente, mantendo seu feed do Instagram atualizado e envolvente de forma automática.
 

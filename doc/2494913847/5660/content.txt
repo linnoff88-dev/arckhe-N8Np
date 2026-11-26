@@ -24,36 +24,36 @@ Data: 2025-04-13T03:20:57+00:00
 Texto:
 Pinterest Automation com n8n + Claude 3.7 (sem código)**
 
-Este vídeo ensina como automatizar postagens no Pinterest usando **n8n**, **Claude 3.7 Sonnet** e **modelo de imagem Flux**, com integração via **API do Pinterest**. O fluxo gera conteúdo e imagens automaticamente, publica no Pinterest e registra tudo no Google Sheets.
+Este vídeo ensina como automatizar postagens no Pinterest usando **n8n**, **Claude 3.7 Sonnet** e **modelo de imagem Flux**, com integraçêo via **API do Pinterest**. O fluxo gera conteúdo e imagens automaticamente, publica no Pinterest e registra tudo no Google Sheets.
 
 ### Etapas do processo automatizado:
 
-1. **Geração do conteúdo (Claude 3.7 Sonnet via OpenRouter):**
-   - Criação de 5 posts com dicas de fitness.
+1. **Geraçêo do conteúdo (Claude 3.7 Sonnet via OpenRouter):**
+   - Criaçêo de 5 posts com dicas de fitness.
    - Uso de prompt estruturado com tom motivacional e formato Pinterest-friendly.
 
-2. **Geração de imagens (modelo Flux):**
+2. **Geraçêo de imagens (modelo Flux):**
    - Prompt detalhado de imagem baseado no conteúdo gerado.
-   - Prevenção de repetição de imagens com controle de frutas utilizadas.
-   - Conversão do retorno em base64 para arquivo de imagem.
+   - Prevençêo de repetiçêo de imagens com controle de frutas utilizadas.
+   - Conversêo do retorno em base64 para arquivo de imagem.
    - Armazenamento no Google Cloud Storage.
 
-3. **Publicação no Pinterest (via API):**
-   - Criação de board (quadro) no Pinterest usando API (sandbox ou produção).
-   - Envio das imagens com título e descrição para o board.
+3. **Publicaçêo no Pinterest (via API):**
+   - Criaçêo de board (quadro) no Pinterest usando API (sandbox ou produçêo).
+   - Envio das imagens com título e descriçêo para o board.
    - Credenciais gerenciadas pelo painel do Pinterest Developers.
 
 4. **Registro em Google Sheets:**
-   - Dados como título, imagem, legenda e status são gravados.
-   - Atualização do status para “posted” após publicação.
+   - Dados como título, imagem, legenda e status sêo gravados.
+   - Atualizaçêo do status para “posted” após publicaçêo.
 
 
 
 ### Ferramentas usadas:
-- **n8n**: automação sem código
-- **Claude 3.7 (Sonnet)**: geração de texto via OpenRouter
-- **Flux**: geração de imagens
-- **Pinterest API**: publicação automatizada
+- **n8n**: automaçêo sem código
+- **Claude 3.7 (Sonnet)**: geraçêo de texto via OpenRouter
+- **Flux**: geraçêo de imagens
+- **Pinterest API**: publicaçêo automatizada
 - **Google Sheets**: banco de dados auxiliar
 - **Google Cloud Storage**: armazenamento de imagens
 - **ScreenshotOne**: captura de tela de prévia

@@ -28,9 +28,9 @@ Como transformar qualquer site em dados prontos para modelos de linguagem (LLMs)
 
 ### Etapas principais abordadas:
 
-1. **Introdução ao Firecrawl**:
+1. **Introduçêo ao Firecrawl**:
    - Plataforma open-source para **scrape**, **crawl**, **map** e **extract**.
-   - A função *extract* permite usar prompts para extrair dados específicos de uma URL.
+   - A funçêo *extract* permite usar prompts para extrair dados específicos de uma URL.
 
 2. **Diferença entre Scrape e Extract**:
    - *Scrape*: retorna HTML ou Markdown da página.
@@ -39,39 +39,39 @@ Como transformar qualquer site em dados prontos para modelos de linguagem (LLMs)
 3. **Exemplo prático com o site “Quotes to Scrape”**:
    - Teste manual do HTTP GET no n8n para ver o HTML bruto.
    - Uso do Firecrawl com prompt para extrair todas as **citações** e seus **autores** do site inteiro.
-   - Resultado: JSON com campos `text` (citação) e `author`.
+   - Resultado: JSON com campos `text` (citaçêo) e `author`.
 
-4. **Integração no n8n**:
+4. **Integraçêo no n8n**:
    - Uso de HTTP Request com método POST.
-   - Importação automática do `curl` a partir da documentação do Firecrawl.
-   - Criação de credencial genérica no n8n com header `Authorization: Bearer <API_KEY>`.
+   - Importaçêo automática do `curl` a partir da documentaçêo do Firecrawl.
+   - Criaçêo de credencial genérica no n8n com header `Authorization: Bearer <API_KEY>`.
 
-5. **Configuração do corpo da requisição**:
-   - Inserção da URL com `*` para rastrear todas as páginas do domínio.
-   - Definição do prompt e schema JSON (estrutura esperada: `text` e `author`).
-   - Correção de erros de formatação do JSON usando o ChatGPT.
+5. **Configuraçêo do corpo da requisiçêo**:
+   - Inserçêo da URL com `*` para rastrear todas as páginas do domínio.
+   - Definiçêo do prompt e schema JSON (estrutura esperada: `text` e `author`).
+   - Correçêo de erros de formataçêo do JSON usando o ChatGPT.
 
-6. **Verificação do status da extração (Polling)**:
-   - Segundo HTTP Request verifica se a extração foi concluída (`GET /extract/:id`).
+6. **Verificaçêo do status da extraçêo (Polling)**:
+   - Segundo HTTP Request verifica se a extraçêo foi concluída (`GET /extract/:id`).
    - Se ainda estiver processando (`data` vazia), aguarda 5 segundos e tenta novamente.
    - Quando pronto, retorna os dados extraídos.
 
 7. **Tratamento de diferentes tipos de retorno**:
    - Tratamento de mudança de tipo (array vazio → objeto preenchido).
-   - Estratégia com ramo de erro para continuar o fluxo caso o dado não esteja pronto.
+   - Estratégia com ramo de erro para continuar o fluxo caso o dado nêo esteja pronto.
 
 8. **Resultado com ou sem asterisco na URL**:
    - Com `*` → varre todo o site.
    - Sem `*` → apenas a página inicial é lida (menos resultados).
 
-9. **Exportação e reuso do fluxo**:
+9. **Exportaçêo e reuso do fluxo**:
    - Workflow pode ser salvo e reutilizado.
    - Possível aplicar em massa para múltiplas URLs (ex: planilhas).
 
 10. **Possibilidades futuras**:
-    - Criação de campanhas de prospecção automatizadas.
-    - Geração de dados estruturados para alimentar modelos LLM automaticamente.
-    - Participação na comunidade para mais exemplos práticos e suporte.
+    - Criaçêo de campanhas de prospecçêo automatizadas.
+    - Geraçêo de dados estruturados para alimentar modelos LLM automaticamente.
+    - Participaçêo na comunidade para mais exemplos práticos e suporte.
 
 ---
 
@@ -81,19 +81,19 @@ Como transformar qualquer site em dados prontos para modelos de linguagem (LLMs)
    - Scrape: Retorna HTML  
    - Extract: `URL + Prompt` → JSON estruturado
 
-2. **Prompt de extração**:
+2. **Prompt de extraçêo**:
    - Exemplo: “Extraia todas as citações e seus autores do site.”
 
 3. **Schema esperado pelo LLM**:
-   - `{"quotes": [{"text": "Citação", "author": "Autor"}]}`
+   - `{"quotes": [{"text": "Citaçêo", "author": "Autor"}]}`
 
-4. **Importação no n8n via `curl`**:
-   - Comando do Firecrawl gera automaticamente configuração completa.
+4. **Importaçêo no n8n via `curl`**:
+   - Comando do Firecrawl gera automaticamente configuraçêo completa.
 
-5. **Autenticação genérica com header**:
+5. **Autenticaçêo genérica com header**:
    - `Authorization: Bearer <API_KEY>`
 
-6. **Polling com verificação de status**:
+6. **Polling com verificaçêo de status**:
    - Se `data` estiver vazio → esperar → repetir até completar.
 
 7. **Uso do `*` na URL**:
@@ -103,10 +103,10 @@ Como transformar qualquer site em dados prontos para modelos de linguagem (LLMs)
    - Se `data` muda de array para objeto → criar fluxo com erro controlado.
 
 9. **Casos de uso aplicáveis**:
-   - Extração de dados para prospecção, análise de concorrentes, SEO, etc.
+   - Extraçêo de dados para prospecçêo, análise de concorrentes, SEO, etc.
 
 10. **Reaproveitamento com planilhas**:
-   - Input com várias URLs → automação completa com n8n.
+   - Input com várias URLs → automaçêo completa com n8n.
 
 ------------------------------
 

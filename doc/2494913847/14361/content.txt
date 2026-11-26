@@ -86,11 +86,11 @@ e46. De imagem a vídeo Pro (after effects)
 
 🌟 Objetivo 
 
-Você vai aprender a criar um sistema automático que gera um vídeo completo e profissional a partir de uma única imagem e uma descrição textual. Usando N8N e vários serviços de IA como OpenAI, Fal.ai e Na-no Banana, foi criada uma lógica que transforma um logo ou imagem de produto em um conjunto de cenas animadas com transições, som e versão em alta definição.
+Você vai aprender a criar um sistema automático que gera um vídeo completo e profissional a partir de uma única imagem e uma descriçêo textual. Usando N8N e vários serviços de IA como OpenAI, Fal.ai e Na-no Banana, foi criada uma lógica que transforma um logo ou imagem de produto em um conjunto de cenas animadas com transições, som e versêo em alta definiçêo.
 
 Ideal para quem deseja criar intros, reels ou vídeos promocionais sem precisar usar editores complexos.
 
-🛠️ O que conseguimos com essa automação?
+🛠️ O que conseguimos com essa automaçêo?
 
 * Transformar uma imagem estática em um vídeo completo com narrativa visual.
 * Gerar prompts inteligentes e coerentes para imagens e transições.
@@ -102,18 +102,18 @@ Ideal para quem deseja criar intros, reels ou vídeos promocionais sem precisar 
 
 🧩 Estrutura do fluxo automatizado
 
-1. Formulário de entrada (N8N ou Jotform): imagem e descrição do cliente.
+1. Formulário de entrada (N8N ou Jotform): imagem e descriçêo do cliente.
 2. Upload no IMGBB: a imagem binária é convertida em uma URL acessível.
-3. Análise visual (OpenAI): extração da descrição detalhada da imagem.
-4. Geração de prompts (GPT):
+3. Análise visual (OpenAI): extraçêo da descriçêo detalhada da imagem.
+4. Geraçêo de prompts (GPT):
 
    * 3 prompts de novas cenas.
    * 4 prompts de transições (fechando o ciclo visual).
-5. Geração de novas cenas (Na-no Banana): usando a imagem de referência e os prompts.
-6. Criação de vídeos com transições (Fal.ai - HiLuo Pro): 4 vídeos com animações entre cenas.
-7. Geração de áudio para cada vídeo (Fal.ai - Mirelo): áudio adaptado ao conteúdo visual.
-8. Unificação de clipes com áudio (Fal.ai - Merge): combinação em um único vídeo.
-9. Melhoria de qualidade final (Fal.ai - Upscaler): exportação em HD ou 4K.
+5. Geraçêo de novas cenas (Na-no Banana): usando a imagem de referência e os prompts.
+6. Criaçêo de vídeos com transições (Fal.ai - HiLuo Pro): 4 vídeos com animações entre cenas.
+7. Geraçêo de áudio para cada vídeo (Fal.ai - Mirelo): áudio adaptado ao conteúdo visual.
+8. Unificaçêo de clipes com áudio (Fal.ai - Merge): combinaçêo em um único vídeo.
+9. Melhoria de qualidade final (Fal.ai - Upscaler): exportaçêo em HD ou 4K.
 10. Registro no Google Sheets: upload de URLs e metadados de todo o processo.
 
 🛠️ Ferramentas utilizadas
@@ -127,12 +127,12 @@ Ideal para quem deseja criar intros, reels ou vídeos promocionais sem precisar 
 
 🧠 Conselhos-chave que aprendemos
 
-* Paralelizar processos no N8N economiza até 4 vezes o tempo de execução.
+* Paralelizar processos no N8N economiza até 4 vezes o tempo de execuçêo.
 * É melhor manter a coerência de formato nas imagens para evitar deformações nos vídeos.
 * Usar referências visuais reais ajuda a manter consistência no estilo.
 * O Fal.ai permite animações com transições entre frames, essencial para dar ritmo ao vídeo.
 * Evite gerar o áudio final antes de unir os clipes: o gerador atual só permite 10 segundos por vídeo.
-* Atenção aos custos se for usar 4K: a melhoria de qualidade é impressionante, mas o preço aumenta bastante.
+* Atençêo aos custos se for usar 4K: a melhoria de qualidade é impressionante, mas o preço aumenta bastante.
 
 ------------------------------
 
@@ -152,7 +152,7 @@ De uma imagem a um vídeo 4K automático
 
 Você já imaginou subir apenas uma imagem do seu logo ou produto… e a IA devolver um vídeo animado, com transições incríveis, música épica e qualidade 4K pronta para publicar?
 
-Pois é exatamente isso que montamos passo a passo nesta sessão. E o melhor: tudo acontece de forma automática a partir de um formulário. Você só envia uma imagem e uma descrição, e o sistema faz o resto:
+Pois é exatamente isso que montamos passo a passo nesta sessêo. E o melhor: tudo acontece de forma automática a partir de um formulário. Você só envia uma imagem e uma descriçêo, e o sistema faz o resto:
 
 ✅ Gera novas cenas coerentes com o seu estilo
 ✅ Cria transições fluidas entre cada uma delas
@@ -161,7 +161,7 @@ Pois é exatamente isso que montamos passo a passo nesta sessão. E o melhor: tu
 ✅ Junta tudo em um único clipe final
 ✅ Melhora a qualidade até Full HD ou 4K
 
-Tudo isso conseguimos combinando N8N, GPT-4, Nano Banana e Fal.ai. Você não precisa de After Effects, não precisa de Premiere… e sim, os resultados são profissionais.
+Tudo isso conseguimos combinando N8N, GPT-4, Nano Banana e Fal.ai. Você nêo precisa de After Effects, nêo precisa de Premiere… e sim, os resultados sêo profissionais.
 
 Isso pode ser aplicado se você for agência, SaaS, consultor, criador de conteúdo… ou simplesmente se quiser dar vida à sua marca com vídeos que se destacam.
 

@@ -15,17 +15,17 @@ Data: 2025-03-25T02:58:16+00:00
 Texto:
 **Resumo completo do vídeo: "O Telegram está EXPOSTO seus dados – Veja como consertar isso"**
 
-O vídeo alerta sobre um problema sério de privacidade com bots do Telegram integrados ao **n8n**, uma ferramenta de automação. O criador descobriu que **dados pessoais como e-mails, contatos e até IDs de reuniões estavam sendo expostos**, mesmo sem consentimento, para qualquer pessoa que interagisse com o bot.
+O vídeo alerta sobre um problema sério de privacidade com bots do Telegram integrados ao **n8n**, uma ferramenta de automaçêo. O criador descobriu que **dados pessoais como e-mails, contatos e até IDs de reuniões estavam sendo expostos**, mesmo sem consentimento, para qualquer pessoa que interagisse com o bot.
 
 ### O que está acontecendo?
-- Bots do Telegram, ao serem usados como **gatilhos (triggers)** no **n8n**, **podem responder a qualquer pessoa**, não apenas ao dono do bot.
+- Bots do Telegram, ao serem usados como **gatilhos (triggers)** no **n8n**, **podem responder a qualquer pessoa**, nêo apenas ao dono do bot.
 - Isso significa que **qualquer usuário pode acionar seu fluxo automatizado e acessar dados sensíveis**, como compromissos de calendário e outras informações privadas.
 
 ---
 
 ### Como consertar o problema
 
-Você precisa **restringir o acesso ao bot apenas ao seu próprio chat ID**. Para isso, deve adicionar um **bloco de código (code node)** com uma verificação.
+Você precisa **restringir o acesso ao bot apenas ao seu próprio chat ID**. Para isso, deve adicionar um **bloco de código (code node)** com uma verificaçêo.
 
 **Código usado no n8n:**
 ```if ($input.first().json.message.from.id !== YOUR_USER_ID_HERE) {
@@ -50,21 +50,21 @@ Você precisa **restringir o acesso ao bot apenas ao seu próprio chat ID**. Par
 ### O que esse código faz?
 
 - Ele verifica se a mensagem recebida vem do **seu ID específico**.
-- Se for de outro usuário, retorna “não autorizado”.
-- Isso **protege seu fluxo** de ser acionado por estranhos e evita exposição de informações privadas.
+- Se for de outro usuário, retorna “nêo autorizado”.
+- Isso **protege seu fluxo** de ser acionado por estranhos e evita exposiçêo de informações privadas.
 
 ---
 
 ### Teste feito no vídeo
 O criador testou com seu bot “Jarvis” e confirmou que:
-- A verificação do ID funcionou.
+- A verificaçêo do ID funcionou.
 - A resposta automática só foi enviada ao usuário autorizado.
 
 ---
 
-### Conclusão
+### Conclusêo
 - **Falha grave de segurança** nos bots Telegram com n8n.
-- **Correção simples:** adicionar verificação de ID via “code node”.
+- **Correçêo simples:** adicionar verificaçêo de ID via “code node”.
 - Faça isso **em todos os seus fluxos com Telegram** para manter seus dados seguros.
 
 ---

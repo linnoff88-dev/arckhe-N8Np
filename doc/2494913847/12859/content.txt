@@ -30,7 +30,7 @@ MENSAGEM 3
 Autor: INEMA
 Data: 2025-08-15T20:02:52+00:00
 Texto:
-Aqui estão os hacks mais úteis para otimizar e deixar o “Ultimate Media Agent” no n8n mais rápido, barato e seguro.
+Aqui estêo os hacks mais úteis para otimizar e deixar o “Ultimate Media Agent” no n8n mais rápido, barato e seguro.
 
 ---
 
@@ -38,14 +38,14 @@ Aqui estão os hacks mais úteis para otimizar e deixar o “Ultimate Media Agen
 
 * No **agente principal**, mantenha descrições curtas e genéricas das ferramentas.
 * Coloque instruções detalhadas **somente nos subagentes**.
-* Use **GPT-5 Mini** no agente principal e reserve modelos mais caros só quando necessário (ex.: geração de imagens/vídeos de alta qualidade).
+* Use **GPT-5 Mini** no agente principal e reserve modelos mais caros só quando necessário (ex.: geraçêo de imagens/vídeos de alta qualidade).
 
 ---
 
-### 2. Pré-aprovação de mídia
+### 2. Pré-aprovaçêo de mídia
 
-* Gere **3 previews baratas (1024x1024)**, aprove uma, e só então renderize a versão final 2048.
-* No vídeo, teste com **6 a 8 segundos** para validar estilo antes de gerar a versão longa.
+* Gere **3 previews baratas (1024x1024)**, aprove uma, e só entêo renderize a versêo final 2048.
+* No vídeo, teste com **6 a 8 segundos** para validar estilo antes de gerar a versêo longa.
 
 ---
 
@@ -66,7 +66,7 @@ Aqui estão os hacks mais úteis para otimizar e deixar o “Ultimate Media Agen
 
 ### 5. Trânsito de binários
 
-* Não envie binários entre fluxos no n8n quando não precisar — passe apenas **IDs ou URLs**.
+* Nêo envie binários entre fluxos no n8n quando nêo precisar — passe apenas **IDs ou URLs**.
 * Manipule o binário **dentro do subworkflow** que vai usá-lo.
 
 ---
@@ -75,7 +75,7 @@ Aqui estão os hacks mais úteis para otimizar e deixar o “Ultimate Media Agen
 
 * Guarde todas as chaves nas **credenciais do n8n**, nunca em texto plano.
 * No Google API, dê **escopos mínimos** necessários para cada fluxo.
-* Antes de abrir um arquivo para “anyone with link”, verifique se não contém dados sensíveis.
+* Antes de abrir um arquivo para “anyone with link”, verifique se nêo contém dados sensíveis.
 
 ---
 
@@ -88,7 +88,7 @@ Aqui estão os hacks mais úteis para otimizar e deixar o “Ultimate Media Agen
 
 ### 8. Modularidade
 
-* Mantenha cada ação (criar imagem, postar, criar doc) como **subworkflow independente**.
+* Mantenha cada açêo (criar imagem, postar, criar doc) como **subworkflow independente**.
 * Isso facilita trocar APIs (ex.: mudar de FAL.ai para outra de vídeo) sem mexer no fluxo principal.
 
 ---
@@ -96,13 +96,13 @@ Aqui estão os hacks mais úteis para otimizar e deixar o “Ultimate Media Agen
 ### 9. Observabilidade
 
 * No log do Sheets, inclua: `timestamp`, `input`, `output`, `ações executadas`, `tokens usados`, `modelo`.
-* Use este log para identificar quais ferramentas estão mais caras ou lentas.
+* Use este log para identificar quais ferramentas estêo mais caras ou lentas.
 
 ---
 
 ### 10. Postagens seguras
 
-* Configure **checagem automática de permissão** antes de postar nas redes.
+* Configure **checagem automática de permissêo** antes de postar nas redes.
 * Para redes sociais, use **templates de legenda** no subworkflow, assim mantém consistência no tom.
 
 ---
@@ -127,10 +127,10 @@ ilha de log para ver sequência de ferramentas e inputs; identifique gargalos.
 
 14. Erros comuns e correções
 
-1) Post falha por permissão: torne o arquivo público antes de chamar Blotato.
-2) Subworkflow não responde no Telegram: verifique se está recebendo chat\_id e se o gatilho é “When executed by another workflow”.
-3) Vídeo não conclui: ajuste polling e timeouts no FAL; confirme se a URL da imagem é acessível.
-4) Edits não aplicam: confira picture\_id do Drive e se o download binário está correto.
+1) Post falha por permissêo: torne o arquivo público antes de chamar Blotato.
+2) Subworkflow nêo responde no Telegram: verifique se está recebendo chat\_id e se o gatilho é “When executed by another workflow”.
+3) Vídeo nêo conclui: ajuste polling e timeouts no FAL; confirme se a URL da imagem é acessível.
+4) Edits nêo aplicam: confira picture\_id do Drive e se o download binário está correto.
 5) Agente pergunta demais: adicione Think Tool antes de follow‑ups e enriqueça notas operacionais.
 6) Planilha de log vazia: confirme range/sheet certo e mapeamento de campos no Append.
 
@@ -139,7 +139,7 @@ ilha de log para ver sequência de ferramentas e inputs; identifique gargalos.
 1) Renomear e organizar
    – “Nomeie a imagem como speaker e coloque em media”
 2) Editar imagem
-   – “Edite a imagem speaker: estilo estúdio, vibrante, energético, com sensação de música”
+   – “Edite a imagem speaker: estilo estúdio, vibrante, energético, com sensaçêo de música”
 3) Converter imagem em vídeo
    – “Use a imagem speaker (preview 1) e crie um vídeo VFX com luzes no ritmo e música”
 4) Criar vídeo do zero
@@ -151,7 +151,7 @@ ilha de log para ver sequência de ferramentas e inputs; identifique gargalos.
 7) Enviar por e‑mail
    – “Envie o vídeo JBL VFX para Dexter Morgan com o assunto ‘Draft do anúncio’”
 
-Quer que eu gere um checklist de implementação em JSON (campos e valores) para você colar dentro dos nodes do n8n e acelerar o setup?
+Quer que eu gere um checklist de implementaçêo em JSON (campos e valores) para você colar dentro dos nodes do n8n e acelerar o setup?
 
 ------------------------------
 
@@ -165,7 +165,7 @@ L.ai V3 Fast (imagem→vídeo).
 Prompt do subagente criativo (resumo)
 – Overview: você é um agente criativo especialista em prompts de imagem/vídeo.
 – Regras: prompts de imagem detalhados e estilizados; prompts de vídeo concisos, enérgicos, um único take sem cortes; descreva sons/diálogos quando houver.
-– Ação: sempre use as ferramentas para produzir entregáveis.
+– Açêo: sempre use as ferramentas para produzir entregáveis.
 
 6. Agente de redes sociais (pesquisa) com Apify
 
@@ -176,7 +176,7 @@ Prompt do subagente criativo (resumo)
 
 Exemplo de comando do usuário: “Ache 2 vídeos de alta performance sobre NAND em TikTok, Instagram e YouTube” → subagente retorna 2 por plataforma.
 
-7. Ferramenta de criação de documento (workflow 8)
+7. Ferramenta de criaçêo de documento (workflow 8)
    Entradas: doc\_title, doc\_content.
    Passos:
 
@@ -207,7 +207,7 @@ Exemplo de comando do usuário: “Ache 2 vídeos de alta performance sobre NAND
 
 19. search\_media: buscar por nome/termo na pasta media.
 
-20. share\_file\_public: alterar permissão para “anyone with the link”.
+20. share\_file\_public: alterar permissêo para “anyone with the link”.
 
 21. get\_file\_url: obter URL público para postar/gerar vídeo.
 
@@ -216,7 +216,7 @@ Exemplo de comando do usuário: “Ache 2 vídeos de alta performance sobre NAND
 23. Registro e observabilidade
 
 1) Ative return intermediate steps no agente principal.
-2) Após cada execução, no ramo success e no ramo error:
+2) Após cada execuçêo, no ramo success e no ramo error:
    – Mapeie timestamp, workflow, input (message.text), output (mensagem final), actions (o array de ferramentas e parâmetros), model, prompt\_tokens, completion\_tokens, total\_tokens, status (ok/erro).
 3) Use Google Sheets: Append para a planilha de log.
 4) Opcional: crie alertas no Telegram quando status = erro.
@@ -225,7 +225,7 @@ Exemplo de comando do usuário: “Ache 2 vídeos de alta performance sobre NAND
 
 1) Envie uma foto no Telegram.
 2) Agente pergunta nome; responda “speaker”.
-3) Peça “edite essa imagem: estúdio vibrante, energético, destacando sensação de ouvir música”.
+3) Peça “edite essa imagem: estúdio vibrante, energético, destacando sensaçêo de ouvir música”.
 4) O agente criativo retorna 3 proofs 1024. Aprove uma: “use a número 1 e gere final 2048”.
 5) Peça “transforme a nº 1 em vídeo VFX com música e luzes sincronizadas, tipo anúncio JBL”.
 6) Envie: “mandar para Dexter Morgan por e‑mail”. O agente:
@@ -247,7 +247,7 @@ Exemplo de comando do usuário: “Ache 2 vídeos de alta performance sobre NAND
 1) Economia de tokens: descrições curtas no agente principal; instruções detalhadas nos subagentes.
 2) Robustez: mantenha “Continue on Fail” e ramo de erro para sempre registrar falhas.
 3) Memória curta: limite a janela de contexto do agente principal e salve estado no Drive/Sheets.
-4) Consistência visual: gere 3 proofs baratas, aprove uma e só então renderize final.
+4) Consistência visual: gere 3 proofs baratas, aprove uma e só entêo renderize final.
 5) Permissões: antes de postar/enviar, garanta share\_file\_public.
 6) Binários entre fluxos: passe apenas IDs/URLs nos agentes; manipule binário no subworkflow.
 7) Debug: use a plan
@@ -275,7 +275,7 @@ Passo a passo para montar o “Ultimate Media Agent” no n8n
 3) No Google Drive, crie as pastas exatas: media e media analysis.
 4) No Google Sheets, crie uma planilha para logs com colunas: timestamp, workflow, input, output, actions, model, prompt\_tokens, completion\_tokens, total\_tokens, status.
 
-2. Estrutura geral de fluxos (serão 9 workflows)
+2. Estrutura geral de fluxos (serêo 9 workflows)
    A. 4 workflows criativos
 
    1. create\_image
@@ -306,15 +306,15 @@ Passo a passo para montar o “Ultimate Media Agent” no n8n
 2) Ative Return intermediate steps.
 3) Em “On Error”, habilite continuar e crie dois ramos: success e error.
 4) System prompt enxuto e objetivo:
-   – Você é um gerente-orquestrador. Recebe um pedido e apenas chama a ferramenta certa. Não escreva e‑mails nem resumos por conta própria. Sempre responda algo ao usuário.
+   – Você é um gerente-orquestrador. Recebe um pedido e apenas chama a ferramenta certa. Nêo escreva e‑mails nem resumos por conta própria. Sempre responda algo ao usuário.
    – Notas operacionais:
 
    1. Se o usuário enviar foto, pergunte nome e renomeie no Drive.
    2. Para e‑mail/compartilhamento, busque contato primeiro.
-   3. Imagens e vídeos estão no Drive/pasta media; use o agente Drive.
+   3. Imagens e vídeos estêo no Drive/pasta media; use o agente Drive.
    4. Use Think Tool antes de perguntar follow‑ups.
    5. Para postar, torne o arquivo público no Drive.
-   6. Para vídeos, não pergunte duração (V3 Fast \~8s).
+   6. Para vídeos, nêo pergunte duraçêo (V3 Fast \~8s).
    7. Sempre retorne mensagem final ao usuário.
 5) Defina ferramentas do agente principal apontando para subagentes/sub‑workflows: google\_drive\_agent, email\_agent, calendar\_agent, contacts\_agent, social\_media\_agent, creative\_agent, posting\_agent, web\_agent, create\_doc\_tool, think\_tool. Descrições breves aqui; detalhes ficam nos subagentes para economizar tokens.
 
@@ -335,9 +335,9 @@ Entradas: image\_name, image\_request, chat\_id, picture\_id (ID do arquivo no D
 Passos:
 
 1. Baixe a imagem original do Drive via picture\_id.
-2. Chame a API de edição com a imagem original + image\_request.
+2. Chame a API de ediçêo com a imagem original + image\_request.
 3. Retorne previews (ex.: 1024×1024) ao Telegram.
-4. Salve no Drive como proofs; após confirmação, gere final 2048.
+4. Salve no Drive como proofs; após confirmaçêo, gere final 2048.
 
 C. create\_video
 Entradas: video\_prompt, chat\_id, video\_title, aspect\_ratio.
@@ -370,20 +370,20 @@ Data: 2025-08-15T20:00:46+00:00
 Texto:
 Resumo :
 
-Apresenta o “Ultimate Media Agent” no n8n, um sistema de agentes de IA integrados que combina funções de assistente pessoal com ferramentas criativas e de automação, tudo disponibilizado gratuitamente.
+Apresenta o “Ultimate Media Agent” no n8n, um sistema de agentes de IA integrados que combina funções de assistente pessoal com ferramentas criativas e de automaçêo, tudo disponibilizado gratuitamente.
 Ele pode gerenciar e-mails, Google Drive, calendário, contatos, criar e editar imagens, transformar imagens em vídeos, criar vídeos do zero, publicar em redes sociais (TikTok, Instagram, X), pesquisar conteúdos em plataformas, compilar resultados em Google Docs e registrar todas as ações, inclusive erros, com detalhes de entrada, saída e uso de tokens.
 
 Principais pontos:
 
-* Interação via Telegram, onde o usuário envia imagens, vídeos ou textos e solicita ações.
+* Interaçêo via Telegram, onde o usuário envia imagens, vídeos ou textos e solicita ações.
 * Agente principal delega tarefas a subagentes especializados (criativo, redes sociais, postagem, docs, web, etc.).
 * Uso de modelos GPT-5 Mini (via OpenRouter e OpenAI) e integrações como FAL AI (vídeo), Apify (scrapers), Blotato (postagem em redes), Perplexity e Tavily (pesquisa).
 * Subagentes possuem ferramentas específicas como criar imagem, editar imagem, imagem para vídeo, criar vídeo, postar em plataformas e criar documentos.
 * Fluxos simples trocam variáveis entre si para executar tarefas e enviar resultados para o Google Drive e Telegram.
-* Pesquisa de vídeos de alta performance em múltiplas redes e compilação em Google Docs.
+* Pesquisa de vídeos de alta performance em múltiplas redes e compilaçêo em Google Docs.
 * Sistema de registro em Google Sheets para monitorar entradas, saídas, tokens e ações.
-* Configuração exige download de 9 workflows, ajustes de pastas no Google Drive, conexão de ferramentas e APIs, e integração com planilhas de log.
-* Custos incluem uso de modelos GPT, geração de imagens/vídeos, e assinaturas opcionais de Blotato e Apify.
+* Configuraçêo exige download de 9 workflows, ajustes de pastas no Google Drive, conexêo de ferramentas e APIs, e integraçêo com planilhas de log.
+* Custos incluem uso de modelos GPT, geraçêo de imagens/vídeos, e assinaturas opcionais de Blotato e Apify.
 
 ------------------------------
 
@@ -405,9 +405,9 @@ Apresento o Agente de Mídia com IA definitivo, que combina recursos poderosos d
 
 Esse agente pode gerenciar e-mails, calendários, contatos e Google Drive, além de criar e editar imagens, produzir e editar vídeos, transformar imagens em vídeos, publicar conteúdo em várias redes sociais, fazer raspagem de plataformas sociais para pesquisas e compilar resultados no Google Docs. Ele ainda conta com capacidade completa de pesquisa na web.
 
-Um dos seus melhores recursos é o registro completo de atividades, permitindo ver cada ação executada, seja bem-sucedida ou não, junto com todos os detalhes de entrada, saída e uso de tokens. Fique até o final do vídeo, onde compartilharei todos os recursos, modelos e fluxos de trabalho necessários para você configurar tudo sozinho.
+Um dos seus melhores recursos é o registro completo de atividades, permitindo ver cada açêo executada, seja bem-sucedida ou nêo, junto com todos os detalhes de entrada, saída e uso de tokens. Fique até o final do vídeo, onde compartilharei todos os recursos, modelos e fluxos de trabalho necessários para você configurar tudo sozinho.
 
-Planilha no Google Docs com detalhamento de custos e instruções de configuração
+Planilha no Google Docs com detalhamento de custos e instruções de configuraçêo
 
 Modelo de planilha no Google Sheets
 

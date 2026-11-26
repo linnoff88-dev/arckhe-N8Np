@@ -34,7 +34,7 @@ Aqui está o **passo a passo completo das 3 automações** criadas com n8n, expl
 
 ---
 
-### **1. Automação de Fotos de Produtos com IA**
+### **1. Automaçêo de Fotos de Produtos com IA**
 
 Objetivo: transformar imagens comuns de produtos em versões estilizadas automaticamente usando IA (OpenAI) e armazenar no Supabase.
 
@@ -61,11 +61,11 @@ Objetivo: transformar imagens comuns de produtos em versões estilizadas automat
      * Prompt e imagem original
      * Modelo: `dall-e` ou `gpt-image-1`
 
-5. **Separação das imagens geradas**
+5. **Separaçêo das imagens geradas**
 
    * Use o nó `Split Out` para dividir a resposta com múltiplas imagens.
 
-6. **Conversão Base64 para Arquivo**
+6. **Conversêo Base64 para Arquivo**
 
    * Nó `Move Base64 to File` para converter imagens em arquivos utilizáveis.
 
@@ -76,21 +76,21 @@ Objetivo: transformar imagens comuns de produtos em versões estilizadas automat
      * Configure URL, token e nome do bucket
      * Envie o arquivo para o armazenamento público
 
-8. **Atualização no Google Sheets**
+8. **Atualizaçêo no Google Sheets**
 
    * Insira o link da imagem gerada e marque como "feito".
 
 ---
 
-### **2. Automação de Geração de Leads com IA**
+### **2. Automaçêo de Geraçêo de Leads com IA**
 
-Objetivo: buscar empresas que estão contratando e gerar e-mails personalizados para contato.
+Objetivo: buscar empresas que estêo contratando e gerar e-mails personalizados para contato.
 
 #### Passo a Passo:
 
-1. **Criação de formulário via n8n (nó Form Trigger)**
+1. **Criaçêo de formulário via n8n (nó Form Trigger)**
 
-   * Recebe informações como cargo e localização.
+   * Recebe informações como cargo e localizaçêo.
 
 2. **Buscar vagas no Indeed (API Scraper)**
 
@@ -98,7 +98,7 @@ Objetivo: buscar empresas que estão contratando e gerar e-mails personalizados 
 
 3. **Aguardar a resposta da API**
 
-   * Use o nó `Wait` com loop de verificação de status (até status "success").
+   * Use o nó `Wait` com loop de verificaçêo de status (até status "success").
 
 4. **Extrair os dados das empresas contratantes**
 
@@ -106,18 +106,18 @@ Objetivo: buscar empresas que estão contratando e gerar e-mails personalizados 
 
 5. **Buscar os decisores com ****Apollo.io**
 
-   * Nó `HTTP Request (POST)` com autenticação da Apollo API.
+   * Nó `HTTP Request (POST)` com autenticaçêo da Apollo API.
    * Envie o nome da empresa como parâmetro.
 
 6. **Obter e-mails válidos dos decisores**
 
-   * Nova requisição Apollo com `people-match` e filtros por e-mails verificados.
+   * Nova requisiçêo Apollo com `people-match` e filtros por e-mails verificados.
 
 7. **Gerar e-mails personalizados com IA (LLM Chain)**
 
    * Use nó do OpenAI ou OpenRouter:
 
-     * Envie o nome da empresa, cargo, e descrição da vaga
+     * Envie o nome da empresa, cargo, e descriçêo da vaga
      * Receba um e-mail profissional formatado em JSON.
 
 8. **Enviar e-mails via SmartLead**
@@ -127,13 +127,13 @@ Objetivo: buscar empresas que estão contratando e gerar e-mails personalizados 
 
 ---
 
-### **3. Automação de Recibos via Telegram**
+### **3. Automaçêo de Recibos via Telegram**
 
 Objetivo: extrair automaticamente os dados de um recibo enviado como imagem e registrar em uma planilha.
 
 #### Passo a Passo:
 
-1. **Criação do Bot no Telegram (via BotFather)**
+1. **Criaçêo do Bot no Telegram (via BotFather)**
 
    * Gere token e conecte ao n8n.
 
@@ -142,27 +142,27 @@ Objetivo: extrair automaticamente os dados de um recibo enviado como imagem e re
    * Detecta quando uma imagem é enviada.
    * Habilite: `download image or files`.
 
-3. **Verificação se a mensagem contém imagem**
+3. **Verificaçêo se a mensagem contém imagem**
 
-   * Use o nó `Switch` para seguir caminhos diferentes se não houver imagem.
+   * Use o nó `Switch` para seguir caminhos diferentes se nêo houver imagem.
 
 4. **Análise da imagem com IA (OCR + LLM)**
 
-   * Use `OpenAI` ou `OpenRouter` com função `analyze image`.
-   * Envie a imagem e peça extração dos dados: data, valor, fornecedor, descrição, etc.
+   * Use `OpenAI` ou `OpenRouter` com funçêo `analyze image`.
+   * Envie a imagem e peça extraçêo dos dados: data, valor, fornecedor, descriçêo, etc.
    * Solicite retorno em formato JSON puro.
 
-5. **Formatação dos dados (código JS no n8n)**
+5. **Formataçêo dos dados (código JS no n8n)**
 
    * Nó `Code` (JavaScript) para tratar a resposta e transformá-la em objeto legível.
 
-6. **Inserção no Google Sheets**
+6. **Inserçêo no Google Sheets**
 
    * Nó `Google Sheets (Append Row)` com os dados extraídos.
 
 7. **Resposta via Telegram para o usuário**
 
-   * Nó `Send Message`, com mensagem de confirmação e resumo dos dados.
+   * Nó `Send Message`, com mensagem de confirmaçêo e resumo dos dados.
 
 8. **Caminho alternativo (sem imagem)**
 
@@ -182,56 +182,56 @@ MENSAGEM 5
 Autor: INEMA
 Data: 2025-06-15T05:07:53+00:00
 Texto:
-Aqui está o resumo completo com os tópicos e exemplos dos **3 sistemas de automação com IA simples, lucrativos e sem código** explicados:
+Aqui está o resumo completo com os tópicos e exemplos dos **3 sistemas de automaçêo com IA simples, lucrativos e sem código** explicados:
 
 ---
 
 **Resumo Geral:**
 
-Foram apresentados **três sistemas de automação com IA** criados usando o **n8n** (sem precisar programar), voltados para negócios que buscam ganhar eficiência. Cada um pode ser vendido por **US\$ 500 a US\$ 1.500**, sendo úteis, repetíveis e valorizados por empresas reais.
+Foram apresentados **três sistemas de automaçêo com IA** criados usando o **n8n** (sem precisar programar), voltados para negócios que buscam ganhar eficiência. Cada um pode ser vendido por **US\$ 500 a US\$ 1.500**, sendo úteis, repetíveis e valorizados por empresas reais.
 
 ---
 
-**1. Automação de Fotos de Produtos (Product Shot Automation)**
-Transforma imagens simples de produtos em versões profissionais usando IA de geração de imagens.
+**1. Automaçêo de Fotos de Produtos (Product Shot Automation)**
+Transforma imagens simples de produtos em versões profissionais usando IA de geraçêo de imagens.
 
 **Passo a passo básico:**
 
 * Google Sheets armazena os links das imagens e prompts.
 * API do OpenAI gera novas imagens estilizadas (usando DALL·E).
-* As imagens são divididas e convertidas de base64.
-* São armazenadas automaticamente em um bucket do Supabase.
-* Links finais são atualizados no Google Sheets.
+* As imagens sêo divididas e convertidas de base64.
+* Sêo armazenadas automaticamente em um bucket do Supabase.
+* Links finais sêo atualizados no Google Sheets.
 
 **Exemplo de uso:** Lojas virtuais ou e-commerces que precisam criar banners e imagens de produtos de forma automática e criativa.
 
 ---
 
-**2. Sistema de Geração de Leads (Lead Gen System)**
-Rastreamento automatizado de vagas em sites como o Indeed e geração de e-mails personalizados para captar clientes potenciais.
+**2. Sistema de Geraçêo de Leads (Lead Gen System)**
+Rastreamento automatizado de vagas em sites como o Indeed e geraçêo de e-mails personalizados para captar clientes potenciais.
 
 **Etapas do fluxo:**
 
 * Formulário do n8n coleta o cargo e país desejado.
-* API do Indeed busca empresas que estão contratando.
+* API do Indeed busca empresas que estêo contratando.
 * Apollo.io é usado para encontrar os decisores dessas empresas.
 * Um modelo LLM (Large Language Model) gera e-mails personalizados.
-* Leads e e-mails são enviados automaticamente para a ferramenta Smartlead.
+* Leads e e-mails sêo enviados automaticamente para a ferramenta Smartlead.
 
-**Exemplo de uso:** Agências de marketing, freelancers ou especialistas em IA que querem vender serviços de automação para empresas com demanda ativa.
+**Exemplo de uso:** Agências de marketing, freelancers ou especialistas em IA que querem vender serviços de automaçêo para empresas com demanda ativa.
 
 ---
 
-**3. Automação de Leitura de Recibos (Receipt Automation)**
+**3. Automaçêo de Leitura de Recibos (Receipt Automation)**
 Permite que o cliente envie uma foto de recibo pelo Telegram, e o sistema preenche automaticamente uma planilha com os dados extraídos.
 
 **Fluxo completo:**
 
 * Bot do Telegram recebe a imagem e aciona o n8n.
 * A imagem é analisada via OpenRouter usando IA de OCR + GPT-4.
-* Dados como valor, data, descrição e fornecedor são extraídos em JSON.
+* Dados como valor, data, descriçêo e fornecedor sêo extraídos em JSON.
 * Código interno do n8n formata os dados.
-* Dados são inseridos automaticamente no Google Sheets.
+* Dados sêo inseridos automaticamente no Google Sheets.
 * Um resumo é enviado ao cliente via Telegram.
 
 **Exemplo de uso:** Empresas de contabilidade, autônomos ou gestores que precisam organizar comprovantes financeiros com rapidez.
@@ -260,13 +260,13 @@ Data: 2025-06-15T05:05:46+00:00
 Texto:
 Três automações simples e práticas com inteligência artificial e *no-code*, usando o n8n, que podem ser vendidas por valores entre US\$ 500 e US\$ 1.500. 
 
-A primeira é uma automação de geração de imagens de produtos a partir de links e prompts, utilizando o Google Sheets, API da OpenAI, conversão de base64 e upload para Supabase. Essa automação é voltada para e-commerce e permite gerar pôsteres de forma rápida e automatizada.
+A primeira é uma automaçêo de geraçêo de imagens de produtos a partir de links e prompts, utilizando o Google Sheets, API da OpenAI, conversêo de base64 e upload para Supabase. Essa automaçêo é voltada para e-commerce e permite gerar pôsteres de forma rápida e automatizada.
 
- A segunda é um sistema de geração de leads: coleta vagas de emprego no Indeed via API, identifica empresas contratando, busca decisores via Apollo, gera e-mails personalizados com LLMs e os envia automaticamente por plataformas como o Smartlead.
+ A segunda é um sistema de geraçêo de leads: coleta vagas de emprego no Indeed via API, identifica empresas contratando, busca decisores via Apollo, gera e-mails personalizados com LLMs e os envia automaticamente por plataformas como o Smartlead.
 
-A terceira automação é voltada para o registro automático de recibos. O fluxo começa no Telegram, onde o usuário envia uma imagem, que é analisada por uma IA via OpenRouter para extrair informações como data, valor e fornecedor. Os dados são limpos com um script simples e inseridos automaticamente no Google Sheets. Ao final, o usuário recebe uma confirmação via Telegram.
+A terceira automaçêo é voltada para o registro automático de recibos. O fluxo começa no Telegram, onde o usuário envia uma imagem, que é analisada por uma IA via OpenRouter para extrair informações como data, valor e fornecedor. Os dados sêo limpos com um script simples e inseridos automaticamente no Google Sheets. Ao final, o usuário recebe uma confirmaçêo via Telegram.
 
- Essas soluções são totalmente configuráveis sem a necessidade de programação, sendo ideais para agências, freelancers ou iniciantes que querem oferecer serviços úteis e com boa margem de lucro para empresas que buscam economizar tempo e automatizar tarefas operacionais.
+ Essas soluções sêo totalmente configuráveis sem a necessidade de programaçêo, sendo ideais para agências, freelancers ou iniciantes que querem oferecer serviços úteis e com boa margem de lucro para empresas que buscam economizar tempo e automatizar tarefas operacionais.
 
 ------------------------------
 

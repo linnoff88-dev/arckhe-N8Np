@@ -13,40 +13,40 @@ MENSAGEM 1
 Autor: INEMA
 Data: 2025-04-12T03:22:15+00:00
 Texto:
-**Tradução Completa do Vídeo "Long-Form Faceless Video AI Agent System: Retro-Future Jazz Music Videos For $5k/mo (n8n Template)"**
+**Traduçêo Completa do Vídeo "Long-Form Faceless Video AI Agent System: Retro-Future Jazz Music Videos For $5k/mo (n8n Template)"**
 
 **Resumo Geral:**
-O criador do vídeo mostra um sistema de agente de IA para criar vídeos de música instrumental no estilo jazz retrô-futurista, automatizando tudo com ferramentas como n8n, Suno, Supabase, Flux, Minimax e OTCode. O sistema pode gerar até US$ 5 mil por mês com menos de 40 vídeos publicados. Ele detalha como configurar cada etapa da automação, incluindo geração de músicas, imagens, vídeos e a renderização final.
+O criador do vídeo mostra um sistema de agente de IA para criar vídeos de música instrumental no estilo jazz retrô-futurista, automatizando tudo com ferramentas como n8n, Suno, Supabase, Flux, Minimax e OTCode. O sistema pode gerar até US$ 5 mil por mês com menos de 40 vídeos publicados. Ele detalha como configurar cada etapa da automaçêo, incluindo geraçêo de músicas, imagens, vídeos e a renderizaçêo final.
 
 ---
 
 **Etapas Explicadas:**
 
-1. **Introdução**
-   - O criador construiu um sistema de IA para gerar vídeos de jazz futurista que estão tendo milhões de visualizações.
+1. **Introduçêo**
+   - O criador construiu um sistema de IA para gerar vídeos de jazz futurista que estêo tendo milhões de visualizações.
    - Exemplo: canal com 55 mil inscritos e apenas 32 vídeos, gerando cerca de US$ 5 mil/mês.
-   - A automação é feita com agentes de IA e n8n.
+   - A automaçêo é feita com agentes de IA e n8n.
    - Oferece templates prontos na comunidade Any No Code Premium.
 
 2. **Funcionamento do Sistema**
    - Dá um tema ao gerador de músicas (Suno), como “jazz retrô futurista”.
    - O Suno permite gerar até 10 músicas gratuitas por dia.
-   - As músicas são armazenadas no **Supabase** (já que o Suno não tem API estável).
-   - Depois, imagens são geradas com **Flux AI**, que são transformadas em vídeo com **Minimax**.
+   - As músicas sêo armazenadas no **Supabase** (já que o Suno nêo tem API estável).
+   - Depois, imagens sêo geradas com **Flux AI**, que sêo transformadas em vídeo com **Minimax**.
    - O vídeo final é renderizado com **OTCode**.
 
 3. **Etapas Técnicas Detalhadas**
 
-   - **1º passo: Geração de Música (Suno)**
+   - **1º passo: Geraçêo de Música (Suno)**
      - Usa trigger agendado no n8n.
      - Gera 4 músicas (exemplo).
-     - Músicas são enviadas ao Supabase via HTTP Request.
+     - Músicas sêo enviadas ao Supabase via HTTP Request.
      - Supabase configurado com chave secreta e URL da API.
-     - Após upload, os arquivos são filtrados para capturar apenas arquivos `.mp3`.
+     - Após upload, os arquivos sêo filtrados para capturar apenas arquivos `.mp3`.
 
-   - **2º passo: Geração de Imagens (Flux AI)**
+   - **2º passo: Geraçêo de Imagens (Flux AI)**
      - Usa modelo de linguagem (LLM) com prompts customizados.
-     - As imagens são criadas com base nos prompts e salvas.
+     - As imagens sêo criadas com base nos prompts e salvas.
      - É feita uma espera de 30 segundos para garantir o tempo de processamento.
      - Depois, é feito um request para obter as imagens já renderizadas.
 
@@ -55,10 +55,10 @@ O criador do vídeo mostra um sistema de agente de IA para criar vídeos de mús
      - Espera-se 1 minuto para garantir que o vídeo seja processado.
      - Recupera o vídeo com método GET e salva a URL do vídeo gerado.
 
-   - **4º passo: Renderização Final (OTCode)**
+   - **4º passo: Renderizaçêo Final (OTCode)**
      - Junta música de fundo + vídeos + estilo.
      - Envia para API do OTCode para renderizar o vídeo completo.
-     - Espera 3 minutos para garantir renderização.
+     - Espera 3 minutos para garantir renderizaçêo.
      - Usa novo request para verificar status e baixar o vídeo final.
      - Exibe o vídeo completo com música e visual relaxante.
 
@@ -72,11 +72,11 @@ O criador do vídeo mostra um sistema de agente de IA para criar vídeos de mús
 **Exemplos de Ferramentas Utilizadas:**
 
 - **n8n**: Orquestra todos os fluxos.
-- **Suno**: Geração de música instrumental (sem API oficial).
+- **Suno**: Geraçêo de música instrumental (sem API oficial).
 - **Supabase**: Armazenamento dos arquivos de áudio.
-- **Flux AI**: Geração das imagens com prompts.
-- **Minimax**: Conversão de imagem em vídeo.
-- **OTCode**: Renderização do vídeo completo com trilha sonora.
+- **Flux AI**: Geraçêo das imagens com prompts.
+- **Minimax**: Conversêo de imagem em vídeo.
+- **OTCode**: Renderizaçêo do vídeo completo com trilha sonora.
 
 ---
 
@@ -212,7 +212,7 @@ Data: 2025-04-12T03:09:04+00:00
 Texto:
 **[Tutorial + Modelo] Sistema de agente de IA de vídeo sem rosto de formato longo: vídeos de música de jazz retrô do futuro por US$ 5k/mês (modelo n8n)**
 
- Acabei de fazer um tutorial mostrando como criar sem esforço vídeos musicais Retro-Future Jazz lucrativos e sem rosto usando um fluxo de trabalho alimentado por IA. Com ferramentas como Flux AI, Suno e Minimax AI, além de uma configuração n8n passo a passo, você automatizará tudo, desde visuais cinematográficos até faixas de jazz e renderização final de vídeo - sem necessidade de codificação!
+ Acabei de fazer um tutorial mostrando como criar sem esforço vídeos musicais Retro-Future Jazz lucrativos e sem rosto usando um fluxo de trabalho alimentado por IA. Com ferramentas como Flux AI, Suno e Minimax AI, além de uma configuraçêo n8n passo a passo, você automatizará tudo, desde visuais cinematográficos até faixas de jazz e renderizaçêo final de vídeo - sem necessidade de codificaçêo!
 
 ------------------------------
 

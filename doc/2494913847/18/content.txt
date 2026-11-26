@@ -15,7 +15,7 @@ Data: 2025-03-27T14:44:53+00:00
 Texto:
 Precisa condicionar o prompt a:
 
-Quando for solicitado tal situação, ativar uma tool. Daí a tool busca na planilha
+Quando for solicitado tal situaçêo, ativar uma tool. Daí a tool busca na planilha
 
 ------------------------------
 
@@ -31,7 +31,7 @@ MENSAGEM 3
 Autor: Arthur
 Data: 2025-03-26T21:46:01+00:00
 Texto:
-voce esta querendo saber como faz a conexão do google sheet com o n8n?
+voce esta querendo saber como faz a conexêo do google sheet com o n8n?
 
 ------------------------------
 
@@ -39,7 +39,7 @@ MENSAGEM 4
 Autor: Alexandre
 Data: 2025-03-26T21:23:42+00:00
 Texto:
-dúvida: alguém já fez alguma agente com acesso a planilha do google, e com base em um texto, ele busca alguma informação nessa planilha?
+dúvida: alguém já fez alguma agente com acesso a planilha do google, e com base em um texto, ele busca alguma informaçêo nessa planilha?
 minha dúvida está se add o acesso a planilha as tools desse agente?
 
 ------------------------------
@@ -74,11 +74,11 @@ Data: 2025-03-26T12:00:09+00:00
 Texto:
 Refiz todas as instalaçoes, e advinhem...rs
 
-Eu cadastrei na instalação do n8n o nome do subdominio com uma letrinha diferente do correto.👀🤦🏻‍♂
+Eu cadastrei na instalaçêo do n8n o nome do subdominio com uma letrinha diferente do correto.👀🤦🏻‍♂
 
 Agora funcionou🙏
 
-Agradeço a atenção de todos👊
+Agradeço a atençêo de todos👊
 
 ------------------------------
 
@@ -86,7 +86,7 @@ MENSAGEM 9
 Autor: Carlos
 Data: 2025-03-26T00:20:48+00:00
 Texto:
-precisa criar um subdomínio para o webhook. quando vai fazer a instalação do n8n, ele pede. tipo, vc criou o n8n.seudominio.com e precisa criar o webhook.seudominio.com e configurar na hospedagem
+precisa criar um subdomínio para o webhook. quando vai fazer a instalaçêo do n8n, ele pede. tipo, vc criou o n8n.seudominio.com e precisa criar o webhook.seudominio.com e configurar na hospedagem
 
 ------------------------------
 
@@ -96,11 +96,11 @@ Data: 2025-03-25T23:44:54+00:00
 Texto:
 Obrigado @C_Mataveli_TrilhadoGPT 
 
-Irei reinstalar do zero. Tenho VPS da hostinger. Refiz os passos básicos que orientou e continuou sem resposta na execução.
+Irei reinstalar do zero. Tenho VPS da hostinger. Refiz os passos básicos que orientou e continuou sem resposta na execuçêo.
 
 Volto aqui quando finalizar as reinstalações para dizer se deu certo.
 
-Grato pela atenção de todos.
+Grato pela atençêo de todos.
 
 ------------------------------
 
@@ -110,12 +110,12 @@ Data: 2025-03-25T22:57:57+00:00
 Texto:
 Como testar se está funcionando:
 
-1) Ativa o fluxo e copia o link de produção
+1) Ativa o fluxo e copia o link de produçêo
 2) cria um novo fluxo e insere um http request método POST. Daí você cola o link. No body cria um parâmetro com um "name" e "value" qualquer. 
 3) roda o http request
-4) Verifica se está chegando a informação no webhook.
+4) Verifica se está chegando a informaçêo no webhook.
 
-Se não chegar o problema é na instalação
+Se nêo chegar o problema é na instalaçêo
 
 ------------------------------
 
@@ -123,7 +123,7 @@ MENSAGEM 12
 Autor: Carlos
 Data: 2025-03-25T22:54:02+00:00
 Texto:
-Se ainda assim não funcionar, precisa verificar se o webhook tá funcionando.
+Se ainda assim nêo funcionar, precisa verificar se o webhook tá funcionando.
 
 Se estiver no n8n cloud, certamente está.
 
@@ -143,7 +143,7 @@ MENSAGEM 14
 Autor: Carlos
 Data: 2025-03-25T22:51:08+00:00
 Texto:
-Se por fim não funcionar, remove a instância do evolution e insere ela novamente.
+Se por fim nêo funcionar, remove a instância do evolution e insere ela novamente.
 
 ------------------------------
 
@@ -159,9 +159,9 @@ MENSAGEM 16
 Autor: Carlos
 Data: 2025-03-25T22:48:39+00:00
 Texto:
-Você precisa mudar o link do webhook. Ao abrir o node do webhook, pode perceber que tem o modo teste e o modo produção.
+Você precisa mudar o link do webhook. Ao abrir o node do webhook, pode perceber que tem o modo teste e o modo produçêo.
 
-Quando ativa o fluxo, ele vai ler o modo produção. Com isso tem que selecionar o modo produção no webhook, copiar o link e levar para o evolution.
+Quando ativa o fluxo, ele vai ler o modo produçêo. Com isso tem que selecionar o modo produçêo no webhook, copiar o link e levar para o evolution.
 
 ------------------------------
 
@@ -233,7 +233,7 @@ MENSAGEM 25
 Autor: Arthur
 Data: 2025-03-24T20:04:39+00:00
 Texto:
-Mesmo mudando o link ele não aceita?
+Mesmo mudando o link ele nêo aceita?
 
 ------------------------------
 
@@ -254,9 +254,9 @@ Autor: Arthur
 Data: 2025-03-24T10:17:58+00:00
 Texto:
 Mas aí basicamente ele recebe uma entrada.
-Espera um tempo e não faz mais nada.
+Espera um tempo e nêo faz mais nada.
 
-O que não está fluindo?
+O que nêo está fluindo?
 
 ------------------------------
 
@@ -264,7 +264,7 @@ MENSAGEM 28
 Autor: Marcelo
 Data: 2025-03-23T21:25:56+00:00
 Texto:
-Pessoal, algo que me parece muito simples, mas não estou entendendo onde está o erro. Quando faço o teste, roda de boa o fluxo. Quando ativo para rodar na produção, não flui. E vejam, apenas este pequeno e simples fluxo para eu seguir em frente.
+Pessoal, algo que me parece muito simples, mas nêo estou entendendo onde está o erro. Quando faço o teste, roda de boa o fluxo. Quando ativo para rodar na produçêo, nêo flui. E vejam, apenas este pequeno e simples fluxo para eu seguir em frente.
 Alguem pode me dar uma dica?
 Midia: MessageMediaPhoto -> photo_3666_028.jpg
 
@@ -348,9 +348,9 @@ Data: 2025-03-09T19:50:48+00:00
 Texto:
 Pq a ideia principal é ele ficar controlando todos em comentarios da pagina, o deepseek verificar se é um elogio, reclamacao ou intencao de compra, 
 
-Reclamação: manda um direct pra mim com o nome do usuario e fala que esta fazendo ima reclamacao
+Reclamaçêo: manda um direct pra mim com o nome do usuario e fala que esta fazendo ima reclamacao
 
-Intenção de compra: comenta o comentario e envia um dm pra pessoa que a equipe de venda.
+Intençêo de compra: comenta o comentario e envia um dm pra pessoa que a equipe de venda.
 
 Elogio: somente responde o comentario agradecendo.
 
@@ -417,7 +417,7 @@ MENSAGEM 46
 Autor: Omar
 Data: 2025-02-15T01:41:24+00:00
 Texto:
-Olá pessoal tudo bem ? Vocês tem alguma forma de criar a instrução para um agente RAG no N8N executar um atendimento conforme uma metodologia? E também que ele consiga identificar quando precisar mandar uma imagem para o cliente via mensagem ?
+Olá pessoal tudo bem ? Vocês tem alguma forma de criar a instruçêo para um agente RAG no N8N executar um atendimento conforme uma metodologia? E também que ele consiga identificar quando precisar mandar uma imagem para o cliente via mensagem ?
 
 ------------------------------
 
@@ -425,7 +425,7 @@ MENSAGEM 47
 Autor: Arthur
 Data: 2025-02-14T13:39:48+00:00
 Texto:
-cada dia mais perto da automação final
+cada dia mais perto da automaçêo final
 
 ja refiz ela algumas vezes, mas esta evoluindo muito bem!
 
@@ -437,7 +437,7 @@ se nao tiver pede o nome e cadastra
 
 a 1 mes atras eu nao sabia o que era uma api!!!
 
-bora que bora que ate o fim do mes quero essa automação 100% rodando aqui na empresa!
+bora que bora que ate o fim do mes quero essa automaçêo 100% rodando aqui na empresa!
 Midia: MessageMediaPhoto -> photo_1548_047.jpg
 
 ------------------------------
@@ -494,7 +494,7 @@ MENSAGEM 54
 Autor: Carlos
 Data: 2025-02-09T23:36:16+00:00
 Texto:
-Ajuda com o que sabe, pergunta o que não sabe e alguém de boa vontade e com tempo disponível responde...
+Ajuda com o que sabe, pergunta o que nêo sabe e alguém de boa vontade e com tempo disponível responde...
 
 ------------------------------
 
@@ -592,7 +592,7 @@ MENSAGEM 66
 Autor: Carlos
 Data: 2025-02-06T04:35:25+00:00
 Texto:
-irmão, sugiro rodar nó por nó, olhar o input e output. Verifica quais são as informações que estão chegando via webhook. está conectado ao Evolution? pode ser configuração no evolution também.
+irmêo, sugiro rodar nó por nó, olhar o input e output. Verifica quais sêo as informações que estêo chegando via webhook. está conectado ao Evolution? pode ser configuraçêo no evolution também.
 
 ------------------------------
 
@@ -611,7 +611,7 @@ Data: 2025-02-05T19:00:44+00:00
 Texto:
 fala galera
 
-Fiz essa automação, mas estou obtendo um problema estranho, ele fica respondendo varias vezes a mesma coisa.
+Fiz essa automaçêo, mas estou obtendo um problema estranho, ele fica respondendo varias vezes a mesma coisa.
 
 como se estivesse em loop
 Midia: MessageMediaPhoto -> photo_1235_068.jpg
@@ -638,7 +638,7 @@ MENSAGEM 71
 Autor: Carlos
 Data: 2025-02-05T16:09:42+00:00
 Texto:
-daí fui avaliando os custos pra rodar cada automação.
+daí fui avaliando os custos pra rodar cada automaçêo.
 
 ------------------------------
 
@@ -658,20 +658,20 @@ MENSAGEM 73
 Autor: Carlos
 Data: 2025-02-05T15:23:43+00:00
 Texto:
-irmão, eu fiz uma migração de carreira e vou listar como fiz para migrar completamente para automações.  
+irmêo, eu fiz uma migraçêo de carreira e vou listar como fiz para migrar completamente para automações.  
 
-Sou engenheiro civil de formação e tinha uma serralheria. Fechei a serralheria e comecei a estudar automações, com a idéia parte do meu tempo dedicar para serviços de laudos e consultoria de engenharia e a outra parte do tempo trabalhar na migração para automações e IA.
+Sou engenheiro civil de formaçêo e tinha uma serralheria. Fechei a serralheria e comecei a estudar automações, com a idéia parte do meu tempo dedicar para serviços de laudos e consultoria de engenharia e a outra parte do tempo trabalhar na migraçêo para automações e IA.
 
 Montei automações para o meu uso e para alguns conhecidos, enquanto compartilhava o aprendizado nas comunidades. Principalmente aqui no INEMA. Tem muita gente inserido na comunidade que está buscando profissional qualificado. Daí fui mostrando as coisas que sei fazer e foi aparecendo demanda.
 
-Já com a base inicial de tempo que vou dedicar para implantação, analisei o valor mínimo da hora técnica do serviço, estimando a quantidade de horas que iria gastar para implantar para o cliente. O valor mínimo da hora, considerei: esse serviço precisa assumir uma parte das contas de casa, pra no futuro ser a fonte de renda principal.
+Já com a base inicial de tempo que vou dedicar para implantaçêo, analisei o valor mínimo da hora técnica do serviço, estimando a quantidade de horas que iria gastar para implantar para o cliente. O valor mínimo da hora, considerei: esse serviço precisa assumir uma parte das contas de casa, pra no futuro ser a fonte de renda principal.
 
 Conforme fui trabalhando e estudando de **verdade **o assunto, fui suprindo todo o tempo disponível para engenharia com desenvolvimento de automações.
 
 Meu objetivo era trabalhar com engenharia e automações por 1 ano para conseguir maturar o negócio de automações.
 Consegui atingir o objetivo com 6 meses. 
 
-Mas concluindo, meu ponto de partida com relação a valores foi: **qual o mínimo que eu preciso vender para pagar as minhas contas mensais**.
+Mas concluindo, meu ponto de partida com relaçêo a valores foi: **qual o mínimo que eu preciso vender para pagar as minhas contas mensais**.
 
 Espero ter ajudado.
 
@@ -683,13 +683,13 @@ Data: 2025-02-05T11:35:42+00:00
 Texto:
 pedi ajuda pro gpt que retornou dessa forma:
 
-A estratégia de precificação ideal depende do modelo de negócio desejado:
+A estratégia de precificaçêo ideal depende do modelo de negócio desejado:
 
 ✅ Preço fixo por evento → Melhor para previsibilidade financeira.
 ✅ Preço por usuário → Mais transparente para organizadores e patrocinadores.
-✅ Preço por interação → Interessante para monetização escalável.
+✅ Preço por interaçêo → Interessante para monetizaçêo escalável.
 
-mas não ajudou muito em valores
+mas nêo ajudou muito em valores
 já que temos custos de infra, apis e mao de obra.
 
 como medem isso?
@@ -700,7 +700,7 @@ MENSAGEM 75
 Autor: tripexplorer
 Data: 2025-02-05T11:32:15+00:00
 Texto:
-tem alguma planilha de sugestão de precificação nesse bolo todo de conteúdo?
+tem alguma planilha de sugestêo de precificaçêo nesse bolo todo de conteúdo?
 
 ------------------------------
 
@@ -773,26 +773,26 @@ Data: 2025-01-03T17:18:57+00:00
 Texto:
 ### Caso Prático: Apify e Amazon com n8n 
  
-#### Introdução 
-Nesta aula, criamos um fluxo automatizado no **n8n** que utiliza o **Apify** para **scrapear produtos da Amazon**. Os resultados são organizados em uma planilha no **Google Sheets**, permitindo análises avançadas e acompanhamento de dados. 
+#### Introduçêo 
+Nesta aula, criamos um fluxo automatizado no **n8n** que utiliza o **Apify** para **scrapear produtos da Amazon**. Os resultados sêo organizados em uma planilha no **Google Sheets**, permitindo análises avançadas e acompanhamento de dados. 
  
 --- 
  
 ### Objetivos da Aula 
 1. **Scraping de dados da Amazon** com Apify integrado ao n8n.   
-2. Configuração de **fluxos com validações e tratamento de erros**.   
-3. Organização de resultados no Google Sheets.   
+2. Configuraçêo de **fluxos com validações e tratamento de erros**.   
+3. Organizaçêo de resultados no Google Sheets.   
 4. **Cálculo de médias ponderadas** para análises detalhadas de produtos.   
  
 --- 
  
 ### Pontos-Chave 
  
-#### 1. Configuração Inicial 
+#### 1. Configuraçêo Inicial 
 - Criar um fluxo com um **Trigger manual** no n8n.   
 - Configurar uma planilha no **Google Sheets** com:   
   - Inputs: Produto e número de resultados desejados.   
-  - Campos chave: **Título, URL, ASIN, marca, preço, estrelas, reviews e descrição**.   
+  - Campos chave: **Título, URL, ASIN, marca, preço, estrelas, reviews e descriçêo**.   
 - Adicionar **validações** para evitar duplicados e marcar erros nas entradas.   
  
 #### 2. Scraping com Apify 
@@ -806,28 +806,28 @@ Nesta aula, criamos um fluxo automatizado no **n8n** que utiliza o **Apify** par
 - Dividir os resultados em campos como:   
   - **Título, URL, ASIN, preço, reviews, características, etc.**   
 - Implementar uma fórmula para calcular a **média ponderada das estrelas** dos produtos:   
-  - Oferece maior precisão do que a média simples.   
+  - Oferece maior precisêo do que a média simples.   
  
-#### 4. Gestão de Resultados 
+#### 4. Gestêo de Resultados 
 - Salvar os dados em uma **nova planilha no Google Sheets**.   
-- Atualizar a coluna de verificação com o estado "**OK**" para indicar buscas concluídas com sucesso.   
+- Atualizar a coluna de verificaçêo com o estado "**OK**" para indicar buscas concluídas com sucesso.   
  
 --- 
  
 ### Tarefas Práticas 
  
-#### 1. Criação do Fluxo no n8n 
+#### 1. Criaçêo do Fluxo no n8n 
 - Configurar nodos para:   
   - Inicializar o fluxo.   
   - Validar dados de entrada.   
-  - Gerenciar erros de execução.   
+  - Gerenciar erros de execuçêo.   
 - Gerar uma URL dinâmica e construir um **JSON personalizado** para Apify.   
  
 #### 2. Scraping e Processamento 
 - Usar o Apify para extrair dados específicos da Amazon.   
 - Calcular **médias ponderadas** das calificações dos produtos.   
  
-#### 3. Gestão no Google Sheets 
+#### 3. Gestêo no Google Sheets 
 - Organizar os resultados em um formato estruturado.   
 - Implementar validações para evitar buscas duplicadas.   
  
@@ -841,15 +841,15 @@ Nesta aula, criamos um fluxo automatizado no **n8n** que utiliza o **Apify** par
 2. **Análise de produtos**: 
    - Identificar as melhores opções com base em **calificações, reviews e características**.   
  
-3. **Expansão do scraping**: 
+3. **Expansêo do scraping**: 
    - Adaptar o fluxo para buscar informações em outras plataformas, como **Google Maps** ou **LinkedIn**.   
  
 --- 
  
 ### Recursos 
 - **JSON Caso Prático**: Modelos para configurar o scraping de Amazon.   
-- **Apify Store**: Configuração do ator para buscas na Amazon.   
-- **Google Sheets**: Integração para organizar e armazenar os resultados.   
+- **Apify Store**: Configuraçêo do ator para buscas na Amazon.   
+- **Google Sheets**: Integraçêo para organizar e armazenar os resultados.   
  
 Com este fluxo, é possível criar um sistema robusto de coleta e análise de dados automatizados, facilitando decisões com base em dados. 🚀
 
@@ -861,26 +861,26 @@ Data: 2025-01-03T17:17:52+00:00
 Texto:
 ### Caso Prático: Apify e Amazon com n8n 
  
-#### Introdução 
-Nesta aula, criamos um fluxo automatizado no **n8n** que utiliza o **Apify** para **scrapear produtos da Amazon**. Os resultados são organizados em uma planilha no **Google Sheets**, permitindo análises avançadas e acompanhamento de dados. 
+#### Introduçêo 
+Nesta aula, criamos um fluxo automatizado no **n8n** que utiliza o **Apify** para **scrapear produtos da Amazon**. Os resultados sêo organizados em uma planilha no **Google Sheets**, permitindo análises avançadas e acompanhamento de dados. 
  
 --- 
  
 ### Objetivos da Aula 
 1. **Scraping de dados da Amazon** com Apify integrado ao n8n.   
-2. Configuração de **fluxos com validações e tratamento de erros**.   
-3. Organização de resultados no Google Sheets.   
+2. Configuraçêo de **fluxos com validações e tratamento de erros**.   
+3. Organizaçêo de resultados no Google Sheets.   
 4. **Cálculo de médias ponderadas** para análises detalhadas de produtos.   
  
 --- 
  
 ### Pontos-Chave 
  
-#### 1. Configuração Inicial 
+#### 1. Configuraçêo Inicial 
 - Criar um fluxo com um **Trigger manual** no n8n.   
 - Configurar uma planilha no **Google Sheets** com:   
   - Inputs: Produto e número de resultados desejados.   
-  - Campos chave: **Título, URL, ASIN, marca, preço, estrelas, reviews e descrição**.   
+  - Campos chave: **Título, URL, ASIN, marca, preço, estrelas, reviews e descriçêo**.   
 - Adicionar **validações** para evitar duplicados e marcar erros nas entradas.   
  
 #### 2. Scraping com Apify 
@@ -894,28 +894,28 @@ Nesta aula, criamos um fluxo automatizado no **n8n** que utiliza o **Apify** par
 - Dividir os resultados em campos como:   
   - **Título, URL, ASIN, preço, reviews, características, etc.**   
 - Implementar uma fórmula para calcular a **média ponderada das estrelas** dos produtos:   
-  - Oferece maior precisão do que a média simples.   
+  - Oferece maior precisêo do que a média simples.   
  
-#### 4. Gestão de Resultados 
+#### 4. Gestêo de Resultados 
 - Salvar os dados em uma **nova planilha no Google Sheets**.   
-- Atualizar a coluna de verificação com o estado "**OK**" para indicar buscas concluídas com sucesso.   
+- Atualizar a coluna de verificaçêo com o estado "**OK**" para indicar buscas concluídas com sucesso.   
  
 --- 
  
 ### Tarefas Práticas 
  
-#### 1. Criação do Fluxo no n8n 
+#### 1. Criaçêo do Fluxo no n8n 
 - Configurar nodos para:   
   - Inicializar o fluxo.   
   - Validar dados de entrada.   
-  - Gerenciar erros de execução.   
+  - Gerenciar erros de execuçêo.   
 - Gerar uma URL dinâmica e construir um **JSON personalizado** para Apify.   
  
 #### 2. Scraping e Processamento 
 - Usar o Apify para extrair dados específicos da Amazon.   
 - Calcular **médias ponderadas** das calificações dos produtos.   
  
-#### 3. Gestão no Google Sheets 
+#### 3. Gestêo no Google Sheets 
 - Organizar os resultados em um formato estruturado.   
 - Implementar validações para evitar buscas duplicadas.   
  
@@ -929,15 +929,15 @@ Nesta aula, criamos um fluxo automatizado no **n8n** que utiliza o **Apify** par
 2. **Análise de produtos**: 
    - Identificar as melhores opções com base em **calificações, reviews e características**.   
  
-3. **Expansão do scraping**: 
+3. **Expansêo do scraping**: 
    - Adaptar o fluxo para buscar informações em outras plataformas, como **Google Maps** ou **LinkedIn**.   
  
 --- 
  
 ### Recursos 
 - **JSON Caso Prático**: Modelos para configurar o scraping de Amazon.   
-- **Apify Store**: Configuração do ator para buscas na Amazon.   
-- **Google Sheets**: Integração para organizar e armazenar os resultados.   
+- **Apify Store**: Configuraçêo do ator para buscas na Amazon.   
+- **Google Sheets**: Integraçêo para organizar e armazenar os resultados.   
  
 Com este fluxo, é possível criar um sistema robusto de coleta e análise de dados automatizados, facilitando decisões com base em dados. 🚀
 
@@ -949,15 +949,15 @@ Data: 2025-01-03T17:13:13+00:00
 Texto:
 ### Integrações Avançadas no n8n 
  
-#### Introdução 
+#### Introduçêo 
 Nesta aula, exploramos três tópicos principais: 
-1. **Conexão do Google com o n8n**: Integração de serviços como Google Drive, Docs, Sheets, Slides e Gmail.   
-2. **Geração de música com Hugging Face**: Criação de música instrumental personalizada utilizando prompts e APIs.   
-3. **Uso do Appify Store**: Extração de comentários de vídeos do YouTube e processamento no Google Sheets.   
+1. **Conexêo do Google com o n8n**: Integraçêo de serviços como Google Drive, Docs, Sheets, Slides e Gmail.   
+2. **Geraçêo de música com Hugging Face**: Criaçêo de música instrumental personalizada utilizando prompts e APIs.   
+3. **Uso do Appify Store**: Extraçêo de comentários de vídeos do YouTube e processamento no Google Sheets.   
  
 --- 
  
-### 1. Conexão do Google com o n8n 
+### 1. Conexêo do Google com o n8n 
 **Passos principais**: 
 1. Acesse o **Google Console Cloud**.   
 2. Crie um projeto específico (exemplo: "n8n-youtube").   
@@ -971,12 +971,12 @@ Nesta aula, exploramos três tópicos principais:
  
 --- 
  
-### 2. Geração de Música com Hugging Face 
+### 2. Geraçêo de Música com Hugging Face 
 **Passos principais**: 
 1. Registre-se no [Hugging Face](https://huggingface.co/).   
-2. Crie um **token de acesso** no seu perfil para autenticação da API.   
+2. Crie um **token de acesso** no seu perfil para autenticaçêo da API.   
 3. Escolha o modelo **MusicGenSmall**.   
-4. Configure uma solicitação HTTP no n8n:   
+4. Configure uma solicitaçêo HTTP no n8n:   
    - **Método**: POST.   
    - **Headers**:   
      - Authorization: Bearer `<API Token>`.   
@@ -984,18 +984,18 @@ Nesta aula, exploramos três tópicos principais:
    - **Body (JSON)**: Inclua o prompt que descreve o estilo de música desejado.   
  
 **Resultados**: 
-- Música instrumental gerada (até 30 segundos), disponível para download ou reprodução.   
+- Música instrumental gerada (até 30 segundos), disponível para download ou reproduçêo.   
  
 --- 
  
-### 3. Uso do Appify Store para Extração de Comentários do YouTube 
+### 3. Uso do Appify Store para Extraçêo de Comentários do YouTube 
 **Passos principais**: 
 1. Registre-se no [Apify](https://apify.com/) e acesse o **Store**.   
 2. Selecione o ator **YouTube Comments Scraper**.   
 3. Configure parâmetros básicos:   
    - URL do vídeo.   
    - Quantidade de comentários a serem extraídos.   
-4. Configure uma solicitação HTTP no n8n:   
+4. Configure uma solicitaçêo HTTP no n8n:   
    - **Método**: POST.   
    - **Body (JSON)**: Parâmetros configurados para o ator.   
 5. Processe os dados extraídos (autor, comentário, likes, etc.) e armazene-os no Google Sheets.   
@@ -1005,7 +1005,7 @@ Nesta aula, exploramos três tópicos principais:
  
 --- 
  
-### Conclusão e Próximos Passos 
+### Conclusêo e Próximos Passos 
 Nesta aula, aprendemos a: 
 - Conectar serviços do Google ao n8n.   
 - Gerar música personalizada com Hugging Face.   
@@ -1034,9 +1034,9 @@ Data: 2025-01-03T17:08:39+00:00
 Texto:
 ### Pontos Principais 
  
-#### Introdução aos Fundamentos do n8n 
+#### Introduçêo aos Fundamentos do n8n 
 - **Conceito de Nodos no n8n**: 
-  - São blocos de construção que realizam tarefas específicas dentro dos fluxos de trabalho. 
+  - Sêo blocos de construçêo que realizam tarefas específicas dentro dos fluxos de trabalho. 
   - Entender os nodos é essencial antes de criar automatizações mais avançadas. 
  
 --- 
@@ -1051,35 +1051,35 @@ Texto:
    - **Exemplos**: Enviar e-mails, atualizar bases de dados, inserir dados no Google Sheets. 
  
 3. **Nodos Helper**: 
-   - Auxiliam na manipulação de informações. 
+   - Auxiliam na manipulaçêo de informações. 
    - **Exemplos**: Nodo If, Split Out, Aggregate. 
  
 4. **Nodos Especiais**: 
    - Realizam ações avançadas ou múltiplas. 
-   - **Exemplos**: Interação com WhatsApp, análise de texto ou sentimento. 
+   - **Exemplos**: Interaçêo com WhatsApp, análise de texto ou sentimento. 
  
 --- 
  
-#### Criação de Fluxos Básicos no n8n 
+#### Criaçêo de Fluxos Básicos no n8n 
 - **Início de um fluxo com nodos Trigger**: 
-  - Configuração inicial para captar eventos ou dados. 
-- **Personalização de fluxos**: 
+  - Configuraçêo inicial para captar eventos ou dados. 
+- **Personalizaçêo de fluxos**: 
   - Ajuste das ações para atender a necessidades específicas. 
 - **Exemplo prático**: 
-  - Criação de imagens usando Hugging Face e APIs. 
+  - Criaçêo de imagens usando Hugging Face e APIs. 
  
 --- 
  
 #### Uso do Nodo Code 
 - **Potencial do nodo Code**: 
-  - Manipulação de dados com **JavaScript**. 
+  - Manipulaçêo de dados com **JavaScript**. 
   - Permite maior flexibilidade e controle nos fluxos. 
 - **Exemplo prático**: 
-  - Conversão de graus Celsius para Fahrenheit. 
-- **Explicação do código em JavaScript**: 
-  1. Definição de variáveis. 
+  - Conversêo de graus Celsius para Fahrenheit. 
+- **Explicaçêo do código em JavaScript**: 
+  1. Definiçêo de variáveis. 
   2. Uso de fórmulas matemáticas. 
-  3. Criação de um JSON para armazenar os resultados. 
+  3. Criaçêo de um JSON para armazenar os resultados. 
  
 - **Dicas**: 
   - Ferramentas como ChatGPT ou Perplexity podem ajudar a gerar e corrigir códigos. 
@@ -1087,10 +1087,10 @@ Texto:
 --- 
  
 #### Conclusões 
-- Os nodos são a base para criar fluxos de trabalho no n8n. 
-- Nodos Trigger são essenciais para iniciar fluxos. 
+- Os nodos sêo a base para criar fluxos de trabalho no n8n. 
+- Nodos Trigger sêo essenciais para iniciar fluxos. 
 - O nodo Code amplia as possibilidades, permitindo manipulações avançadas com **JavaScript**. 
-- **Prática constante e abordagem passo a passo** são fundamentais para dominar o n8n.
+- **Prática constante e abordagem passo a passo** sêo fundamentais para dominar o n8n.
 
 ------------------------------
 
@@ -1098,26 +1098,26 @@ MENSAGEM 88
 Autor: INEMA
 Data: 2025-01-03T17:04:02+00:00
 Texto:
-### Introdução ao n8n 
+### Introduçêo ao n8n 
  
 #### O que é o n8n? 
  
-- **Plataforma de automação de fluxos de trabalho**, semelhante ao Make ou Zapier.   
+- **Plataforma de automaçêo de fluxos de trabalho**, semelhante ao Make ou Zapier.   
 - Permite **conectar aplicativos** para automatizar tarefas repetitivas.   
-- **Exemplo prático**: Automação da publicação de conteúdo do Airtable no Instagram.   
+- **Exemplo prático**: Automaçêo da publicaçêo de conteúdo do Airtable no Instagram.   
  
 #### Principais características do n8n: 
 - **Código aberto e gratuito**: Personalizável e auditado pela comunidade.   
 - **Controle total e privacidade**: Pode ser instalado localmente.   
 - **Interface visual intuitiva**: Simples, mas menos amigável do que outras ferramentas.   
-- **Compatível com código**: Não exige programação, mas permite inseri-la se necessário.   
+- **Compatível com código**: Nêo exige programaçêo, mas permite inseri-la se necessário.   
  
 --- 
  
-### Instalação do n8n 
+### Instalaçêo do n8n 
  
 #### Passo 1: Instalar Node.js 
-1. Acesse [nodejs.org](https://nodejs.org/) e baixe a versão LTS para seu sistema operacional.   
+1. Acesse [nodejs.org](https://nodejs.org/) e baixe a versêo LTS para seu sistema operacional.   
 2. Siga as instruções do instalador. 
  
 #### Passo 2: Instalar npm e n8n 
@@ -1137,7 +1137,7 @@ Texto:
  
 --- 
  
-### Criação de um fluxo básico 
+### Criaçêo de um fluxo básico 
  
 #### Exemplo prático: Determinar se um número é par ou ímpar 
  
@@ -1146,7 +1146,7 @@ Texto:
    - Defina o tipo de dado como "número". 
  
 2. **Adicionar uma condicional (If)**: 
-   - Verifique se o resto da divisão entre o número e 2 é igual a 0.   
+   - Verifique se o resto da divisêo entre o número e 2 é igual a 0.   
  
 3. **Criar ramificações**: 
    - **True**: O número é par.   
@@ -1156,7 +1156,7 @@ Texto:
    - Mostre os resultados na tela.   
    - Armazene os resultados para usos futuros (ex.: envio de e-mails).   
  
-5. **Visualização do fluxo**: 
+5. **Visualizaçêo do fluxo**: 
    - A interface permite adicionar, mover e conectar nodos de forma simples.   
  
 Agora você está pronto para criar fluxos personalizados com o n8n!

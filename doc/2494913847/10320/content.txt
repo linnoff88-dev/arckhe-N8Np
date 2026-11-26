@@ -13,8 +13,8 @@ MENSAGEM 1
 Autor: JP
 Data: 2025-07-09T04:18:32+00:00
 Texto:
-Esta eu só testei e coloquei para funcionar, estou testando VEO3 de outra forma para gerar, amanhã espero concluir.
-Mas a minha opinião particular é de que a Google, não que oferecer este serviço realmente direto ao publico, pois tercerizado o caminho é sempre mais fácil.
+Esta eu só testei e coloquei para funcionar, estou testando VEO3 de outra forma para gerar, amanhê espero concluir.
+Mas a minha opiniêo particular é de que a Google, nêo que oferecer este serviço realmente direto ao publico, pois tercerizado o caminho é sempre mais fácil.
 
 ------------------------------
 
@@ -60,7 +60,7 @@ MENSAGEM 5
 Autor: JP
 Data: 2025-06-24T11:36:27+00:00
 Texto:
-# 🛠 Guia de Configuração 
+# 🛠 Guia de Configuraçêo 
 **Author:** [Nate Herk](https://www.youtube.com/@nateherk)
 https://www.youtube.com/watch?v=RvuPRX-b7Lc
 
@@ -70,7 +70,7 @@ Siga estas etapas para deixar seu fluxo de trabalho totalmente funcional:
 Isso capacita os agentes de IA. Certifique-se de que sua chave esteja ativa e integrada por meio de modelos de bate-papo do OpenRouter.
 
 ### ✅ Etapa 2: Conecte sua chave de API do Fal AI
-Insira sua chave de API com segurança nos nós de solicitação HTTP da Parte 2.
+Insira sua chave de API com segurança nos nós de solicitaçêo HTTP da Parte 2.
 
 ### ✅ Etapa 3: Conecte [Blotato](https://blotato.com/?ref=nate) + seus IDs sociais
 💸 Use o código **NATE30** para **30% de desconto por 6 meses**
@@ -78,7 +78,7 @@ Insira sua chave de API com segurança nos nós de solicitação HTTP da Parte 2
 - Insira seus IDs de conta do **YouTube**, **Instagram** e **TikTok**
 
 ### ✅ Etapa 4: Copie este [Modelo de Planilha Google](https://docs.google.com/spreadsheets/d/1lBLtXzxhhQiaJZR2EbYTwvMENnp8GnfU03KERpbMCBI/edit?usp=sharing)
-Faça uma cópia para o seu Google Drive e conecte o nó do Planilhas Google à sua versão do modelo.
+Faça uma cópia para o seu Google Drive e conecte o nó do Planilhas Google à sua versêo do modelo.
 
 ### 🚀 Etapa final: testar o fluxo
 Acione o fluxo de trabalho e verifique se os dados fluem por cada serviço conforme o esperado.
@@ -115,41 +115,41 @@ MENSAGEM 9
 Autor: INEMA
 Data: 2025-06-22T21:39:36+00:00
 Texto:
-Aqui estão os **principais hacks e otimizações** usados no sistema apresentado no vídeo para automatizar vídeos virais de ASMR com IA, economizar tempo e aumentar as chances de viralização:
+Aqui estêo os **principais hacks e otimizações** usados no sistema apresentado no vídeo para automatizar vídeos virais de ASMR com IA, economizar tempo e aumentar as chances de viralizaçêo:
 
 ---
 
-### **Hacks de Geração de Conteúdo**
+### **Hacks de Geraçêo de Conteúdo**
 
 1. **Prompt Estruturado e Rico em Detalhes**
 
-   * Usa estrutura clara com campos como: `sujeito`, `cenário`, `ação`, `som`, `estilo`, `movimento de câmera`, etc.
+   * Usa estrutura clara com campos como: `sujeito`, `cenário`, `açêo`, `som`, `estilo`, `movimento de câmera`, etc.
    * Garante que o prompt gere vídeos consistentes e visualmente impactantes.
    * Exemplo:
 
      * Objeto: *glass kiwi*
-     * Prompt gera: corte hiper-realista, som do vidro, ângulo cinematográfico, iluminação suave.
+     * Prompt gera: corte hiper-realista, som do vidro, ângulo cinematográfico, iluminaçêo suave.
 
 2. **Reaproveitamento de ideias com lista rotativa**
 
    * Mantém planilha com as **7 últimas frutas usadas**.
-   * Garante que a IA gere algo **sempre novo**, evitando repetição.
+   * Garante que a IA gere algo **sempre novo**, evitando repetiçêo.
 
 3. **Uso de parser estruturado**
 
    * Força a IA a entregar saída em dois campos separados: `fruta` e `legenda`.
-   * Evita erros de formatação e facilita automação no n8n.
+   * Evita erros de formataçêo e facilita automaçêo no n8n.
 
 ---
 
-### **Hacks Técnicos e de Automação**
+### **Hacks Técnicos e de Automaçêo**
 
-4. **Automação total com n8n**
+4. **Automaçêo total com n8n**
 
    * Sistema executa sozinho: ideia → vídeo → postagem → planilha.
    * Pode ser configurado para rodar **X vezes por dia**, ex: a cada hora.
 
-5. **Delay com verificação contínua**
+5. **Delay com verificaçêo contínua**
 
    * Usa espera de 5 min + checagem por ID até o vídeo estar pronto.
    * Impede que o fluxo trave ou falhe por vídeo ainda em processamento.
@@ -157,7 +157,7 @@ Aqui estão os **principais hacks e otimizações** usados no sistema apresentad
 6. **Limpeza do JSON antes do envio**
 
    * Remove `\n` e `"` duplos do prompt antes de enviar à API do FAL.
-   * Evita falhas de parsing na geração de vídeo.
+   * Evita falhas de parsing na geraçêo de vídeo.
 
 ---
 
@@ -168,12 +168,12 @@ Aqui estão os **principais hacks e otimizações** usados no sistema apresentad
    * Um só vídeo postado automaticamente em YouTube, TikTok e Instagram.
    * Suporte também para Threads, Pinterest, X (Twitter), Facebook e LinkedIn.
 
-8. **Transformação de URL via Botato**
+8. **Transformaçêo de URL via Botato**
 
    * O link da FAL é convertido para link da Botato, que hospeda e posta o vídeo.
    * Necessário para que o vídeo seja aceito pelas redes sociais.
 
-9. **Publicação com configurações separadas**
+9. **Publicaçêo com configurações separadas**
 
    * Cada rede tem seu próprio node de postagem.
    * Evita que uma falha em uma rede afete as outras.
@@ -182,7 +182,7 @@ Aqui estão os **principais hacks e otimizações** usados no sistema apresentad
 
 ### **Hacks de Performance e Alcance**
 
-10. **Volume como fator de viralização**
+10. **Volume como fator de viralizaçêo**
 
 * Publica vídeos em massa (até 24 por dia), aumentando chance de viral.
 * Quanto mais vídeos únicos por dia, maior o alcance potencial.
@@ -190,11 +190,11 @@ Aqui estão os **principais hacks e otimizações** usados no sistema apresentad
 11. **Vídeos com áudio ativado (ASMR)**
 
 * Gera vídeos com som integrado — muito mais engajadores.
-* Áudio é essencial para o formato ASMR e aumenta tempo de retenção.
+* Áudio é essencial para o formato ASMR e aumenta tempo de retençêo.
 
 12. **Aproveitamento de tendências**
 
-* Vídeos com frutas ou objetos de vidro sendo cortados estão em alta.
+* Vídeos com frutas ou objetos de vidro sendo cortados estêo em alta.
 * Aproveita o momento para crescer no algoritmo das plataformas.
 
 -
@@ -226,14 +226,14 @@ Aqui está o **passo a passo completo** para criar o sistema que gera e publica 
 
 ### **2. Criar o fluxo no n8n**
 
-#### **Parte 1: Geração da Ideia (Idea Agent)**
+#### **Parte 1: Geraçêo da Ideia (Idea Agent)**
 
 * **Trigger agendado**: escolha a frequência (ex: 3x ao dia).
 * **Node Google Sheets (leitura)**: leia os 7 últimos objetos (frutas) do sheet.
-* **Node de agregação**: junte os 7 objetos em uma lista.
+* **Node de agregaçêo**: junte os 7 objetos em uma lista.
 * **Node OpenAI (ou outro LLM)**: gere:
 
-  * Uma **nova fruta** que ainda não foi usada.
+  * Uma **nova fruta** que ainda nêo foi usada.
   * Uma **legenda** curta para a postagem.
 * Use um **structured output parser** para garantir saída separada: `object` e `caption`.
 
@@ -243,7 +243,7 @@ Aqui está o **passo a passo completo** para criar o sistema que gera e publica 
 
 * Novo node LLM com instruções claras:
 
-  * Geração de prompt para **vídeo ASMR hiper-realista**.
+  * Geraçêo de prompt para **vídeo ASMR hiper-realista**.
   * Formato 9:16 (vertical), foco em som, textura e corte visual.
   * Defina estrutura de output: `subject`, `setting`, `action`, `style`, `sound`, `camera motion`, `composition`, `ambience`, `aspect ratio`.
 
@@ -297,11 +297,11 @@ Aqui está o **passo a passo completo** para criar o sistema que gera e publica 
 
   * `title` = legenda do vídeo
   * `url` = URL do vídeo
-  * Credencial de autenticação: `Header Auth` com `Botato-API-Key`.
+  * Credencial de autenticaçêo: `Header Auth` com `Botato-API-Key`.
 
 ---
 
-### **8. Verificação final**
+### **8. Verificaçêo final**
 
 * Você pode adicionar um node para verificar se a postagem foi realizada com sucesso via painel do Botato (`Published Posts`).
 
@@ -313,15 +313,15 @@ Aqui está o **passo a passo completo** para criar o sistema que gera e publica 
 
   * Template JSON do fluxo no n8n.
   * Planilha modelo.
-  * Tudo na **comunidade gratuita Free School** (link na descrição do vídeo).
+  * Tudo na **comunidade gratuita Free School** (link na descriçêo do vídeo).
 
 ---
 
 ### **Resumo das Ferramentas**
 
-| Etapa          | Ferramenta          | Função                     |
+| Etapa          | Ferramenta          | Funçêo                     |
 | -------------- | ------------------- | -------------------------- |
-| Ideia e prompt | n8n + OpenAI        | Criar objeto e descrição   |
+| Ideia e prompt | n8n + OpenAI        | Criar objeto e descriçêo   |
 | Vídeo          | FAL + Google Veo V3 | Gerar vídeo ASMR com áudio |
 | Postagem       | Botato              | Publicar automaticamente   |
 | Dados          | Google Sheets       | Manter histórico rotativo  |
@@ -343,33 +343,33 @@ Data: 2025-06-22T21:37:51+00:00
 Texto:
 **Resumo do vídeo “This AI System Posts Viral ASMR Shorts Hourly**
 
-Como construir um sistema completo de automação usando **n8n**, **Google Veo V3** e **Botato** para gerar e postar vídeos virais de ASMR com frutas de vidro sendo cortadas — de forma **totalmente automática** e **sem código**.
+Como construir um sistema completo de automaçêo usando **n8n**, **Google Veo V3** e **Botato** para gerar e postar vídeos virais de ASMR com frutas de vidro sendo cortadas — de forma **totalmente automática** e **sem código**.
 
 ### Etapas do sistema apresentado:
 
-1. **Geração da Ideia (Ideia Agent)**
+1. **Geraçêo da Ideia (Ideia Agent)**
 
    * Sistema verifica as últimas 7 frutas já utilizadas.
-   * Gera uma nova fruta ainda não usada e uma legenda.
+   * Gera uma nova fruta ainda nêo usada e uma legenda.
    * Usa um **parser estruturado** para garantir que o output tenha dois campos: fruta e legenda.
 
-2. **Geração do Vídeo (Prompt Agent)**
+2. **Geraçêo do Vídeo (Prompt Agent)**
 
    * Com base na fruta escolhida, gera um prompt para vídeo hiper-realista no estilo ASMR.
    * O prompt é enviado via API para o modelo **Google Veo V3** usando a plataforma **FAL.ai**.
    * O modelo gera o vídeo com **áudio integrado**, que é essencial para o efeito ASMR.
 
-3. **Verificação e Espera**
+3. **Verificaçêo e Espera**
 
    * O sistema espera cerca de 5 minutos até o vídeo ser finalizado.
    * Faz verificações contínuas para garantir que o vídeo esteja pronto antes de prosseguir.
 
-4. **Atualização da Planilha Google**
+4. **Atualizaçêo da Planilha Google**
 
    * Remove a linha mais antiga da planilha e insere a nova fruta com o link do vídeo.
    * Garante que a lista contenha sempre os 7 vídeos mais recentes.
 
-5. **Publicação nas Redes Sociais**
+5. **Publicaçêo nas Redes Sociais**
 
    * Utiliza a plataforma **Botato** para publicar automaticamente no **YouTube**, **Instagram** e **TikTok**.
    * O vídeo é convertido para um link do Botato antes de ser postado.
@@ -377,25 +377,25 @@ Como construir um sistema completo de automação usando **n8n**, **Google Veo V
 
 6. **Detalhes Técnicos**
 
-   * Integração via APIs do FAL e Botato com autenticação via Header (API Key).
+   * Integraçêo via APIs do FAL e Botato com autenticaçêo via Header (API Key).
    * Vídeos gerados em formato vertical (9:16).
-   * Geração média de **vídeos de 8 segundos a US\$ 6 por vídeo** (incluindo áudio).
+   * Geraçêo média de **vídeos de 8 segundos a US\$ 6 por vídeo** (incluindo áudio).
    * Custo por segundo com áudio: **US\$ 0,75**.
 
-7. **Personalização e Escalabilidade**
+7. **Personalizaçêo e Escalabilidade**
 
    * O fluxo pode ser programado para rodar quantas vezes quiser por dia.
-   * O objetivo é volume e constância para aumentar chances de viralização.
+   * O objetivo é volume e constância para aumentar chances de viralizaçêo.
 
 
 ### Exemplos citados:
 
 * Um dos primeiros vídeos gerados (com prompt inicial) teve **35 mil views em um dia**.
-* Os prompts evoluíram e estão gerando resultados ainda melhores.
+* Os prompts evoluíram e estêo gerando resultados ainda melhores.
 
 ### Objetivo:
 
-Mostrar como automatizar tendências virais com IA, aumentar a produção de conteúdo e crescer canais nas redes sociais de forma escalável e criativa.
+Mostrar como automatizar tendências virais com IA, aumentar a produçêo de conteúdo e crescer canais nas redes sociais de forma escalável e criativa.
 
 ------------------------------
 
@@ -413,9 +413,9 @@ Data: 2025-06-22T21:36:01+00:00
 Texto:
 Este Sistema de IA Publica Vídeos Virais de ASMR a Cada Hora 
 
-Como construir um sistema de conteúdo totalmente automatizado com IA, usando o n8n e o Veo 3 do Google, para gerar e publicar vídeos de ASMR com frutas sendo cortadas em vidro no YouTube, Instagram e TikTok — tudo de forma totalmente automática. Sem necessidade de programação.
+Como construir um sistema de conteúdo totalmente automatizado com IA, usando o n8n e o Veo 3 do Google, para gerar e publicar vídeos de ASMR com frutas sendo cortadas em vidro no YouTube, Instagram e TikTok — tudo de forma totalmente automática. Sem necessidade de programaçêo.
 
-Desde a geração da ideia até a criação e publicação do vídeo, eu explico exatamente como o fluxo funciona, como configurei os prompts e como você pode replicar o sistema por conta própria. Todas as ferramentas, prompts e recursos são gratuitos — basta assistir ao vídeo para ter acesso a tudo o que precisa.
+Desde a geraçêo da ideia até a criaçêo e publicaçêo do vídeo, eu explico exatamente como o fluxo funciona, como configurei os prompts e como você pode replicar o sistema por conta própria. Todas as ferramentas, prompts e recursos sêo gratuitos — basta assistir ao vídeo para ter acesso a tudo o que precisa.
 
 ------------------------------
 

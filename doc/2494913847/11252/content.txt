@@ -13,7 +13,7 @@ MENSAGEM 1
 Autor: Automatizze
 Data: 2025-07-12T15:34:01+00:00
 Texto:
-Nesse primeiro momento mas vantagem  gerar manualmente, mas é uma evolução muito show para quem já tem algum tipo de monetização.  até pq a ideia não se limita apenas a esse estilo de video.
+Nesse primeiro momento mas vantagem  gerar manualmente, mas é uma evoluçêo muito show para quem já tem algum tipo de monetizaçêo.  até pq a ideia nêo se limita apenas a esse estilo de video.
 
 ------------------------------
 
@@ -62,7 +62,7 @@ Texto:
 * **Use “Pin Data” (Fixar dados)** nos nós do OpenAI e VEO3 FAST durante os testes.
 
   * Isso evita chamadas reais às APIs e economiza créditos.
-  * Clique com o botão direito no nó → *Pin Data*.
+  * Clique com o botêo direito no nó → *Pin Data*.
 
 ---
 
@@ -71,7 +71,7 @@ Texto:
 * Em vez de processar **1 linha por vez** no Google Sheets, processe **várias linhas em paralelo**:
 
   * Altere o filtro no nó Google Sheets para buscar **todas as linhas “pending”**.
-  * Use o nó **Split In Batches** para dividir em blocos menores (ex.: 3 vídeos por execução).
+  * Use o nó **Split In Batches** para dividir em blocos menores (ex.: 3 vídeos por execuçêo).
   * Configure o fluxo para rodar cada lote de forma paralela com o nó **Execute Workflow**.
 
 ---
@@ -81,7 +81,7 @@ Texto:
 * O modelo **VEO3 FAST** é 60% mais barato e rápido, mas:
 
   * Reduza o **tempo no Wait Node** para **90 segundos** se os vídeos forem curtos (até 5s).
-  * Use **parâmetro “enhance\_prompt” como false** para geração mais leve em testes.
+  * Use **parâmetro “enhance\_prompt” como false** para geraçêo mais leve em testes.
 
 ---
 
@@ -95,7 +95,7 @@ Texto:
 
 ---
 
-### 5️⃣ A**utomação sem intervenção
+### 5️⃣ A**utomaçêo sem intervençêo
 **
 * Use W**ebhook Trigger **no lugar do Schedule para ativar o fluxo ao adicionar uma nova linha no Google Sheets automaticamente (via Make ou Zapier).
 
@@ -105,8 +105,8 @@ Texto:
 **
 * Adicione o nó E**rror Trigger **no fluxo:
 
-  * Envie uma notificação no Telegram ou e-mail se uma chamada API falhar.
-  * Assim você não perde nenhuma geração.
+  * Envie uma notificaçêo no Telegram ou e-mail se uma chamada API falhar.
+  * Assim você nêo perde nenhuma geraçêo.
 
 ---
 
@@ -120,7 +120,7 @@ Texto:
 
 ---
 
-### 8️⃣ C**riação de banco de vídeos
+### 8️⃣ C**riaçêo de banco de vídeos
 **
 * Salve o link do vídeo gerado automaticamente no Google Drive ou S3 via n8n.
 * Adicione tags ao vídeo (baseadas no conteúdo do prompt) para facilitar buscas futuras.
@@ -133,7 +133,7 @@ Texto:
 
 ---
 
-### 10️⃣ C**riação em escala
+### 10️⃣ C**riaçêo em escala
 **
 * Rode múltiplas instâncias do fluxo com diferentes intervalos no Schedule Trigger (ex.: a cada 10 minutos).
 * Assim você gera centenas de vídeos por dia sem sobrecarregar o sistema.
@@ -160,7 +160,7 @@ Gerar vídeos ASMR com IA totalmente no piloto automático e sem escrever códig
 
 ---
 
-## 1️⃣ Preparação
+## 1️⃣ Preparaçêo
 
 * **Crie uma planilha no Google Sheets** com as colunas:
 
@@ -187,7 +187,7 @@ Gerar vídeos ASMR com IA totalmente no piloto automático e sem escrever códig
 
 * Adicione o nó **Google Sheets**.
 * Conecte sua conta Google (OAuth2).
-* Configuração:
+* Configuraçêo:
 
   * **Operation:** Get Rows
   * **Document:** selecione sua planilha
@@ -202,7 +202,7 @@ Gerar vídeos ASMR com IA totalmente no piloto automático e sem escrever códig
 
 * Adicione o nó **OpenAI**.
 * Conecte sua conta OpenAI (API Key).
-* Configuração:
+* Configuraçêo:
 
   * **Resource:** Text
   * **Operation:** Chat Completion
@@ -223,7 +223,7 @@ Gerar vídeos ASMR com IA totalmente no piloto automático e sem escrever códig
 ### 4. HT**TP Request - VEO3 FAST API
 
 *** Adicione o nó HT**TP Request.
-*** Configuração:
+*** Configuraçêo:
 
   * Me**thod: P**OST
   * UR**L: A**PI do VEO3 FAST (pegue na plataforma FAI)
@@ -242,7 +242,7 @@ Gerar vídeos ASMR com IA totalmente no piloto automático e sem escrever códig
       "generate_audio": true
     }
     
-*``` Esta chamada vai iniciar a geração do vídeo.
+*``` Esta chamada vai iniciar a geraçêo do vídeo.
 
 ---
 
@@ -256,7 +256,7 @@ Gerar vídeos ASMR com IA totalmente no piloto automático e sem escrever códig
 ### 6. HT**TP Request - Get Video URL
 
 *** Adicione outro HT**TP Request.
-*** Configuração:
+*** Configuraçêo:
 
   * Me**thod: G**ET
   * UR**L: r**esposta do nó anterior com o link do vídeo.
@@ -266,7 +266,7 @@ Gerar vídeos ASMR com IA totalmente no piloto automático e sem escrever códig
 ### 7. Go**ogle Sheets - Update Row
 
 *** Adicione outro Go**ogle Sheets.
-*** Configuração:
+*** Configuraçêo:
 
   * Op**eration: U**pdate Row
   * Ro**w Number: c**ampo do Get Rows
@@ -309,10 +309,10 @@ O vídeo apresenta um tutorial completo sobre como criar **vídeos ASMR com IA**
 
 1. **Tendência dos vídeos ASMR com IA**
 
-   * Esses vídeos estão viralizando e acumulam milhares de visualizações.
+   * Esses vídeos estêo viralizando e acumulam milhares de visualizações.
    * O nicho permite muitas ideias criativas.
 
-2. **Demonstração inicial**
+2. **Demonstraçêo inicial**
 
    * O criador mostra 3 vídeos ASMR gerados automaticamente como resultado do sistema.
 
@@ -327,25 +327,25 @@ O vídeo apresenta um tutorial completo sobre como criar **vídeos ASMR com IA**
    * **Google Sheets**: Contém as configurações (substâncias, líquidos, reações, estilos de arte, status e link do vídeo).
    * **OpenAI**: Gera os prompts para o vídeo com base nos dados do Google Sheets.
    * **HTTP Request (FAI)**: Envia o prompt para o modelo VEO3 FAST na plataforma FAI.
-   * **Wait Node**: Aguarda o processamento (2 minutos padrão).
+   * **Wait Node**: Aguarda o processamento (2 minutos padrêo).
    * **HTTP Request (Get)**: Recupera o link do vídeo gerado.
    * **Google Sheets (Update)**: Atualiza a linha com o link do vídeo e muda o status de “pending” para “complete”.
 
 5. **Uso do modelo VEO3 FAST**
 
    * 60% mais barato que o VEO3 original.
-   * Geração de vídeos com áudio incluso e alta qualidade.
+   * Geraçêo de vídeos com áudio incluso e alta qualidade.
 
 6. **Recursos adicionais**
 
    * Templates prontos para download.
    * Comunidade para suporte técnico e ajuda 1:1.
-   * Curso de 6 meses para abrir uma agência de automação com IA.
+   * Curso de 6 meses para abrir uma agência de automaçêo com IA.
 
 7. **Dicas técnicas**
 
    * Fixar dados (pin) no n8n para evitar custos de testes.
-   * Configurações detalhadas para autenticação nas APIs (OpenAI e FAI).
+   * Configurações detalhadas para autenticaçêo nas APIs (OpenAI e FAI).
 
 8. **Encerramento**
 

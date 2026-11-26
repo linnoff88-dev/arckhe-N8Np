@@ -17,7 +17,7 @@ Aula 3
 
 ### Resumo do Vídeo: Curso n8n - Integrações Avançadas com Google Workspace, Hugging Face e Apify  
   
-#### Introdução  
+#### Introduçêo  
 Neste vídeo, o foco está em:  
 1. Conectar serviços do Google ao n8n, como Drive, Docs, Sheets, Slides e Gmail.    
 2. Utilizar a API do Hugging Face para gerar músicas personalizadas.    
@@ -25,7 +25,7 @@ Neste vídeo, o foco está em:
   
 ---  
   
-### 1. Conexão do Google com o n8n  
+### 1. Conexêo do Google com o n8n  
 Passos principais:  
 1. Acesse o Google Console Cloud:  
    - Crie um projeto (ex.: "n8n-youtube").  
@@ -38,17 +38,17 @@ Passos principais:
    - Adicione a URL do n8n como URI autorizado.  
 4. Integre com o n8n:  
    - Insira as credenciais no n8n para autenticar o serviço.  
-   - Realize um teste criando uma apresentação no Google Slides.  
+   - Realize um teste criando uma apresentaçêo no Google Slides.  
   
 Limitações:  
 - O n8n permite apenas uma conta por serviço (ex.: uma conta do Gmail por credencial).  
   
 ---  
   
-### 2. Geração de Música com Hugging Face  
+### 2. Geraçêo de Música com Hugging Face  
 Passos principais:  
 1. Registre-se no Hugging Face:  
-   - Crie um Access Token para autenticação.  
+   - Crie um Access Token para autenticaçêo.  
 2. Selecione o modelo MusicGenSmall:  
    - Use a API de inferência para gerar música instrumental.  
 3. Configure o n8n:  
@@ -60,12 +60,12 @@ Passos principais:
    - Body (JSON):  
      - Inclua um prompt descrevendo o estilo da música.  
 4. Resultados:  
-   - A música gerada é instrumental, sem vocais, com duração de até 30 segundos.  
+   - A música gerada é instrumental, sem vocais, com duraçêo de até 30 segundos.  
    - Pode ser reproduzida ou baixada diretamente.  
   
 ---  
   
-### 3. Extração de Comentários do YouTube com Apify  
+### 3. Extraçêo de Comentários do YouTube com Apify  
 Passos principais:  
 1. Registre-se no Apify e acesse o Store:  
    - Selecione o ator YouTube Comments Scraper.  
@@ -77,17 +77,17 @@ Passos principais:
    - Body (JSON):  
      - Inclua os parâmetros configurados no ator (ex.: URL e limite de comentários).  
 4. Processamento dos dados:  
-   - Extraia informações como autor, comentário, likes, data de publicação.  
+   - Extraia informações como autor, comentário, likes, data de publicaçêo.  
    - Envie os dados para uma planilha no Google Sheets:  
      - Configure o nodo Google Sheets.  
      - Use os dados extraídos para preencher colunas como autor, comentário, likes e título do vídeo.  
   
 Exemplo prático:  
-- Extração de três comentários de um vídeo do MrBeast e salvá-los em uma planilha do Google Sheets.  
+- Extraçêo de três comentários de um vídeo do MrBeast e salvá-los em uma planilha do Google Sheets.  
   
 ---  
   
-### Conclusão e Próximos Passos  
+### Conclusêo e Próximos Passos  
 Neste vídeo, você aprendeu:  
 - A conectar serviços do Google ao n8n.  
 - A criar música personalizada com Hugging Face.  

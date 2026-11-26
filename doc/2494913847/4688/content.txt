@@ -602,7 +602,7 @@ MENSAGEM 20
 Autor: B🍅
 Data: 2025-04-04T19:06:51+00:00
 Texto:
-Teria como trocar o JSON de geração de vídeos para outras ias?
+Teria como trocar o JSON de geraçêo de vídeos para outras ias?
 
 ------------------------------
 
@@ -653,11 +653,11 @@ Autor: INEMA
 Data: 2025-04-03T20:59:29+00:00
 Texto:
 **Resumo geral:**  
-Como automatizar a criação de vídeos longos no estilo "Top 10" para o YouTube, sem mostrar o rosto, utilizando:
+Como automatizar a criaçêo de vídeos longos no estilo "Top 10" para o YouTube, sem mostrar o rosto, utilizando:
 
-- **n8n**: para orquestrar toda a automação  
+- **n8n**: para orquestrar toda a automaçêo  
 - **Google Sheets**: como banco de dados com ideias e status dos vídeos  
-- **OpenRouter + GPT-4**: para geração de roteiros (intro, rankings, etc.)  
+- **OpenRouter + GPT-4**: para geraçêo de roteiros (intro, rankings, etc.)  
 - **JSON to Video**: gera imagens e monta o vídeo completo com voz  
 - **ElevenLabs**: faz as narrações realistas em voz  
 - **YouTube API**: publica automaticamente o vídeo  
@@ -666,28 +666,28 @@ Como automatizar a criação de vídeos longos no estilo "Top 10" para o YouTube
 
 **Etapas do fluxo de trabalho:**  
 
-1. **Geração de ideias (opcional)**
+1. **Geraçêo de ideias (opcional)**
    - Um agente cria 10 ideias e adiciona ao Google Sheets com status "to-do"
 
 2. **Leitura do Google Sheets**  
-   - O n8n busca ideias com status "to-do" para iniciar a criação
+   - O n8n busca ideias com status "to-do" para iniciar a criaçêo
 
-3. **Agente de Introdução e Conclusão**
-   - Gera o texto e imagem de introdução e de encerramento
+3. **Agente de Introduçêo e Conclusêo**
+   - Gera o texto e imagem de introduçêo e de encerramento
    - Usa mensagens específicas com formato de saída forçado (JSON)
 
 4. **Agente de Rankings**
    - Cria os 10 itens do vídeo (ex: top 10 cidades)
-   - Para cada item: texto para narração, imagem e título
+   - Para cada item: texto para narraçêo, imagem e título
    - Também com saída JSON estruturada
 
-5. **Criação do vídeo via JSON to Video**
-   - API recebe tudo: título, intro, rankings, imagens e narração
-   - Usa template específico e faz a renderização do vídeo completo
+5. **Criaçêo do vídeo via JSON to Video**
+   - API recebe tudo: título, intro, rankings, imagens e narraçêo
+   - Usa template específico e faz a renderizaçêo do vídeo completo
    - Conecta com ElevenLabs (via ID da voz) e gera tudo automaticamente
 
-6. **Espera e Verificação do Vídeo**
-   - Usa “polling” para verificar o status da renderização a cada 10s
+6. **Espera e Verificaçêo do Vídeo**
+   - Usa “polling” para verificar o status da renderizaçêo a cada 10s
    - Quando estiver “done”, continua para a próxima etapa
 
 7. **Atualiza Google Sheets**
@@ -695,11 +695,11 @@ Como automatizar a criação de vídeos longos no estilo "Top 10" para o YouTube
    - Insere o link do vídeo gerado
 
 8. **Download do Vídeo**
-   - Faz requisição GET para baixar o vídeo como binário
+   - Faz requisiçêo GET para baixar o vídeo como binário
 
 9. **Upload no YouTube**
    - Usa a API do YouTube para publicar
-   - Define título (Top 10: assunto), descrição e status “não listado”
+   - Define título (Top 10: assunto), descriçêo e status “nêo listado”
 
 10. **Atualiza Google Sheets novamente**
    - Marca como “postado” no status final
@@ -710,7 +710,7 @@ Como automatizar a criação de vídeos longos no estilo "Top 10" para o YouTube
 - **Assunto:** Top 10 cidades da Europa
 - Cada cidade tem:
   - Imagem gerada por IA
-  - Narração com voz realista
+  - Narraçêo com voz realista
   - Texto no rodapé com o nome
 - Outro exemplo: Top 10 personagens clássicos do cinema
   - Inclui Forrest Gump, Dorothy, Marty McFly etc.
@@ -718,8 +718,8 @@ Como automatizar a criação de vídeos longos no estilo "Top 10" para o YouTube
 ---
 
 **Recursos gratuitos e acesso:**
-- Workflow e planilha Google estão disponíveis gratuitamente
-- Basta entrar na comunidade gratuita (via link na descrição do vídeo) para baixar os templates
+- Workflow e planilha Google estêo disponíveis gratuitamente
+- Basta entrar na comunidade gratuita (via link na descriçêo do vídeo) para baixar os templates
 
 ---
 
@@ -735,7 +735,7 @@ Como automatizar a criação de vídeos longos no estilo "Top 10" para o YouTube
 - Criar vídeos verticais para TikTok/Reels
 - Top 5, Top 3, outros formatos
 - Automatizar com web search para vídeos mais aprofundados
-- Expansão para YouTube Shorts ou vídeos educacionais
+- Expansêo para YouTube Shorts ou vídeos educacionais
 
 ------------------------------
 
@@ -753,17 +753,17 @@ Data: 2025-04-03T20:57:43+00:00
 Texto:
 **Como automatizar 100% o conteúdo de formato longo com o n8n**
 
-Para uma discussão mais profunda sobre esse fluxo de trabalho e os agentes de IA, vamos conversar aqui.
+Para uma discussêo mais profunda sobre esse fluxo de trabalho e os agentes de IA, vamos conversar aqui.
 
-Um fluxo de trabalho completo no **n8n** que automatiza a criação de **vídeos longos e sem rosto para o YouTube**, perfeitos para crescer seu canal **enquanto você dorme**.
+Um fluxo de trabalho completo no **n8n** que automatiza a criaçêo de **vídeos longos e sem rosto para o YouTube**, perfeitos para crescer seu canal **enquanto você dorme**.
 
-Estamos gerando vídeos de **rankings no estilo Top 10** de forma totalmente autônoma, usando uma combinação poderosa de:
+Estamos gerando vídeos de **rankings no estilo Top 10** de forma totalmente autônoma, usando uma combinaçêo poderosa de:
 
-- 🧠 **n8n** para automação  
-- 🎥 **JSON2Video** para geração automática de visuais  
+- 🧠 **n8n** para automaçêo  
+- 🎥 **JSON2Video** para geraçêo automática de visuais  
 - 🗣️ **ElevenLabs** para narrações realistas com IA  
 
-No final, você terá um sistema que **pega um tópico, encontra conteúdo ranqueado e transforma tudo em um vídeo completo para o YouTube** – sem precisar usar as mãos.
+No final, você terá um sistema que **pega um tópico, encontra conteúdo ranqueado e transforma tudo em um vídeo completo para o YouTube** – sem precisar usar as mêos.
 
 ------------------------------
 

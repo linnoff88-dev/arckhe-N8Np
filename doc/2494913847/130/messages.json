@@ -19,7 +19,7 @@
     "id": 10804,
     "author": "Automatizze",
     "date": "2025-07-02T18:38:12+00:00",
-    "text": "**Resumo dos melhores \"hacks\"**\n🔥 **Melhor para iniciantes** → **Render**\n💰 **Melhor custo-benefício** → **Railway ($5 grátis)**\n⚡️ **Mais rápido** → **Docker local**\n🌍 **Melhor para projetos sérios** → **Hostinger VPS**\n🔒 **Maior controle e personalização** → **Digital Ocean**\n📦 **Mais fácil de implantar** → **Heroku (Deploy com 1 clique)**\n 🚀",
+    "text": "**Resumo dos melhores \"hacks\"**\n🔥 **Melhor para iniciantes** → **Render**\n💰 **Melhor custo-benefício** → **Railway ($5 grátis)**\n⚡️ **Mais rápido** → **Docker local**\n🌍 **Melhor para projetos sérios** → **Hostinger VPS**\n🔒 **Maior controle e personalizaçêo** → **Digital Ocean**\n📦 **Mais fácil de implantar** → **Heroku (Deploy com 1 clique)**\n 🚀",
     "has_media": false,
     "media_type": null
   },
@@ -155,7 +155,7 @@
     "id": 9654,
     "author": "Luís Felipe",
     "date": "2025-06-14T18:30:55+00:00",
-    "text": "Sou novo na comunidade, não tenho conhecimento nem um em automações e estou vendo vcs falando vps no N8N e tals não tô entendendo alguém pode me ajudar a entender isso? Desde já obrigado!",
+    "text": "Sou novo na comunidade, nêo tenho conhecimento nem um em automações e estou vendo vcs falando vps no N8N e tals nêo tô entendendo alguém pode me ajudar a entender isso? Desde já obrigado!",
     "has_media": false,
     "media_type": null
   },
@@ -227,7 +227,7 @@
     "id": 1711,
     "author": "INEMA",
     "date": "2025-02-20T08:43:54+00:00",
-    "text": "**Resumo dos melhores \"hacks\"**\n🔥 **Melhor para iniciantes** → **Render**💰 **Melhor custo-benefício** → **Railway ($5 grátis)**\n⚡ **Mais rápido** → **Docker local**🌍 **Melhor para projetos sérios** → **Hostinger VPS**\n🔒 **Maior controle e personalização** → **Digital Ocean**📦 **Mais fácil de implantar** → **Heroku (Deploy com 1 clique)**\n 🚀",
+    "text": "**Resumo dos melhores \"hacks\"**\n🔥 **Melhor para iniciantes** → **Render**💰 **Melhor custo-benefício** → **Railway ($5 grátis)**\n⚡ **Mais rápido** → **Docker local**🌍 **Melhor para projetos sérios** → **Hostinger VPS**\n🔒 **Maior controle e personalizaçêo** → **Digital Ocean**📦 **Mais fácil de implantar** → **Heroku (Deploy com 1 clique)**\n 🚀",
     "has_media": false,
     "media_type": null
   },
@@ -243,7 +243,7 @@
     "id": 1708,
     "author": "INEMA",
     "date": "2025-02-20T08:43:28+00:00",
-    "text": "**Conclusão**\n**Mais fácil**: Render (para quem quer rapidez).\n**Mais personalizável**: Railway e Digital Ocean.\n**Mais barato**: Hospedagem local com Docker.\n**Mais confiável**: VPS da Hostinger (se precisar de um servidor próprio).",
+    "text": "**Conclusêo**\n**Mais fácil**: Render (para quem quer rapidez).\n**Mais personalizável**: Railway e Digital Ocean.\n**Mais barato**: Hospedagem local com Docker.\n**Mais confiável**: VPS da Hostinger (se precisar de um servidor próprio).",
     "has_media": false,
     "media_type": null
   },
@@ -259,7 +259,7 @@
     "id": 1597,
     "author": "Wellington",
     "date": "2025-02-18T14:12:49+00:00",
-    "text": "Pessoal, estou com um cliente que desenvolvou um robo pra trade no metatrade, só que ele quer colocar uma validação para usar somente em um pc , para que não seja possivel outra pessoa que conseguiu o arquivo poder usá-lo. Tipo quem comprear precisa de uma senha gerada para que seja usada somente no pc dele. \nAlgúem tem essa informação?",
+    "text": "Pessoal, estou com um cliente que desenvolvou um robo pra trade no metatrade, só que ele quer colocar uma validaçêo para usar somente em um pc , para que nêo seja possivel outra pessoa que conseguiu o arquivo poder usá-lo. Tipo quem comprear precisa de uma senha gerada para que seja usada somente no pc dele. \nAlgúem tem essa informaçêo?",
     "has_media": false,
     "media_type": null
   },
@@ -267,7 +267,7 @@
     "id": 1226,
     "author": "Camila -",
     "date": "2025-02-05T15:47:07+00:00",
-    "text": "Pessoal, quando tento instalar o porteiner e o tarefik ao final do processo recebo essa mensagem no termius: Ops não foi possivel iniciar o swarm\n\nAlguém sabe o que pode ser?",
+    "text": "Pessoal, quando tento instalar o porteiner e o tarefik ao final do processo recebo essa mensagem no termius: Ops nêo foi possivel iniciar o swarm\n\nAlguém sabe o que pode ser?",
     "has_media": false,
     "media_type": null
   },

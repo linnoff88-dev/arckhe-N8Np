@@ -54,7 +54,7 @@ MENSAGEM 6
 Autor: INEMA
 Data: 2025-07-19T01:11:04+00:00
 Texto:
-nm58 - Automacao IFOOD - Simulação (e30)
+nm58 - Automacao IFOOD - Simulaçêo (e30)
 
 ------------------------------
 

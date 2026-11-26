@@ -10,7 +10,7 @@
         "color": 7,
         "width": 760,
         "height": 360,
-        "content": "## Template: ETL Rápido (HTTP \u2192 Transform \u2192 Entregar)\n\n- Objetivo: Ingerir dados de uma API, transformar e enviar em lote.\n- Teste rápido: execute manualmente no Editor.\n- Fonte demo: jsonplaceholder.typicode.com/posts.\n- Entrega demo: httpbin.org/post (eco).\n- Produção: substitua 'Upsert Endpoint' pelo seu DB/API (Sheets, Postgres, etc.)."
+        "content": "## Template: ETL Rápido (HTTP \u2192 Transform \u2192 Entregar)\n\n- Objetivo: Ingerir dados de uma API, transformar e enviar em lote.\n- Teste rápido: execute manualmente no Editor.\n- Fonte demo: jsonplaceholder.typicode.com/posts.\n- Entrega demo: httpbin.org/post (eco).\n- Produçêo: substitua 'Upsert Endpoint' pelo seu DB/API (Sheets, Postgres, etc.)."
       },
       "typeVersion": 1
     },

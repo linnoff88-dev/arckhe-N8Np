@@ -46,18 +46,18 @@ MENSAGEM 5
 Autor: INEMA
 Data: 2025-04-22T05:17:07+00:00
 Texto:
-Abaixo estão **as principais dicas e hacks** para quem quer usar ou vender o sistema de automação de busca de empregos com IA:
+Abaixo estêo **as principais dicas e hacks** para quem quer usar ou vender o sistema de automaçêo de busca de empregos com IA:
 
 ---
 
 ### **1. Use IA para resolver problemas reais e repetitivos**
-- A maior dor no processo de buscar emprego é a repetição: adaptar currículo, escrever cartas, procurar vagas, encontrar e-mails.
-- O hack é **automatizar tudo com IA** e usar essa solução para ajudar outras pessoas — ou vender como serviço.
+- A maior dor no processo de buscar emprego é a repetiçêo: adaptar currículo, escrever cartas, procurar vagas, encontrar e-mails.
+- O hack é **automatizar tudo com IA** e usar essa soluçêo para ajudar outras pessoas — ou vender como serviço.
 
 ---
 
 ### **2. Foque em um sistema que funcione 100% no piloto automático**
-- Depois da configuração inicial, o sistema trabalha sozinho:
+- Depois da configuraçêo inicial, o sistema trabalha sozinho:
   - Busca novas vagas diariamente
   - Atualiza planilhas
   - Gera conteúdos personalizados
@@ -83,7 +83,7 @@ Abaixo estão **as principais dicas e hacks** para quem quer usar ou vender o si
 
 ### **5. Currículo e carta adaptados automaticamente para cada vaga**
 - Isso aumenta MUITO a chance de ser chamado para entrevista.
-- Currículos e cartas são **gerados sob medida** para cada vaga usando IA.
+- Currículos e cartas sêo **gerados sob medida** para cada vaga usando IA.
 
 ---
 
@@ -97,7 +97,7 @@ Abaixo estão **as principais dicas e hacks** para quem quer usar ou vender o si
 
 ### **7. Salve tudo no Google Sheets (fácil de monitorar e escalar)**
 - As planilhas servem como banco de dados visual.
-- Permite controle, rastreamento e exportação para relatórios.
+- Permite controle, rastreamento e exportaçêo para relatórios.
 
 ---
 
@@ -108,18 +108,18 @@ Abaixo estão **as principais dicas e hacks** para quem quer usar ou vender o si
 ---
 
 ### **9. Transforme o sistema em um serviço para vender**
-- **Venda para profissionais em transição de carreira.**
+- **Venda para profissionais em transiçêo de carreira.**
 - Pode cobrar:
   - R$ 97 para acesso ao sistema
-  - R$ 497/mês com automação + suporte
-  - R$ 997/mês como consultoria de recolocação com IA
+  - R$ 497/mês com automaçêo + suporte
+  - R$ 997/mês como consultoria de recolocaçêo com IA
 
 ---
 
 ### **10. Ofereça como infoproduto ou SaaS simplificado**
 - Você pode:
   - Vender o sistema pronto com tutoriais
-  - Criar uma versão SaaS (ex: com Lovable ou Make.com)
+  - Criar uma versêo SaaS (ex: com Lovable ou Make.com)
   - Fazer parcerias com agências de RH
 
 ---
@@ -143,13 +143,13 @@ Aqui está o **passo a passo completo** para criar o **Sistema de
 
 ### **Etapa 1 – Entrada do Usuário (Disparo do Agente)**
 
-**Objetivo:** Capturar os dados iniciais do usuário: cargo desejado, localização, LinkedIn/GitHub.
+**Objetivo:** Capturar os dados iniciais do usuário: cargo desejado, localizaçêo, LinkedIn/GitHub.
 
 **Ações:**
 1. Criar um **gatilho (Trigger)** no n8n (ex: via Chat, Telegram, formulário etc.).
 2. Solicitar:
    - Cargo desejado
-   - Localização
+   - Localizaçêo
    - LinkedIn ou GitHub
 
 ---
@@ -199,12 +199,12 @@ Aqui está o **passo a passo completo** para criar o **Sistema de
 1. Usar **Apify – LinkedIn Job Scraper**
 2. Filtrar por:
    - Cargo (ex: AI Automation Specialist)
-   - Localização (ex: US)
+   - Localizaçêo (ex: US)
 3. Salvar os resultados em uma **planilha no Google Sheets**
 
 ---
 
-### **Etapa 5 – Gerar Carta de Apresentação com IA**
+### **Etapa 5 – Gerar Carta de Apresentaçêo com IA**
 
 **Objetivo:** Criar carta personalizada para cada vaga.
 
@@ -212,7 +212,7 @@ Aqui está o **passo a passo completo** para criar o **Sistema de
 - **OpenAI / OpenRouter (GPT-4.1)**
 
 **Prompt do Agente:**
-```Você é um escritor especialista. Com base no cargo e na descrição da vaga abaixo, crie uma carta de apresentação em estilo e-mail que seja concisa, persuasiva e adequada.```
+```Você é um escritor especialista. Com base no cargo e na descriçêo da vaga abaixo, crie uma carta de apresentaçêo em estilo e-mail que seja concisa, persuasiva e adequada.```
 
 ---
 
@@ -242,7 +242,7 @@ Aqui está o **passo a passo completo** para criar o **Sistema de
 1. Converter o currículo em PDF via API externa (ex: AnyNoCode).
 2. Criar o e-mail:
    - Assunto: gerado pelo agente
-   - Corpo: carta de apresentação
+   - Corpo: carta de apresentaçêo
    - Anexo: currículo em PDF
 3. Criar como **rascunho** (modo seguro).
 
@@ -250,7 +250,7 @@ Aqui está o **passo a passo completo** para criar o **Sistema de
 
 ### **Etapa 8 – Atualizar Status em Google Sheets**
 
-**Objetivo:** Marcar progresso da automação.
+**Objetivo:** Marcar progresso da automaçêo.
 
 **Ações:**
 1. Adicionar colunas:
@@ -262,9 +262,9 @@ Aqui está o **passo a passo completo** para criar o **Sistema de
 
 ---
 
-### **Etapa 9 – Automatização Recorrente**
+### **Etapa 9 – Automatizaçêo Recorrente**
 
-**Objetivo:** Rodar a automação com frequência (ex: a cada 1 minuto).
+**Objetivo:** Rodar a automaçêo com frequência (ex: a cada 1 minuto).
 
 **Ações:**
 1. Adicionar nó **Schedule Trigger** no n8n.
@@ -291,10 +291,10 @@ MENSAGEM 9
 Autor: INEMA
 Data: 2025-04-22T05:13:10+00:00
 Texto:
-Mais de 100 empregos por dia – Sistema completo de automação de IA para busca de empregos
+Mais de 100 empregos por dia – Sistema completo de automaçêo de IA para busca de empregos
 
 **Resumo Geral:**  
-Um sistema completo de automação no n8n que busca empregos, gera currículos e cartas de apresentação personalizados, e envia e-mails automaticamente para recrutadores – tudo sem precisar escrever uma única linha de código.
+Um sistema completo de automaçêo no n8n que busca empregos, gera currículos e cartas de apresentaçêo personalizados, e envia e-mails automaticamente para recrutadores – tudo sem precisar escrever uma única linha de código.
 
 ---
 
@@ -303,20 +303,20 @@ Um sistema completo de automação no n8n que busca empregos, gera currículos e
 1. **Entrada do Usuário:**  
    O usuário envia uma mensagem com:  
    - Cargo desejado (ex: AI Automation Specialist)  
-   - Localização (ex: EUA)  
+   - Localizaçêo (ex: EUA)  
    - Perfil LinkedIn ou GitHub
 
 2. **Análise do Perfil:**  
    O agente de IA coleta e analisa informações públicas do GitHub ou LinkedIn e gera um currículo em JSON formatado.
 
 3. **Busca de Vagas:**  
-   Um crawler busca vagas em tempo real no LinkedIn com base no cargo e localização. Armazena as vagas no Google Sheets.
+   Um crawler busca vagas em tempo real no LinkedIn com base no cargo e localizaçêo. Armazena as vagas no Google Sheets.
 
-4. **Geração de Materiais Personalizados:**  
+4. **Geraçêo de Materiais Personalizados:**  
    Para cada vaga, o sistema:
    - Compara os requisitos com o perfil do usuário
    - Gera um currículo adaptado
-   - Cria uma carta de apresentação personalizada
+   - Cria uma carta de apresentaçêo personalizada
 
 5. **Busca de Contatos (E-mails):**  
    Se possível, coleta e-mails diretamente da vaga ou via:
@@ -326,7 +326,7 @@ Um sistema completo de automação no n8n que busca empregos, gera currículos e
 6. **Envio Automatizado:**  
    Gera e-mails com os anexos (currículo + carta) prontos para envio ou como rascunhos no Gmail.
 
-7. **Rastreamento e Atualização:**  
+7. **Rastreamento e Atualizaçêo:**  
    Tudo é salvo e atualizado em tempo real em planilhas do Google Sheets com colunas como:
    - ID da vaga
    - E-mail encontrado
@@ -338,12 +338,12 @@ Um sistema completo de automação no n8n que busca empregos, gera currículos e
 **Ferramentas e APIs Usadas:**
 
 - **n8n** (plataforma principal)
-- **OpenRouter / GPT-4.1** (modelo para criação de currículos/carta)
+- **OpenRouter / GPT-4.1** (modelo para criaçêo de currículos/carta)
 - **Apify** (raspagem de perfis e vagas do LinkedIn)
 - **Perplexity API** (busca de e-mails via IA)
 - **Apollo API** (busca de contatos em empresas)
 - **Google Sheets + Google Drive**
-- **Gmail API** (criação de rascunhos)
+- **Gmail API** (criaçêo de rascunhos)
 
 ---
 
@@ -357,9 +357,9 @@ Texto:
 
 O sistema automatiza completamente:
 - A busca de vagas
-- A personalização dos materiais
+- A personalizaçêo dos materiais
 - A coleta de e-mails relevantes
-- A geração e envio de e-mails
+- A geraçêo e envio de e-mails
 
 Permitindo aplicar para mais de 100 vagas por dia com **zero esforço manual**.
 

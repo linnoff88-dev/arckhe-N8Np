@@ -21,7 +21,7 @@ MENSAGEM 2
 Autor: Mauricio
 Data: 2025-08-27T09:33:13+00:00
 Texto:
-Bom dia,inicialmente, atendimento de mil leads mensais, mais serão mais do que isso, IA vai fazer todo atendimento e follow-up.
+Bom dia,inicialmente, atendimento de mil leads mensais, mais serêo mais do que isso, IA vai fazer todo atendimento e follow-up.
 
 ------------------------------
 
@@ -39,7 +39,7 @@ Data: 2025-07-07T22:54:36+00:00
 Texto:
 Sua voz, vc colocou onde e quanto mensal ?  
 
-Para conexão com whatsapp, vc está usando evolution api ?
+Para conexêo com whatsapp, vc está usando evolution api ?
 
 ------------------------------
 
@@ -47,7 +47,7 @@ MENSAGEM 5
 Autor: Anderson Muniz
 Data: 2025-07-07T22:53:28+00:00
 Texto:
-Muito saber disso claro que ainda seu agente ainda não está com algo consumo mas já dar uma idéia. Então 10usd de token foi disponibilizado 1.048.576 tokens. Isso?
+Muito saber disso claro que ainda seu agente ainda nêo está com algo consumo mas já dar uma idéia. Entêo 10usd de token foi disponibilizado 1.048.576 tokens. Isso?
 
 ------------------------------
 
@@ -71,7 +71,7 @@ MENSAGEM 8
 Autor: Mauricio
 Data: 2025-07-07T22:31:39+00:00
 Texto:
-Coloquei 10 dólares antes de conseguir implementar ele, e até agora não fiz recarga, a última vez q vi,  não tinha gasto nem 20 centavos de dólar
+Coloquei 10 dólares antes de conseguir implementar ele, e até agora nêo fiz recarga, a última vez q vi,  nêo tinha gasto nem 20 centavos de dólar
 
 ------------------------------
 
@@ -103,19 +103,19 @@ MENSAGEM 12
 Autor: Mauricio
 Data: 2025-06-06T20:24:19+00:00
 Texto:
-Boa tarde! Quero aqui deixar meu agradecimento ao Nei. Estava batendo cabeça há muito tempo, tentando resolver uma dor minha na parte de atendimento comercial. Por destino, acabei entrando nessa conversa, vi esse workflow e encontrei exatamente tudo que eu precisava — só não sabia como fazer e nem por onde começar, pois não tenho conhecimento em programação.
+Boa tarde! Quero aqui deixar meu agradecimento ao Nei. Estava batendo cabeça há muito tempo, tentando resolver uma dor minha na parte de atendimento comercial. Por destino, acabei entrando nessa conversa, vi esse workflow e encontrei exatamente tudo que eu precisava — só nêo sabia como fazer e nem por onde começar, pois nêo tenho conhecimento em programaçêo.
 
-Mas, com muita vontade de aprender e crescer, peguei esses JSON, montei do zero minha VPS N8N, instalei tudo o que precisava e, hoje, dia 06/06/2025, consegui colocar todo esse fluxo para rodar na minha agência de marketing, que até então era um exército de um homem só. Agora, com um time comercial pronto, removi Facebook, Instagram e formulário conforme comentei na minha pergunta anterior.
+Mas, com muita vontade de aprender e crescer, peguei esses JSON, montei do zero minha VPS N8N, instalei tudo o que precisava e, hoje, dia 06/06/2025, consegui colocar todo esse fluxo para rodar na minha agência de marketing, que até entêo era um exército de um homem só. Agora, com um time comercial pronto, removi Facebook, Instagram e formulário conforme comentei na minha pergunta anterior.
 
-Deixo aqui uma dica para quem quer fazer e não sabe como eu: use o Google AI Studio para te auxiliar. Eu utilizei GPT, mas não foi tão atual e preciso quanto esse suporte aqui. Sem falar que o uso de tokens aqui foi excelente — usei 303.488 de um total de 1.048.576.
+Deixo aqui uma dica para quem quer fazer e nêo sabe como eu: use o Google AI Studio para te auxiliar. Eu utilizei GPT, mas nêo foi têo atual e preciso quanto esse suporte aqui. Sem falar que o uso de tokens aqui foi excelente — usei 303.488 de um total de 1.048.576.
 
-Foram dois dias muito intensos, graças ao meu TDAH, que normalmente me faz perder o foco, mas nesses dois dias entrei em hiperfoco. Quase não dormi; acordava pensando nisso e dormia pensando nisso. Hoje finalizei com perfeição, seguindo passo a passo tudo que o Google AI Studio indicava, tirando prints e enviando para ele durante o processo.
+Foram dois dias muito intensos, graças ao meu TDAH, que normalmente me faz perder o foco, mas nesses dois dias entrei em hiperfoco. Quase nêo dormi; acordava pensando nisso e dormia pensando nisso. Hoje finalizei com perfeiçêo, seguindo passo a passo tudo que o Google AI Studio indicava, tirando prints e enviando para ele durante o processo.
 
 Esse relato é também um agradecimento e um incentivo para quem, assim como eu, está buscando soluções para seus próprios negócios ou para os negócios dos seus clientes.
 
-Agora é partir para a implantação e criação de muitas soluções para resolver os problemas da minha agência e dos meus clientes.
+Agora é partir para a implantaçêo e criaçêo de muitas soluções para resolver os problemas da minha agência e dos meus clientes.
 
-Deixo aqui minha profunda gratidão ao Nei e ao time do INEMA como um todo.
+Deixo aqui minha profunda gratidêo ao Nei e ao time do INEMA como um todo.
 
 @INEMAtds
 
@@ -125,7 +125,7 @@ MENSAGEM 13
 Autor: Mauricio
 Data: 2025-06-04T21:02:21+00:00
 Texto:
-Boa Noite, e se eu não quiser usar todas as entradas, Instagram, Face, Formulario etc... o que eu faço ?
+Boa Noite, e se eu nêo quiser usar todas as entradas, Instagram, Face, Formulario etc... o que eu faço ?
 
 ------------------------------
 
@@ -156,7 +156,7 @@ Construir um agente de vendas que responde automaticamente em três canais: What
 
 
 
-1. **🧪 Demonstração inicial**
+1. **🧪 Demonstraçêo inicial**
    Mostra-se como o agente funciona preenchendo um formulário estilo oficina mecânica.
    O formulário coleta: nome, e-mail, marca, modelo, ano, serviço, placa e número de WhatsApp.
    Ao enviar:
@@ -168,15 +168,15 @@ Construir um agente de vendas que responde automaticamente em três canais: What
 2. **🟢 WhatsApp como canal de entrada**
 
 * Um webhook detecta mensagens recebidas
-* Filtra mensagens do tipo `message.received` e que **não** foram enviadas pelo próprio agente (`fromMe = false`)
+* Filtra mensagens do tipo `message.received` e que **nêo** foram enviadas pelo próprio agente (`fromMe = false`)
 * Limpa o número de telefone para encontrar correspondência no banco de dados
 * Um *switch* decide se a entrada é texto ou áudio
 * Se for texto, constrói um *prompt* com os dados e envia ao agente de vendas (GPT 4.1)
-* O agente responde, agenda reunião (se necessário) e atualiza o CRM
+* O agente responde, agenda reuniêo (se necessário) e atualiza o CRM
 
 3. **🟣 Instagram como canal de entrada**
 
-* Processo igual ao anterior, usando integração HTTP com a API do Instagram
+* Processo igual ao anterior, usando integraçêo HTTP com a API do Instagram
 * Configurado pelo Meta Developers com webhook e token
 * Ao receber uma mensagem, constrói-se o mesmo *prompt* e envia ao agente
 * A resposta é enviada via endpoint de mensagens do Instagram
@@ -184,7 +184,7 @@ Construir um agente de vendas que responde automaticamente em três canais: What
 4. **🔵 Facebook Messenger**
 
 * Mesmo processo do Instagram
-* Configuração via Meta Developers
+* Configuraçêo via Meta Developers
 * Recebe o webhook, filtra eventos e responde com mensagem gerada pelo agente
 
 🤖 **AGENTES CONECTADOS**
@@ -201,25 +201,25 @@ Construir um agente de vendas que responde automaticamente em três canais: What
 * **Agente de CRM**
 
   * Busca o contato pelo número de WhatsApp
-  * Se não existir, cria novo contato
+  * Se nêo existir, cria novo contato
   * Se existir, atualiza os dados
   * Cria nova oportunidade para cada serviço solicitado
-  * Estados possíveis: Qualificado, Reunião Agendada, Proposta Enviada, Negociação, etc.
+  * Estados possíveis: Qualificado, Reuniêo Agendada, Proposta Enviada, Negociaçêo, etc.
 
 * **Agente de Calendário**
 
   * Cria, atualiza ou cancela eventos
-  * Agenda a reunião no calendário
+  * Agenda a reuniêo no calendário
   * Usa variáveis como “data estimada +7 dias”
 
 💾 **BASE DE DADOS**
 
 * PostgreSQL armazena contatos, oportunidades e histórico completo das conversas
-* Pode ser substituído por AirTable ou Google Sheets caso não haja servidor próprio
+* Pode ser substituído por AirTable ou Google Sheets caso nêo haja servidor próprio
 
 📈 **MELHORIAS OPCIONAIS**
 
-* Adicionar base vetorial (com Supabase + Embeddings da OpenAI) com a documentação da empresa para respostas mais contextualizadas
+* Adicionar base vetorial (com Supabase + Embeddings da OpenAI) com a documentaçêo da empresa para respostas mais contextualizadas
 * Inserir *delays* entre as respostas para deixar a conversa mais natural
 * Separar claramente os fluxos de saída por canal (usando Switch para WhatsApp, Instagram e Facebook)
 
@@ -259,7 +259,7 @@ Texto:
 Já pensou em responder automaticamente seus leads do WhatsApp, Instagram e Facebook…
 Usando apenas um sistema, sem pagar nada por ferramentas como ManyChat?
 
-💣 Então pare de imaginar: essa automação já está disponível na comunidade!
+💣 Entêo pare de imaginar: essa automaçêo já está disponível na comunidade!
 
 Com esse fluxo, você consegue:
 ✅ Detectar mensagens nos 3 canais (WA, IG e FB)
@@ -271,7 +271,7 @@ Com esse fluxo, você consegue:
 📦 Compatível com PostgreSQL, Airtable ou Google Sheets
 💬 E se quiser ir além: adicione uma base vetorial com todo o seu conhecimento de negócio 🤯
 
-Chega de pagar mensalidades por ferramentas de automação de mensagens.
+Chega de pagar mensalidades por ferramentas de automaçêo de mensagens.
 Com **N8N**, **Evolution API** e esse fluxo, você tem tudo o que precisa para transformar seus atendimentos em vendas.
 
 ------------------------------

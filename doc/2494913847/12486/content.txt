@@ -50,7 +50,7 @@ Gere um relatório semanal estruturado.
 # 10) Google Docs
 
 * Create: título “Relatório de Campanha – {{ \$json.periodLabel }}”
-* Append: insira o texto gerado pela IA. Se quiser formatação, use Append com segmentação em parágrafos e headings.
+* Append: insira o texto gerado pela IA. Se quiser formataçêo, use Append com segmentaçêo em parágrafos e headings.
 
 # 11) Envio por e-mail
 
@@ -65,9 +65,9 @@ Gmail node
 
 * Error Trigger global → envia alerta no Slack/Telegram com stack do erro.
 * IF para checar se Facebook retornou empty; se sim, siga apenas com Sheets e sinalize no relatório.
-* Rate limit: em contas grandes, use paginação e agregue resultados.
+* Rate limit: em contas grandes, use paginaçêo e agregue resultados.
 * Logs: salve JSON consolidado no Drive/S3 para auditoria.
-* Validação: se algum KPI for infinito/NaN, converta para 0 antes de mandar à IA.
+* Validaçêo: se algum KPI for infinito/NaN, converta para 0 antes de mandar à IA.
 
 # 13) Teste rápido
 
@@ -87,7 +87,7 @@ Gmail node
 
 * Dois relatórios com um fluxo: adicione dois nós OpenAI com prompts distintos (executivo e tático) e junte em um único Doc.
 * Benchmarks: guarde metas por campanha no Sheets e injete no prompt para comparações automáticas.
-* Priorização de ações: peça à IA para devolver uma tabela breve Ação | Impacto | Esforço | Prioridade.
+* Priorizaçêo de ações: peça à IA para devolver uma tabela breve Açêo | Impacto | Esforço | Prioridade.
 * A/B guidance: inclua no prompt uma checagem de criativos com CTR abaixo do p25 e CPC acima do p75.
 * Auto-reparo: se faltar campaign\_id no Sheets, mapeie por campaign\_name com uma tabela de equivalências.
 
@@ -95,7 +95,7 @@ Gmail node
 
 Entradas necessárias
 Exemplo: Facebook token com ads\_read, ID da conta 123456, planilha com campaign\_id e datas, credenciais Google configuradas.
-Resposta: sim, sem isso o fluxo não acessa os dados.
+Resposta: sim, sem isso o fluxo nêo acessa os dados.
 
 Como calcular CPC, CPL, CPR, CTR
 Exemplo: spend=1000, clicks=500, leads=50, purchases=20, impressions=50.000
@@ -103,13 +103,13 @@ Resposta: CPC=2,00; CPL=20,00; CPR=50,00; CTR=1,0%
 
 Como detectar anomalias simples
 Exemplo: CTR da campanha X caiu 60% vs média das 4 semanas.
-Resposta: marque como outlier e recomende revisar criativos/segmentação.
+Resposta: marque como outlier e recomende revisar criativos/segmentaçêo.
 
 Prompt mínimo para IA
 Exemplo no item 9.
 Resposta: mantenha temperatura baixa e forneça metas do negócio.
 
-E se não uso Facebook?
+E se nêo uso Facebook?
 Exemplo: Google Ads, TikTok Ads.
 Resposta: replique o nó HTTP com as APIs respectivas e normalize métricas para o mesmo esquema.
 
@@ -149,8 +149,8 @@ Fórmulas
 * CPL = spend / leads
 * CPR = spend / purchases
 * CTR% = (clicks / impressions) \* 100
-* Conversão funil 1→2 = leads\_stage\_2 / leads\_stage\_1
-* Conversão final = leads\_final / leads\_stage\_1
+* Conversêo funil 1→2 = leads\_stage\_2 / leads\_stage\_1
+* Conversêo final = leads\_final / leads\_stage\_1
 
 Exemplo de código (Function: KPIs)
 
@@ -265,7 +265,7 @@ Tarefas:
 1) Calcule e confira KPIs: CPC, CPL, CPR, CTR, conversões de funil (1→2 e final), variações semanais/mensais quando disponíveis.
 2) Destaque top 3 campanhas e bottom 3 por ROAS aproximado ou custo por compra, justificando com números.
 3) Detecte anomalias (picos/quedas atípicas) e possíveis causas.
-4) Recomende ações objetivas e priorizadas (ex.: aumentar budget em X%, pausar criativo Y, testar segmentação Z).
+4) Recomende ações objetivas e priorizadas (ex.: aumentar budget em X%, pausar criativo Y, testar segmentaçêo Z).
 5) Gere um sumário ex
 
 ------------------------------
@@ -276,23 +276,23 @@ Data: 2025-08-10T18:43:27+00:00
 Texto:
 Aqui vai um passo a passo direto para implementar o Data Integration and Transformation Hub no n8n, com exemplos práticos, fórmulas e prompt prontos.
 
-# Visão geral do fluxo
+# Visêo geral do fluxo
 
 1. Disparador de agenda
 2. Coleta de dados do Facebook Ads
 3. Coleta de dados do Google Sheets (pipeline de leads)
-4. Normalização e mesclagem por campanha e data
+4. Normalizaçêo e mesclagem por campanha e data
 5. Cálculo de KPIs
-6. Análise com IA e geração do relatório
-7. Criação do Google Doc
+6. Análise com IA e geraçêo do relatório
+7. Criaçêo do Google Doc
 8. Envio por e-mail e logs
 9. Erros, testes e variações
 
 # 1) Pré-requisitos e conexões
 
 * Facebook Ads: um token com acesso à conta de anúncios e permissões ads\_read.
-* Google Sheets/Docs/Gmail: credenciais OAuth no n8n com escopos para leitura de planilhas, criação/edição de Docs e envio por Gmail.
-* n8n: versão recente; credenciais configuradas para Facebook (HTTP) e Google (nós nativos).
+* Google Sheets/Docs/Gmail: credenciais OAuth no n8n com escopos para leitura de planilhas, criaçêo/ediçêo de Docs e envio por Gmail.
+* n8n: versêo recente; credenciais configuradas para Facebook (HTTP) e Google (nós nativos).
 * Identificador comum: garanta que campanha no Sheets tenha campaign\_id igual ao do Facebook Ads, ou mapeie nomes de campanha consistentemente.
 
 Exemplo de planilha Lead Campaign Pipeline (aba: Lead Campaign Pipeline)
@@ -347,7 +347,7 @@ Observações
 * actions é um array com objetos type/value. Ex.: type=lead, type=offsite\_conversion.purchase.
 * Para período mensal, use o primeiro ao último dia do mês anterior. Para semanal, a última semana.
 
-# 6) Normalização das ações do Facebook
+# 6) Normalizaçêo das ações do Facebook
 
 Use um Function node para transformar actions em colunas simples.
 
@@ -390,7 +390,7 @@ Use um Merge node:
 * Field 1: campaign\_id
 * Field 2: date
 
-Se o Sheets não tem date diário, faça o alinhamento por campanha e agregue por mês/semana antes de mesclar.
+Se o Sheets nêo tem date diário, faça o alinhamento por campanha e agregue por mês/semana antes de mesclar.
 
 # 8) KPIs e taxas de funil
 
@@ -412,17 +412,17 @@ Data: 2025-08-10T18:40:53+00:00
 Texto:
 Resumo
 
-O Data Integration and Transformation Hub é um fluxo de trabalho pronto para uso que integra várias fontes de dados do negócio (como campanhas no Facebook/Instagram Ads, planilhas no Google Sheets ou Airtable e CRM de leads), unifica essas informações e as envia para uma IA (modelo o3) para análise e geração de relatórios.
+O Data Integration and Transformation Hub é um fluxo de trabalho pronto para uso que integra várias fontes de dados do negócio (como campanhas no Facebook/Instagram Ads, planilhas no Google Sheets ou Airtable e CRM de leads), unifica essas informações e as envia para uma IA (modelo o3) para análise e geraçêo de relatórios.
 
 Ele permite criar relatórios semanais ou mensais com:
 
-* Principais métricas (CPC, CPL, CTR, conversão de funil, custo por compra)
+* Principais métricas (CPC, CPL, CTR, conversêo de funil, custo por compra)
 * Análises de desempenho das campanhas
-* Detecção de pontos fracos e sugestões de otimização (ex.: aumentar orçamento de retargeting, revisar campanhas com baixa performance)
+* Detecçêo de pontos fracos e sugestões de otimizaçêo (ex.: aumentar orçamento de retargeting, revisar campanhas com baixa performance)
 
 Vantagens:
 
-* Automatiza a coleta e unificação de dados de múltiplas plataformas
+* Automatiza a coleta e unificaçêo de dados de múltiplas plataformas
 * Elimina erros manuais em cálculos
 * Gera insights rápidos e acionáveis para melhorar ROI
 * Funciona como um “assistente de IA” que conhece profundamente os dados do negócio e sugere ações estratégicas personalizadas
@@ -441,7 +441,7 @@ MENSAGEM 9
 Autor: INEMA
 Data: 2025-08-10T18:40:20+00:00
 Texto:
-Hub de Integração e Transformação de Dados
+Hub de Integraçêo e Transformaçêo de Dados
 
 
 
@@ -451,14 +451,14 @@ Coleta de Dados de Anúncios do Facebook: chama a API Facebook Graph para obter 
 
 Coleta de Dados do Funil de Leads: lê uma planilha do Google Sheets chamada “Lead Campaign Pipeline” com alocações de orçamento, métricas por estágio do funil e anotações manuais.
 
-Agregação e Mesclagem de Dados: agrega as linhas da planilha em um único array JSON dentro de lead e mescla com o fluxo de dados do Facebook, produzindo um conjunto de dados unificado.
+Agregaçêo e Mesclagem de Dados: agrega as linhas da planilha em um único array JSON dentro de lead e mescla com o fluxo de dados do Facebook, produzindo um conjunto de dados unificado.
 
-Análise e Geração de Relatório com IA: envia os dados combinados para um “Agente de IA” do LangChain (usando o modelo o3) com um prompt de sistema personalizado para calcular KPIs (CPC, CPL, CPR), CTR, taxas de conversão do funil, detecção de anomalias e recomendações de otimização — depois formata um resumo semanal claro e estruturado.
+Análise e Geraçêo de Relatório com IA: envia os dados combinados para um “Agente de IA” do LangChain (usando o modelo o3) com um prompt de sistema personalizado para calcular KPIs (CPC, CPL, CPR), CTR, taxas de conversêo do funil, detecçêo de anomalias e recomendações de otimizaçêo — depois formata um resumo semanal claro e estruturado.
 
-Criação e Preenchimento Automático de Documento Google: cria um Google Doc intitulado “Relatório de Campanha para {Mês}” e insere nele o conteúdo gerado pela IA, pronto para revisão pelas partes interessadas.
+Criaçêo e Preenchimento Automático de Documento Google: cria um Google Doc intitulado “Relatório de Campanha para {Mês}” e insere nele o conteúdo gerado pela IA, pronto para revisêo pelas partes interessadas.
 
 Caso de Negócio / Uso
-As equipes modernas de marketing gastam horas toda semana coletando manualmente métricas de anúncios, reconciliando-as com planilhas internas de acompanhamento de leads e criando resumos de desempenho. Este “Hub de Integração e Transformação de Dados” agiliza todo o processo:
+As equipes modernas de marketing gastam horas toda semana coletando manualmente métricas de anúncios, reconciliando-as com planilhas internas de acompanhamento de leads e criando resumos de desempenho. Este “Hub de Integraçêo e Transformaçêo de Dados” agiliza todo o processo:
 
 Relatórios Automatizados
 
@@ -468,14 +468,14 @@ Relatórios Automatizados
 Insights Acionáveis Rápidos
 
 * Análise com IA destaca campanhas com desempenho acima ou abaixo da média, identifica anomalias e recomenda ajustes de orçamento em segundos.
-* Geração instantânea de Google Doc acelera revisões e aprovações.
+* Geraçêo instantânea de Google Doc acelera revisões e aprovações.
 
 Escalável e Repetível
 
-* Uma vez configurado, o fluxo se adapta para vários clientes ou unidades de negócios com configuração mínima.
+* Uma vez configurado, o fluxo se adapta para vários clientes ou unidades de negócios com configuraçêo mínima.
 * Libera analistas para focarem na estratégia em vez de manipular dados.
 
-Pitch Ideal: vender esta integração gerenciada para agências de marketing digital ou equipes internas de marketing como um módulo de “Relatórios de Desempenho como Serviço” — com configuração, prompts de modelo e monitoramento prontos — permitindo que eles integrem novos clientes ou campanhas em dias, em vez de semanas, garantindo insights semanais sem esforço.
+Pitch Ideal: vender esta integraçêo gerenciada para agências de marketing digital ou equipes internas de marketing como um módulo de “Relatórios de Desempenho como Serviço” — com configuraçêo, prompts de modelo e monitoramento prontos — permitindo que eles integrem novos clientes ou campanhas em dias, em vez de semanas, garantindo insights semanais sem esforço.
 
 Indústrias que Mais se Beneficiam
 
@@ -485,7 +485,7 @@ Indústrias que Mais se Beneficiam
 * Empresas de Serviços Profissionais (Consultoria, Finanças): combinam alcance de marketing com dados do funil de leads para relatórios executivos.
 * Mídia e Publicações: correlacionam compras de anúncios com assinaturas ou métricas de leads baseadas em conteúdo.
 
-Cada um desses setores depende de relatórios de desempenho precisos e oportunos — tornando essa solução pronta para uso um argumento convincente para qualquer organização que queira escalar sua análise de marketing sem aumentar a equipe.
+Cada um desses setores depende de relatórios de desempenho precisos e oportunos — tornando essa soluçêo pronta para uso um argumento convincente para qualquer organizaçêo que queira escalar sua análise de marketing sem aumentar a equipe.
 
 Recursos
 Data Integ. & Trans. Hub.json

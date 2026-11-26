@@ -191,7 +191,7 @@ Total de workflows: **36**
 
 ## Tópico 3195
 
-### e7gmail - Faturação ativo PIX
+### e7gmail - Faturaçêo ativo PIX
 
 - **Nodes:** 46
 - **Integrações:** Gmail, Google, OpenAI/LangChain

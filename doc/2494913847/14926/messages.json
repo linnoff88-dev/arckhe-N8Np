@@ -12,7 +12,7 @@
     "id": 14946,
     "author": "INEMA",
     "date": "2025-10-08T08:33:33+00:00",
-    "text": "⚠️Importante: Este recurso está na versão beta mais recente 1.113.0. Certifique-se de atualizar sua instância!\n\nATUALIZAÇÃO: Acabei de ouvir da equipe do n8n que o recurso (que estava em beta) foi retirado temporariamente para correções de bugs e deve voltar ao ar em alguns dias.",
+    "text": "⚠️Importante: Este recurso está na versêo beta mais recente 1.113.0. Certifique-se de atualizar sua instância!\n\nATUALIZAÇêO: Acabei de ouvir da equipe do n8n que o recurso (que estava em beta) foi retirado temporariamente para correções de bugs e deve voltar ao ar em alguns dias.",
     "has_media": false,
     "media_type": null
   },
@@ -28,7 +28,7 @@
     "id": 14944,
     "author": "INEMA",
     "date": "2025-10-08T08:32:49+00:00",
-    "text": "As novas Tabelas de Dados Nativas do n8n tornaram a criação de agentes muito mais fácil\n\nO n8n acabou de lançar um novo recurso: tabelas de dados nativas. Agora é possível armazenar e gerenciar dados diretamente dentro do seu ambiente n8n, sem precisar de um banco de dados externo ou de chamadas constantes à API.\n\nNeste vídeo, como essas tabelas funcionam, como configurá-las e como conectá-las aos seus fluxos de trabalho ou agentes de IA em apenas alguns cliques. Também explico os prós e contras e quando ainda pode ser melhor usar um banco de dados tradicional.\n\nSe você está criando provas de conceito rápidas, demonstrações ou apenas quer uma maneira simples de gerenciar dados sem problemas de latência ou limite de requisições, este recurso é revolucionário.\n\nModelos do Google Sheets:\n\n* Contatos\n* Vendas\n* Teste",
+    "text": "As novas Tabelas de Dados Nativas do n8n tornaram a criaçêo de agentes muito mais fácil\n\nO n8n acabou de lançar um novo recurso: tabelas de dados nativas. Agora é possível armazenar e gerenciar dados diretamente dentro do seu ambiente n8n, sem precisar de um banco de dados externo ou de chamadas constantes à API.\n\nNeste vídeo, como essas tabelas funcionam, como configurá-las e como conectá-las aos seus fluxos de trabalho ou agentes de IA em apenas alguns cliques. Também explico os prós e contras e quando ainda pode ser melhor usar um banco de dados tradicional.\n\nSe você está criando provas de conceito rápidas, demonstrações ou apenas quer uma maneira simples de gerenciar dados sem problemas de latência ou limite de requisições, este recurso é revolucionário.\n\nModelos do Google Sheets:\n\n* Contatos\n* Vendas\n* Teste",
     "has_media": false,
     "media_type": null
   },

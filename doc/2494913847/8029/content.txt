@@ -69,7 +69,7 @@ MENSAGEM 8
 Autor: INEMA
 Data: 2025-05-20T18:02:38+00:00
 Texto:
-**Resumo da Automação de Backup para N8N no Google Drive**
+**Resumo da Automaçêo de Backup para N8N no Google Drive**
 
 **Objetivo:**
 Manter backups automáticos e atualizados de todos os fluxos (workflows) do N8N, evitando perda de dados por falhas, atualizações incorretas ou exclusões acidentais.
@@ -80,19 +80,19 @@ Manter backups automáticos e atualizados de todos os fluxos (workflows) do N8N,
 * Verifica no Google Drive se já existe um arquivo com o mesmo nome.
 
   * Se existir → atualiza.
-  * Se não existir → cria novo arquivo.
+  * Se nêo existir → cria novo arquivo.
 * Converte os workflows em arquivos `.json`.
 * Salva na pasta "Backup Automatizações N8N" no Google Drive.
 * Executa automaticamente todos os dias ao meio-dia com um Schedule Trigger.
 
 **Estrutura técnica:**
 
-* **Módulo N8N:** Conexão com o servidor via API Key e URL.
+* **Módulo N8N:** Conexêo com o servidor via API Key e URL.
 * **Loop:** Itera sobre todos os workflows.
 * **Google Drive:**
 
   * Busca por nome de arquivo na pasta de backup.
-  * Usa um switch para decidir entre atualização ou criação.
+  * Usa um switch para decidir entre atualizaçêo ou criaçêo.
   * Salva cada fluxo como arquivo separado (.json).
 
 **Testes realizados:**
@@ -101,7 +101,7 @@ Manter backups automáticos e atualizados de todos os fluxos (workflows) do N8N,
 * Com 10 workflows → 5 atualizados, 5 novos.
 * Com 70+ workflows → todos salvos corretamente.
 
-**Importação e restauração:**
+**Importaçêo e restauraçêo:**
 
 * Os arquivos `.json` podem ser importados diretamente no N8N.
 * Mostra como restaurar fluxos a partir do Google Drive.
@@ -113,7 +113,7 @@ Manter backups automáticos e atualizados de todos os fluxos (workflows) do N8N,
 * Previne sustos e perda de trabalho.
 
 **Recurso disponível:**
-Blueprint da automação pronto para uso.
+Blueprint da automaçêo pronto para uso.
 
 ------------------------------
 
@@ -129,10 +129,10 @@ Comecei a mexer no servidor, seguindo alguns passos para melhorar a performance 
 Sim, vazio. Em branco. Sem um único fluxo. Nada. Sumiu. 😱
 
 Depois de reiniciar tudo (e recuperar o fôlego), felizmente eles reapareceram.
-Mas o susto foi tão grande que me atravessou a alma. Então decidi nunca mais passar por isso.
+Mas o susto foi têo grande que me atravessou a alma. Entêo decidi nunca mais passar por isso.
 
 E aqui está essa maravilha:
-🛠️ Automatização de backups automáticos do N8N no Google Drive
+🛠️ Automatizaçêo de backups automáticos do N8N no Google Drive
 Sim, faz tudo:
 ✅ Conecta ao seu servidor N8N
 ✅ Verifica todos os seus fluxos
@@ -140,10 +140,10 @@ Sim, faz tudo:
 ✅ E se existir um novo fluxo, atualiza ✨
 
 Além disso, pode rodar todo dia com um gatilho de agendamento, e você pode esquecer que ele existe.
-Isso não é opcional, é como colocar o cinto de segurança:
+Isso nêo é opcional, é como colocar o cinto de segurança:
 Se você trabalha com N8N em servidor próprio, prepare-se para o susto 😂
 
-👉 Pare de pedir desculpas e coloque o cinto de segurança do backup antes que o N8N resolva brincar com suas emoções como aquele “amigo” brincalhão.
+👉 Pare de pedir desculpas e coloque o cinto de segurança do backup antes que o N8N resolva brincar com suas emoções como aquele “amigo” brincalhêo.
 
 Um abraço, e que vivam os fluxos seguros! 🔐🐒
 

@@ -21,7 +21,7 @@ MENSAGEM 2
 Autor: Igor
 Data: 2025-04-09T18:59:26+00:00
 Texto:
-Boa tarde. Não estou localizando
+Boa tarde. Nêo estou localizando
 
 ------------------------------
 
@@ -44,7 +44,7 @@ Um fluxo automatizado no n8n onde, com **apenas um prompt simples**, o sistema:
 
 1. **Interpreta o pedido**
 2. **Consulta uma base de dados com centenas de automações do n8n**
-3. **Pesquisa a documentação atualizada do n8n usando Perplexity**
+3. **Pesquisa a documentaçêo atualizada do n8n usando Perplexity**
 4. **Gera o workflow completo com IA (em JSON)**
 5. **Entrega um link clicável para importar direto no seu workspace**
 
@@ -69,7 +69,7 @@ Um fluxo automatizado no n8n onde, com **apenas um prompt simples**, o sistema:
 
 ---
 
-**Base de Conhecimento de Automação (KB):**
+**Base de Conhecimento de Automaçêo (KB):**
 
 - Criada com scripts em Python (via Google Colab)
 - Scraping de automações do marketplace (foco em IA)
@@ -81,12 +81,12 @@ Um fluxo automatizado no n8n onde, com **apenas um prompt simples**, o sistema:
 
 **Ferramentas e recursos usados:**
 
-- **n8n**: Plataforma de automação
-- **OpenAI**: Para interpretação de prompt, refinamento e geração de JSON
-- **Perplexity**: Para busca em documentação atualizada
+- **n8n**: Plataforma de automaçêo
+- **OpenAI**: Para interpretaçêo de prompt, refinamento e geraçêo de JSON
+- **Perplexity**: Para busca em documentaçêo atualizada
 - **Pinecone**: Base vetorial para armazenar e consultar fluxos
 - **Google Colab**: Para rodar o script que cria a base vetorial
-- **Sonar Pro** (modelo LLM): Para gerar e validar os fluxos com precisão
+- **Sonar Pro** (modelo LLM): Para gerar e validar os fluxos com precisêo
 - **n8n Create Workflow Module**: Cria o workflow direto no workspace
 
 ---
@@ -130,27 +130,27 @@ Texto:
 
 2. **Subfluxo secundário**  
    Um fluxo complementar que executa tarefas detalhadas acionadas pelo fluxo principal.  
-   Faz referência automaticamente a automações ou conectores relevantes, garantindo uma transição suave entre os fluxos.
+   Faz referência automaticamente a automações ou conectores relevantes, garantindo uma transiçêo suave entre os fluxos.
 
-3. **Script de Criação de Base de Conhecimento de Automação (KB)**  
+3. **Script de Criaçêo de Base de Conhecimento de Automaçêo (KB)**  
    Um script especializado que divide e insere diferentes automações no banco vetorial **Pinecone**.  
    Inclui também:  
    - Link para **300 automações com IA no n8n** disponíveis no marketplace.  
-   - Permite que seu agente de IA consulte uma biblioteca extensa de automações pré-construídas, reduzindo drasticamente o tempo de configuração.
+   - Permite que seu agente de IA consulte uma biblioteca extensa de automações pré-construídas, reduzindo drasticamente o tempo de configuraçêo.
 
-4. **Integração com Pesquisa Profunda (Deep Research)**  
-   Módulo embutido com **Perplexity** para pesquisas em tempo real na documentação e atualizações mais recentes do n8n.  
+4. **Integraçêo com Pesquisa Profunda (Deep Research)**  
+   Módulo embutido com **Perplexity** para pesquisas em tempo real na documentaçêo e atualizações mais recentes do n8n.  
    Garante que seu agente de IA esteja sempre atualizado sobre novos nós, boas práticas e mudanças nas funcionalidades do n8n.
 
-5. **Modelos prontos para importação**  
+5. **Modelos prontos para importaçêo**  
    Arquivos de fluxo baseados em **JSON**, incluindo o fluxo principal, subfluxo e expansões opcionais.  
-   Basta fazer upload no n8n e começar a gerar agentes de IA adaptados às suas necessidades — sem necessidade de programação avançada.
+   Basta fazer upload no n8n e começar a gerar agentes de IA adaptados às suas necessidades — sem necessidade de programaçêo avançada.
 
 
 
 **Resumo**
 
-Com esse pacote, você pode criar e implantar agentes de IA totalmente funcionais no **n8n**, usando um conjunto de fluxos, scripts e uma base de conhecimento de automação — **sem precisar de habilidades técnicas avançadas**.
+Com esse pacote, você pode criar e implantar agentes de IA totalmente funcionais no **n8n**, usando um conjunto de fluxos, scripts e uma base de conhecimento de automaçêo — **sem precisar de habilidades técnicas avançadas**.
 
 ---
 
@@ -158,7 +158,7 @@ Com esse pacote, você pode criar e implantar agentes de IA totalmente funcionai
 
 - Fluxo do Criador Principal  
 - Subfluxo (subflow)  
-- Script de criação da base de conhecimento (KB)  
+- Script de criaçêo da base de conhecimento (KB)  
 - Link para Google Drive
 
 ------------------------------

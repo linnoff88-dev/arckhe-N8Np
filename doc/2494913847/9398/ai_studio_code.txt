@@ -1516,7 +1516,7 @@
             {
               "id": "64113609-6adf-4693-8d51-ede088d97d38",
               "name": "userprompt",
-              "value": "=Investiga en profundidad el perfil del cliente ideal para el siguiente servicio, incluyendo:\n- De que se trata el servicio y su descripción detallada.\n- Público objetivo principal y sus necesidades.\n- Análisis de caracteristicas y narrativa de marca.\n\nServicio: {{ $json['nome do serviço'] }}\nNotas del servicio: {{ $json['descrição'] }}",
+              "value": "=Investiga en profundidad el perfil del cliente ideal para el siguiente servicio, incluyendo:\n- De que se trata el servicio y su descripción detallada.\n- Público objetivo principal y sus necesidades.\n- Análisis de caracteristicas y narrativa de marca.\n\nServicio: {{ $json['nome do serviço'] }}\nNotas del servicio: {{ $json['descriçêo'] }}",
               "type": "string"
             }
           ]
@@ -1594,7 +1594,7 @@
     {
       "parameters": {
         "promptType": "define",
-        "text": "=Basado en la siguiente descripción detallada de un servicio y su cliente ideal, genera entre 5 y 8 ángulos publicitarios únicos.\n\n---\nSERVICIO Y CLIENTE IDEAL:\n{{ $json['descrição'] }}\n---\nÁngulos previos: {{ $items(\"Obtener Producto (Ângulos)\")[0].json.fields[\"Angulo Previo\"] }}\n---\n\nDevuelve el resultado únicamente como un array JSON puro, sin ningún texto adicional antes o después. El JSON debe seguir este esquema:\n[\n  {\n    \"Titulo_angulo\": \"Título breve y llamativo del ángulo.\",\n    \"Resumen_Concepto\": \"Descripción concisa de la idea principal.\",\n    \"Estructura_anuncio\": \"Formato y secciones del guion (ej: PAS, AIDA).\",\n    \"Sugerencia_Visual\": \"Temáticas o escenas visuales sugeridas.\",\n    \"Triggers_Emocionales\": \"Factores emocionales a activar.\",\n    \"Tecnicas_Respuesta_Directa\": \"Métodos de persuasión y CTA.\",\n    \"Sesgos_Cognitivos\": \"Sesgos psicológicos a emplear.\"\n  }\n]",
+        "text": "=Basado en la siguiente descripción detallada de un servicio y su cliente ideal, genera entre 5 y 8 ángulos publicitarios únicos.\n\n---\nSERVICIO Y CLIENTE IDEAL:\n{{ $json['descriçêo'] }}\n---\nÁngulos previos: {{ $items(\"Obtener Producto (Ângulos)\")[0].json.fields[\"Angulo Previo\"] }}\n---\n\nDevuelve el resultado únicamente como un array JSON puro, sin ningún texto adicional antes o después. El JSON debe seguir este esquema:\n[\n  {\n    \"Titulo_angulo\": \"Título breve y llamativo del ángulo.\",\n    \"Resumen_Concepto\": \"Descripción concisa de la idea principal.\",\n    \"Estructura_anuncio\": \"Formato y secciones del guion (ej: PAS, AIDA).\",\n    \"Sugerencia_Visual\": \"Temáticas o escenas visuales sugeridas.\",\n    \"Triggers_Emocionales\": \"Factores emocionales a activar.\",\n    \"Tecnicas_Respuesta_Directa\": \"Métodos de persuasión y CTA.\",\n    \"Sesgos_Cognitivos\": \"Sesgos psicológicos a emplear.\"\n  }\n]",
         "hasOutputParser": true,
         "messages": {
           "messageValues": [
@@ -1641,7 +1641,7 @@
     {
       "parameters": {
         "promptType": "define",
-        "text": "=Por favor, reescribe el siguiente guion original, incorporando los comentarios de feedback.\n\n---\nCOMENTARIOS DEL CLIENTE (FEEDBACK): {{ $json['Campos gerado por IA'] }}\n---\nGUION ORIGINAL:{{ $json['descrição'] }}",
+        "text": "=Por favor, reescribe el siguiente guion original, incorporando los comentarios de feedback.\n\n---\nCOMENTARIOS DEL CLIENTE (FEEDBACK): {{ $json['Campos gerado por IA'] }}\n---\nGUION ORIGINAL:{{ $json['descriçêo'] }}",
         "messages": {
           "messageValues": [
             {
@@ -1775,7 +1775,7 @@
                 "conditions": [
                   {
                     "id": "eddee505-29e2-48b9-896a-d5e3cfde89f5",
-                    "leftValue": "={{ $json['[AÇÃO] Gerar Detalhes'] }}",
+                    "leftValue": "={{ $json['[AÇêO] Gerar Detalhes'] }}",
                     "rightValue": "generar_detalles",
                     "operator": {
                       "type": "boolean",
@@ -1799,7 +1799,7 @@
                 },
                 "conditions": [
                   {
-                    "leftValue": "={{ $json['[AÇÃO] Gerar Ângaulos'] }}",
+                    "leftValue": "={{ $json['[AÇêO] Gerar Ângaulos'] }}",
                     "rightValue": "generar_angulos",
                     "operator": {
                       "type": "boolean",
@@ -1850,7 +1850,7 @@
                 "conditions": [
                   {
                     "id": "0ab60fd9-c2a2-4e7d-81dc-07737b2f95dc",
-                    "leftValue": "=\n{{ $json['[AÇÃO] Gerar Feedback'] }}",
+                    "leftValue": "=\n{{ $json['[AÇêO] Gerar Feedback'] }}",
                     "rightValue": "generar_feedback",
                     "operator": {
                       "type": "string",
@@ -1904,7 +1904,7 @@
     },
     {
       "parameters": {
-        "jsCode": "// Pega o conteúdo diretamente do caminho correto\nconst texto = $json.message.content;\n\n// A resposta da OpenAI não vem com as tags <think>, então não precisamos mais limpá-la.\n// Simplesmente retornamos o texto.\nreturn { resultado: texto };"
+        "jsCode": "// Pega o conteúdo diretamente do caminho correto\nconst texto = $json.message.content;\n\n// A resposta da OpenAI nêo vem com as tags <think>, entêo nêo precisamos mais limpá-la.\n// Simplesmente retornamos o texto.\nreturn { resultado: texto };"
       },
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
@@ -1982,7 +1982,7 @@
                 },
                 "conditions": [
                   {
-                    "leftValue": "={{ $json['tipo de guião'] }}",
+                    "leftValue": "={{ $json['tipo de guiêo'] }}",
                     "rightValue": "AIDA (Atención – Interés – Deseo – Acción)",
                     "operator": {
                       "type": "string",
@@ -2007,7 +2007,7 @@
                 "conditions": [
                   {
                     "id": "f96fdf45-e931-4bec-8af8-d6430128433c",
-                    "leftValue": "={{ $json['tipo de guião'] }}",
+                    "leftValue": "={{ $json['tipo de guiêo'] }}",
                     "rightValue": "Problema-Agitación-Solución (PAS)",
                     "operator": {
                       "type": "string",
@@ -2032,7 +2032,7 @@
                 "conditions": [
                   {
                     "id": "2be80e28-84b9-4b6d-b40d-aac4fa5e8a11",
-                    "leftValue": "={{ $json['tipo de guião'] }}",
+                    "leftValue": "={{ $json['tipo de guiêo'] }}",
                     "rightValue": "4P (Problema – Promesa – Prueba – Propuesta)",
                     "operator": {
                       "type": "string",
@@ -2057,7 +2057,7 @@
                 "conditions": [
                   {
                     "id": "6436b5cf-0ce0-4e35-ad85-86ce649449ff",
-                    "leftValue": "={{ $json['tipo de guião'] }}",
+                    "leftValue": "={{ $json['tipo de guiêo'] }}",
                     "rightValue": "FAB (Features – Advantages – Benefits)",
                     "operator": {
                       "type": "string",
@@ -2082,7 +2082,7 @@
                 "conditions": [
                   {
                     "id": "c5d6bb71-3095-4c97-bd3c-5a246d070662",
-                    "leftValue": "={{ $json['tipo de guião'] }}",
+                    "leftValue": "={{ $json['tipo de guiêo'] }}",
                     "rightValue": "Storytelling + CTA (La historia como venta)",
                     "operator": {
                       "type": "string",
@@ -2133,7 +2133,7 @@
     {
       "parameters": {
         "promptType": "define",
-        "text": "=Crea un guion completo usando el modelo PAS con la siguiente información:\n\n---\nTítulo del Angulo: {{ $json['Título do Angulo'] }}\nResumen del Concepto: {{ $json['descrição'] }}\n---\n\nPara el contexto del producto, usa la siguiente información:\n{{ $json['Campos gerado por IA'] }}",
+        "text": "=Crea un guion completo usando el modelo PAS con la siguiente información:\n\n---\nTítulo del Angulo: {{ $json['Título do Angulo'] }}\nResumen del Concepto: {{ $json['descriçêo'] }}\n---\n\nPara el contexto del producto, usa la siguiente información:\n{{ $json['Campos gerado por IA'] }}",
         "messages": {
           "messageValues": [
             {

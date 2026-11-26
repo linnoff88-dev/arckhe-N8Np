@@ -47,7 +47,7 @@ MENSAGEM 5
 Autor: INEMA
 Data: 2025-06-15T06:10:09+00:00
 Texto:
-Aqui está o **passo a passo completo** para criar um **Assistente de Investimentos com IA automatizado** usando **OpenAI, Supabase, FMP API, Google Drive e n8n**, sem codificação.
+Aqui está o **passo a passo completo** para criar um **Assistente de Investimentos com IA automatizado** usando **OpenAI, Supabase, FMP API, Google Drive e n8n**, sem codificaçêo.
 
 ---
 
@@ -72,7 +72,7 @@ Você precisará ter contas ativas nas seguintes plataformas:
    * `Service Role Secret`
 3. Vá até o `SQL Editor` e cole o seguinte código (para ativar o banco vetorial):
 
-   ```   -- Criação da estrutura para armazenar embeddings
+   ```   -- Criaçêo da estrutura para armazenar embeddings
    CREATE TABLE documents (
      id uuid PRIMARY KEY DEFAULT gen_random_uuid(),
      content text,
@@ -80,7 +80,7 @@ Você precisará ter contas ativas nas seguintes plataformas:
      metadata jsonb
    );
    ```
-4. Confirme a execução.
+4. Confirme a execuçêo.
 
 ---
 
@@ -108,7 +108,7 @@ Você precisará ter contas ativas nas seguintes plataformas:
 
 ---
 
-### 5. **Configurar n8n (criação dos fluxos)**
+### 5. **Configurar n8n (criaçêo dos fluxos)**
 
 #### A. **Fluxo 1: Armazenar relatórios no Supabase**
 
@@ -179,7 +179,7 @@ Este projeto ensina como criar um assistente de investimentos inteligente que an
 
 1. **Ferramentas utilizadas**:
 
-   * OpenAI (para embeddings e geração de respostas)
+   * OpenAI (para embeddings e geraçêo de respostas)
    * Supabase (armazenamento vetorial e interface SQL)
    * FMP API (Financial Modeling Prep – dados financeiros em tempo real)
    * Google Drive (armazenamento de relatórios PDF)
@@ -189,7 +189,7 @@ Este projeto ensina como criar um assistente de investimentos inteligente que an
 
    * Usuário envia um PDF de relatório financeiro (ex: Coca-Cola Q3 2024) para o Google Drive.
    * O sistema detecta o novo arquivo, extrai o texto, gera embeddings via OpenAI e armazena no Supabase.
-   * Quando o usuário faz uma pergunta (ex: "Qual a receita da Coca-Cola em Q3 2024?"), o sistema consulta o banco vetorial e responde com precisão.
+   * Quando o usuário faz uma pergunta (ex: "Qual a receita da Coca-Cola em Q3 2024?"), o sistema consulta o banco vetorial e responde com precisêo.
    * Se a pergunta envolver dados em tempo real (ex: PE Ratio atual), a resposta é complementada com informações da API FMP.
 
 3. **Dois fluxos principais no n8n**:
@@ -202,13 +202,13 @@ Este projeto ensina como criar um assistente de investimentos inteligente que an
    * Supabase permite SQL direto e tem interface rica.
    * Pinecone é mais otimizado para grandes volumes e busca por similaridade.
 
-5. **Configuração técnica**:
+5. **Configuraçêo técnica**:
 
    * Credenciais necessárias: chave da API do FMP, client ID/secret do Google Drive, chave secreta do Supabase.
    * Banco vetorial é ativado com SQL específico colado no editor do Supabase.
    * Modelos de embedding usados: `text-embedding-3-small`.
 
-6. **Versão avançada**:
+6. **Versêo avançada**:
 
    * Integra memória conversacional para lembrar perguntas anteriores.
    * Usa prompts como: "Você é um assistente financeiro. Encontre o código da empresa e retorne os dados solicitados".
@@ -229,7 +229,7 @@ Seu Assistente de Investimentos Financeiros
 
 Agente de IA para ser seu Assistente de Investimentos Financeiros (100% automatizado)
 
-Como criar um Assistente de Investimentos com Inteligência Artificial usando RAG (Geração com Recuperação de Dados) com OpenAI, n8n e Supabase
+Como criar um Assistente de Investimentos com Inteligência Artificial usando RAG (Geraçêo com Recuperaçêo de Dados) com OpenAI, n8n e Supabase
 
 Esse sistema recupera e analisa dados financeiros, acompanha informações em tempo real sobre ações e gerencia pesquisas de investimento com facilidade.
 

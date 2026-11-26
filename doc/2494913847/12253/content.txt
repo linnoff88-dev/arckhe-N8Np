@@ -47,75 +47,75 @@ MENSAGEM 4
 Autor: INEMA
 Data: 2025-08-06T00:04:02+00:00
 Texto:
-[instrução master]
+[instruçêo master]
 aja como especialista em criar automações N8N, completas, funcionais e validadas
 antes de tudo, pergunte quais dúvidas você tenha sobre este projeto
 use os modelos de exemplo
 [conteúdo da fase 3]
 — cabeçalho de contexto (referência às fases 1 e 2)
-— solicitação de dúvidas
+— solicitaçêo de dúvidas
 — lista de nodes e placeholders
 — metadados (timezone, retryOnFail)
 — instruções de estilo (Switch/Set, sem Function)
-— ordem de execução e importação de sub-workflows
+— ordem de execuçêo e importaçêo de sub-workflows
 
-## 🧾 **INSTRUÇÃO TÉCNICA PARA GERAÇÃO DE WORKFLOW N8N**
+## 🧾 **INSTRUÇêO TÉCNICA PARA GERAÇêO DE WORKFLOW N8N**
 
 ### 📌 **CONTEXTO DO PROJETO**
 
-**Sistema:** ONG Pets – Automação Completa
-**Objetivo Principal:** Cadastro de animais, agendamento de castração e dúvidas via RAG
+**Sistema:** ONG Pets – Automaçêo Completa
+**Objetivo Principal:** Cadastro de animais, agendamento de castraçêo e dúvidas via RAG
 **Complexidade:** Avançada
-**Versão n8n:** 1.104.2
+**Versêo n8n:** 1.104.2
 
 ---
 
 ### 🏗️ **ARQUITETURA DEFINIDA**
 
 **Tipo:** Modular
-**Padrão:** Agentes com orquestrador e RAG conectado ao Supabase
-**Execução:** Sequencial com controle por roteador
+**Padrêo:** Agentes com orquestrador e RAG conectado ao Supabase
+**Execuçêo:** Sequencial com controle por roteador
 
 #### **FLUXO PRINCIPAL:**
 
-```📥 Entrada WhatsApp (EvolutionAPI) + Gmail  → 🛡️ Validação de formato (texto, imagem, voz)  
-→ 🧠 Orquestrador identifica intenção  → 🔀 Encaminha para subagente adequado  
-→ ⚙️ Execução de ações (cadastro, agendamento, resposta RAG)  → 💾 Registros no Supabase (memória curta e longa)  
+```📥 Entrada WhatsApp (EvolutionAPI) + Gmail  → 🛡️ Validaçêo de formato (texto, imagem, voz)  
+→ 🧠 Orquestrador identifica intençêo  → 🔀 Encaminha para subagente adequado  
+→ ⚙️ Execuçêo de ações (cadastro, agendamento, resposta RAG)  → 💾 Registros no Supabase (memória curta e longa)  
 → 📤 Resposta textual ao canal de origem```
 ---
 ### 🧩 B**LOCOS OBRIGATÓRIOS E CONFIGURAÇÕES
 **#### 🔧 E**NTRADA E TRIGGERS
 *** Trigger WhatsApp via EvolutionAPI* Trigger Gmail (node IMAP ou Gmail)
-* Identificação do canal de origem* Captura de anexos, áudio e texto
-#### 🔧 P**ROCESSAMENTO E VALIDAÇÃO
-*** Conversão de voz em texto (speech-to-text)
-* OCR para imagens* Validação de dados obrigatórios
+* Identificaçêo do canal de origem* Captura de anexos, áudio e texto
+#### 🔧 P**ROCESSAMENTO E VALIDAÇêO
+*** Conversêo de voz em texto (speech-to-text)
+* OCR para imagens* Validaçêo de dados obrigatórios
 #### 🔧 R**OTEAMENTO INTELIGENTE
-*** Orquestrador detecta intenção com base em conteúdo
+*** Orquestrador detecta intençêo com base em conteúdo
 * Switch para redirecionar entre: Cadastro, Agendamento, RAG
 
 #### 🔧 A**GENTES ESPECIALIZADOS
 **
-* Agente Cadastro Animal: nome, raça, vacinação, histórico
-* Agente Agendamento Castração: datas, confirmação, status
+* Agente Cadastro Animal: nome, raça, vacinaçêo, histórico
+* Agente Agendamento Castraçêo: datas, confirmaçêo, status
 * Agente RAG: busca contexto no Supabase e responde
 #### 🔧 M**EMÓRIA E DADOS
 *** Memória curta com últimas 5 interações em variável por usuário
 * Supabase com tabelas:
 
-  * p`ets `(id, nome, espécie, vacinação, dono\_id)
+  * p`ets `(id, nome, espécie, vacinaçêo, dono\_id)
   * a`gendamentos `(id, data, status, pet\_id)
   * h`istorico `(id, user\_id, mensagem, resposta, timestamp)
 
 #### 🔧 C**ONHECIMENTO E IA
-*** Indexação de documentos internos no Supabase
-* RAG com recuperação semântica
-* Geração de resposta baseada no prompt + contexto
+*** Indexaçêo de documentos internos no Supabase
+* RAG com recuperaçêo semântica
+* Geraçêo de resposta baseada no prompt + contexto
 
 #### 🔧 S**AÍDA E NOTIFICAÇÕES
 *** Resposta via EvolutionAPI para WhatsApp
 * Resposta via Gmail com texto formatado
-* Notificação interna para falhas (ex: canal Telegram admin)
+* Notificaçêo interna para falhas (ex: canal Telegram admin)
 
 ------------------------------
 

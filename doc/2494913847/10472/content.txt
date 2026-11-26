@@ -21,11 +21,11 @@ MENSAGEM 2
 Autor: INEMA
 Data: 2025-06-25T03:37:22+00:00
 Texto:
-Aqui vão **hacks práticos** para melhorar, acelerar e proteger sua automação de controle de navegador com **N8N + Airtop + IA**, economizando créditos e evitando travamentos:
+Aqui vêo **hacks práticos** para melhorar, acelerar e proteger sua automaçêo de controle de navegador com **N8N + Airtop + IA**, economizando créditos e evitando travamentos:
 
 ---
 
-### 🔥 HACKS PARA OTIMIZAÇÃO
+### 🔥 HACKS PARA OTIMIZAÇêO
 
 1. **Use prompts específicos e objetivos**
 
@@ -35,7 +35,7 @@ Aqui vão **hacks práticos** para melhorar, acelerar e proteger sua automação
 
 2. **Reduza uso de créditos Airtop**
 
-   * Finalize toda sessão com `End Session`
+   * Finalize toda sessêo com `End Session`
    * Use `load-url` em vez de abrir nova janela
    * Limite máximo de **1 ou 2 interações por tarefa**
 
@@ -46,25 +46,25 @@ Aqui vão **hacks práticos** para melhorar, acelerar e proteger sua automação
 
 4. **Evite falhas com “session already running”**
 
-   * Use um nó condicional antes de criar a sessão:
+   * Use um nó condicional antes de criar a sessêo:
 
-     * Verifique se há sessão ativa.
+     * Verifique se há sessêo ativa.
      * Se sim, encerre-a automaticamente com `end-session`.
 
 5. **Configure timeout dos requests**
 
-   * Padrão é 10s, mas pode aumentar para sites mais lentos (20s ou 30s)
+   * Padrêo é 10s, mas pode aumentar para sites mais lentos (20s ou 30s)
 
 6. **Economize tokens da IA**
 
-   * Use GPT-4.1 Mini quando não precisar de memória longa
+   * Use GPT-4.1 Mini quando nêo precisar de memória longa
    * Diminua a `maxIterations` para 10 ou 15
 
-7. **Simule cliques com precisão**
+7. **Simule cliques com precisêo**
 
    * Use descrições como:
 
-     * "botão com texto 'Comprar agora'"
+     * "botêo com texto 'Comprar agora'"
      * "primeiro link do resultado"
      * "input de busca com placeholder"
 
@@ -98,7 +98,7 @@ Aqui vão **hacks práticos** para melhorar, acelerar e proteger sua automação
 
   * “Acessando site...”
   * “Procurando produto...”
-  * “Finalizando sessão...”
+  * “Finalizando sessêo...”
 
 12. U**se comandos curtos por emojis
 **
@@ -106,9 +106,9 @@ Aqui vão **hacks práticos** para melhorar, acelerar e proteger sua automação
 
 13. M**odo teste no N8N
 **
-* Crie um botão “Modo Simulação” que ativa um caminho de teste com printscreen (sem ações reais)
+* Crie um botêo “Modo Simulaçêo” que ativa um caminho de teste com printscreen (sem ações reais)
 
-14. G**rave vídeo da sessão com Airtop
+14. G**rave vídeo da sessêo com Airtop
 **
 * Use a L`ive URL `+ gravador de tela automático se quiser gerar vídeos de testes
 
@@ -129,7 +129,7 @@ MENSAGEM 4
 Autor: INEMA
 Data: 2025-06-25T03:36:59+00:00
 Texto:
-Aqui está o **passo a passo completo** para criar seu próprio "Operator IA" com **N8N + Airtop**, usando **IA para controlar o navegador remotamente**, com integração opcional via WhatsApp ou Telegram:
+Aqui está o **passo a passo completo** para criar seu próprio "Operator IA" com **N8N + Airtop**, usando **IA para controlar o navegador remotamente**, com integraçêo opcional via WhatsApp ou Telegram:
 
 ---
 
@@ -160,10 +160,10 @@ Aqui está o **passo a passo completo** para criar seu próprio "Operator IA" co
 * Tipo: OpenAI / ChatGPT / Gemini
 * Prompt sugerido (resumido):
 
-  `  Você é um agente de automação de navegador com as seguintes ferramentas: iniciar navegador, escrever, clicar, carregar URL, extrair informações, encerrar sessão. Execute conforme a tarefa do usuário.
+  `  Você é um agente de automaçêo de navegador com as seguintes ferramentas: iniciar navegador, escrever, clicar, carregar URL, extrair informações, encerrar sessêo. Execute conforme a tarefa do usuário.
   `
 * Entrada: texto do usuário
-* Saída: comandos ou plano de ação
+* Saída: comandos ou plano de açêo
 
 ---
 
@@ -205,7 +205,7 @@ Aqui está o **passo a passo completo** para criar seu próprio "Operator IA" co
 ##```## b) C**lique (Click)
 *** POST para .`../sessions/{{session_id}}/windows/{{window_id}}/click*` Body:
    ``` {
-    "element_description": "botão buscar"  }
+    "element_description": "botêo buscar"  }
   
 #```### c) C**onsultar (Query Page)
 *** POST para .`../sessions/{{session_id}}/windows/{{window_id}}/query-page*` Body:
@@ -218,13 +218,13 @@ Aqui está o **passo a passo completo** para criar seu próprio "Operator IA" co
     "url": "https://outra-pagina.com"  }
   
 -```--
-### 9. E**ncerrar Sessão
+### 9. E**ncerrar Sessêo
 *** POST para:  [h](https://api.airtop.dev/api/v1/sessions/%7B%7Bsession_id%7D%7D/end)`ttps://api.airtop.dev/api/v1/sessions/{{session_id}}/end
-`[* Isso libera os recursos e permite executar outra sessão](https://api.airtop.dev/api/v1/sessions/%7B%7Bsession_id%7D%7D/end)
+`[* Isso libera os recursos e permite executar outra sessêo](https://api.airtop.dev/api/v1/sessions/%7B%7Bsession_id%7D%7D/end)
 ---
 ### 10. D**icas e Cuidados
-*** Sempre finalize a sessão com E`nd Session*` Limite de iterações: configure para no máximo 2**0 ciclos
-*** Use prompts específicos para tarefas complexas* Teste elementos HTML com e`lement_description `claros (ex: "input de busca", "botão enviar")
+*** Sempre finalize a sessêo com E`nd Session*` Limite de iterações: configure para no máximo 2**0 ciclos
+*** Use prompts específicos para tarefas complexas* Teste elementos HTML com e`lement_description `claros (ex: "input de busca", "botêo enviar")
 ---
 ### Exemplos de comandos que o usuário pode enviar:
 * “Buscar notebooks até R\$ 3.000 no Magazine Luiza”
@@ -247,7 +247,7 @@ Data: 2025-06-25T03:36:38+00:00
 Texto:
 **Resumo – "Controlar qualquer site com IA e N8N" 
 
-Como **automatizar a navegação na web com IA dentro do N8N**, usando a ferramenta **Airtop**, sem necessidade de pagar pelo "Operator" da OpenAI (200 €/mês).
+Como **automatizar a navegaçêo na web com IA dentro do N8N**, usando a ferramenta **Airtop**, sem necessidade de pagar pelo "Operator" da OpenAI (200 €/mês).
 
 ### Objetivo
 
@@ -262,25 +262,25 @@ Como **automatizar a navegação na web com IA dentro do N8N**, usando a ferrame
 
 * **N8N**: onde todo o fluxo é construído
 * **Airtop**: permite abrir, controlar e fechar janelas de navegador remotamente
-* **GPT-4.1 mini**: interpreta a solicitação e executa comandos
-* **Evolutions API**: envia links de visualização em tempo real via WhatsApp
+* **GPT-4.1 mini**: interpreta a solicitaçêo e executa comandos
+* **Evolutions API**: envia links de visualizaçêo em tempo real via WhatsApp
 
 ---
 
-### Fluxo de Automação (passo a passo)
+### Fluxo de Automaçêo (passo a passo)
 
 1. **Chat Trigger**
    Usuário envia um pedido (ex: "busque moedores de café baratos") via chat.
 
 2. **Prompt e Modelo IA**
 
-   * O agente IA recebe instruções sobre como usar ferramentas: abrir navegador, digitar, clicar, extrair dados, encerrar sessão etc.
+   * O agente IA recebe instruções sobre como usar ferramentas: abrir navegador, digitar, clicar, extrair dados, encerrar sessêo etc.
    * Modelo usado: GPT-4.1 mini (mais leve, rápido e barato)
 
-3. **Sessão Airtop**
+3. **Sessêo Airtop**
 
    * Criar chave de API
-   * Criar sessão e janela de navegador com URL enviada pela IA
+   * Criar sessêo e janela de navegador com URL enviada pela IA
    * Enviar link ao usuário (via WhatsApp) para acompanhar em tempo real
 
 4. **Comandos executáveis pela IA**
@@ -288,21 +288,21 @@ Como **automatizar a navegação na web com IA dentro do N8N**, usando a ferrame
    * **Type**: digita nos campos
    * **Query**: extrai dados da página
    * **Load URL**: carrega outra página
-   * **End Session**: encerra a sessão
-   * **Click**: simula clique via HTTP Request (não há módulo direto)
+   * **End Session**: encerra a sessêo
+   * **Click**: simula clique via HTTP Request (nêo há módulo direto)
 
 5. **Observações**
 
-   * Airtop gratuito permite apenas 1 sessão ativa por vez
-   * É necessário **fechar a sessão manualmente** para abrir outra
+   * Airtop gratuito permite apenas 1 sessêo ativa por vez
+   * É necessário **fechar a sessêo manualmente** para abrir outra
    * Pode ser usado para logar com usuário e senha, mas cuidado com segurança
 
 ---
 
 ### Casos de Uso
 
-* Automatizar testes de navegação
-* Buscar dados em sites que não oferecem API
+* Automatizar testes de navegaçêo
+* Buscar dados em sites que nêo oferecem API
 * Preencher formulários automaticamente
 * Navegar e coletar informações de forma autônoma
 
@@ -311,7 +311,7 @@ Como **automatizar a navegação na web com IA dentro do N8N**, usando a ferrame
 ### Recomendações Finais
 
 * **Limite de iterações**: configurar para até 20, para evitar loops infinitos
-* **Evite uso contínuo**: apesar de funcional, é mais lento do que uma navegação manual
+* **Evite uso contínuo**: apesar de funcional, é mais lento do que uma navegaçêo manual
 * Ideal para tarefas **rutinárias, demoradas ou sem API disponível**
 
 ------------------------------
@@ -330,11 +330,11 @@ Data: 2025-06-25T03:36:16+00:00
 Texto:
 🧑🏻‍💻 e25. Controle qualquer site com IA e N8N
 
-Hoje vamos aprender a automatizar a navegação na web diretamente pelo **N8N**, usando um agente de inteligência artificial e a ferramenta **Airtop**, sem precisar pagar pelo Operator da OpenAI.
+Hoje vamos aprender a automatizar a navegaçêo na web diretamente pelo **N8N**, usando um agente de inteligência artificial e a ferramenta **Airtop**, sem precisar pagar pelo Operator da OpenAI.
 
 🔧 Ferramentas utilizadas
 
-* **N8N**: Plataforma para construir fluxos de automação.
+* **N8N**: Plataforma para construir fluxos de automaçêo.
 * **Airtop**: Ferramenta que permite controlar um navegador remoto (criar sessões, abrir janelas, digitar, clicar, etc.).
 * **Chat trigger**: Entrada do fluxo via WhatsApp, Telegram ou interface web.
 * **GPT-4.1 mini**: Modelo de linguagem que interpreta e executa tarefas.
@@ -343,17 +343,17 @@ Hoje vamos aprender a automatizar a navegação na web diretamente pelo **N8N**,
 🛠️ Fluxo geral do projeto
 
 1. **Início com um chat trigger**
-   O usuário envia uma solicitação ao agente (ex: "Buscar moedores de café baratos").
+   O usuário envia uma solicitaçêo ao agente (ex: "Buscar moedores de café baratos").
    A mensagem é enviada ao modelo de IA, que decide os próximos passos.
 
 2. **Agente de IA**
    Recebe um prompt com as capacidades e ferramentas disponíveis.
    Ele pode: iniciar o navegador, escrever, clicar, carregar URLs, extrair dados e finalizar sessões.
 
-3. **Sessão no Airtop**
+3. **Sessêo no Airtop**
 
    * Gera-se uma chave de API e ela é configurada no N8N.
-   * O módulo *create session* inicia uma sessão de navegador com um nome de perfil.
+   * O módulo *create session* inicia uma sessêo de navegador com um nome de perfil.
    * O módulo *create window* abre uma janela com a URL desejada.
 
 4. **Acompanhamento em tempo real**
@@ -364,16 +364,16 @@ Hoje vamos aprender a automatizar a navegação na web diretamente pelo **N8N**,
    * **Type**: Digita em campos de busca ou formulários.
    * **Query**: Extrai informações visíveis na página.
    * **Load URL**: Redireciona para outras URLs se necessário.
-   * **End Session**: Finaliza a sessão para liberar recursos.
+   * **End Session**: Finaliza a sessêo para liberar recursos.
 
-6. **Simulação de cliques**
-   Realizada por meio de uma requisição HTTP direta para a API do Airtop.
+6. **Simulaçêo de cliques**
+   Realizada por meio de uma requisiçêo HTTP direta para a API do Airtop.
    Utiliza os parâmetros: `session_id`, `window_id` e `element_description` para cliques precisos.
 
 ⚠️ Recomendações
 
-* Na versão gratuita do Airtop, apenas **uma sessão ativa** é permitida por vez.
-* É **crucial encerrar cada sessão antes de iniciar outra**.
+* Na versêo gratuita do Airtop, apenas **uma sessêo ativa** é permitida por vez.
+* É **crucial encerrar cada sessêo antes de iniciar outra**.
 * Limite o número de iterações do agente (recomendado: **20**) para evitar loops infinitos e custos desnecessários.
 * O GPT-4.1 mini tem bom desempenho e velocidade; use o modelo completo caso o prompt seja mais complexo.
 
@@ -381,12 +381,12 @@ Hoje vamos aprender a automatizar a navegação na web diretamente pelo **N8N**,
 
 * Automatizar buscas complexas na web sem API disponível.
 * Preencher formulários automaticamente.
-* Simular compras ou navegação para testes.
+* Simular compras ou navegaçêo para testes.
 * Buscar e extrair dados em sites que bloqueiam scrapers tradicionais.
 
-✅ Conclusão
+✅ Conclusêo
 Com essa aula, você já pode montar seu próprio sistema tipo *Operator* da OpenAI usando Airtop e N8N, **sem custo mensal**.
-É ideal para tarefas rotineiras em sites onde não há uma API direta.
+É ideal para tarefas rotineiras em sites onde nêo há uma API direta.
 
 ------------------------------
 
@@ -408,7 +408,7 @@ Você conhece o *Operator* da OpenAI?
 Aquele brinquedinho de 200 €/mês que permite controlar o navegador com IA como se fosse mágica...
 💸 Pois agora você pode fazer o mesmo **GRÁTIS** e sem sair do **N8N**. 😎
 
-O que essa joia de automação faz?
+O que essa joia de automaçêo faz?
 💻 Controla o navegador como se fosse você:
 ✅ Abre sites
 ✅ Busca produtos

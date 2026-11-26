@@ -22,7 +22,7 @@ MENSAGEM 2
 Autor: INEMA
 Data: 2025-06-15T04:03:09+00:00
 Texto:
-Aqui está o **passo a passo completo** para automatizar um sistema de **dropshipping com prova virtual e coleta de imagens usando IA**, baseado na combinação de **n8n + Apify + Fal AI + Google Sheets**:
+Aqui está o **passo a passo completo** para automatizar um sistema de **dropshipping com prova virtual e coleta de imagens usando IA**, baseado na combinaçêo de **n8n + Apify + Fal AI + Google Sheets**:
 
 ---
 
@@ -66,7 +66,7 @@ Aqui está o **passo a passo completo** para automatizar um sistema de **dropshi
 **1.6 Enviar para Google Sheets**
 
 * Conecte com o Google Sheets
-* Operação: `Append Row`
+* Operaçêo: `Append Row`
 * Mapeie colunas: `imagem`, `título`, `preço`, `loja`, `URL`, `product_code` etc.
 * Use fórmula no Google Sheets:
   `=IMAGE(A2)` para visualizar a imagem.
@@ -109,7 +109,7 @@ Aqui está o **passo a passo completo** para automatizar um sistema de **dropshi
 
 **2.6 Atualizar planilha**
 
-* Operação: `Update Row`
+* Operaçêo: `Update Row`
 * Coluna de correspondência: `product_code`
 * Nova coluna: `try_on_image_url`
 * Use `=IMAGE(URL)` para mostrar a imagem final
@@ -129,7 +129,7 @@ Você terá uma planilha automatizada com:
 
 ### Ferramentas e APIs Necessárias
 
-* [n8n](https://n8n.io/) – automação
+* [n8n](https://n8n.io/) – automaçêo
 * [Apify](https://apify.com/) – scraper de produtos AliExpress
 * [Fal AI](https://fal.ai/) – prova virtual com IA
 * [Google Sheets API](https://console.cloud.google.com/) – planilha integrada
@@ -151,13 +151,13 @@ Data: 2025-06-15T03:59:59+00:00
 Texto:
 **Resumo do conteúdo sobre como usar IA no dropshipping com prova virtual e coleta de imagens:**
 
-Esse processo automatizado combina n8n, Apify e Fal AI para otimizar a operação de dropshipping com produtos de vestuário, dividindo-se em dois fluxos principais:
+Esse processo automatizado combina n8n, Apify e Fal AI para otimizar a operaçêo de dropshipping com produtos de vestuário, dividindo-se em dois fluxos principais:
 
 **1. Coleta de Imagens de Produtos:**
 
 * Utiliza Apify para buscar imagens de roupas no AliExpress.
-* As imagens e informações dos produtos (título, código, preço, loja, etc.) são extraídas via API.
-* Os dados são organizados automaticamente em uma planilha do Google Sheets.
+* As imagens e informações dos produtos (título, código, preço, loja, etc.) sêo extraídas via API.
+* Os dados sêo organizados automaticamente em uma planilha do Google Sheets.
 * Um tempo de espera é adicionado entre as etapas para evitar falhas.
 * As imagens aparecem na planilha com fórmulas do tipo `=image(URL)`.
 
@@ -167,14 +167,14 @@ Esse processo automatizado combina n8n, Apify e Fal AI para otimizar a operaçã
 * O sistema cruza duas imagens: a do modelo e a da roupa extraída.
 * A API retorna uma imagem do modelo vestindo a peça.
 * A imagem gerada é atualizada na mesma planilha na coluna correspondente.
-* Também há controle de status do processamento da imagem para garantir a execução correta.
+* Também há controle de status do processamento da imagem para garantir a execuçêo correta.
 
 **Resultados e Vantagens:**
 
 * Elimina a necessidade de contratar modelos humanos.
 * Reduz custo e tempo para testar produtos.
 * Gera imagens prontas para e-commerce com prova social virtual.
-* Permite integração direta com planilhas e escalabilidade com automações.
+* Permite integraçêo direta com planilhas e escalabilidade com automações.
 
 **Exemplo de uso prático:**
 Uma loja pode testar 50 camisetas diferentes com modelos IA em minutos, automatizando coleta e montagem visual para anúncios ou marketplace.
@@ -189,7 +189,7 @@ Como Usar IA para Dropshipping: Prova Virtual de Roupas e Coleta de Imagens!
 
 Um tutorial mostrando como automatizar o teste de produtos de vestuário com um sistema de Prova Virtual baseado em IA 
 
-Usando n8n, Apify e Fal AI, esse fluxo coleta imagens de produtos do AliExpress, aplica provas virtuais e organiza os dados de forma eficiente, economizando tempo e dinheiro com contratação de modelos.
+Usando n8n, Apify e Fal AI, esse fluxo coleta imagens de produtos do AliExpress, aplica provas virtuais e organiza os dados de forma eficiente, economizando tempo e dinheiro com contrataçêo de modelos.
 
 ------------------------------
 

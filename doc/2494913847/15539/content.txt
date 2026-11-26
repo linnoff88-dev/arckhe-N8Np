@@ -34,18 +34,18 @@ Autor: INEMA
 Data: 2025-11-05T07:18:50+00:00
 Texto:
 on-the-fly.
-* hack: gerar CSV via Blob no browser com um botão (sem passar por backend).
+* hack: gerar CSV via Blob no browser com um botêo (sem passar por backend).
 
 Exemplos rápidos (cola e usa)
 
-Exemplo 1 — prompt para normalização (cola no ChatGPT):
-Gere uma função JS para N8N que receba items (array de objetos) e:
+Exemplo 1 — prompt para normalizaçêo (cola no ChatGPT):
+Gere uma funçêo JS para N8N que receba items (array de objetos) e:
 
 1. converta todas keys de string trimmed,
 2. normalize acentos (NFD strip),
 3. parseie datas ISO para Date object,
 4. retorne items limpos.
-   Responda só com a função.
+   Responda só com a funçêo.
 
 Exemplo 2 — trecho Plotly (para incluir no HTML):
 var trace = { x: labels, y: values, type: 'bar', name: 'Chamadas' };
@@ -61,25 +61,25 @@ const agent = params.get('agent');
 Perguntas frequentes rápidas (com respostas)
 
 P: preciso saber programar para fazer isso?
-R: não. saber ajuda, mas com prompts corretos ao LLM consegues gerar os scripts e colar nos nós. Teste e ajuste mínimo serão necessários.
+R: nêo. saber ajuda, mas com prompts corretos ao LLM consegues gerar os scripts e colar nos nós. Teste e ajuste mínimo serêo necessários.
 
 P: meu Google Sheets é muito grande — vai travar?
-R: se tiver milhares de linhas, usa paginação, cache, ou consolidação em DB (Supabase) e agregue no backend antes de gerar o HTML.
+R: se tiver milhares de linhas, usa paginaçêo, cache, ou consolidaçêo em DB (Supabase) e agregue no backend antes de gerar o HTML.
 
 P: como atualizo o dashboard automaticamente?
 R: adiciona um nó Cron que atualize cache ou dispare o fluxo a cada X minutos. Ou usa triggers na origem para reprocessar.
 
 P: é seguro expor o webhook publicamente?
-R: protege com token (ex: ?token=XYZ) e valida no início; para dados sensíveis, sube autenticação adicional ou limita a rede.
+R: protege com token (ex: ?token=XYZ) e valida no início; para dados sensíveis, sube autenticaçêo adicional ou limita a rede.
 
 P: quero exportar imagem do gráfico para o cliente — como faço?
-R: Plotly tem função toImage; adiciona um botão que chama Plotly.toImage para PNG e faz download.
+R: Plotly tem funçêo toImage; adiciona um botêo que chama Plotly.toImage para PNG e faz download.
 
 P: posso usar outra lib além de Plotly?
 R: sim — Chart.js, ECharts, etc. Plotly é ótimo por interatividade pronta e export embutido.
 
 P: como alterar filtros/periodos depois?
-R: pede ao LLM a alteração do nó de consolidação (por ex.: “adicione 90 dias”) e cola o novo código. Rápido.
+R: pede ao LLM a alteraçêo do nó de consolidaçêo (por ex.: “adicione 90 dias”) e cola o novo código. Rápido.
 
 P: e se der erro no HTML gerado?
 R: ativa debug (webhook?debug=1), insere logs no HTML e pede ao LLM para corrigir o stacktrace; as correções costumam ser pequenas.
@@ -90,30 +90,30 @@ MENSAGEM 4
 Autor: INEMA
 Data: 2025-11-05T07:18:50+00:00
 Texto:
-Hacks práticos, diretos e aplicáveis para acelerar a criação do teu Dashboard sem Data Studio (N8N + Google Sheets + IA + Plotly). Primeiro os hacks, depois exemplos rápidos e perguntas+respostas no final.
+Hacks práticos, diretos e aplicáveis para acelerar a criaçêo do teu Dashboard sem Data Studio (N8N + Google Sheets + IA + Plotly). Primeiro os hacks, depois exemplos rápidos e perguntas+respostas no final.
 
 1. webhook como preview instantâneo
 
-* descrição: usa um webhook GET para retornar HTML direto. evita deploy e facilita testes.
+* descriçêo: usa um webhook GET para retornar HTML direto. evita deploy e facilita testes.
 * como: configurar webhook → captar dados → gerar HTML no nó de código → responder com content-type text/html.
 * hack extra: gera um parâmetro ?debug=1 para incluir logs reduzidos no HTML só quando necessário.
 
 2. dividir o fluxo em 3 nós de código claros
 
-* descrição: nó A = normalização; nó B = consolidação/KPIs; nó C = geração do HTML/plotly.
+* descriçêo: nó A = normalizaçêo; nó B = consolidaçêo/KPIs; nó C = geraçêo do HTML/plotly.
 * vantagem: facilita debug, reuso e pedir alterações ao LLM só em um nó.
 * hack extra: versiona cada nó colando um comentário com //v1.0 / //v1.1 para controle rápido.
 
 3. usar ChatGPT/Gemini como “pair programmer” com prompts mínimos
 
-* prompt padrão:
+* prompt padrêo:
   "Tenho esta entrada JSON (cola os 10 primeiros registros). Gera um script JavaScript para N8N que: 1) normaliza strings (remove acentos e chars estranhos), 2) converte datas ISO, 3) retorna arrays agrupados por agente e por período (dia/7/30/mês). Responde só com o código."
-* hack: solicitar apenas o bloco de função (sem wrappers) facilita colar direto no nó.
+* hack: solicitar apenas o bloco de funçêo (sem wrappers) facilita colar direto no nó.
 
-4. Plotly pronto para interação
+4. Plotly pronto para interaçêo
 
 * dica: sempre gerar traces com mode: 'lines+markers' para permitir zoom e hover.
-* hack: incluir botão de export (config export to png) no layout do Plotly para entregar imagem rapidamente ao cliente.
+* hack: incluir botêo de export (config export to png) no layout do Plotly para entregar imagem rapidamente ao cliente.
 
 5. filtros dinâmicos via query string
 
@@ -122,13 +122,13 @@ Hacks práticos, diretos e aplicáveis para acelerar a criação do teu Dashboar
 
 6. cache curto para evitar leituras pesadas
 
-* descrição: se o Sheets recebe muitas chamadas, armazena JSON no node “Set” com TTL (cron para refresh).
+* descriçêo: se o Sheets recebe muitas chamadas, armazena JSON no node “Set” com TTL (cron para refresh).
 * hack: implementa TTL de 5-15 minutos; em N8N usa um arquivo temporário ou uma tabela simples no Supabase.
 
-7. fallback e validação automática de dados
+7. fallback e validaçêo automática de dados
 
 * implementar checagens simples: campos obrigatórios, tipos e contagem mínima.
-* hack: quando validar falha, retornar HTML simples com mensagem e um botão “re-run” que chama o mesmo webhook com ?retry=1.
+* hack: quando validar falha, retornar HTML simples com mensagem e um botêo “re-run” que chama o mesmo webhook com ?retry=1.
 
 8. prompts para ajustes visuais rápidos
 
@@ -140,33 +140,33 @@ Hacks práticos, diretos e aplicáveis para acelerar a criação do teu Dashboar
 * quando precisa de hosting: usa o HTML gerado e salva como arquivo S3/Storage público; retorna link estático.
 * hack: automatiza upload ao Supabase Storage ou bucket S3 no final do fluxo e retorna o URL.
 
-10. logs de execução compactos no HTML (modo dev)
+10. logs de execuçêo compactos no HTML (modo dev)
 
-* inclui um painel oculto (display:none) com JSON de execução quando ?debug=1 — facilita rastrear erros sem acessar N8N.
+* inclui um painel oculto (display:none) com JSON de execuçêo quando ?debug=1 — facilita rastrear erros sem acessar N8N.
 
 11. tratar permissões e sensibilidade dos dados
 
 * se o dashboard tiver dados pessoais, redige um nó que anonimiza (hash email, mascarar CPF) antes de gerar o HTML.
-* hack: permite alternar entre view_full=true/false via query string para demo vs produção.
+* hack: permite alternar entre view_full=true/false via query string para demo vs produçêo.
 
-12. geração incremental de gráficos (paginação)
+12. geraçêo incremental de gráficos (paginaçêo)
 
 * para bases grandes, paginar agregações e carregar gráficos por demanda (lazy load) via fetch do próprio HTML apontando para sub-webhooks.
 * hack: permite carregar mapa/heatmap só quando o usuário clica, economizando CPU.
 
 13. snippets prontos para pedir ao LLM
 
-* pedir: "Gera função JS para agrupar por data (dia/7/30/mês) e retornar objeto {periodLabel:..., metrics:{calls,avgScore}}."
+* pedir: "Gera funçêo JS para agrupar por data (dia/7/30/mês) e retornar objeto {periodLabel:..., metrics:{calls,avgScore}}."
 * hack: salva esse prompt como template e cola quando for pedir mudanças.
 
 14. testes automatizados simples
 
 * criar um flow de teste com um Google Sheet de amostra e um cron que dispara o webhook e valida se o HTML contém os KPIs esperados (regex).
-* hack: configura isso em ambiente dev para evitar quebrar produção.
+* hack: configura isso em ambiente dev para evitar quebrar produçêo.
 
 15. UX rápido para cliente
 
-* incluir no HTML: topo com filtros, painel de KPIs resumidos (cards), e botão “baixar CSV” gerado
+* incluir no HTML: topo com filtros, painel de KPIs resumidos (cards), e botêo “baixar CSV” gerado
 
 ------------------------------
 
@@ -281,7 +281,7 @@ Texto:
 
 ---
 
-#### **8. (Opcional) Automatizar atualização**
+#### **8. (Opcional) Automatizar atualizaçêo**
 
 * Conecte o fluxo a um gatilho de tempo (ex: **Cron** no N8N).
 * Atualize automaticamente o dashboard diariamente ou a cada hora.
@@ -317,14 +317,14 @@ Passo a passo como criar um **dashboard interativo e profissional usando apenas 
 
 ---
 
-### **2. Estrutura da automação**
+### **2. Estrutura da automaçêo**
 
 O fluxo tem apenas **7 etapas principais**, todas dentro do N8N:
 
 1. **Webhook inicial**
 
    * Dispara o fluxo e exibe o resultado diretamente no navegador.
-   * Não há necessidade de hospedagem ou servidor.
+   * Nêo há necessidade de hospedagem ou servidor.
 
 2. **Leitura dos dados**
 
@@ -333,21 +333,21 @@ O fluxo tem apenas **7 etapas principais**, todas dentro do N8N:
 
 3. **Limpeza dos dados (nó de código 1)**
 
-   * Remove caracteres estranhos e padroniza os dados para evitar erros na visualização HTML.
+   * Remove caracteres estranhos e padroniza os dados para evitar erros na visualizaçêo HTML.
    * Código gerado automaticamente com ChatGPT.
 
-4. **Consolidação das métricas (nó de código 2)**
+4. **Consolidaçêo das métricas (nó de código 2)**
 
    * Agrupa e calcula **KPIs diários, semanais, mensais, por agente e por canal**.
-   * Os filtros (7, 30, 60 dias, mês atual, etc.) também são definidos nesta etapa.
+   * Os filtros (7, 30, 60 dias, mês atual, etc.) também sêo definidos nesta etapa.
    * O código é totalmente criado pela IA conforme as instruções do usuário.
 
-5. **Geração do HTML (nó de código 3)**
+5. **Geraçêo do HTML (nó de código 3)**
 
    * ChatGPT gera o código HTML usando **Plotly**, biblioteca de gráficos interativos.
    * É possível incluir gráficos de barras, linhas, pizza, mapas de calor e outros.
 
-6. **Renderização do HTML**
+6. **Renderizaçêo do HTML**
 
    * O HTML é exibido diretamente no navegador via N8N.
    * O módulo “HTML Template” é usado para mostrar o conteúdo visualmente.
@@ -365,7 +365,7 @@ O dashboard resultante permite:
 * Filtros por agente, data ou canal.
 * KPIs diários, semanais, mensais e personalizados.
 * Zoom e captura de gráficos interativos via Plotly.
-* Atualização automática a cada execução.
+* Atualizaçêo automática a cada execuçêo.
 
 O criador demonstra adicionar novos filtros (como “últimos 60 dias”) em poucos segundos apenas pedindo à IA para ajustar o código.
 
@@ -373,16 +373,16 @@ O criador demonstra adicionar novos filtros (como “últimos 60 dias”) em pou
 
 ### **4. Aprendizados e dicas**
 
-* **Não é necessário saber programar.**
+* **Nêo é necessário saber programar.**
   Tudo pode ser feito com prompts claros à IA.
 * **Plotly** é essencial para gráficos interativos e responsivos.
-* **Mantenha o fluxo modularizado** (limpeza, consolidação, visualização).
+* **Mantenha o fluxo modularizado** (limpeza, consolidaçêo, visualizaçêo).
 * Teste o HTML dentro do próprio N8N antes de publicar.
 * É possível personalizar cores, tipos de gráfico e estilos apenas conversando com a IA.
 
 ---
 
-### **5. Aplicação prática**
+### **5. Aplicaçêo prática**
 
 O método é ideal para:
 
@@ -392,7 +392,7 @@ O método é ideal para:
 
 ---
 
-### **6. Conclusão**
+### **6. Conclusêo**
 
 Em menos de **30 minutos**, é possível montar um dashboard completo, funcional e esteticamente profissional apenas com **N8N + Google Sheets + ChatGPT**, economizando tempo e eliminando complexidades de ferramentas tradicionais.
 
@@ -415,19 +415,19 @@ Texto:
 Você vai aprender a criar um dashboard totalmente personalizado em HTML, com filtros interativos e visualizações avançadas, usando apenas N8N, Google Sheets e ChatGPT (ou qualquer outro LLM).
 Sem depender de ferramentas pesadas como Data Studio ou Power BI, será possível construir visualizações profissionais em poucos minutos.
 
-🛠️ O que conseguimos com essa automação:
+🛠️ O que conseguimos com essa automaçêo:
 
 * Criar dashboards dinâmicos e responsivos sem precisar fazer deploy em servidores.
 * Visualizar KPIs diários, semanais, mensais e personalizados.
-* Filtrar por agentes, datas e qualquer dimensão relevante.
-* Acessar gráficos interativos que se atualizam a cada execução.
+* Filtrar por agentes, datas e qualquer dimensêo relevante.
+* Acessar gráficos interativos que se atualizam a cada execuçêo.
 * Economizar tempo e evitar complexidades técnicas usando prompts de IA.
 
 🧩 Estrutura do fluxo automatizado:
 
 1. **Disparo do fluxo via Webhook no N8N**
 
-   * É ativado por uma URL e devolve uma visualização diretamente no navegador.
+   * É ativado por uma URL e devolve uma visualizaçêo diretamente no navegador.
 
 2. **Leitura da base de dados (Google Sheets)**
 
@@ -435,13 +435,13 @@ Sem depender de ferramentas pesadas como Data Studio ou Power BI, será possíve
 
 3. **Limpeza de dados (nó de código 1)**
 
-   * Os dados são normalizados para evitar erros na visualização HTML.
+   * Os dados sêo normalizados para evitar erros na visualizaçêo HTML.
 
-4. **Consolidação de métricas (nó de código 2)**
+4. **Consolidaçêo de métricas (nó de código 2)**
 
-   * Os dados são estruturados para gerar KPIs por agente, por período (dia, semana, mês) e por resultados.
+   * Os dados sêo estruturados para gerar KPIs por agente, por período (dia, semana, mês) e por resultados.
 
-5. **Geração do HTML (nó de código 3)**
+5. **Geraçêo do HTML (nó de código 3)**
 
    * Cria-se um HTML usando Plotly com os gráficos desejados — interativos e esteticamente agradáveis.
 
@@ -451,18 +451,18 @@ Sem depender de ferramentas pesadas como Data Studio ou Power BI, será possíve
 
 🧰 Ferramentas utilizadas:
 
-* **N8N**: núcleo de toda a automação.
+* **N8N**: núcleo de toda a automaçêo.
 * **Google Sheets**: base de dados principal.
 * **ChatGPT / Gemini / Claude**: para gerar e ajustar códigos JavaScript e HTML.
 * **Plotly**: biblioteca para gráficos interativos em HTML.
 
 🧠 Dicas-chave que aprendemos:
 
-* Você não precisa saber programar: tudo pode ser gerado conversando com a IA.
-* Use o Plotly para dashboards poderosos e prontos para zoom, exploração e exportação.
-* Mantenha os nós modularizados: limpeza, consolidação e visualização separados.
+* Você nêo precisa saber programar: tudo pode ser gerado conversando com a IA.
+* Use o Plotly para dashboards poderosos e prontos para zoom, exploraçêo e exportaçêo.
+* Mantenha os nós modularizados: limpeza, consolidaçêo e visualizaçêo separados.
 * Sempre valide o HTML diretamente no módulo do N8N antes de responder.
-* Adicionar filtros (30, 60, 90 dias) é tão simples quanto pedir à IA o ajuste e colar o código atualizado.
+* Adicionar filtros (30, 60, 90 dias) é têo simples quanto pedir à IA o ajuste e colar o código atualizado.
 
 📦 Recursos:
 
@@ -489,7 +489,7 @@ Dashboards PRO no N8N
 Direto , sem complicações... mas que muda sua vida se você trabalha com dados, KPIs ou relatórios para clientes.
 
 🎯 O objetivo?
-Montar dashboards incríveis, 100% personalizados, com filtros dinâmicos, gráficos interativos e atualização em tempo real…
+Montar dashboards incríveis, 100% personalizados, com filtros dinâmicos, gráficos interativos e atualizaçêo em tempo real…
 👉 Sem Power BI. Sem Data Studio. Sem desenvolvimentos complexos.
 
 Literalmente, você só precisa de:
@@ -506,19 +506,19 @@ Literalmente, você só precisa de:
 ✅ E o melhor: sem precisar fazer deploy! Ele é exibido diretamente no navegador
 
 Sim, sim… o dashboard é gerado instantaneamente com um clique.
-Não precisa de hospedagem, nem saber programar.
+Nêo precisa de hospedagem, nem saber programar.
 Basta conversar com a IA e copiar-colar. Literalmente.
 
 📌 Você verá como:
 
-* Os dados são limpos e consolidados automaticamente
-* São criados nós de código que agrupam e filtram por qualquer critério
+* Os dados sêo limpos e consolidados automaticamente
+* Sêo criados nós de código que agrupam e filtram por qualquer critério
 * É gerado um HTML visualizável diretamente a partir do Webhook
 * É possível adicionar novos filtros ou gráficos em tempo real apenas pedindo ao ChatGPT
 
 Você pode aplicar isso se for uma agência, SaaS, consultor, instrutor, trabalhar com equipe de vendas ou simplesmente quiser impressionar seu cliente com um relatório que ele realmente entenda e o impacte.
 
-Isso já não é mais sobre automatizar.
+Isso já nêo é mais sobre automatizar.
 É sobre construir produtos que entregam valor real aos seus clientes… sem precisar programar.
 
 ------------------------------

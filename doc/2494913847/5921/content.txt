@@ -45,7 +45,7 @@ MENSAGEM 5
 Autor: INEMA
 Data: 2025-04-18T05:07:22+00:00
 Texto:
-ad2 - Projeto - Wireframe  compilação de cliente
+ad2 - Projeto - Wireframe  compilaçêo de cliente
 
 ------------------------------
 

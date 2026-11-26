@@ -13,7 +13,7 @@ MENSAGEM 1
 Autor: INEMA
 Data: 2025-11-06T02:16:28+00:00
 Texto:
-**Versão final aprimorada** do prompt, já **otimizada para vídeo 16:9 realista**, com instruções detalhadas de **emoção facial, olhar, gestos e atmosfera cinematográfica**, mantendo o texto falado e exibido em **português**.
+**Versêo final aprimorada** do prompt, já **otimizada para vídeo 16:9 realista**, com instruções detalhadas de **emoçêo facial, olhar, gestos e atmosfera cinematográfica**, mantendo o texto falado e exibido em **português**.
 
 ---
 
@@ -55,12 +55,12 @@ Final scene: the INEMA.VIP logo fades in softly with a brief sparkle effect whil
 
 ---
 
-### **Características desta versão**
+### **Características desta versêo**
 
 * **16:9 cinematic framing**
-* **Expressões realistas:** foco → sorriso leve → confiança → emoção
+* **Expressões realistas:** foco → sorriso leve → confiança → emoçêo
 * **Luz natural e atmosfera de descoberta**
-* **Tom inspirador e humano** (ideal para campanhas de educação, IA e comunidade)
+* **Tom inspirador e humano** (ideal para campanhas de educaçêo, IA e comunidade)
 * **Português preservado** nas falas e legendas
 
 ---
@@ -79,7 +79,7 @@ MENSAGEM 3
 Autor: INEMA
 Data: 2025-11-06T02:15:27+00:00
 Texto:
-Se você quer que **apenas a fala e o texto visível no vídeo (legenda e slogan)** apareçam em **português**, mas o restante da descrição técnica continue em inglês (para manter compatibilidade com geradores de vídeo), a forma correta é a seguinte:
+Se você quer que **apenas a fala e o texto visível no vídeo (legenda e slogan)** apareçam em **português**, mas o restante da descriçêo técnica continue em inglês (para manter compatibilidade com geradores de vídeo), a forma correta é a seguinte:
 
 ---
 
@@ -112,8 +112,8 @@ Final scene: camera slowly moves closer to her face while the INEMA.VIP logo fad
 ### **Por que essa estrutura funciona**
 
 1. **Cenas e comandos** → em inglês → interpretados corretamente pelo modelo.
-2. **Fala e texto exibido** → em português → preserva idioma original na narração e legenda.
-3. **Tags “SPOKEN_DIALOGUE” e “ON-SCREEN_TEXT”** → instruem o gerador a **não traduzir** esses trechos.
+2. **Fala e texto exibido** → em português → preserva idioma original na narraçêo e legenda.
+3. **Tags “SPOKEN_DIALOGUE” e “ON-SCREEN_TEXT”** → instruem o gerador a **nêo traduzir** esses trechos.
 
 ------------------------------
 

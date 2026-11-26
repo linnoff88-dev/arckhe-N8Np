@@ -27,7 +27,7 @@ Dicas
 ---
 
 ### 1. **Use IA de forma estratégica para economizar**
-- **Dica:** Não use sempre o mesmo modelo. Tarefas simples não precisam de modelos caros.
+- **Dica:** Nêo use sempre o mesmo modelo. Tarefas simples nêo precisam de modelos caros.
 - **Exemplo:** Use *Gemini Flash* para respostas curtas ou piadas. Use *Claude Sonnet* ou *GPT-4 Mini* apenas quando necessário.
 
 ---
@@ -38,7 +38,7 @@ Dicas
 
 ---
 
-### 3. **Integre Slack ou outro mensageiro para comunicação natural**
+### 3. **Integre Slack ou outro mensageiro para comunicaçêo natural**
 - **Dica:** Use Slack (ou Telegram) como interface de entrada e saída para falar com seus agentes.
 - **Exemplo:** Digite “crie um evento de almoço às 13h” e receba o evento criado automaticamente no Slack.
 
@@ -52,7 +52,7 @@ Dicas
 
 ### 5. **Automatize respostas com memória e logs**
 - **Dica:** Grave os inputs, outputs e modelos usados em um Google Sheet ou banco de dados.
-- **Exemplo:** Isso permite analisar padrões e melhorar os prompts ou lógica de decisão.
+- **Exemplo:** Isso permite analisar padrões e melhorar os prompts ou lógica de decisêo.
 
 ---
 
@@ -74,9 +74,9 @@ Dicas
 
 ---
 
-### 9. **Evite a função “****/auto****” do OpenRouter**
-- **Dica:** Ela escolhe sozinha, mas não permite controle ou estratégia de custo/desempenho.
-- **Exemplo:** Prefira sua própria lógica de seleção baseada no tipo de tarefa.
+### 9. **Evite a funçêo “****/auto****” do OpenRouter**
+- **Dica:** Ela escolhe sozinha, mas nêo permite controle ou estratégia de custo/desempenho.
+- **Exemplo:** Prefira sua própria lógica de seleçêo baseada no tipo de tarefa.
 
 ---
 
@@ -134,7 +134,7 @@ Aqui está o **passo a passo direto** para criar o sistema onde o agente de IA e
 
 ### 5**. (Opcional) Logar tudo no Google Sheets ou Supabase
 **- Crie uma planilha com colunas: input, output, modelo, data/hora.
-- Use os nós correspondentes para gravar os dados após cada execução.
+- Use os nós correspondentes para gravar os dados após cada execuçêo.
 
 ---
 
@@ -177,8 +177,8 @@ Um **sistema de agentes de IA integrados ao n8n** que escolhem **dinamicamente o
    - Analisa o texto enviado.
    - Escolhe o modelo ideal entre os disponíveis no **OpenRouter** com base na tarefa.
    - Modelos usados: Gemini 2.0 Flash (leve e grátis), GPT-4.1 Mini, Claude 3.7 Sonnet, OpenAI 01 (raciocínio).
-3. **Execução pelo Agente Principal**:
-   - Usa o modelo escolhido para responder à solicitação (como piadas, eventos no calendário, pesquisas complexas).
+3. **Execuçêo pelo Agente Principal**:
+   - Usa o modelo escolhido para responder à solicitaçêo (como piadas, eventos no calendário, pesquisas complexas).
    - Responde no Slack e **registra entrada, saída e modelo utilizado**.
 4. **Aplicações mostradas**:
    - Criar eventos no calendário.
@@ -186,10 +186,10 @@ Um **sistema de agentes de IA integrados ao n8n** que escolhem **dinamicamente o
    - Consultar políticas em uma base RAG no Supabase (FAQ e políticas de empresa).
 5. **Controle de custos**:
    - Evita uso de modelos caros para tarefas simples.
-   - Visualização de logs e custos no OpenRouter.
+   - Visualizaçêo de logs e custos no OpenRouter.
 
 ### Ferramentas utilizadas:
-- **n8n** para automação do fluxo.
+- **n8n** para automaçêo do fluxo.
 - **Slack** como interface de entrada e resposta.
 - **OpenRouter** para roteamento inteligente entre mais de 300 modelos.
 - **Supabase** como base vetorial para RAG.
@@ -197,13 +197,13 @@ Um **sistema de agentes de IA integrados ao n8n** que escolhem **dinamicamente o
 - **Google Sheets** para log dos dados.
 
 ### Benefícios:
-- **Redução drástica de custos com tokens.**
+- **Reduçêo drástica de custos com tokens.**
 - **Escolha automática do melhor modelo.**
 - **Sistema adaptável e eficiente.**
 
 ### Extras:
 - Oferece o fluxo JSON para download.
-- Demonstra o uso de ferramentas de comparação como **Vellum** e **LLM Arena** para avaliar modelos LLM.
+- Demonstra o uso de ferramentas de comparaçêo como **Vellum** e **LLM Arena** para avaliar modelos LLM.
 
 ------------------------------
 

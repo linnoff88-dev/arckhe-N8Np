@@ -13,7 +13,7 @@ MENSAGEM 1
 Autor: Marcos
 Data: 2025-04-10T17:20:07+00:00
 Texto:
-http://anynocode.com link não abre
+http://anynocode.com link nêo abre
 Midia: MessageMediaWebPage
 
 ------------------------------
@@ -47,7 +47,7 @@ MENSAGEM 5
 Autor: INEMA
 Data: 2025-04-09T04:56:53+00:00
 Texto:
-### **🔁 FLUXO 1 – Criação automática do vídeo faceless**
+### **🔁 FLUXO 1 – Criaçêo automática do vídeo faceless**
 
 **1. Definir parâmetros iniciais**
 - Criar uma planilha no Google Sheets com colunas: título, status, legenda, link etc.
@@ -58,12 +58,12 @@ Texto:
 - Enviar prompt com categoria do vídeo (ex: “história de animais”).
 - Receber texto de até 30 segundos com tom de storytelling.
 
-**3. Criar narração com ElevenLabs**
+**3. Criar narraçêo com ElevenLabs**
 - Escolher voz (ex: Adam Stone).
 - Gerar o áudio com base no roteiro.
 - Salvar o áudio no bucket do Google Cloud.
 
-**4. Transcrição com Whisper (OpenAI)**
+**4. Transcriçêo com Whisper (OpenAI)**
 - Obter o tempo de início/fim de cada palavra no áudio.
 - Usado para sincronizar texto e imagem depois.
 
@@ -86,7 +86,7 @@ Texto:
 ### **📤 FLUXO 2 – Upload automático para o YouTube**
 
 **1. Checar status "pending" na planilha**
-- Verifica os vídeos prontos que ainda não foram postados.
+- Verifica os vídeos prontos que ainda nêo foram postados.
 
 **2. Fazer o upload do vídeo**
 - Baixar o vídeo do Google Cloud.
@@ -125,18 +125,18 @@ Criar vídeos estilo *YouTube Shorts* sem precisar aparecer ou programar, usando
 ---
 
 ### **Ferramentas utilizadas:**
-- **DeepSeek AI** (para criação do roteiro)
+- **DeepSeek AI** (para criaçêo do roteiro)
 - **ElevenLabs** (voz artificial)
-- **Flux AI** (geração de imagens)
-- **OpenAI Whisper** (transcrição de áudio)
-- **Together AI** (apoio na geração de imagens)
+- **Flux AI** (geraçêo de imagens)
+- **OpenAI Whisper** (transcriçêo de áudio)
+- **Together AI** (apoio na geraçêo de imagens)
 - **Google Cloud Storage** (armazenamento de mídia)
 - **Google Sheets** (controle dos dados)
-- **anynocode.com** (integração de APIs e orquestração do processo)
+- **anynocode.com** (integraçêo de APIs e orquestraçêo do processo)
 
 ---
 
-### **Workflow 1: Criação do vídeo**
+### **Workflow 1: Criaçêo do vídeo**
 
 1. **Definir a categoria e nome do bucket no Google Cloud**  
    Exemplo: categoria "animal story", bucket “n-and-hien-video”.
@@ -144,19 +144,19 @@ Criar vídeos estilo *YouTube Shorts* sem precisar aparecer ou programar, usando
 2. **Gerar o roteiro com DeepSeek AI**  
    Prompt converte a categoria em uma história curta de até 30 segundos.
 
-3. **Gerar a narração com ElevenLabs**  
+3. **Gerar a narraçêo com ElevenLabs**  
    Seleciona uma voz, como “Adam Stone”, e cria o áudio.
 
-4. **Transcrição com Whisper da OpenAI**  
-   Divide o áudio em blocos de palavras com marcação de tempo (início/fim).
+4. **Transcriçêo com Whisper da OpenAI**  
+   Divide o áudio em blocos de palavras com marcaçêo de tempo (início/fim).
 
 5. **Criar prompts de imagem com base no roteiro**  
-   Cada trecho de 6 segundos vira uma descrição para gerar imagens com o Flux AI.
+   Cada trecho de 6 segundos vira uma descriçêo para gerar imagens com o Flux AI.
 
 6. **Gerar imagens com Together AI**  
    Cada imagem é salva e indexada no bucket da Google Cloud.
 
-7. **Combinar imagens, narração e música de fundo**  
+7. **Combinar imagens, narraçêo e música de fundo**  
    Música exemplo: "bg.mp3" também salva no bucket.
 
 8. **Criar o vídeo final com a API do anynocode**  
@@ -176,14 +176,14 @@ Criar vídeos estilo *YouTube Shorts* sem precisar aparecer ou programar, usando
 2. **Baixa o vídeo gerado**
 3. **Conecta à API do YouTube**
 4. **Faz o upload com título, categoria e legenda**
-5. **Atualiza a planilha com status “posted” e data/hora de publicação**
+5. **Atualiza a planilha com status “posted” e data/hora de publicaçêo**
 
 ---
 
-### **Configuração necessária:**
+### **Configuraçêo necessária:**
 - Criar e inserir chaves de API das ferramentas mencionadas.
 - Permissões e configurações nos serviços do Google (Cloud, YouTube API v3).
-- Configuração do bucket com acesso público.
+- Configuraçêo do bucket com acesso público.
 
 ---
 
@@ -210,11 +210,11 @@ MENSAGEM 9
 Autor: INEMA
 Data: 2025-04-09T04:53:51+00:00
 Texto:
-Ensina como criar vídeos curtos para o YouTube (estilo *faceless*, ou seja, sem mostrar o rosto) de forma totalmente automatizada e sem precisar programar. Utilizando uma combinação de ferramentas de inteligência artificial como DeepSeek AI, ElevenLabs, Flux AI e Google Cloud, o criador mostra como gerar histórias, transformar esses textos em áudio, criar imagens ilustrativas e unir tudo em um vídeo, usando um fluxo organizado com integrações entre as plataformas.
+Ensina como criar vídeos curtos para o YouTube (estilo *faceless*, ou seja, sem mostrar o rosto) de forma totalmente automatizada e sem precisar programar. Utilizando uma combinaçêo de ferramentas de inteligência artificial como DeepSeek AI, ElevenLabs, Flux AI e Google Cloud, o criador mostra como gerar histórias, transformar esses textos em áudio, criar imagens ilustrativas e unir tudo em um vídeo, usando um fluxo organizado com integrações entre as plataformas.
 
-O processo é dividido em dois fluxos de trabalho principais: o primeiro cria o vídeo automaticamente, a partir de uma história gerada por IA, transformada em narração e imagens, e finalizada com música de fundo. Todo esse conteúdo é armazenado em um bucket do Google Cloud e registrado em uma planilha do Google Sheets, que serve de painel de controle para o processo. O segundo fluxo cuida do upload automático do vídeo no YouTube, atualizando o status e os detalhes do vídeo diretamente na planilha.
+O processo é dividido em dois fluxos de trabalho principais: o primeiro cria o vídeo automaticamente, a partir de uma história gerada por IA, transformada em narraçêo e imagens, e finalizada com música de fundo. Todo esse conteúdo é armazenado em um bucket do Google Cloud e registrado em uma planilha do Google Sheets, que serve de painel de controle para o processo. O segundo fluxo cuida do upload automático do vídeo no YouTube, atualizando o status e os detalhes do vídeo diretamente na planilha.
 
-Além de mostrar como usar essas ferramentas, o tutorial detalha a configuração das APIs, credenciais e prompts usados em cada etapa. A proposta é permitir que qualquer pessoa crie vídeos curtos e envolventes com narrativas personalizadas, sem precisar aparecer ou dominar programação, ideal para canais de YouTube automatizados ou conteúdos educativos, motivacionais e infantis.
+Além de mostrar como usar essas ferramentas, o tutorial detalha a configuraçêo das APIs, credenciais e prompts usados em cada etapa. A proposta é permitir que qualquer pessoa crie vídeos curtos e envolventes com narrativas personalizadas, sem precisar aparecer ou dominar programaçêo, ideal para canais de YouTube automatizados ou conteúdos educativos, motivacionais e infantis.
 
 ------------------------------
 
@@ -227,9 +227,9 @@ Texto:
 
 ---
 
-### Fluxo 1 – Criação automática do vídeo:
+### Fluxo 1 – Criaçêo automática do vídeo:
 1. **Gera roteiro** com DeepSeek AI (histórias curtas).
-2. **Cria narração** com voz artificial via ElevenLabs.
+2. **Cria narraçêo** com voz artificial via ElevenLabs.
 3. **Gera imagens** com prompts no Flux AI.
 4. **Une áudio, imagens e música** (Google Cloud + anynocode API).
 5. **Salva tudo** no Google Sheets (título, link, status, legenda).
@@ -239,7 +239,7 @@ Texto:
 ### Fluxo 2 – Upload automático no YouTube:
 1. Verifica vídeos com status "pending" na planilha.
 2. Baixa o vídeo e **faz upload no canal**.
-3. Atualiza a planilha com status “posted” e **data/hora da publicação**.
+3. Atualiza a planilha com status “posted” e **data/hora da publicaçêo**.
 
 ------------------------------
 

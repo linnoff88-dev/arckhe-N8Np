@@ -26,7 +26,7 @@ Abaixo está o **passo a passo completo** para criar um agente de IA que gera e 
 
 ---
 
-### **PASSO 1 – Configuração das Contas e APIs**
+### **PASSO 1 – Configuraçêo das Contas e APIs**
 
 1. **Exa.ai**:
 
@@ -46,7 +46,7 @@ Abaixo está o **passo a passo completo** para criar um agente de IA que gera e 
 4. **ScreenshotOne**:
 
    * Crie conta e gere a **API Key**.
-   * Usado para transformar links HTML em imagens JPEG para publicação no Instagram.
+   * Usado para transformar links HTML em imagens JPEG para publicaçêo no Instagram.
 
 5. **Google Cloud Storage**:
 
@@ -148,9 +148,9 @@ Abaixo está o **passo a passo completo** para criar um agente de IA que gera e 
 * inteligência artificial
 * blockchain
 * saúde digital
-* motivação
+* motivaçêo
 * produtividade
-* inovação
+* inovaçêo
 * futuro do trabalho
 Midia: MessageMediaWebPage
 
@@ -160,28 +160,28 @@ MENSAGEM 3
 Autor: INEMA
 Data: 2025-06-15T04:22:58+00:00
 Texto:
-Foi criado um sistema automatizado que gera e publica postagens de imagem no Instagram com ajuda de inteligência artificial, sem a necessidade de programação. O processo envolve:
+Foi criado um sistema automatizado que gera e publica postagens de imagem no Instagram com ajuda de inteligência artificial, sem a necessidade de programaçêo. O processo envolve:
 
 1. **Coleta de Notícias**: Utiliza a API da Exa.ai para buscar notícias recentes com base em palavras-chave como "robótica", "blockchain" etc.
 
-2. **Geração de Conteúdo e Imagem**:
+2. **Geraçêo de Conteúdo e Imagem**:
 
    * O texto das notícias é reescrito em formato de legenda usando o Deepseek AI.
    * Um prompt visual é criado a partir da legenda e transformado em imagem com o modelo Flux da Together AI.
-   * O texto e a imagem são preparados para o Instagram (título limitado a 8 palavras e imagem no estilo escolhido).
+   * O texto e a imagem sêo preparados para o Instagram (título limitado a 8 palavras e imagem no estilo escolhido).
 
-3. **Conversão e Armazenamento**:
+3. **Conversêo e Armazenamento**:
 
    * A imagem é convertida para formato JPEG com a ScreenshotOne.
-   * Ambas as imagens (original e da captura de tela) e os textos são armazenados no Google Cloud Storage.
-   * Os dados (links, status, datas) são organizados em uma planilha do Google Sheets.
+   * Ambas as imagens (original e da captura de tela) e os textos sêo armazenados no Google Cloud Storage.
+   * Os dados (links, status, datas) sêo organizados em uma planilha do Google Sheets.
 
-4. **Publicação no Instagram**:
+4. **Publicaçêo no Instagram**:
 
-   * A automação obtém os dados da planilha.
-   * Usa APIs do Facebook e Instagram para autenticação e envio do post.
-   * O sistema gerencia automaticamente os tokens de autenticação com Redis.
-   * Após a publicação, a planilha é atualizada com o status “Publicado”.
+   * A automaçêo obtém os dados da planilha.
+   * Usa APIs do Facebook e Instagram para autenticaçêo e envio do post.
+   * O sistema gerencia automaticamente os tokens de autenticaçêo com Redis.
+   * Após a publicaçêo, a planilha é atualizada com o status “Publicado”.
 
 5. **Template Motivacional (extra)**:
 
@@ -190,13 +190,13 @@ Foi criado um sistema automatizado que gera e publica postagens de imagem no Ins
 
 Ferramentas utilizadas:
 
-* **n8n**: automação de fluxo
+* **n8n**: automaçêo de fluxo
 * **Exa.ai**: busca de notícias
 * **Deepseek AI**: reescrita de texto
-* **Flux / Together AI**: geração de imagem
+* **Flux / Together AI**: geraçêo de imagem
 * **ScreenshotOne**: captura de tela em JPEG
 * **Google Sheets** e **Google Cloud**: armazenamento
-* **APIs do Facebook e Instagram**: publicação automatizada
+* **APIs do Facebook e Instagram**: publicaçêo automatizada
 
 Esse sistema permite gerar postagens visuais e legendas baseadas em temas atuais, com diferentes estilos, mantendo o feed do Instagram sempre ativo e atrativo.
 
@@ -208,7 +208,7 @@ Data: 2025-06-15T04:20:52+00:00
 Texto:
 Um Agente de IA para Gerar Postagens Ilimitadas de Imagens no Instagram Automaticamente
 
-Como automatizar a criação de postagens de imagem no Instagram com IA usando n8n, Exa.ai, Deepseek AI, Flux e ScreenshotOne — sem precisar programar! 
+Como automatizar a criaçêo de postagens de imagem no Instagram com IA usando n8n, Exa.ai, Deepseek AI, Flux e ScreenshotOne — sem precisar programar! 
 
 Esse sistema com inteligência artificial busca notícias, gera legendas e imagens, e publica postagens de forma dinâmica, mantendo seu feed do Instagram sempre atualizado e envolvente com facilidade.
 

@@ -13,7 +13,7 @@ MENSAGEM 1
 Autor: Leandro
 Data: 2025-07-13T02:24:22+00:00
 Texto:
-Crie uma app no LinkedIn e a API oficial não permite raspagem
+Crie uma app no LinkedIn e a API oficial nêo permite raspagem
 
 ------------------------------
 
@@ -37,7 +37,7 @@ MENSAGEM 4
 Autor: Leandro
 Data: 2025-07-13T02:22:12+00:00
 Texto:
-Showww muito obrigado gratidão 🙏🏻
+Showww muito obrigado gratidêo 🙏🏻
 
 ------------------------------
 
@@ -70,33 +70,33 @@ MENSAGEM 8
 Autor: INEMA
 Data: 2025-07-13T02:19:34+00:00
 Texto:
-Aqui estão as automações de raspagem relacionadas ao LinkedIn disponíveis:
+Aqui estêo as automações de raspagem relacionadas ao LinkedIn disponíveis:
 
 1. LinkedIn Leads Scraping & Enrichment
-- Automatiza extração e enriquecimento de leads do LinkedIn com [Apollo.io](https://apollo.io/), validação de emails e armazenamento em Google Sheets.
+- Automatiza extraçêo e enriquecimento de leads do LinkedIn com [Apollo.io](https://apollo.io/), validaçêo de emails e armazenamento em Google Sheets.
 - Link: [https://drive.google.com/file/d/1uT5YOODGOkQGJsy0Es1-YZudqgxN81Bh/view](https://drive.google.com/file/d/1uT5YOODGOkQGJsy0Es1-YZudqgxN81Bh/view)
 
 2. LinkedIn Job Data Scraper to Google Sheets
 - Coleta vagas do LinkedIn via Bright Data e envia para Google Sheets.
 - Link: [https://drive.google.com/file/d/1jqUFJaXG1KI9VA670gxgrQZGKqRgEjhV/view](https://drive.google.com/file/d/1jqUFJaXG1KI9VA670gxgrQZGKqRgEjhV/view)
 
-3. Automação de Busca e Envio de Vagas e Currículos
+3. Automaçêo de Busca e Envio de Vagas e Currículos
 - Busca vagas e perfis no LinkedIn, gera currículos e envia candidaturas automaticamente.
 - Link: [https://drive.google.com/file/d/14Z_qS5k9CfOAMa2DvKK3hmigsDAz5fDA/view](https://drive.google.com/file/d/14Z_qS5k9CfOAMa2DvKK3hmigsDAz5fDA/view)
 
 4. LinkedIn Enrichment & Ice Breaker Generator
-- Enriquecimento de perfis e geração de mensagens personalizadas com IA.
+- Enriquecimento de perfis e geraçêo de mensagens personalizadas com IA.
 - Link: [https://drive.google.com/file/d/1Ai0vcATidOIelNMQ1jnzCGZY0B62VLgj/view](https://drive.google.com/file/d/1Ai0vcATidOIelNMQ1jnzCGZY0B62VLgj/view)
 
 5. Coletor simples de perfis LinkedIn
-- Busca perfis por palavras-chave e localização via Google Search, salva em Excel e NocoDB.
+- Busca perfis por palavras-chave e localizaçêo via Google Search, salva em Excel e NocoDB.
 - Link: [https://drive.google.com/file/d/1UZO4PrpIcGo9LbyoWQfajM0ZjsFy4983/view](https://drive.google.com/file/d/1UZO4PrpIcGo9LbyoWQfajM0ZjsFy4983/view)
 
 6. LinkedIn Scraping via Bright Data e Google Gemini
-- Extração automatizada de perfis e empresas com processamento e armazenamento local.
+- Extraçêo automatizada de perfis e empresas com processamento e armazenamento local.
 - Link: [https://drive.google.com/file/d/1-tYlcWEhnsHdIrRT4ZyzqYqCFPPCj8w4/view](https://drive.google.com/file/d/1-tYlcWEhnsHdIrRT4ZyzqYqCFPPCj8w4/view)
 
-Posso ajudar com mais detalhes ou na configuração de algum desses fluxos.
+Posso ajudar com mais detalhes ou na configuraçêo de algum desses fluxos.
 Midia: MessageMediaWebPage
 
 ------------------------------
@@ -121,7 +121,7 @@ MENSAGEM 11
 Autor: Leandro
 Data: 2025-07-13T02:15:22+00:00
 Texto:
-@INEMAtds obg já tinha descoberto porém ele não puxa o numero do telefone do perfil ?
+@INEMAtds obg já tinha descoberto porém ele nêo puxa o numero do telefone do perfil ?
 
 ------------------------------
 
@@ -203,62 +203,62 @@ Basta baixar, conectar e rodar o fluxo para começar a raspar tweets.
 ### Passo 1: Baixar Recursos  
 Para acessar o **workflow** e o **Google Sheets template**
 
-### Passo 2: Demonstração ao Vivo  
+### Passo 2: Demonstraçêo ao Vivo  
 O fluxo de trabalho que vamos explorar inclui:  
 - **Raspagem de tweets** do Twitter/X  
-- **Verificação do número de rodadas**  
+- **Verificaçêo do número de rodadas**  
 - **Armazenamento das informações em um Google Sheet**, incluindo **ID do tweet, URL, conteúdo, curtidas, retweets, respostas, citações, visualizações e data**  
 
-Para essa demonstração, configurei o fluxo para rodar **três vezes** e capturar **até 58 tweets**. Se quiser aumentar esse número, basta modificar a variável de contagem no fluxo.  
+Para essa demonstraçêo, configurei o fluxo para rodar **três vezes** e capturar **até 58 tweets**. Se quiser aumentar esse número, basta modificar a variável de contagem no fluxo.  
 
-### Passo 3: Configuração da API  
-Usaremos uma **API do Twitter/X** para acessar os tweets. Essa API permite raspar **1.000 tweets por apenas $0,15**. Se você usar o **link da descrição**, receberá **$6 de crédito inicial**, em vez de apenas $1 ao se cadastrar normalmente.  https://twitterapi.io/?ref=NateHerkelman
+### Passo 3: Configuraçêo da API  
+Usaremos uma **API do Twitter/X** para acessar os tweets. Essa API permite raspar **1.000 tweets por apenas $0,15**. Se você usar o **link da descriçêo**, receberá **$6 de crédito inicial**, em vez de apenas $1 ao se cadastrar normalmente.  https://twitterapi.io/?ref=NateHerkelman
 
-Na documentação da API, temos diferentes **endpoints**, como:  
+Na documentaçêo da API, temos diferentes **endpoints**, como:  
 - **Usuário**: obter tweets, seguidores e menções de um usuário  
 - **Tweet**: buscar tweets por ID, respostas e retweets  
 - **Busca Avançada**: encontrar tweets por palavras-chave  
 
-### Passo 4: Configuração do n8n  
+### Passo 4: Configuraçêo do n8n  
 Para integrar a API ao n8n, siga estes passos:  
 
-1. **Copie o comando cURL da documentação da API**  
-2. No n8n, **crie uma requisição HTTP**  
+1. **Copie o comando cURL da documentaçêo da API**  
+2. No n8n, **crie uma requisiçêo HTTP**  
 3. **Importe o cURL** e ele preencherá os campos automaticamente  
 4. **Defina a URL base** da API  
-5. **Configure a autenticação**  
-   - A API exige uma **chave de autorização**  
+5. **Configure a autenticaçêo**  
+   - A API exige uma **chave de autorizaçêo**  
    - No painel da API, copie sua **chave API**  
-   - No n8n, vá até a aba **Autenticação** e insira a chave como um **Header**  
+   - No n8n, vá até a aba **Autenticaçêo** e insira a chave como um **Header**  
 
 Agora, precisamos definir os **parâmetros da busca**:  
 - **query**: o termo que estamos pesquisando (exemplo: "OpenAI")  
 - **queryType**: tipo de busca (**"latest"** ou **"top"**)  
 
-Além disso, a API permite **paginação** com um **cursor**. Cada requisição retorna **cerca de 20 tweets**. Para buscar mais tweets, usamos o **cursor** da última resposta e fazemos novas chamadas à API até atingir o número desejado.  
+Além disso, a API permite **paginaçêo** com um **cursor**. Cada requisiçêo retorna **cerca de 20 tweets**. Para buscar mais tweets, usamos o **cursor** da última resposta e fazemos novas chamadas à API até atingir o número desejado.  
 
 ### Passo 5: Salvando Tweets no Google Sheets  
 1. No n8n, crie um **nó do Google Sheets**  
 2. Configure para **adicionar novas linhas**  
 3. Mapeie os campos do tweet para as colunas do Google Sheets  
 
-Agora, ao rodar o fluxo, os tweets serão automaticamente salvos na planilha!  
+Agora, ao rodar o fluxo, os tweets serêo automaticamente salvos na planilha!  
 
-### Passo 6: Automatização e Paginação  
-Para capturar tweets automaticamente todos os dias, adicionamos um **gatilho de agendamento** e configuramos a **paginação**.  
+### Passo 6: Automatizaçêo e Paginaçêo  
+Para capturar tweets automaticamente todos os dias, adicionamos um **gatilho de agendamento** e configuramos a **paginaçêo**.  
 
 O fluxo inclui:  
 1. **Contador** que começa em 1  
 2. **Chamada à API** para buscar tweets  
-3. **Extração dos dados**  
+3. **Extraçêo dos dados**  
 4. **Salvamento no Google Sheets**  
-5. **Atualização do cursor e do contador**  
-6. **Repetição do processo até atingir o limite**  
+5. **Atualizaçêo do cursor e do contador**  
+6. **Repetiçêo do processo até atingir o limite**  
 
 A cada rodada, o cursor obtém a **próxima página de tweets**, e o fluxo continua rodando até coletar o número desejado de postagens.  
 
-### Conclusão  
-Este **workflow do n8n** permite raspar tweets de forma eficiente e automática, sem precisar de código complexo. Se quiser explorar mais funcionalidades, como **obtenção de perfis, análise de menções e extração de dados de concorrentes**, confira a documentação da API e personalize seu fluxo de trabalho.
+### Conclusêo  
+Este **workflow do n8n** permite raspar tweets de forma eficiente e automática, sem precisar de código complexo. Se quiser explorar mais funcionalidades, como **obtençêo de perfis, análise de menções e extraçêo de dados de concorrentes**, confira a documentaçêo da API e personalize seu fluxo de trabalho.
 Midia: MessageMediaWebPage
 
 ------------------------------
@@ -279,7 +279,7 @@ Texto:
 Como realmente raspar dados do Twitter/X com n8n
 
 Quer raspar tweets ilimitados do Twitter/X usando n8n? 
-Como automatizar a extração de dados, lidar com paginação e armazenar tweets no Google Sheets—tudo isso sem precisar escrever código complexo!
+Como automatizar a extraçêo de dados, lidar com paginaçêo e armazenar tweets no Google Sheets—tudo isso sem precisar escrever código complexo!
 
 ------------------------------
 

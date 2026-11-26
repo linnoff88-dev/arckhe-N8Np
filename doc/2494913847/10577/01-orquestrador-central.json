@@ -149,10 +149,10 @@
     },
     {
       "parameters": {
-        "jsCode": "// Análise de contexto e intenção da mensagem\nconst mensagem = $input.first().json.mensagem || $input.first().json.text || '';\nconst cliente = $input.first().json.cliente || null;\nconst canal = $input.first().json.canal || 'whatsapp';\n\n// Palavras-chave para identificar intenção\nconst intencoes = {\n  atendimento_inicial: [\n    'oi', 'olá', 'bom dia', 'boa tarde', 'boa noite', 'hello', 'hi',\n    'quero', 'preciso', 'busco', 'procuro', 'interesse', 'informação'\n  ],\n  compra: [\n    'comprar', 'compra', 'adquirir', 'financiar', 'financiamento',\n    'casa', 'apartamento', 'imóvel', 'propriedade'\n  ],\n  aluguel: [\n    'alugar', 'aluguel', 'locação', 'locar', 'arrendar'\n  ],\n  venda: [\n    'vender', 'venda', 'anunciar', 'cadastrar', 'proprietário',\n    'tenho um imóvel', 'quero vender'\n  ],\n  agendamento: [\n    'visita', 'visitar', 'agendar', 'agenda', 'horário', 'disponível',\n    'quando', 'que horas', 'marcar'\n  ],\n  informacoes: [\n    'preço', 'valor', 'quanto', 'localização', 'endereço', 'detalhes',\n    'características', 'fotos', 'informações'\n  ],\n  cancelamento: [\n    'cancelar', 'desistir', 'não quero mais', 'parar', 'remover'\n  ],\n  reclamacao: [\n    'reclamação', 'problema', 'insatisfeito', 'ruim', 'péssimo',\n    'não gostei', 'erro', 'falha'\n  ]\n};\n\n// Função para detectar intenção\nfunction detectarIntencao(texto) {\n  const textoLower = texto.toLowerCase();\n  \n  for (const [intencao, palavras] of Object.entries(intencoes)) {\n    for (const palavra of palavras) {\n      if (textoLower.includes(palavra)) {\n        return intencao;\n      }\n    }\n  }\n  \n  return 'geral';\n}\n\n// Função para calcular prioridade\nfunction calcularPrioridade(intencao, cliente) {\n  let prioridade = 1; // Padrão baixa\n  \n  // Prioridade por intenção\n  switch (intencao) {\n    case 'cancelamento':\n    case 'reclamacao':\n      prioridade = 5; // Alta\n      break;\n    case 'agendamento':\n    case 'venda':\n      prioridade = 4; // Média-alta\n      break;\n    case 'compra':\n    case 'aluguel':\n      prioridade = 3; // Média\n      break;\n    default:\n      prioridade = 2; // Baixa-média\n  }\n  \n  // Ajustar por score do cliente\n  if (cliente && cliente.score_qualificacao) {\n    if (cliente.score_qualificacao > 80) prioridade += 1;\n    if (cliente.score_qualificacao < 30) prioridade -= 1;\n  }\n  \n  return Math.max(1, Math.min(5, prioridade));\n}\n\n// Função para determinar agente responsável\nfunction determinarAgente(intencao, cliente) {\n  // Se cliente não existe, sempre vai para atendimento inicial\n  if (!cliente) {\n    return 'Atendimento_Cliente_Entrada';\n  }\n  \n  // Baseado na intenção\n  switch (intencao) {\n    case 'venda':\n      return 'Captacao_Proprietario';\n    case 'agendamento':\n      return 'Agendamento_Visitas';\n    case 'cancelamento':\n    case 'reclamacao':\n      return 'HITL'; // Sempre para humano\n    case 'compra':\n    case 'aluguel':\n      // Se já tem dados básicos, vai para agendamento\n      if (cliente.tipo_interesse && cliente.localizacao_preferida) {\n        return 'Agendamento_Visitas';\n      } else {\n        return 'Atendimento_Cliente_Entrada';\n      }\n    default:\n      return 'Relacao_Clientes_Ativos';\n  }\n}\n\n// Função para verificar se precisa HITL\nfunction precisaHITL(intencao, mensagem, prioridade) {\n  // Sempre HITL para reclamações e cancelamentos\n  if (['cancelamento', 'reclamacao'].includes(intencao)) {\n    return true;\n  }\n  \n  // HITL para prioridade alta\n  if (prioridade >= 4) {\n    return true;\n  }\n  \n  // HITL para valores mencionados acima de 1 milhão\n  const valores = mensagem.match(/\\d{1,3}(?:\\.\\d{3})*(?:,\\d{2})?/g);\n  if (valores) {\n    for (const valor of valores) {\n      const numero = parseFloat(valor.replace(/\\./g, '').replace(',', '.'));\n      if (numero > 1000000) {\n        return true;\n      }\n    }\n  }\n  \n  // HITL para palavras sensíveis\n  const palavrasSensiveis = ['cpf', 'rg', 'documento', 'contrato', 'assinatura'];\n  const mensagemLower = mensagem.toLowerCase();\n  for (const palavra of palavrasSensiveis) {\n    if (mensagemLower.includes(palavra)) {\n      return true;\n    }\n  }\n  \n  return false;\n}\n\n// Processar entrada\nconst intencao = detectarIntencao(mensagem);\nconst prioridade = calcularPrioridade(intencao, cliente);\nconst agente = determinarAgente(intencao, cliente);\nconst requerHITL = precisaHITL(intencao, mensagem, prioridade);\n\n// Preparar contexto\nconst contexto = {\n  mensagem_original: mensagem,\n  canal: canal,\n  intencao_detectada: intencao,\n  prioridade: prioridade,\n  agente_designado: agente,\n  requer_hitl: requerHITL,\n  timestamp: new Date().toISOString(),\n  cliente_existente: !!cliente,\n  historico_resumido: cliente ? {\n    nome: cliente.nome,\n    tipo_interesse: cliente.tipo_interesse,\n    status: cliente.status,\n    score: cliente.score_qualificacao,\n    ultima_interacao: cliente.ultima_interacao\n  } : null\n};\n\nreturn {\n  json: {\n    ...contexto,\n    dados_entrada: $input.first().json\n  }\n};"
+        "jsCode": "// Análise de contexto e intençêo da mensagem\nconst mensagem = $input.first().json.mensagem || $input.first().json.text || '';\nconst cliente = $input.first().json.cliente || null;\nconst canal = $input.first().json.canal || 'whatsapp';\n\n// Palavras-chave para identificar intençêo\nconst intencoes = {\n  atendimento_inicial: [\n    'oi', 'olá', 'bom dia', 'boa tarde', 'boa noite', 'hello', 'hi',\n    'quero', 'preciso', 'busco', 'procuro', 'interesse', 'informaçêo'\n  ],\n  compra: [\n    'comprar', 'compra', 'adquirir', 'financiar', 'financiamento',\n    'casa', 'apartamento', 'imóvel', 'propriedade'\n  ],\n  aluguel: [\n    'alugar', 'aluguel', 'locaçêo', 'locar', 'arrendar'\n  ],\n  venda: [\n    'vender', 'venda', 'anunciar', 'cadastrar', 'proprietário',\n    'tenho um imóvel', 'quero vender'\n  ],\n  agendamento: [\n    'visita', 'visitar', 'agendar', 'agenda', 'horário', 'disponível',\n    'quando', 'que horas', 'marcar'\n  ],\n  informacoes: [\n    'preço', 'valor', 'quanto', 'localizaçêo', 'endereço', 'detalhes',\n    'características', 'fotos', 'informações'\n  ],\n  cancelamento: [\n    'cancelar', 'desistir', 'nêo quero mais', 'parar', 'remover'\n  ],\n  reclamacao: [\n    'reclamaçêo', 'problema', 'insatisfeito', 'ruim', 'péssimo',\n    'nêo gostei', 'erro', 'falha'\n  ]\n};\n\n// Funçêo para detectar intençêo\nfunction detectarIntencao(texto) {\n  const textoLower = texto.toLowerCase();\n  \n  for (const [intencao, palavras] of Object.entries(intencoes)) {\n    for (const palavra of palavras) {\n      if (textoLower.includes(palavra)) {\n        return intencao;\n      }\n    }\n  }\n  \n  return 'geral';\n}\n\n// Funçêo para calcular prioridade\nfunction calcularPrioridade(intencao, cliente) {\n  let prioridade = 1; // Padrêo baixa\n  \n  // Prioridade por intençêo\n  switch (intencao) {\n    case 'cancelamento':\n    case 'reclamacao':\n      prioridade = 5; // Alta\n      break;\n    case 'agendamento':\n    case 'venda':\n      prioridade = 4; // Média-alta\n      break;\n    case 'compra':\n    case 'aluguel':\n      prioridade = 3; // Média\n      break;\n    default:\n      prioridade = 2; // Baixa-média\n  }\n  \n  // Ajustar por score do cliente\n  if (cliente && cliente.score_qualificacao) {\n    if (cliente.score_qualificacao > 80) prioridade += 1;\n    if (cliente.score_qualificacao < 30) prioridade -= 1;\n  }\n  \n  return Math.max(1, Math.min(5, prioridade));\n}\n\n// Funçêo para determinar agente responsável\nfunction determinarAgente(intencao, cliente) {\n  // Se cliente nêo existe, sempre vai para atendimento inicial\n  if (!cliente) {\n    return 'Atendimento_Cliente_Entrada';\n  }\n  \n  // Baseado na intençêo\n  switch (intencao) {\n    case 'venda':\n      return 'Captacao_Proprietario';\n    case 'agendamento':\n      return 'Agendamento_Visitas';\n    case 'cancelamento':\n    case 'reclamacao':\n      return 'HITL'; // Sempre para humano\n    case 'compra':\n    case 'aluguel':\n      // Se já tem dados básicos, vai para agendamento\n      if (cliente.tipo_interesse && cliente.localizacao_preferida) {\n        return 'Agendamento_Visitas';\n      } else {\n        return 'Atendimento_Cliente_Entrada';\n      }\n    default:\n      return 'Relacao_Clientes_Ativos';\n  }\n}\n\n// Funçêo para verificar se precisa HITL\nfunction precisaHITL(intencao, mensagem, prioridade) {\n  // Sempre HITL para reclamações e cancelamentos\n  if (['cancelamento', 'reclamacao'].includes(intencao)) {\n    return true;\n  }\n  \n  // HITL para prioridade alta\n  if (prioridade >= 4) {\n    return true;\n  }\n  \n  // HITL para valores mencionados acima de 1 milhêo\n  const valores = mensagem.match(/\\d{1,3}(?:\\.\\d{3})*(?:,\\d{2})?/g);\n  if (valores) {\n    for (const valor of valores) {\n      const numero = parseFloat(valor.replace(/\\./g, '').replace(',', '.'));\n      if (numero > 1000000) {\n        return true;\n      }\n    }\n  }\n  \n  // HITL para palavras sensíveis\n  const palavrasSensiveis = ['cpf', 'rg', 'documento', 'contrato', 'assinatura'];\n  const mensagemLower = mensagem.toLowerCase();\n  for (const palavra of palavrasSensiveis) {\n    if (mensagemLower.includes(palavra)) {\n      return true;\n    }\n  }\n  \n  return false;\n}\n\n// Processar entrada\nconst intencao = detectarIntencao(mensagem);\nconst prioridade = calcularPrioridade(intencao, cliente);\nconst agente = determinarAgente(intencao, cliente);\nconst requerHITL = precisaHITL(intencao, mensagem, prioridade);\n\n// Preparar contexto\nconst contexto = {\n  mensagem_original: mensagem,\n  canal: canal,\n  intencao_detectada: intencao,\n  prioridade: prioridade,\n  agente_designado: agente,\n  requer_hitl: requerHITL,\n  timestamp: new Date().toISOString(),\n  cliente_existente: !!cliente,\n  historico_resumido: cliente ? {\n    nome: cliente.nome,\n    tipo_interesse: cliente.tipo_interesse,\n    status: cliente.status,\n    score: cliente.score_qualificacao,\n    ultima_interacao: cliente.ultima_interacao\n  } : null\n};\n\nreturn {\n  json: {\n    ...contexto,\n    dados_entrada: $input.first().json\n  }\n};"
       },
       "id": "analisar-contexto",
-      "name": "Analisar Contexto e Intenção",
+      "name": "Analisar Contexto e Intençêo",
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
@@ -186,7 +186,7 @@
         "options": {}
       },
       "id": "registrar-interacao",
-      "name": "Registrar Interação",
+      "name": "Registrar Interaçêo",
       "type": "n8n-nodes-base.supabase",
       "typeVersion": 1,
       "position": [
@@ -252,7 +252,7 @@
             },
             {
               "name": "interacao_id",
-              "value": "={{ $('Registrar Interação').first().json.id }}"
+              "value": "={{ $('Registrar Interaçêo').first().json.id }}"
             },
             {
               "name": "prioridade",
@@ -421,7 +421,7 @@
         "options": {}
       },
       "id": "chamar-captacao",
-      "name": "Chamar Captação",
+      "name": "Chamar Captaçêo",
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.1,
       "position": [
@@ -540,32 +540,32 @@
       "main": [
         [
           {
-            "node": "Analisar Contexto e Intenção",
+            "node": "Analisar Contexto e Intençêo",
             "type": "main",
             "index": 0
           }
         ],
         [
           {
-            "node": "Analisar Contexto e Intenção",
+            "node": "Analisar Contexto e Intençêo",
             "type": "main",
             "index": 0
           }
         ]
       ]
     },
-    "Analisar Contexto e Intenção": {
+    "Analisar Contexto e Intençêo": {
       "main": [
         [
           {
-            "node": "Registrar Interação",
+            "node": "Registrar Interaçêo",
             "type": "main",
             "index": 0
           }
         ]
       ]
     },
-    "Registrar Interação": {
+    "Registrar Interaçêo": {
       "main": [
         [
           {
@@ -612,7 +612,7 @@
         ],
         [
           {
-            "node": "Chamar Captação",
+            "node": "Chamar Captaçêo",
             "type": "main",
             "index": 0
           }
@@ -648,7 +648,7 @@
         ]
       ]
     },
-    "Chamar Captação": {
+    "Chamar Captaçêo": {
       "main": [
         [
           {

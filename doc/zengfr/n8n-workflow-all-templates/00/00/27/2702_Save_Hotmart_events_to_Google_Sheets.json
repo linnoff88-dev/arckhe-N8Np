@@ -16,7 +16,7 @@
       "id": "7d43d464-521f-472a-baf5-68398c02a1b8",
       "name": "Switch",
       "type": "n8n-nodes-base.switch",
-      "notes": "- PURCHASE_PROTEST é a primeira notificação sobre pedido de reembolso;\n- SUBSCRIPTION_CANCELLATION acontece junto com o purchase_protest, quando o cliente pede reembolso dentro do período da garantia;\n- PURCHASE_REFUNDED só acontece quando ocorre o reembolso de fato;\n\n- PURCHASE_COMPLETE significa que acabou o período de garantia e o dinheiro já pertence ao vendedor;\n",
+      "notes": "- PURCHASE_PROTEST é a primeira notificaçêo sobre pedido de reembolso;\n- SUBSCRIPTION_CANCELLATION acontece junto com o purchase_protest, quando o cliente pede reembolso dentro do período da garantia;\n- PURCHASE_REFUNDED só acontece quando ocorre o reembolso de fato;\n\n- PURCHASE_COMPLETE significa que acabou o período de garantia e o dinheiro já pertence ao vendedor;\n",
       "position": [
         1300,
         480

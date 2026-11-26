@@ -55,15 +55,15 @@ Texto:
 
 - **Começa com um Webhook:** Ele escuta por requisições de preenchimento de imagem (inpainting) no endpoint "flux-fill". Quando você envia uma imagem junto com uma máscara e um prompt de texto, o processo é iniciado.
 
-- **Entrega uma Página de Edição:** Ele fornece um editor de imagens em HTML (construído com Konva.js e outras ferramentas), onde você pode escolher uma imagem — seja fazendo upload da sua própria ou selecionando entre modelos pré-definidos.
+- **Entrega uma Página de Ediçêo:** Ele fornece um editor de imagens em HTML (construído com Konva.js e outras ferramentas), onde você pode escolher uma imagem — seja fazendo upload da sua própria ou selecionando entre modelos pré-definidos.
 
-- **Chama a API FLUX-Fill:** Ele envia sua imagem, a máscara e as instruções criativas (como o prompt, número de passos e nível de orientação) para a API FLUX-fill, que realiza o inpainting (preenchendo partes ausentes da imagem).
+- **Chama a API FLUX-Fill:** Ele envia sua imagem, a máscara e as instruções criativas (como o prompt, número de passos e nível de orientaçêo) para a API FLUX-fill, que realiza o inpainting (preenchendo partes ausentes da imagem).
 
-- **Aguarda e Verifica o Resultado:** Após chamar a API, ele espera alguns segundos e então verifica se o processo de inpainting foi concluído, consultando o status.
+- **Aguarda e Verifica o Resultado:** Após chamar a API, ele espera alguns segundos e entêo verifica se o processo de inpainting foi concluído, consultando o status.
 
 - **Recupera a Imagem Editada:** Quando o resultado está pronto, ele busca a nova imagem gerada com o preenchimento aplicado.
 
-- **Envia a Imagem Final de Volta:** Por fim, responde à sua requisição inicial enviando a imagem editada como dados binários, para que você veja a transformação imediatamente.
+- **Envia a Imagem Final de Volta:** Por fim, responde à sua requisiçêo inicial enviando a imagem editada como dados binários, para que você veja a transformaçêo imediatamente.
 
 **Resumindo:** Esse fluxo permite modificar imagens "preenchendo" ou reconstruindo partes delas — com um editor amigável e processamento automático via API FLUX-fill!
 

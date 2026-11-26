@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Script para gerar documentação MkDocs a partir dos workflows n8n
+Script para gerar documentaçêo MkDocs a partir dos workflows n8n
 """
 
 import json
@@ -21,7 +21,7 @@ CATEGORIAS = {
     "Automações": ["workflow", "automation", "customer", "support", "invoice", "linkedin", "whatsapp"],
     "Integrações": ["google", "drive", "sheets", "gmail", "supabase", "postgres", "airtable",
                     "firecrawl", "apify", "openai", "perplexity", "piapi"],
-    "HITL": ["hitl", "validação", "validacion", "human", "approval", "feedback"],
+    "HITL": ["hitl", "validaçêo", "validacion", "human", "approval", "feedback"],
     "Arquitetura": ["orchestrator", "routing", "parallelization", "chaining", "brain", "error"],
 }
 
@@ -120,7 +120,7 @@ def gerar_pagina_workflow(workflows, categoria, filename):
 def gerar_indice_workflows(todos_workflows):
     """Gera página índice de workflows"""
 
-    md = "# Visão Geral dos Workflows\n\n"
+    md = "# Visêo Geral dos Workflows\n\n"
     md += f"Total de **{len(todos_workflows)} workflows** catalogados.\n\n"
 
     md += "## 📊 Por Categoria\n\n"
@@ -230,7 +230,7 @@ def gerar_pagina_curso():
         workflow_file = f"{i}) {licao}.json"
 
         md += f"### {i}. {licao}\n\n"
-        md += f"!!! abstract \"Lição {i}\"\n"
+        md += f"!!! abstract \"Liçêo {i}\"\n"
         md += f"    {licao}\n\n"
 
         # Buscar no tópico 8187 (onde está o curso)
@@ -257,7 +257,7 @@ def gerar_about():
 
     md = "# Sobre o N8Np\n\n"
     md += "## 📦 O que é este repositório?\n\n"
-    md += "O N8Np é uma coleção completa de workflows n8n, AI agents e automações "
+    md += "O N8Np é uma coleçêo completa de workflows n8n, AI agents e automações "
     md += "coletados da comunidade Telegram.\n\n"
 
     md += "## 📊 Estatísticas\n\n"
@@ -273,10 +273,10 @@ def gerar_about():
     md += "2. Ou faça um PR no repositório GitHub\n\n"
 
     md += "## ⚠️ Aviso Legal\n\n"
-    md += "- Todos os workflows são compartilhados pela comunidade\n"
+    md += "- Todos os workflows sêo compartilhados pela comunidade\n"
     md += "- Credenciais devem ser reconfiguradas ao importar\n"
     md += "- Use por sua conta e risco\n"
-    md += "- Sempre revise os workflows antes de usar em produção\n"
+    md += "- Sempre revise os workflows antes de usar em produçêo\n"
 
     # Salvar
     output_path = DOCS_DIR / "about.md"
@@ -286,7 +286,7 @@ def gerar_about():
     print(f"✓ Gerado: {output_path}")
 
 def main():
-    print("🚀 Gerando documentação N8Np...\n")
+    print("🚀 Gerando documentaçêo N8Np...\n")
 
     # Criar diretórios
     WORKFLOWS_DIR.mkdir(parents=True, exist_ok=True)
@@ -333,7 +333,7 @@ def main():
     gerar_pagina_curso()
     gerar_about()
 
-    print("\n✅ Documentação gerada com sucesso!")
+    print("\n✅ Documentaçêo gerada com sucesso!")
     print(f"\n📂 Arquivos em: {DOCS_DIR}")
     print("\n🌐 Para visualizar:")
     print("   cd n8np-docs")

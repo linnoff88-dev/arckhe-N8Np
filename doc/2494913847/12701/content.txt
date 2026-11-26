@@ -13,15 +13,15 @@ MENSAGEM 1
 Autor: INEMA
 Data: 2025-08-13T02:55:36+00:00
 Texto:
-### 🧠 **HACKS PARA ACELERAR SUA AUTOMAÇÃO COM CLAUDE + MCP + N8N**
+### 🧠 **HACKS PARA ACELERAR SUA AUTOMAÇêO COM CLAUDE + MCP + N8N**
 
 ---
 
 #### 1. **Use prompts com contexto prático e direto**
 
-Evite descrições genéricas. Em vez de dizer “quero uma automação”, diga exatamente:
+Evite descrições genéricas. Em vez de dizer “quero uma automaçêo”, diga exatamente:
 
-> “Crie um fluxo que, ao final de uma reunião no Zoom, extraia a transcrição, classifique o tipo da reunião e salve o resumo no Google Sheets.”
+> “Crie um fluxo que, ao final de uma reuniêo no Zoom, extraia a transcriçêo, classifique o tipo da reuniêo e salve o resumo no Google Sheets.”
 
 Isso acelera o entendimento do Claude e reduz erros de estrutura.
 
@@ -37,13 +37,13 @@ Essas anotações tornam o fluxo muito mais compreensível para você e para ter
 
 ---
 
-#### 3. **Solicite validação e correção automática**
+#### 3. **Solicite validaçêo e correçêo automática**
 
 Adicione no prompt:
 
-> “Valide os nós e corrija automaticamente os erros encontrados durante a criação.”
+> “Valide os nós e corrija automaticamente os erros encontrados durante a criaçêo.”
 
-Claude fará uma verificação de funcionamento e sugerirá ou aplicará correções automáticas.
+Claude fará uma verificaçêo de funcionamento e sugerirá ou aplicará correções automáticas.
 
 ---
 
@@ -57,11 +57,11 @@ Isso garante que os agentes do N8N já venham com os prompts embutidos e prontos
 
 ---
 
-#### 5. **Crie fluxos a partir de transcrição de vídeo**
+#### 5. **Crie fluxos a partir de transcriçêo de vídeo**
 
 Você pode colar transcrições de YouTube ou Zoom e dizer:
 
-> “A partir dessa transcrição, crie uma automação que classifique, resuma e salve os resultados.”
+> “A partir dessa transcriçêo, crie uma automaçêo que classifique, resuma e salve os resultados.”
 
 Claude entende longos contextos e estrutura o fluxo inteiro para você.
 
@@ -100,11 +100,11 @@ Claude entenderá a cadeia e criará os nós encadeados automaticamente.
 
 ---
 
-#### 9. **Utilize Claude com versão gratuita (com limites)**
+#### 9. **Utilize Claude com versêo gratuita (com limites)**
 
 Use **Claude Sonnet** no lugar do Clotsopus para respostas mais rápidas com menor uso de tokens.
 
-Se atingir o limite de tokens, **peça para continuar** com o botão "Continuar".
+Se atingir o limite de tokens, **peça para continuar** com o botêo "Continuar".
 
 ---
 
@@ -136,11 +136,11 @@ Texto:
 
 #### 1. **Pré-requisitos**
 
-* Ter o Claude instalado (versão desktop).
+* Ter o Claude instalado (versêo desktop).
 * Ter uma conta e instância funcional do N8N.
 * Ter visto os anteriores (opcional, mas recomendado):
 
-  * e17: Introdução aos MCPs
+  * e17: Introduçêo aos MCPs
   * e19: Claude + Apify para scraping
 
 ---
@@ -155,7 +155,7 @@ Texto:
 #### 3. **Configurar Claude com o MCP (n8n-mcp)**
 
 1. Vá até o menu `Arquivo > Configurações > Desenvolvedor`.
-2. Clique em **Editar configuração**.
+2. Clique em **Editar configuraçêo**.
 3. No arquivo `claude.config.json`, adicione:
 
 ```"extensions": {
@@ -176,7 +176,7 @@ Texto:
 
 ---
 
-#### 4. **Verifique se a integração funcionou**
+#### 4. **Verifique se a integraçêo funcionou**
 
 * Abra um novo projeto no Claude.
 * No painel lateral inferior, verifique se aparece `n8n-mcp` com 39 ferramentas conectadas.
@@ -186,7 +186,7 @@ Texto:
 #### 5. **Criar um novo projeto no Claude**
 
 1. Vá em `Projetos > Novo Projeto`.
-2. Dê um nome (ex: **Automação N8N - Zoom**).
+2. Dê um nome (ex: **Automaçêo N8N - Zoom**).
 3. No campo de **Instruções do Projeto**, cole um **prompt estruturado** (exemplo abaixo).
 
 ---
@@ -197,19 +197,19 @@ Use um prompt em espanhol ou português, com estrutura como:
 
 * Permitir entrada por **texto ou áudio transcrito**
 * Incluir comando para gerar **sticky notes**
-* Incluir instruções sobre criação, validação e explicações passo a passo
+* Incluir instruções sobre criaçêo, validaçêo e explicações passo a passo
 
 Exemplo de entrada:
 
-> Quero criar uma automação que, quando uma reunião do Zoom terminar, extraia a transcrição, classifique como venda, onboarding ou follow-up, gere um resumo e salve no Google Sheets.
+> Quero criar uma automaçêo que, quando uma reuniêo do Zoom terminar, extraia a transcriçêo, classifique como venda, onboarding ou follow-up, gere um resumo e salve no Google Sheets.
 
 ---
 
-#### 7. **Executar a criação do fluxo**
+#### 7. **Executar a criaçêo do fluxo**
 
 * Claude irá:
 
-  * Buscar a documentação necessária
+  * Buscar a documentaçêo necessária
   * Criar o cenário no N8N
   * Validar automaticamente
   * Corrigir erros
@@ -227,7 +227,7 @@ Você pode dizer ao Claude:
 * "Atualize o fluxo existente"
 * "Melhore esse fluxo para escalabilidade"
 
-Tudo isso é feito por **comando em linguagem natural**, sem programação.
+Tudo isso é feito por **comando em linguagem natural**, sem programaçêo.
 
 ---
 
@@ -241,7 +241,7 @@ Tudo isso é feito por **comando em linguagem natural**, sem programação.
 
 #### 10. **Dicas Finais**
 
-* O processo funciona na **versão gratuita** do Claude, com limite de tokens.
+* O processo funciona na **versêo gratuita** do Claude, com limite de tokens.
 * Claude salva os artefatos (como resumos e JSONs) para uso posterior.
 * Você pode usar **transcrições de vídeos ou áudios** como entrada para gerar automações.
 Midia: MessageMediaWebPage
@@ -262,16 +262,16 @@ Data: 2025-08-13T02:51:24+00:00
 Texto:
 Resumo:
 
-Como usar Claude (versão desktop) junto com um MCP conectado ao N8N para criar, modificar e validar fluxos de automação apenas com comandos em linguagem natural.
+Como usar Claude (versêo desktop) junto com um MCP conectado ao N8N para criar, modificar e validar fluxos de automaçêo apenas com comandos em linguagem natural.
 
 **Pontos principais**
 
 1. **Contexto e pré-requisitos**
 
-   * Antes de seguir, recomenda ver os anteriores (e17 e  e19) sobre MCPs e integração com Claude.
-   * Uso de Claude desktop + plugin `n8n-mcp` para acesso total à documentação e comandos do N8N.
+   * Antes de seguir, recomenda ver os anteriores (e17 e  e19) sobre MCPs e integraçêo com Claude.
+   * Uso de Claude desktop + plugin `n8n-mcp` para acesso total à documentaçêo e comandos do N8N.
 
-2. **Configuração inicial**
+2. **Configuraçêo inicial**
 
    * Instalar Claude e configurar o arquivo `claude.config.json` com URL e API key do N8N.
    * Ao reiniciar, Claude exibe 39 ferramentas conectadas ao N8N.
@@ -279,29 +279,29 @@ Como usar Claude (versão desktop) junto com um MCP conectado ao N8N para criar,
 3. **Prompt personalizado**
 
    * Base em espanhol, adaptada para aceitar entrada por texto ou áudio.
-   * Inclusão de “sticky notes” (notas explicativas) no fluxo, seguindo estrutura pré-definida.
+   * Inclusêo de “sticky notes” (notas explicativas) no fluxo, seguindo estrutura pré-definida.
 
-4. **Criação automática de fluxos**
+4. **Criaçêo automática de fluxos**
 
-   * Exemplo: ao encerrar reunião no Zoom, classificar chamada (vendas, onboarding, follow-up), gerar resumo e salvar no Google Sheets.
-   * Claude busca documentação, cria o fluxo, valida e corrige erros automaticamente.
+   * Exemplo: ao encerrar reuniêo no Zoom, classificar chamada (vendas, onboarding, follow-up), gerar resumo e salvar no Google Sheets.
+   * Claude busca documentaçêo, cria o fluxo, valida e corrige erros automaticamente.
 
-5. **Edição conversacional**
+5. **Ediçêo conversacional**
 
-   * É possível pedir ajustes, adicionar prompts nos nós de IA, incluir variáveis no switch, etc., com atualização parcial ou completa no N8N.
+   * É possível pedir ajustes, adicionar prompts nos nós de IA, incluir variáveis no switch, etc., com atualizaçêo parcial ou completa no N8N.
    * Funciona tanto para novos fluxos quanto para modificar fluxos já existentes.
 
 6. **Vantagens**
 
    * Processo quase totalmente automatizado e gratuito (Claude + MCPs sem custo extra).
-   * Geração de instruções claras no próprio fluxo.
+   * Geraçêo de instruções claras no próprio fluxo.
    * Possibilidade de reaproveitar para transcrições de vídeos ou outros textos longos.
 
 7. **Recomendações finais**
 
    * Melhorar e adaptar o prompt ao seu caso.
-   * Não se limitar a executar automações — adotar papel consultivo, entendendo processos e aplicando automações com foco em valor de negócio.
-   * Importância de pensar como otimizar e escalar processos para empresas, pois no futuro a criação técnica pura será cada vez mais automatizada pela IA.
+   * Nêo se limitar a executar automações — adotar papel consultivo, entendendo processos e aplicando automações com foco em valor de negócio.
+   * Importância de pensar como otimizar e escalar processos para empresas, pois no futuro a criaçêo técnica pura será cada vez mais automatizada pela IA.
 
 ------------------------------
 
@@ -321,51 +321,51 @@ Texto:
 
 🎯 **O que aprendemos?**
 
-Exploramos como usar o Claude (versão desktop) em conjunto com um MCP especializado para gerar automações completas no N8N usando linguagem natural. Aprendemos a conectar os dois sistemas, configurar o ambiente, personalizar os prompts e executar fluxos complexos que são criados, validados e atualizados automaticamente. Também incorporamos notas adesivas automáticas (sticky notes) nos cenários para facilitar a compreensão.
+Exploramos como usar o Claude (versêo desktop) em conjunto com um MCP especializado para gerar automações completas no N8N usando linguagem natural. Aprendemos a conectar os dois sistemas, configurar o ambiente, personalizar os prompts e executar fluxos complexos que sêo criados, validados e atualizados automaticamente. Também incorporamos notas adesivas automáticas (sticky notes) nos cenários para facilitar a compreensêo.
 
 🧩 **Pré-requisitos**
 Antes de assistir a esta aula, é recomendado revisar:
 
-* e17: Introdução aos MCPs e como conectá-los ao Claude.
+* e17: Introduçêo aos MCPs e como conectá-los ao Claude.
 * e19: Uso do Claude com Apify para fazer scraping sem limites.
 
 
 🛠️ **Ferramentas utilizadas**
 
-* **Claude (versão desktop):** para gerar os fluxos.
-* **MCP (Multi-Command Plugin):** conectado ao Claude para acessar a documentação do N8N e executar ações.
-* **N8N:** plataforma onde os fluxos são criados e hospedados.
+* **Claude (versêo desktop):** para gerar os fluxos.
+* **MCP (Multi-Command Plugin):** conectado ao Claude para acessar a documentaçêo do N8N e executar ações.
+* **N8N:** plataforma onde os fluxos sêo criados e hospedados.
 
-🔧 **Passo a passo da implementação**
+🔧 **Passo a passo da implementaçêo**
 
-**1. Download e instalação**
+**1. Download e instalaçêo**
 
 * Baixar o Claude pelo site oficial ou App Store.
-* Acessar a seção de projetos e criar um novo.
+* Acessar a seçêo de projetos e criar um novo.
 
-**2. Configuração do ambiente**
+**2. Configuraçêo do ambiente**
 
-* Adicionar a extensão `n8n-mcp` no arquivo `claude.config.json`.
+* Adicionar a extensêo `n8n-mcp` no arquivo `claude.config.json`.
 * Inserir a URL do seu N8N e a chave de API pessoal.
 
-**3. Verificação de conexão**
+**3. Verificaçêo de conexêo**
 
 * Reiniciar o Claude.
 * Verificar se o `n8n-mcp` aparece com 39 ferramentas ativas.
 
-**4. Criação do prompt personalizado**
+**4. Criaçêo do prompt personalizado**
 
 * Usar um prompt base completo e adaptá-lo:
 
   * Traduzir para o espanhol.
-  * Permitir entrada por texto ou transcrição de áudio.
+  * Permitir entrada por texto ou transcriçêo de áudio.
   * Adicionar a estrutura “Base Sticky Note” para gerar notas explicativas automáticas no fluxo.
 
-**5. Criação automática de um fluxo**
+**5. Criaçêo automática de um fluxo**
 
-* **Exemplo:** Automatização que analisa reuniões no Zoom, classifica a chamada e gera um resumo salvo no Google Sheets.
-* Claude extrai a documentação, valida os nós, estrutura o cenário e o cria diretamente no N8N.
-* Instruções e documentação são adicionadas dentro do fluxo para maior clareza.
+* **Exemplo:** Automatizaçêo que analisa reuniões no Zoom, classifica a chamada e gera um resumo salvo no Google Sheets.
+* Claude extrai a documentaçêo, valida os nós, estrutura o cenário e o cria diretamente no N8N.
+* Instruções e documentaçêo sêo adicionadas dentro do fluxo para maior clareza.
 
 **6. Melhoria conversacional do fluxo**
 
@@ -373,22 +373,22 @@ Antes de assistir a esta aula, é recomendado revisar:
 
   * “Adicione os prompts nos nós de IA”,
   * “Modifique o switch para incluir variáveis”, etc.
-* As alterações são aplicadas diretamente no fluxo dentro do N8N.
+* As alterações sêo aplicadas diretamente no fluxo dentro do N8N.
 
 📌 **Funcionalidades em destaque**
 
-* Geração automática de notas adesivas com explicações claras e passo a passo.
-* Conexão completa com o N8N: Claude pode criar, atualizar e excluir fluxos automaticamente.
-* Validação e correção automática de erros.
-* Atualização parcial ou completa de fluxos existentes.
-* Versão gratuita funcional, com algumas limitações de tokens.
+* Geraçêo automática de notas adesivas com explicações claras e passo a passo.
+* Conexêo completa com o N8N: Claude pode criar, atualizar e excluir fluxos automaticamente.
+* Validaçêo e correçêo automática de erros.
+* Atualizaçêo parcial ou completa de fluxos existentes.
+* Versêo gratuita funcional, com algumas limitações de tokens.
 
 💡 **Reflexões finais**
 Esta aula mostra que estamos entrando em uma nova era onde automações podem ser criadas apenas conversando com uma IA.
 
-É essencial deixarmos de ser apenas executores de automações e assumirmos um papel mais consultivo e estratégico: entender os processos, identificar gargalos e propor soluções com visão de negócio.
+É essencial deixarmos de ser apenas executores de automações e assumirmos um papel mais consultivo e estratégico: entender os processos, identificar gargalos e propor soluções com visêo de negócio.
 
-O conhecimento técnico ainda é útil, mas o verdadeiro diferencial será saber como aplicar a automação para transformar negócios.
+O conhecimento técnico ainda é útil, mas o verdadeiro diferencial será saber como aplicar a automaçêo para transformar negócios.
 
 ------------------------------
 

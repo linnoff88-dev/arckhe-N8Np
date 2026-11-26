@@ -3781,14 +3781,14 @@
         "Set Initial Data",
         "Switch Channel",
         "OrquestradorONG",
-        "Switch Intenção",
+        "Switch Intençêo",
         "AgenteCastracao",
-        "Set Dados Castração",
+        "Set Dados Castraçêo",
         "Salvar no Supabase",
         "Criar Evento Google Calendar",
         "AgenteAdocaoDoacao",
-        "Set Dados Adoção/Doação",
-        "Salvar Adoção/Doação",
+        "Set Dados Adoçêo/Doaçêo",
+        "Salvar Adoçêo/Doaçêo",
         "AgenteAnimaisPerdidos",
         "Set Dados Animais Perdidos",
         "Salvar Animais Perdidos",
@@ -9684,7 +9684,7 @@
       ]
     },
     {
-      "name": "Sistema Completo ONG Pets - Automação N8N",
+      "name": "Sistema Completo ONG Pets - Automaçêo N8N",
       "file": "ONG_Pets_Workflow (2).json",
       "folder": "12253",
       "path": "/home/nmaldaner/projetos/N8Np/doc/2494913847/12253/ONG_Pets_Workflow (2).json",
@@ -9723,7 +9723,7 @@
         "Orquestrador Inteligente",
         "Switch Agentes",
         "Agente Cadastro Animal",
-        "Agente Castração",
+        "Agente Castraçêo",
         "Vector Store RAG",
         "Embeddings OpenAI",
         "Supabase Vector Store",
@@ -14307,7 +14307,7 @@
       ]
     },
     {
-      "name": "Conexão SLACK",
+      "name": "Conexêo SLACK",
       "file": "Conex_o_SLACK.json",
       "folder": "4469",
       "path": "/home/nmaldaner/projetos/N8Np/doc/2494913847/4469/Conex_o_SLACK.json",
@@ -18805,7 +18805,7 @@
       ]
     },
     {
-      "name": "e7gmail - Faturação ativo PIX",
+      "name": "e7gmail - Faturaçêo ativo PIX",
       "file": "e7gmail___Fatura__o_ativo_PIX (1).json",
       "folder": "3195",
       "path": "/home/nmaldaner/projetos/N8Np/doc/2494913847/3195/e7gmail___Fatura__o_ativo_PIX (1).json",
@@ -25343,7 +25343,7 @@
         "🛠️ Tratamento de Erro",
         "📄 Converter App",
         "📄 Converter Relatório",
-        "📋 Visão Geral",
+        "📋 Visêo Geral",
         "⚙️ Setup"
       ],
       "node_count": 28,
@@ -25716,7 +25716,7 @@
         "Processar Métricas e Alertas",
         "Salvar Métricas",
         "Tem Alertas?",
-        "Enviar Notificação Telegram",
+        "Enviar Notificaçêo Telegram",
         "Cron Relatório Diário (18h)",
         "Gerar Relatório Diário",
         "Enviar Relatório Telegram"
@@ -25743,7 +25743,7 @@
       ]
     },
     {
-      "name": "Agente Captação de Proprietários",
+      "name": "Agente Captaçêo de Proprietários",
       "file": "05-captacao-proprietarios.json",
       "folder": "10577",
       "path": "/home/nmaldaner/projetos/N8Np/doc/2494913847/10577/05-captacao-proprietarios.json",
@@ -25764,10 +25764,10 @@
         "n8n-nodes-base.webhook"
       ],
       "node_names": [
-        "Webhook Captação",
+        "Webhook Captaçêo",
         "Resposta Webhook",
-        "Analisar Estado da Captação",
-        "Gerar Resposta de Captação",
+        "Analisar Estado da Captaçêo",
+        "Gerar Resposta de Captaçêo",
         "Proprietário Existe?",
         "Criar Novo Proprietário",
         "Atualizar Cliente para Proprietário",
@@ -25777,13 +25777,13 @@
         "Enviar WhatsApp",
         "Enviar Email",
         "Agendar Visita Técnica?",
-        "Notificar Equipe - Nova Captação",
-        "Registrar Interação"
+        "Notificar Equipe - Nova Captaçêo",
+        "Registrar Interaçêo"
       ],
       "node_count": 15,
       "description": "",
       "tags": [
-        "Captação"
+        "Captaçêo"
       ],
       "images": [
         "doc/2494913847/10577/photo_10585_052.jpg",
@@ -25832,7 +25832,7 @@
         "Webhook Agendamento",
         "Resposta Webhook",
         "Buscar Imóveis Compatíveis",
-        "Analisar Intenção e Processar Imóveis",
+        "Analisar Intençêo e Processar Imóveis",
         "Quer Agendar Visita?",
         "Buscar Horários Disponíveis",
         "Gerar Resposta de Agendamento",
@@ -25840,7 +25840,7 @@
         "Canal WhatsApp?",
         "Enviar WhatsApp",
         "Enviar Email",
-        "Registrar Interação"
+        "Registrar Interaçêo"
       ],
       "node_count": 12,
       "description": "",
@@ -25894,14 +25894,14 @@
         "Identificar Canal",
         "Buscar Cliente Existente",
         "Cliente Existe?",
-        "Analisar Contexto e Intenção",
-        "Registrar Interação",
+        "Analisar Contexto e Intençêo",
+        "Registrar Interaçêo",
         "Precisa HITL?",
         "Notificar HITL",
         "Rotear para Agente",
         "Chamar Atendimento Inicial",
         "Chamar Agendamento",
-        "Chamar Captação",
+        "Chamar Captaçêo",
         "Chamar Relacionamento",
         "Log Roteamento"
       ],
@@ -25953,7 +25953,7 @@
       "node_names": [
         "Webhook Atendimento",
         "Resposta Webhook",
-        "Analisar Contexto e Intenção",
+        "Analisar Contexto e Intençêo",
         "Buscar Cliente Existente",
         "Cliente Existe?",
         "Atualizar Cliente Existente",
@@ -25962,7 +25962,7 @@
         "Canal WhatsApp?",
         "Enviar WhatsApp",
         "Enviar E-mail",
-        "Registrar Interação"
+        "Registrar Interaçêo"
       ],
       "node_count": 12,
       "description": "",
@@ -25990,7 +25990,7 @@
       ]
     },
     {
-      "name": "Integração WhatsApp Business API",
+      "name": "Integraçêo WhatsApp Business API",
       "file": "07-integracao-whatsapp.json",
       "folder": "10577",
       "path": "/home/nmaldaner/projetos/N8Np/doc/2494913847/10577/07-integracao-whatsapp.json",
@@ -26023,9 +26023,9 @@
         "Envio Bem-sucedido?",
         "Log Envio Sucesso",
         "Log Erro Envio",
-        "Webhook Verificação",
-        "Processar Verificação",
-        "Resposta Verificação"
+        "Webhook Verificaçêo",
+        "Processar Verificaçêo",
+        "Resposta Verificaçêo"
       ],
       "node_count": 16,
       "description": "",
@@ -26091,10 +26091,10 @@
         "Enviar Nova Mensagem",
         "Enviar Acesso Negado",
         "Webhook Notificações",
-        "Resposta Notificação",
-        "Processar Notificação",
+        "Resposta Notificaçêo",
+        "Processar Notificaçêo",
         "Split Chat IDs",
-        "Enviar Notificação"
+        "Enviar Notificaçêo"
       ],
       "node_count": 21,
       "description": "",
@@ -26123,7 +26123,7 @@
       ]
     },
     {
-      "name": "Integração E-mail IMAP/SMTP",
+      "name": "Integraçêo E-mail IMAP/SMTP",
       "file": "08-integracao-email.json",
       "folder": "10577",
       "path": "/home/nmaldaner/projetos/N8Np/doc/2494913847/10577/08-integracao-email.json",
@@ -26236,7 +26236,7 @@
         "Tem Telefone?",
         "Enviar Follow-up WhatsApp",
         "Enviar Newsletter Email",
-        "Registrar Interação"
+        "Registrar Interaçêo"
       ],
       "node_count": 20,
       "description": "",
@@ -27626,7 +27626,7 @@
         "Function_Incrementa_Score_Primeira_Msg",
         "WhatsApp_Boas_Vindas",
         "OpenAI_IA_Conversacional",
-        "Decisão_Segmento",
+        "Decisêo_Segmento",
         "Function_Define_Plano_Valor",
         "Criar_Link_Pagamento",
         "Function_Incrementa_Score_Link",
@@ -74312,8 +74312,8 @@
         "busca_endereco",
         "envia_comanda",
         "salvar_cliente",
-        "Ativa Vector + Função Busca + Cria tabela",
-        "Ativa Vector + Função Busca + Cria tabela1",
+        "Ativa Vector + Funçêo Busca + Cria tabela",
+        "Ativa Vector + Funçêo Busca + Cria tabela1",
         "input evolution",
         "Evolution API",
         "If1",
@@ -145302,10 +145302,10 @@
         "@n8n/n8n-nodes-langchain.outputParserAutofixing"
       ],
       "node_names": [
-        "Criar Nova Sessão",
+        "Criar Nova Sessêo",
         "Criar uma nova Janela",
         "Pesquisar página",
-        "Terminar Sessão",
+        "Terminar Sessêo",
         "Auto-fixing Output Parser",
         "OpenAI Chat Model1",
         "Structured Output Parser",
@@ -145318,7 +145318,7 @@
         "Processar Itens",
         "Atualizar Linha na Planilha",
         "Replace Me",
-        "Filtrar Ativação - Planilha",
+        "Filtrar Ativaçêo - Planilha",
         "Sticky Note",
         "Sticky Note1",
         "Sticky Note2",
@@ -198458,7 +198458,7 @@
         "Assistente Clínica",
         "Enviar alerta de cancelamento",
         "Gatilho diário",
-        "Assistente de confirmação",
+        "Assistente de confirmaçêo",
         "AI Agent",
         "Sticky Note",
         "Sticky Note2",
@@ -359051,8 +359051,8 @@
         "Sticky Note56",
         "Sticky Note57",
         "Deleta Histórico",
-        "Cria função Busca em Vetor",
-        "Cria Extensão Vetor",
+        "Cria funçêo Busca em Vetor",
+        "Cria Extensêo Vetor",
         "Cria Tabela Chats",
         "Sticky Note65",
         "Deleta Conteúdo Chats",
@@ -466481,7 +466481,7 @@
         "Assistente Clínica",
         "Enviar alerta de cancelamento",
         "Gatilho diário",
-        "Assistente de confirmação",
+        "Assistente de confirmaçêo",
         "AI Agent",
         "Sticky Note",
         "Sticky Note2",
@@ -578827,7 +578827,7 @@
         "Assistente Clínica",
         "Enviar alerta de cancelamento",
         "Gatilho diário",
-        "Assistente de confirmação",
+        "Assistente de confirmaçêo",
         "AI Agent",
         "Sticky Note",
         "Sticky Note2",

@@ -141,49 +141,49 @@ Aula 4
 
 ### Caso Prático: Apify e Amazon com n8n  
   
-#### Introdução  
+#### Introduçêo  
   
 Neste caso prático, criamos um fluxo no n8n para utilizar o Apify e scrapear produtos da Amazon, organizando os dados em uma planilha no Google Sheets. Este fluxo permite:    
   
 - Análise detalhada de produtos.  
 - Acompanhamento de preços.  
-- Extração de dados específicos como marca, preço, reviews, e descrição.  
+- Extraçêo de dados específicos como marca, preço, reviews, e descriçêo.  
   
 ---  
   
 ### Etapas do Fluxo  
   
-#### 1. Configuração Inicial  
+#### 1. Configuraçêo Inicial  
 - Trigger manual: O fluxo inicia ao clicar manualmente, mas pode ser configurado para ser ativado automaticamente.    
 - Google Sheets: Criamos uma planilha com os seguintes campos:    
   - Inputs: Produto a ser buscado e número de resultados desejados.    
-  - Resultados: Título, URL, ASIN (identificador da Amazon), marca, preço, estrelas, reviews e descrição.    
-- Validação de erros:    
-  - Evita duplicação de buscas com o uso de formatação condicional.    
+  - Resultados: Título, URL, ASIN (identificador da Amazon), marca, preço, estrelas, reviews e descriçêo.    
+- Validaçêo de erros:    
+  - Evita duplicaçêo de buscas com o uso de formataçêo condicional.    
   - Marca buscas já realizadas com o status "**OK**" na coluna Check.    
   
 ---  
   
 #### 2. Scraping com Apify  
-- Preparação do JSON:    
+- Preparaçêo do JSON:    
   - Gerar a URL dinâmica para busca com o formato correto.    
   - Configurar o JSON com os parâmetros (URL e número de resultados).    
-- Interação com Apify:    
+- Interaçêo com Apify:    
   - Utilizar o método POST para enviar o JSON e obter os resultados.    
   
 ---  
   
 #### 3. Processamento de Dados  
-- Divisão dos resultados: Separar os dados em campos específicos (título, URL, ASIN, etc.).    
+- Divisêo dos resultados: Separar os dados em campos específicos (título, URL, ASIN, etc.).    
 - Média ponderada:    
-  - Calcular a média ponderada das estrelas para obter avaliações mais precisas, considerando o peso de cada classificação (ex.: 5 estrelas têm mais peso que 3 estrelas).    
+  - Calcular a média ponderada das estrelas para obter avaliações mais precisas, considerando o peso de cada classificaçêo (ex.: 5 estrelas têm mais peso que 3 estrelas).    
   
 ---  
   
-#### 4. Organização no Google Sheets  
-- Criação de novas folhas: Cada busca gera uma nova folha com os resultados.    
+#### 4. Organizaçêo no Google Sheets  
+- Criaçêo de novas folhas: Cada busca gera uma nova folha com os resultados.    
 - Armazenamento estruturado: Dados organizados com os campos principais.    
-- Atualização do status: Marca a coluna Check como "**OK**" ao concluir a busca.    
+- Atualizaçêo do status: Marca a coluna Check como "**OK**" ao concluir a busca.    
   
 ---  
   
@@ -193,9 +193,9 @@ Neste caso prático, criamos um fluxo no n8n para utilizar o Apify e scrapear pr
    - Exemplo: Enviar mensagem no Telegram ou email.    
   
 2. Análise de produtos:  
-   - Identificar melhores opções com base em avaliações, número de reviews e descrição.    
+   - Identificar melhores opções com base em avaliações, número de reviews e descriçêo.    
   
-3. Expansão para outras plataformas:  
+3. Expansêo para outras plataformas:  
    - Adaptar o fluxo para coletar dados de Google Maps, LinkedIn, ou outras plataformas com Apify.    
   
 ---  
@@ -203,14 +203,14 @@ Neste caso prático, criamos um fluxo no n8n para utilizar o Apify e scrapear pr
 ### Recursos Necessários  
 - Google Sheets: Para inputs e armazenamento dos resultados.    
 - Apify: Plataforma de scraping para obter dados de produtos da Amazon.    
-- n8n: Configuração do fluxo e integração com APIs.    
+- n8n: Configuraçêo do fluxo e integraçêo com APIs.    
   
 ---  
   
 ### Próximos Passos  
 - Implementar IA no n8n:    
   - Criar agentes e multiagentes.    
-  - Explorar ferramentas gratuitas de automação com inteligência artificial.    
+  - Explorar ferramentas gratuitas de automaçêo com inteligência artificial.    
   
 [https://www.youtube.com/watch?v=BZu2gt9jDvc](https://www.youtube.com/watch?v=BZu2gt9jDvc)
 Midia: MessageMediaWebPage

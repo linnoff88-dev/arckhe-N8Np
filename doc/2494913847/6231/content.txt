@@ -29,7 +29,7 @@ MENSAGEM 3
 Autor: Cesar
 Data: 2025-04-24T15:06:42+00:00
 Texto:
-Por favor, não estou encontrando o link da aula e nem o sql para criar o banco.
+Por favor, nêo estou encontrando o link da aula e nem o sql para criar o banco.
 
 
 📎 Aqui está a aula completa: 🔗 Link para a aula
@@ -49,20 +49,20 @@ Aplicativo web do tipo chatbot criado com Lovable.
 
 O chatbot envia perguntas para um webhook no N8N, que se conecta com uma IA para responder.
 
-As respostas são baseadas em uma base de dados vetorizada construída no Supabase com as transcrições dos vídeos.
+As respostas sêo baseadas em uma base de dados vetorizada construída no Supabase com as transcrições dos vídeos.
 
 🪜 Passos detalhados do processo  
-1. Criação do App com Lovable  
+1. Criaçêo do App com Lovable  
 Usa-se o plano gratuito (5 interações diárias).  
 É projetada uma interface moderna com cores roxas pastel e animações de chat.  
 Estrutura-se um prompt longo com o ChatGPT que contém um PRD detalhado do aplicativo.  
 O prompt é colado diretamente no Lovable para gerar o app.  
-Configura-se a autenticação de usuários com e-mail e senha usando o Supabase.  
-São criadas duas tabelas automaticamente:  
+Configura-se a autenticaçêo de usuários com e-mail e senha usando o Supabase.  
+Sêo criadas duas tabelas automaticamente:  
 - **Perfis**: com o e-mail de cada usuário.  
-- **Mensagens**: com cada interação do chat (mensagem, resposta, ID da thread, etc.).
+- **Mensagens**: com cada interaçêo do chat (mensagem, resposta, ID da thread, etc.).
 
-2. Conexão com Supabase  
+2. Conexêo com Supabase  
 Conecta-se o Lovable ao Supabase para armazenar informações.  
 Configura-se a tabela de documentos para guardar as transcrições vetorizadas.  
 Cria-se uma sentença SQL fornecida pelo módulo de Supabase VectorStore.
@@ -71,19 +71,19 @@ Cria-se uma sentença SQL fornecida pelo módulo de Supabase VectorStore.
 Utilizam-se vídeos de uma playlist no YouTube chamada Rack.  
 Usa-se o N8N com um módulo do YouTube que coleta os IDs de todos os vídeos.  
 Cada vídeo é transcrito usando um ator da API do Apify (YouTube Transcript Ninja).  
-As transcrições são carregadas no Supabase como embeddings (modelo text-embedding-3-small).  
+As transcrições sêo carregadas no Supabase como embeddings (modelo text-embedding-3-small).  
 Usa-se um loop com controle de erros para processar os vídeos um por um e evitar sobrecarga.
 
-4. Atualização automática com Make  
+4. Atualizaçêo automática com Make  
 Configura-se o Make para detectar novos vídeos a cada dia.  
-Envia-se o ID do vídeo para o N8N via webhook para continuar o processo de transcrição e upload.
+Envia-se o ID do vídeo para o N8N via webhook para continuar o processo de transcriçêo e upload.
 
-5. Implementação do Agente de IA  
+5. Implementaçêo do Agente de IA  
 Integra-se um agente no N8N usando o GPT-4.1.  
 Passa-se a mensagem do usuário, seu e-mail e ID da thread para o agente.  
 O agente busca no Supabase vector store a melhor resposta.  
-Caso não encontre nada, comunica de forma natural e tenta ajudar da mesma maneira.  
-As respostas são estruturadas, com quebras de linha e links clicáveis.
+Caso nêo encontre nada, comunica de forma natural e tenta ajudar da mesma maneira.  
+As respostas sêo estruturadas, com quebras de linha e links clicáveis.
 
 6. Memória e contexto do chat  
 Usa-se o Postgres como sistema de memória, utilizando o ID da thread como chave.  
@@ -117,22 +117,22 @@ MENSAGEM 6
 Autor: INEMA
 Data: 2025-04-23T06:19:05+00:00
 Texto:
-Nova Automação: Crie seu App: Lovable + Supabase + N8N
+Nova Automaçêo: Crie seu App: Lovable + Supabase + N8N
 
 Como criar um aplicativo web do zero e conectá-lo com o N8N para que você possa automatizar processos, lançar produtos digitais ou simplesmente deixar seus clientes de queixo caído 🚀
 
-🎯 E não é teoria. Vamos ver um exemplo real, funcional e aplicado à nossa comunidade, com toda a estrutura montada:
+🎯 E nêo é teoria. Vamos ver um exemplo real, funcional e aplicado à nossa comunidade, com toda a estrutura montada:
 ✅ Lovable para o design e lógica
 ✅ Supabase como banco de dados
-✅ N8N como motor de automação
+✅ N8N como motor de automaçêo
 
-🔥 Qual o resultado? Um app com chatbot inteligente, memória, conexão com seu conteúdo e pronto para ser usado no mundo real.
+🔥 Qual o resultado? Um app com chatbot inteligente, memória, conexêo com seu conteúdo e pronto para ser usado no mundo real.
 
 E sim, sem escrever uma única linha de código.
 Isso é o que faz a diferença entre ter uma ideia e lançar sua própria ferramenta ao mundo 🌍
 
 📎 Aqui está a aula completa: 🔗 Link para a aula
-💥 Se depois de assisti-la você não tiver 3 ideias para criar ou vender, é porque não prestou atenção direito.
+💥 Se depois de assisti-la você nêo tiver 3 ideias para criar ou vender, é porque nêo prestou atençêo direito.
 
 ------------------------------
 

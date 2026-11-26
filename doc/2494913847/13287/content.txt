@@ -19,7 +19,7 @@ Texto:
 
 # Hacks para RAG + Supabase + n8n
 
-### 1. Vectorização inteligente
+### 1. Vectorizaçêo inteligente
 
 * Sempre use **chunk overlap (200 tokens)** para garantir continuidade entre trechos.
 * Para documentos grandes, ajuste o **chunk size**:
@@ -32,8 +32,8 @@ Texto:
 ### 2. Embeddings com custo baixo e alta eficiência
 
 * Use **text-embedding-3-small** (1536 dims) para protótipos → barato e rápido.
-* Quando a base crescer muito, migre para **text-embedding-3-large** (3072 dims) → mais precisão.
-* Se mudar de modelo, **não esqueça** de ajustar o campo `vector(dimensões)` na tabela do Supabase.
+* Quando a base crescer muito, migre para **text-embedding-3-large** (3072 dims) → mais precisêo.
+* Se mudar de modelo, **nêo esqueça** de ajustar o campo `vector(dimensões)` na tabela do Supabase.
 
 ---
 
@@ -53,19 +53,19 @@ Texto:
 ### 4. n8n organizado
 
 * Nomeie cada nó com clareza: “GDrive Watch”, “Supabase Insert”, “Cohere Re-Rank”, etc.
-* Use **Execute Workflow** para dividir ingestão (fluxo 1) e perguntas/respostas (fluxo 2). Isso reduz falhas.
+* Use **Execute Workflow** para dividir ingestêo (fluxo 1) e perguntas/respostas (fluxo 2). Isso reduz falhas.
 * Ative **logging detalhado** em n8n → ajuda a rastrear problemas em embeddings ou consultas.
 
 ---
 
 ### 5. Re-Ranker (Cohere)
 
-* Configure `limit = 20` e **re-rank Top-K = 4–8** → garante precisão sem gastar tokens extras.
-* Se não usar Cohere, pelo menos retorne mais chunks (15–20) e faça a seleção via prompt do LLM.
+* Configure `limit = 20` e **re-rank Top-K = 4–8** → garante precisêo sem gastar tokens extras.
+* Se nêo usar Cohere, pelo menos retorne mais chunks (15–20) e faça a seleçêo via prompt do LLM.
 
 ---
 
-### 6. Webhooks e integração com front-end
+### 6. Webhooks e integraçêo com front-end
 
 * Conecte o fluxo de resposta a um **Webhook** → fácil de usar em **Bolt** ou **Lovable**.
 * Ao publicar, a URL do webhook muda → sempre **atualize no front-end**.
@@ -80,13 +80,13 @@ Exemplo de system prompt para o AI Agent:
 ```Você é um assistente especializado.  
 Responda somente com base no contexto retornado pelo Supabase.  
 Sempre cite o arquivo e a página do trecho encontrado nos metadados.  
-Se não houver informação suficiente, peça ao usuário para enviar documentos adicionais.```
+Se nêo houver informaçêo suficiente, peça ao usuário para enviar documentos adicionais.```
 
 → Isso evita “alucinações” e aumenta confiança.
 
 ---
 
-### 8. Testes e validação
+### 8. Testes e validaçêo
 
 * Teste sempre com p**erguntas específicas **(“Quais os modelos de \$100M do livro?”).
 * Verifique se a resposta traz m**etadados corretos.**
@@ -146,13 +146,13 @@ MENSAGEM 6
 Autor: INEMA
 Data: 2025-08-25T07:51:38+00:00
 Texto:
-Insert documents e se a tabela/documentos não estão vazios.
-   • Webhook em produção: a URL muda ao publicar; atualize no front-end.
+Insert documents e se a tabela/documentos nêo estêo vazios.
+   • Webhook em produçêo: a URL muda ao publicar; atualize no front-end.
 
 9. Exemplos prontos
 
 Exemplo de pergunta ao agente
-• Pergunta: Quais são os modelos de 100 milhões descritos no material?
+• Pergunta: Quais sêo os modelos de 100 milhões descritos no material?
 • Esperado: listar os modelos, mencionar trechos-chave e devolver metadados, ex.: fonte: 100m-models.pdf, página 42.
 
 Exemplo de metadados úteis por chunk
@@ -176,10 +176,10 @@ Q: Posso usar outra pasta de origem além do Google Drive?
 A: Sim. Troque o gatilho por e-mail, Dropbox, HTTP Upload etc. O importante é entregar o binário ao nó Insert documents.
 
 Q: Preciso do Re-Ranker da Cohere?
-A: Não é obrigatório, mas melhora bastante precisão em bases médias/grandes. Em bases pequenas, pode deixar desabilitado.
+A: Nêo é obrigatório, mas melhora bastante precisêo em bases médias/grandes. Em bases pequenas, pode deixar desabilitado.
 
 Q: Como atualizo documentos já ingeridos?
-A: Reingira o arquivo e use uma chave de deduplicação nos metadados (ex.: hash do conteúdo) ou crie um fluxo de “update” por ID.
+A: Reingira o arquivo e use uma chave de deduplicaçêo nos metadados (ex.: hash do conteúdo) ou crie um fluxo de “update” por ID.
 
 Q: Dá para compartilhar a memória entre apps?
 A: Sim. Postgres Chat Memory vive no Supabase; qualquer app que aponte para as mesmas tabelas pode ler o histórico.
@@ -222,7 +222,7 @@ with (lists = 100);```
 
 Dica: mantenha metadados como {"source":"gdrive","file":"nome.pdf","page":12}.
 
-3. Fluxo 1 no n8n: ingestão e vetorização
+3. Fluxo 1 no n8n: ingestêo e vetorizaçêo
    Ordem dos nós:
    a) Google Drive → Watch for new files
    • Folder: sua pasta “Entrada-RAG”
@@ -251,12 +251,12 @@ Teste: solte um PDF na pasta e verifique no Supabase > Table editor > documents 
 
    ```   Você é um assistente especializado. Responda com base no contexto retornado pela ferramenta Supabase.
    Cite trechos relevantes e inclua fonte e página quando existirem nos metadados.
-   Se não houver contexto suficiente, peça para o usuário enviar documentos.
+   Se nêo houver contexto suficiente, peça para o usuário enviar documentos.
    ```
 
 • Memory: Postgres Chat Memory
 – Host/Port/DB/User/Password: pegue em Project Settings > Connect > psql
-– Table prefix: n8n\_chat (padrão OK)
+– Table prefix: n8n\_chat (padrêo OK)
 – Context window: 45
 c) Tool → Supabase Vector Store (busca)
 • Credential: a mesma do Supabase
@@ -274,22 +274,22 @@ d) Webhook Respond (opcional)
    • No app front-end, envie {message: "..."} para a URL do webhook.
    • Use Respond to Webhook ao final para devolver a resposta do agente.
 
-6. Validação rápida
+6. Validaçêo rápida
    • Supabase: confira que documents tem novas linhas a cada PDF ingerido.
    • n8n: nos Executions/Logs do AI Agent, veja a sequência: Chat → Tool call Supabase → Re-rank → Resposta.
    • Faça uma pergunta específica e confira se os metadados retornam fonte/página esperadas.
 
 7. Boas práticas e ajustes
    • Metadados: sempre grave filename, page, section, url.
-   • PDFs com OCR ruim: passe por OCR antes (ex.: Tesseract) para melhorar a extração.
+   • PDFs com OCR ruim: passe por OCR antes (ex.: Tesseract) para melhorar a extraçêo.
    • Tuning do splitter: para textos curtos, reduza chunk size (600–800) e mantenha overlap 15–25%.
-   • Embeddings: troque para text-embedding-3-large se precisar de alta precisão (mude vector(3072) e reindexe).
+   • Embeddings: troque para text-embedding-3-large se precisar de alta precisêo (mude vector(3072) e reindexe).
    • Index ivfflat: ajuste lists conforme tamanho do corpus (100–1000).
    • Custo/latência: aumente o limit inicial para 20–30 e mantenha Top-K final 4–8 com re-rank da Cohere.
 
 8. Erros comuns e correções
-   • Falha ao conectar Postgres Memory: confirme host/port/db/user e o password do Database (não confundir com Service Role).
-   • Dimensão do vetor errada: o campo embedding precisa bater com o modelo escolhido (1536 para text-embedding-3-small).
+   • Falha ao conectar Postgres Memory: confirme host/port/db/user e o password do Database (nêo confundir com Service Role).
+   • Dimensêo do vetor errada: o campo embedding precisa bater com o modelo escolhido (1536 para text-embedding-3-small).
    • Nada retorna na busca: verifique se embeddings foram criados no
 
 ------------------------------
@@ -308,9 +308,9 @@ Data: 2025-08-25T07:50:01+00:00
 Texto:
 Resumo completo do conteúdo da masterclass sobre RAG & Supabase:
 
-### Visão Geral
+### Visêo Geral
 
-Como usar **Supabase** e **RAG (Retrieval-Augmented Generation)** para criar fluxos de trabalho de automação mais poderosos, escaláveis e monetizáveis. Ele ensina como **vectorizar documentos (PDFs, livros, etc.) em Supabase**, consultar esses dados de forma eficiente e conectar tudo ao **n8n**, **Bolt** e **Lovable**.
+Como usar **Supabase** e **RAG (Retrieval-Augmented Generation)** para criar fluxos de trabalho de automaçêo mais poderosos, escaláveis e monetizáveis. Ele ensina como **vectorizar documentos (PDFs, livros, etc.) em Supabase**, consultar esses dados de forma eficiente e conectar tudo ao **n8n**, **Bolt** e **Lovable**.
 
 ### Pontos Principais
 
@@ -323,7 +323,7 @@ Como usar **Supabase** e **RAG (Retrieval-Augmented Generation)** para criar flu
 
 2. **RAG (Retrieval-Augmented Generation)**
 
-   * Resolve a limitação de contexto dos LLMs (que não lembram tudo após certo limite de tokens).
+   * Resolve a limitaçêo de contexto dos LLMs (que nêo lembram tudo após certo limite de tokens).
    * Estratégia: dividir documentos em pequenos trechos (chunks), buscar apenas os relevantes e re-ranquear (filtrar os mais úteis).
    * Garante respostas mais rápidas, relevantes e consistentes.
 
@@ -333,12 +333,12 @@ Como usar **Supabase** e **RAG (Retrieval-Augmented Generation)** para criar flu
    * Estrutura básica: tabela de documentos com ID, conteúdo, metadados e vetores.
    * Permite consultas rápidas e escaláveis.
 
-4. **Integração com n8n**
+4. **Integraçêo com n8n**
 
    * Exemplo: monitorar uma pasta no Google Drive.
    * Sempre que um PDF é adicionado, ele é baixado, processado, vectorizado e armazenado no Supabase.
-   * Usa “Recursive Text Splitter” para criar chunks de \~1000 tokens com sobreposição de contexto.
-   * Conexão feita por credenciais de API e SQL gerado automaticamente (pode usar ChatGPT para escrever SQL).
+   * Usa “Recursive Text Splitter” para criar chunks de \~1000 tokens com sobreposiçêo de contexto.
+   * Conexêo feita por credenciais de API e SQL gerado automaticamente (pode usar ChatGPT para escrever SQL).
 
 5. **Ferramentas Extras**
 
@@ -348,17 +348,17 @@ Como usar **Supabase** e **RAG (Retrieval-Augmented Generation)** para criar flu
 
 6. **Exemplo Prático**
 
-   * Vetorização de livros do Alex Hormozi no Supabase.
-   * Criação de um agente capaz de responder perguntas sobre os livros, consultando o banco vetorial.
-   * Conexão do agente ao Supabase + Cohere Re-Ranker para aumentar precisão.
-   * Integração com Bolt/Lovable para interface de chatbot.
+   * Vetorizaçêo de livros do Alex Hormozi no Supabase.
+   * Criaçêo de um agente capaz de responder perguntas sobre os livros, consultando o banco vetorial.
+   * Conexêo do agente ao Supabase + Cohere Re-Ranker para aumentar precisêo.
+   * Integraçêo com Bolt/Lovable para interface de chatbot.
 
-7. **Conexão com Webhooks**
+7. **Conexêo com Webhooks**
 
    * Mensagens e respostas do agente podem ser enviadas via webhook.
    * Permite conectar a outros apps e escalar as automações.
 
-### Conclusão
+### Conclusêo
 
 A masterclass mostra:
 

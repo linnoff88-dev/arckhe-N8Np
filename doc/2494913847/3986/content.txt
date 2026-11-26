@@ -13,7 +13,7 @@ MENSAGEM 1
 Autor: INEMA
 Data: 2025-03-27T05:02:34+00:00
 Texto:
-**Raspador de agente de IA baseado em visão**  
+**Raspador de agente de IA baseado em visêo**  
 *Com Google Sheets, ScrapingBee e Gemini*
 
 **O que isso faz?**
@@ -24,23 +24,23 @@ Texto:
 2. **Captura de Alvos**  
    Ele busca uma lista de URLs de sites a partir de uma planilha no Google Sheets — sua própria lista de lugares a serem raspados.
 
-3. **Preparação dos Dados**  
+3. **Preparaçêo dos Dados**  
    Define e configura cada URL do site a ser processado.
 
 4. **Captura Visual**  
    Utilizando o ScrapingBee, tira uma captura de tela de página inteira de cada URL, pegando todos os detalhes visuais (como tirar uma foto da sua página favorita).
 
 5. **Plano B – Backup em HTML**  
-   Se a captura de tela não for suficiente, ele baixa o HTML da página como alternativa (porque até os melhores fotógrafos precisam de uma segunda opinião às vezes).
+   Se a captura de tela nêo for suficiente, ele baixa o HTML da página como alternativa (porque até os melhores fotógrafos precisam de uma segunda opiniêo às vezes).
 
 6. **Entra o Agente de IA**  
-   O modelo Gemini Chat (baseado no Gemini-1.5-Pro) entra em ação para analisar a captura de tela — e, se necessário, o HTML convertido em Markdown — e extrair informações importantes como títulos de produtos, preços, marcas e promoções.
+   O modelo Gemini Chat (baseado no Gemini-1.5-Pro) entra em açêo para analisar a captura de tela — e, se necessário, o HTML convertido em Markdown — e extrair informações importantes como títulos de produtos, preços, marcas e promoções.
 
-7. **Organização dos Dados**  
-   Os dados extraídos são organizados em um formato JSON estruturado.
+7. **Organizaçêo dos Dados**  
+   Os dados extraídos sêo organizados em um formato JSON estruturado.
 
-8. **Divisão e Armazenamento**  
-   Por fim, os dados são divididos em linhas individuais e adicionados a uma aba chamada “Resultados” na planilha do Google Sheets, deixando tudo organizado em um só lugar.
+8. **Divisêo e Armazenamento**  
+   Por fim, os dados sêo divididos em linhas individuais e adicionados a uma aba chamada “Resultados” na planilha do Google Sheets, deixando tudo organizado em um só lugar.
 
 **Recursos**  
 - Modelo JSON estruturado (para facilitar o uso dos dados em outras aplicações)

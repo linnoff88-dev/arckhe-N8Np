@@ -31,10 +31,10 @@ Ebay Item Feed Service Api Gateway For Ai Agents — Operações: 4 — [Link](h
 2. E-commerce e CMS
 3. Bancos de Dados e Busca
 4. Infraestrutura e Cloud
-5. Ferramentas de Comunicação
+5. Ferramentas de Comunicaçêo
 6. Ferramentas de Produtividade
-7. Automação & No-Code
-8. IA e Moderação de Conteúdo
+7. Automaçêo & No-Code
+8. IA e Moderaçêo de Conteúdo
 9. Outros / Diversos
 Midia: MessageMediaWebPage
 
@@ -94,7 +94,7 @@ MENSAGEM 5
 Autor: INEMA
 Data: 2025-08-31T07:19:06+00:00
 Texto:
-## **IA e Moderação de Conteúdo**
+## **IA e Moderaçêo de Conteúdo**
 
 6. Get Create Update Profiles Humantic AI Tool MCP Server — Operações: 3 — [Link](https://n8n.io/workflows/5240-get-create-upadte-profiles-humantic-ai-tool-mcp-server/)
 7. Dropcontact Tool MCP Server — Operações: 2 — [Link](https://n8n.io/workflows/5275-dropcontact-tool-mcp-server/)
@@ -137,7 +137,7 @@ MENSAGEM 8
 Autor: INEMA
 Data: 2025-08-31T07:16:50+00:00
 Texto:
-## **Automação & No-Code**
+## **Automaçêo & No-Code**
 
 140. Zapier Tool MCP Server — Operações: 4 — [Link](https://n8n.io/workflows/5619-zapier-tool-mcp-server-4-operations/)
 141. IFTTT Tool MCP Server — Operações: 4 — [Link](https://n8n.io/workflows/5621-ifttt-tool-mcp-server-4-operations/)
@@ -222,13 +222,13 @@ MENSAGEM 12
 Autor: INEMA
 Data: 2025-08-31T07:14:15+00:00
 Texto:
-## **Ferramentas de Comunicação**
+## **Ferramentas de Comunicaçêo**
 
 37. Slack Tool MCP Server — Operações: 10 — [Link](https://n8n.io/workflows/5393-slack-tool-mcp-server-10-operations/)
 38. Get Slack Tool MCP Server — Operações: 11 — [Link](https://n8n.io/workflows/5347-get-slack-tool-mcp-server-all-11-operations/)
 39. Discord Tool MCP Server — Operações: 7 — [Link](https://n8n.io/workflows/5413-discord-tool-mcp-server-7-operations/)
-40. Control Discord Bot With Natural Language Via MCP Server — Operações: não informado — [Link](https://n8n.io/workflows/3946-control-discord-bot-with-natural-language-via-mcp-server/)
-41. Control Your Discord Server With Natural Language Via GPT4o And MCP Client — Operações: não informado — [Link](https://n8n.io/workflows/3945-control-your-discord-server-with-natural-language-via-gpt4o-and-mcp-client/)
+40. Control Discord Bot With Natural Language Via MCP Server — Operações: nêo informado — [Link](https://n8n.io/workflows/3946-control-discord-bot-with-natural-language-via-mcp-server/)
+41. Control Your Discord Server With Natural Language Via GPT4o And MCP Client — Operações: nêo informado — [Link](https://n8n.io/workflows/3945-control-your-discord-server-with-natural-language-via-gpt4o-and-mcp-client/)
 42. Microsoft Teams Tool MCP Server — Operações: 9 — [Link](https://n8n.io/workflows/5415-microsoft-teams-tool-mcp-server-9-operations/)
 43. Twilio Tool MCP Server — Operações: 10 — [Link](https://n8n.io/workflows/5445-twilio-tool-mcp-server-10-operations/)
 44. Call And Sms Twilio Tool MCP Server — Operações: 2 — [Link](https://n8n.io/workflows/5078-call-and-sms-twilio-tool-mcp-server/)
@@ -407,10 +407,10 @@ Categorias (baseado nos workflows do cfomodz):
 * **E-commerce e CMS** (Shopify, WooCommerce, Magento, Wordpress, etc.)
 * **Bancos de Dados e Busca** (Postgres, MySQL, Redis, Elastic, Pinecone, etc.)
 * **Infraestrutura e Cloud** (AWS, GCP, Azure, Netlify, etc.)
-* **Ferramentas de Comunicação** (Slack, Discord, Teams, Twilio, Email APIs, etc.)
+* **Ferramentas de Comunicaçêo** (Slack, Discord, Teams, Twilio, Email APIs, etc.)
 * **Ferramentas de Produtividade** (Notion, Coda, ClickUp, Google Docs, Trello, etc.)
-* **Automação & No-Code** (Zapier, IFTTT, Retool, Supabase, Appsmith, etc.)
-* **IA e Moderação de Conteúdo** (Humantic, Image Nudity Detection, etc.)
+* **Automaçêo & No-Code** (Zapier, IFTTT, Retool, Supabase, Appsmith, etc.)
+* **IA e Moderaçêo de Conteúdo** (Humantic, Image Nudity Detection, etc.)
 * **Outros / Diversos** (casos muito específicos, como Profitwell, Coinmarketcap etc.)
 
 ------------------------------
@@ -595,8 +595,8 @@ Autor: INEMA
 Data: 2025-08-31T07:07:39+00:00
 Texto:
 Call And Sms Twilio Tool MCP Server — Operações: 2 — [Link](https://n8n.io/workflows/5078-call-and-sms-twilio-tool-mcp-server/)
-118. Control Discord Bot With Natural Language Via MCP Server — Operações: não informado — [Link](https://n8n.io/workflows/3946-control-discord-bot-with-natural-language-via-mcp-server/)
-119. Control Your Discord Server With Natural Language Via Gpt4o And MCP Client — Operações: não informado — [Link](https://n8n.io/workflows/3945-control-your-discord-server-with-natural-language-via-gpt4o-and-mcp-client/)
+118. Control Discord Bot With Natural Language Via MCP Server — Operações: nêo informado — [Link](https://n8n.io/workflows/3946-control-discord-bot-with-natural-language-via-mcp-server/)
+119. Control Your Discord Server With Natural Language Via Gpt4o And MCP Client — Operações: nêo informado — [Link](https://n8n.io/workflows/3945-control-your-discord-server-with-natural-language-via-gpt4o-and-mcp-client/)
 120. Team Knowledge Management With Google Docs Discord And Ai Assistant — Operações: 6 — [Link](https://n8n.io/workflows/5560-team-knowledge-management-with-google-docs-discord-and-ai-assistant/)
 Midia: MessageMediaWebPage
 

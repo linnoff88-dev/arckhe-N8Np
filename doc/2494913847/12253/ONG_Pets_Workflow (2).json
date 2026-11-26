@@ -1,5 +1,5 @@
 {
-  "name": "Sistema Completo ONG Pets - Automação N8N",
+  "name": "Sistema Completo ONG Pets - Automaçêo N8N",
   "nodes": [
     {
       "parameters": {
@@ -332,7 +332,7 @@
         "messages": {
           "values": [
             {
-              "content": "=Você é um assistente especializado em análise de imagens para uma ONG de proteção animal.\n\nAnalise esta imagem e extraia as seguintes informações:\n1. Se há animais na imagem (tipo, quantidade, condições)\n2. Se parece ser uma situação de emergência ou resgate\n3. Localização visível (placas, endereços, pontos de referência)\n4. Descrição detalhada do que você vê\n\nImagem: {{ $json.data.message.imageMessage.url }}\n\nResponda em formato JSON:\n{\n  \"tem_animal\": boolean,\n  \"tipo_animal\": \"string\",\n  \"quantidade\": number,\n  \"emergencia\": boolean,\n  \"localizacao\": \"string\",\n  \"descricao\": \"string\"\n}"
+              "content": "=Você é um assistente especializado em análise de imagens para uma ONG de proteçêo animal.\n\nAnalise esta imagem e extraia as seguintes informações:\n1. Se há animais na imagem (tipo, quantidade, condições)\n2. Se parece ser uma situaçêo de emergência ou resgate\n3. Localizaçêo visível (placas, endereços, pontos de referência)\n4. Descriçêo detalhada do que você vê\n\nImagem: {{ $json.data.message.imageMessage.url }}\n\nResponda em formato JSON:\n{\n  \"tem_animal\": boolean,\n  \"tipo_animal\": \"string\",\n  \"quantidade\": number,\n  \"emergencia\": boolean,\n  \"localizacao\": \"string\",\n  \"descricao\": \"string\"\n}"
             }
           ]
         },
@@ -359,7 +359,7 @@
         "promptType": "define",
         "text": "={{ $json.mensagem_texto || $json.transcricao || $json.descricao_imagem }}",
         "options": {
-          "systemMessage": "=Você é o orquestrador inteligente da ONG Pets. Sua função é analisar a mensagem do usuário e identificar a intenção para direcioná-la ao agente especializado correto.\n\n## Histórico da Conversa:\n{{ $('Buscar Histórico Conversa').all().map(item => `${item.json.timestamp}: ${item.json.mensagem}`).join('\\n') }}\n\n## Agentes Disponíveis:\n1. **cadastro_animal** - Para registrar novos animais encontrados, perdidos ou para adoção\n2. **agendamento_castracao** - Para agendar cirurgias de castração\n3. **rag_duvidas** - Para responder dúvidas gerais sobre cuidados, procedimentos, etc.\n4. **emergencia** - Para situações urgentes de resgate ou emergência médica\n\n## Regras de Classificação:\n- Palavras-chave para CADASTRO: \"encontrei\", \"achei\", \"perdido\", \"adoção\", \"registrar\", \"cadastrar\"\n- Palavras-chave para CASTRAÇÃO: \"castrar\", \"castração\", \"esterilizar\", \"agendar\", \"cirurgia\"\n- Palavras-chave para EMERGÊNCIA: \"urgente\", \"socorro\", \"ferido\", \"atropelado\", \"emergência\", \"ajuda\"\n- Palavras-chave para DÚVIDAS: \"como\", \"quando\", \"onde\", \"dúvida\", \"informação\", \"orientação\"\n\nResponda APENAS com o nome do agente: cadastro_animal, agendamento_castracao, rag_duvidas ou emergencia",
+          "systemMessage": "=Você é o orquestrador inteligente da ONG Pets. Sua funçêo é analisar a mensagem do usuário e identificar a intençêo para direcioná-la ao agente especializado correto.\n\n## Histórico da Conversa:\n{{ $('Buscar Histórico Conversa').all().map(item => `${item.json.timestamp}: ${item.json.mensagem}`).join('\\n') }}\n\n## Agentes Disponíveis:\n1. **cadastro_animal** - Para registrar novos animais encontrados, perdidos ou para adoçêo\n2. **agendamento_castracao** - Para agendar cirurgias de castraçêo\n3. **rag_duvidas** - Para responder dúvidas gerais sobre cuidados, procedimentos, etc.\n4. **emergencia** - Para situações urgentes de resgate ou emergência médica\n\n## Regras de Classificaçêo:\n- Palavras-chave para CADASTRO: \"encontrei\", \"achei\", \"perdido\", \"adoçêo\", \"registrar\", \"cadastrar\"\n- Palavras-chave para CASTRAÇêO: \"castrar\", \"castraçêo\", \"esterilizar\", \"agendar\", \"cirurgia\"\n- Palavras-chave para EMERGÊNCIA: \"urgente\", \"socorro\", \"ferido\", \"atropelado\", \"emergência\", \"ajuda\"\n- Palavras-chave para DÚVIDAS: \"como\", \"quando\", \"onde\", \"dúvida\", \"informaçêo\", \"orientaçêo\"\n\nResponda APENAS com o nome do agente: cadastro_animal, agendamento_castracao, rag_duvidas ou emergencia",
           "returnIntermediateSteps": false
         }
       },
@@ -498,7 +498,7 @@
         "messages": {
           "values": [
             {
-              "content": "=Você é o agente especializado em cadastro de animais da ONG Pets.\n\nMensagem do usuário: {{ $json.mensagem_texto || $json.transcricao }}\nAnálise de imagem: {{ $json.analise_imagem || 'Não disponível' }}\n\nColete as seguintes informações para cadastrar o animal:\n1. Tipo de animal (cão, gato, etc.)\n2. Porte (pequeno, médio, grande)\n3. Cor/características físicas\n4. Situação (perdido, encontrado, para adoção)\n5. Localização onde foi encontrado\n6. Estado de saúde aparente\n7. Contato do responsável\n\nSe alguma informação estiver faltando, pergunte de forma amigável.\nSe todas as informações estiverem completas, confirme o cadastro.\n\nResponda em formato JSON:\n{\n  \"resposta\": \"sua resposta ao usuário\",\n  \"dados_completos\": boolean,\n  \"dados_animal\": {\n    \"tipo\": \"string\",\n    \"porte\": \"string\",\n    \"cor\": \"string\",\n    \"situacao\": \"string\",\n    \"localizacao\": \"string\",\n    \"saude\": \"string\",\n    \"contato\": \"string\"\n  }\n}"
+              "content": "=Você é o agente especializado em cadastro de animais da ONG Pets.\n\nMensagem do usuário: {{ $json.mensagem_texto || $json.transcricao }}\nAnálise de imagem: {{ $json.analise_imagem || 'Nêo disponível' }}\n\nColete as seguintes informações para cadastrar o animal:\n1. Tipo de animal (cêo, gato, etc.)\n2. Porte (pequeno, médio, grande)\n3. Cor/características físicas\n4. Situaçêo (perdido, encontrado, para adoçêo)\n5. Localizaçêo onde foi encontrado\n6. Estado de saúde aparente\n7. Contato do responsável\n\nSe alguma informaçêo estiver faltando, pergunte de forma amigável.\nSe todas as informações estiverem completas, confirme o cadastro.\n\nResponda em formato JSON:\n{\n  \"resposta\": \"sua resposta ao usuário\",\n  \"dados_completos\": boolean,\n  \"dados_animal\": {\n    \"tipo\": \"string\",\n    \"porte\": \"string\",\n    \"cor\": \"string\",\n    \"situacao\": \"string\",\n    \"localizacao\": \"string\",\n    \"saude\": \"string\",\n    \"contato\": \"string\"\n  }\n}"
             }
           ]
         },
@@ -531,7 +531,7 @@
         "messages": {
           "values": [
             {
-              "content": "=Você é o agente especializado em agendamento de castração da ONG Pets.\n\nMensagem do usuário: {{ $json.mensagem_texto || $json.transcricao }}\n\nColete as seguintes informações para agendar a castração:\n1. Nome do animal\n2. Tipo e porte do animal\n3. Idade aproximada\n4. Peso aproximado\n5. Histórico de saúde/vacinas\n6. Nome e contato do tutor\n7. Endereço para busca (se necessário)\n8. Preferência de data\n\nConsulte a agenda disponível e sugira datas.\nVerifique se o animal atende aos critérios (idade mínima, peso, vacinas).\n\nResponda em formato JSON:\n{\n  \"resposta\": \"sua resposta ao usuário\",\n  \"dados_completos\": boolean,\n  \"dados_agendamento\": {\n    \"nome_animal\": \"string\",\n    \"tipo_porte\": \"string\",\n    \"idade\": \"string\",\n    \"peso\": \"string\",\n    \"vacinas\": \"string\",\n    \"nome_tutor\": \"string\",\n    \"contato_tutor\": \"string\",\n    \"endereco\": \"string\",\n    \"data_preferencia\": \"string\"\n  }\n}"
+              "content": "=Você é o agente especializado em agendamento de castraçêo da ONG Pets.\n\nMensagem do usuário: {{ $json.mensagem_texto || $json.transcricao }}\n\nColete as seguintes informações para agendar a castraçêo:\n1. Nome do animal\n2. Tipo e porte do animal\n3. Idade aproximada\n4. Peso aproximado\n5. Histórico de saúde/vacinas\n6. Nome e contato do tutor\n7. Endereço para busca (se necessário)\n8. Preferência de data\n\nConsulte a agenda disponível e sugira datas.\nVerifique se o animal atende aos critérios (idade mínima, peso, vacinas).\n\nResponda em formato JSON:\n{\n  \"resposta\": \"sua resposta ao usuário\",\n  \"dados_completos\": boolean,\n  \"dados_agendamento\": {\n    \"nome_animal\": \"string\",\n    \"tipo_porte\": \"string\",\n    \"idade\": \"string\",\n    \"peso\": \"string\",\n    \"vacinas\": \"string\",\n    \"nome_tutor\": \"string\",\n    \"contato_tutor\": \"string\",\n    \"endereco\": \"string\",\n    \"data_preferencia\": \"string\"\n  }\n}"
             }
           ]
         },
@@ -539,7 +539,7 @@
         "options": {}
       },
       "id": "agente-castracao-013",
-      "name": "Agente Castração",
+      "name": "Agente Castraçêo",
       "type": "@n8n/n8n-nodes-langchain.openAi",
       "typeVersion": 1.8,
       "position": [
@@ -612,7 +612,7 @@
         "promptType": "define",
         "text": "={{ $json.mensagem_texto || $json.transcricao }}",
         "options": {
-          "systemMessage": "Você é um assistente especializado da ONG Pets. Use a base de conhecimento para responder dúvidas sobre:\n- Cuidados com animais\n- Procedimentos de adoção\n- Orientações de saúde\n- Informações sobre castração\n- Dicas de comportamento animal\n\nSempre seja empático, informativo e ofereça ajuda adicional quando necessário.",
+          "systemMessage": "Você é um assistente especializado da ONG Pets. Use a base de conhecimento para responder dúvidas sobre:\n- Cuidados com animais\n- Procedimentos de adoçêo\n- Orientações de saúde\n- Informações sobre castraçêo\n- Dicas de comportamento animal\n\nSempre seja empático, informativo e ofereça ajuda adicional quando necessário.",
           "returnIntermediateSteps": false
         }
       },
@@ -642,7 +642,7 @@
         "messages": {
           "values": [
             {
-              "content": "=🚨 EMERGÊNCIA DETECTADA - ONG PETS 🚨\n\nMensagem: {{ $json.mensagem_texto || $json.transcricao }}\nAnálise de imagem: {{ $json.analise_imagem || 'Não disponível' }}\n\nVocê é o agente de emergência. Priorize:\n1. Coleta rápida de localização exata\n2. Avaliação da gravidade da situação\n3. Orientações de primeiros socorros se necessário\n4. Acionamento da equipe de resgate\n5. Manter contato constante até a chegada da ajuda\n\nResponda de forma urgente e direta. Se a localização não estiver clara, essa é a PRIORIDADE MÁXIMA.\n\nFormato de resposta JSON:\n{\n  \"resposta\": \"resposta urgente ao usuário\",\n  \"nivel_emergencia\": \"baixo|medio|alto|critico\",\n  \"acoes_necessarias\": [\"lista de ações\"],\n  \"equipe_acionada\": boolean,\n  \"dados_emergencia\": {\n    \"localizacao\": \"string\",\n    \"tipo_animal\": \"string\",\n    \"situacao\": \"string\",\n    \"contato\": \"string\"\n  }\n}"
+              "content": "=🚨 EMERGÊNCIA DETECTADA - ONG PETS 🚨\n\nMensagem: {{ $json.mensagem_texto || $json.transcricao }}\nAnálise de imagem: {{ $json.analise_imagem || 'Nêo disponível' }}\n\nVocê é o agente de emergência. Priorize:\n1. Coleta rápida de localizaçêo exata\n2. Avaliaçêo da gravidade da situaçêo\n3. Orientações de primeiros socorros se necessário\n4. Acionamento da equipe de resgate\n5. Manter contato constante até a chegada da ajuda\n\nResponda de forma urgente e direta. Se a localizaçêo nêo estiver clara, essa é a PRIORIDADE MÁXIMA.\n\nFormato de resposta JSON:\n{\n  \"resposta\": \"resposta urgente ao usuário\",\n  \"nivel_emergencia\": \"baixo|medio|alto|critico\",\n  \"acoes_necessarias\": [\"lista de ações\"],\n  \"equipe_acionada\": boolean,\n  \"dados_emergencia\": {\n    \"localizacao\": \"string\",\n    \"tipo_animal\": \"string\",\n    \"situacao\": \"string\",\n    \"contato\": \"string\"\n  }\n}"
             }
           ]
         },
@@ -1312,7 +1312,7 @@
         ],
         [
           {
-            "node": "Agente Castração",
+            "node": "Agente Castraçêo",
             "type": "main",
             "index": 0
           }
@@ -1349,7 +1349,7 @@
         ]
       ]
     },
-    "Agente Castração": {
+    "Agente Castraçêo": {
       "main": [
         [
           {

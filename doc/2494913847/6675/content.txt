@@ -17,7 +17,7 @@ Um Blog com v0 e um Agente de IA para Reaproveitar Notícias em Blogs (Sem Códi
 
 Acabei de fazer um tutorial mostrando como transformar artigos de notícias em conteúdos prontos para blog automaticamente, usando OpenAI, Supabase e a API Exa — sem precisar programar!  
 
-Esse sistema movido por IA extrai, formata e otimiza o conteúdo das notícias, transformando-o em posts de blog envolventes e tornando a criação de conteúdo algo sem esforço.
+Esse sistema movido por IA extrai, formata e otimiza o conteúdo das notícias, transformando-o em posts de blog envolventes e tornando a criaçêo de conteúdo algo sem esforço.
 
 ------------------------------
 

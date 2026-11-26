@@ -41,7 +41,7 @@ Como criou um agente de IA que coleta **insights em tempo real da rede X (antigo
 * **Ferramentas usadas**:
 
   * **Bolt.new**: para a interface e acionamento do sistema.
-  * **n8n**: para o fluxo de automação com webhook e integração da lógica.
+  * **n8n**: para o fluxo de automaçêo com webhook e integraçêo da lógica.
   * **Supabase**: como base de dados e ponto de escuta (edge functions).
   * **Live Search API (Grok)**: para consultar postagens públicas em tempo real.
   * **Anthropic Claude 3.5 Sonnet**: para gerar análises e respostas com base nos dados.
@@ -69,15 +69,15 @@ Como criou um agente de IA que coleta **insights em tempo real da rede X (antigo
 * **Desafios técnicos resolvidos**:
 
   * **CORS delay**: o autor precisou configurar Bolt para aguardar mais tempo pela resposta do n8n.
-  * **Importação de cURL**: usou Perplexity para obter comandos cURL prontos, facilitando a configuração da API no n8n.
+  * **Importaçêo de cURL**: usou Perplexity para obter comandos cURL prontos, facilitando a configuraçêo da API no n8n.
 
 
 
 
 
-### Conclusão:
+### Conclusêo:
 
-Com este agente, é possível criar uma aplicação que acompanha o **sentimento em tempo real de comunidades no X**, detecta tendências, e gera respostas contextualizadas com **citações diretas** das postagens — tudo isso com **automação no-code**, pronto para ser replicado.
+Com este agente, é possível criar uma aplicaçêo que acompanha o **sentimento em tempo real de comunidades no X**, detecta tendências, e gera respostas contextualizadas com **citações diretas** das postagens — tudo isso com **automaçêo no-code**, pronto para ser replicado.
 
 ------------------------------
 
@@ -91,7 +91,7 @@ Neste módulo, mostro como criar um agente de IA capaz de extrair insights em te
 
 A partir de um fluxo simples apresentado anteriormente, evoluí o projeto adicionando uma camada extra: uma interface front-end desenvolvida no Bolt, pensada especialmente para o hackathon.
 
-Essa interface se comunica com uma versão aprimorada do fluxo original, usando webhooks para captar dados do X e retornar respostas automatizadas baseadas nessas informações.
+Essa interface se comunica com uma versêo aprimorada do fluxo original, usando webhooks para captar dados do X e retornar respostas automatizadas baseadas nessas informações.
 
 ------------------------------
 

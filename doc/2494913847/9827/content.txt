@@ -37,15 +37,15 @@ Abaixo está o **passo a passo completo** para criar um **Agente de IA para Rest
 ### 2. **Detectar Tipo de Mensagem (Texto ou Áudio)**
 
 * Use um **nó IF** no n8n para verificar se a mensagem recebida é de texto ou áudio.
-* Se for áudio, siga para transcrição (passo 3).
+* Se for áudio, siga para transcriçêo (passo 3).
 * Se for texto, siga direto para o processamento com IA (passo 4).
 
 ---
 
-### 3. **Transcrição de Áudio com OpenAI**
+### 3. **Transcriçêo de Áudio com OpenAI**
 
 * Use um **nó HTTP Request** para baixar o áudio do WhatsApp.
-* Em seguida, conecte ao **nó OpenAI com recurso de transcrição de áudio (Whisper)**.
+* Em seguida, conecte ao **nó OpenAI com recurso de transcriçêo de áudio (Whisper)**.
 * Envie o áudio e receba o texto transcrito para ser usado no passo seguinte.
 
 ---
@@ -56,20 +56,20 @@ Abaixo está o **passo a passo completo** para criar um **Agente de IA para Rest
 
 * Configure um **Prompt de Sistema** assim:
 
-  `  Você é um agente de restaurante. Suas funções são:
+  `  Você é um agente de restaurante. Suas funções sêo:
   1. Enviar o cardápio atual do restaurante.
   2. Registrar pedidos e salvar em planilha.
   3. Verificar disponibilidade no Google Calendar.
   4. Criar reservas com nome e horário.
   `
 
-* Envie a pergunta do cliente (texto ou transcrição) como entrada.
+* Envie a pergunta do cliente (texto ou transcriçêo) como entrada.
 
 ---
 
 ### 5. O**bter o Cardápio (se solicitado)
 **
-* Se a IA responder com uma solicitação de cardápio:
+* Se a IA responder com uma solicitaçêo de cardápio:
 
   * Use um n**ó Google Sheets **para buscar o menu da planilha.
   * Envie o resultado de volta ao cliente via WhatsApp.
@@ -95,7 +95,7 @@ Abaixo está o **passo a passo completo** para criar um **Agente de IA para Rest
 
   * Use o n**ó Google Calendar > Search Events **para verificar disponibilidade no horário solicitado.
   * Se disponível, use o n**ó Google Calendar > Create Event **para registrar a reserva.
-  * Envie confirmação via WhatsApp.
+  * Envie confirmaçêo via WhatsApp.
 
 ---
 
@@ -103,7 +103,7 @@ Abaixo está o **passo a passo completo** para criar um **Agente de IA para Rest
 **
 * Use o n**ó WhatsApp Send Message:**
 
-  * Envie a resposta com o cardápio, status do pedido ou confirmação da reserva.
+  * Envie a resposta com o cardápio, status do pedido ou confirmaçêo da reserva.
 
 ---
 
@@ -116,7 +116,7 @@ Abaixo está o **passo a passo completo** para criar um **Agente de IA para Rest
 ### Exemplo de Fluxo no n8n:
 
 [`WhatsApp Trigger] → [IF: texto ou áudio] 
-→ [Transcrição com OpenAI] → [Chat OpenAI com Prompt de Agente] 
+→ [Transcriçêo com OpenAI] → [Chat OpenAI com Prompt de Agente] 
 → [Verifica se é Menu] → [Google Sheets - buscar menu] 
 → [Verifica se é Pedido] → [Google Sheets - salvar pedido] 
 → [Verifica se é Reserva] → [Google Calendar - buscar e criar evento] 
@@ -138,16 +138,16 @@ Data: 2025-06-15T05:25:29+00:00
 Texto:
 **Resumo do conteúdo :**
 
-Um sistema de automação com IA foi criado para atender restaurantes via WhatsApp, permitindo que os clientes façam pedidos, consultem o cardápio e realizem reservas de forma automatizada, sem necessidade de código. Esse sistema integra OpenAI, Google Sheets e Google Calendar, além de ser controlado pelo n8n.
+Um sistema de automaçêo com IA foi criado para atender restaurantes via WhatsApp, permitindo que os clientes façam pedidos, consultem o cardápio e realizem reservas de forma automatizada, sem necessidade de código. Esse sistema integra OpenAI, Google Sheets e Google Calendar, além de ser controlado pelo n8n.
 
-**Passo a passo da automação apresentada:**
+**Passo a passo da automaçêo apresentada:**
 
 1. **Consulta ao Cardápio:**
 
    * O cliente envia uma mensagem no WhatsApp solicitando o cardápio.
    * O sistema responde com o menu atual retirado automaticamente de uma planilha do Google Sheets.
 
-2. **Realização de Pedido:**
+2. **Realizaçêo de Pedido:**
 
    * O cliente faz o pedido pelo WhatsApp.
    * O sistema pede nome e endereço.
@@ -162,23 +162,23 @@ Um sistema de automação com IA foi criado para atender restaurantes via WhatsA
 4. **Componentes utilizados no n8n:**
 
    * **Gatilho do WhatsApp** para capturar mensagens.
-   * **Verificação de tipo de mensagem (texto/áudio).**
-   * **Requisição HTTP** para baixar áudios, se necessário.
-   * **Conexão com OpenAI** para interpretar e processar comandos.
+   * **Verificaçêo de tipo de mensagem (texto/áudio).**
+   * **Requisiçêo HTTP** para baixar áudios, se necessário.
+   * **Conexêo com OpenAI** para interpretar e processar comandos.
    * **Agente com prompt pré-definido** que entende tarefas como: enviar menu, reservar mesa, registrar pedidos, etc.
    * **Acesso ao Google Sheets** para obter o menu e registrar pedidos.
-   * **Integração com Google Calendar** para consultar e reservar horários.
+   * **Integraçêo com Google Calendar** para consultar e reservar horários.
 
 5. **Recursos adicionais:**
 
-   * Mensagens de confirmação são enviadas automaticamente ao cliente.
+   * Mensagens de confirmaçêo sêo enviadas automaticamente ao cliente.
    * A planilha contém colunas como nome, contato, endereço e pedido, preenchidas automaticamente.
 
 6. **Benefícios:**
 
    * Atendimento 100% automatizado pelo WhatsApp.
    * Registro instantâneo das informações.
-   * Não requer codificação manual.
+   * Nêo requer codificaçêo manual.
    * Alta escalabilidade para pequenos e médios restaurantes.
 
 ------------------------------

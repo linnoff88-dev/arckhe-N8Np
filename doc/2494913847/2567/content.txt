@@ -21,7 +21,7 @@ MENSAGEM 2
 Autor: Jota
 Data: 2025-06-02T00:31:22+00:00
 Texto:
-Excelente tópico! O ideal seria fazermos uma análise do mercado nacional. Acredito que estamos longe da precificação do mercado Europeu.
+Excelente tópico! O ideal seria fazermos uma análise do mercado nacional. Acredito que estamos longe da precificaçêo do mercado Europeu.
 
 ------------------------------
 
@@ -37,7 +37,7 @@ MENSAGEM 4
 Autor: INEMA
 Data: 2025-04-10T06:38:29+00:00
 Texto:
-tem ver q ia voce esta falando? pois aqui o topico fala de cobrar, forma de fazer o preco do servicos de uma Automação
+tem ver q ia voce esta falando? pois aqui o topico fala de cobrar, forma de fazer o preco do servicos de uma Automaçêo
 
 ------------------------------
 
@@ -93,33 +93,33 @@ MENSAGEM 11
 Autor: INEMA
 Data: 2025-03-10T08:31:39+00:00
 Texto:
-Temos enfrentado desafios semelhantes de precificação no mercado europeu e, após comparar diferentes abordagens, gostaria de compartilhar nossos insights e modelo ajustado.  
+Temos enfrentado desafios semelhantes de precificaçêo no mercado europeu e, após comparar diferentes abordagens, gostaria de compartilhar nossos insights e modelo ajustado.  
 
-### Como Estruturamos a Precificação  
+### Como Estruturamos a Precificaçêo  
 
-#### **Custos de Implementação do Projeto**  
-Descobrimos que as taxas de configuração inicial são melhor estruturadas com base na complexidade do projeto:  
+#### **Custos de Implementaçêo do Projeto**  
+Descobrimos que as taxas de configuraçêo inicial sêo melhor estruturadas com base na complexidade do projeto:  
 
-- **Automação básica** (um único processo, fluxos de trabalho simples): €1.500–€2.000  
-- **Automação intermediária** (fluxos de trabalho personalizados, múltiplos processos, integrações): €3.600–€5.600  
-- **Automação avançada** (fluxos de trabalho para vários departamentos, tomada de decisão baseada em IA, consultoria estratégica): €7.200+  
+- **Automaçêo básica** (um único processo, fluxos de trabalho simples): €1.500–€2.000  
+- **Automaçêo intermediária** (fluxos de trabalho personalizados, múltiplos processos, integrações): €3.600–€5.600  
+- **Automaçêo avançada** (fluxos de trabalho para vários departamentos, tomada de decisêo baseada em IA, consultoria estratégica): €7.200+  
 
-Esses preços incluem análise inicial, desenvolvimento, integração e testes. Para integrações altamente personalizadas (como conexões de API ou automação de CRM), geralmente aplicamos uma precificação por projeto (€3.600–€4.500 por integração).  
+Esses preços incluem análise inicial, desenvolvimento, integraçêo e testes. Para integrações altamente personalizadas (como conexões de API ou automaçêo de CRM), geralmente aplicamos uma precificaçêo por projeto (€3.600–€4.500 por integraçêo).  
 
-#### **Precificação de Manutenção & Assinatura**  
+#### **Precificaçêo de Manutençêo & Assinatura**  
 Nossa abordagem combina um modelo de taxa fixa com opções adicionais:  
 
-- **Planos autogerenciados** (monitoramento básico e solução de problemas pelo cliente): €200–€1.120/mês  
-- **Planos totalmente gerenciados** (monitoramento completo, atualizações, solução de problemas, suporte dedicado): €300–€1.840/mês  
+- **Planos autogerenciados** (monitoramento básico e soluçêo de problemas pelo cliente): €200–€1.120/mês  
+- **Planos totalmente gerenciados** (monitoramento completo, atualizações, soluçêo de problemas, suporte dedicado): €300–€1.840/mês  
 
-Um fator importante aqui são as dependências de terceiros (APIs externas, armazenamento em nuvem, cargas de trabalho de automação). Se uma automação depende fortemente de serviços externos com custos variáveis, repassamos esses custos diretamente, em vez de incluí-los em tarifas fixas.  
+Um fator importante aqui sêo as dependências de terceiros (APIs externas, armazenamento em nuvem, cargas de trabalho de automaçêo). Se uma automaçêo depende fortemente de serviços externos com custos variáveis, repassamos esses custos diretamente, em vez de incluí-los em tarifas fixas.  
 
-#### **Estratégias de Precificação para Clientes**  
+#### **Estratégias de Precificaçêo para Clientes**  
 Debatemos entre preços fixos e baseados no uso e, no fim, descobrimos que um modelo em camadas funciona melhor para nossos clientes. As empresas preferem previsibilidade, mas também querem custos escaláveis conforme suas necessidades crescem.  
 
-Por isso, em vez de um único preço para "automação", estruturamos assim:  
-✅ **Automação base** (recursos essenciais, fluxos de trabalho básicos)  
-✅ **Automação escalável** (adição de processos conforme necessário, precificação por processo)  
+Por isso, em vez de um único preço para "automaçêo", estruturamos assim:  
+✅ **Automaçêo base** (recursos essenciais, fluxos de trabalho básicos)  
+✅ **Automaçêo escalável** (adiçêo de processos conforme necessário, precificaçêo por processo)  
 ✅ **Integrações personalizadas de API/IA** (taxas únicas ou assinaturas, dependendo da complexidade)
 
 ------------------------------
@@ -144,7 +144,7 @@ MENSAGEM 14
 Autor: INEMA
 Data: 2025-03-10T08:31:31+00:00
 Texto:
-Como Cobrar por Serviços de Automação
+Como Cobrar por Serviços de Automaçêo
 
 ------------------------------
 

@@ -24,38 +24,38 @@ Data: 2025-05-22T19:49:30+00:00
 Texto:
 **Resumo do vídeo: "How I Use This AI TOOL to Build a Motion Graphics AI System with n8n (No Code!)"**
 
-O vídeo mostra como criar um sistema completo de **geração de vídeos animados (motion graphics)** com IA e **n8n**, sem necessidade de programação, usando ferramentas como Perplexity, CoinMarketCap e a API do **Vibecut**. A automação transforma dados ou comandos simples em vídeos animados prontos para uso.
+O vídeo mostra como criar um sistema completo de **geraçêo de vídeos animados (motion graphics)** com IA e **n8n**, sem necessidade de programaçêo, usando ferramentas como Perplexity, CoinMarketCap e a API do **Vibecut**. A automaçêo transforma dados ou comandos simples em vídeos animados prontos para uso.
 
 **Resumo por tópicos com exemplos:**
 
 1. **Objetivo do Projeto**
 
    * Criar vídeos animados automaticamente com IA e n8n, sem usar After Effects.
-   * Geração inclui: gráficos de linha, pizza, barras, textos animados e mapas com zoom.
-   * Comunicação com IA feita via bot do Telegram.
+   * Geraçêo inclui: gráficos de linha, pizza, barras, textos animados e mapas com zoom.
+   * Comunicaçêo com IA feita via bot do Telegram.
 
 2. **Casos de Uso Demonstrados**
 
-   * Animação de notícia sobre FTX (texto com título e fonte).
+   * Animaçêo de notícia sobre FTX (texto com título e fonte).
    * Vídeo com gráfico de pizza mostrando as 5 criptomoedas com maior market share.
    * Gráfico de linha com preços de BTC e ETH entre 2021 e 2023.
    * Gráfico de barras com preços de Solana e Ethereum em 2021-2022.
-   * Animação de mapa com zoom sobre a China.
+   * Animaçêo de mapa com zoom sobre a China.
 
 3. **Ferramentas Usadas**
 
-   * **n8n**: Plataforma no-code para montar o fluxo de automação.
-   * **Vibecut (FCut)**: Geração dos vídeos animados via API.
+   * **n8n**: Plataforma no-code para montar o fluxo de automaçêo.
+   * **Vibecut (FCut)**: Geraçêo dos vídeos animados via API.
    * **Perplexity**: Pesquisa automatizada de notícias atualizadas.
-   * **CoinMarketCap**: Obtenção de preços de criptomoedas.
+   * **CoinMarketCap**: Obtençêo de preços de criptomoedas.
    * **Telegram Bot**: Interface para interagir com o sistema.
 
 4. **Como Funciona o Fluxo**
 
    * O usuário envia uma mensagem para o bot no Telegram (ex: “criar gráfico de pizza com criptos”).
-   * Um agente de IA interpreta e processa a instrução.
+   * Um agente de IA interpreta e processa a instruçêo.
    * O sistema busca os dados (via Perplexity ou CoinMarketCap).
-   * Os dados são enviados à API do Vibecut para gerar o vídeo.
+   * Os dados sêo enviados à API do Vibecut para gerar o vídeo.
    * O vídeo pronto é baixado e enviado ao usuário no Telegram.
 
 5. **Templates Disponíveis via Vibecut**
@@ -68,13 +68,13 @@ O vídeo mostra como criar um sistema completo de **geração de vídeos animado
 
 6. **Destaques Técnicos**
 
-   * Uso de autenticação via tokens nas APIs.
-   * Reutilização de templates com parâmetros customizáveis.
+   * Uso de autenticaçêo via tokens nas APIs.
+   * Reutilizaçêo de templates com parâmetros customizáveis.
    * Armazenamento e controle de contexto via Redis (para histórico e continuidade).
-   * Verificação do status de renderização e envio automático ao usuário.
+   * Verificaçêo do status de renderizaçêo e envio automático ao usuário.
 
-**Conclusão:**
-Combinando **IA + n8n + Vibecut**, é possível transformar dados em vídeos animados com qualidade profissional sem escrever código. Ideal para criadores de conteúdo, agências ou plataformas de informação automatizada.
+**Conclusêo:**
+Combinando **IA + n8n + Vibecut**, é possível transformar dados em vídeos animados com qualidade profissional sem escrever código. Ideal para criadores de conteúdo, agências ou plataformas de informaçêo automatizada.
 
 ------------------------------
 
@@ -84,7 +84,7 @@ Data: 2025-05-22T19:37:20+00:00
 Texto:
 Motion Graphics com Vibecut
 
-Vibecut ([https://www.vibecut.com/](https://www.vibecut.com/)) é uma startup que oferece modelos de motion graphics prontos para uso via API. Você pode automatizar a geração de animações através da API, sem precisar saber usar After Effects ou outras ferramentas.
+Vibecut ([https://www.vibecut.com/](https://www.vibecut.com/)) é uma startup que oferece modelos de motion graphics prontos para uso via API. Você pode automatizar a geraçêo de animações através da API, sem precisar saber usar After Effects ou outras ferramentas.
 Midia: MessageMediaWebPage
 
 ------------------------------

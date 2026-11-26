@@ -24,7 +24,7 @@
           "allowFileUploads": false,
           "loadPreviousSession": "memory"
         },
-        "initialMessages": "Type like this: Weather Forecast for the Next 7 Days in São Paulo"
+        "initialMessages": "Type like this: Weather Forecast for the Next 7 Days in Sêo Paulo"
       },
       "typeVersion": 1.1
     },

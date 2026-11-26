@@ -24,39 +24,39 @@ Data: 2025-04-28T05:23:25+00:00
 Texto:
 Resumo:
 
-Como criar um agente de IA para transformar vídeos do YouTube em vídeos com seu próprio avatar de IA, utilizando Heygen, Deepseek AI e SearchAPI.io, sem necessidade de programação.
+Como criar um agente de IA para transformar vídeos do YouTube em vídeos com seu próprio avatar de IA, utilizando Heygen, Deepseek AI e SearchAPI.io, sem necessidade de programaçêo.
 
 Passos e ferramentas:
 
 1. Ferramentas usadas:
    - Heygen: Para criar o avatar e gerar o vídeo de IA.
-   - Deepseek AI: Para gerar o novo roteiro a partir da transcrição do YouTube.
-   - SearchAPI.io: Para extrair automaticamente a transcrição dos vídeos do YouTube.
+   - Deepseek AI: Para gerar o novo roteiro a partir da transcriçêo do YouTube.
+   - SearchAPI.io: Para extrair automaticamente a transcriçêo dos vídeos do YouTube.
 
-2. Criação do Avatar:
+2. Criaçêo do Avatar:
    - Criar uma conta gratuita no Heygen.
    - Gravar de 2 a 5 minutos de vídeo pessoal para criar o avatar (boas condições de luz, câmera HD, olhar direto para a câmera, pausas entre frases).
 
-3. Configuração das APIs:
+3. Configuraçêo das APIs:
    - Gerar chaves de API no Heygen, Deepseek e SearchAPI.io.
    - Configurar as credenciais no n8n para usar essas APIs.
 
 4. Dois Workflows criados:
    - **Workflow 1**: 
-     - Extrair a transcrição do YouTube usando SearchAPI.io.
-     - Usar Deepseek AI para reescrever a transcrição como um novo roteiro curto, estilo "podcast intro".
+     - Extrair a transcriçêo do YouTube usando SearchAPI.io.
+     - Usar Deepseek AI para reescrever a transcriçêo como um novo roteiro curto, estilo "podcast intro".
 
    - **Workflow 2**:
      - Enviar o novo roteiro para Heygen.
      - Heygen gera o vídeo com o avatar usando o novo texto.
-     - Esperar 5 minutos (ou mais) até a geração do vídeo.
+     - Esperar 5 minutos (ou mais) até a geraçêo do vídeo.
      - Recuperar a URL do vídeo gerado.
      - Exportar todos os dados (ID, status, miniatura e link do vídeo) para o Google Sheets.
 
 5. Configurações importantes:
-   - Método POST para chamadas de criação de vídeo no Heygen.
+   - Método POST para chamadas de criaçêo de vídeo no Heygen.
    - Configurar o JSON corretamente para enviar as dimensões do vídeo.
-   - Uso de lógica condicional para verificar se o vídeo foi gerado e, se não, esperar mais 5 minutos.
+   - Uso de lógica condicional para verificar se o vídeo foi gerado e, se nêo, esperar mais 5 minutos.
 
 Resultado:
 
@@ -68,12 +68,12 @@ Resultado:
 Lista de tópicos com exemplos e respostas:
 
 - Ferramentas usadas: Heygen, Deepseek AI, SearchAPI.io.
-- Como criar avatar: Gravação de 2-5 min, seguindo orientações de iluminação e postura.
+- Como criar avatar: Gravaçêo de 2-5 min, seguindo orientações de iluminaçêo e postura.
 - APIs necessárias: Criar e configurar no n8n.
-- Workflow 1 (Transcrição e Roteiro): Extrai a legenda e cria novo texto com Deepseek AI.
-- Workflow 2 (Geração do vídeo): Envia o novo texto para Heygen, gera o vídeo, e salva dados no Google Sheets.
-- Tempo de geração: Cada vídeo leva cerca de 5 minutos (pode precisar de tentativas se não concluir na primeira verificação).
-- Resultado final: Novo vídeo com seu próprio avatar e voz, pronto para publicação.
+- Workflow 1 (Transcriçêo e Roteiro): Extrai a legenda e cria novo texto com Deepseek AI.
+- Workflow 2 (Geraçêo do vídeo): Envia o novo texto para Heygen, gera o vídeo, e salva dados no Google Sheets.
+- Tempo de geraçêo: Cada vídeo leva cerca de 5 minutos (pode precisar de tentativas se nêo concluir na primeira verificaçêo).
+- Resultado final: Novo vídeo com seu próprio avatar e voz, pronto para publicaçêo.
 
 Exemplo de resposta:
 
@@ -91,7 +91,7 @@ Agente de IA para Transformar Vídeos do YouTube em Meus Próprios Vídeos com A
 
 Como transformar vídeos do YouTube automaticamente em vídeos envolventes com avatar de IA usando Heygen, Deepseek AI e searchapi.io — sem precisar programar!
 
-Este sistema baseado em IA extrai transcrições, gera vídeos com avatar e acompanha o status da produção de forma contínua, tornando o reaproveitamento de conteúdo muito mais fácil.
+Este sistema baseado em IA extrai transcrições, gera vídeos com avatar e acompanha o status da produçêo de forma contínua, tornando o reaproveitamento de conteúdo muito mais fácil.
 
 ------------------------------
 

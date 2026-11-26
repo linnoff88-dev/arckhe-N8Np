@@ -24,35 +24,35 @@ Data: 2025-04-28T12:30:57+00:00
 Texto:
 **Resumo - Como Construir um Agente de IA com DeepSeek AI para Transformar Vídeos do YouTube em Blogs via Telegram (Sem Código)**
 
-**Demonstração Inicial**:
+**Demonstraçêo Inicial**:
 - O usuário envia o link de um vídeo do YouTube no Telegram.
-- O sistema busca a transcrição do vídeo.
-- A transcrição é enviada ao DeepSeek AI, que resume e transforma em um post de blog.
+- O sistema busca a transcriçêo do vídeo.
+- A transcriçêo é enviada ao DeepSeek AI, que resume e transforma em um post de blog.
 - Resultado: blog bem estruturado, fácil de ler e rápido de consumir.
 
 **Itens necessários**:
 1. Bot do Telegram (criado via BotFather).
 2. API do DeepSeek AI (chave gerada no site do DeepSeek).
-3. API do SearchAPI.io (para buscar a transcrição do vídeo).
+3. API do SearchAPI.io (para buscar a transcriçêo do vídeo).
 
-**Configuração de Credenciais**:
+**Configuraçêo de Credenciais**:
 - Bot do Telegram: criar bot e pegar token.
-- DeepSeek AI: gerar chave de API e configurar header de autorização.
-- SearchAPI.io: copiar chave de API e configurar para busca de transcrição.
+- DeepSeek AI: gerar chave de API e configurar header de autorizaçêo.
+- SearchAPI.io: copiar chave de API e configurar para busca de transcriçêo.
 
 **Fluxo Principal** (n8n Workflow):
 1. **Telegram Trigger**: Detectar mensagem enviada (o link do YouTube).
 2. **Extrair ID do Vídeo**: Código personalizado pega apenas o ID do link recebido.
-3. **Buscar Transcrição**: Usar SearchAPI.io para obter o texto do vídeo.
-4. **Enviar Confirmação**: Avisar no Telegram que a transcrição foi recuperada.
-5. **Enviar para DeepSeek AI**: Mandar a transcrição e receber o resumo em formato de blog.
+3. **Buscar Transcriçêo**: Usar SearchAPI.io para obter o texto do vídeo.
+4. **Enviar Confirmaçêo**: Avisar no Telegram que a transcriçêo foi recuperada.
+5. **Enviar para DeepSeek AI**: Mandar a transcriçêo e receber o resumo em formato de blog.
 6. **Dividir o Texto**: Partir o texto em partes menores para enviar no Telegram (limite de caracteres).
 7. **Enviar o Blog via Telegram**: Publicar o blog dividido no chat.
 8. **Exibir o Custo**: Mostrar quanto custou em tokens o processamento feito no DeepSeek.
 
 **Destaques**:
-- Integração toda feita sem necessidade de codificar do zero (usando n8n e APIs externas).
-- Conteúdo transformado automaticamente, poupando tempo de criação manual.
+- Integraçêo toda feita sem necessidade de codificar do zero (usando n8n e APIs externas).
+- Conteúdo transformado automaticamente, poupando tempo de criaçêo manual.
 - O blog é bem estruturado, com leitura rápida e amigável.
 
 ---
@@ -73,12 +73,12 @@ Data: 2025-04-28T12:27:50+00:00
 Texto:
 Um Agente de IA com DeepSeek AI para Transformar Vídeos do YouTube em Posts de Blog via Telegram (Sem Código)"**  
 
-Como reaproveitar vídeos do YouTube em posts de blog usando um agente de IA sem código, que integra o Telegram, o DeepSeek AI e o searchapi.io. Esse sistema automatiza a recuperação da transcrição, o processamento e a entrega da resposta — tornando a criação de conteúdo fácil e automática."**
+Como reaproveitar vídeos do YouTube em posts de blog usando um agente de IA sem código, que integra o Telegram, o DeepSeek AI e o searchapi.io. Esse sistema automatiza a recuperaçêo da transcriçêo, o processamento e a entrega da resposta — tornando a criaçêo de conteúdo fácil e automática."**
 
 Resumo do que esse processo faz:  
 - Pega vídeos do YouTube.  
 - Usa um agente de IA (sem precisar programar).  
-- Recupera automaticamente a transcrição do vídeo.  
+- Recupera automaticamente a transcriçêo do vídeo.  
 - Processa o texto para transformar em um post de blog.  
 - Entrega o resultado via Telegram.
 

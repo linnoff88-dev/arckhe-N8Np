@@ -14,7 +14,7 @@ Autor: INEMA
 Data: 2025-03-28T02:54:39+00:00
 Texto:
 **🤖 Agente de IA com Chatbot + Memória de Longo Prazo**  
-**+ Armazenamento de Notas + Integração com Telegram**
+**+ Armazenamento de Notas + Integraçêo com Telegram**
 
 **O que isso faz?**
 

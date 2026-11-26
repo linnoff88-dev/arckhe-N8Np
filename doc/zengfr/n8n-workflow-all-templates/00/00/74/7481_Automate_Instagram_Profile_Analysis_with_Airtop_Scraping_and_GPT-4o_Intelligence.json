@@ -19,7 +19,7 @@
   "nodes": [
     {
       "id": "b6c19cd0-fc32-4d48-a126-ea9bd18d9e9a",
-      "name": "Criar Nova Sessão",
+      "name": "Criar Nova Sessêo",
       "type": "n8n-nodes-base.airtop",
       "position": [
         816,
@@ -49,7 +49,7 @@
       "parameters": {
         "url": "=https://www.instagram.com/{{ $('Processar Itens').item.json['@ - Instagram'] }}/",
         "resource": "window",
-        "sessionId": "={{ $('Criar Nova Sessão').item.json.sessionId }}",
+        "sessionId": "={{ $('Criar Nova Sessêo').item.json.sessionId }}",
         "additionalFields": {}
       },
       "credentials": {
@@ -84,7 +84,7 @@
     },
     {
       "id": "f944eeb7-70e7-49a3-a690-083e84bea4da",
-      "name": "Terminar Sessão",
+      "name": "Terminar Sessêo",
       "type": "n8n-nodes-base.airtop",
       "position": [
         1376,
@@ -203,7 +203,7 @@
         608
       ],
       "parameters": {
-        "jsonSchemaExample": "{\n  \"Nome Perfil\": \"Nome\",\n  \"descricao\": \"Descrição\",\n  \"infos do perfil\": \"Informações do perfil\",\n  \"Destaques\": \"Stories\",\n  \"Post 1\": \"Descrição\",\n  \"Post 2\": \"Descrição\",\n  \"Post 3\": \"Descrição\",\n  \"Post 4\": \"Descrição\",\n  \"Post 5\": \"Descrição\"\n}\n"
+        "jsonSchemaExample": "{\n  \"Nome Perfil\": \"Nome\",\n  \"descricao\": \"Descriçêo\",\n  \"infos do perfil\": \"Informações do perfil\",\n  \"Destaques\": \"Stories\",\n  \"Post 1\": \"Descriçêo\",\n  \"Post 2\": \"Descriçêo\",\n  \"Post 3\": \"Descriçêo\",\n  \"Post 4\": \"Descriçêo\",\n  \"Post 5\": \"Descriçêo\"\n}\n"
       },
       "typeVersion": 1.2
     },
@@ -218,7 +218,7 @@
       "parameters": {
         "text": "=Segue as informações do perfil para você tratar:\n\n{{ $('Pesquisar página').item.json.data.modelResponse }}",
         "options": {
-          "systemMessage": "=## Objetivo:\n\nSua função é pegar o texto recebido e fazer a separação dos conteúdos no modelo de Output Parser.\n\n## Estrutura:\nSepare as informações em:\n  - Nome do Perfil: Nome\n  - Descrição do Perfil: Descrição\n  - Informações do Perfil: Número de Publicações, Seguidores, Seguidos\n  - Destaques: Stories\n  - Post 1\n    - Descrição\n  - Post 2\n    - Descrição\n  - Post 3\n    - Descrição\n  - Post 4\n    - Descrição\n  - Post 5\n    - Descrição\n\n\n## Formato de resposta:\n\n(JSON)\n"
+          "systemMessage": "=## Objetivo:\n\nSua funçêo é pegar o texto recebido e fazer a separaçêo dos conteúdos no modelo de Output Parser.\n\n## Estrutura:\nSepare as informações em:\n  - Nome do Perfil: Nome\n  - Descriçêo do Perfil: Descriçêo\n  - Informações do Perfil: Número de Publicações, Seguidores, Seguidos\n  - Destaques: Stories\n  - Post 1\n    - Descriçêo\n  - Post 2\n    - Descriçêo\n  - Post 3\n    - Descriçêo\n  - Post 4\n    - Descriçêo\n  - Post 5\n    - Descriçêo\n\n\n## Formato de resposta:\n\n(JSON)\n"
         },
         "promptType": "define",
         "hasOutputParser": true
@@ -234,9 +234,9 @@
         176
       ],
       "parameters": {
-        "text": "=Segue as informações que foram encontradas do Perfil para sua análise.\n\nNome do Perfil: {{ $json.output['Nome Perfil'] }}\nDescrição/ Bio do Perfil: {{ $json.output.descricao }}\nInformações do Perfil: {{ $json.output['infos do perfil'] }}\nDestaques: {{ $json.output.Destaques }}\n\nPost 1 - Descrição: {{ $json.output['Post 1'] }}\n---\nPost 2 - Descrição: {{ $json.output['Post 2'] }}\n---\nPost 3 - Descrição: {{ $json.output['Post 3'] }}\n---\nPost 4 - Descrição: {{ $json.output['Post 4'] }}\n---\nPost 5 - Descrição: {{ $json.output['Post 5'] }}\n",
+        "text": "=Segue as informações que foram encontradas do Perfil para sua análise.\n\nNome do Perfil: {{ $json.output['Nome Perfil'] }}\nDescriçêo/ Bio do Perfil: {{ $json.output.descricao }}\nInformações do Perfil: {{ $json.output['infos do perfil'] }}\nDestaques: {{ $json.output.Destaques }}\n\nPost 1 - Descriçêo: {{ $json.output['Post 1'] }}\n---\nPost 2 - Descriçêo: {{ $json.output['Post 2'] }}\n---\nPost 3 - Descriçêo: {{ $json.output['Post 3'] }}\n---\nPost 4 - Descriçêo: {{ $json.output['Post 4'] }}\n---\nPost 5 - Descriçêo: {{ $json.output['Post 5'] }}\n",
         "options": {
-          "systemMessage": "=## Persona:\nVocê é um agente de IA especialista em fazer análise de Perfis no Instagram.\n\n## Função:\nA sua função é analisar informações e dados de perfis de Instagram de empresários e empreendedores. \n\n## Objetivo:\nO seu objetivo é diagnosticar se o perfil do Instagram é ideal para fazer parte de um grupo de empreendedores digitais de alto nível, então o perfil precisa apresentar sinais de faturamento expressivo.\n\n## Comportamento:\nPara chegar no seu objetivo analise:  \n\n1- Identificar se é do nicho de Marketing Digital, pois é o único nicho que queremos que seja analisado. O restante que não for de Marketing Digital pode reprovar.\n2- informações do perfil que indique \"resultado\" (participação em mastersminds/eventos, placas de premiação, prints, seguidores)  \n3- identificar se essa pessoa não mexe com algo errado/ilícito (Casas de Apostas, Produtos de Nicho Black, Política, etc.) \n4- Analise se as informações do perfil, se condizem com o que foi dito na bio/ descrição do perfil. \n5- Caso exista alguma evidência onde indica que o perfil fatura menos de 1 milhão de reais por ano, reprove.\n\n## Importante:\nNão é preciso ter uma comprovação clara de resultados que sejam acima de 1 milhão de reais/ano. Use o número de 1 milhão de reais apenas caso exista uma comprovação clara desse resultado.\n\n- Resumindo: Não ter a certeza de que o perfil fatura acima de 1 milhão de reais/ano não o elimina, o que elimina é a certeza de que ele fatura menos\n\nQuando for me responder, também quero que me dê:  \n- Uma decisão: aprovado ou reprovado  \n- Uma nota de confiança (0 a 10)  \n- Uma sugestão de assunto para puxar papo no direct (caso seja aprovado)\n\n- Caso ãao tenha dados dos posts devido o seu perfil ser privado, traga iáo na analise. Exemplo de texto na análise: Descrição: Informações de posts não disponíveis devido ao perfil ser privado.\"\n\n## Formato da resposta:\n(JSON)\n{\n  \"filtro\": \"Aprovado ou Reprovado\",\n  \"nota\": \"de 0 a 10\",\n  \"sugestao_papo\": \"sugestão de assunto para puxar papo no direct (caso seja aprovado)\n  \"analise_completa\":\"aqui a análise detalhada\"\n}"
+          "systemMessage": "=## Persona:\nVocê é um agente de IA especialista em fazer análise de Perfis no Instagram.\n\n## Funçêo:\nA sua funçêo é analisar informações e dados de perfis de Instagram de empresários e empreendedores. \n\n## Objetivo:\nO seu objetivo é diagnosticar se o perfil do Instagram é ideal para fazer parte de um grupo de empreendedores digitais de alto nível, entêo o perfil precisa apresentar sinais de faturamento expressivo.\n\n## Comportamento:\nPara chegar no seu objetivo analise:  \n\n1- Identificar se é do nicho de Marketing Digital, pois é o único nicho que queremos que seja analisado. O restante que nêo for de Marketing Digital pode reprovar.\n2- informações do perfil que indique \"resultado\" (participaçêo em mastersminds/eventos, placas de premiaçêo, prints, seguidores)  \n3- identificar se essa pessoa nêo mexe com algo errado/ilícito (Casas de Apostas, Produtos de Nicho Black, Política, etc.) \n4- Analise se as informações do perfil, se condizem com o que foi dito na bio/ descriçêo do perfil. \n5- Caso exista alguma evidência onde indica que o perfil fatura menos de 1 milhêo de reais por ano, reprove.\n\n## Importante:\nNêo é preciso ter uma comprovaçêo clara de resultados que sejam acima de 1 milhêo de reais/ano. Use o número de 1 milhêo de reais apenas caso exista uma comprovaçêo clara desse resultado.\n\n- Resumindo: Nêo ter a certeza de que o perfil fatura acima de 1 milhêo de reais/ano nêo o elimina, o que elimina é a certeza de que ele fatura menos\n\nQuando for me responder, também quero que me dê:  \n- Uma decisêo: aprovado ou reprovado  \n- Uma nota de confiança (0 a 10)  \n- Uma sugestêo de assunto para puxar papo no direct (caso seja aprovado)\n\n- Caso êao tenha dados dos posts devido o seu perfil ser privado, traga iáo na analise. Exemplo de texto na análise: Descriçêo: Informações de posts nêo disponíveis devido ao perfil ser privado.\"\n\n## Formato da resposta:\n(JSON)\n{\n  \"filtro\": \"Aprovado ou Reprovado\",\n  \"nota\": \"de 0 a 10\",\n  \"sugestao_papo\": \"sugestêo de assunto para puxar papo no direct (caso seja aprovado)\n  \"analise_completa\":\"aqui a análise detalhada\"\n}"
         },
         "promptType": "define",
         "hasOutputParser": true
@@ -314,18 +314,18 @@
             "Análise IA": "={{ $json.output.analise_completa }}",
             "@ - Instagram": "={{ $('Processar Itens').item.json['@ - Instagram'] }}",
             "Informações": "={{ $('Ajustar Saída Instagram').item.json.output['infos do perfil'] }}",
-            "Aprovação IA": "={{ $json.output.filtro }}",
+            "Aprovaçêo IA": "={{ $json.output.filtro }}",
             "Link do Perfil": "=https://www.instagram.com/{{ $('Nova linha Atualizada').item.json['@ - Instagram'] }}/",
             "Nota de Confiança": "={{ $json.output.nota }}"
           },
           "schema": [
             {
-              "id": "Ativar Automação",
+              "id": "Ativar Automaçêo",
               "type": "string",
               "display": true,
               "removed": true,
               "required": false,
-              "displayName": "Ativar Automação",
+              "displayName": "Ativar Automaçêo",
               "defaultMatch": false,
               "canBeUsedToMatch": true
             },
@@ -367,20 +367,20 @@
               "canBeUsedToMatch": true
             },
             {
-              "id": "Aprovação Humana",
+              "id": "Aprovaçêo Humana",
               "type": "string",
               "display": true,
               "required": false,
-              "displayName": "Aprovação Humana",
+              "displayName": "Aprovaçêo Humana",
               "defaultMatch": false,
               "canBeUsedToMatch": true
             },
             {
-              "id": "Aprovação IA",
+              "id": "Aprovaçêo IA",
               "type": "string",
               "display": true,
               "required": false,
-              "displayName": "Aprovação IA",
+              "displayName": "Aprovaçêo IA",
               "defaultMatch": false,
               "canBeUsedToMatch": true
             },
@@ -477,7 +477,7 @@
     },
     {
       "id": "0e0d5f1d-c880-4ffb-bc01-b14ddec40179",
-      "name": "Filtrar Ativação - Planilha",
+      "name": "Filtrar Ativaçêo - Planilha",
       "type": "n8n-nodes-base.filter",
       "position": [
         416,
@@ -501,7 +501,7 @@
                 "operation": "true",
                 "singleValue": true
               },
-              "leftValue": "={{ $json['Ativar Automação'] }}",
+              "leftValue": "={{ $json['Ativar Automaçêo'] }}",
               "rightValue": "Aprovado"
             },
             {
@@ -531,7 +531,7 @@
         "color": 3,
         "width": 416,
         "height": 256,
-        "content": "## Ativar Análise na Planilha\n**Passa pelo filtro para verificar se o perfil ainda não foi analisado pela IA**"
+        "content": "## Ativar Análise na Planilha\n**Passa pelo filtro para verificar se o perfil ainda nêo foi analisado pela IA**"
       },
       "typeVersion": 1
     },
@@ -547,7 +547,7 @@
         "color": 5,
         "width": 384,
         "height": 256,
-        "content": "## Airtop\n**Criar nova Janela e Sessão no Airtop**"
+        "content": "## Airtop\n**Criar nova Janela e Sessêo no Airtop**"
       },
       "typeVersion": 1
     },
@@ -562,7 +562,7 @@
       "parameters": {
         "width": 784,
         "height": 224,
-        "content": "## - **Airtop give to you 5.000 free credit for month!**\n### Create the profile and initiate your session in Instagram inside Airtop\n## - **Airtop te dá 5.000 créditos gratuitos por mês**\n### Crie seu perfil e inicie sua sessão no Instagram dentro do Airtop.\n\n### https://portal.airtop.ai/"
+        "content": "## - **Airtop give to you 5.000 free credit for month!**\n### Create the profile and initiate your session in Instagram inside Airtop\n## - **Airtop te dá 5.000 créditos gratuitos por mês**\n### Crie seu perfil e inicie sua sessêo no Instagram dentro do Airtop.\n\n### https://portal.airtop.ai/"
       },
       "typeVersion": 1
     },
@@ -578,7 +578,7 @@
         "color": 4,
         "width": 384,
         "height": 256,
-        "content": "## Airtop\n**Entra no Perfil do Instagram faz toda a análise e depois finaliza a sessão iniciada.**"
+        "content": "## Airtop\n**Entra no Perfil do Instagram faz toda a análise e depois finaliza a sessêo iniciada.**"
       },
       "typeVersion": 1
     },
@@ -654,14 +654,14 @@
         [],
         [
           {
-            "node": "Criar Nova Sessão",
+            "node": "Criar Nova Sessêo",
             "type": "main",
             "index": 0
           }
         ]
       ]
     },
-    "Terminar Sessão": {
+    "Terminar Sessêo": {
       "main": [
         [
           {
@@ -676,14 +676,14 @@
       "main": [
         [
           {
-            "node": "Terminar Sessão",
+            "node": "Terminar Sessêo",
             "type": "main",
             "index": 0
           }
         ]
       ]
     },
-    "Criar Nova Sessão": {
+    "Criar Nova Sessêo": {
       "main": [
         [
           {
@@ -741,7 +741,7 @@
       "main": [
         [
           {
-            "node": "Filtrar Ativação - Planilha",
+            "node": "Filtrar Ativaçêo - Planilha",
             "type": "main",
             "index": 0
           }
@@ -825,7 +825,7 @@
         ]
       ]
     },
-    "Filtrar Ativação - Planilha": {
+    "Filtrar Ativaçêo - Planilha": {
       "main": [
         [
           {

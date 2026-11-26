@@ -34,7 +34,7 @@ Por exemplo:
 
 ```{
   "keywords": ["agência de marketing", "clínica odontológica", "startup de tecnologia"],
-  "locations": ["São Paulo, Brasil", "Rio de Janeiro, Brasil"],
+  "locations": ["Sêo Paulo, Brasil", "Rio de Janeiro, Brasil"],
   "jobTitles": ["CEO", "diretor de marketing", "fundador"],
   "companySize": "10-200",
   "industry": "tecnologia",
@@ -78,7 +78,7 @@ Você pode afinar mais ainda:
 
 ```{
   "keywords": ["dentista", "clínica odontológica"],
-  "locations": ["São Paulo, Brasil"],
+  "locations": ["Sêo Paulo, Brasil"],
   "jobTitles": ["CEO", "proprietário", "diretor"],
   "companySize": "5-50",
   "industry": "saúde",
@@ -101,7 +101,7 @@ O Apify retornará algo como:
     "email": "carla.santos@clinicasorriso.com",
     "linkedinUrl": "https://linkedin.com/in/carlasantos",
     "companyWebsite": "https://clinicasorriso.com",
-    "location": "São Paulo, Brasil"
+    "location": "Sêo Paulo, Brasil"
   },
   ...
 ]```
@@ -124,26 +124,26 @@ Data: 2025-10-15T02:22:21+00:00
 Texto:
 Resumo completo:
 
-Como obter e enriquecer leads (potenciais clientes) usando IA e ferramentas de automação. O criador demonstra um fluxo completo, desde a coleta de dados até a criação de e-mails automáticos personalizados.
+Como obter e enriquecer leads (potenciais clientes) usando IA e ferramentas de automaçêo. O criador demonstra um fluxo completo, desde a coleta de dados até a criaçêo de e-mails automáticos personalizados.
 
 Principais pontos:
 
-1. Introdução ao tema
-   O autor fala sobre geração de leads e mostra um método eficiente para capturar milhares de e-mails usando automações com IA, de forma semelhante a uma aula que ele fez sobre RAG.
+1. Introduçêo ao tema
+   O autor fala sobre geraçêo de leads e mostra um método eficiente para capturar milhares de e-mails usando automações com IA, de forma semelhante a uma aula que ele fez sobre RAG.
 
 2. Ferramenta usada
-   Ele utiliza o Apify com o scraper “Leads Finder”, que custa cerca de US$1,50 por 1.000 leads. É possível definir filtros como tamanho da empresa, cargo, setor, localização e palavras-chave para obter contatos mais relevantes.
+   Ele utiliza o Apify com o scraper “Leads Finder”, que custa cerca de US$1,50 por 1.000 leads. É possível definir filtros como tamanho da empresa, cargo, setor, localizaçêo e palavras-chave para obter contatos mais relevantes.
 
-3. Configuração do processo
-   Os dados são exportados em JSON e depois usados em um cenário automatizado (como no n8n). O usuário insere a chave da API e ajusta as variáveis (como cargos específicos). O sistema retorna informações completas: nome, cargo, e-mail e perfil no LinkedIn.
+3. Configuraçêo do processo
+   Os dados sêo exportados em JSON e depois usados em um cenário automatizado (como no n8n). O usuário insere a chave da API e ajusta as variáveis (como cargos específicos). O sistema retorna informações completas: nome, cargo, e-mail e perfil no LinkedIn.
 
 4. Enriquecimento dos dados
-   Além de coletar leads, a IA busca mais informações sobre cada pessoa ou empresa (lead enrichment), como interesses, histórico e reputação, analisando sites e redes sociais.
+   Além de coletar leads, a IA busca mais informações sobre cada pessoa ou empresa (lead enrichment), como interesses, histórico e reputaçêo, analisando sites e redes sociais.
 
 5. Sequências de e-mails automatizadas
    O vídeo ressalta que apenas 2% das vendas ocorrem no primeiro e-mail. O sucesso vem com as sequências automáticas de follow-up. A IA cria e personaliza e-mails baseados nas informações coletadas, tornando o contato mais relevante e persuasivo.
 
-6. Automação e integração
+6. Automaçêo e integraçêo
    O autor mostra um cenário em que a IA:
 
 * Busca os dados no Apify
@@ -151,11 +151,11 @@ Principais pontos:
 * Gera uma sequência de 5 e-mails personalizados
 * Coleta e salva todos os resultados em um sistema automatizado
 
-7. Conclusão
+7. Conclusêo
    Ele promete um vídeo mais detalhado sobre o tema e convida o público a testar o blueprint gratuito compartilhado, mostrando o poder de combinar negócios com IA.
 
-Exemplo de aplicação:
-Uma empresa pode usar o Apify para buscar leads no setor de tecnologia, enriquecer as informações com IA (como interesses e comportamento online) e enviar uma sequência automatizada de e-mails segmentados, aumentando muito as chances de conversão.
+Exemplo de aplicaçêo:
+Uma empresa pode usar o Apify para buscar leads no setor de tecnologia, enriquecer as informações com IA (como interesses e comportamento online) e enviar uma sequência automatizada de e-mails segmentados, aumentando muito as chances de conversêo.
 
 ------------------------------
 

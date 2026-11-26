@@ -15,34 +15,34 @@ Data: 2025-04-26T04:48:44+00:00
 Texto:
 **Resumo do vídeo: Este agente n8n cria e edita imagens com a nova API de imagens da OpenAI**
 
-- A OpenAI lançou sua nova API de geração de imagens (gpt-image-1), que também suporta DALL-E 2 e DALL-E 3.
+- A OpenAI lançou sua nova API de geraçêo de imagens (gpt-image-1), que também suporta DALL-E 2 e DALL-E 3.
 - O vídeo ensina como usar a API para criar e editar imagens através do n8n, usando um sistema dividido em três fluxos principais:
 
-1. **Criação de Imagens**:  
+1. **Criaçêo de Imagens**:  
    - O usuário envia um prompt via gatilho de chat.
-   - O agente IA do n8n identifica a intenção e cria imagens com as configurações escolhidas (modelo, qualidade, tamanho).
-   - As imagens são salvas automaticamente no Google Drive.
+   - O agente IA do n8n identifica a intençêo e cria imagens com as configurações escolhidas (modelo, qualidade, tamanho).
+   - As imagens sêo salvas automaticamente no Google Drive.
 
-2. **Edição de Imagens**:  
+2. **Ediçêo de Imagens**:  
    - Permite modificar imagens já criadas, usando um link de imagem salvo no Google Drive.
-   - As imagens são alteradas conforme o novo prompt e também salvas no Drive.
-   - Existe uma opção experimental para editar imagens externas (fora do Drive), mas pode falhar.
+   - As imagens sêo alteradas conforme o novo prompt e também salvas no Drive.
+   - Existe uma opçêo experimental para editar imagens externas (fora do Drive), mas pode falhar.
 
 3. **Registro em Planilha**:  
-   - Cada operação (criação ou edição) é registrada automaticamente em uma planilha Google Sheets.
-   - Guarda informações como link da imagem, tipo de operação, modelo utilizado e o prompt.
+   - Cada operaçêo (criaçêo ou ediçêo) é registrada automaticamente em uma planilha Google Sheets.
+   - Guarda informações como link da imagem, tipo de operaçêo, modelo utilizado e o prompt.
 
 - O sistema é projetado para ser simples: você pode gerar, editar e acompanhar imagens de forma organizada.
-- A automação usa conversão de imagens em formato base64 para movimentação interna antes do upload no Drive.
+- A automaçêo usa conversêo de imagens em formato base64 para movimentaçêo interna antes do upload no Drive.
 - Para múltiplas imagens, o sistema separa e gera vários links de acesso.
-- Todos os fluxos (subworkflows) estão disponíveis para download gratuito no Gumroad do criador.
+- Todos os fluxos (subworkflows) estêo disponíveis para download gratuito no Gumroad do criador.
 
 ---
 
 **Fluxos disponíveis:**
 - Orquestrador principal (AI Agent)
-- Criação de imagem
-- Edição de imagem
+- Criaçêo de imagem
+- Ediçêo de imagem
 - Registro no Google Sheets
 
 ------------------------------
@@ -80,24 +80,24 @@ API de imagem OpenAI Agentes 🤖 🖼️ n8n
 
 
 
-Subfluxo de Criação de Imagem: Basta inserir um prompt, modelo e configurações para criar visuais impressionantes — automaticamente salvos no seu Google Drive.
+Subfluxo de Criaçêo de Imagem: Basta inserir um prompt, modelo e configurações para criar visuais impressionantes — automaticamente salvos no seu Google Drive.
 
-Subfluxo de Edição de Imagem: Modifique imagens existentes com prompts detalhados (ex.: “substituir bola por osso”) e envie os resultados diretamente para a nuvem.
+Subfluxo de Ediçêo de Imagem: Modifique imagens existentes com prompts detalhados (ex.: “substituir bola por osso”) e envie os resultados diretamente para a nuvem.
 
-Subfluxo de Registro no Google Sheets: Cada prompt, modelo e link de saída é armazenado automaticamente em uma planilha do Google — perfeito para auditorias ou bibliotecas de inspiração.
+Subfluxo de Registro no Google Sheets: Cada prompt, modelo e link de saída é armazenado automaticamente em uma planilha do Google — perfeito para auditorias ou bibliotecas de inspiraçêo.
 
-Fluxo Principal de Orquestração de IA: Um roteador inteligente que pega prompts em linguagem natural e envia para a ferramenta correta (criar/editar) com base na tarefa.
+Fluxo Principal de Orquestraçêo de IA: Um roteador inteligente que pega prompts em linguagem natural e envia para a ferramenta correta (criar/editar) com base na tarefa.
 
-Todos os arquivos JSON dos fluxos de trabalho estão incluídos, para que você possa importar, modificar e escalar instantaneamente.
+Todos os arquivos JSON dos fluxos de trabalho estêo incluídos, para que você possa importar, modificar e escalar instantaneamente.
 
-Nenhuma configuração extra necessária — inclui credenciais pré-mapeadas e lógica de pastas para os fluxos de trabalho do Google Drive.
+Nenhuma configuraçêo extra necessária — inclui credenciais pré-mapeadas e lógica de pastas para os fluxos de trabalho do Google Drive.
 
 ❤️ Minha equipe e eu dedicamos muito tempo para criar este pacote e tornar sua jornada com IA mais tranquila — se isso ajudar você, agradeceríamos muito seu apoio adquirindo e compartilhando com outros.
 
 Resumo  
 Um kit de ferramentas poderoso para quem quer aproveitar a nova API de Imagem da OpenAI — criar, editar e organizar ativos visuais em minutos usando linguagem natural e n8n.
 
-Visão geral do fluxo de trabalho  
+Visêo geral do fluxo de trabalho  
 Você envia seu pedido via gatilho de chat
 
 Esse gatilho de chat irá recusar o pedido se for muito vago
@@ -107,9 +107,9 @@ Enviará esse pedido para criar ou editar a imagem
 Registrará esse pedido na planilha do Google (você precisará configurar suas credenciais para isso)
 
 Recursos  
-- Fluxo Principal de Orquestração de Agentes de IA  
-- Subfluxo de Criação de Imagem  
-- Subfluxo de Edição de Imagem  
+- Fluxo Principal de Orquestraçêo de Agentes de IA  
+- Subfluxo de Criaçêo de Imagem  
+- Subfluxo de Ediçêo de Imagem  
 - Subfluxo de Registro na Planilha do Google
 
 ------------------------------
@@ -118,7 +118,7 @@ MENSAGEM 6
 Autor: INEMA
 Data: 2025-04-26T04:41:00+00:00
 Texto:
-Como usar a API de imagem da OpenAI via n8n 📸Se você quiser começar a construir todos esses casos de uso super legais em torno da geração de imagens.
+Como usar a API de imagem da OpenAI via n8n 📸Se você quiser começar a construir todos esses casos de uso super legais em torno da geraçêo de imagens.
 
 ------------------------------
 

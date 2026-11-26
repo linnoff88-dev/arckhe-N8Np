@@ -47,13 +47,13 @@ Data: 2025-10-19T00:05:55+00:00
 Texto:
 Automatizar todo o processo de “base de conhecimento da empresa”, que aumenta os lucros das empresas 🚀
 
-Não acredito que vou te entregar esse sistema completo de graça…
+Nêo acredito que vou te entregar esse sistema completo de graça…
 
-Esses agentes RAG no n8n são absolutamente **essenciais** na indústria de IA neste momento.
+Esses agentes RAG no n8n sêo absolutamente **essenciais** na indústria de IA neste momento.
 
 Toda empresa precisa de um agente RAG de Base de Conhecimento.
 
-Veja o que minha automação no n8n faz:
+Veja o que minha automaçêo no n8n faz:
 
 * Pega todos os arquivos do Google Drive da sua empresa
 * Analisa os arquivos e extrai o contexto
@@ -80,8 +80,8 @@ O fluxo inclui:
 Este é o **melhor template RAG com n8n do mundo**,
 e você está recebendo de graça porque todo mundo está me mandando mensagem pedindo por ele.
 
-Baixe o arquivo JSON completo e leia os comentários com o guia de configuração.
-Não perca essa oportunidade!
+Baixe o arquivo JSON completo e leia os comentários com o guia de configuraçêo.
+Nêo perca essa oportunidade!
 
 ------------------------------
 
@@ -165,14 +165,14 @@ Data: 2025-10-18T23:41:16+00:00
 Texto:
 # Guia Avançado: Hacks para um Pipeline RAG Perfeito (n8n + Google Drive + Supabase)
 
-## Visão Geral
+## Visêo Geral
 
-O objetivo é ter **dados atualizados, limpos e confiáveis** — garantindo que seus agentes RAG respondam com precisão, sem erros nem duplicações.
-Esses hacks otimizam **velocidade, custo, manutenção e segurança** do sistema.
+O objetivo é ter **dados atualizados, limpos e confiáveis** — garantindo que seus agentes RAG respondam com precisêo, sem erros nem duplicações.
+Esses hacks otimizam **velocidade, custo, manutençêo e segurança** do sistema.
 
 ---
 
-## 1. Organização e Identificação
+## 1. Organizaçêo e Identificaçêo
 
 **1.1 Use IDs únicos e fixos (file_id)**
 Evite usar nomes de arquivo, que mudam.
@@ -180,7 +180,7 @@ Exemplo:
 
 ```metadata => { file_id: {{ $json["id"] }}, file_name: {{ $json["name"] }} }```
 
-**1.2 Evite duplicação com pré-checagem (idempotência)**
+**1.2 Evite duplicaçêo com pré-checagem (idempotência)**
 Antes de inserir, apague possíveis registros antigos:
 
 ```DELETE FROM documents WHERE metadata->>'file_id' = {{ $json["id"] }}```
@@ -213,10 +213,10 @@ Use triggers “File Updated” e delete os vetores antigos antes de regravar.
 Evite acúmulo de versões.
 
 **3.2 Exclusões seguras**
-Como o Drive não tem gatilho “File Deleted”:
+Como o Drive nêo tem gatilho “File Deleted”:
 
 * Crie uma pasta “lixeira”.
-* Mover arquivo para lá → dispara exclusão no Supabase.
+* Mover arquivo para lá → dispara exclusêo no Supabase.
 
 ---
 
@@ -233,10 +233,10 @@ Use sempre o mesmo modelo de embedding para indexar e consultar.
 
 ---
 
-## 5. Precisão e Qualidade
+## 5. Precisêo e Qualidade
 
 **5.1 Reranking híbrido**
-Combine busca semântica (embeddings) com busca lexical (BM25) para melhorar precisão.
+Combine busca semântica (embeddings) com busca lexical (BM25) para melhorar precisêo.
 
 **5.2 Prompting com contexto**
 Ao consultar:
@@ -247,7 +247,7 @@ Ao consultar:
 
 ## 6. Segurança e Confiabilidade
 
-**6.1 Controle de execução**
+**6.1 Controle de execuçêo**
 Use *Execute only once* no n8n para evitar duplicidade.
 
 **6.2 Segurança das chaves**
@@ -257,28 +257,28 @@ Proteja tabelas no Supabase com RLS (Row-Level Security).
 **6.3 Monitoramento e alertas**
 Crie alertas quando houver:
 
-* Falha de conexão
+* Falha de conexêo
 * Zero vetores processados
-* Execução repetida
+* Execuçêo repetida
 
 ---
 
-## 7. Manutenção e Escalabilidade
+## 7. Manutençêo e Escalabilidade
 
 **7.1 Log detalhado**
 Registre:
-`event_id, file_id, tempo de execução, rows afetadas, hash`
+`event_id, file_id, tempo de execuçêo, rows afetadas, hash`
 
 **7.2 Ambientes separados**
 Tenha pastas/bancos “dev” e “prod” no Supabase.
 
-**7.3 Política de retenção**
-Remova embeddings antigos que não são mais usados.
-Execute verificação mensal por “last_query_date”.
+**7.3 Política de retençêo**
+Remova embeddings antigos que nêo sêo mais usados.
+Execute verificaçêo mensal por “last_query_date”.
 
 ---
 
-## 8. Testes e Validação
+## 8. Testes e Validaçêo
 
 **Checklist de teste:**
 
@@ -291,7 +291,7 @@ Execute verificação mensal por “last_query_date”.
 
 ## 9. Exemplos práticos
 
-**Expressão para exclusão por file_id**
+**Expressêo para exclusêo por file_id**
 
 ```metadata->>file_id = {{ $json["id"] }}```
 
@@ -304,7 +304,7 @@ Execute verificação mensal por “last_query_date”.
   "chunk_index": "{{ $json['index'] }}"
 }```
 
-**Verificação de alteração**
+**Verificaçêo de alteraçêo**
 
 ```if db.get(file_id).hash != new_hash:
     delete_vectors(file_id)
@@ -318,7 +318,7 @@ Execute verificação mensal por “last_query_date”.
 | ------------------------------------------ | --------------------------------------------------- |
 | Posso usar file_name como chave?           | Sim, mas arriscado. Prefira file_id.                |
 | Preciso re-embed tudo se trocar de modelo? | Sim, os embeddings mudam.                           |
-| Como testar sem impactar produção?         | Use pastas e tabelas separadas (“rag-dev”).         |
+| Como testar sem impactar produçêo?         | Use pastas e tabelas separadas (“rag-dev”).         |
 | PDFs muito grandes?
 
 ------------------------------
@@ -352,7 +352,7 @@ O objetivo é criar um **pipeline automatizado** que:
 ### 2. Estrutura do sistema
 
 * **Fonte de dados:** Google Drive (pasta “rag”)
-* **Processamento:** n8n (integração e automação)
+* **Processamento:** n8n (integraçêo e automaçêo)
 * **Destino:** Supabase (armazenamento vetorial)
 * **Modelo de embedding:** OpenAI (Text Embedding 3 Small)
 
@@ -368,19 +368,19 @@ O objetivo é criar um **pipeline automatizado** que:
 
    * Tipo: *On file changes in a specific folder*
    * Escolha a pasta “rag”.
-   * Ação: *File Created*.
+   * Açêo: *File Created*.
 
 2. **Download do arquivo:**
 
    * Adicione outro node “Google Drive”.
-   * Ação: *Download File*.
+   * Açêo: *Download File*.
    * Configure para baixar pelo ID do arquivo vindo do trigger.
-   * Ative a conversão automática para PDF.
+   * Ative a conversêo automática para PDF.
 
 3. **Envio ao Supabase:**
 
    * Adicione node “Supabase Vector Store”.
-   * Ação: *Insert Document*.
+   * Açêo: *Insert Document*.
    * Configure a tabela “documents”.
    * Insira o binário (PDF).
    * Adicione metadados:
@@ -409,14 +409,14 @@ Cada novo arquivo na pasta “rag” é convertido em PDF, vetorizado e armazena
 
    * Tipo: *On file changes in a specific folder*.
    * Pasta: “rag”.
-   * Ação: *File Updated*.
+   * Açêo: *File Updated*.
 
 2. **Excluir vetores antigos:**
 
    * Adicione node “Supabase”.
-   * Ação: *Delete a Row*.
+   * Açêo: *Delete a Row*.
    * Tabela: “documents”.
-   * Condição: `metadata->>file_name LIKE {{ nome_do_arquivo }}`.
+   * Condiçêo: `metadata->>file_name LIKE {{ nome_do_arquivo }}`.
 
 3. **Baixar e reenviar o arquivo atualizado:**
 
@@ -440,13 +440,13 @@ Toda vez que um arquivo é editado no Google Drive, o Supabase atualiza automati
 
    * Tipo: *On file changes in a specific folder*.
    * Pasta: “lixeira”.
-   * Ação: *File Created*.
+   * Açêo: *File Created*.
 
 2. **Excluir vetores correspondentes:**
 
    * Node “Supabase”.
-   * Ação: *Delete a Row*.
-   * Condição: `metadata->>file_name LIKE {{ nome_do_arquivo }}`.
+   * Açêo: *Delete a Row*.
+   * Condiçêo: `metadata->>file_name LIKE {{ nome_do_arquivo }}`.
 
 **Resultado:**
 Arquivos movidos para a “lixeira” têm seus vetores automaticamente apagados.
@@ -463,7 +463,7 @@ Arquivos movidos para a “lixeira” têm seus vetores automaticamente apagados
 2. **Atualizar arquivo:**
 
    * Edite o documento no Drive.
-   * Confirme se os vetores antigos são removidos e substituídos.
+   * Confirme se os vetores antigos sêo removidos e substituídos.
 
 3. **Excluir arquivo:**
 
@@ -472,7 +472,7 @@ Arquivos movidos para a “lixeira” têm seus vetores automaticamente apagados
 
 ---
 
-### 7. Integração com agente de IA
+### 7. Integraçêo com agente de IA
 
 * Configure um agente (por exemplo, com ChatGPT ou outro modelo) para consultar diretamente o banco vetorial do Supabase.
 * Agora ele sempre responderá com base nos arquivos mais recentes e confiáveis.
@@ -485,7 +485,7 @@ Com esse sistema, o banco vetorial e os agentes RAG permanecem **sempre sincroni
 
 * Atualizações automáticas.
 * Dados limpos e consistentes.
-* Processos sem intervenção manual.
+* Processos sem intervençêo manual.
 
 ------------------------------
 
@@ -503,17 +503,17 @@ Data: 2025-10-18T23:39:16+00:00
 Texto:
 Resumo do vídeo “Keep Your RAG Agents ACCURATE: Beginner’s Guide”
 
-O criador ensina como manter agentes RAG (Retrieval-Augmented Generation) sempre precisos e atualizados, automatizando a sincronização entre arquivos do Google Drive e um banco vetorial no Supabase.
+O criador ensina como manter agentes RAG (Retrieval-Augmented Generation) sempre precisos e atualizados, automatizando a sincronizaçêo entre arquivos do Google Drive e um banco vetorial no Supabase.
 
 1. **Importância do pipeline de dados**
    Ele explica que um bom pipeline garante que os agentes de IA usem dados confiáveis e atualizados. Dados desorganizados ou antigos resultam em respostas erradas.
-   O pipeline deve automatizar o fluxo de atualização, processamento e exclusão dos arquivos no banco vetorial.
+   O pipeline deve automatizar o fluxo de atualizaçêo, processamento e exclusêo dos arquivos no banco vetorial.
 
 2. **Estrutura do pipeline RAG**
    Ele divide o sistema em três etapas:
 
    * **Entrada (raw data):** onde os dados chegam (por exemplo, upload de PDFs, CSVs, Docs).
-   * **Processamento:** limpeza, conversão e adição de metadados.
+   * **Processamento:** limpeza, conversêo e adiçêo de metadados.
    * **Saída:** armazenamento final no banco vetorial (Supabase).
      O exemplo prático usa Google Drive como fonte e Supabase como destino.
 
@@ -523,23 +523,23 @@ O criador ensina como manter agentes RAG (Retrieval-Augmented Generation) sempre
    * O n8n adiciona metadados como nome e data, e o documento é vetorizado usando OpenAI Embeddings.
    * O agente pode consultar o conteúdo do documento imediatamente.
 
-4. **Segundo fluxo – Atualização automática**
+4. **Segundo fluxo – Atualizaçêo automática**
 
    * Quando um arquivo é modificado no Drive, o n8n detecta a mudança.
-   * Os vetores antigos com o mesmo nome de arquivo são excluídos do Supabase.
+   * Os vetores antigos com o mesmo nome de arquivo sêo excluídos do Supabase.
    * O novo arquivo é baixado e reenviado para atualizar o banco vetorial.
-   * Isso mantém o conteúdo sincronizado com a versão mais recente do arquivo.
+   * Isso mantém o conteúdo sincronizado com a versêo mais recente do arquivo.
 
-5. **Terceiro fluxo – Exclusão automática**
+5. **Terceiro fluxo – Exclusêo automática**
 
-   * Como o Google Drive não possui um gatilho nativo para “arquivo excluído”, é usada uma solução alternativa: uma pasta “lixeira”.
+   * Como o Google Drive nêo possui um gatilho nativo para “arquivo excluído”, é usada uma soluçêo alternativa: uma pasta “lixeira”.
    * Quando um arquivo é movido para essa pasta, o n8n aciona o fluxo e apaga automaticamente os vetores correspondentes no Supabase.
 
-6. **Conclusão e comunidade**
-   O autor reforça que o foco é entender a lógica de automação, não a otimização de embeddings.
-   Ele oferece o fluxo completo e notas no grupo da comunidade gratuita, além de um curso pago com aulas sobre criação de agentes e automação com n8n e Supabase.
+6. **Conclusêo e comunidade**
+   O autor reforça que o foco é entender a lógica de automaçêo, nêo a otimizaçêo de embeddings.
+   Ele oferece o fluxo completo e notas no grupo da comunidade gratuita, além de um curso pago com aulas sobre criaçêo de agentes e automaçêo com n8n e Supabase.
 
-**Exemplo de aplicação prática:**
+**Exemplo de aplicaçêo prática:**
 Ao inserir, editar ou remover um PDF no Google Drive, o Supabase é automaticamente atualizado, garantindo que os agentes de IA consultem sempre dados válidos e recentes.
 
 ------------------------------
@@ -562,10 +562,10 @@ Se você está criando agentes RAG no n8n, este é um dos tutoriais mais importa
 
 Neste vídeo passo a passo, eu vou mostrar como construir um pipeline RAG (Retrieval-Augmented Generation) completamente sem código.
 
-Essa configuração mantém seu banco de dados sincronizado automaticamente com seus arquivos de origem, de modo que, quando você atualiza ou exclui um arquivo, o banco de dados também é atualizado.
+Essa configuraçêo mantém seu banco de dados sincronizado automaticamente com seus arquivos de origem, de modo que, quando você atualiza ou exclui um arquivo, o banco de dados também é atualizado.
 
 Isso significa que seus agentes de IA sempre pesquisam dados precisos e confiáveis, em vez de informações desatualizadas.
-Sem esse sistema em funcionamento, você não pode confiar nas respostas da sua IA.
+Sem esse sistema em funcionamento, você nêo pode confiar nas respostas da sua IA.
 
 Ao final do vídeo, você vai entender exatamente como conectar tudo dentro do n8n, Google Drive e Supabase, mesmo que seja um iniciante completo.
 

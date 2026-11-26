@@ -23,39 +23,39 @@ Data: 2025-09-22T03:25:36+00:00
 Texto:
 Resumo completo
 
-1. Entrada e triagem: todo pedido passa por triagem automática; prioriza retenção com o tutor, só agenda intake quando necessário.
-2. Operações de campo: avaliação no local decide entre resolver com tutor, TNR/CNR para gatos de comunidade ou entrada no sistema.
-3. Intake técnico: cadastro, foto, microchip, vacinação de núcleo, triagem clínica e comportamental, isolamento se preciso.
+1. Entrada e triagem: todo pedido passa por triagem automática; prioriza retençêo com o tutor, só agenda intake quando necessário.
+2. Operações de campo: avaliaçêo no local decide entre resolver com tutor, TNR/CNR para gatos de comunidade ou entrada no sistema.
+3. Intake técnico: cadastro, foto, microchip, vacinaçêo de núcleo, triagem clínica e comportamental, isolamento se preciso.
 4. Plano de cuidado: protocolos padronizados, analgesia, exames e metas claras para reduzir tempo de permanência.
-5. Rotas de saída: RTO prioritário, adoção, lar temporário, transferência ou TNR/CNR para felinos comunitários.
-6. Pós-saída: check-ins programados, suporte e pesquisa de satisfação para reduzir retornos.
-7. Governança e dados: LGPD by design, métricas Asilomar, auditoria, integrações com comunicação, clínicas e BI.
+5. Rotas de saída: RTO prioritário, adoçêo, lar temporário, transferência ou TNR/CNR para felinos comunitários.
+6. Pós-saída: check-ins programados, suporte e pesquisa de satisfaçêo para reduzir retornos.
+7. Governança e dados: LGPD by design, métricas Asilomar, auditoria, integrações com comunicaçêo, clínicas e BI.
 
 Tópicos com exemplos e respostas
 
-1. Como evitar superlotação
-   Exemplo: triagem oferece orientação e materiais para retenção com o tutor; somente casos elegíveis seguem para intake.
-   Resposta: priorize retenção com suporte remoto e lares temporários para filhotes e pós-operatório; isso reduz entradas e o tempo médio de permanência.
+1. Como evitar superlotaçêo
+   Exemplo: triagem oferece orientaçêo e materiais para retençêo com o tutor; somente casos elegíveis seguem para intake.
+   Resposta: priorize retençêo com suporte remoto e lares temporários para filhotes e pós-operatório; isso reduz entradas e o tempo médio de permanência.
 
 2. O que é obrigatório no intake
-   Exemplo: na chegada, microchip, vacinas de núcleo, vermifugação e avaliação clínica/comportamental com possível isolamento.
+   Exemplo: na chegada, microchip, vacinas de núcleo, vermifugaçêo e avaliaçêo clínica/comportamental com possível isolamento.
    Resposta: padronize um checklist de intake e automatize tarefas e lembretes.
 
 3. Quando usar TNR/CNR
    Exemplo: gato saudável de colônia, bem adaptado ao território: vacinar, esterilizar e devolver à comunidade com tutor comunitário.
-   Resposta: TNR/CNR reduz população e sofrimento sem inflar ocupação do abrigo.
+   Resposta: TNR/CNR reduz populaçêo e sofrimento sem inflar ocupaçêo do abrigo.
 
 4. RTO na prática
-   Exemplo: animal microchipado é reunido ao tutor no mesmo dia, após confirmação cadastral e termo.
-   Resposta: campanhas de chipagem e atualização de cadastro elevam a taxa de reunião e liberam vagas.
+   Exemplo: animal microchipado é reunido ao tutor no mesmo dia, após confirmaçêo cadastral e termo.
+   Resposta: campanhas de chipagem e atualizaçêo de cadastro elevam a taxa de reuniêo e liberam vagas.
 
-5. Adoção sem fricção
-   Exemplo: pipeline com triagem simples, agendamento de visita e assinatura digital do termo; check-ins pós-adoção em 3, 7 e 30 dias.
-   Resposta: formulários objetivos e comunicação ativa elevam
- conversão e reduzem devoluções.
+5. Adoçêo sem fricçêo
+   Exemplo: pipeline com triagem simples, agendamento de visita e assinatura digital do termo; check-ins pós-adoçêo em 3, 7 e 30 dias.
+   Resposta: formulários objetivos e comunicaçêo ativa elevam
+ conversêo e reduzem devoluções.
 
 6. LGPD e transparência
-   Exemplo: termos de consentimento na adoção e RTO; política de retenção de dados; canal de atendimento ao titular.
+   Exemplo: termos de consentimento na adoçêo e RTO; política de retençêo de dados; canal de atendimento ao titular.
    Resposta: mantenha mínimos dados necessários, registre finalidade`s e publique` `métricas com método claro.`
 
 ------------------------------
@@ -64,17 +64,17 @@ MENSAGEM 3
 Autor: INEMA
 Data: 2025-09-22T03:25:36+00:00
 Texto:
-Segue um fluxo completo em Mermaid para um sistema de gestão e atendimento de uma ONG de pets. Incluí as etapas principais, decisões, integrações e retornos. Depois do diagrama, deixei um resumo e uma lista com exemplos e respostas rápidas.
+Segue um fluxo completo em Mermaid para um sistema de gestêo e atendimento de uma ONG de pets. Incluí as etapas principais, decisões, integrações e retornos. Depois do diagrama, deixei um resumo e uma lista com exemplos e respostas rápidas.
 
 `flowchart TD`
-`    %% Sistema de Gestão e Fluxo ONG de Pets`
+`    %% Sistema de Gestêo e Fluxo ONG de Pets`
 `    A -->|Pedido de atendimento| B[Triagem automática]`
-`    B -->|Caso não urgente / tutor presente| C[Retenção e orientação]`
+`    B -->|Caso nêo urgente / tutor presente| C[Retençêo e orientaçêo]`
 `    B -->|Risco/urgência em campo| D[Despacho Equipe de Campo]`
-`    B -->|Sem solução remota| E[Agendar Intake no Abrigo/Clínica Parceira]`
+`    B -->|Sem soluçêo remota| E[Agendar Intake no Abrigo/Clínica Parceira]`
 
 `    %% Campo`
-`    D --> D1{Avaliação no local}`
+`    D --> D1{Avaliaçêo no local}`
 `    D1 -->|Tutor identificado| C`
 `    D1 -->|Risco à vida / maus-tratos / abandono| E`
 `    D1 -->|Animal comunitário estável| F[TNR/CNR no território]`
@@ -84,14 +84,14 @@ Segue um fluxo completo em Mermaid para um sistema de gestão e atendimento de u
 `    G --> H[Vacinas de núcleo]`
 `    H --> I{Triagem clínica e comportamental}`
 `    I -->|Sinais infecciosos| J[Isolamento/Quarentena]`
-`    I -->|Estável| K[Alocação em Alojamento]`
+`    I -->|Estável| K[Alocaçêo em Alojamento]`
 
 `    %% Plano de cuidado`
 `    J --> L[Plano de Cuidado]`
 `    K --> L`
 `    L --> M{Rota de saída priorizada}`
-`    M -->|RTO: tutor/microchip| N[Devolução ao Tutor]`
-`    M -->|Adoção| O[Pipeline de Adoção]`
+`    M -->|RTO: tutor/microchip| N[Devoluçêo ao Tutor]`
+`    M -->|Adoçêo| O[Pipeline de Adoçêo]`
 `    M -->|Lar Temporário| P[Casa de Acolhimento]`
 `    M -->|Transferência/Resgate parceiro| Q[ONG/Resgate especializado]`
 `    M -->|Gatos comunitários| F`
@@ -121,7 +121,7 @@ Segue um fluxo completo em Mermaid para um sistema de gestão e atendimento de u
 `    E -. logs .-> V`
 `    G -. dados pessoais .-> U`
 `    O -. termos .-> U`
-`    R -. satisfação/indicadores .-> V`
+`    R -. satisfaçêo/indicadores .-> V`
 `    A -. canais .-> X`
 `    E -. agenda .-> X`
 `    G -. microchip .-> X`

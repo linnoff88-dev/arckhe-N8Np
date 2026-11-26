@@ -22,7 +22,7 @@ notes
 18. Slack \[Send Message]
 
 * Canal: o mesmo da entrada
-* Texto de confirmação do que foi feito
+* Texto de confirmaçêo do que foi feito
 
 19. Error Trigger (workflow separado) ou caminhos de erro
 
@@ -32,7 +32,7 @@ notes
 4. Expressões úteis
 
 * Pegar transcript final:
-  {{ \$json.transcript || \$node\["HTTP Request Transcrição OpenAI"].json.text }}
+  {{ \$json.transcript || \$node\["HTTP Request Transcriçêo OpenAI"].json.text }}
 * Montar horário de término 60 min após o início:
   {{ \$json.event\_start\_rfc3339\_end\_mais\_60 || \$jmespath(\$json, "event.start") }}
   (alternativa: usar Date & Time para adicionar 60 minutos)
@@ -48,17 +48,17 @@ notes
 
 6. Mensagens de teste no Slack
 
-* Voz/texto 1: Agende reunião com Mark, amanhã às 10h EST. Me lembre de levar a apresentação.
-  Resultado: Evento criado 10:00 EST com descrição incluindo lembrete.
+* Voz/texto 1: Agende reuniêo com Mark, amanhê às 10h EST. Me lembre de levar a apresentaçêo.
+  Resultado: Evento criado 10:00 EST com descriçêo incluindo lembrete.
 * Voz/texto 2: Contato com o lead Steve Johnson. Discovery call marcada para 2 de agosto de 2025. Ele é Head of Operations em empresa média.
   Resultado: Card criado/movido para Discovery Call + notas no card + opcionalmente evento no calendário.
-* Voz/texto 3: Tive reunião com Steve Johnson; ele recebeu a proposta e vai revisar. Atualize para Proposal Review.
+* Voz/texto 3: Tive reuniêo com Steve Johnson; ele recebeu a proposta e vai revisar. Atualize para Proposal Review.
   Resultado: Card movido para Proposal Review com nota.
 
 7. Boas práticas e erros comuns
 
 * Timezone: sempre normalize tudo para America/New\_York antes de criar o evento.
-* Deduplicação de leads: se houver mais de um card com o mesmo nome, adicionar um sufixo único ou verificar email/telefone no texto.
+* Deduplicaçêo de leads: se houver mais de um card com o mesmo nome, adicionar um sufixo único ou verificar email/telefone no texto.
 * Falhas de download de áudio Slack: use header Authorization: Bearer xoxb-... na url\_private\_download.
 * LLM sempre em JSON: se o modelo sair do JSON, envolva em um Code node que aplique regex para extrair o primeiro bloco JSON válido e, se falhar, notifique no Slack.
 
@@ -67,26 +67,26 @@ notes
 * Guardar tokens nas credenciais do n8n.
 * Limitar o canal de entrada a um canal específico.
 * Sanitizar PII em logs.
-* Definir limites: tamanho máximo de áudio e duração.
+* Definir limites: tamanho máximo de áudio e duraçêo.
 
 9. Expansões rápidas
 
 * WhatsApp via Evolution API ou Telegram: substituir o Slack Trigger por esses conectores.
 * CRM real (HubSpot/Pipedrive): trocar nós do Trello por nós do CRM.
-* Confirmar com o usuário no Slack antes de ações críticas: adicionar um passo opcional de aprovação.
+* Confirmar com o usuário no Slack antes de ações críticas: adicionar um passo opcional de aprovaçêo.
 
 Perguntas e exemplos prontos
 
 * Como envio um comando?
-  Fale ou digite no canal do Slack configurado, por exemplo: Agende call com Ana amanhã às 15h, inclua link do Zoom e lembrete de 30 min.
-* O que acontece se eu não informar horário?
+  Fale ou digite no canal do Slack configurado, por exemplo: Agende call com Ana amanhê às 15h, inclua link do Zoom e lembrete de 30 min.
+* O que acontece se eu nêo informar horário?
   O agente aplica defaults (ex.: 10:00 no fuso America/New\_York) e marca defaults\_applied=true.
 * Como mover um lead de etapa?
   Exemplo: Mova o Steve Johnson para Proposal Review e adicione nota que a proposta foi enviada hoje.
 * Posso usar Telegram em vez de Slack?
   Sim. Troque o nó de entrada e mantenha o restante do fluxo.
-* E se o LLM não devolver JSON válido?
-  O fluxo envia aviso no Slack, registra a transcrição e tenta novamente com um prompt de fallback que força o formato.
+* E se o LLM nêo devolver JSON válido?
+  O fluxo envia aviso no Slack, registra a transcriçêo e tenta novamente com um prompt de fallback que força o formato.
 
 ------------------------------
 
@@ -95,7 +95,7 @@ Autor: INEMA
 Data: 2025-08-10T03:39:37+00:00
 Texto:
 Resumo rápido
-Agente de Ação Inteligente no n8n que capta voz/texto pelo Slack, transcreve (OpenAI), interpreta a intenção com LLM e executa automaticamente: criar eventos no Google Calendar e criar/atualizar/mover leads no Trello. Tudo sem sair do Slack.
+Agente de Açêo Inteligente no n8n que capta voz/texto pelo Slack, transcreve (OpenAI), interpreta a intençêo com LLM e executa automaticamente: criar eventos no Google Calendar e criar/atualizar/mover leads no Trello. Tudo sem sair do Slack.
 
 Passo a passo prático no n8n
 
@@ -115,20 +115,20 @@ Passo a passo prático no n8n
 * Trello
 
   * Obtenha key e token da sua conta.
-* Defina o fuso padrão do agente: America/New\_York.
+* Defina o fuso padrêo do agente: America/New\_York.
 
 2. Estrutura do workflow
 
 * Entrada: Slack Trigger (mensagem com texto ou áudio).
 * Se houver áudio: baixar o arquivo e transcrever com OpenAI.
-* Se houver só texto: usar diretamente como transcrição.
-* Agente LLM: transformar a transcrição em um JSON de ação.
-* Roteamento por intenção:
+* Se houver só texto: usar diretamente como transcriçêo.
+* Agente LLM: transformar a transcriçêo em um JSON de açêo.
+* Roteamento por intençêo:
 
   * create\_event → Google Calendar: Create Event.
   * add\_lead → Trello: Create Card na lista apropriada.
   * update\_lead/move\_lead → Trello: localizar card e atualizar/mover.
-* Retorno: mensagem de confirmação no Slack.
+* Retorno: mensagem de confirmaçêo no Slack.
 * Log/erros: enviar aviso no Slack em caso de falha.
 
 3. Nós sugeridos (em ordem)
@@ -138,26 +138,26 @@ Passo a passo prático no n8n
    * Eventos: mensagem em canal específico.
 2) IF (tem áudio?)
 
-   * Condição: existe url privada de download ou anexo de áudio.
+   * Condiçêo: existe url privada de download ou anexo de áudio.
 3) HTTP Request \[Slack download] (só quando tem áudio)
 
    * GET na url\_private\_download do arquivo.
    * Header Authorization: Bearer xoxb-...
    * Output binário (ex.: audio).
-4) HTTP Request \[Transcrição OpenAI] (só quando tem áudio)
+4) HTTP Request \[Transcriçêo OpenAI] (só quando tem áudio)
 
    * POST [https://api.openai.com/v1/audio/transcriptions](https://api.openai.com/v1/audio/transcriptions)
    * Form-data: file = binário do passo anterior; model = whisper-1
    * Retorna texto transcrito.
 5) Set \[Texto de entrada]
 
-   * Campo transcript = texto do Slack OU da transcrição.
+   * Campo transcript = texto do Slack OU da transcriçêo.
    * Campo channel\_id, user\_id, timezone\_default = America/New\_York.
-6) Chat OpenAI \[Agente de Ação]
+6) Chat OpenAI \[Agente de Açêo]
 
    * System prompt: exigir JSON único e válido.
    * Input: {{ \$json.transcript }}.
-   * Saída: JSON com intenção e campos normalizados.
+   * Saída: JSON com intençêo e campos normalizados.
    * Exemplo de system prompt:
      Você é um parser de ações. Responda somente com um JSON válido, sem explicações.
      Schema:
@@ -213,7 +213,7 @@ Passo a passo prático no n8n
 
 16. Trello \[Update Card]
 
-* Atualizar descrição com
+* Atualizar descriçêo com
 
 ------------------------------
 
@@ -221,7 +221,7 @@ MENSAGEM 3
 Autor: INEMA
 Data: 2025-08-10T03:38:35+00:00
 Texto:
-Smart Action Agent, um agente de IA que executa tarefas a partir de comandos de voz enviados pelo Slack (ou outros canais como WhatsApp ou Telegram). Ele está integrado ao Google Calendar e ao Trello para automatizar agendamentos e gestão de leads.
+Smart Action Agent, um agente de IA que executa tarefas a partir de comandos de voz enviados pelo Slack (ou outros canais como WhatsApp ou Telegram). Ele está integrado ao Google Calendar e ao Trello para automatizar agendamentos e gestêo de leads.
 
 O agente interpreta mensagens de voz e realiza ações como:
 
@@ -248,42 +248,42 @@ MENSAGEM 5
 Autor: INEMA
 Data: 2025-08-10T03:36:35+00:00
 Texto:
-Agente de Ação Inteligente
+Agente de Açêo Inteligente
 
 Workflow acionado pelo Slack: Escuta qualquer nova mensagem (incluindo arquivos de áudio) em um canal específico do Slack.
 
-Manipulação de áudio: Faz o download do arquivo de áudio anexado via API do Slack.
+Manipulaçêo de áudio: Faz o download do arquivo de áudio anexado via API do Slack.
 
-Transcrição: Envia o áudio para o endpoint de reconhecimento de fala da OpenAI para gerar uma transcrição em texto.
+Transcriçêo: Envia o áudio para o endpoint de reconhecimento de fala da OpenAI para gerar uma transcriçêo em texto.
 
-Interpretação inteligente de ações: Envia a transcrição para um “Agente de Ação Inteligente” baseado em GPT, que interpreta a intenção do usuário e mapeia para as ferramentas disponíveis — sem perguntas de acompanhamento.
+Interpretaçêo inteligente de ações: Envia a transcriçêo para um “Agente de Açêo Inteligente” baseado em GPT, que interpreta a intençêo do usuário e mapeia para as ferramentas disponíveis — sem perguntas de acompanhamento.
 
-Automação de calendário: Se o usuário solicitar uma reunião ou evento, o agente extrai data, hora, resumo e descrição (preenchendo parâmetros ausentes automaticamente) e aciona a ferramenta do Google Calendar para criar o evento.
+Automaçêo de calendário: Se o usuário solicitar uma reuniêo ou evento, o agente extrai data, hora, resumo e descriçêo (preenchendo parâmetros ausentes automaticamente) e aciona a ferramenta do Google Calendar para criar o evento.
 
 Gerenciamento de leads no Trello:
 
-Adicionar novos leads: Recupera os IDs das listas do pipeline de leads no Trello e cria um novo cartão na etapa “Novo Lead” (ou outra especificada) com o nome e os detalhes extraídos.
+Adicionar novos leads: Recupera os IDs das listas do pipeline de leads no Trello e cria um novo cartêo na etapa “Novo Lead” (ou outra especificada) com o nome e os detalhes extraídos.
 
-Atualizar leads existentes: Busca todas as listas e cartões do pipeline, localiza o cartão do lead especificado e atualiza sua descrição ou move para uma nova etapa conforme instruído.
+Atualizar leads existentes: Busca todas as listas e cartões do pipeline, localiza o cartêo do lead especificado e atualiza sua descriçêo ou move para uma nova etapa conforme instruído.
 
-Caso de Uso / Aplicação
+Caso de Uso / Aplicaçêo
 
-Nome da solução: Agente de Ação Inteligente
+Nome da soluçêo: Agente de Açêo Inteligente
 Oferta principal: Um assistente de IA conversacional integrado ao Slack que executa agendamentos e atualizações no CRM em nome dos usuários, transformando mensagens de voz ou texto em eventos de calendário ou ações no pipeline do Trello.
 
 Principais benefícios
 
-Fluxo de trabalho contínuo: Usuários não precisam sair do Slack para agendar reuniões ou atualizar leads, reduzindo trocas de contexto.
+Fluxo de trabalho contínuo: Usuários nêo precisam sair do Slack para agendar reuniões ou atualizar leads, reduzindo trocas de contexto.
 
-Produtividade mãos-livres: Comandos de áudio permitem que profissionais ocupados façam múltiplas tarefas — por exemplo, agendar um retorno de chamada enquanto dirigem ou atualizar o status de um prospecto em movimento.
+Produtividade mêos-livres: Comandos de áudio permitem que profissionais ocupados façam múltiplas tarefas — por exemplo, agendar um retorno de chamada enquanto dirigem ou atualizar o status de um prospecto em movimento.
 
-Consistência e conformidade: Parâmetros padrão e prompts estruturados garantem que cada evento e cartão de lead sigam os padrões organizacionais.
+Consistência e conformidade: Parâmetros padrêo e prompts estruturados garantem que cada evento e cartêo de lead sigam os padrões organizacionais.
 
 Indústrias e compradores ideais
 
 Vendas e Desenvolvimento de Negócios (B2B SaaS, Serviços Profissionais): Captura e qualifica leads rapidamente durante chamadas ou reuniões, agendando automaticamente apresentações ou acompanhamentos.
 
-Recrutamento e Seleção: Recrutadores podem transcrever entrevistas de triagem de candidatos e atualizar instantaneamente o pipeline de candidatos sem entrada manual de dados.
+Recrutamento e Seleçêo: Recrutadores podem transcrever entrevistas de triagem de candidatos e atualizar instantaneamente o pipeline de candidatos sem entrada manual de dados.
 
 Consultoria e Agências: Consultores podem registrar reuniões de início de projeto e cadastrar novos leads de clientes usando notas de voz simples no Slack.
 
@@ -291,7 +291,7 @@ Imobiliário: Corretores podem gravar notas de visitas a imóveis no Slack e faz
 
 Assistentes Executivos / Equipes Administrativas: Assistentes podem usar breves mensagens de áudio para construir agendas executivas e manter pipelines de contatos com esforço mínimo.
 
-Ao empacotar isso como uma integração low-code no n8n ou um aplicativo gerenciado no Slack, você pode oferecer aos clientes um assistente “voz-para-ação” plug-and-play que aumenta a produtividade, acelera o tempo de resposta e reforça a consistência dos processos em qualquer equipe que utilize Slack, Google Calendar e Trello.
+Ao empacotar isso como uma integraçêo low-code no n8n ou um aplicativo gerenciado no Slack, você pode oferecer aos clientes um assistente “voz-para-açêo” plug-and-play que aumenta a produtividade, acelera o tempo de resposta e reforça a consistência dos processos em qualquer equipe que utilize Slack, Google Calendar e Trello.
 
 Recursos
 Smart Action Agent.json
@@ -305,7 +305,7 @@ Texto:
 O Smart Action Agent é um assistente de IA integrado ao Slack que transforma mensagens de voz ou texto em ações automáticas, como criar eventos no Google Calendar ou atualizar pipelines de leads no Trello, sem sair do Slack.
 
 Propósito:
-Facilitar agendamentos e gestão de leads de forma rápida, prática e padronizada, aumentando a produtividade e reduzindo o esforço manual.
+Facilitar agendamentos e gestêo de leads de forma rápida, prática e padronizada, aumentando a produtividade e reduzindo o esforço manual.
 
 ------------------------------
 
@@ -329,7 +329,7 @@ MENSAGEM 9
 Autor: INEMA
 Data: 2025-08-10T03:33:56+00:00
 Texto:
-m26 - Agente de Ação Inteligente
+m26 - Agente de Açêo Inteligente
 
 ------------------------------
 

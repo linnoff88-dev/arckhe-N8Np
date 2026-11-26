@@ -13,18 +13,18 @@ MENSAGEM 1
 Autor: INEMA
 Data: 2025-04-08T22:16:18+00:00
 Texto:
-Aqui vão **dicas e hacks diretos** para essa automação com IA:
+Aqui vêo **dicas e hacks diretos** para essa automaçêo com IA:
 
 1. **Use dados de planilha (Google Sheets)** para controlar tudo sem editar o fluxo.
 2. **Clone sua voz com Fish Audio** – é 10x mais barato que ElevenLabs e com boa qualidade.
-3. **Use Whisper só para gerar timestamps**, não para criar o texto.
+3. **Use Whisper só para gerar timestamps**, nêo para criar o texto.
 4. **Pin os dados no n8n** para evitar gastar tokens toda vez que testar.
 5. **Use vídeos humanos reais como base para lip-sync**, melhora o realismo do avatar.
 6. **Use Supabase** como armazenamento gratuito e com API fácil.
 7. **Rode o n8n localmente com Docker** para mais controle e evitar limites de hospedagem.
 8. **Use Claude ou outro modelo via OpenRouter** – mais barato que ChatGPT-4.
 9. **Evite rodar o fluxo inteiro várias vezes** – teste por etapas com dados fixos.
-10. **Ajuste volume da música de fundo no FFMPEG** para não cobrir a fala do avatar.
+10. **Ajuste volume da música de fundo no FFMPEG** para nêo cobrir a fala do avatar.
 
 ------------------------------
 
@@ -77,13 +77,13 @@ Criar vídeos com avatares que falam com sua voz clonada e sincronizam os lábio
 
 ---
 
-## 📜 Etapa 3 – Gerar transcrição resumida com Claude
+## 📜 Etapa 3 – Gerar transcriçêo resumida com Claude
 
-1. Pegue a transcrição de um vídeo usando a **YouTube Transcript API** (exige instalação dentro do container do Docker).
+1. Pegue a transcriçêo de um vídeo usando a **YouTube Transcript API** (exige instalaçêo dentro do container do Docker).
 2. Use o **Claude ou outro modelo via OpenRouter** para criar um roteiro de até 100 palavras com estrutura de impacto:
-   - Introdução forte
+   - Introduçêo forte
    - Corpo curto
-   - Conclusão com chamada
+   - Conclusêo com chamada
 
 ---
 
@@ -97,16 +97,16 @@ Criar vídeos com avatares que falam com sua voz clonada e sincronizam os lábio
 
 ## 🕐 Etapa 5 – Transcrever o áudio com timestamps (Whisper)
 
-1. Use o modelo **Whisper da OpenAI** para gerar a transcrição com timestamps.
-2. Isso será necessário para a sincronização labial precisa.
+1. Use o modelo **Whisper da OpenAI** para gerar a transcriçêo com timestamps.
+2. Isso será necessário para a sincronizaçêo labial precisa.
 
 ---
 
-## 👄 Etapa 6 – Fazer sincronização labial (lip-sync)
+## 👄 Etapa 6 – Fazer sincronizaçêo labial (lip-sync)
 
 1. Use **Fell.AI** e o modelo **Sync LipSync v1.9**.
 2. Envie o áudio e o vídeo base (template humano).
-3. Aguarde a geração do vídeo com sincronização labial (leva até 7 minutos).
+3. Aguarde a geraçêo do vídeo com sincronizaçêo labial (leva até 7 minutos).
 
 ---
 
@@ -116,7 +116,7 @@ Criar vídeos com avatares que falam com sua voz clonada e sincronizam os lábio
    - Juntar vídeo com áudio sincronizado
    - Adicionar música de fundo (ID do YouTube)
    - Adicionar legendas (opcional)
-   - Ajustar resolução e duração
+   - Ajustar resoluçêo e duraçêo
 2. Defina volumes e qualidade final.
 
 ---
@@ -164,24 +164,24 @@ Texto:
 **Link do vídeo:**  
 https://www.youtube.com/watch?v=DMy1uzjz7Ps
 
-O criador do vídeo apresenta um sistema completo e **automatizado** para gerar vídeos com avatares de IA, usando ferramentas **gratuitas** e **sem necessidade de programação**, através do **n8n** e outros serviços como **Fish Audio, Claude, Whisper, Supabase e FFMPEG**.
+O criador do vídeo apresenta um sistema completo e **automatizado** para gerar vídeos com avatares de IA, usando ferramentas **gratuitas** e **sem necessidade de programaçêo**, através do **n8n** e outros serviços como **Fish Audio, Claude, Whisper, Supabase e FFMPEG**.
 
 ---
 
 ### **Resumo Geral**
 O sistema permite:
-- Criar avatares de vídeo com voz clonada e sincronização labial.
+- Criar avatares de vídeo com voz clonada e sincronizaçêo labial.
 - Usar comandos simples (drag and drop) via **n8n**.
-- Automatizar todo o fluxo: script, voz, lip-sync e renderização do vídeo.
+- Automatizar todo o fluxo: script, voz, lip-sync e renderizaçêo do vídeo.
 - Rodar localmente ou em servidores gratuitos (via Docker).
-- Reduzir custos significativamente em comparação com outras soluções.
+- Reduzir custos significativamente em comparaçêo com outras soluções.
 
 ---
 
 ### **Etapas principais do sistema**
 
-1. **Geração do Roteiro com IA (Claude)**
-   - Utiliza YouTube Transcript API para pegar a transcrição de um vídeo.
+1. **Geraçêo do Roteiro com IA (Claude)**
+   - Utiliza YouTube Transcript API para pegar a transcriçêo de um vídeo.
    - Usa modelos de linguagem (via OpenRouter e Claude) para gerar um novo roteiro em até 100 palavras com estrutura envolvente.
 
 2. **Clonagem de Voz com Fish Audio**
@@ -192,32 +192,32 @@ O sistema permite:
 3. **Armazenamento em Supabase**
    - O áudio gerado é salvo e acessado via Supabase.
 
-4. **Transcrição com Whisper (OpenAI)**
-   - Gera uma transcrição com **timestamps**, necessária para o lip-sync.
+4. **Transcriçêo com Whisper (OpenAI)**
+   - Gera uma transcriçêo com **timestamps**, necessária para o lip-sync.
 
-5. **Sincronização Labial com Sync LipSync (via ****Fell.AI****)**
+5. **Sincronizaçêo Labial com Sync LipSync (via ****Fell.AI****)**
    - Aplica o áudio à base de um vídeo humano modelo.
    - O resultado é um vídeo com fala sincronizada (lábios se mexendo com a fala).
 
-6. **Renderização e Montagem com FFMPEG**
+6. **Renderizaçêo e Montagem com FFMPEG**
    - Junta vídeo, áudio e música de fundo.
-   - Define volume, duração e resolução.
+   - Define volume, duraçêo e resoluçêo.
    - Adiciona legendas com fontes customizadas (ex: Rubik).
 
-7. **Publicação e Atualização**
+7. **Publicaçêo e Atualizaçêo**
    - Vídeo final é salvo no Supabase.
    - O status da planilha no Google Sheets é atualizado com o link do resultado.
 
 ---
 
 ### **Recursos Usados**
-- **n8n** (automação)
+- **n8n** (automaçêo)
 - **Claude** (roteiro IA)
 - **Fish Audio** (voz clonada)
-- **OpenAI Whisper** (transcrição com timestamp)
+- **OpenAI Whisper** (transcriçêo com timestamp)
 - **Supabase** (armazenamento)
-- **FFMPEG** (edição de vídeo)
-- **Sync LipSync (****Fell.AI****)** (sincronização de lábios)
+- **FFMPEG** (ediçêo de vídeo)
+- **Sync LipSync (****Fell.AI****)** (sincronizaçêo de lábios)
 - **Google Sheets + Docker + Terminal**
 
 ---
@@ -233,7 +233,7 @@ O sistema permite:
 ### **Destaques**
 - O projeto é ideal para **solopreneurs** e **criadores de conteúdo** que querem escalar vídeos sem depender de gravações manuais.
 - O criador oferece templates prontos e acesso à comunidade para suporte.
-- Todos os scripts e modelos estão disponíveis gratuitamente para quem quiser testar.
+- Todos os scripts e modelos estêo disponíveis gratuitamente para quem quiser testar.
 
 ---
 Midia: MessageMediaWebPage
@@ -480,7 +480,7 @@ MENSAGEM 17
 Autor: INEMA
 Data: 2025-04-08T22:01:58+00:00
 Texto:
-O vídeo mostra como criar uma **automação completa no n8n** que gera vídeos com **avatar de IA**, clonando sua **voz**, fazendo **sincronização labial** e montando tudo automaticamente, **sem precisar programar**.  
+O vídeo mostra como criar uma **automaçêo completa no n8n** que gera vídeos com **avatar de IA**, clonando sua **voz**, fazendo **sincronizaçêo labial** e montando tudo automaticamente, **sem precisar programar**.  
 
 Usa ferramentas como **Claude, Fish Audio, Whisper, ****Fell.AI****, Supabase e FFMPEG**, com dados vindo de uma planilha do **Google Sheets**. Tudo roda sozinho, podendo publicar vídeos prontos em minutos.
 

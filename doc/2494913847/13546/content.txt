@@ -40,14 +40,14 @@ Texto:
 Resumo dos pontos principais:
 
 * O recurso **text-to-workflow** será liberado gradualmente em 3 a 4 semanas, mas só na nuvem por enquanto, devido aos altos custos de inferência.
-* A empresa levantou **US\$ 500 milhões**, alcançando avaliação de **US\$ 2 bilhões**.
-* **70% dos desenvolvedores** ainda trabalham em recursos gratuitos e comunitários, não focados em soluções corporativas.
+* A empresa levantou **US\$ 500 milhões**, alcançando avaliaçêo de **US\$ 2 bilhões**.
+* **70% dos desenvolvedores** ainda trabalham em recursos gratuitos e comunitários, nêo focados em soluções corporativas.
 * O roadmap prevê:
 
-  * Facilitar criação de **sistemas multiagentes**
+  * Facilitar criaçêo de **sistemas multiagentes**
   * Ampliar **integrações nativas**
-  * Criar um **marketplace de agentes** para monetização com controle de qualidade.
-* Clima muito positivo no meetup, com valorização de ações dos primeiros funcionários (5 a 10 vezes).
+  * Criar um **marketplace de agentes** para monetizaçêo com controle de qualidade.
+* Clima muito positivo no meetup, com valorizaçêo de ações dos primeiros funcionários (5 a 10 vezes).
 * Na **Alemanha**, o n8n está substituindo o Make.com, gerando grande mudança cultural.
 * O text-to-workflow deve demorar pelo menos **um mês** para estar disponível amplamente, devido ao cuidado com custos.
 

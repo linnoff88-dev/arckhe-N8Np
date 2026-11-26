@@ -27,32 +27,32 @@ Resumo completo do vídeo:
 O vídeo apresenta um guia passo a passo para automatizar 5 áreas-chave do seu negócio usando IA, n8n, Make.com, Pinecone, Claude, ChatGPT, Google Drive, Airtable, Typeform, Canva, PDF.co e outras ferramentas. O autor demonstra como transformar seu conhecimento, conteúdo e dados em automações inteligentes que geram respostas, e-mails, conteúdos e inteligência competitiva.
 
 **1. Base de Conhecimento e Chatbot com RAG:**
-- Documentos são enviados para uma pasta no Google Drive.
-- Uma automação no n8n busca esse arquivo, envia para o Pinecone (vetorização com embeddings) e armazena no banco vetorial.
+- Documentos sêo enviados para uma pasta no Google Drive.
+- Uma automaçêo no n8n busca esse arquivo, envia para o Pinecone (vetorizaçêo com embeddings) e armazena no banco vetorial.
 - Um agente IA é configurado para consultar esse banco vetorial e responder perguntas.
 - Exemplo: responde perguntas sobre um checklist que só está disponível no documento vetorizado.
 
 **2. Respostas Automáticas por E-mail:**
-- Integração com Gmail: sempre que um e-mail é recebido, o agente IA decide se merece resposta.
+- Integraçêo com Gmail: sempre que um e-mail é recebido, o agente IA decide se merece resposta.
 - Caso positivo, redige uma resposta com base no banco de conhecimento e no tom de voz do remetente.
 - A resposta é salva como rascunho e pode ser enviada automaticamente ou revisada antes.
 
-**3. Qualificação Automática de Leads:**
+**3. Qualificaçêo Automática de Leads:**
 - Um formulário (via Typeform) coleta dados dos leads.
 - O agente IA analisa se o lead se qualifica (por exemplo, é um hotel em Dubai e compra acima de 30k).
-- As informações são salvas no Google Sheets com status de qualificado ou não.
+- As informações sêo salvas no Google Sheets com status de qualificado ou nêo.
 - Se qualificado, a IA cria um lead magnet exclusivo em HTML e envia por e-mail como PDF gerado via PDF.co.
 
 **4. Crescimento com Conteúdo (Instagram e LinkedIn):**
 - RSS → Texto → Post para LinkedIn:
   - RSS coleta notícias sobre um tema (ex: Tesla).
   - Texto é limpo e IA gera post com tom de voz definido.
-  - O post pode ser salvo no Airtable para aprovação antes de publicar.
+  - O post pode ser salvo no Airtable para aprovaçêo antes de publicar.
 
 - Podcast → Frases → Reels para Instagram:
-  - Transcrição de um podcast gera 50 frases com legendas.
-  - Frases são inseridas em massa no Canva com design automático.
-  - Os vídeos são exportados e postados automaticamente no Instagram com legenda e hashtag.
+  - Transcriçêo de um podcast gera 50 frases com legendas.
+  - Frases sêo inseridas em massa no Canva com design automático.
+  - Os vídeos sêo exportados e postados automaticamente no Instagram com legenda e hashtag.
 
 **5. Inteligência Competitiva:**
 - Appify coleta avaliações de concorrentes no Google Maps.
@@ -62,18 +62,18 @@ O vídeo apresenta um guia passo a passo para automatizar 5 áreas-chave do seu 
 
 **Tópicos com Exemplos e Aplicações:**
 
-1. **Automação de RAG (base de conhecimento)**
+1. **Automaçêo de RAG (base de conhecimento)**
    - Ex: Checklist de vídeos → consulta com IA.
    - IA busca resposta exata em documentos vetorizados.
 
 2. **Respostas por E-mail com IA**
    - Ex: Cliente pergunta sobre "tom de voz" → IA responde com base em documentos anteriores.
 
-3. **Qualificação de Leads com IA**
+3. **Qualificaçêo de Leads com IA**
    - Ex: Formulário preenche dados → IA decide se é cliente ideal.
    - Cria e envia lead magnet personalizado.
 
-4. **Criação em Massa de Conteúdo**
+4. **Criaçêo em Massa de Conteúdo**
    - Ex: 50 frases de podcast → vídeos Canva → Reels automáticos no Instagram.
 
 5. **Análise de Concorrência Automatizada**
@@ -94,23 +94,23 @@ Automatizações de baixo ROI que ocupam tempo e geram erros. Três soluções:
   Cria um agente de IA que lê e-mails e adiciona tarefas automaticamente no Google Sheets ou CRM.  
   Exemplo: E-mail com “relatório até sexta” vira uma tarefa no Sheets.
 
-- **Geração automática de faturas com Make**  
+- **Geraçêo automática de faturas com Make**  
   A partir de uma nova linha em planilha (cliente, preço, etc), gera uma fatura no Google Docs, converte em PDF e envia por e-mail com HTML.  
   Exemplo: Cliente “Jack” recebe fatura personalizada de $15.000.
 
-- **Tomador de notas de reunião com ****Fireflies.ai**  
-  IA participa de reuniões, transcreve e resume com ações a tomar. Integra com n8n para geração automática de documentos e envio por e-mail.
+- **Tomador de notas de reuniêo com ****Fireflies.ai**  
+  IA participa de reuniões, transcreve e resume com ações a tomar. Integra com n8n para geraçêo automática de documentos e envio por e-mail.
 
 ---
 
 ### 2. Atendimento ao Cliente
-Criação de **base de conhecimento** e **tom de voz personalizado**:
+Criaçêo de **base de conhecimento** e **tom de voz personalizado**:
 
-- **Extração de conteúdo** de LinkedIn, YouTube, sites e documentos (via Apify, RSS, scrapers e transcrição de vídeos).  
-  Exemplo: Transcrição de todos os vídeos do canal do YouTube salvos no Google Docs.
+- **Extraçêo de conteúdo** de LinkedIn, YouTube, sites e documentos (via Apify, RSS, scrapers e transcriçêo de vídeos).  
+  Exemplo: Transcriçêo de todos os vídeos do canal do YouTube salvos no Google Docs.
 
 - **Análise de tom de voz**  
-  IA examina vocabulário, gramática, estrutura de parágrafos, humor e estilo para gerar diretrizes de comunicação autêntica.  
+  IA examina vocabulário, gramática, estrutura de parágrafos, humor e estilo para gerar diretrizes de comunicaçêo autêntica.  
   Exemplo: Gera perfil detalhado com frases como “usa termos como ‘bro’, ‘dude’ e ‘crush it’”.
 
 - **Chatbot com personalidade e memória**  
@@ -122,22 +122,22 @@ Criação de **base de conhecimento** e **tom de voz personalizado**:
 ### 3. Inteligência de Leads
 Automatizações que ajudam a captar e qualificar leads:
 
-- **Geração automática de leads personalizados**  
+- **Geraçêo automática de leads personalizados**  
   Exemplo: A cada novo vídeo postado ou artigo publicado, o sistema gera um lead magnet e envia por e-mail.
 
-- **Formulários e segmentação automatizada**  
+- **Formulários e segmentaçêo automatizada**  
   Exemplo: Leads respondem a Typeform e recebem materiais e follow-up automático conforme interesse.
 
 ---
 
 ### 4. Crescimento de Clientes
-Automação de conteúdo e distribuição:
+Automaçêo de conteúdo e distribuiçêo:
 
 - **Postagem de RSS no LinkedIn**  
   Exemplo: Vídeos do YouTube ou posts de blog viram automaticamente carrosséis ou posts no LinkedIn.
 
-- **Criação de conteúdo para redes sociais**  
-  Exemplo: Transcrição de vídeos do YouTube vira roteiro para shorts, posts de Instagram ou e-mails.
+- **Criaçêo de conteúdo para redes sociais**  
+  Exemplo: Transcriçêo de vídeos do YouTube vira roteiro para shorts, posts de Instagram ou e-mails.
 
 ---
 
@@ -154,12 +154,12 @@ Inteligência e insights para crescimento:
 
 ### Ferramentas Usadas:
 - **n8n**: Fluxos automatizados com lógica condicional, scraping, HTTP, Google Sheets, IA.
-- **Make.com**: Geração de documentos, envio de e-mails, conversão em PDF, integrações.
-- **Google Docs/Sheets/Drive**: Armazenamento e edição de dados.
+- **Make.com**: Geraçêo de documentos, envio de e-mails, conversêo em PDF, integrações.
+- **Google Docs/Sheets/Drive**: Armazenamento e ediçêo de dados.
 - **Apify**: Scraper de sites completos.
-- **Fireflies.ai**: Transcrição e análise de reuniões.
-- **PDF.co**: Conversão de Google Docs em PDF.
-- **OpenAI / Claude / Gemini**: Modelos de IA para tarefas de leitura, geração de texto e análise de estilo.
+- **Fireflies.ai**: Transcriçêo e análise de reuniões.
+- **PDF.co**: Conversêo de Google Docs em PDF.
+- **OpenAI / Claude / Gemini**: Modelos de IA para tarefas de leitura, geraçêo de texto e análise de estilo.
 
 ---
 
@@ -176,21 +176,21 @@ Texto:
 ### 1) Entrada Manual de Dados
 - 🔥 Conectar e-mails ao CRM  
 - 💰 Gerar faturas automaticamente  
-- 🧑‍💻 Tomador de notas de reunião com IA
+- 🧑‍💻 Tomador de notas de reuniêo com IA
 
 ### 2) Atendimento ao Cliente
-- 🧠 Construção de base de conhecimento  
+- 🧠 Construçêo de base de conhecimento  
 - 🚨 Gerador de tom de voz  
 - 💬 Chatbot inteligente  
 - 📧 Respostas automáticas por e-mail
 
 ### 3) Inteligência de Leads
-- ✅ Qualificação automática de leads  
-- 🧲 Criação de iscas digitais personalizadas (lead magnets)
+- ✅ Qualificaçêo automática de leads  
+- 🧲 Criaçêo de iscas digitais personalizadas (lead magnets)
 
 ### 4) Crescimento de Clientes
 - 📈 Publicações automáticas de RSS no LinkedIn  
-- 🤩 Transformação de podcasts em posts no Instagram via Canva
+- 🤩 Transformaçêo de podcasts em posts no Instagram via Canva
 
 ### 5) Dados
 - 🥇 Análise de desempenho de conteúdo  
@@ -215,7 +215,7 @@ Texto:
 - 👀 n8n: Inteligência sobre concorrentes  
 - 🧲 n8n: Lead magnet  
 - 💌 n8n: Resposta automática por e-mail  
-- 💬 n8n: Geração de tom de voz  
+- 💬 n8n: Geraçêo de tom de voz  
 - 👩‍💻 n8n: Raspador de sites (scraper)  
 - 🤩 Make: Canva para Instagram  
 - 🎉 Make: RSS para LinkedIn  
@@ -237,16 +237,16 @@ MENSAGEM 6
 Autor: INEMA
 Data: 2025-04-12T21:14:19+00:00
 Texto:
-**5 Automações de IA para Automatizar 90% do Seu Trabalho5 áreas de automação com IA**, com vários exemplos em cada uma:
+**5 Automações de IA para Automatizar 90% do Seu Trabalho5 áreas de automaçêo com IA**, com vários exemplos em cada uma:
 
 1) **Entrada Manual de Dados**🔥 Conectar e-mails ao CRM  💰 Faturamento automático  
 🧑‍💻 Tomador de notas em reuniões com IA  
 
-2) **Atendimento ao Cliente**🧠 Criação de base de conhecimento  🚨 Gerador de tom de voz  
+2) **Atendimento ao Cliente**🧠 Criaçêo de base de conhecimento  🚨 Gerador de tom de voz  
 💬 Chatbot  📧 Respostas automáticas por e-mail  
 
-3) **Inteligência de Leads**✅ Qualificação automática de leads  
-🧲 Imãs digitais personalizados  
+3) **Inteligência de Leads**✅ Qualificaçêo automática de leads  
+🧲 Imês digitais personalizados  
 
 4) **Crescimento do Cliente**📈 Publicações automáticas de RSS no LinkedIn  🤩 Transformar podcasts em posts no Instagram com Canva  
 

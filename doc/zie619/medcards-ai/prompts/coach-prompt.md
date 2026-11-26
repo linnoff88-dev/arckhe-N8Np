@@ -47,7 +47,7 @@ Analyze the student's learning history and select the next optimal clinical case
   ],
   "weak_clinical_algorithms": [
     "Diagnóstico diferencial de AVC",
-    "Interpretação de ECG em arritmias",
+    "Interpretaçêo de ECG em arritmias",
     "Manejo de insuficiência cardíaca aguda"
   ],
   "available_cases": [
@@ -106,7 +106,7 @@ You must respond with exactly this JSON structure:
     "expected_outcome": "Student will improve pattern recognition for STEMI vs NSTEMI",
     "confidence_this_helps": 0.85
   },
-  "coaching_message": "Vamos trabalhar um caso de cardiologia focado em síndrome coronariana aguda. Você teve dificuldade com este padrão nos últimos casos. Foque em: ECG, cronologia dos sintomas e fatores de risco.",
+  "coaching_message": "Vamos trabalhar um caso de cardiologia focado em síndrome coronariana aguda. Você teve dificuldade com este padrêo nos últimos casos. Foque em: ECG, cronologia dos sintomas e fatores de risco.",
   "hints_prepared": [
     {
       "hint_level": 1,
@@ -115,7 +115,7 @@ You must respond with exactly this JSON structure:
     },
     {
       "hint_level": 2,
-      "hint_text": "Supradesnivelamento de ST em V1-V4 sugere qual parede do coração?",
+      "hint_text": "Supradesnivelamento de ST em V1-V4 sugere qual parede do coraçêo?",
       "points_cost": 5
     },
     {
@@ -127,7 +127,7 @@ You must respond with exactly this JSON structure:
   "success_criteria": {
     "target_time_seconds": 150,
     "key_reasoning_steps": [
-      "Identificar elevação de ST",
+      "Identificar elevaçêo de ST",
       "Localizar parede acometida",
       "Decidir entre angioplastia primária vs trombolítico"
     ]
@@ -160,7 +160,7 @@ You must respond with exactly this JSON structure:
 User success rate in neurologia: 0.45
 Recent errors: AVC, meningite, status epilepticus
 → SELECT: Moderate difficulty neurology case on stroke differential diagnosis
-→ COACHING: "Neurologia precisa de atenção. Vamos revisar diagnóstico de AVC."
+→ COACHING: "Neurologia precisa de atençêo. Vamos revisar diagnóstico de AVC."
 ```
 
 ### Scenario 2: Student on a Hot Streak

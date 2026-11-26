@@ -29,7 +29,7 @@ MENSAGEM 3
 Autor: Bruno Neves
 Data: 2025-07-18T18:08:58+00:00
 Texto:
-Não tem treinamento. Tudo sobre o agente está nesse canal aqui
+Nêo tem treinamento. Tudo sobre o agente está nesse canal aqui
 
 ------------------------------
 
@@ -37,7 +37,7 @@ MENSAGEM 4
 Autor: EntropyAI
 Data: 2025-07-18T17:30:58+00:00
 Texto:
-Aonde fica o treinamento dessa automação?
+Aonde fica o treinamento dessa automaçêo?
 
 ------------------------------
 
@@ -53,7 +53,7 @@ MENSAGEM 6
 Autor: Felipe
 Data: 2025-07-09T18:00:27+00:00
 Texto:
-Se alguém precisar de um gestor de automação estou a disposição, o nome da minha empresa é FRC Automações caso queiram dar uma olhada, 51 997791102 meu whatsapp
+Se alguém precisar de um gestor de automaçêo estou a disposiçêo, o nome da minha empresa é FRC Automações caso queiram dar uma olhada, 51 997791102 meu whatsapp
 
 ------------------------------
 
@@ -93,7 +93,7 @@ MENSAGEM 11
 Autor: INEMA
 Data: 2025-07-05T22:25:08+00:00
 Texto:
-Vou listar os **hacks e truques** mais importantes  para você otimizar, acelerar e até deixar o chatbot **mais inteligente e natural**. Esses hacks são aqueles “detalhes escondidos” que o criador usa para deixar o bot parecer humano e funcionar sem erros.
+Vou listar os **hacks e truques** mais importantes  para você otimizar, acelerar e até deixar o chatbot **mais inteligente e natural**. Esses hacks sêo aqueles “detalhes escondidos” que o criador usa para deixar o bot parecer humano e funcionar sem erros.
 
 ---
 
@@ -119,11 +119,11 @@ Vou listar os **hacks e truques** mais importantes  para você otimizar, acelera
   `delay = número de caracteres × 30ms`
 * Exemplo: uma mensagem de 100 caracteres → delay de 3 segundos.
   ✔ **Alternativa:** Use um delay fixo de 5 segundos entre mensagens.
-  ✔ **Resultado:** Dá a sensação de que o bot está “pensando” e escrevendo.
+  ✔ **Resultado:** Dá a sensaçêo de que o bot está “pensando” e escrevendo.
 
 ---
 
-### 🔄 3. **Divisão automática da resposta GPT**
+### 🔄 3. **Divisêo automática da resposta GPT**
 
 ✔ **Por quê?** Evita textos gigantes que parecem de robô.
 ✔ **Como?**
@@ -132,7 +132,7 @@ Vou listar os **hacks e truques** mais importantes  para você otimizar, acelera
 * Obrigue pelo menos 2 partes, com até 5 como opcional.
   ✔ **Prompt exemplo:**
 
-```Divide a resposta em partes naturais (parte 1, parte 2...). Cada parte deve soar fluida, com no mínimo 1-2 partes e máximo de 5. Não force divisões sem necessidade.```
+```Divide a resposta em partes naturais (parte 1, parte 2...). Cada parte deve soar fluida, com no mínimo 1-2 partes e máximo de 5. Nêo force divisões sem necessidade.```
 
 ✔ R**esultado: **Mensagens curtas, naturais e fáceis de ler no WhatsApp ou Instagram.
 
@@ -144,7 +144,7 @@ Vou listar os **hacks e truques** mais importantes  para você otimizar, acelera
 ✔ C**omo?
 **
 * Salve todas as conversas no PostgreSQL com session\_id = número do WhatsApp.
-* Compare a última interação:
+* Compare a última interaçêo:
 
   * >** 5 minutos: **nova conversa.
   * <** 5 minutos: **conversa ativa.
@@ -162,7 +162,7 @@ Vou listar os **hacks e truques** mais importantes  para você otimizar, acelera
 
 i```f event == 'message.received' AND fromMe == false
 ```
-✔ Re**sultado: S**egurança para testes e produção.
+✔ Re**sultado: S**egurança para testes e produçêo.
 
 ---
 
@@ -172,8 +172,8 @@ i```f event == 'message.received' AND fromMe == false
 ✔ In**clua no System Prompt:
 
 *** Nunca invente dados.
-* Não forneça preços nem promoções.
-* Responda de forma clara e sem forçar interação.
+* Nêo forneça preços nem promoções.
+* Responda de forma clara e sem forçar interaçêo.
 * Use Supabase como única fonte de dados.
   ✔ Re**sultado: R**espostas confiáveis e alinhadas com o negócio.
 
@@ -181,12 +181,12 @@ i```f event == 'message.received' AND fromMe == false
 
 ### 🛠️ 7. Fa**llback inteligente
 
-**✔ Po**r quê? G**arante que o bot não quebre se receber algo inesperado (ex.: GIFs).
+**✔ Po**r quê? G**arante que o bot nêo quebre se receber algo inesperado (ex.: GIFs).
 ✔ Co**mo?
 
 *** No Switch por tipo de mensagem, adicione uma saída Fa**llback.
-*** Configure para ignorar ou enviar uma mensagem padrão:
-  “Desculpe, não consigo processar esse tipo de conteúdo. Pode tentar com texto?”
+*** Configure para ignorar ou enviar uma mensagem padrêo:
+  “Desculpe, nêo consigo processar esse tipo de conteúdo. Pode tentar com texto?”
 
 ---
 
@@ -208,13 +208,13 @@ i```f event == 'message.received' AND fromMe == false
 
 *** Clone o fluxo do WhatsApp e altere apenas o webhook para Instagram/Facebook.
 * Compartilhe o mesmo agente GPT e base de dados.
-  ✔ Re**sultado: M**anutenção mais simples e menos duplicação de trabalho.
+  ✔ Re**sultado: M**anutençêo mais simples e menos duplicaçêo de trabalho.
 
 ---
 
-### 🦾 10. Si**mulação de digitação
+### 🦾 10. Si**mulaçêo de digitaçêo
 
-**✔ Po**r quê? D**á sensação de que um humano está digitando.
+**✔ Po**r quê? D**á sensaçêo de que um humano está digitando.
 ✔ Co**mo?
 
 *** Envie o status “escrevendo” (typing indicator) na Evolution API durante o delay.
@@ -251,7 +251,7 @@ Criar um chatbot que:
 
 ---
 
-### 1️⃣ Preparação
+### 1️⃣ Preparaçêo
 
 ✔ Crie uma conta e configure:
 
@@ -264,7 +264,7 @@ Criar um chatbot que:
 
 ### 2️⃣ Fluxo no n8n
 
-#### 📥 Recepção de Mensagens
+#### 📥 Recepçêo de Mensagens
 
 * Configure um **Webhook** no n8n para Evolution API.
 * Configure Evolution API para disparar o webhook com o evento `message.received`.
@@ -273,8 +273,8 @@ Criar um chatbot que:
 
 * Adicione um **If**:
 
-  * **Condição 1:** `event == "message.received"`
-  * **Condição 2:** `fromMe == false`
+  * **Condiçêo 1:** `event == "message.received"`
+  * **Condiçêo 2:** `fromMe == false`
   * ✅ Se verdadeiro: continua o fluxo.
   * ❌ Se falso: termina.
 
@@ -299,7 +299,7 @@ Divida o fluxo com **Switch**:
 
 * Texto → Guarda `message.content`.
 * Áudio → Transcreve com OpenAI e guarda resultado.
-* Imagem/Stickers → Análise com GPT-4 Vision e guarda descrição.
+* Imagem/Stickers → Análise com GPT-4 Vision e guarda descriçêo.
 * Fallback → Ignora.
 
 ---
@@ -330,27 +330,27 @@ Divida o fluxo com **Switch**:
 
 ---
 
-### 7️⃣ Configuração do GPT-4
+### 7️⃣ Configuraçêo do GPT-4
 
 #### 📜 System Prompt
 
 * Papel: agente de atendimento e embaixador.
 * Regras:
 
-  * Não inventar informações.
-  * Não dar preços.
+  * Nêo inventar informações.
+  * Nêo dar preços.
   * Usar dados do Supabase para respostas.
   * Redirecionar conforme o interesse (comunidade ↔ serviços).
-  * Não forçar interação com perguntas no final.
+  * Nêo forçar interaçêo com perguntas no final.
 
-#### 🔗 Recuperação
+#### 🔗 Recuperaçêo
 
 * Use embeddings OpenAI para buscar dados no Supabase.
 * Limite de 10 resultados.
 
 ---
 
-### 8️⃣ Divisão das Respostas
+### 8️⃣ Divisêo das Respostas
 
 * Use uma **AI Function** para dividir a resposta em até 5 partes:
 
@@ -368,7 +368,7 @@ Divida o fluxo com **Switch**:
 
 ---
 
-### 🔄 Replicação para Instagram
+### 🔄 Replicaçêo para Instagram
 
 * Configure fluxo paralelo com mesma lógica, adaptando para Evolution API do Instagram.
 
@@ -381,7 +381,7 @@ Um chatbot que:
 ✔ Agrupa mensagens antes de responder.
 ✔ Consulta dados atualizados no Supabase.
 ✔ Responde de forma humanizada em até 5 blocos.
-✔ Redireciona para comunidade ou serviços com precisão.
+✔ Redireciona para comunidade ou serviços com precisêo.
 
 ------------------------------
 
@@ -397,11 +397,11 @@ MENSAGEM 15
 Autor: INEMA
 Data: 2025-07-05T22:22:43+00:00
 Texto:
-**Resumo da demonstração :**
+**Resumo da demonstraçêo :**
 
 O apresentador ensina como construir um **chatbot multicanal com IA** que funciona no **WhatsApp e Instagram** (também aplicável ao Facebook), usando GPT-4, Supabase, Redis e n8n como orquestrador. Ele demonstra o funcionamento, mostra exemplos reais e depois explica o fluxo passo a passo.
 
-### 🏁 Introdução e Demonstração
+### 🏁 Introduçêo e Demonstraçêo
 
 * Mostra dois fluxos no n8n: um para WhatsApp (Evolution API) e outro para Instagram, ambos idênticos na lógica.
 * O chatbot é um **assistente de atendimento ao cliente** que:
@@ -412,13 +412,13 @@ O apresentador ensina como construir um **chatbot multicanal com IA** que funcio
 * Exemplo:
 
   * Usuário pergunta sobre a comunidade → o bot responde em 5 mensagens sequenciais com informações detalhadas, links e tom humano.
-  * Se o usuário quer serviços rápidos, o bot redireciona para o time comercial e agenda uma ligação.
+  * Se o usuário quer serviços rápidos, o bot redireciona para o time comercial e agenda uma ligaçêo.
 
 ---
 
-### 🔧 Explicação Técnica (Passo a Passo)
+### 🔧 Explicaçêo Técnica (Passo a Passo)
 
-#### 1️⃣ Recepção e Registro de Mensagens
+#### 1️⃣ Recepçêo e Registro de Mensagens
 
 * **Webhook** na Evolution API captura mensagens recebidas no WhatsApp.
 * Filtro para ignorar mensagens enviadas pelo próprio número.
@@ -427,11 +427,11 @@ O apresentador ensina como construir um **chatbot multicanal com IA** que funcio
 #### 2️⃣ Switch por Tipo de Mensagem
 
 * Fluxos separados para texto, áudio (transcrito via OpenAI), imagens e stickers (analisados com GPT-4 Vision).
-* Caso não reconheça o tipo, entra no fallback.
+* Caso nêo reconheça o tipo, entra no fallback.
 
 ---
 
-### 🗃️ Gestão com Redis e PostgreSQL
+### 🗃️ Gestêo com Redis e PostgreSQL
 
 #### Redis:
 
@@ -446,15 +446,15 @@ O apresentador ensina como construir um **chatbot multicanal com IA** que funcio
 
 ---
 
-### 🧠 Configuração do GPT-4
+### 🧠 Configuraçêo do GPT-4
 
 * **System Prompt** detalhado com:
 
   * Papel: agente de atendimento e embaixador da empresa.
-  * Regras: não inventar informações, não dar preços, responder com clareza, usar dados do Supabase, redirecionar para serviços ou comunidade conforme o interesse.
-  * Proibição de perguntas forçadas para interação (não parecer “bot comercial”).
+  * Regras: nêo inventar informações, nêo dar preços, responder com clareza, usar dados do Supabase, redirecionar para serviços ou comunidade conforme o interesse.
+  * Proibiçêo de perguntas forçadas para interaçêo (nêo parecer “bot comercial”).
 
-* Recuperação de dados do Supabase vetorizado com embeddings OpenAI.
+* Recuperaçêo de dados do Supabase vetorizado com embeddings OpenAI.
 
 ---
 
@@ -469,7 +469,7 @@ O apresentador ensina como construir um **chatbot multicanal com IA** que funcio
 ### 📦 Recursos Extras
 
 * Curso mais avançado disponível na comunidade: **“Chat Vendedor Automatizado”** (4 aulas).
-* Expansão com etiquetas e filtros para gerenciar clientes específicos.
+* Expansêo com etiquetas e filtros para gerenciar clientes específicos.
 
 ---
 
@@ -513,17 +513,17 @@ Dois fluxos paralelos: um para WhatsApp (com Evolución API) e outro para Instag
 Opcionalmente integrável também com Facebook.
 
 🧠 Inteligência Artificial
-GPT-4 turbo com ferramenta de embeddings e recuperação semântica no Supabase.
+GPT-4 turbo com ferramenta de embeddings e recuperaçêo semântica no Supabase.
 Prompt bem definido com papéis, regras e limitações claras para atendimento ao cliente.
 Acessa informações do IA Masters Automations (comunidade) e Solutequia (serviços).
 
 🔧 Componentes-chave do Fluxo
 
-1. **Recepção de Mensagens**
+1. **Recepçêo de Mensagens**
    Webhook na Evolución API para WhatsApp.
    Filtro para evitar respostas a mensagens enviadas por si mesmo (fromMe = false).
 
-2. **Identificação e Registro**
+2. **Identificaçêo e Registro**
    Registra variáveis importantes: número do WhatsApp, nome, tipo de mensagem (texto, áudio, imagem, figurinha), ID da mensagem, chave API, instância.
 
 3. **Switch por Tipo de Mensagem**
@@ -531,42 +531,42 @@ Acessa informações do IA Masters Automations (comunidade) e Solutequia (servi�
 
 * Texto
 * Áudio (transcrito com OpenAI)
-* Imagem (analisada com visão GPT)
+* Imagem (analisada com visêo GPT)
 * Figurinha (analisada igual a imagem)
-* Fallback (sem ação se não reconhecido)
+* Fallback (sem açêo se nêo reconhecido)
 
 📥 **Gerenciamento de Mensagens com Redis**
 🧺 **Agrupamento Temporal**
 Redis acumula mensagens do usuário por 20 segundos para evitar respostas fragmentadas e dar mais naturalidade.
 
-🧾 **Recuperação e Validação**
+🧾 **Recuperaçêo e Validaçêo**
 Recupera mensagens acumuladas e compara com a última para garantir coerência.
 Se coincidem, o fluxo continua.
 
 🗃️ **Consulta de Histórico no PostgreSQL**
 Verifica se já houve conversa anterior:
 
-* Se mais de 5 minutos sem interação, considera conversa nova.
+* Se mais de 5 minutos sem interaçêo, considera conversa nova.
 * Se recente, continua como conversa ativa.
   Isso afeta como o GPT gera a resposta.
 
-🧠 **Configuração do Agente GPT-4**
+🧠 **Configuraçêo do Agente GPT-4**
 📜 Prompt do sistema personalizado:
 
 * Papel: agente de atendimento à comunidade e embaixador da Solutequia.
 * Instruções:
 
-  * Não forçar interações finais.
+  * Nêo forçar interações finais.
   * Proibido inventar informações ou dar preços.
   * Usar Supabase como fonte principal.
   * Mencionar benefícios (7 dias de teste, aulas ao vivo, bolsa de trabalho).
-  * Redirecionar corretamente para formação ou serviços.
+  * Redirecionar corretamente para formaçêo ou serviços.
 
-🔎 **Recuperação de Informação**
+🔎 **Recuperaçêo de Informaçêo**
 Consulta à base vetorizada no Supabase (documents) usando embeddings do OpenAI.
 
-🧾 **Formatação e Envio de Mensagens**
-🔄 **Divisão Natural em Partes**
+🧾 **Formataçêo e Envio de Mensagens**
+🔄 **Divisêo Natural em Partes**
 A resposta é dividida em até 5 partes com prompt específico: parte 1, parte 2, etc.
 Envia as partes com delays calculados pelo tamanho do texto.
 
@@ -575,16 +575,16 @@ Delay manual de 5 segundos ou proporcional ao número de caracteres (ms = compri
 Simula uma conversa humana.
 
 📩 **Envio das Respostas**
-As partes são enviadas sequencialmente pela Evolución API.
-Se há partes 2, 3, 4, 5, são enviadas com seus delays.
-Se não há, o fluxo encerra.
+As partes sêo enviadas sequencialmente pela Evolución API.
+Se há partes 2, 3, 4, 5, sêo enviadas com seus delays.
+Se nêo há, o fluxo encerra.
 
 📱 **Instagram (Resumo)**
-Implementação paralela com os mesmos princípios, adaptada ao canal Instagram/Facebook.
+Implementaçêo paralela com os mesmos princípios, adaptada ao canal Instagram/Facebook.
 
 🗂️ **Recursos Adicionais Recomendados**
 
-* Pasta “Chat vendedor automatizado” na seção Workshops de Cocriação.
+* Pasta “Chat vendedor automatizado” na seçêo Workshops de Cocriaçêo.
 * Aula: Agente de vendas multicanal (WhatsApp, Instagram, Facebook).
 * Aula extra sobre RAG com Supabase e embeddings.
 
@@ -595,7 +595,7 @@ Um chatbot capaz de:
 * Consultar uma base de conhecimento real.
 * Adaptar-se ao canal (WhatsApp ou Instagram).
 * Responder de forma natural e segmentada.
-* Redirecionar com precisão para formação ou serviços.
+* Redirecionar com precisêo para formaçêo ou serviços.
 
 📂 **Código SQL para criar a tabela de histórico no Supabase**:
 
@@ -625,34 +625,34 @@ Texto:
 SuperAgente de Atendimento ao Cliente🔥😱
 
 
-Acabamos de lançar uma otimização do Superagente que trabalhamos durante 4 aulas do Workshop de Cocriação…
+Acabamos de lançar uma otimizaçêo do Superagente que trabalhamos durante 4 aulas do Workshop de Cocriaçêo…
 
 🤖 Um chatbot multicanal com IA que parece realmente humano.
 Funciona no WhatsApp e Instagram (e você pode expandir para o Facebook).
 
-Mas o mais insano não é isso…
+Mas o mais insano nêo é isso…
 É que ele entende o contexto, lembra conversas passadas e responde de forma segmentada e natural.
 
 🧠 O que esse agente é capaz de fazer?
-✅ Agrupa várias mensagens antes de responder, para não soar como um robô.
+✅ Agrupa várias mensagens antes de responder, para nêo soar como um robô.
 ✅ Responde em blocos separados (de 2 a 5 mensagens), como faria uma pessoa real.
 ✅ Consulta uma base vetorizada no Supabase com informações atualizadas da sua comunidade e/ou empresa.
 ✅ Detecta se a conversa é nova ou está ativa, e ajusta o tom e a resposta.
 ✅ Redireciona de forma inteligente:
 ‣ Se querem treinamento → leva para sua comunidade.
-‣ Se buscam serviços → agenda uma ligação com sua equipe.
+‣ Se buscam serviços → agenda uma ligaçêo com sua equipe.
 Tudo com um tom próximo, profissional e sem parecer o clássico “bot comercial” que todos odiamos.
 
 ⚙️ De onde vem esse agente?
-É uma versão otimizada e simplificada do Superagente que criamos no Workshop de Cocriação (4 aulas completas).
+É uma versêo otimizada e simplificada do Superagente que criamos no Workshop de Cocriaçêo (4 aulas completas).
 
-👉 Se quiser entender a versão mais avançada, recomendo assistir ao workshop completo:
+👉 Se quiser entender a versêo mais avançada, recomendo assistir ao workshop completo:
 Você aprenderá a adicionar etiquetas, excluir contatos, combinar vários canais e gerenciar conversas complexas.
 É realmente impressionante!
 
 
 🔥 e27. O Chatbot Mais Insano e Humano
-Essa automação é super, super, super recomendada.
+Essa automaçêo é super, super, super recomendada.
 
 ------------------------------
 

@@ -40,7 +40,7 @@ MENSAGEM 4
 Autor: INEMA
 Data: 2025-11-07T05:36:21+00:00
 Texto:
-ap72 - Agentes RAG - Não Funciona ? 
+ap72 - Agentes RAG - Nêo Funciona ? 
 Agentes RAG Contexto
 https://t.me/c/2494913847/15653
 
@@ -186,7 +186,7 @@ MENSAGEM 20
 Autor: INEMA
 Data: 2025-10-07T03:54:35+00:00
 Texto:
-e48. A gestão de faturas DEFINITIVA
+e48. A gestêo de faturas DEFINITIVA
 https://t.me/c/2494913847/14854
 
 ------------------------------
@@ -314,7 +314,7 @@ MENSAGEM 33
 Autor: INEMA
 Data: 2025-09-05T18:28:27+00:00
 Texto:
-e43 - Ímã Digital no WhatsApp
+e43 - Ímê Digital no WhatsApp
 https://t.me/c/2494913847/13913
 
 e44 - Resuma Grupos de Whapsapp
@@ -417,10 +417,10 @@ https://t.me/c/2494913847/11072
 nm58 - Hack FallBack no N8N
 https://t.me/c/2494913847/11696
 
-nm58 - Automacao IFOOD - Simulação (e30)
+nm58 - Automacao IFOOD - Simulaçêo (e30)
 https://t.me/c/2494913847/11560
 
-nm59 - Automação n8n-MCP Github
+nm59 - Automaçêo n8n-MCP Github
 https://t.me/c/2494913847/11877
 
 nm60 - Erro EvolutionAPI e Fixado
@@ -545,22 +545,22 @@ m22 - **Comparador modelos AI n8n + OpenRouter
 m23 - App de Auditoria de IA
 https://t.me/c/2494913847/11498
 
-m24 - Automação com Nodes Gemini
+m24 - Automaçêo com Nodes Gemini
 https://t.me/c/2494913847/11988
 
 m25 - Cross Platform Content Gen
 https://t.me/c/2494913847/12433
 
-m26 - Agente de Ação Inteligente
+m26 - Agente de Açêo Inteligente
 https://t.me/c/2494913847/12466
 
 m27 - **Data Integration and Transformation Hub
 ****https://t.me/c/2494913847/12486****
 
-m28 - Exemplo GTP Ação
+m28 - Exemplo GTP Açêo
 ****https://t.me/c/2494913847/12723****
 
-m29 - Gmail Categorização
+m29 - Gmail Categorizaçêo
 ****https://t.me/c/2494913847/12733****
 
 m30 - MasterClass de MCP Claude Desktop
@@ -660,7 +660,7 @@ j100 - Crescimento Social nas Redes Sociais
 https://t.me/c/2494913847/12789
 
 j101- AI Automation System
-Não venda agentes de IA,
+Nêo venda agentes de IA,
 Venda sistemas operacionais de IA 
 https://t.me/c/2494913847/13229
 
@@ -705,21 +705,21 @@ e2 - Agente RAG  WhatsApp  N8N
 e3 - Agente de Vendas Whatsapp ( Stipe + Fatura)
 [https://t.me/c/2494913847/993](https://t.me/c/2494913847/993)
 
-e4n8n - Raspagem e Monitoração de Preços - [https://t.me/c/2494913847/1521](https://t.me/c/2494913847/1521)
+e4n8n - Raspagem e Monitoraçêo de Preços - [https://t.me/c/2494913847/1521](https://t.me/c/2494913847/1521)
 
 e5n8 - Cria Postagem Redes Sociais pelo whatsapp - [https://t.me/c/2494913847/1607](https://t.me/c/2494913847/1607)
 
 e6n8 - Multi Agentes
 https://t.me/c/2494913847/2743
 
-e7n8 - Extração de Faturas
+e7n8 - Extraçêo de Faturas
 https://t.me/c/2494913847/3195
 
 
 e9n -📊 Análise técnica com IA: Dicas de Trading
 https://t.me/c/2494913847/3898
 
-.e10 - Agente de Vendas e Revisão Humana
+.e10 - Agente de Vendas e Revisêo Humana
 https://t.me/c/2494913847/4581
 
 e-tc10- MCP Exemplos (nao nativo)
@@ -799,7 +799,7 @@ https://t.me/c/2494913847/12668
 e38- Vídeos para Redes Sociais
 https://t.me/c/2494913847/12902
 
-e39 - Captação de Leads no LinkedIn
+e39 - Captaçêo de Leads no LinkedIn
 https://t.me/c/2494913847/13008
 
 e40 - UGC Videos Automaticos VEO3
@@ -970,7 +970,7 @@ ap40 - RH - Analise de Candidato
 ap41 - Agente de Pesquisa
 ****https://t.me/c/2494913847/10965****
 
-ap42 - Paralelização e SubFlow
+ap42 - Paralelizaçêo e SubFlow
 ****https://t.me/c/2494913847/11146****
 
 ap43 - Pipeline RAG dinâmico com Supabase
@@ -985,7 +985,7 @@ https://t.me/c/2494913847/11435
 Ap47 - Zero ao Agente RAG
 https://t.me/c/2494913847/11630
 
-ap48 - Youtube Transcrição RAG
+ap48 - Youtube Transcriçêo RAG
 https://t.me/c/2494913847/11786
 
 ap49 - Enxame de Agentes
@@ -1000,7 +1000,7 @@ https://t.me/c/2494913847/12112
 ap52 - 5 Forma de Tratamento ERROS
 https://t.me/c/2494913847/12382
 
-ap53 - Avaliação de Fluxos de IA
+ap53 - Avaliaçêo de Fluxos de IA
 [https://t.me/c/2494913847/12614](https://t.me/c/2494913847/12614)
 
 ap54 - Publique 9 Redes Sociais
@@ -1058,7 +1058,7 @@ https://t.me/c/2494913847/5097
 al6 - Videos Dark Gatinhos
 https://t.me/c/2494913847/5461
 
-al7 - Docker e N8N Local (instalação)
+al7 - Docker e N8N Local (instalaçêo)
 https://t.me/c/2494913847/5480
 
 al8 - Sistema de vídeo AI multilíngue sem rosto
@@ -1330,7 +1330,7 @@ Cx - Carlos e Trilha GPT
 c1 - Memoria PostgreSQL e Supabase
 https://t.me/c/2494913847/4485
 
-c2 - Conexão do telegram
+c2 - Conexêo do telegram
 
 ------------------------------
 
@@ -1348,7 +1348,7 @@ MRGx
 mrg1 - Fluxo de Trabalho do Engenheiro de Prompt N8N
 **[**https://t.me/c/2494913847/3835**](https://t.me/c/2494913847/3835)**
 
-mrg9 - Automação Fácil de Ajuste Fino
+mrg9 - Automaçêo Fácil de Ajuste Fino
 ****https://t.me/c/2494913847/4195****
 
 mrg10 - Fluxo de trabalho de agente x Agente
@@ -1372,16 +1372,16 @@ Hacks e Dicas
 ad1 - Google Programmable Search Engine (CSE)
 https://t.me/c/2494913847/3303
 
-ad2 - Projeto - Wireframe  compilação de cliente
+ad2 - Projeto - Wireframe  compilaçêo de cliente
 https://t.me/c/2494913847/5921
 
-Chatbot Multiusuário - Autenticação & Controle
+Chatbot Multiusuário - Autenticaçêo & Controle
 https://t.me/c/2494913847/3317
 
 Risco no Telegram FIXAR
 https://t.me/c/2494913847/3797
 
-Dicas Captura Telas e Transcrição de N8N
+Dicas Captura Telas e Transcriçêo de N8N
 https://t.me/c/2494913847/3821
 
 Controle de Error Fluxo
@@ -1542,7 +1542,7 @@ Texto:
 Aprenda o Basico do N8N
 https://t.me/c/2494913847/36
 
-ad2 - Projeto - Wireframe  compilação de cliente
+ad2 - Projeto - Wireframe  compilaçêo de cliente
 https://t.me/c/2494913847/5921
 
 ap20 - Estrategia de Agente em 15 Minutos
@@ -1578,7 +1578,7 @@ MENSAGEM 69
 Autor: INEMA
 Data: 2025-03-11T23:04:44+00:00
 Texto:
-Curso e Introdução N8N - Dicas e Hacks
+Curso e Introduçêo N8N - Dicas e Hacks
 
 Aprenda o Basico do N8N
 [https://t.me/c/2494913847/36](https://t.me/c/2494913847/36)
@@ -1615,7 +1615,7 @@ ap28 - Construa e Venda Agentes de IA
 15 Workflow e um Curso Completo - 8 horas
 https://t.me/c/2494913847/8187
 
-ap42 - Paralelização e SubFlow
+ap42 - Paralelizaçêo e SubFlow
 https://t.me/c/2494913847/11146
 
 nm58 - Hack FallBack no N8N

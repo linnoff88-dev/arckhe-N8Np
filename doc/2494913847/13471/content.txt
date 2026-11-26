@@ -20,10 +20,10 @@ Texto:
 ### Exemplo 1 – Prompt de Imagem (YAML simples, 16:9)
 
 ```image_prompt: mulher jovem sorridente segurando um buquê em frente à floricultura
-style: realista, iluminação suave, lente 50mm
+style: realista, iluminaçêo suave, lente 50mm
 composition: plano médio, foco no rosto e no produto
 aspect_ratio: 16:9
-negatives: mãos extras, distorções faciais, texto ilegível, logotipos reais```
+negatives: mêos extras, distorções faciais, texto ilegível, logotipos reais```
 
 ---
 
@@ -38,7 +38,7 @@ scenes:
     prompt: a modelo apresenta a loja em plano médio
     dialogue: "Oi pessoal… nossa floricultura vai abrir na próxima semana!"
   - id: 2
-    prompt: close no buquê de flores em mãos
+    prompt: close no buquê de flores em mêos
     dialogue: "Olha só que flores incríveis… tudo fresquinho."
   - id: 3
     prompt: plano geral da fachada da loja
@@ -91,13 +91,13 @@ scenes:
 
 ---
 
-### Exemplo 6 – Expressão n8n (pegar última foto do Telegram)
+### Exemplo 6 – Expressêo n8n (pegar última foto do Telegram)
 
 ```{{$json["photo"][$json["photo"].length - 1].file_id}}```
 
 ---
 
-### Exemplo 7 – Expressão n8n (parsear JSON de resposta)
+### Exemplo 7 – Expressêo n8n (parsear JSON de resposta)
 
 ```{{ JSON.parse($json.data).image_url }}```
 
@@ -139,7 +139,7 @@ Texto:
 
 1. **Mais de uma imagem de referência** → passe 2–3 ângulos do rosto/produto para o Nano Banana → avatar fica idêntico em todas as variações.
 2. **Travar aspecto 16:9 em todos os pontos** → inclua `aspect_ratio: 16:9` tanto no prompt quanto no body da API → evita cortes.
-3. **Usar “negatives” sempre** → bloqueie distorções típicas: mãos extras, olhos tortos, texto ilegível.
+3. **Usar “negatives” sempre** → bloqueie distorções típicas: mêos extras, olhos tortos, texto ilegível.
 4. **Roupa-âncora** → sempre inclua uma peça fixa (ex.: jaqueta vermelha) → reforça consistência entre cenas.
 
 ---
@@ -160,7 +160,7 @@ Texto:
 
 ---
 
-### Hacks de Automação (n8n)
+### Hacks de Automaçêo (n8n)
 
 11. **Use `execution.resumeUrl`** → evite loops de checagem, mais barato e rápido.
 12. **Salvar task\_id e urls em planilha** → facilita reuso, auditoria e suporte.
@@ -170,7 +170,7 @@ Texto:
 
 ### Hacks de Custo e Escala
 
-14. **Gate obrigatório** → só gerar vídeo após aprovação da imagem → corta 70% de gasto desnecessário.
+14. **Gate obrigatório** → só gerar vídeo após aprovaçêo da imagem → corta 70% de gasto desnecessário.
 15. **Cache de avatar** → se o mesmo usuário pedir de novo, reuse referência aprovada → custo quase zero para repetir rosto.
 16. **Fila simples** → limite 2–3 jobs por vez → evita rate-limit e travamentos.
 
@@ -178,8 +178,8 @@ Texto:
 
 ### Hacks de Qualidade Extra
 
-17. **Feedback textual no loop** → se imagem não agradar, deixe o usuário digitar ajuste → IA melhora na próxima rodada.
-18. **Evitar “tom vendedor” no vídeo** → diálogo mais realista aumenta retenção (o público não pula).
+17. **Feedback textual no loop** → se imagem nêo agradar, deixe o usuário digitar ajuste → IA melhora na próxima rodada.
+18. **Evitar “tom vendedor” no vídeo** → diálogo mais realista aumenta retençêo (o público nêo pula).
 19. **Close-ups intercalados** → peça 1 cena de close no produto → aumenta impacto sem perder consistência.
 20. **Juntar áudio depois** → se usar TTS, processe separado e sincronize → voz mais limpa.
 
@@ -207,11 +207,11 @@ MENSAGEM 7
 Autor: INEMA
 Data: 2025-08-28T20:01:03+00:00
 Texto:
-**Passo 5 (Finalização e Entrega)** de forma direta e prática:
+**Passo 5 (Finalizaçêo e Entrega)** de forma direta e prática:
 
 ---
 
-### Passo 5 — Finalização e Entrega
+### Passo 5 — Finalizaçêo e Entrega
 
 1. **Unir todas as cenas em um só vídeo**
 
@@ -228,7 +228,7 @@ Texto:
 2. **Esperar o merge terminar**
 
    * Use **Wait (tempo fixo \~30s)** ou **loop de checagem** no endpoint `get_result` do Fal.ai.
-   * Condição: `status = completed`.
+   * Condiçêo: `status = completed`.
    * Saída: `final_video_url` (link do vídeo final em 16:9).
 
 3. **Enviar vídeo final pelo Telegram**
@@ -262,11 +262,11 @@ MENSAGEM 9
 Autor: INEMA
 Data: 2025-08-28T20:00:41+00:00
 Texto:
-**Passo 4 (Criação do Vídeo)** de forma direta e prática:
+**Passo 4 (Criaçêo do Vídeo)** de forma direta e prática:
 
 ---
 
-### Passo 4 — Criação do Vídeo
+### Passo 4 — Criaçêo do Vídeo
 
 1. **Gerar roteiro multi-cena estilo UGC**
 
@@ -278,13 +278,13 @@ Texto:
      * URL da imagem final aprovada.
    * Peça uma saída estruturada:
 
-     ```     total_duration: 30   # duração total em segundos
-     scene_length: 8      # duração de cada cena (~8s)
+     ```     total_duration: 30   # duraçêo total em segundos
+     scene_length: 8      # duraçêo de cada cena (~8s)
      num_scenes: 4        # calculado = ceil(total/scene_length)
      aspect_ratio: 16:9
      scenes:
        - id: 1
-         prompt: descrição da cena
+         prompt: descriçêo da cena
          dialogue: fala curta e natural, até 30 palavras
        - id: 2
          prompt: ...
@@ -314,7 +314,7 @@ Texto:
 4. **Esperar vídeos ficarem prontos**
 
    * Use um **Wait (tempo fixo, ex. 60s)** ou um **loop de checagem** com o endpoint `record/info` do KIE.ai.
-   * Condição de saída: `status = success`.
+   * Condiçêo de saída: `status = success`.
    * Guarde todas as `video_urls` em uma lista.
 
 ---
@@ -336,11 +336,11 @@ MENSAGEM 11
 Autor: INEMA
 Data: 2025-08-28T20:00:13+00:00
 Texto:
-**Passo 3 (Validação da Imagem)** de forma direta e prática:
+**Passo 3 (Validaçêo da Imagem)** de forma direta e prática:
 
 ---
 
-### Passo 3 — Validação da Imagem
+### Passo 3 — Validaçêo da Imagem
 
 1. **Gerar a imagem com Nano Banana**
 
@@ -366,10 +366,10 @@ Texto:
 3. **Pegar a imagem final**
 
    * Use um nó **HTTP Request (GET)** para o endpoint `record/info` do KIE.ai.
-   * Passe o `task_id` da criação.
+   * Passe o `task_id` da criaçêo.
    * Extraia a URL da imagem gerada.
 
-4. **Enviar a imagem ao usuário para validação**
+4. **Enviar a imagem ao usuário para validaçêo**
 
    * Use um nó **Telegram SendPhoto**.
    * Envie a imagem gerada + uma mensagem tipo:
@@ -385,7 +385,7 @@ Texto:
    * Se \[Aprovar] → segue para o próximo passo (roteiro do vídeo).
    * Se \[Gerar outra] → volte ao **Passo 2 (criar novo prompt)**.
 
-     * Opcional: permita que o usuário escreva o que quer mudar (ex.: “trocar fundo” ou “mais iluminação”) e inclua esse feedback no próximo prompt.
+     * Opcional: permita que o usuário escreva o que quer mudar (ex.: “trocar fundo” ou “mais iluminaçêo”) e inclua esse feedback no próximo prompt.
 
 ---
 
@@ -406,17 +406,17 @@ MENSAGEM 13
 Autor: INEMA
 Data: 2025-08-28T19:59:49+00:00
 Texto:
-**Passo 2 (Preparação da imagem)** detalhado de forma direta e prática:
+**Passo 2 (Preparaçêo da imagem)** detalhado de forma direta e prática:
 
 ---
 
-### Passo 2 — Preparação da Imagem
+### Passo 2 — Preparaçêo da Imagem
 
-1. **Pegar a melhor versão da foto**
+1. **Pegar a melhor versêo da foto**
 
    * No output do Telegram Trigger, a foto vem em um array `photo[]`.
-   * Sempre use a **última posição** (maior resolução).
-   * Expressão no n8n:
+   * Sempre use a **última posiçêo** (maior resoluçêo).
+   * Expressêo no n8n:
 
      ```     {{$json["photo"][$json["photo"].length - 1].file_id}}
      ```
@@ -442,15 +442,15 @@ Texto:
 
      * pessoa
      * roupa
-     * expressão
+     * expressêo
      * cenário
      * paleta de cores
-     * iluminação
+     * iluminaçêo
 
-   Exemplo de instrução:
+   Exemplo de instruçêo:
 
       ```Analise a imagem enviada.  
-   Retorne JSON com: pessoa, roupa, expressão, cenário, paleta_cores, iluminação.
+   Retorne JSON com: pessoa, roupa, expressêo, cenário, paleta_cores, iluminaçêo.
    
 
 4```. Cria**r prompt de imagem 16:9
@@ -462,11 +462,11 @@ Texto:
      * análise da imagem (resultado do passo anterior)
    * Saída final (em YAML ou JSON):
 
-         ``` image_prompt: descrição objetiva da cena  
-     style: realista, iluminação suave, foco no rosto/produto  
+         ``` image_prompt: descriçêo objetiva da cena  
+     style: realista, iluminaçêo suave, foco no rosto/produto  
      composition: plano médio, enquadramento central  
      aspect_ratio: 16:9  
-     negatives: mãos extras, distorção de rosto, logos reais
+     negatives: mêos extras, distorçêo de rosto, logos reais
      
 
 --```-
@@ -542,16 +542,16 @@ Beleza — em nível macro, o passo a passo se resume a 5 grandes etapas:
 1. **Entrada do usuário**
    Receber foto + legenda pelo Telegram.
 
-2. **Preparação da imagem**
+2. **Preparaçêo da imagem**
    Analisar a foto, criar prompt estruturado e gerar a imagem consistente (16:9) com Nano Banana.
 
-3. **Validação**
+3. **Validaçêo**
    Enviar a imagem para o usuário aprovar ou pedir ajustes.
 
-4. **Criação do vídeo**
+4. **Criaçêo do vídeo**
    Gerar roteiro multi-cena (UGC) e produzir os clipes com Veo3 Fast, mantendo consistência visual.
 
-5. **Finalização e entrega**
+5. **Finalizaçêo e entrega**
    Unir as cenas no Fal.ai e devolver o vídeo final 16:9 ao usuário pelo Telegram.
 
 ------------------------------
@@ -581,30 +581,30 @@ Passo a passo enxuto (16:9, Telegram → vídeo final)
 
 * Nó Telegram Trigger para mensagens com foto + caption.
 * Saída usada depois: chat\_id, caption e o array photo\[].
-  Exemplo de caption: Criar vídeo 30s anunciando a inauguração da floricultura. Tom natural, foco no sorriso.
+  Exemplo de caption: Criar vídeo 30s anunciando a inauguraçêo da floricultura. Tom natural, foco no sorriso.
 
-3. Obter a melhor versão da foto
+3. Obter a melhor versêo da foto
 
-* Nó HTTP Request getFile do Telegram com o file\_id da última posição de photo\[] (é a maior resolução).
+* Nó HTTP Request getFile do Telegram com o file\_id da última posiçêo de photo\[] (é a maior resoluçêo).
 * Montar URL direta do arquivo: [https://api.telegram.org/file/bot{TOKEN}/{file\_path}](https://api.telegram.org/file/bot{TOKEN}/{file_path})
   Exemplo de resultado: URL direta da imagem para usar como referência.
 
 4. Analisar a imagem
 
-* Nó LLM (gpt-4.1) para descrever pessoa, roupa, cores, cenário, iluminação, objetos.
+* Nó LLM (gpt-4.1) para descrever pessoa, roupa, cores, cenário, iluminaçêo, objetos.
 * Saída estruturada simples (lista de campos).
-  Exemplo de campos: pessoa, expressão, roupa, paleta\_cores, cenário, iluminação.
+  Exemplo de campos: pessoa, expressêo, roupa, paleta\_cores, cenário, iluminaçêo.
 
 5. Criar o prompt de imagem em 16:9
 
 * Nó LLM combinando caption + análise da imagem.
 * Saída curta e estável, com campos: image\_prompt, style, composition, negatives, aspect\_ratio: 16:9.
-  Exemplo de saída: image\_prompt descreve a cena e o produto; negatives evita mãos extras, distorções.
+  Exemplo de saída: image\_prompt descreve a cena e o produto; negatives evita mêos extras, distorções.
 
 6. Gerar imagem com Nano Banana usando callback
 
 * Nó HTTP Request para criar tarefa no KIE.ai (modelo nano-banana-edit) com:
-  prompt do passo 5, aspect\_ratio 16:9, image\_urls \[URL do Telegram], callback\_url = execução do n8n.
+  prompt do passo 5, aspect\_ratio 16:9, image\_urls \[URL do Telegram], callback\_url = execuçêo do n8n.
 * Nó Wait em modo On Webhook Call para liberar o fluxo quando KIE.ai chamar o callback.
 * Nó HTTP Record/Info do KIE.ai para pegar a url da imagem final.
   Exemplo de resultado: URL da imagem 16:9 gerada e consistente.
@@ -677,9 +677,9 @@ Data: 2025-08-28T19:49:49+00:00
 Texto:
 Resumo completo e estruturado do conteúdo:
 
-### Visão geral
+### Visêo geral
 
-Mostra como gerar imagens e vídeos hiper-realistas com **Nano Banana (Google)** e **Veo3 Fast**, integrados no **N8N** e controlados por **Telegram**. A ideia é criar avatares consistentes que podem promover produtos de forma automatizada e barata, com validação antes de gerar os vídeos.
+Mostra como gerar imagens e vídeos hiper-realistas com **Nano Banana (Google)** e **Veo3 Fast**, integrados no **N8N** e controlados por **Telegram**. A ideia é criar avatares consistentes que podem promover produtos de forma automatizada e barata, com validaçêo antes de gerar os vídeos.
 
 ---
 
@@ -690,28 +690,28 @@ Mostra como gerar imagens e vídeos hiper-realistas com **Nano Banana (Google)**
    * Uma única foto gera várias variações realistas.
    * O modelo Nano Banana mantém o mesmo rosto e estilo mesmo mudando cenário, roupas ou produto.
 
-2. **Processo da automação**
+2. **Processo da automaçêo**
 
    * Trigger do Telegram: o usuário envia imagem + legenda.
    * IA analisa a foto (cores, roupas, objetos, contexto).
    * GPT-4.1 gera prompt detalhado para Nano Banana.
    * Nano Banana cria a imagem final.
-   * Validação via Telegram: aprovar ou pedir nova geração.
-   * Se aprovado → geração de prompt de vídeo multi-cena estilo UGC.
+   * Validaçêo via Telegram: aprovar ou pedir nova geraçêo.
+   * Se aprovado → geraçêo de prompt de vídeo multi-cena estilo UGC.
    * Veo3 Fast cria cenas individuais (máx. 8s cada).
    * Fal.ai junta os vídeos em um só.
    * Bot envia o resultado final no Telegram.
 
-3. **Validação e consistência**
+3. **Validaçêo e consistência**
 
    * Uso de `execution.resumeUrl` para evitar loops desnecessários.
-   * Aprovação obrigatória do usuário antes de criar vídeo.
-   * Possibilidade de feedback textual para ajustar a próxima geração.
+   * Aprovaçêo obrigatória do usuário antes de criar vídeo.
+   * Possibilidade de feedback textual para ajustar a próxima geraçêo.
 
 4. **Exemplos práticos mostrados**
 
-   * Floricultura com modelo fixo promovendo inauguração.
-   * Alteração de cenários (casa, estádio, bandeiras).
+   * Floricultura com modelo fixo promovendo inauguraçêo.
+   * Alteraçêo de cenários (casa, estádio, bandeiras).
    * Testes de consistência em roupas e cenários diferentes.
 
 5. **Resultados dos vídeos**
@@ -723,10 +723,10 @@ Mostra como gerar imagens e vídeos hiper-realistas com **Nano Banana (Google)**
 
 ### Ferramentas usadas
 
-* N8N (orquestração)
-* Telegram Bot API (interação com usuário)
-* GPT-4.1 (geração de prompts estruturados)
-* Nano Banana (Google IA – geração de imagens realistas)
+* N8N (orquestraçêo)
+* Telegram Bot API (interaçêo com usuário)
+* GPT-4.1 (geraçêo de prompts estruturados)
+* Nano Banana (Google IA – geraçêo de imagens realistas)
 * Veo3 Fast (vídeos rápidos)
 * Fal.ai (mesclar vídeos)
 
@@ -743,13 +743,13 @@ Mostra como gerar imagens e vídeos hiper-realistas com **Nano Banana (Google)**
 ### Futuro e melhorias
 
 * Criador vai mostrar em próximas aulas como manter **consistência entre vídeos longos**, reutilizando o último frame de um para iniciar o seguinte.
-* Isso permitirá transições perfeitas e vídeos de maior duração sem cortes perceptíveis.
+* Isso permitirá transições perfeitas e vídeos de maior duraçêo sem cortes perceptíveis.
 
 ---
 
-### Conclusão
+### Conclusêo
 
-O fluxo demonstra uma **automação poderosa, barata e escalável** para criar avatares consistentes em imagens e vídeos UGC. É aplicável para lojas, SaaS, agências, criadores de conteúdo e até influencers virtuais.
+O fluxo demonstra uma **automaçêo poderosa, barata e escalável** para criar avatares consistentes em imagens e vídeos UGC. É aplicável para lojas, SaaS, agências, criadores de conteúdo e até influencers virtuais.
 
 ------------------------------
 
@@ -767,14 +767,14 @@ Data: 2025-08-28T19:48:35+00:00
 Texto:
 e42. Nano Banana + Veo3: UGC espetacular
 
-Você aprende a construir um sistema automatizado que permite gerar avatares personalizados e vídeos UGC hiper-realistas a partir de produtos, usando a nova IA do Google "Nano Banana" integrada no N8N. A automação foi desenhada para funcionar 100% via Telegram, incluindo validação da imagem antes de criar o vídeo final.
+Você aprende a construir um sistema automatizado que permite gerar avatares personalizados e vídeos UGC hiper-realistas a partir de produtos, usando a nova IA do Google "Nano Banana" integrada no N8N. A automaçêo foi desenhada para funcionar 100% via Telegram, incluindo validaçêo da imagem antes de criar o vídeo final.
 
-🛠️ O que conseguimos com esta automação?
+🛠️ O que conseguimos com esta automaçêo?
 
 * Gerar vídeos realistas com consistência visual extrema
 * Criar avatares personalizados com uma única imagem
 * Validar ou rejeitar imagens antes de gerar o vídeo
-* Economizar tempo e custos na produção de conteúdo
+* Economizar tempo e custos na produçêo de conteúdo
 * Evitar loops desnecessários usando webhooks inteligentes
 * Criar um fluxo replicável para SaaS, lojas ou criadores de conteúdo
 
@@ -782,11 +782,11 @@ Você aprende a construir um sistema automatizado que permite gerar avatares per
 
 * Disparo por Telegram: o bot recebe uma imagem e uma legenda com instruções
 * Análise da imagem com IA (cores, pessoa, roupa, etc.)
-* Geração do prompt: combina as instruções da legenda com a análise da imagem
-* Criação da imagem final com Nano Banana (modo edição)
-* Validação via Telegram: envia a imagem e aguarda aprovação ou nova geração
-* Geração do prompt de vídeo: com estrutura multi-cena e estilo UGC
-* Criação de vídeos usando Veo3 Fast para cada cena
+* Geraçêo do prompt: combina as instruções da legenda com a análise da imagem
+* Criaçêo da imagem final com Nano Banana (modo ediçêo)
+* Validaçêo via Telegram: envia a imagem e aguarda aprovaçêo ou nova geraçêo
+* Geraçêo do prompt de vídeo: com estrutura multi-cena e estilo UGC
+* Criaçêo de vídeos usando Veo3 Fast para cada cena
 * Agrupamento dos vídeos individuais em um só com Fal.ai
 * Envio final do vídeo ao usuário via Telegram
 
@@ -849,14 +849,14 @@ Consistência brutal! Nano Banana + Veo3 🧠⚡
 
 Isto é um antes e depois para qualquer pessoa que queira fazer imagens realistas de produtos ou marca pessoal. Anexo imagens e vídeo para que veja os resultados 😎
 
-📸 Com uma única imagem, esta automação cria um avatar hiper-realista e consistente que aparece promovendo seu produto...
+📸 Com uma única imagem, esta automaçêo cria um avatar hiper-realista e consistente que aparece promovendo seu produto...
 
 👁️‍🗨️ O incrível é a consistência visual:
 ➡️ Sempre o mesmo modelo, mesmo rosto, mesma estética
 ➡️ Mesmo que mude o fundo, a roupa ou o produto
 ➡️ Em cada imagem e em cada cena do vídeo
 
-E como se não bastasse... 🔁 Juntamos múltiplas cenas para criar vídeos longos!
+E como se nêo bastasse... 🔁 Juntamos múltiplas cenas para criar vídeos longos!
 Assim você pode gerar conteúdo de 15, 30 ou 60 segundos com o mesmo avatar.
 
 🚀 O que montamos nesta aula?
@@ -864,7 +864,7 @@ Assim você pode gerar conteúdo de 15, 30 ou 60 segundos com o mesmo avatar.
 ✅ Diálogos estilo UGC gerados com GPT-4.1
 ✅ Vídeos multi-cena com Veo3 Fast
 ✅ Agrupamento final com Fai.ai
-✅ Validação de imagem no Telegram antes de lançar o vídeo
+✅ Validaçêo de imagem no Telegram antes de lançar o vídeo
 ✅ Tudo automatizado com N8N
 
 Isso pode ser aplicado se você é marca, loja, SaaS, agência, consultor, influenciador ou vende na Amazon.

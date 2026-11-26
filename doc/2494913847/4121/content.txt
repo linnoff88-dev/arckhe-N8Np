@@ -21,7 +21,7 @@ Texto:
   O fluxo começa sempre que alguém envia uma mensagem ao seu bot no Telegram. Ele usa um nó de gatilho do Telegram para capturar todos os eventos recebidos.
 
 - **Processa a Conversa com um Agente de IA:**  
-  - O coração do fluxo é um nó de Agente de IA usando o GPT-4.  
+  - O coraçêo do fluxo é um nó de Agente de IA usando o GPT-4.  
   - Ele lê a mensagem do usuário e, com o uso de uma memória do tipo *window buffer*, lembra do contexto recente da conversa.  
   - O agente é programado para ser amigável e sempre chamar o usuário pelo nome.
 
@@ -33,8 +33,8 @@ Texto:
   - A resposta — seja texto, imagem ou ambos — é enviada ao usuário através de um nó do Telegram.
 
 - **Utiliza Nós do LangChain e Novas Ferramentas:**  
-  - O fluxo utiliza nós modernos do LangChain para bate-papo com IA, memória de conversação e uso de ferramentas.  
-  - Isso é combinado com recursos de geração de imagens, tornando o bot interativo tanto por texto quanto visualmente.
+  - O fluxo utiliza nós modernos do LangChain para bate-papo com IA, memória de conversaçêo e uso de ferramentas.  
+  - Isso é combinado com recursos de geraçêo de imagens, tornando o bot interativo tanto por texto quanto visualmente.
 
 ---
 

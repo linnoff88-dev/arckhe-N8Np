@@ -35,10 +35,10 @@ Bem-vindo à biblioteca completa de workflows n8n, AI agents e automações!
 ## 🎯 Categorias Principais
 
 ### 🤖 [AI Agents](workflows/ai-agents.md)
-Agentes inteligentes com LLMs (GPT-4, Claude, etc), RAG pipelines, chatbots e sistemas de validação humana.
+Agentes inteligentes com LLMs (GPT-4, Claude, etc), RAG pipelines, chatbots e sistemas de validaçêo humana.
 
 **Destaques:**
-- Agente de vendas com validação humana (HITL)
+- Agente de vendas com validaçêo humana (HITL)
 - First AI Agent com Google Sheets
 - RAG Workflow vs RAG Agent
 - Voice Email Agent
@@ -76,20 +76,20 @@ Conectores e integrações com serviços populares.
 ## ⚠️ Importante
 
 - Todos os workflows precisam de **credenciais reconfiguradas**
-- Este é um **repositório de referência**, não uma instalação n8n ativa
-- Workflows estão em **Português, Espanhol e Inglês**
+- Este é um **repositório de referência**, nêo uma instalaçêo n8n ativa
+- Workflows estêo em **Português, Espanhol e Inglês**
 
 ## 💡 Destaques da Comunidade
 
 !!! tip "Workflow Mais Popular"
-    **Agente de Vendas com Validação Humana**
+    **Agente de Vendas com Validaçêo Humana**
 
     Sistema completo de sales automation com loop de feedback humano usando Gmail "Send and Wait" + Text Classifier.
 
     [Ver detalhes →](workflows/ai-agents.md#agente-de-vendas-hitl)
 
 !!! example "Caso de Uso Real"
-    **Geração de Músicas Automática**
+    **Geraçêo de Músicas Automática**
 
     Workflow que gera músicas com PiAPI e envia para Google Drive automaticamente.
 

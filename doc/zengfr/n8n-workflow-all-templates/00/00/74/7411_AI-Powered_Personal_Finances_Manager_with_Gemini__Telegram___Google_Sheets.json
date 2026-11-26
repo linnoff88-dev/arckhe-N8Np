@@ -530,7 +530,7 @@
       ],
       "webhookId": "54a95e4f-38b0-4992-a5c1-81791dba21ab",
       "parameters": {
-        "text": "=⚠️ Desculpe! Não consigo processar imagens ou vídeos. Por favor, envie sua mensagem em texto ou voz.",
+        "text": "=⚠️ Desculpe! Nêo consigo processar imagens ou vídeos. Por favor, envie sua mensagem em texto ou voz.",
         "chatId": "={{ $('Telegram Bot Trigger').item.json.message.from.id }}",
         "additionalFields": {
           "parse_mode": "HTML",

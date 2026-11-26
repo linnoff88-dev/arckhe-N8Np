@@ -304,7 +304,7 @@
         260
       ],
       "parameters": {
-        "text": "=Tôi là một bác sĩ y khoa làm việc trong lĩnh vực y tế, chuyên môn của tôi là các Vấn đề liên quan đến bệnh Nam Khoa. \n- Tôi muốn dùng dữ liệu này để tìm kiếm thông tin, dựa trên từ khoá mà tôi đưa và để tìm những thông tin mới nhất có liên quan. \n\n- Chuẩn bị nội dung/ nguồn cho việc viết blog.\n\n- Hãy đưa ra những list nội dung đầu dòng ngắn gọn, hiệu quả để làm nội dung chính cho những blog sắp tới.\n\nĐây là nội dung tôi đưa vào tìm kiếm: {{ $json['Research Query'] }}\nHoặc nội dung này: {{ $json.message.text }}",
+        "text": "=Tôi là một bác sĩ y khoa làm việc trong lĩnh vực y tế, chuyên môn của tôi là các Vấn đề liên quan đến bệnh Nam Khoa. \n- Tôi muốn dùng dữ liệu này để tìm kiếm thông tin, dựa trên từ khoá mà tôi đưa và để tìm những thông tin mới nhất có liên quan. \n\n- Chuẩn bị nội dung/ nguồn cho việc viết blog.\n\n- Hêy đưa ra những list nội dung đầu dòng ngắn gọn, hiệu quả để làm nội dung chính cho những blog sắp tới.\n\nĐây là nội dung tôi đưa vào tìm kiếm: {{ $json['Research Query'] }}\nHoặc nội dung này: {{ $json.message.text }}",
         "options": {
           "systemMessage": "Bạn làm việc rất chuyên nghiệp trong lĩnh vực của mình"
         },

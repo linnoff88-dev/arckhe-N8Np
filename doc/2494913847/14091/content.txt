@@ -15,13 +15,13 @@ Data: 2025-09-21T13:35:56+00:00
 Texto:
 ### Hacks de arquitetura
 
-* **Construa sobre algo que já funciona**: não automatize uma ideia fraca. Pegue um processo já validado (ex.: geração de leads que dá algum resultado manualmente) e apenas sistematize.
+* **Construa sobre algo que já funciona**: nêo automatize uma ideia fraca. Pegue um processo já validado (ex.: geraçêo de leads que dá algum resultado manualmente) e apenas sistematize.
 * **Agente gerente + subagentes**: em vez de um agente “faz tudo”, crie um roteador que decide qual subagente especializado (lead magnet, social post, RAG, etc.) deve agir. Isso reduz respostas ruins.
 * **Workflow único, limpo**: use `router` + `filters` no n8n/Make em vez de criar 10 fluxos separados. Fica mais rápido de manter e escalar.
 
 ### Hacks de banco de dados (Supabase)
 
-* **Contexto salvo uma vez**: Foundations (avatar, dores, desejos, provas, jornada) ficam salvos no Supabase → não precisa reenviar a cada prompt. Reduz custo de tokens e deixa respostas mais consistentes.
+* **Contexto salvo uma vez**: Foundations (avatar, dores, desejos, provas, jornada) ficam salvos no Supabase → nêo precisa reenviar a cada prompt. Reduz custo de tokens e deixa respostas mais consistentes.
 * **Session UID**: sempre passe um identificador único no payload → garante que o histórico de cada usuário seja separado corretamente.
 
 ### Hacks de prompts
@@ -33,19 +33,19 @@ Texto:
 ### Hacks de design (D do S.T.A.N.D)
 
 * **Loading divertido**: mostre frases como “a IA foi pegar um café…” → dá experiência premium e prende o usuário enquanto espera.
-* **Botão copiar pronto**: 1 clique para copiar o post final. Isso aumenta usabilidade e reduz frustração.
-* **Avatares personalizados**: foto do usuário e ícone da IA no chat → aumenta percepção de valor.
+* **Botêo copiar pronto**: 1 clique para copiar o post final. Isso aumenta usabilidade e reduz frustraçêo.
+* **Avatares personalizados**: foto do usuário e ícone da IA no chat → aumenta percepçêo de valor.
 
-### Hacks de automação
+### Hacks de automaçêo
 
-* **Teste sempre em modo “publish”**: no Bolt/Lovable, se não publicar as mudanças, nada chega ao webhook (erro comum).
+* **Teste sempre em modo “publish”**: no Bolt/Lovable, se nêo publicar as mudanças, nada chega ao webhook (erro comum).
 * **Evite payloads pesados**: nunca mande imagens cruas via webhook, só URL. Fotos travam o fluxo.
 * **Filtros inteligentes**: antes de mandar para IA, filtre se a mensagem é válida (ex.: >10 caracteres) para evitar chamadas inúteis e custos.
 
-### Hacks de monetização
+### Hacks de monetizaçêo
 
-* **Venda resultado, não feature**: em vez de dizer “faço dashboard”, venda “10 novos leads qualificados por semana sem esforço”.
-* **Cobrança híbrida**: taxa de setup (R\$ 2k–10k) + mensalidade de manutenção (R\$ 500–3k).
+* **Venda resultado, nêo feature**: em vez de dizer “faço dashboard”, venda “10 novos leads qualificados por semana sem esforço”.
+* **Cobrança híbrida**: taxa de setup (R\$ 2k–10k) + mensalidade de manutençêo (R\$ 500–3k).
 * **Upsell com RAG**: primeiro entrega posts; depois oferece upgrade para RAG/FAQ automático.
 
 ------------------------------
@@ -57,7 +57,7 @@ Texto:
 }}"
 }
 ```
-Observação: ajuste a expressão que puxa o texto do agente conforme a saída real do seu node de IA.
+Observaçêo: ajuste a expressêo que puxa o texto do agente conforme a saída real do seu node de IA.
 
 Importar via cURL (atalho)
 No HTTP Request do n8n → Import from cURL:
@@ -73,7 +73,7 @@ curl -X POST "https://api.unipile.com/v1/whatsapp/messages" \
 
 ```
 
-Depois, substitua CHAT\_ID\_AQUI por {{\$json.chat\_id}} e o texto por uma expressão que leia a resposta do agente.
+Depois, substitua CHAT\_ID\_AQUI por {{\$json.chat\_id}} e o texto por uma expressêo que leia a resposta do agente.
 
 # 9) Encadeamento final de nodes (ordem)
 
@@ -90,27 +90,27 @@ Teste 2: memória
 • Verifique se o agente lembra (mesmo chat\_id)
 
 Teste 3: agendamento
-• “Quero uma call amanhã 10h, meu e-mail é maria@exemplo.com”
-• Verifique criação do evento no Google Calendar e retorno no WhatsApp
+• “Quero uma call amanhê 10h, meu e-mail é maria@exemplo.com”
+• Verifique criaçêo do evento no Google Calendar e retorno no WhatsApp
 
 # 11) Erros comuns e soluções
 
-• Webhook do n8n não recebe nada: confirme Production URL no Unipile e método POST
+• Webhook do n8n nêo recebe nada: confirme Production URL no Unipile e método POST
 • Token inválido no Unipile: gere novo Access Token e atualize o header Authorization
 • Resposta vazia do agente: confira o mapeamento do campo de saída do node de IA
-• Datas do Calendar erradas: passe timezone e use formatação ISO 8601
-• Mensagens duplicadas: garanta idempotência com verificação de message\_id antes de responder
+• Datas do Calendar erradas: passe timezone e use formataçêo ISO 8601
+• Mensagens duplicadas: garanta idempotência com verificaçêo de message\_id antes de responder
 
 # 12) Segurança e boas práticas
 
 • Nunca exponha tokens em texto aberto; use credenciais do n8n
 • Limite permissões do token Unipile ao mínimo necessário
-• Logue conversas em planilha/DB com chat\_id, timestamp, intenção e resultado
+• Logue conversas em planilha/DB com chat\_id, timestamp, intençêo e resultado
 • Adicione filtros anti-spam e um menu de ajuda para mensagens vazias
 
 # 13) Extensões rápidas
 
-• Qualificação de leads: formulário em linha (nome, e-mail, interesse) + gravação em Airtable/Sheets
+• Qualificaçêo de leads: formulário em linha (nome, e-mail, interesse) + gravaçêo em Airtable/Sheets
 • Follow-up automático: Wait 24–48h + envio de lembrete cordial
 • FAQ híbrido: base de conhecimento + fallback para agente
 • Handoff humano: palavra-chave “falar com humano” cria tarefa e alerta equipe
@@ -118,16 +118,16 @@ Teste 3: agendamento
 # 14) Exemplos rápidos
 
 Pergunta: Como mudar o número do WhatsApp depois?
-Resposta: Desconecte a conta atual no Unipile, conecte o novo número via QR e mantenha o mesmo Webhook; o chat\_id muda, então trate contatos existentes com migração ou reinício de sessão.
+Resposta: Desconecte a conta atual no Unipile, conecte o novo número via QR e mantenha o mesmo Webhook; o chat\_id muda, entêo trate contatos existentes com migraçêo ou reinício de sessêo.
 
 Pergunta: Posso usar outro provedor além do Unipile?
-Resposta: Sim. A arquitetura é a mesma: provedor WhatsApp com Webhook → n8n → IA → envio de mensagem. Ajuste apenas o endpoint e autenticação.
+Resposta: Sim. A arquitetura é a mesma: provedor WhatsApp com Webhook → n8n → IA → envio de mensagem. Ajuste apenas o endpoint e autenticaçêo.
 
 Pergunta: Como evitar respostas “instantâneas” demais?
 Resposta: Insira um Wait node com tempo aleatório (10–60s) antes do envio ao Unipile.
 
 Pergunta: Como registrar oportunidades no CRM?
-Resposta: Após o Agente, adicione nodes para Pipedrive/HubSpot com criação/atualização de deal e anexe chat\_id e origem WhatsApp.
+Resposta: Após o Agente, adicione nodes para Pipedrive/HubSpot com criaçêo/atualizaçêo de deal e anexe chat\_id e origem WhatsApp.
 
 # 15) Checklist final
 
@@ -147,7 +147,7 @@ Data: 2025-09-09T22:15:38+00:00
 Texto:
 Aqui vai o passo a passo reestruturado, enxuto e acionável para montar o agente de vendas/suporte no WhatsApp com n8n + Unipile, sem API da Meta.
 
-# 0) Visão geral do fluxo
+# 0) Visêo geral do fluxo
 
 WhatsApp → Unipile (Webhook) → n8n (Webhook) → Set (mapa de campos) → Agente de IA com memória → \[Google Calendar opcional] → Unipile (envio de resposta ao WhatsApp)
 
@@ -162,7 +162,7 @@ WhatsApp → Unipile (Webhook) → n8n (Webhook) → Set (mapa de campos) → Ag
 Exemplo de conferência rápida
 • Unipile: consegue ler QR e listar contas conectadas
 • n8n: cria workflow vazio e adiciona um node Webhook
-• Google Calendar: abre a tela de permissão/credencial no n8n
+• Google Calendar: abre a tela de permissêo/credencial no n8n
 
 # 2) Conectar o WhatsApp no Unipile
 
@@ -179,7 +179,7 @@ Boas práticas
 • HTTP Method: POST
 • Path: /whatsapp-in
 • Copie a Production URL (vai no Unipile no próximo passo)
-3.2 Deixe o workflow salvo e pronto para execução (ativado ou executando manualmente para testes)
+3.2 Deixe o workflow salvo e pronto para execuçêo (ativado ou executando manualmente para testes)
 
 # 4) Criar o Webhook no Unipile (evento: nova mensagem)
 
@@ -188,7 +188,7 @@ Boas práticas
 • Callback URL: cole a Production URL do Webhook do n8n
 4.2 Salve e teste enviando uma mensagem para seu próprio WhatsApp; verifique no n8n o JSON chegando
 
-Dica de inspeção do payload no n8n
+Dica de inspeçêo do payload no n8n
 Procure campos como:
 • data.text  → texto da mensagem
 • data.chat\_id  → identificador do chat
@@ -207,23 +207,23 @@ Ative Keep Only Set (se quiser limpar o payload)
 
 6.1 Adicione um node de Chat/Agent
 • Modelo: um rápido e barato para atendimento (ex.: gpt-4o-mini)
-• Memória: ligue a memória por sessão
+• Memória: ligue a memória por sessêo
 – Session Key: defina “below” e use {{\$json.chat\_id}}
 6.2 Entrada do agente
 • Mensagem do usuário: {{\$json.message\_text}}
 6.3 Prompt de sistema sugerido
-Você é o agente de WhatsApp da \[SUA\_EMPRESA]. Seja claro, cordial e objetivo. Responda dúvidas e, quando fizer sentido, ofereça uma chamada de 15 minutos. Se o cliente aceitar, peça e-mail e melhor horário. Se disponível, use a ferramenta Calendar para criar o evento. Mantenha o contexto por conversa (chat\_id). Não prometa o que não pode cumprir.
+Você é o agente de WhatsApp da \[SUA\_EMPRESA]. Seja claro, cordial e objetivo. Responda dúvidas e, quando fizer sentido, ofereça uma chamada de 15 minutos. Se o cliente aceitar, peça e-mail e melhor horário. Se disponível, use a ferramenta Calendar para criar o evento. Mantenha o contexto por conversa (chat\_id). Nêo prometa o que nêo pode cumprir.
 6.4 Realismo opcional
 • Antes do envio da resposta, adicione Wait com atraso aleatório (10–60s)
 
 # 7) Agendamento opcional com Google Calendar
 
-Opção A: tool calling do agente
+Opçêo A: tool calling do agente
 • Conecte o node Google Calendar: Create Event
 • Dê acesso ao agente como ferramenta
 • Campos mínimos: summary, start, end, attendees (e-mail do cliente)
-Opção B: intenção + roteamento
-• Agente retorna intenção “criar\_evento” com data/hora/e-mail
+Opçêo B: intençêo + roteamento
+• Agente retorna intençêo “criar\_evento” com data/hora/e-mail
 • Um IF/Switch aciona o node Create Event e depois prossegue para o envio de resposta
 
 # 8) Enviar a resposta ao WhatsApp via Unipile (HTTP Request)
@@ -232,7 +232,7 @@ Opção B: intenção + roteamento
 8.2 No n8n, adicione HTTP Request após o Agente (ou após Calendar)
 • Method: POST
 • URL: endpoint de enviar mensagem do Unipile para WhatsApp
-– Exemplo ilustrativo, ajuste conforme a documentação do Unipile:
+– Exemplo ilustrativo, ajuste conforme a documentaçêo do Unipile:
 
 ```https://api.unipile.com/v1/whatsapp/messages```
 
@@ -271,12 +271,12 @@ O criador mostra como montar um agente de vendas e suporte totalmente automatiza
 
 O processo:
 
-1. Configuração simples no Unipile com um número novo ou WhatsApp Business.
-2. Criação de um webhook que recebe mensagens do WhatsApp.
-3. Integração no n8n para processar mensagens e usar IA (ex: GPT-4 mini).
-4. Adição de memória para manter o contexto das conversas.
-5. Definição de prompt para que o agente seja útil, amigável e com objetivo de marcar reuniões de vendas.
-6. Integração com Google Calendar para agendar automaticamente chamadas de descoberta de 15 minutos.
+1. Configuraçêo simples no Unipile com um número novo ou WhatsApp Business.
+2. Criaçêo de um webhook que recebe mensagens do WhatsApp.
+3. Integraçêo no n8n para processar mensagens e usar IA (ex: GPT-4 mini).
+4. Adiçêo de memória para manter o contexto das conversas.
+5. Definiçêo de prompt para que o agente seja útil, amigável e com objetivo de marcar reuniões de vendas.
+6. Integraçêo com Google Calendar para agendar automaticamente chamadas de descoberta de 15 minutos.
 7. Envio das respostas de volta ao WhatsApp, em tempo real.
 
 Pontos-chave:
@@ -284,7 +284,7 @@ Pontos-chave:
 * WhatsApp tem taxa de abertura de 98%, excelente para vendas.
 * O agente pode responder dúvidas, acessar bancos de dados, planilhas, calendários e automatizar processos.
 * Funciona como um sistema de vendas ativo, lembrando o histórico do cliente e sendo proativo.
-* Configuração rápida: basta importar o JSON pronto e adaptar.
+* Configuraçêo rápida: basta importar o JSON pronto e adaptar.
 * Resultado: um sistema que responde, agenda e faz vendas sozinho, colocando a empresa à frente de 99% dos concorrentes.
 
 ------------------------------
@@ -349,7 +349,7 @@ Neste vídeo...
 ❌ Sem precisar da Meta
 🔥 98% de taxa de abertura
 
-A melhor parte é que você não precisa de nenhuma API da Meta.
+A melhor parte é que você nêo precisa de nenhuma API da Meta.
 Depois que você estiver familiarizado com essa plataforma, também poderá aplicar isso em MUITAS outras.
 Eu deixei o processo o mais SIMPLES possível.😆
 

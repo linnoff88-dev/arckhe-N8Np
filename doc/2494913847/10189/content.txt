@@ -69,12 +69,12 @@ Alguns **"hacks" ou dicas práticas** para facilitar e acelerar o processo de ex
 
 5. **Evita erro comum no Docker**
 
-   * Se não conseguir derrubar o container com `docker compose down` (por travamento), o autor tenta diretamente `docker compose up -d`, que costuma contornar o erro de recurso travado.
+   * Se nêo conseguir derrubar o container com `docker compose down` (por travamento), o autor tenta diretamente `docker compose up -d`, que costuma contornar o erro de recurso travado.
 
 6. **Usar LLM para comandos do terminal**
 
-   * Se não domina comandos Linux ou terminal, então **usa ChatGPT para gerar comandos com base nos diretórios**.
-   * *Hack*: Você não precisa saber Docker ou terminal — só dar o contexto certo ao GPT.
+   * Se nêo domina comandos Linux ou terminal, entêo **usa ChatGPT para gerar comandos com base nos diretórios**.
+   * *Hack*: Você nêo precisa saber Docker ou terminal — só dar o contexto certo ao GPT.
 
 7. **Acesso remoto instantâneo**
 
@@ -137,7 +137,7 @@ cloudflared tunnel create n8n-tunnel```
 
   * **Subdomínio**: `n8n`
   * **Domínio**: `meusite.com`
-  * **Destino local**: `http://localhost:5678` (porta padrão do n8n)
+  * **Destino local**: `http://localhost:5678` (porta padrêo do n8n)
 
 Agora seu n8n estará acessível em:
 
@@ -219,17 +219,17 @@ Este tutorial ensina como tornar uma instância local do n8n acessível publicam
 1. **Criar conta no Cloudflare**
 
    * Adquirir ou conectar um domínio próprio.
-   * A recomendação é usar domínio próprio em vez de soluções temporárias como o ngrok.
+   * A recomendaçêo é usar domínio próprio em vez de soluções temporárias como o ngrok.
 
 2. **Configurar o Tunnel no Cloudflare**
 
-   * Acessar a seção Zero Trust > Networks > Tunnels.
+   * Acessar a seçêo Zero Trust > Networks > Tunnels.
    * Criar um novo túnel com um nome e instalar o conector local (escolhendo o sistema operacional).
    * Verificar que o túnel está ativo ("healthy").
 
 3. **Vincular o domínio ao túnel**
 
-   * Criar um nome público (ex: `n8n.seudominio.com`) apontando para `localhost:5678` (porta padrão do n8n).
+   * Criar um nome público (ex: `n8n.seudominio.com`) apontando para `localhost:5678` (porta padrêo do n8n).
    * Isso torna possível acessar o n8n de fora da rede local, como por celular ou outro computador.
 
 4. **Corrigir Webhook para serviços externos (como Telegram e Google)**
@@ -244,7 +244,7 @@ Este tutorial ensina como tornar uma instância local do n8n acessível publicam
        * `N8N_PROTOCOL=https`
      * Reiniciar o container Docker (`docker compose down` e `docker compose up -d`).
 
-5. **Validação final**
+5. **Validaçêo final**
 
    * A nova URL pública passa a ser usada nos webhooks.
    * Agora, é possível autenticar com Google, usar Telegram, etc.
@@ -256,16 +256,16 @@ Este tutorial ensina como tornar uma instância local do n8n acessível publicam
 * Registro e uso de domínio personalizado no Cloudflare
   *Exemplo: `retcp.org` usado para criar `n8n.retcp.org`*
 
-* Configuração do conector Cloudflare no Windows
-  *Exemplo: instalação via terminal e execução como serviço local*
+* Configuraçêo do conector Cloudflare no Windows
+  *Exemplo: instalaçêo via terminal e execuçêo como serviço local*
 
-* Integração com Docker e edição do `docker-compose`
-  *Exemplo: adição das variáveis `WEBHOOK_URL_BASE` e `N8N_PROTOCOL`*
+* Integraçêo com Docker e ediçêo do `docker-compose`
+  *Exemplo: adiçêo das variáveis `WEBHOOK_URL_BASE` e `N8N_PROTOCOL`*
 
 * Problemas comuns e soluções
   *Exemplo: container ocupado → reinício forçado com `docker compose up -d`*
 
-* Aplicação prática:
+* Aplicaçêo prática:
   *Agora o n8n pode ser integrado com Google Drive, Telegram e outros via webhooks reais.*
 
 ------------------------------

@@ -13,7 +13,7 @@ MENSAGEM 1
 Autor: INEMA
 Data: 2025-08-20T03:34:15+00:00
 Texto:
-Aqui estão **hacks práticos** que você pode aplicar com a nova **API da Gamma integrada ao n8n**, com foco em automações úteis, lead magnets e geração de apresentações com IA:
+Aqui estêo **hacks práticos** que você pode aplicar com a nova **API da Gamma integrada ao n8n**, com foco em automações úteis, lead magnets e geraçêo de apresentações com IA:
 
 ---
 
@@ -27,16 +27,16 @@ Aqui estão **hacks práticos** que você pode aplicar com a nova **API da Gamma
   Use n8n para:
 
   * Receber a resposta do formulário
-  * Enviar a descrição para um agente IA (Claude, OpenAI, etc.)
+  * Enviar a descriçêo para um agente IA (Claude, OpenAI, etc.)
   * Estruturar o prompt e gerar JSON
   * Enviar para a API da Gamma
-  * Aguardar o PDF com a apresentação
+  * Aguardar o PDF com a apresentaçêo
   * Enviar por e-mail para o lead
 
-#### 2. **Criação em massa de apresentações**
+#### 2. **Criaçêo em massa de apresentações**
 
 * **Como funciona:**
-  Tenha uma planilha com temas (ex: “IA para gastronomia”, “IA para educação”, etc.)
+  Tenha uma planilha com temas (ex: “IA para gastronomia”, “IA para educaçêo”, etc.)
 * **Hack:**
   Configure o n8n para:
 
@@ -48,27 +48,27 @@ Aqui estão **hacks práticos** que você pode aplicar com a nova **API da Gamma
 #### 3. **Chatbot que entrega apresentações**
 
 * **Como funciona:**
-  Um chatbot (Telegram, WhatsApp via Twilio, ou webchat) onde o usuário escreve um tema e recebe a apresentação.
+  Um chatbot (Telegram, WhatsApp via Twilio, ou webchat) onde o usuário escreve um tema e recebe a apresentaçêo.
 * **Hack:**
 
   * Integre com o n8n
   * Encaminhe o texto do usuário para a API da Gamma
-  * Gere e envie o link da apresentação final
+  * Gere e envie o link da apresentaçêo final
 
 #### 4. **Gatilho por e-mail**
 
 * **Como funciona:**
-  Quando alguém mandar um e-mail com o assunto “crie apresentação sobre X”, o sistema gera e devolve.
+  Quando alguém mandar um e-mail com o assunto “crie apresentaçêo sobre X”, o sistema gera e devolve.
 * **Hack:**
 
   * Use Gmail Watcher no n8n
   * Pegue o assunto do e-mail e envie ao agente
-  * Gere apresentação e responda ao e-mail com o link para download
+  * Gere apresentaçêo e responda ao e-mail com o link para download
 
 #### 5. **Venda de apresentações automáticas (produtos digitais)**
 
 * **Como funciona:**
-  Compre e receba um link exclusivo com uma apresentação personalizada.
+  Compre e receba um link exclusivo com uma apresentaçêo personalizada.
 * **Hack:**
 
   * Integre Hotmart, Gumroad ou Stripe ao n8n
@@ -79,10 +79,10 @@ Aqui estão **hacks práticos** que você pode aplicar com a nova **API da Gamma
 
 ### 💡 DICAS AVANÇADAS
 
-* **Acelere a criação:** Use o `wait/polling` de forma otimizada (comece com 100s, repita se necessário).
+* **Acelere a criaçêo:** Use o `wait/polling` de forma otimizada (comece com 100s, repita se necessário).
 * **Evite erros de parsing:** Limpe os caracteres especiais antes de enviar para a Gamma.
 * **Modelos de IA recomendados:** Claude 3 Haiku ou GPT-4 Turbo para transformar o texto em JSON limpo.
-* **Validação:** Adicione uma etapa de validação para checar se o JSON retornado está dentro do schema exigido pela Gamma.
+* **Validaçêo:** Adicione uma etapa de validaçêo para checar se o JSON retornado está dentro do schema exigido pela Gamma.
 
 ---
 
@@ -102,7 +102,7 @@ Data: 2025-08-20T03:33:17+00:00
 Texto:
 **A nova API do Gamma com n8n:**
 
-**Gamma (empresa de apresentações com IA)** finalmente lançou sua **API oficial**, algo inédito até então, e considera isso um grande avanço que está sendo ignorado por outros criadores.
+**Gamma (empresa de apresentações com IA)** finalmente lançou sua **API oficial**, algo inédito até entêo, e considera isso um grande avanço que está sendo ignorado por outros criadores.
 
 ### Pontos principais:
 
@@ -112,11 +112,11 @@ Texto:
 
 * **Fluxo de trabalho criado no n8n:**
 
-  1. O usuário envia um pedido vago como: “Faça uma apresentação sobre IA na caligrafia.”
-  2. Um agente de IA transforma essa solicitação em um **JSON estruturado**.
+  1. O usuário envia um pedido vago como: “Faça uma apresentaçêo sobre IA na caligrafia.”
+  2. Um agente de IA transforma essa solicitaçêo em um **JSON estruturado**.
   3. O JSON é enviado para a API da Gamma.
   4. O sistema espera cerca de **3 a 4 minutos** (configurado para 180 segundos).
-  5. Após resposta via webhook com status de "completado", o link da apresentação é retornado.
+  5. Após resposta via webhook com status de "completado", o link da apresentaçêo é retornado.
 
 * **Prompt do agente de IA:**
 
@@ -127,19 +127,19 @@ Texto:
 
 * **Resultado:**
 
-  * Apresentações visuais completas são geradas mesmo com prompts ruins.
+  * Apresentações visuais completas sêo geradas mesmo com prompts ruins.
   * Dá para criar **lead magnets** com auditorias de IA automáticas.
-  * Exportação disponível em **PDF ou PowerPoint**.
+  * Exportaçêo disponível em **PDF ou PowerPoint**.
 
-* **Manipulação possível via API:**
+* **Manipulaçêo possível via API:**
 
   * Temas
-  * Separação de cartões (slides)
+  * Separaçêo de cartões (slides)
   * Instruções extras
-  * Formato de exportação
-  * Inserção de imagens
+  * Formato de exportaçêo
+  * Inserçêo de imagens
 
-* **Conclusão:**
+* **Conclusêo:**
 
   * A API está no começo, mas já é extremamente poderosa.
   * O criador irá disponibilizar o **JSON do workflow**.
@@ -166,19 +166,19 @@ A Gamma (a empresa de apresentações com IA) FINALMENTE lançou sua API, e esto
 
 Veja o que agora é possível:
 
-→ Solicitação via chat → agente de IA estrutura a informação
+→ Solicitaçêo via chat → agente de IA estrutura a informaçêo
 → envia para a API da Gamma
-→ espera a finalização (3-4 minutos)
-→ retorna uma apresentação completa com visuais
+→ espera a finalizaçêo (3-4 minutos)
+→ retorna uma apresentaçêo completa com visuais
 → pode exportar como PDF ou PowerPoint
 
-Eu criei um fluxo de trabalho simples no n8n que transforma “faça uma apresentação sobre IA na caligrafia” em um slide completo com imagens.
+Eu criei um fluxo de trabalho simples no n8n que transforma “faça uma apresentaçêo sobre IA na caligrafia” em um slide completo com imagens.
 
 **O verdadeiro poder:** agora você pode criar iscas digitais (lead magnets), onde os visitantes recebem apresentações de auditoria geradas por IA para o negócio deles instantaneamente.
 
 Disponível apenas no Gamma Pro – obtenha sua chave da API nas configurações da sua conta.
 
-Você pode manipular temas, divisão de slides, formatos de exportação e muito mais – a documentação é boa, mas ainda está no início.
+Você pode manipular temas, divisêo de slides, formatos de exportaçêo e muito mais – a documentaçêo é boa, mas ainda está no início.
 
 Estou compartilhando meu JSON de workflow para que você possa construir em cima dele – isso abre casos de uso que antes estavam totalmente fechados.
 

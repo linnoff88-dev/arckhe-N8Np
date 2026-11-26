@@ -1,6 +1,6 @@
 # 📚 N8Np Documentation Site
 
-Site de documentação gerado automaticamente com **MkDocs Material** para a biblioteca de workflows n8n.
+Site de documentaçêo gerado automaticamente com **MkDocs Material** para a biblioteca de workflows n8n.
 
 ## 🚀 Como Usar
 
@@ -20,7 +20,7 @@ cd n8np-docs
 mkdocs build
 ```
 
-Os arquivos HTML serão gerados em `site/`
+Os arquivos HTML serêo gerados em `site/`
 
 ## 📤 Deploy
 
@@ -69,7 +69,7 @@ Isso irá:
 
 ```
 n8np-docs/
-├── mkdocs.yml          # Configuração do MkDocs
+├── mkdocs.yml          # Configuraçêo do MkDocs
 ├── docs/               # Conteúdo markdown
 │   ├── index.md       # Página inicial
 │   ├── workflows/     # Categorias de workflows
@@ -79,7 +79,7 @@ n8np-docs/
 └── site/              # Site gerado (após build)
 ```
 
-## ⚙️ Personalização
+## ⚙️ Personalizaçêo
 
 ### Alterar Tema
 
@@ -95,7 +95,7 @@ theme:
 ### Adicionar Páginas
 
 1. Crie arquivo `.md` em `docs/`
-2. Adicione à navegação em `mkdocs.yml`:
+2. Adicione à navegaçêo em `mkdocs.yml`:
 
 ```yaml
 nav:
@@ -121,7 +121,7 @@ A busca funciona automaticamente em:
 
 - [MkDocs](https://www.mkdocs.org/) - Gerador de sites
 - [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) - Tema profissional
-- Python 3.13+ - Script de geração
+- Python 3.13+ - Script de geraçêo
 
 ## 📝 License
 

@@ -13,7 +13,7 @@ MENSAGEM 1
 Autor: INEMA
 Data: 2025-08-08T15:07:00+00:00
 Texto:
-Aqui estão **10 hacks avançados e práticos** para elevar o **tratamento de erros no n8n** ao nível de produção robusta, com foco em inteligência, automação e rastreabilidade — além das 5 técnicas padrão.
+Aqui estêo **10 hacks avançados e práticos** para elevar o **tratamento de erros no n8n** ao nível de produçêo robusta, com foco em inteligência, automaçêo e rastreabilidade — além das 5 técnicas padrêo.
 
 ---
 
@@ -23,7 +23,7 @@ Aqui estão **10 hacks avançados e práticos** para elevar o **tratamento de er
 
   ```  {{Math.pow(2, $json.retryCount) * 1000}} // 1s, 2s, 4s, 8s...
   ```
-* **Aplicação:** Reduz chamadas desnecessárias em serviços temporariamente fora.
+* **Aplicaçêo:** Reduz chamadas desnecessárias em serviços temporariamente fora.
 
 ---
 
@@ -42,7 +42,7 @@ Aqui estão **10 hacks avançados e práticos** para elevar o **tratamento de er
 
 ### 🛰️ 3. **Alertas via Telegram + resumo do erro**
 
-* Combine Error Trigger → Telegram com formatação:
+* Combine Error Trigger → Telegram com formataçêo:
 
   ```  *Erro detectado!*
   Workflow: {{$workflow.name}}
@@ -72,7 +72,7 @@ Aqui estão **10 hacks avançados e práticos** para elevar o **tratamento de er
 
 ---
 
-### 🔍 6. **Inspeção visual com console.log e dados do erro**
+### 🔍 6. **Inspeçêo visual com console.log e dados do erro**
 
 * No **nó de Código**, insira:
 
@@ -83,14 +83,14 @@ Aqui estão **10 hacks avançados e práticos** para elevar o **tratamento de er
 
 ---
 
-### 🔐 7. **Não confiar em credenciais externas: sempre validar antes**
+### 🔐 7. **Nêo confiar em credenciais externas: sempre validar antes**
 
-* Adicione um passo `test API Key` com chamada de validação.
+* Adicione um passo `test API Key` com chamada de validaçêo.
 * Use **IF** para garantir que o token está válido antes de continuar.
 
 ---
 
-### 🚦 8. **Filtragem preventiva com validação de dados**
+### 🚦 8. **Filtragem preventiva com validaçêo de dados**
 
 * Use **IF Node** antes de chamadas críticas:
 
@@ -114,7 +114,7 @@ Aqui estão **10 hacks avançados e práticos** para elevar o **tratamento de er
   * Crie uma mensagem personalizada para falhas.
   * Exemplo:
 
-    > “Estamos com instabilidade momentânea. Sua solicitação foi registrada e será concluída em breve.”
+    > “Estamos com instabilidade momentânea. Sua solicitaçêo foi registrada e será concluída em breve.”
 
 ---
 
@@ -140,7 +140,7 @@ MENSAGEM 4
 Autor: INEMA
 Data: 2025-08-08T15:05:29+00:00
 Texto:
-Aqui está o **passo a passo prático das 5 técnicas de tratamento de erros no n8n para produção**, baseado no vídeo analisado. Cada técnica inclui o que fazer, onde clicar e como configurar na interface do n8n.
+Aqui está o **passo a passo prático das 5 técnicas de tratamento de erros no n8n para produçêo**, baseado no vídeo analisado. Cada técnica inclui o que fazer, onde clicar e como configurar na interface do n8n.
 
 ---
 
@@ -152,18 +152,18 @@ Aqui está o **passo a passo prático das 5 técnicas de tratamento de erros no 
 
 1. Crie um novo workflow e chame de **"Error Handler"**.
 2. Adicione o nó **Error Trigger**.
-3. Conecte o nó a um nó de ação, como:
+3. Conecte o nó a um nó de açêo, como:
 
    * **Email** → para enviar alerta
-   * **Telegram** → para notificação imediata
+   * **Telegram** → para notificaçêo imediata
    * **Set + HTTP Request** → para log personalizado
-4. Vá em **outros workflows ativos**, clique no botão **“Execute Workflow”** e selecione **“On Error” → este Error Workflow**.
+4. Vá em **outros workflows ativos**, clique no botêo **“Execute Workflow”** e selecione **“On Error” → este Error Workflow**.
 
 > Isso garante que qualquer erro nesses fluxos seja enviado automaticamente para esse manipulador.
 
 ---
 
-## **2. Retry on Fail (Repetição Automática de Tentativas)**
+## **2. Retry on Fail (Repetiçêo Automática de Tentativas)**
 
 ### Objetivo: Repetir automaticamente em caso de falha.
 
@@ -171,7 +171,7 @@ Aqui está o **passo a passo prático das 5 técnicas de tratamento de erros no 
 
 1. Clique no nó que pode falhar (ex: **HTTP Request**, **AI Agent**, etc).
 2. Vá em **Settings (ícone de engrenagem)** no canto superior direito.
-3. Ative a opção **“Retry on Fail”**.
+3. Ative a opçêo **“Retry on Fail”**.
 4. Configure:
 
    * **Max Tries**: número máximo de tentativas (ex: `3`)
@@ -189,11 +189,11 @@ Aqui está o **passo a passo prático das 5 técnicas de tratamento de erros no 
 
 1. No nó do agente de IA (ex: AI Agent com OpenRouter ou OpenAI):
 2. Vá em **Settings** e ative **Retry on Fail** com tentativas (ex: 3).
-3. Em seguida, ative a opção **“Fallback Model”**.
+3. Em seguida, ative a opçêo **“Fallback Model”**.
 4. Conecte um modelo alternativo, como **Google Gemini**.
 5. Pronto! Quando o primeiro modelo falhar, o segundo será usado automaticamente.
 
-> Requer versão do n8n **v1.101+**.
+> Requer versêo do n8n **v1.101+**.
 
 ---
 
@@ -205,7 +205,7 @@ Aqui está o **passo a passo prático das 5 técnicas de tratamento de erros no 
 
 1. No nó que pode falhar (ex: HTTP Request):
 2. Vá em **Settings**.
-3. Altere a opção **On Error** de `Stop` para **`Continue`**.
+3. Altere a opçêo **On Error** de `Stop` para **`Continue`**.
 
 ### Etapas (com ramificações):
 
@@ -217,27 +217,27 @@ Aqui está o **passo a passo prático das 5 técnicas de tratamento de erros no 
 3. Conecte cada uma para:
 
    * Sucesso → próxima etapa do fluxo
-   * Erro → log, notificação ou outro tratamento
+   * Erro → log, notificaçêo ou outro tratamento
 
 > Ideal para processamento em massa (ex: lista de e-mails, scraping, IA).
 
 ---
 
-## **5. Polling (Verificação até Concluir)**
+## **5. Polling (Verificaçêo até Concluir)**
 
 ### Objetivo: Esperar até que uma tarefa externa seja concluída antes de seguir.
 
 ### Etapas:
 
-1. Envie a requisição inicial (ex: POST para gerar imagem via API).
+1. Envie a requisiçêo inicial (ex: POST para gerar imagem via API).
 2. Armazene o **task ID ou job ID** retornado.
 3. Use um nó **Wait** (ex: 10s).
 4. Use outro **HTTP Request** para consultar o status com o task ID.
 5. Adicione um **If Node**:
 
-   * Condição: `status == "completed"`
+   * Condiçêo: `status == "completed"`
    * **True Branch**: continua fluxo
-   * **False Branch**: volta para o Wait → repete a verificação (loop)
+   * **False Branch**: volta para o Wait → repete a verificaçêo (loop)
 
 > Resultado: o fluxo só continua quando a tarefa estiver realmente pronta.
 
@@ -250,7 +250,7 @@ Aqui está o **passo a passo prático das 5 técnicas de tratamento de erros no 
 ### Etapas:
 
 1. Antes de enviar dados a uma API, adicione um **nó “Set”**.
-2. Use uma **expressão** no campo a ser enviado para limpar caracteres problemáticos:
+2. Use uma **expressêo** no campo a ser enviado para limpar caracteres problemáticos:
 
    ```   {{$json.text.replaceAll('"', '')}}
    ```
@@ -282,15 +282,15 @@ MENSAGEM 7
 Autor: INEMA
 Data: 2025-08-08T15:03:18+00:00
 Texto:
-Com base no vídeo "[5 Must-Know Error Handling Techniques for Production n8n Workflows](https://www.youtube.com/watch?v=Irk4-DO5qgM)", segue um **resumo completo com explicações aprofundadas e exemplos práticos das 5 técnicas essenciais de tratamento de erros no n8n para produção**:
+Com base no vídeo "[5 Must-Know Error Handling Techniques for Production n8n Workflows](https://www.youtube.com/watch?v=Irk4-DO5qgM)", segue um **resumo completo com explicações aprofundadas e exemplos práticos das 5 técnicas essenciais de tratamento de erros no n8n para produçêo**:
 
 ---
 
 ### **Resumo geral do vídeo**
 
-Tratar erros em fluxos de produção no n8n não é opcional — é essencial. O criador do vídeo compartilha **cinco técnicas indispensáveis** para tornar seus workflows resilientes, confiáveis e prontos para rodar sem supervisão constante.
+Tratar erros em fluxos de produçêo no n8n nêo é opcional — é essencial. O criador do vídeo compartilha **cinco técnicas indispensáveis** para tornar seus workflows resilientes, confiáveis e prontos para rodar sem supervisêo constante.
 
-Essas práticas cobrem desde falhas em requisições até estratégias de fallback, retries automáticos, polling e guardrails preventivos. São aplicáveis tanto para automações simples quanto complexas.
+Essas práticas cobrem desde falhas em requisições até estratégias de fallback, retries automáticos, polling e guardrails preventivos. Sêo aplicáveis tanto para automações simples quanto complexas.
 
 ---
 
@@ -300,8 +300,8 @@ Essas práticas cobrem desde falhas em requisições até estratégias de fallba
 
 * **O que é:** Um *workflow dedicado* que captura erros de outros fluxos através do nó **Error Trigger**.
 * **Uso:** Conectar todos os fluxos ativos a um fluxo de erro centralizado.
-* **Exemplo:** Quando uma automação com Airtable falha por escopo expirado, um alerta é enviado com o erro específico.
-* **Vantagem:** Você sabe imediatamente o que falhou, onde e por quê — sem precisar abrir cada execução individual.
+* **Exemplo:** Quando uma automaçêo com Airtable falha por escopo expirado, um alerta é enviado com o erro específico.
+* **Vantagem:** Você sabe imediatamente o que falhou, onde e por quê — sem precisar abrir cada execuçêo individual.
 
 ---
 
@@ -323,19 +323,19 @@ Essas práticas cobrem desde falhas em requisições até estratégias de fallba
 * **O que é:** Definir um modelo alternativo ou lógica substituta caso a principal falhe.
 * **Como funciona:** Usando o **Fallback Model** (liberado a partir do n8n v1.101).
 * **Exemplo:** Se o **GPT 4.1 mini do OpenRouter** estiver indisponível, alternar automaticamente para o **Google Gemini**.
-* **Vantagem:** A automação continua funcionando mesmo quando o recurso principal está fora do ar.
+* **Vantagem:** A automaçêo continua funcionando mesmo quando o recurso principal está fora do ar.
 
 ---
 
 #### 4. **Continue on Error (Prosseguir mesmo com erro)**
 
 * **O que é:** Permitir que o fluxo continue mesmo se um item específico falhar.
-* **Configuração:** No nó > *Settings* > On Error > **Continue** ou **Continue with error output**.
-* **Exemplo:** Processamento de 1.000 itens. Se 1 falha, os outros 999 ainda serão processados.
+* **Configuraçêo:** No nó > *Settings* > On Error > **Continue** ou **Continue with error output**.
+* **Exemplo:** Processamento de 1.000 itens. Se 1 falha, os outros 999 ainda serêo processados.
 * **Extra:** Pode-se dividir o fluxo em duas saídas:
 
   * Sucesso → próximo nó
-  * Erro → ramificação separada (ex: logging ou e-mail)
+  * Erro → ramificaçêo separada (ex: logging ou e-mail)
 * **Vantagem:** Impede que uma única falha trave todo o processo.
 
 ---
@@ -345,20 +345,20 @@ Essas práticas cobrem desde falhas em requisições até estratégias de fallba
 * **O que é:** Técnica para aguardar um serviço externo concluir uma tarefa antes de prosseguir.
 * **Como fazer:**
 
-  * Fazer a requisição (ex: criar imagem com PI API)
-  * Loop de verificação de status: `status == "processing"` → aguarda e verifica de novo
+  * Fazer a requisiçêo (ex: criar imagem com PI API)
+  * Loop de verificaçêo de status: `status == "processing"` → aguarda e verifica de novo
   * Quando `status == "completed"`, seguir com o fluxo
-* **Exemplo:** Geração de imagem AI com retorno demorado.
-* **Vantagem:** Evita erro por tentar consumir o resultado antes dele estar pronto. Substitui esperas arbitrárias com verificação real de prontidão.
+* **Exemplo:** Geraçêo de imagem AI com retorno demorado.
+* **Vantagem:** Evita erro por tentar consumir o resultado antes dele estar pronto. Substitui esperas arbitrárias com verificaçêo real de prontidêo.
 
 ---
 
 ### **Extra: Guardrails (Barreiras preventivas)**
 
-* **O que é:** Prevenção de erros antes que eles aconteçam, com base em padrões de falhas anteriores.
-* **Exemplo prático:** Substituir aspas duplas no corpo de uma requisição JSON para evitar falhas em APIs como Tavily.
-* **Como fazer:** Usar expressão como `replaceAll(text, '"', '')`.
-* **Vantagem:** Evita erros previsíveis antes que causem problemas em produção.
+* **O que é:** Prevençêo de erros antes que eles aconteçam, com base em padrões de falhas anteriores.
+* **Exemplo prático:** Substituir aspas duplas no corpo de uma requisiçêo JSON para evitar falhas em APIs como Tavily.
+* **Como fazer:** Usar expressêo como `replaceAll(text, '"', '')`.
+* **Vantagem:** Evita erros previsíveis antes que causem problemas em produçêo.
 
 ---
 Midia: MessageMediaWebPage
@@ -377,7 +377,7 @@ MENSAGEM 9
 Autor: INEMA
 Data: 2025-08-08T14:50:21+00:00
 Texto:
-Se você quer que seus fluxos no **n8n** estejam prontos para produção, é essencial dominar **cinco técnicas de tratamento de erros** que garantem estabilidade e confiabilidade. Esse vídeo mostra **como evitar falhas silenciosas**, **recuperar processos automaticamente** e **ser alertado na hora certa**, mesmo quando você não está monitorando tudo. Automatizações mal protegidas podem causar perda de dados, tarefas não executadas ou ações duplicadas — e essas técnicas foram pensadas justamente para **evitar esse tipo de caos**.
+Se você quer que seus fluxos no **n8n** estejam prontos para produçêo, é essencial dominar **cinco técnicas de tratamento de erros** que garantem estabilidade e confiabilidade. Esse vídeo mostra **como evitar falhas silenciosas**, **recuperar processos automaticamente** e **ser alertado na hora certa**, mesmo quando você nêo está monitorando tudo. Automatizações mal protegidas podem causar perda de dados, tarefas nêo executadas ou ações duplicadas — e essas técnicas foram pensadas justamente para **evitar esse tipo de caos**.
 
 ---
 
@@ -386,14 +386,14 @@ Se você quer que seus fluxos no **n8n** estejam prontos para produção, é ess
 1. **Notificações Inteligentes**
 
    * **O que é:** Alertas automáticos por Telegram, Slack, e-mail ou Webhook quando algo dá errado.
-   * **Exemplo:** Um nó de erro envia a mensagem: "Erro no cenário de integração com o CRM".
+   * **Exemplo:** Um nó de erro envia a mensagem: "Erro no cenário de integraçêo com o CRM".
    * **Resposta esperada:** O operador recebe a mensagem e investiga imediatamente.
 
 2. **Retry Automático com Delay**
 
-   * **O que é:** Repetir a execução de um nó após um tempo, caso ele falhe (útil para falhas temporárias).
+   * **O que é:** Repetir a execuçêo de um nó após um tempo, caso ele falhe (útil para falhas temporárias).
    * **Exemplo:** Ao falhar ao chamar uma API externa, o n8n aguarda 30 segundos e tenta novamente até 3 vezes.
-   * **Resposta esperada:** O erro temporário é resolvido sozinho, sem necessidade de intervenção manual.
+   * **Resposta esperada:** O erro temporário é resolvido sozinho, sem necessidade de intervençêo manual.
 
 3. **Uso do Nó “Error Trigger”**
 
@@ -403,19 +403,19 @@ Se você quer que seus fluxos no **n8n** estejam prontos para produção, é ess
 
 4. **Guardrails com If + Try/Catch (em lógica visual)**
 
-   * **O que é:** Adicionar camadas de verificação e caminhos alternativos para evitar que falhas quebrem o fluxo inteiro.
-   * **Exemplo:** Se a resposta da API não tiver o campo esperado, o fluxo segue um caminho “seguro”.
+   * **O que é:** Adicionar camadas de verificaçêo e caminhos alternativos para evitar que falhas quebrem o fluxo inteiro.
+   * **Exemplo:** Se a resposta da API nêo tiver o campo esperado, o fluxo segue um caminho “seguro”.
    * **Resposta esperada:** Fluxos continuam funcionando mesmo com entradas inesperadas.
 
 5. **Fallbacks e Rotas Alternativas**
 
    * **O que é:** Definir caminhos de emergência quando um serviço principal falha.
-   * **Exemplo:** Se o envio via WhatsApp não funcionar, envia por e-mail.
-   * **Resposta esperada:** A ação principal pode falhar, mas o usuário ainda recebe uma resposta.
+   * **Exemplo:** Se o envio via WhatsApp nêo funcionar, envia por e-mail.
+   * **Resposta esperada:** A açêo principal pode falhar, mas o usuário ainda recebe uma resposta.
 
 ---
 
-Essas práticas transformam um fluxo instável em um **sistema profissional**, digno de produção. Elas **evitam dores de cabeça**, **aumentam a confiança no sistema** e permitem escalar suas automações com segurança.
+Essas práticas transformam um fluxo instável em um **sistema profissional**, digno de produçêo. Elas **evitam dores de cabeça**, **aumentam a confiança no sistema** e permitem escalar suas automações com segurança.
 
 ------------------------------
 

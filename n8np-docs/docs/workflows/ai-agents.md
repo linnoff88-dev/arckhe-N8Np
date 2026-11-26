@@ -43,7 +43,7 @@ Total de workflows: **198**
     - `n8n-nodes-base.supabase`
     - `n8n-nodes-base.webhook`
 
-### Agente Captação de Proprietários
+### Agente Captaçêo de Proprietários
 
 - **Nodes:** 15
 - **Integrações:** Supabase
@@ -92,7 +92,7 @@ Total de workflows: **198**
     - `n8n-nodes-base.supabase`
     - `n8n-nodes-base.webhook`
 
-### Integração E-mail IMAP/SMTP
+### Integraçêo E-mail IMAP/SMTP
 
 - **Nodes:** 17
 - **Integrações:** Supabase
@@ -1676,7 +1676,7 @@ Total de workflows: **198**
 
 ## Tópico 3195
 
-### e7gmail - Faturação ativo PIX
+### e7gmail - Faturaçêo ativo PIX
 
 - **Nodes:** 46
 - **Integrações:** Gmail, Google, OpenAI/LangChain

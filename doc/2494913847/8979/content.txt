@@ -34,7 +34,7 @@ Crie uma base chamada `Registro e Gastos` com a tabela `Projetos` contendo os se
 * `Ações`
 * `Tokens`
 * `Custo Total`
-* `Nome da Automação`
+* `Nome da Automaçêo`
 * `Subagente` (opcional)
 
 ---
@@ -48,7 +48,7 @@ Crie uma base chamada `Registro e Gastos` com a tabela `Projetos` contendo os se
 
 ### 4. **Adicionar módulo de código (Function Node)**
 
-* Adicione um nó **Function** após a execução do agente
+* Adicione um nó **Function** após a execuçêo do agente
 * Use `JSON.stringify` para transformar os dados:
 
 ```return [{
@@ -81,14 +81,14 @@ Crie uma base chamada `Registro e Gastos` com a tabela `Projetos` contendo os se
 | Ações             | `actions`             |
 | Tokens            | `tokens`              |
 | Custo Total       | `custo`               |
-| Nome da Automação | `nomeAutomacao`       |
+| Nome da Automaçêo | `nomeAutomacao`       |
 
 ---
 
 ### 6. **Tratamento de erros**
 
-* No nó do agente, ative a opção **Continue on Fail = TRUE**
-* Crie uma rota de erro (via conexão inferior do nó) e duplique o Function + Create Record
+* No nó do agente, ative a opçêo **Continue on Fail = TRUE**
+* Crie uma rota de erro (via conexêo inferior do nó) e duplique o Function + Create Record
 * No Function de erro, use `output = "Erro"` e registre `mensagem de erro` do agente
 
 ---
@@ -129,7 +129,7 @@ Texto:
 Sistema completo para rastrear gastos e ações de agentes de IA com Airtable**
 
 **Objetivo principal:**
-Criar um sistema de rastreamento que registre automaticamente cada interação de um agente de IA, incluindo: input, output, erros, ações executadas, tokens consumidos e custo por execução — tudo salvo no **Airtable** (ou Google Sheets).
+Criar um sistema de rastreamento que registre automaticamente cada interaçêo de um agente de IA, incluindo: input, output, erros, ações executadas, tokens consumidos e custo por execuçêo — tudo salvo no **Airtable** (ou Google Sheets).
 
 ---
 
@@ -137,31 +137,31 @@ Criar um sistema de rastreamento que registre automaticamente cada interação d
 
 1. **Módulos essenciais configurados no agente (n8n):**
 
-   * Ativação da opção **Return Intermediate Steps**.
+   * Ativaçêo da opçêo **Return Intermediate Steps**.
    * Captura de input/output, erros, ferramentas utilizadas, tokens e custo.
 
-2. **Transformação dos dados:**
+2. **Transformaçêo dos dados:**
 
    * Uso de `JSON.stringify` para transformar logs em texto estruturado.
-   * Criação de campos como: nome do projeto, data/hora, input, output, erros, ações, tokens, custo e nome da automação.
+   * Criaçêo de campos como: nome do projeto, data/hora, input, output, erros, ações, tokens, custo e nome da automaçêo.
 
 3. **Envio para Airtable:**
 
    * Mapeamento dos campos em um módulo “Create a Record”.
-   * Criação de visualizações por data, agente, subagente e custos.
+   * Criaçêo de visualizações por data, agente, subagente e custos.
 
 ---
 
 **Exemplos práticos demonstrados:**
 
-* Execução de agente simples com:
+* Execuçêo de agente simples com:
 
   * Busca de contato
-  * Criação de evento no calendário
-  * Criação de rascunho de e-mail
-* Execução de superagente com subagentes (ex: Gmail, Google Calendar)
+  * Criaçêo de evento no calendário
+  * Criaçêo de rascunho de e-mail
+* Execuçêo de superagente com subagentes (ex: Gmail, Google Calendar)
 
-  * Separação dos registros de gastos e erros por subagente
+  * Separaçêo dos registros de gastos e erros por subagente
   * Registro automático mesmo quando há erro (ex: modelo indisponível)
 
 ---
@@ -171,12 +171,12 @@ Criar um sistema de rastreamento que registre automaticamente cada interação d
 * Controle de gastos em projetos com IA
 * Prova de entregas para clientes
 * Diagnóstico de erros recorrentes
-* Otimização de uso de tokens e ferramentas
-* Visualizações personalizadas por data, automação ou agente
+* Otimizaçêo de uso de tokens e ferramentas
+* Visualizações personalizadas por data, automaçêo ou agente
 
 ---
 
-**Conclusão:**
+**Conclusêo:**
 
 * Ferramenta essencial para quem trabalha com automações e agentes de IA.
 * Fácil de replicar, personalizável e poderosa para quem quer transparência e controle.
@@ -207,11 +207,11 @@ Data: 2025-06-08T04:07:06+00:00
 Texto:
 💸 21. Controle os gastos dos seus agentes de IA
 
-Aprendemos a implementar um sistema que registra cada interação do seu agente de inteligência artificial, incluindo o input, o output, as ações realizadas, os tokens consumidos e o custo total. Tudo isso é armazenado em uma base visual como o Airtable (ou Google Sheets) para analisar gastos, detectar erros e entender como os agentes se comportam.
+Aprendemos a implementar um sistema que registra cada interaçêo do seu agente de inteligência artificial, incluindo o input, o output, as ações realizadas, os tokens consumidos e o custo total. Tudo isso é armazenado em uma base visual como o Airtable (ou Google Sheets) para analisar gastos, detectar erros e entender como os agentes se comportam.
 
 🧩 O que configuramos?
 
-* 4 módulos principais que extraem informações de cada execução
+* 4 módulos principais que extraem informações de cada execuçêo
 * Um código personalizado que transforma os logs em um formato legível
 * Uma tabela no Airtable que registra:
 
@@ -222,12 +222,12 @@ Aprendemos a implementar um sistema que registra cada interação do seu agente 
   * Ações executadas
   * Tokens consumidos
   * Custo total
-  * Nome da automação
+  * Nome da automaçêo
 
 ⚙️ Requisitos técnicos
 
-* Ativamos a opção “Return Intermediate Steps” no módulo do agente para registrar as ações intermediárias
-* Utilizamos a função `JSON.stringify` para transformar os logs em texto legível e organizado
+* Ativamos a opçêo “Return Intermediate Steps” no módulo do agente para registrar as ações intermediárias
+* Utilizamos a funçêo `JSON.stringify` para transformar os logs em texto legível e organizado
 * Configuramos o módulo “Create a Record” no Airtable, mapeando cada campo relevante
 
 📊 Exemplos ao vivo
@@ -237,11 +237,11 @@ Aprendemos a implementar um sistema que registra cada interação do seu agente 
   * Buscar um contato
   * Criar um evento no calendário
   * Criar um rascunho de e-mail
-* Todas as ações e custos são automaticamente registrados no Airtable
-* Testes com erros também são realizados: se o modelo estiver indisponível, o sistema detecta e registra como erro sem parar a automação
-* Os mesmos módulos são aplicados a um superagente com subagentes (como Gmail e Google Calendar), permitindo o rastreamento separado de gastos e erros por subagente
+* Todas as ações e custos sêo automaticamente registrados no Airtable
+* Testes com erros também sêo realizados: se o modelo estiver indisponível, o sistema detecta e registra como erro sem parar a automaçêo
+* Os mesmos módulos sêo aplicados a um superagente com subagentes (como Gmail e Google Calendar), permitindo o rastreamento separado de gastos e erros por subagente
 
-🔎 Visualização de dados
+🔎 Visualizaçêo de dados
 Podem ser geradas visualizações por:
 
 * Agente
@@ -257,7 +257,7 @@ Podem ser geradas visualizações por:
 * Muito útil para demonstrar com dados reais o valor entregue pela IA
 
 
-🧠 Conclusão
+🧠 Conclusêo
 Este sistema é essencial para quem deseja trabalhar com agentes de IA de forma profissional. Oferece transparência, controle e melhoria contínua. É fácil de replicar, visualmente poderoso e aplicável a qualquer canal: Telegram, WhatsApp, Instagram, entre outros.
 
 ------------------------------
@@ -276,17 +276,17 @@ Data: 2025-06-08T04:06:14+00:00
 Texto:
 📊 Controle total dos seus agentes de IA (gastos, erros e mais)
 
-🚀 Quer saber exatamente o que seu agente de IA está fazendo, quanto custa cada interação e ter tudo sob controle?
+🚀 Quer saber exatamente o que seu agente de IA está fazendo, quanto custa cada interaçêo e ter tudo sob controle?
 
 O que você vai conquistar com isso? 👇
 ✅ Armazenar automaticamente cada conversa: entrada, saída, erros, ações e ferramentas utilizadas
-✅ Medir quantos tokens são usados por execução e o custo real por tarefa
+✅ Medir quantos tokens sêo usados por execuçêo e o custo real por tarefa
 ✅ Visualizar tudo em uma tabela linda no Airtable ou Google Sheets
 ✅ Identificar qual agente ou subagente consome mais recursos
 ✅ Ter dados reais para otimizar processos e economizar dinheiro
 ✅ E ainda mostrar para seus clientes tudo o que a IA está fazendo por eles! 🧠💰
 
-Isso não é um extra, é uma ferramenta de gestão essencial se você trabalha com agentes de IA.
+Isso nêo é um extra, é uma ferramenta de gestêo essencial se você trabalha com agentes de IA.
 Seja para uso próprio ou para venda de agentes a clientes, esse sistema traz transparência, controle e profissionalismo.
 
 ------------------------------

@@ -66,12 +66,12 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Workflows:
-    - Visão Geral: workflows/index.md
+    - Visêo Geral: workflows/index.md
     - AI Agents: workflows/ai-agents.md
     - Automações: workflows/automations.md
     - Integrações: workflows/integrations.md
   - Curso:
-    - Introdução: curso/index.md
+    - Introduçêo: curso/index.md
   - Tópicos: topicos/index.md
   - Sobre: about.md
 

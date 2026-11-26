@@ -23,7 +23,7 @@ Data: 2025-03-31T04:39:56+00:00
 Texto:
 **Resumo Geral**
 
-O vídeo mostra como o autor criou, usando o **n8n**, um sistema de **pesquisa profunda com IA** capaz de gerar **relatórios em PDF com até 40 páginas**, organizados em capítulos e com todas as fontes linkadas. O custo por relatório fica em torno de **US$ 0,50**, superando ferramentas como Perplexity e ChatGPT gratuito em profundidade, personalização e custo-benefício.
+O vídeo mostra como o autor criou, usando o **n8n**, um sistema de **pesquisa profunda com IA** capaz de gerar **relatórios em PDF com até 40 páginas**, organizados em capítulos e com todas as fontes linkadas. O custo por relatório fica em torno de **US$ 0,50**, superando ferramentas como Perplexity e ChatGPT gratuito em profundidade, personalizaçêo e custo-benefício.
 
 ---
 
@@ -31,29 +31,29 @@ O vídeo mostra como o autor criou, usando o **n8n**, um sistema de **pesquisa p
 
 1. **Formulário de Entrada**
    - O usuário insere o tema da pesquisa e um e-mail.
-   - Ex: “Açúcar no café da manhã”.
+   - Ex: “Açúcar no café da manhê”.
 
 2. **Planejamento do Relatório**
    - Um agente de IA divide o tema em **5 subtemas profundos**.
    - Ex: efeitos do açúcar na glicemia, fontes ocultas de açúcar, comparações nutricionais etc.
 
-3. **Criação da Estrutura**
-   - IA gera **título**, **introdução** e **capítulos** em HTML.
-   - Exemplo de título: *O Dilema do Açúcar no Café da Manhã: Impactos na Saúde e Bem-Estar.*
+3. **Criaçêo da Estrutura**
+   - IA gera **título**, **introduçêo** e **capítulos** em HTML.
+   - Exemplo de título: *O Dilema do Açúcar no Café da Manhê: Impactos na Saúde e Bem-Estar.*
 
 4. **Pesquisa com Tavily**
-   - Para cada subtema, são feitas buscas com profundidade **"avançada"**, retornando **5 fontes confiáveis** por capítulo.
+   - Para cada subtema, sêo feitas buscas com profundidade **"avançada"**, retornando **5 fontes confiáveis** por capítulo.
    - Total de 25 fontes com **estudos e experimentos reais**.
 
 5. **Armazenamento no Google Sheets**
    - Cada parte do conteúdo (fontes, seções, textos) é salva em abas organizadas.
-   - Isso facilita a geração e formatação do PDF.
+   - Isso facilita a geraçêo e formataçêo do PDF.
 
-6. **Geração do Relatório Final**
-   - Montagem do **índice**, **conteúdo por capítulos** e **seção de fontes** (linkadas).
+6. **Geraçêo do Relatório Final**
+   - Montagem do **índice**, **conteúdo por capítulos** e **seçêo de fontes** (linkadas).
    - Ex: Capítulo 1: Açúcar e Energia Matinal → com 5 seções e referências clicáveis.
 
-7. **Criação do PDF**
+7. **Criaçêo do PDF**
    - API usada: **API ****Template.io**.
    - PDF é gerado a partir do HTML e enviado por e-mail via Gmail.
 
@@ -63,33 +63,33 @@ O vídeo mostra como o autor criou, usando o **n8n**, um sistema de **pesquisa p
 
 - **Qualidade**: Relatório com linguagem refinada (modelo Claude 3.5 Sonnet).
 - **Quantidade**: Até 42 páginas.
-- **Custo**: Média de **US$ 0,50** por execução completa.
-- **Tempo**: Cerca de **6 minutos**, podendo ser otimizado (paralelização dos capítulos).
+- **Custo**: Média de **US$ 0,50** por execuçêo completa.
+- **Tempo**: Cerca de **6 minutos**, podendo ser otimizado (paralelizaçêo dos capítulos).
 - **Exemplo real**: Tema "Sono em Jovens Adultos" gerou um relatório com seções como efeitos neurológicos, redes sociais, saúde mental etc.
 
 ---
 
 **Ferramentas Usadas**
 
-- **n8n**: Orquestração do fluxo completo.
+- **n8n**: Orquestraçêo do fluxo completo.
 - **Tavily**: Coleta de conteúdo com profundidade configurável.
-- **Google Sheets**: Armazenamento e organização dos dados intermediários.
-- **API ****Template.io**: Conversão de HTML para PDF.
+- **Google Sheets**: Armazenamento e organizaçêo dos dados intermediários.
+- **API ****Template.io**: Conversêo de HTML para PDF.
 - **OpenRouter + Claude 3.5**: Escrita e análise de conteúdo.
 
 ---
 
 **Limitações Atuais (V1)**
 
-1. **Execução sequencial** dos capítulos (não paraleliza ainda).
+1. **Execuçêo sequencial** dos capítulos (nêo paraleliza ainda).
 2. **Fontes numeradas manualmente**, o que limita dinamismo.
 3. Alterações em um ramo do fluxo precisam ser replicadas nos outros.
 
 ---
 
-**Conclusão**
+**Conclusêo**
 
-Esse fluxo é **uma alternativa poderosa ao Perplexity ou ao ChatGPT gratuito**, permitindo personalização, estrutura avançada e baixo custo. Ideal para quem deseja criar relatórios extensos com fontes confiáveis de forma automática.
+Esse fluxo é **uma alternativa poderosa ao Perplexity ou ao ChatGPT gratuito**, permitindo personalizaçêo, estrutura avançada e baixo custo. Ideal para quem deseja criar relatórios extensos com fontes confiáveis de forma automática.
 
 ------------------------------
 
@@ -117,7 +117,7 @@ Você verá:
 ✅ Como ele compila um relatório de pesquisa em PDF  
 ✅ Otimizações chave para torná-lo ainda mais eficiente  
 
-Tudo o que você precisa para configurar esse fluxo de trabalho está no template anexado a esta publicação!
+Tudo o que você precisa para configurar esse fluxo de trabalho está no template anexado a esta publicaçêo!
 
 - Template do Google Sheets  
 - Tavily  

@@ -48,7 +48,7 @@ Data: 2025-05-27T22:25:47+00:00
 Texto:
 "How to INSTANTLY Build An AI Agent Army in n8n with Claude"**
 
-O vídeo ensina como criar uma "tropa de agentes de IA" no **n8n** usando **Claude 4 Opus**, a partir de **um único prompt**, sem escrever código manualmente. O processo envolve criação automática de agentes mestres e subagentes, todos com ferramentas conectadas e operacionais via arquivos JSON.
+O vídeo ensina como criar uma "tropa de agentes de IA" no **n8n** usando **Claude 4 Opus**, a partir de **um único prompt**, sem escrever código manualmente. O processo envolve criaçêo automática de agentes mestres e subagentes, todos com ferramentas conectadas e operacionais via arquivos JSON.
 
 ------------------------------
 
@@ -67,7 +67,7 @@ Data: 2025-05-27T22:24:49+00:00
 Texto:
 "How to INSTANTLY Build An AI Agent Army in n8n with Claude"**
 
-O vídeo ensina como criar uma "tropa de agentes de IA" no **n8n** usando **Claude 4 Opus**, a partir de **um único prompt**, sem escrever código manualmente. O processo envolve criação automática de agentes mestres e subagentes, todos com ferramentas conectadas e operacionais via arquivos JSON.
+O vídeo ensina como criar uma "tropa de agentes de IA" no **n8n** usando **Claude 4 Opus**, a partir de **um único prompt**, sem escrever código manualmente. O processo envolve criaçêo automática de agentes mestres e subagentes, todos com ferramentas conectadas e operacionais via arquivos JSON.
 
 ### Principais tópicos abordados:
 
@@ -80,7 +80,7 @@ O vídeo ensina como criar uma "tropa de agentes de IA" no **n8n** usando **Clau
 
    * **Agente mestre (orquestrador):** Coordena a rede.
    * **Subagentes:** Cada um com funções específicas e ferramentas conectadas.
-   * Todos os agentes são criados automaticamente com estruturas JSON prontos para importar no n8n.
+   * Todos os agentes sêo criados automaticamente com estruturas JSON prontos para importar no n8n.
 
 3. **Duas formas de criar os agentes:**
 
@@ -109,8 +109,8 @@ O vídeo ensina como criar uma "tropa de agentes de IA" no **n8n** usando **Clau
 7. **Exemplos práticos de negócios:**
 
    * **Flexiflow Studios:** Agência de TikTok com agentes como coordenador de equipe, handler de solicitações, etc.
-   * **Pet Pal Concierge:** Uber para pets, com agentes de emergência, gestão de prestadores e agendamento.
-   * **Chaos Coffee Co.:** Cafeterias, com agentes de controle de qualidade, inovação de receitas, coordenação e finanças.
+   * **Pet Pal Concierge:** Uber para pets, com agentes de emergência, gestêo de prestadores e agendamento.
+   * **Chaos Coffee Co.:** Cafeterias, com agentes de controle de qualidade, inovaçêo de receitas, coordenaçêo e finanças.
 
 8. **Importância da estrutura e conectividade:**
 
@@ -124,7 +124,7 @@ O vídeo ensina como criar uma "tropa de agentes de IA" no **n8n** usando **Clau
 
 10. **Objetivo final:**
 
-    * Reduzir o tempo de criação de automações no n8n.
+    * Reduzir o tempo de criaçêo de automações no n8n.
     * Ir de 0% a 80% de um sistema funcional com mínimo esforço.
     * Estimular brainstorming e acelerar o desenvolvimento de sistemas com IA.
 
@@ -133,7 +133,7 @@ O vídeo ensina como criar uma "tropa de agentes de IA" no **n8n** usando **Clau
 ### Exemplos de prompts e ações:
 
 * **Prompt inicial:** define Claude como um arquiteto especialista em workflows n8n.
-* **Entrada:** descrição do negócio + ferramentas utilizadas.
+* **Entrada:** descriçêo do negócio + ferramentas utilizadas.
 * **Saída:** JSON com agentes mestre e subordinados prontos para importar no n8n.
 
 ------------------------------

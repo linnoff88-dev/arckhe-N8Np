@@ -56,7 +56,7 @@ Data: 2025-03-10T21:50:59+00:00
 Texto:
 Exemplo de Fluxo de Processamento de Faturas 
 
-Todo o processo de como abordo uma construção. Passo pela criação do wireframe, pensando no fluxo de dados e nas integrações, e depois entramos no n8n para começar a conectar as peças.
+Todo o processo de como abordo uma construçêo. Passo pela criaçêo do wireframe, pensando no fluxo de dados e nas integrações, e depois entramos no n8n para começar a conectar as peças.
 
 ------------------------------
 

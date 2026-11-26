@@ -74,7 +74,7 @@
     "id": 15645,
     "author": "Automatizze",
     "date": "2025-11-06T20:49:48+00:00",
-    "text": "Desenvolvi esse CRM prático, construído na Lovable e integrado a uma automação robusta no n8n, com suporte ao Evolution API para WhatsApp. O foco é criar um ecossistema unificado de gestão financeira, onde um Agente AI inteligente analisa dados em tempo real, responde consultas, envia relatórios por email, agenda reuniões e centraliza todas as operações – tudo em um único dashboard intuitivo.\nFuncionalidades Principais\n\nGestão Financeira Automatizada: Controle de folha de pagamento, horas extras, benefícios (VA/VR/VT) e relatórios consolidados.\nAgente AI Conversacional: Integração com ferramentas como Supabase para consultas SQL, análise de tendências e respostas personalizadas via WhatsApp ou email.\nAutomação Total: Fluxos no n8n para notificações, agendamentos via Google Calendar e envios de relatórios formatados (HTML para emails elegantes).\n\nDesenvolvimento Web (CRM Lovable): R$ 7.500 \nAutomação + Agente AI (n8n + Evolution): R$ 9.500\n\nObs: Gestão de frota e medição ainda em desenvolvimento.",
+    "text": "Desenvolvi esse CRM prático, construído na Lovable e integrado a uma automaçêo robusta no n8n, com suporte ao Evolution API para WhatsApp. O foco é criar um ecossistema unificado de gestêo financeira, onde um Agente AI inteligente analisa dados em tempo real, responde consultas, envia relatórios por email, agenda reuniões e centraliza todas as operações – tudo em um único dashboard intuitivo.\nFuncionalidades Principais\n\nGestêo Financeira Automatizada: Controle de folha de pagamento, horas extras, benefícios (VA/VR/VT) e relatórios consolidados.\nAgente AI Conversacional: Integraçêo com ferramentas como Supabase para consultas SQL, análise de tendências e respostas personalizadas via WhatsApp ou email.\nAutomaçêo Total: Fluxos no n8n para notificações, agendamentos via Google Calendar e envios de relatórios formatados (HTML para emails elegantes).\n\nDesenvolvimento Web (CRM Lovable): R$ 7.500 \nAutomaçêo + Agente AI (n8n + Evolution): R$ 9.500\n\nObs: Gestêo de frota e mediçêo ainda em desenvolvimento.",
     "has_media": true,
     "media_type": "MessageMediaPhoto",
     "media_file": "photo_15645_009.jpg"
@@ -83,7 +83,7 @@
     "id": 15642,
     "author": "Carlos",
     "date": "2025-11-06T15:13:41+00:00",
-    "text": "Então kkkkkkkk",
+    "text": "Entêo kkkkkkkk",
     "has_media": false,
     "media_type": null
   },
@@ -91,7 +91,7 @@
     "id": 15641,
     "author": "Carlos",
     "date": "2025-11-06T15:13:24+00:00",
-    "text": "Entendi então esta tendo problemas, eu não quero que o meu cliente perca o número dele de 10 anos",
+    "text": "Entendi entêo esta tendo problemas, eu nêo quero que o meu cliente perca o número dele de 10 anos",
     "has_media": false,
     "media_type": null
   },
@@ -115,7 +115,7 @@
     "id": 15592,
     "author": "Carlos",
     "date": "2025-11-05T23:55:01+00:00",
-    "text": "Eu estou prestando o serviço de instalação de uma versão do Chatwoot, open source, que tem as instâncias próprias. Zero EVO. Amanhã finalizo os testes aqui é começo a vender 😎",
+    "text": "Eu estou prestando o serviço de instalaçêo de uma versêo do Chatwoot, open source, que tem as instâncias próprias. Zero EVO. Amanhê finalizo os testes aqui é começo a vender 😎",
     "has_media": false,
     "media_type": null
   },
@@ -123,7 +123,7 @@
     "id": 15591,
     "author": "Carlos",
     "date": "2025-11-05T23:33:04+00:00",
-    "text": "Meta tá bloqueando alguns números e normalmente são os vinculados ao evolution. Um cliente meu teve 2 números vinculados ao agente IA bloqueados ontem. E recebi informações de outros colegas com mesmo problema.\n\nSugiro mitigar os riscos analisando outras ferramentas como:\nwuzapi, uazapi, z-api ou até mesmo a API oficial.",
+    "text": "Meta tá bloqueando alguns números e normalmente sêo os vinculados ao evolution. Um cliente meu teve 2 números vinculados ao agente IA bloqueados ontem. E recebi informações de outros colegas com mesmo problema.\n\nSugiro mitigar os riscos analisando outras ferramentas como:\nwuzapi, uazapi, z-api ou até mesmo a API oficial.",
     "has_media": false,
     "media_type": null
   },
@@ -131,7 +131,7 @@
     "id": 15587,
     "author": "Carlos",
     "date": "2025-11-05T23:12:45+00:00",
-    "text": "Não tem que tomar cuidado. Quando estiver funcionando não vais mais mexer até dar algum problema",
+    "text": "Nêo tem que tomar cuidado. Quando estiver funcionando nêo vais mais mexer até dar algum problema",
     "has_media": false,
     "media_type": null
   },
@@ -155,7 +155,7 @@
     "id": 15579,
     "author": "Carlos",
     "date": "2025-11-05T19:28:08+00:00",
-    "text": "Pessoal, eu vou fazer minha primeira aplicação, eu sou novo nisso tudo estou lutando para fechar o primeiro projeto.\n\nMas gostaria de saber a opinião de vcs sobre o evolution api. \n\nVale a pena ? Ou o risco de bloquear o número do cliente é grande ??\n\nA ideia é que ele responda os clientes que entrar em contato com a farmácia, e fazer orçamentos.\n Por hora ele não vai iniciar conversar apenas responder.",
+    "text": "Pessoal, eu vou fazer minha primeira aplicaçêo, eu sou novo nisso tudo estou lutando para fechar o primeiro projeto.\n\nMas gostaria de saber a opiniêo de vcs sobre o evolution api. \n\nVale a pena ? Ou o risco de bloquear o número do cliente é grande ??\n\nA ideia é que ele responda os clientes que entrar em contato com a farmácia, e fazer orçamentos.\n Por hora ele nêo vai iniciar conversar apenas responder.",
     "has_media": false,
     "media_type": null
   },
@@ -179,7 +179,7 @@
     "id": 15571,
     "author": "Carlos",
     "date": "2025-11-05T15:25:09+00:00",
-    "text": "SQL é um código de formatação e estruturação de banco de dados. Daí você cria as tabelas.\n\nInicialmente você não precisa saber códigos. \n\nUtiliza esse agente a seguir pra construir as tabelas no supabase.\n\nDaí no n8n você pode fazer pesquisas mais práticas via node do supabase ou até mais complexas via node do postgres",
+    "text": "SQL é um código de formataçêo e estruturaçêo de banco de dados. Daí você cria as tabelas.\n\nInicialmente você nêo precisa saber códigos. \n\nUtiliza esse agente a seguir pra construir as tabelas no supabase.\n\nDaí no n8n você pode fazer pesquisas mais práticas via node do supabase ou até mais complexas via node do postgres",
     "has_media": false,
     "media_type": null
   },
@@ -195,7 +195,7 @@
     "id": 15518,
     "author": "A",
     "date": "2025-11-05T06:35:48+00:00",
-    "text": "Fala pessoal, tranquilo? Sou iniciante em n8n... Quero criar um assistente financeiro que lê dados do conta azul que está numa planilha, então quando alguém perguntar \"quanto foi pago para Joãozinho em janeiro de 2024\", ele me traga um valor total e se caso a pessoa quiser detalhes ela pede... Porém, a planilha tem mais de 10mil linhas e a ia se perde ou traz informações inexistentes, sabem o que poderia fazer?",
+    "text": "Fala pessoal, tranquilo? Sou iniciante em n8n... Quero criar um assistente financeiro que lê dados do conta azul que está numa planilha, entêo quando alguém perguntar \"quanto foi pago para Joêozinho em janeiro de 2024\", ele me traga um valor total e se caso a pessoa quiser detalhes ela pede... Porém, a planilha tem mais de 10mil linhas e a ia se perde ou traz informações inexistentes, sabem o que poderia fazer?",
     "has_media": false,
     "media_type": null
   },
@@ -236,7 +236,7 @@
     "id": 15510,
     "author": "André Obramatch",
     "date": "2025-11-04T14:04:51+00:00",
-    "text": "Boa tarde comunidade, alguém sabe como resolver o problema de gerar QR Code no evolution API. Pois não estou conseguindo conectar estância com o whatsapp. Já atualizei a versão do cliente no porteiner e nada.",
+    "text": "Boa tarde comunidade, alguém sabe como resolver o problema de gerar QR Code no evolution API. Pois nêo estou conseguindo conectar estância com o whatsapp. Já atualizei a versêo do cliente no porteiner e nada.",
     "has_media": false,
     "media_type": null
   },
@@ -276,7 +276,7 @@
     "id": 15317,
     "author": "Francisco Eduardo",
     "date": "2025-10-27T16:50:31+00:00",
-    "text": "Cara, eu estou mudando o caminho, ficou caro para a geração, ai acabou inviabilizando, estou de volta a construção",
+    "text": "Cara, eu estou mudando o caminho, ficou caro para a geraçêo, ai acabou inviabilizando, estou de volta a construçêo",
     "has_media": false,
     "media_type": null
   },
@@ -284,7 +284,7 @@
     "id": 15316,
     "author": "@jaimefreitasjunior",
     "date": "2025-10-27T15:54:34+00:00",
-    "text": "pessoal,\n\nalguem tem algum fluxo de automação de contrato? \n\no cara poe o cnpj do cliente aqui e do outro lado sai o contrato com o link do zapsign ou outro gerador de link de contrato?",
+    "text": "pessoal,\n\nalguem tem algum fluxo de automaçêo de contrato? \n\no cara poe o cnpj do cliente aqui e do outro lado sai o contrato com o link do zapsign ou outro gerador de link de contrato?",
     "has_media": false,
     "media_type": null
   },
@@ -300,7 +300,7 @@
     "id": 15302,
     "author": "Filipe",
     "date": "2025-10-25T18:13:34+00:00",
-    "text": "Galera como resolve isso? fica dando timeout e não sai disso",
+    "text": "Galera como resolve isso? fica dando timeout e nêo sai disso",
     "has_media": true,
     "media_type": "MessageMediaPhoto",
     "media_file": "photo_15302_037.jpg"
@@ -317,7 +317,7 @@
     "id": 15259,
     "author": "Rodrigo",
     "date": "2025-10-23T14:07:29+00:00",
-    "text": "Ola pessoal bom dia, \n\nSou dev e novato na área de automação n8n\n\nEstou com um workflow aqui que está quase 100% mas quando eu envio um PDF o fluxo reconhece, trata e envia para o nó do agente porém para por aí e não avança da erro.\n\nSerá que alguém poderia me ajudar?",
+    "text": "Ola pessoal bom dia, \n\nSou dev e novato na área de automaçêo n8n\n\nEstou com um workflow aqui que está quase 100% mas quando eu envio um PDF o fluxo reconhece, trata e envia para o nó do agente porém para por aí e nêo avança da erro.\n\nSerá que alguém poderia me ajudar?",
     "has_media": false,
     "media_type": null
   },
@@ -325,7 +325,7 @@
     "id": 15247,
     "author": "Carlos",
     "date": "2025-10-21T12:32:36+00:00",
-    "text": "Você usou gmail? Tive o mesmo problema usando gmail, com isso criei um email zohomail e inseri no portainer junto com a senha do email. A porta se não me engano é 465.\n\nDaí quando solicitar um email de recuperação, será enviado o link por esse email para o email do login/senha do n8n",
+    "text": "Você usou gmail? Tive o mesmo problema usando gmail, com isso criei um email zohomail e inseri no portainer junto com a senha do email. A porta se nêo me engano é 465.\n\nDaí quando solicitar um email de recuperaçêo, será enviado o link por esse email para o email do login/senha do n8n",
     "has_media": false,
     "media_type": null
   },
@@ -342,7 +342,7 @@
     "id": 15239,
     "author": "Automatizze",
     "date": "2025-10-20T15:58:45+00:00",
-    "text": "Automação aparentemente simples porém muito interessante, visa ter acesso ao banco de dados do sistema | site empresarial, na qual o \"Gestor\" ou RH pode realizar perguntas relacionadas a todo o setor financeiro e de funcionários da empresa, solicitar que o Agente envie as informações por e-mail etc.. (utilizando o evolution)\nFiz a venda dessa automação por 9k.... \nE 3k o desenvolvimento no sistema via Lovable. Show né?",
+    "text": "Automaçêo aparentemente simples porém muito interessante, visa ter acesso ao banco de dados do sistema | site empresarial, na qual o \"Gestor\" ou RH pode realizar perguntas relacionadas a todo o setor financeiro e de funcionários da empresa, solicitar que o Agente envie as informações por e-mail etc.. (utilizando o evolution)\nFiz a venda dessa automaçêo por 9k.... \nE 3k o desenvolvimento no sistema via Lovable. Show né?",
     "has_media": true,
     "media_type": "MessageMediaPhoto",
     "media_file": "photo_15239_042.jpg"
@@ -383,7 +383,7 @@
     "id": 15074,
     "author": "Gustavo",
     "date": "2025-10-14T19:36:51+00:00",
-    "text": "Galera alguem pode me ajudar a criar uma automação? a principio é como se fosse um filtro do primeiro atendimento no whatsapp, cliente manda oi envia o menu com as opçoes e a pessoa envia qual setor ela quer falar e vai enviar uma mensagem pronta",
+    "text": "Galera alguem pode me ajudar a criar uma automaçêo? a principio é como se fosse um filtro do primeiro atendimento no whatsapp, cliente manda oi envia o menu com as opçoes e a pessoa envia qual setor ela quer falar e vai enviar uma mensagem pronta",
     "has_media": false,
     "media_type": null
   },
@@ -400,7 +400,7 @@
     "id": 14969,
     "author": "Mauricio",
     "date": "2025-10-11T11:05:51+00:00",
-    "text": "@INEMAtds  surgiu um dúvida, usar lovart ou criar um agente para isso , em relação à qualidade e valores qual sua opinião? \n\n\nBom dia",
+    "text": "@INEMAtds  surgiu um dúvida, usar lovart ou criar um agente para isso , em relaçêo à qualidade e valores qual sua opiniêo? \n\n\nBom dia",
     "has_media": false,
     "media_type": null
   },
@@ -417,7 +417,7 @@
     "id": 14820,
     "author": "Paulo",
     "date": "2025-10-05T13:59:39+00:00",
-    "text": "Estou montando um ambiente em docker no meu note. Porém não consigo fazer a evolution funciona. Qdo crio instância da erro de não autorizado. Alguém tem um docker-compose de Evolution funcionando?",
+    "text": "Estou montando um ambiente em docker no meu note. Porém nêo consigo fazer a evolution funciona. Qdo crio instância da erro de nêo autorizado. Alguém tem um docker-compose de Evolution funcionando?",
     "has_media": false,
     "media_type": null
   },
@@ -433,7 +433,7 @@
     "id": 14646,
     "author": "D",
     "date": "2025-09-29T12:08:58+00:00",
-    "text": "Recrutamento de Closers de Vendas – Automação\n\nEstamos buscando closers/vendedores raiz para atuar na venda de soluções de automação.\n📌 Modelo de remuneração:\n\n💰 Valor da implementação (à vista na venda)\n\n🔁 % sobre a recorrência mensal dos contratos\n\nSe você tem experiência em fechamento de vendas e quer crescer junto em um mercado em expansão, chama no privado!\n\nEntre em contato : 11916909292  Diego",
+    "text": "Recrutamento de Closers de Vendas – Automaçêo\n\nEstamos buscando closers/vendedores raiz para atuar na venda de soluções de automaçêo.\n📌 Modelo de remuneraçêo:\n\n💰 Valor da implementaçêo (à vista na venda)\n\n🔁 % sobre a recorrência mensal dos contratos\n\nSe você tem experiência em fechamento de vendas e quer crescer junto em um mercado em expansêo, chama no privado!\n\nEntre em contato : 11916909292  Diego",
     "has_media": false,
     "media_type": null
   },
@@ -441,7 +441,7 @@
     "id": 14634,
     "author": "Aloisio",
     "date": "2025-09-28T06:48:52+00:00",
-    "text": "Preciso de alguém para me prestar serviço de integração do N8N com Sistema de Cobrança  ASAAS e Whatsapp. Chama no whats (41) 9 9223-2723 e demais integrações para meu escritório de advocacia como SDR, elaborar de petições e protocolo no PJE…",
+    "text": "Preciso de alguém para me prestar serviço de integraçêo do N8N com Sistema de Cobrança  ASAAS e Whatsapp. Chama no whats (41) 9 9223-2723 e demais integrações para meu escritório de advocacia como SDR, elaborar de petições e protocolo no PJE…",
     "has_media": false,
     "media_type": null
   },
@@ -457,7 +457,7 @@
     "id": 14555,
     "author": "Sandro",
     "date": "2025-09-22T22:12:17+00:00",
-    "text": "Alguém já fez algum tipo de integração com a Shopee? Tem alguma coisa aqui no canal sobre? Estou tentando a uns 3 dias criar algo, mas até agora não sai muito do lugar.",
+    "text": "Alguém já fez algum tipo de integraçêo com a Shopee? Tem alguma coisa aqui no canal sobre? Estou tentando a uns 3 dias criar algo, mas até agora nêo sai muito do lugar.",
     "has_media": false,
     "media_type": null
   },
@@ -465,7 +465,7 @@
     "id": 14552,
     "author": "Marcelus & Lily",
     "date": "2025-09-22T18:53:28+00:00",
-    "text": "Showww, vou ver! gratidão!!\nforte abraço",
+    "text": "Showww, vou ver! gratidêo!!\nforte abraço",
     "has_media": false,
     "media_type": null
   },
@@ -489,7 +489,7 @@
     "id": 14500,
     "author": "Marcelus & Lily",
     "date": "2025-09-22T02:26:26+00:00",
-    "text": "Qualquer informação já ajuda",
+    "text": "Qualquer informaçêo já ajuda",
     "has_media": false,
     "media_type": null
   },
@@ -497,7 +497,7 @@
     "id": 14499,
     "author": "Marcelus & Lily",
     "date": "2025-09-22T02:26:20+00:00",
-    "text": "Boa noite, teria alguma indicação ou sabe algum fluxo aqui do grupo que tenha algo relacionado a edição de vídeo, digo alguém de juntas partes. \n\nGratidão @INEMAtds \n\nTô precisando muito 🙏🙏🙏",
+    "text": "Boa noite, teria alguma indicaçêo ou sabe algum fluxo aqui do grupo que tenha algo relacionado a ediçêo de vídeo, digo alguém de juntas partes. \n\nGratidêo @INEMAtds \n\nTô precisando muito 🙏🙏🙏",
     "has_media": false,
     "media_type": null
   },
@@ -513,7 +513,7 @@
     "id": 14408,
     "author": "Henrique",
     "date": "2025-09-20T15:52:12+00:00",
-    "text": "Pessoal, onde acho aqui o canal que está falando do vibe code do N8N?\nVi o vídeo no instagram mas não achei aqui.",
+    "text": "Pessoal, onde acho aqui o canal que está falando do vibe code do N8N?\nVi o vídeo no instagram mas nêo achei aqui.",
     "has_media": false,
     "media_type": null
   },
@@ -521,7 +521,7 @@
     "id": 14398,
     "author": "Marcelus & Lily",
     "date": "2025-09-20T01:04:02+00:00",
-    "text": "Boa noite pessoal, alguém sabe algum fluxo ou algo aqui do grupo que tenha algo relacionado a edição de vídeo, digo alguém de juntas partes. \n\nGratidão",
+    "text": "Boa noite pessoal, alguém sabe algum fluxo ou algo aqui do grupo que tenha algo relacionado a ediçêo de vídeo, digo alguém de juntas partes. \n\nGratidêo",
     "has_media": false,
     "media_type": null
   },
@@ -545,7 +545,7 @@
     "id": 14218,
     "author": "Bruno",
     "date": "2025-09-12T20:01:20+00:00",
-    "text": "Entendo, mais eu estou construindo uma automação de pedidos, porem acabou os 15 dias gratis do site. Queria saber se tinha uma outra forma de usar gratuiuto sem baixar na maquina, pois a minha na esta suportando",
+    "text": "Entendo, mais eu estou construindo uma automaçêo de pedidos, porem acabou os 15 dias gratis do site. Queria saber se tinha uma outra forma de usar gratuiuto sem baixar na maquina, pois a minha na esta suportando",
     "has_media": false,
     "media_type": null
   },
@@ -561,7 +561,7 @@
     "id": 14212,
     "author": "Bruno",
     "date": "2025-09-12T17:20:41+00:00",
-    "text": "Boa Tarde Pessoal, sou novo por aqui, gostaria de uma ajuda. Meu pc é antigo e não suporta instalação local do N8N, alguem pode me dar uma dica de como posso usar o N8N gratuito sem instalar ele na minha maquina local ? Tipo via maquina virtual ou algo do tipo ?",
+    "text": "Boa Tarde Pessoal, sou novo por aqui, gostaria de uma ajuda. Meu pc é antigo e nêo suporta instalaçêo local do N8N, alguem pode me dar uma dica de como posso usar o N8N gratuito sem instalar ele na minha maquina local ? Tipo via maquina virtual ou algo do tipo ?",
     "has_media": false,
     "media_type": null
   },
@@ -593,7 +593,7 @@
     "id": 13995,
     "author": "OneNode",
     "date": "2025-09-07T14:08:18+00:00",
-    "text": "Bom dia pessoal tudo bem?? queria uma informação por gentileza..\nEstou criando uma automação para o whatsapp, e quero enviar audios..\n\nQual IA voces estao usando para gerar audios?? que não seja robotica?\n\nObrigado",
+    "text": "Bom dia pessoal tudo bem?? queria uma informaçêo por gentileza..\nEstou criando uma automaçêo para o whatsapp, e quero enviar audios..\n\nQual IA voces estao usando para gerar audios?? que nêo seja robotica?\n\nObrigado",
     "has_media": false,
     "media_type": null
   },
@@ -601,7 +601,7 @@
     "id": 13973,
     "author": "André",
     "date": "2025-09-06T12:30:49+00:00",
-    "text": "Não encontrei aqui, mas existe algum fluxo pra criar carroeis no estilo infinito? Aqueles carrossei que são continuados no próximo slide. Caso naõ tenha algum fluxo nesse estilo, alguém tem ideia de como poderia ser feito?",
+    "text": "Nêo encontrei aqui, mas existe algum fluxo pra criar carroeis no estilo infinito? Aqueles carrossei que sêo continuados no próximo slide. Caso naõ tenha algum fluxo nesse estilo, alguém tem ideia de como poderia ser feito?",
     "has_media": false,
     "media_type": null
   },
@@ -623,9 +623,9 @@
   },
   {
     "id": 13942,
-    "author": "Lucimara Guimarães Lopes",
+    "author": "Lucimara Guimarêes Lopes",
     "date": "2025-09-05T19:44:56+00:00",
-    "text": "Carlos agora deu erro na requisição mas no chatGPt disse que pode ser URL,headers,mas dentro das documentação tem o auto token tudo que está dentro dele preciso colocar?",
+    "text": "Carlos agora deu erro na requisiçêo mas no chatGPt disse que pode ser URL,headers,mas dentro das documentaçêo tem o auto token tudo que está dentro dele preciso colocar?",
     "has_media": false,
     "media_type": null
   },
@@ -657,7 +657,7 @@
     "id": 13804,
     "author": "Nicolas",
     "date": "2025-09-05T00:20:24+00:00",
-    "text": "Pessoal boa noite, alguém aqui sabe se tem algum canal na comunidade falando sobre criar MCP para o n8n? Isso não está entrando na minha cabeça ainda. Eu uso ambiente local, coloquei o Tigger do MCP no n8n mas não chama a Tool do calendar",
+    "text": "Pessoal boa noite, alguém aqui sabe se tem algum canal na comunidade falando sobre criar MCP para o n8n? Isso nêo está entrando na minha cabeça ainda. Eu uso ambiente local, coloquei o Tigger do MCP no n8n mas nêo chama a Tool do calendar",
     "has_media": false,
     "media_type": null
   },
@@ -689,13 +689,13 @@
     "id": 13778,
     "author": "Carlos",
     "date": "2025-09-04T17:47:57+00:00",
-    "text": "[Lucimara Guimarães Lopes](tg://user?id=1842041050) abre seu n8n e cola esse json que vou botar aqui embaixo... já é o node configurado, você só precisa identificar os pontos de edição (como sua apikey) e fazer os ajustes",
+    "text": "[Lucimara Guimarêes Lopes](tg://user?id=1842041050) abre seu n8n e cola esse json que vou botar aqui embaixo... já é o node configurado, você só precisa identificar os pontos de ediçêo (como sua apikey) e fazer os ajustes",
     "has_media": false,
     "media_type": null
   },
   {
     "id": 13777,
-    "author": "Lucimara Guimarães Lopes",
+    "author": "Lucimara Guimarêes Lopes",
     "date": "2025-09-04T13:03:46+00:00",
     "text": "",
     "has_media": true,
@@ -704,7 +704,7 @@
   },
   {
     "id": 13776,
-    "author": "Lucimara Guimarães Lopes",
+    "author": "Lucimara Guimarêes Lopes",
     "date": "2025-09-04T13:02:25+00:00",
     "text": "",
     "has_media": true,
@@ -713,7 +713,7 @@
   },
   {
     "id": 13775,
-    "author": "Lucimara Guimarães Lopes",
+    "author": "Lucimara Guimarêes Lopes",
     "date": "2025-09-04T13:02:16+00:00",
     "text": "",
     "has_media": true,
@@ -722,7 +722,7 @@
   },
   {
     "id": 13774,
-    "author": "Lucimara Guimarães Lopes",
+    "author": "Lucimara Guimarêes Lopes",
     "date": "2025-09-04T12:59:52+00:00",
     "text": "",
     "has_media": true,
@@ -731,15 +731,15 @@
   },
   {
     "id": 13773,
-    "author": "Lucimara Guimarães Lopes",
+    "author": "Lucimara Guimarêes Lopes",
     "date": "2025-09-04T12:58:21+00:00",
-    "text": "Isso é o que ele mandou na documentação que me enviou",
+    "text": "Isso é o que ele mandou na documentaçêo que me enviou",
     "has_media": false,
     "media_type": null
   },
   {
     "id": 13772,
-    "author": "Lucimara Guimarães Lopes",
+    "author": "Lucimara Guimarêes Lopes",
     "date": "2025-09-04T12:58:01+00:00",
     "text": "",
     "has_media": true,
@@ -748,7 +748,7 @@
   },
   {
     "id": 13771,
-    "author": "Lucimara Guimarães Lopes",
+    "author": "Lucimara Guimarêes Lopes",
     "date": "2025-09-04T12:56:37+00:00",
     "text": "Bom dia Carlos!Carlos vai me guiando aqui o que preciso te enviar pra me ajudar",
     "has_media": false,
@@ -758,13 +758,13 @@
     "id": 13766,
     "author": "Carlos",
     "date": "2025-09-04T04:19:41+00:00",
-    "text": "manda aqui as informações. só não expõe sua apikey",
+    "text": "manda aqui as informações. só nêo expõe sua apikey",
     "has_media": false,
     "media_type": null
   },
   {
     "id": 13765,
-    "author": "Lucimara Guimarães Lopes",
+    "author": "Lucimara Guimarêes Lopes",
     "date": "2025-09-04T03:53:55+00:00",
     "text": "Consegue me ajudar a pegar uma API no postman e colocar no HTTP request ,já refiz várias vezes mas só dá erro 🤦‍♀️",
     "has_media": false,
@@ -815,7 +815,7 @@
     "id": 13725,
     "author": "Carlos",
     "date": "2025-09-02T10:34:41+00:00",
-    "text": "1) Vai no chatgpt na aba lateral esquerda e clica em GPTs\n2) Pesquisa \"Supabase\" e selecione um gpt que tenha muita utilização \n3) fale para o gpt que está montando uma query no n8n;\n4) solicite ao gpt um SQL pra pegar a estrutura da tabela em questão e cole a estrutura no gpt;\n5) explique sua necessidade ao gpt;\n6) retorne para informar se deu certo 😁",
+    "text": "1) Vai no chatgpt na aba lateral esquerda e clica em GPTs\n2) Pesquisa \"Supabase\" e selecione um gpt que tenha muita utilizaçêo \n3) fale para o gpt que está montando uma query no n8n;\n4) solicite ao gpt um SQL pra pegar a estrutura da tabela em questêo e cole a estrutura no gpt;\n5) explique sua necessidade ao gpt;\n6) retorne para informar se deu certo 😁",
     "has_media": false,
     "media_type": null
   },
@@ -831,7 +831,7 @@
     "id": 13703,
     "author": "Marcelus & Lily",
     "date": "2025-08-31T21:25:13+00:00",
-    "text": "boa noite pessoal..\ngalera quero fazer video longo....\nnem montei aindo o workflow... mas estou pegando referencia aqui...\n\nquero montar um work que gere imagens e edite o video.\nvai ser videos longos..\n\nalguma dica para começar???\n\ne pergunta para video e imagens importa a potencia do vps, queria ver se conseguia colocar tambem tipo compfy para gerar imagens e tal...\na ideia é gerar algo que não pague api",
+    "text": "boa noite pessoal..\ngalera quero fazer video longo....\nnem montei aindo o workflow... mas estou pegando referencia aqui...\n\nquero montar um work que gere imagens e edite o video.\nvai ser videos longos..\n\nalguma dica para começar???\n\ne pergunta para video e imagens importa a potencia do vps, queria ver se conseguia colocar tambem tipo compfy para gerar imagens e tal...\na ideia é gerar algo que nêo pague api",
     "has_media": false,
     "media_type": null
   },
@@ -839,7 +839,7 @@
     "id": 13600,
     "author": "Guilherme",
     "date": "2025-08-31T05:01:52+00:00",
-    "text": "APIs piratas estão sendo alvo de atualizações da Meta para não funcionarem corretamente. \nSe quiser entender como usar a oficial me chama no privado",
+    "text": "APIs piratas estêo sendo alvo de atualizações da Meta para nêo funcionarem corretamente. \nSe quiser entender como usar a oficial me chama no privado",
     "has_media": false,
     "media_type": null
   },
@@ -904,7 +904,7 @@
     "id": 13465,
     "author": "Francisco Eduardo",
     "date": "2025-08-28T14:02:32+00:00",
-    "text": "Bom dia a todos! Preciso de uma ajuda, estou fazendo uma automação para produção e publicação de vídeos curtos para tiktok, instagran e YT. Preciso de ajuda para a escolha das ferramentas, para que o custo não fique alto. Eu estava usando a wavespeed, mas só nos testes ontem gastei 100,00. ai abortei a missão. Se alguém puder me dar um help.\nVou mandar o esquema do workflow para quem quiser dar uma olhada.",
+    "text": "Bom dia a todos! Preciso de uma ajuda, estou fazendo uma automaçêo para produçêo e publicaçêo de vídeos curtos para tiktok, instagran e YT. Preciso de ajuda para a escolha das ferramentas, para que o custo nêo fique alto. Eu estava usando a wavespeed, mas só nos testes ontem gastei 100,00. ai abortei a missêo. Se alguém puder me dar um help.\nVou mandar o esquema do workflow para quem quiser dar uma olhada.",
     "has_media": true,
     "media_type": "MessageMediaPhoto",
     "media_file": "photo_13465_111.jpg"
@@ -913,7 +913,7 @@
     "id": 13444,
     "author": "Henrique",
     "date": "2025-08-28T00:09:54+00:00",
-    "text": "Pessoal, boa noite.\nTenho um sisetma de robôs de atendimento com IA usando a Evolution.\n\nUltimamente tenho percebido que algumas das mensagens, principalmente quando ela vem de anúncio do meta, não estão chegando na evolutione não vai para o N8N.\n\nAlguem teve esse problema e consegue me ajudar?",
+    "text": "Pessoal, boa noite.\nTenho um sisetma de robôs de atendimento com IA usando a Evolution.\n\nUltimamente tenho percebido que algumas das mensagens, principalmente quando ela vem de anúncio do meta, nêo estêo chegando na evolutione nêo vai para o N8N.\n\nAlguem teve esse problema e consegue me ajudar?",
     "has_media": false,
     "media_type": null
   },
@@ -929,7 +929,7 @@
     "id": 13395,
     "author": "Agnaldo",
     "date": "2025-08-27T01:33:24+00:00",
-    "text": "Olá!! Boa noite\nÉ possível criar uma automação pra criar corte de vídeos que ja tenho, são vídeos de lives que faço na cozinha do nosso Delivery,  queria ver se dava para criar conteúdo, através de uma automação. Como não tenho muito tempo pra editar, seria uma ajuda enorme.\nObrigado!!",
+    "text": "Olá!! Boa noite\nÉ possível criar uma automaçêo pra criar corte de vídeos que ja tenho, sêo vídeos de lives que faço na cozinha do nosso Delivery,  queria ver se dava para criar conteúdo, através de uma automaçêo. Como nêo tenho muito tempo pra editar, seria uma ajuda enorme.\nObrigado!!",
     "has_media": false,
     "media_type": null
   },
@@ -1001,7 +1001,7 @@
     "id": 13359,
     "author": "Ph",
     "date": "2025-08-26T00:54:56+00:00",
-    "text": "Estou com um problema na consulta do vector supabase.\nTenho vários documentos lá, de vários condomínios, quando o agente manda a query, ela vai assim: \"query\": “Castelo Branco convivência Como Fazer Solicitações app/canal procedimento.\nSó que, está retornando as regras de todos os condomínios que tem esse “Como fazer solicitação…”, existe no metadatas do vetor, uma váriavel assim: \"condominio_slug\" \"cada condominio com seu nome\", tentei fazer o filtro com essa variavel no metadata do supabase vector. porém não consigo colocar ele váriavel, pois o agente só consegue mandar o condominio slug, assim: \"query\": \"BOSQUE DOS IPÊS convivência Como Fazer Solicitações app/canal procedimento\\ncondominio_slug: BOSQUE DOS IPÊS\" e não dá para fazer o parse ou split da mensagem. Alguém sabe o que eu posso fazer?",
+    "text": "Estou com um problema na consulta do vector supabase.\nTenho vários documentos lá, de vários condomínios, quando o agente manda a query, ela vai assim: \"query\": “Castelo Branco convivência Como Fazer Solicitações app/canal procedimento.\nSó que, está retornando as regras de todos os condomínios que tem esse “Como fazer solicitaçêo…”, existe no metadatas do vetor, uma váriavel assim: \"condominio_slug\" \"cada condominio com seu nome\", tentei fazer o filtro com essa variavel no metadata do supabase vector. porém nêo consigo colocar ele váriavel, pois o agente só consegue mandar o condominio slug, assim: \"query\": \"BOSQUE DOS IPÊS convivência Como Fazer Solicitações app/canal procedimento\\ncondominio_slug: BOSQUE DOS IPÊS\" e nêo dá para fazer o parse ou split da mensagem. Alguém sabe o que eu posso fazer?",
     "has_media": false,
     "media_type": null
   },
@@ -1009,7 +1009,7 @@
     "id": 13352,
     "author": "Rafael",
     "date": "2025-08-25T21:59:04+00:00",
-    "text": "gurus do n8n, estou precisando criar uma automação para o meu site mas não entendo muito de n8n, então resolvi usar de vibe code para tentar criar um json a fim de importar, mas minhas tentativas tem falhado bastante, o problema é que estou desempregado e na minha situação atual não tenho condições financeiras pra assinar o claude code, que pelo que vi, é o mais preciso nestas tarefas. não quero infligir nenhuma regra do grupo, mas se for permitido, alguém poderia me dar uma dica de algum site de rateio de contas que tenha o claude para eu tentar por lá. ou se alguém souber de um caminho melhor e puder me ajudar eu agradeço demais!",
+    "text": "gurus do n8n, estou precisando criar uma automaçêo para o meu site mas nêo entendo muito de n8n, entêo resolvi usar de vibe code para tentar criar um json a fim de importar, mas minhas tentativas tem falhado bastante, o problema é que estou desempregado e na minha situaçêo atual nêo tenho condições financeiras pra assinar o claude code, que pelo que vi, é o mais preciso nestas tarefas. nêo quero infligir nenhuma regra do grupo, mas se for permitido, alguém poderia me dar uma dica de algum site de rateio de contas que tenha o claude para eu tentar por lá. ou se alguém souber de um caminho melhor e puder me ajudar eu agradeço demais!",
     "has_media": false,
     "media_type": null
   },
@@ -1017,7 +1017,7 @@
     "id": 13086,
     "author": "Ph",
     "date": "2025-08-23T17:11:35+00:00",
-    "text": "“Received tool input did not match expected schema”\n\nDa erro na hora da ai agent, acionar tool, ela aciona, mas parece que não recebe resposta\nJa perguntei o gpt, fala que é a forma de enviar o body, mas ta tudo certo. Tem vez que passa sem mudar nada e tem vez que não! 😭😭\n\nAguém consegue ajudar com esse erro??",
+    "text": "“Received tool input did not match expected schema”\n\nDa erro na hora da ai agent, acionar tool, ela aciona, mas parece que nêo recebe resposta\nJa perguntei o gpt, fala que é a forma de enviar o body, mas ta tudo certo. Tem vez que passa sem mudar nada e tem vez que nêo! 😭😭\n\nAguém consegue ajudar com esse erro??",
     "has_media": false,
     "media_type": null
   },
@@ -1025,7 +1025,7 @@
     "id": 13085,
     "author": "Marcelo",
     "date": "2025-08-23T16:59:47+00:00",
-    "text": "fico a disposição para ajudar os menbros aqui da comunidade",
+    "text": "fico a disposiçêo para ajudar os menbros aqui da comunidade",
     "has_media": false,
     "media_type": null
   },
@@ -1065,7 +1065,7 @@
     "id": 13040,
     "author": "Andre",
     "date": "2025-08-21T10:40:49+00:00",
-    "text": "Procuro uma pessoa em São Paulo pra desenvolver N8N em um projeto comigo - precisa ser de SP",
+    "text": "Procuro uma pessoa em Sêo Paulo pra desenvolver N8N em um projeto comigo - precisa ser de SP",
     "has_media": false,
     "media_type": null
   },
@@ -1073,7 +1073,7 @@
     "id": 12989,
     "author": "Wagner",
     "date": "2025-08-20T02:09:20+00:00",
-    "text": "Extensão do chrome para n8n - Para usar, só ir direto em https://n8nchat.com/",
+    "text": "Extensêo do chrome para n8n - Para usar, só ir direto em https://n8nchat.com/",
     "has_media": true,
     "media_type": "MessageMediaWebPage"
   },
@@ -1097,7 +1097,7 @@
     "id": 12832,
     "author": "Marcelo",
     "date": "2025-08-15T17:19:11+00:00",
-    "text": "Pessoal, alguém já conseguiu um exemplo de integração para n8n e clickbank, google ads, digistore? Se sim, poderia compartilhar o exemplo ou link de modelo dessa automação?\nEstou buscando automatizar a busca por produtos com alguns indicadores especificos.\n\nGrato!🙏",
+    "text": "Pessoal, alguém já conseguiu um exemplo de integraçêo para n8n e clickbank, google ads, digistore? Se sim, poderia compartilhar o exemplo ou link de modelo dessa automaçêo?\nEstou buscando automatizar a busca por produtos com alguns indicadores especificos.\n\nGrato!🙏",
     "has_media": false,
     "media_type": null
   },
@@ -1105,7 +1105,7 @@
     "id": 12831,
     "author": "Carlos",
     "date": "2025-08-15T14:53:43+00:00",
-    "text": "📛 Informação importante. Atualizem suas instancias do N8N para solucionar uma falha de segurança que já resolveram pró-ativamente.",
+    "text": "📛 Informaçêo importante. Atualizem suas instancias do N8N para solucionar uma falha de segurança que já resolveram pró-ativamente.",
     "has_media": false,
     "media_type": null
   },
@@ -1122,7 +1122,7 @@
     "id": 12749,
     "author": "WESLLEY",
     "date": "2025-08-13T14:56:28+00:00",
-    "text": "Olá pessoal bom dia. Eu quero criar uma automação para fazer vídeos alguém pode me dar um norte?",
+    "text": "Olá pessoal bom dia. Eu quero criar uma automaçêo para fazer vídeos alguém pode me dar um norte?",
     "has_media": false,
     "media_type": null
   },
@@ -1130,7 +1130,7 @@
     "id": 12745,
     "author": "Rander",
     "date": "2025-08-13T12:58:37+00:00",
-    "text": "Alguém pode me dar uma luz de como faço pro agente devolver as imagens no WhatsApp em “foto” e não link ?",
+    "text": "Alguém pode me dar uma luz de como faço pro agente devolver as imagens no WhatsApp em “foto” e nêo link ?",
     "has_media": false,
     "media_type": null
   },
@@ -1154,7 +1154,7 @@
     "id": 12511,
     "author": "Nicolas",
     "date": "2025-08-10T22:36:19+00:00",
-    "text": "Boa noite! Alguém tem o script pronto da evo2 pra subir na stak do portainer. A que tenho aqui não gera o QR code\n\nPra ambiente localhost",
+    "text": "Boa noite! Alguém tem o script pronto da evo2 pra subir na stak do portainer. A que tenho aqui nêo gera o QR code\n\nPra ambiente localhost",
     "has_media": false,
     "media_type": null
   },
@@ -1221,7 +1221,7 @@
     "id": 12285,
     "author": "Carlos",
     "date": "2025-08-06T14:31:33+00:00",
-    "text": "🔍 Descubra o prompt que mudou tudo nos meus agentes de IA no N8n!  \n🚀 Mais leve, mais inteligente e pronto pra produção.  \n📽 Assiste aqui: https://www.youtube.com/watch?v=Na5yG7iabBQ",
+    "text": "🔍 Descubra o prompt que mudou tudo nos meus agentes de IA no N8n!  \n🚀 Mais leve, mais inteligente e pronto pra produçêo.  \n📽 Assiste aqui: https://www.youtube.com/watch?v=Na5yG7iabBQ",
     "has_media": true,
     "media_type": "MessageMediaWebPage"
   },
@@ -1237,7 +1237,7 @@
     "id": 12243,
     "author": "Desconhecido",
     "date": "2025-08-05T07:07:31+00:00",
-    "text": "pessoal estou um pouco perdido, precisava criar uma automacao para marcação de horários e tambem tirar duvidas dos clientes sobre a consulta etc. \nTem algum template assim?",
+    "text": "pessoal estou um pouco perdido, precisava criar uma automacao para marcaçêo de horários e tambem tirar duvidas dos clientes sobre a consulta etc. \nTem algum template assim?",
     "has_media": false,
     "media_type": null
   },
@@ -1253,7 +1253,7 @@
     "id": 12099,
     "author": "Camila massoterapeuta",
     "date": "2025-07-31T13:51:50+00:00",
-    "text": "Estou procurando  uma automação para cálculo trabalhista",
+    "text": "Estou procurando  uma automaçêo para cálculo trabalhista",
     "has_media": false,
     "media_type": null
   },
@@ -1261,7 +1261,7 @@
     "id": 12098,
     "author": "Camila massoterapeuta",
     "date": "2025-07-31T13:51:23+00:00",
-    "text": "Alguém  salbe se o nm50 - Think Tools, existe na versão  do make",
+    "text": "Alguém  salbe se o nm50 - Think Tools, existe na versêo  do make",
     "has_media": false,
     "media_type": null
   },
@@ -1269,7 +1269,7 @@
     "id": 12061,
     "author": "Bruno Neves",
     "date": "2025-07-30T16:28:33+00:00",
-    "text": "não testei por auqi",
+    "text": "nêo testei por auqi",
     "has_media": false,
     "media_type": null
   },
@@ -1293,7 +1293,7 @@
     "id": 12058,
     "author": "Bruno Neves",
     "date": "2025-07-30T16:22:28+00:00",
-    "text": "Então. O Claude Max de R$1100 teoricamente AINDA NÃO RESOLVERIA 100%.",
+    "text": "Entêo. O Claude Max de R$1100 teoricamente AINDA NêO RESOLVERIA 100%.",
     "has_media": false,
     "media_type": null
   },
@@ -1317,7 +1317,7 @@
     "id": 12055,
     "author": "Bruno Neves",
     "date": "2025-07-30T16:20:32+00:00",
-    "text": "Claude Pro, Mauricio? Aqui tenho esse problema também. Vc precisa desenvolver uma estratégia pra consumir o mínimo de tokens possível. O Claude 4 Sonnet já é muito mais efetivo nesse tipo de tarefa que o Gemini 2.5 Pro e GPT o3. Minha opinião, claro.\nO Claude 4 Opus, então, é infinitamente superior. Mas aí acaba gastando os tokens da janela muito rápido.",
+    "text": "Claude Pro, Mauricio? Aqui tenho esse problema também. Vc precisa desenvolver uma estratégia pra consumir o mínimo de tokens possível. O Claude 4 Sonnet já é muito mais efetivo nesse tipo de tarefa que o Gemini 2.5 Pro e GPT o3. Minha opiniêo, claro.\nO Claude 4 Opus, entêo, é infinitamente superior. Mas aí acaba gastando os tokens da janela muito rápido.",
     "has_media": false,
     "media_type": null
   },
@@ -1325,7 +1325,7 @@
     "id": 12049,
     "author": "Mauricio",
     "date": "2025-07-30T15:53:01+00:00",
-    "text": "Boa tarde, surgiu uma dúvida aqui, tenho usado o claude para fazer workflow automações no n8n, pois já sai quase prontas, mais a janela deles e muito curta, e vai ficar ainda mais curta, estou em dúvida, se cancelo e migro para outra, tipo grok4, ou se mudo para GPT que faz muito mais coisas, e se eu tiver que usar para fazer workflow, utiliza OpenRouter para fazer os workflow, quero economizar o máximo, vontade de assinar todos, mais no momento não consigo\n\n\nOBS: tenho duas contas do Gemini Pro.",
+    "text": "Boa tarde, surgiu uma dúvida aqui, tenho usado o claude para fazer workflow automações no n8n, pois já sai quase prontas, mais a janela deles e muito curta, e vai ficar ainda mais curta, estou em dúvida, se cancelo e migro para outra, tipo grok4, ou se mudo para GPT que faz muito mais coisas, e se eu tiver que usar para fazer workflow, utiliza OpenRouter para fazer os workflow, quero economizar o máximo, vontade de assinar todos, mais no momento nêo consigo\n\n\nOBS: tenho duas contas do Gemini Pro.",
     "has_media": false,
     "media_type": null
   },
@@ -1454,7 +1454,7 @@
     "id": 11680,
     "author": "Manu",
     "date": "2025-07-21T19:23:19+00:00",
-    "text": "Olá pessoal, tudo bem?\nSou o Manu,\nEstou pesquisando em várias comunidades (inclusive aqui na Inema VIP) & Github.\numa solução para um projeto e gostaria de saber se ALGUÉM pode me dar uma luz.\n\n**Busco um software, automação ou workflow pronto para criar ensaios fotográficos com IA**, com foco em rodar tudo localmente. O fluxo ideal que estou procurando faria o seguinte:\n\n• Treinamento (Fine-tuning): \nO sistema precisaria receber um pacote de fotos de uma pessoa e, a partir dele, treinar um modelo LoRA para aprender seu rosto específico.\n\n• Geração (Inferência): \nEm seguida, usar esse modelo LoRA treinado para gerar novas imagens da pessoa em cenários temáticos, como um ensaio de aniversário, formatura ou corporativo, a partir de prompts.\n\n• Fluxo Integrado: \nO mais importante é que as etapas de treino e geração sejam conectadas, minimizando a intervenção manual no processo.\n\nTenho encontrado ótimas ferramentas que resolvem as etapas em separado (scripts para treino de LoRA, interfaces de geração como o ComfyUI, etc.), \nmas meu desafio é encontrar algo que una essas duas pontas de forma automatizada.\n\nAlguém aqui já montou um fluxo assim ou conhece algum projeto (GitHub / Inema Vip ou não), software ou workflow de automação que faça esse processo de ponta a ponta?\nAgradeço imensamente a atenção! 🙏",
+    "text": "Olá pessoal, tudo bem?\nSou o Manu,\nEstou pesquisando em várias comunidades (inclusive aqui na Inema VIP) & Github.\numa soluçêo para um projeto e gostaria de saber se ALGUÉM pode me dar uma luz.\n\n**Busco um software, automaçêo ou workflow pronto para criar ensaios fotográficos com IA**, com foco em rodar tudo localmente. O fluxo ideal que estou procurando faria o seguinte:\n\n• Treinamento (Fine-tuning): \nO sistema precisaria receber um pacote de fotos de uma pessoa e, a partir dele, treinar um modelo LoRA para aprender seu rosto específico.\n\n• Geraçêo (Inferência): \nEm seguida, usar esse modelo LoRA treinado para gerar novas imagens da pessoa em cenários temáticos, como um ensaio de aniversário, formatura ou corporativo, a partir de prompts.\n\n• Fluxo Integrado: \nO mais importante é que as etapas de treino e geraçêo sejam conectadas, minimizando a intervençêo manual no processo.\n\nTenho encontrado ótimas ferramentas que resolvem as etapas em separado (scripts para treino de LoRA, interfaces de geraçêo como o ComfyUI, etc.), \nmas meu desafio é encontrar algo que una essas duas pontas de forma automatizada.\n\nAlguém aqui já montou um fluxo assim ou conhece algum projeto (GitHub / Inema Vip ou nêo), software ou workflow de automaçêo que faça esse processo de ponta a ponta?\nAgradeço imensamente a atençêo! 🙏",
     "has_media": false,
     "media_type": null
   },
@@ -1487,7 +1487,7 @@
     "id": 11623,
     "author": "Interativa",
     "date": "2025-07-21T14:30:26+00:00",
-    "text": "Olá, tenho 3 grupos com media de 900 pessoas em cada. Gostaria de saber se tem alguma IA que pode entrar em cada grupo, pegar os números de cada membro separar para criar uma planilha com os dados para salvar nos contatos e depois enviar uma mensagem pelo WhatsApp individualmente oferecendo uma oferta imperdível para assinar o nosso plano? Pois pra fazer na mão vai da muito trabalho",
+    "text": "Olá, tenho 3 grupos com media de 900 pessoas em cada. Gostaria de saber se tem alguma IA que pode entrar em cada grupo, pegar os números de cada membro separar para criar uma planilha com os dados para salvar nos contatos e depois enviar uma mensagem pelo WhatsApp individualmente oferecendo uma oferta imperdível para assinar o nosso plano? Pois pra fazer na mêo vai da muito trabalho",
     "has_media": false,
     "media_type": null
   },
@@ -1527,7 +1527,7 @@
     "id": 11551,
     "author": "EntropyAI",
     "date": "2025-07-18T17:35:08+00:00",
-    "text": "Galera onde posso encontrar as aulas da automação superagete  e27 de atendimento?",
+    "text": "Galera onde posso encontrar as aulas da automaçêo superagete  e27 de atendimento?",
     "has_media": false,
     "media_type": null
   },
@@ -1543,7 +1543,7 @@
     "id": 11532,
     "author": "Thomas",
     "date": "2025-07-17T23:31:23+00:00",
-    "text": "Tem esse fluxo aqui na comunidade?\nVi que tem vários fluxos desse canal do youtube aqui no grupo, porem não achei esse fluxo aqui desse video. \nhttps://www.youtube.com/watch?v=RJU7lMRyFZQ&t=23s",
+    "text": "Tem esse fluxo aqui na comunidade?\nVi que tem vários fluxos desse canal do youtube aqui no grupo, porem nêo achei esse fluxo aqui desse video. \nhttps://www.youtube.com/watch?v=RJU7lMRyFZQ&t=23s",
     "has_media": true,
     "media_type": "MessageMediaWebPage"
   },
@@ -1576,7 +1576,7 @@
     "id": 11527,
     "author": "Acima do topo",
     "date": "2025-07-17T21:46:54+00:00",
-    "text": "Preciso de uma automatização para Google ads já tem\nAlgo relacionado ?",
+    "text": "Preciso de uma automatizaçêo para Google ads já tem\nAlgo relacionado ?",
     "has_media": false,
     "media_type": null
   },
@@ -1600,7 +1600,7 @@
     "id": 11468,
     "author": "thc",
     "date": "2025-07-17T17:23:18+00:00",
-    "text": "não consegui achar aq",
+    "text": "nêo consegui achar aq",
     "has_media": false,
     "media_type": null
   },
@@ -1616,7 +1616,7 @@
     "id": 11426,
     "author": "Gabriel",
     "date": "2025-07-15T20:30:30+00:00",
-    "text": "Boa tarde, alguem consegue me dar uma ajuda, montei um agente de agendamento porém ele não dá os horários disponiveis da agenda de jeito nenhum, já mexi no prompt, na agenda, no formato de horario e etc... Ele só envia esses 3 horários toda vez.\n\nAlguém sabe o que pode ser?",
+    "text": "Boa tarde, alguem consegue me dar uma ajuda, montei um agente de agendamento porém ele nêo dá os horários disponiveis da agenda de jeito nenhum, já mexi no prompt, na agenda, no formato de horario e etc... Ele só envia esses 3 horários toda vez.\n\nAlguém sabe o que pode ser?",
     "has_media": true,
     "media_type": "MessageMediaPhoto",
     "media_file": "photo_11426_199.jpg"
@@ -1625,7 +1625,7 @@
     "id": 11386,
     "author": "Victor",
     "date": "2025-07-14T19:29:45+00:00",
-    "text": "Quem ainda não tem convite para o Manus:\n\nhttps://manus.im/invitation/D3DKADTLUL5RQ",
+    "text": "Quem ainda nêo tem convite para o Manus:\n\nhttps://manus.im/invitation/D3DKADTLUL5RQ",
     "has_media": true,
     "media_type": "MessageMediaWebPage"
   },
@@ -1658,7 +1658,7 @@
     "id": 11292,
     "author": "Automatizze",
     "date": "2025-07-12T15:37:24+00:00",
-    "text": "Então é um atendente, correto?",
+    "text": "Entêo é um atendente, correto?",
     "has_media": false,
     "media_type": null
   },
@@ -1690,7 +1690,7 @@
     "id": 11286,
     "author": "Mau",
     "date": "2025-07-12T15:18:57+00:00",
-    "text": "Esse aí já atende uma empresa de locação para eventos",
+    "text": "Esse aí já atende uma empresa de locaçêo para eventos",
     "has_media": false,
     "media_type": null
   },
@@ -1756,7 +1756,7 @@
     "id": 11232,
     "author": "EntropyAI",
     "date": "2025-07-10T22:10:31+00:00",
-    "text": "Em, uma pergunta básica (perdão apesar de saber programação sou novo lidando com esse aterramenta). Esse \"execuções de fluxo de trabalho\" significa que se eu tiver por exemplo um agente de atendimento ele só vai poder ser ativado 2 mil e quientas vezes no mês? Isso quer dizer que se o chat receber mais mensagem do que isso ele trava ? Tipo cada mensagem de um usuário ativaria ele uma vez? E o que seria esses compassos ilimitados ?",
+    "text": "Em, uma pergunta básica (perdêo apesar de saber programaçêo sou novo lidando com esse aterramenta). Esse \"execuções de fluxo de trabalho\" significa que se eu tiver por exemplo um agente de atendimento ele só vai poder ser ativado 2 mil e quientas vezes no mês? Isso quer dizer que se o chat receber mais mensagem do que isso ele trava ? Tipo cada mensagem de um usuário ativaria ele uma vez? E o que seria esses compassos ilimitados ?",
     "has_media": true,
     "media_type": "MessageMediaPhoto",
     "media_file": "photo_11232_216.jpg"
@@ -1806,7 +1806,7 @@
     "id": 11224,
     "author": "Anderson Muniz",
     "date": "2025-07-10T18:29:29+00:00",
-    "text": "Seria possível mas não vejo muita lógica o atendente humano encaminhar para I.A já que foi encaminhado.",
+    "text": "Seria possível mas nêo vejo muita lógica o atendente humano encaminhar para I.A já que foi encaminhado.",
     "has_media": false,
     "media_type": null
   },
@@ -1814,7 +1814,7 @@
     "id": 11223,
     "author": "Willian",
     "date": "2025-07-10T18:24:14+00:00",
-    "text": "Adiciona um “pausar a IA” quando for necessário o atendente assumir o atendimento, e vice versa. Da pra fazer no clickup ou no próprio N8n com uma configuração de palavra chave.",
+    "text": "Adiciona um “pausar a IA” quando for necessário o atendente assumir o atendimento, e vice versa. Da pra fazer no clickup ou no próprio N8n com uma configuraçêo de palavra chave.",
     "has_media": false,
     "media_type": null
   },
@@ -1830,7 +1830,7 @@
     "id": 11219,
     "author": "Saulo",
     "date": "2025-07-10T16:44:20+00:00",
-    "text": "Tudo bem pessoal?\nestou procurando uma automação que faça raspagem em um canal Youtube, por um link RSS e de Feed, além de link de um blog e grave isso em  uma planilha Google Sheets. Alguém pode me ajudar encontrar?",
+    "text": "Tudo bem pessoal?\nestou procurando uma automaçêo que faça raspagem em um canal Youtube, por um link RSS e de Feed, além de link de um blog e grave isso em  uma planilha Google Sheets. Alguém pode me ajudar encontrar?",
     "has_media": false,
     "media_type": null
   },
@@ -1879,13 +1879,13 @@
     "id": 11205,
     "author": "GKW",
     "date": "2025-07-10T11:55:01+00:00",
-    "text": "no status de publicação deve estar em produção. provavelmente seja isso.",
+    "text": "no status de publicaçêo deve estar em produçêo. provavelmente seja isso.",
     "has_media": false,
     "media_type": null
   },
   {
     "id": 11204,
-    "author": "Não Me Viu",
+    "author": "Nêo Me Viu",
     "date": "2025-07-10T11:28:48+00:00",
     "text": "alguem pode me ajudar a resolver isso, ja e a segunda vez que me acontece tento conctar google drive aparece esse erro",
     "has_media": true,
@@ -1928,7 +1928,7 @@
     "id": 11121,
     "author": "GKW",
     "date": "2025-07-09T19:38:46+00:00",
-    "text": "Olá pessoal, estou utilizando o z-api para realizar alguns teste de integração com o whatsapp. porém essa api é de apenas 2 dias, alguma sugestão de api que tenha um período maior para testes de integração.",
+    "text": "Olá pessoal, estou utilizando o z-api para realizar alguns teste de integraçêo com o whatsapp. porém essa api é de apenas 2 dias, alguma sugestêo de api que tenha um período maior para testes de integraçêo.",
     "has_media": false,
     "media_type": null
   },
@@ -1961,7 +1961,7 @@
     "id": 11108,
     "author": "Anderson Muniz",
     "date": "2025-07-09T14:22:01+00:00",
-    "text": "Top, muito bom. Para quem criar um MVP está ótimo ou até mesmo um ambiente de apresentação para clientes e parceiros.",
+    "text": "Top, muito bom. Para quem criar um MVP está ótimo ou até mesmo um ambiente de apresentaçêo para clientes e parceiros.",
     "has_media": false,
     "media_type": null
   },
@@ -1969,7 +1969,7 @@
     "id": 11107,
     "author": "Automatizze",
     "date": "2025-07-09T14:20:19+00:00",
-    "text": "12 meses, mas para usar essa na opção lightsail la na aws, eles dão 3 meses free. Mas ainda assim a mensalidade depois da VPS vale a pena",
+    "text": "12 meses, mas para usar essa na opçêo lightsail la na aws, eles dêo 3 meses free. Mas ainda assim a mensalidade depois da VPS vale a pena",
     "has_media": false,
     "media_type": null
   },
@@ -2002,7 +2002,7 @@
     "id": 11032,
     "author": "Weslei",
     "date": "2025-07-07T19:36:03+00:00",
-    "text": "opa.. esses workflows são diferentes do que o ney trouxe pra nós? pq ele trouxe umas 2.000 automações pra nós",
+    "text": "opa.. esses workflows sêo diferentes do que o ney trouxe pra nós? pq ele trouxe umas 2.000 automações pra nós",
     "has_media": false,
     "media_type": null
   },
@@ -2016,9 +2016,9 @@
   },
   {
     "id": 10993,
-    "author": "Não Me Viu",
+    "author": "Nêo Me Viu",
     "date": "2025-07-06T22:23:04+00:00",
-    "text": "Alguém disposto a abrir uma agência de automação comigo ? Tens de perceber mais do que eu kkk eu gosto de vender, tenho boas ideias 💡 preciso de uma ajuda nas automações pois ainda me sinto inseguro!",
+    "text": "Alguém disposto a abrir uma agência de automaçêo comigo ? Tens de perceber mais do que eu kkk eu gosto de vender, tenho boas ideias 💡 preciso de uma ajuda nas automações pois ainda me sinto inseguro!",
     "has_media": false,
     "media_type": null
   },
@@ -2040,7 +2040,7 @@
   },
   {
     "id": 10955,
-    "author": "Não Me Viu",
+    "author": "Nêo Me Viu",
     "date": "2025-07-05T22:22:34+00:00",
     "text": "preciso de agente para atendimento de pizaria ou hamburgueria",
     "has_media": false,
@@ -2058,7 +2058,7 @@
     "id": 10914,
     "author": "Roger",
     "date": "2025-07-04T01:00:19+00:00",
-    "text": "Preciso de alguém para me ajudar em automação. Chat bot inteligente",
+    "text": "Preciso de alguém para me ajudar em automaçêo. Chat bot inteligente",
     "has_media": false,
     "media_type": null
   },
@@ -2074,7 +2074,7 @@
     "id": 10903,
     "author": "Totty",
     "date": "2025-07-03T19:28:31+00:00",
-    "text": "@INEMAtds vc tem essa automação: https://www.youtube.com/watch?v=o5H5OlHr_yM\n\nSe sim, pode me indicar o diretório para achar, por gentileza? Obrigado",
+    "text": "@INEMAtds vc tem essa automaçêo: https://www.youtube.com/watch?v=o5H5OlHr_yM\n\nSe sim, pode me indicar o diretório para achar, por gentileza? Obrigado",
     "has_media": true,
     "media_type": "MessageMediaWebPage"
   },
@@ -2090,7 +2090,7 @@
     "id": 10729,
     "author": "Carlos",
     "date": "2025-07-01T04:20:42+00:00",
-    "text": "Aqui meu nobre✋\n\nAgentes diversos:\n- entende áudio\n- envia imagem, vídeo e pdf\n- faz Agendamento\n- salva informações no CRM\n- fluxo de follow-up integrado\n- salva histórico da conversa\n- gera boleto, QR core\n- funcionalidades diversas adicionais\n\nAgente de ligação \n- executa funções enquanto conversa, tipo: envia link de pagamento no whatsapp, faz agendamento, etc\n- opção de interligar a sistema voip",
+    "text": "Aqui meu nobre✋\n\nAgentes diversos:\n- entende áudio\n- envia imagem, vídeo e pdf\n- faz Agendamento\n- salva informações no CRM\n- fluxo de follow-up integrado\n- salva histórico da conversa\n- gera boleto, QR core\n- funcionalidades diversas adicionais\n\nAgente de ligaçêo \n- executa funções enquanto conversa, tipo: envia link de pagamento no whatsapp, faz agendamento, etc\n- opçêo de interligar a sistema voip",
     "has_media": false,
     "media_type": null
   },
@@ -2146,7 +2146,7 @@
     "id": 10685,
     "author": "Micael",
     "date": "2025-06-29T17:28:41+00:00",
-    "text": "Não me aparece nada para instalar a evolution api , o que passará ?",
+    "text": "Nêo me aparece nada para instalar a evolution api , o que passará ?",
     "has_media": true,
     "media_type": "MessageMediaPhoto",
     "media_file": "photo_10685_264.jpg"
@@ -2163,7 +2163,7 @@
     "id": 10654,
     "author": "Automatizze",
     "date": "2025-06-27T17:41:26+00:00",
-    "text": "Gerador de Prompts para o Veo3👌\nLegal né? O sistema possui cadastros para gestão de usuarios e outras funcionalidades legais, tudo isso rodando diretamente com N8N.",
+    "text": "Gerador de Prompts para o Veo3👌\nLegal né? O sistema possui cadastros para gestêo de usuarios e outras funcionalidades legais, tudo isso rodando diretamente com N8N.",
     "has_media": false,
     "media_type": null
   },
@@ -2304,7 +2304,7 @@
     "id": 10415,
     "author": "Digital",
     "date": "2025-06-24T20:16:38+00:00",
-    "text": "Boa noite pessoal, tem alguma automação que tenha ligado em tempo real ?",
+    "text": "Boa noite pessoal, tem alguma automaçêo que tenha ligado em tempo real ?",
     "has_media": false,
     "media_type": null
   },
@@ -2336,7 +2336,7 @@
     "id": 10341,
     "author": "Douglas Mendes",
     "date": "2025-06-22T21:49:03+00:00",
-    "text": "Vou aguardar. Aproveito para deixar o meu muito obrigado de forma antecipada. \n\nMinha esposa tem um canal de gestão e a resposta aos comentários do YouTube nos tomaria um tempo significativo. Por isso optamos por não explorar, sem IA vai ser impossível dar conta.\n\nSe eu conseguir colocar isso para rodar, vai mudar nosso jogo.",
+    "text": "Vou aguardar. Aproveito para deixar o meu muito obrigado de forma antecipada. \n\nMinha esposa tem um canal de gestêo e a resposta aos comentários do YouTube nos tomaria um tempo significativo. Por isso optamos por nêo explorar, sem IA vai ser impossível dar conta.\n\nSe eu conseguir colocar isso para rodar, vai mudar nosso jogo.",
     "has_media": false,
     "media_type": null
   },
@@ -2360,7 +2360,7 @@
     "id": 10307,
     "author": "INEMA",
     "date": "2025-06-22T09:48:13+00:00",
-    "text": "### 1. **Responder comentários no LinkedIn**\n\n* **Opção 1 (oficial e gratuita):**\n  Usar a **API oficial do LinkedIn** via `HTTP Request` no n8n.\n  Permite responder comentários nos **seus próprios posts**.\n  Precisa configurar OAuth2 no LinkedIn Developer.\n\n---\n\n### 2. **Responder DMs no LinkedIn**\n\n* **Opção 1 (usando Unipile):**\n  Conectar sua conta do LinkedIn ao **Unipile**.\n  O Unipile envia as DMs para o n8n via **webhook**.\n  Você responde usando `HTTP Request` com a **API do Unipile**.\n  É a única forma confiável hoje de automatizar mensagens privadas.",
+    "text": "### 1. **Responder comentários no LinkedIn**\n\n* **Opçêo 1 (oficial e gratuita):**\n  Usar a **API oficial do LinkedIn** via `HTTP Request` no n8n.\n  Permite responder comentários nos **seus próprios posts**.\n  Precisa configurar OAuth2 no LinkedIn Developer.\n\n---\n\n### 2. **Responder DMs no LinkedIn**\n\n* **Opçêo 1 (usando Unipile):**\n  Conectar sua conta do LinkedIn ao **Unipile**.\n  O Unipile envia as DMs para o n8n via **webhook**.\n  Você responde usando `HTTP Request` com a **API do Unipile**.\n  É a única forma confiável hoje de automatizar mensagens privadas.",
     "has_media": false,
     "media_type": null
   },
@@ -2409,7 +2409,7 @@
     "id": 10130,
     "author": "Felipe",
     "date": "2025-06-20T12:40:38+00:00",
-    "text": "tem como mostrar como foi o processo de criação?",
+    "text": "tem como mostrar como foi o processo de criaçêo?",
     "has_media": false,
     "media_type": null
   },
@@ -2471,7 +2471,7 @@
     "id": 10074,
     "author": "Automatizze",
     "date": "2025-06-19T01:54:18+00:00",
-    "text": "Sabe aquela dor de cabeça pra criar prompt pro seu vídeo virar CINEMA? Pois é, por aqui deu MUITA dor de cabeça, mas... SAIU! 🎉\n\nFinalizei aqui  um criador de prompts top pro VEO3, totalmente integrado com o n8n! Agora ficou moleza dar vida às suas ideias. É só preencher um formulário rapidão no nosso site, e a nossa IA manda o prompt PERFEITO pra você colar direto no VEO3! Dá pra fazer vídeo de TUDO: selfie, anime, desastre... O que a sua imaginação mandar! 🚀\n\nVou deixar essa belezura disponível por uns dias (enquanto a chave da API aguenta, né? haha). Quem curtiu a ideia e quer saber mais sobre essa automação braba, chama no PV! 😉\n\nAh, e o melhor: já tô conectando ele direto na geração do vídeo e na postagem também!  Creio que finalize  final de semana. Showw.. vlw!\n\nhttps://veo3-n8n.lovable.app/",
+    "text": "Sabe aquela dor de cabeça pra criar prompt pro seu vídeo virar CINEMA? Pois é, por aqui deu MUITA dor de cabeça, mas... SAIU! 🎉\n\nFinalizei aqui  um criador de prompts top pro VEO3, totalmente integrado com o n8n! Agora ficou moleza dar vida às suas ideias. É só preencher um formulário rapidêo no nosso site, e a nossa IA manda o prompt PERFEITO pra você colar direto no VEO3! Dá pra fazer vídeo de TUDO: selfie, anime, desastre... O que a sua imaginaçêo mandar! 🚀\n\nVou deixar essa belezura disponível por uns dias (enquanto a chave da API aguenta, né? haha). Quem curtiu a ideia e quer saber mais sobre essa automaçêo braba, chama no PV! 😉\n\nAh, e o melhor: já tô conectando ele direto na geraçêo do vídeo e na postagem também!  Creio que finalize  final de semana. Showw.. vlw!\n\nhttps://veo3-n8n.lovable.app/",
     "has_media": true,
     "media_type": "MessageMediaPhoto",
     "media_file": "photo_10074_303.jpg"
@@ -2496,7 +2496,7 @@
     "id": 9992,
     "author": "Antonio",
     "date": "2025-06-17T02:21:07+00:00",
-    "text": "Qual a melhor maneira de criar um avatar de mim, porem fique mais igual? \nestou tentando criar uma foto de um lora, as vezes parece comigo, as vezes não.\n\nestou pensando desta foto criar um video, mas nunca fica bom.\n\ncomo que a galera anda fazendo?",
+    "text": "Qual a melhor maneira de criar um avatar de mim, porem fique mais igual? \nestou tentando criar uma foto de um lora, as vezes parece comigo, as vezes nêo.\n\nestou pensando desta foto criar um video, mas nunca fica bom.\n\ncomo que a galera anda fazendo?",
     "has_media": false,
     "media_type": null
   },
@@ -2521,7 +2521,7 @@
     "id": 9932,
     "author": "Artur",
     "date": "2025-06-16T01:37:24+00:00",
-    "text": "Alguém consegue ajudar?\n\nClico nos links e não abre nada",
+    "text": "Alguém consegue ajudar?\n\nClico nos links e nêo abre nada",
     "has_media": false,
     "media_type": null
   },
@@ -2545,7 +2545,7 @@
     "id": 9335,
     "author": "INEMA",
     "date": "2025-06-11T23:54:40+00:00",
-    "text": "noticias do N8N\n\n**Resumo da Reunião com Bart Veldhuizen – 11 de Junho**\n\n**Objetivo do Encontro:**\nConversa informal via Google Meet com Bart Veldhuizen, líder da comunidade N8N, para entender sua função, a evolução da comunidade e responder perguntas dos membros.\n\n**Principais Conclusões:**\n\n* N8N está em crescimento acelerado, expandindo a equipe de comunidade e promovendo mais eventos e engajamento.\n* A empresa foca em marketing autêntico e útil, com a comunidade como base de adoção do produto.\n* A edição gratuita é fundamental para disseminação do N8N e impulsiona melhorias no produto.\n\n**Tópicos Abordados:**\n\n**1. Evolução do Papel de Bart**\n\n* Era usuário antes de entrar no time (há 1,5 anos).\n* Criou a base da comunidade (redes, fórum, lives, newsletter).\n* Atualmente lidera o programa de embaixadores (36 embaixadores) e expansão da equipe.\n* Está direcionando esforços para grandes eventos, expansão internacional e automação da gestão da comunidade.\n\n**2. Estratégia de Crescimento da Comunidade**\n\n* Comunidade é pilar estratégico para o N8N, inclusive para vendas corporativas.\n* Aposta em eventos: meetups, workshops e grandes conferências.\n* Participação em eventos relevantes (ex: We Are Developers Conference em Berlim).\n* Incentivo a comunidades paralelas (como subreddits e YouTubers).\n* Foco em criar um ecossistema saudável de parceiros e agências.\n\n**3. Como Monetizar Habilidades com N8N**\n\n* Criar uma agência é mais viável do que vender automações individuais.\n* Comece resolvendo problemas reais (seus e de amigos) para ganhar portfólio.\n* Com o tempo, aumente a complexidade dos projetos.\n* Integrações com IA devem ser planejadas, especialmente para clientes empresariais.\n\n**4. Recursos de Aprendizado para Iniciantes**\n\n* Aprender estrutura de dados JSON.\n* Estudar fundamentos de JavaScript para uso em expressões.\n* Entender APIs REST e métodos HTTP.\n* Começar com projetos pessoais simples.\n\n**5. Aspectos Técnicos**\n\n* N8N suporta alto volume com arquitetura de instâncias mestre e workers.\n* Gestão de credenciais ainda limitada para quem não é enterprise.\n* Algumas funções avançadas exigem licença empresarial.\n\n**6. Próximos Passos**\n\n* Ficar atento às novidades sobre o evento em Berlim.\n* Explorar a série “N8N at Scale” no YouTube.\n* Acompanhar discussões sobre novas soluções para gestão de credenciais.\n* Continuar participando da comunidade via eventos, fóruns e produção de conteúdo.",
+    "text": "noticias do N8N\n\n**Resumo da Reuniêo com Bart Veldhuizen – 11 de Junho**\n\n**Objetivo do Encontro:**\nConversa informal via Google Meet com Bart Veldhuizen, líder da comunidade N8N, para entender sua funçêo, a evoluçêo da comunidade e responder perguntas dos membros.\n\n**Principais Conclusões:**\n\n* N8N está em crescimento acelerado, expandindo a equipe de comunidade e promovendo mais eventos e engajamento.\n* A empresa foca em marketing autêntico e útil, com a comunidade como base de adoçêo do produto.\n* A ediçêo gratuita é fundamental para disseminaçêo do N8N e impulsiona melhorias no produto.\n\n**Tópicos Abordados:**\n\n**1. Evoluçêo do Papel de Bart**\n\n* Era usuário antes de entrar no time (há 1,5 anos).\n* Criou a base da comunidade (redes, fórum, lives, newsletter).\n* Atualmente lidera o programa de embaixadores (36 embaixadores) e expansêo da equipe.\n* Está direcionando esforços para grandes eventos, expansêo internacional e automaçêo da gestêo da comunidade.\n\n**2. Estratégia de Crescimento da Comunidade**\n\n* Comunidade é pilar estratégico para o N8N, inclusive para vendas corporativas.\n* Aposta em eventos: meetups, workshops e grandes conferências.\n* Participaçêo em eventos relevantes (ex: We Are Developers Conference em Berlim).\n* Incentivo a comunidades paralelas (como subreddits e YouTubers).\n* Foco em criar um ecossistema saudável de parceiros e agências.\n\n**3. Como Monetizar Habilidades com N8N**\n\n* Criar uma agência é mais viável do que vender automações individuais.\n* Comece resolvendo problemas reais (seus e de amigos) para ganhar portfólio.\n* Com o tempo, aumente a complexidade dos projetos.\n* Integrações com IA devem ser planejadas, especialmente para clientes empresariais.\n\n**4. Recursos de Aprendizado para Iniciantes**\n\n* Aprender estrutura de dados JSON.\n* Estudar fundamentos de JavaScript para uso em expressões.\n* Entender APIs REST e métodos HTTP.\n* Começar com projetos pessoais simples.\n\n**5. Aspectos Técnicos**\n\n* N8N suporta alto volume com arquitetura de instâncias mestre e workers.\n* Gestêo de credenciais ainda limitada para quem nêo é enterprise.\n* Algumas funções avançadas exigem licença empresarial.\n\n**6. Próximos Passos**\n\n* Ficar atento às novidades sobre o evento em Berlim.\n* Explorar a série “N8N at Scale” no YouTube.\n* Acompanhar discussões sobre novas soluções para gestêo de credenciais.\n* Continuar participando da comunidade via eventos, fóruns e produçêo de conteúdo.",
     "has_media": false,
     "media_type": null
   },
@@ -2602,7 +2602,7 @@
     "id": 9285,
     "author": "Rodolfo Liima",
     "date": "2025-06-11T04:13:00+00:00",
-    "text": "**[DÚVIDA E PEDIDO/SUGESTÕES]**\nPessoal, hoje eu uso manualmente o b2bleads.com.br para levantar os dados das empresas que preciso para fazer prospecção. No caso eu tenho um link  já com os parâmetros sobre o CNAE e Tipo de Empresa, e busco todos os dias as novas que entraram na plataforma, pego os dados manualmente e jogo para uma planilha.\nComo seria em um fluxo no Make ou N8N?",
+    "text": "**[DÚVIDA E PEDIDO/SUGESTÕES]**\nPessoal, hoje eu uso manualmente o b2bleads.com.br para levantar os dados das empresas que preciso para fazer prospecçêo. No caso eu tenho um link  já com os parâmetros sobre o CNAE e Tipo de Empresa, e busco todos os dias as novas que entraram na plataforma, pego os dados manualmente e jogo para uma planilha.\nComo seria em um fluxo no Make ou N8N?",
     "has_media": false,
     "media_type": null
   },
@@ -2675,7 +2675,7 @@
     "id": 9177,
     "author": "Chrystian",
     "date": "2025-06-09T19:35:22+00:00",
-    "text": "Boa tarde amigos, alguem aqui que esteja mais avançado poderia me ajudar, estou montando um fluxo no n8n e de nenhum jeito estou conseguindo criar uma reunião na agenda ele consulta certinho, mas não cria, sempre o mesmo erro: Parece que houve um erro ao tentar processar o agendamento. Vamos tentar novamente.",
+    "text": "Boa tarde amigos, alguem aqui que esteja mais avançado poderia me ajudar, estou montando um fluxo no n8n e de nenhum jeito estou conseguindo criar uma reuniêo na agenda ele consulta certinho, mas nêo cria, sempre o mesmo erro: Parece que houve um erro ao tentar processar o agendamento. Vamos tentar novamente.",
     "has_media": false,
     "media_type": null
   },
@@ -2692,7 +2692,7 @@
     "id": 9173,
     "author": "Desconhecido",
     "date": "2025-06-09T18:47:15+00:00",
-    "text": "Pessoal tudo bem boa tarde , por favor alguém me ajuda , estou tentando fazer um gerador de prompt para veo3 no n8n tô com erro na memória simples não sei o que devo por aqui , no prompt da vejo 3 já coloquei mais está dando esse erro , por favor sou leigo ainda nessa parte",
+    "text": "Pessoal tudo bem boa tarde , por favor alguém me ajuda , estou tentando fazer um gerador de prompt para veo3 no n8n tô com erro na memória simples nêo sei o que devo por aqui , no prompt da vejo 3 já coloquei mais está dando esse erro , por favor sou leigo ainda nessa parte",
     "has_media": false,
     "media_type": null
   },
@@ -2708,7 +2708,7 @@
     "id": 9133,
     "author": "Beah Rodrigues",
     "date": "2025-06-09T00:06:18+00:00",
-    "text": "Boa Noite, alguem sabe uma solução para pegar um site (tipo uma reportagem), e reescrever no open ia",
+    "text": "Boa Noite, alguem sabe uma soluçêo para pegar um site (tipo uma reportagem), e reescrever no open ia",
     "has_media": false,
     "media_type": null
   },
@@ -2724,7 +2724,7 @@
     "id": 9087,
     "author": "Flavio",
     "date": "2025-06-08T19:56:40+00:00",
-    "text": "Tentei criar um autmoação no n8n de carrosseis de 7 a 11 cards, porme travou na volta da url da imagem que quer o output do leonardo ia. Alguém sabe me dizer se tem alguma istrução aqui na comunidade sobre uma automação de agente que cria esse carrosseis automatico?",
+    "text": "Tentei criar um autmoaçêo no n8n de carrosseis de 7 a 11 cards, porme travou na volta da url da imagem que quer o output do leonardo ia. Alguém sabe me dizer se tem alguma istruçêo aqui na comunidade sobre uma automaçêo de agente que cria esse carrosseis automatico?",
     "has_media": false,
     "media_type": null
   },
@@ -2756,7 +2756,7 @@
     "id": 8893,
     "author": "Davi",
     "date": "2025-06-07T18:23:53+00:00",
-    "text": "Nada... Não resolveu... Já tentei de tudo com ajuda do Claude inclusive pra verificar todos os passos e nada... Atualizei, reinstalei, apaguei novamente, instalei d renovo e nada... Alguém aí sabe de algo que possa estar acontecendo?",
+    "text": "Nada... Nêo resolveu... Já tentei de tudo com ajuda do Claude inclusive pra verificar todos os passos e nada... Atualizei, reinstalei, apaguei novamente, instalei d renovo e nada... Alguém aí sabe de algo que possa estar acontecendo?",
     "has_media": false,
     "media_type": null
   },
@@ -2772,7 +2772,7 @@
     "id": 8788,
     "author": "Davi",
     "date": "2025-06-05T14:59:23+00:00",
-    "text": "hum.... vou ver direitinho então... vlw",
+    "text": "hum.... vou ver direitinho entêo... vlw",
     "has_media": false,
     "media_type": null
   },
@@ -2845,7 +2845,7 @@
     "id": 8651,
     "author": "Victor",
     "date": "2025-06-02T17:11:38+00:00",
-    "text": "Alguém aqui tem alguma automação própria para atendimento?",
+    "text": "Alguém aqui tem alguma automaçêo própria para atendimento?",
     "has_media": false,
     "media_type": null
   },
@@ -2853,7 +2853,7 @@
     "id": 8650,
     "author": "Victor",
     "date": "2025-06-02T17:11:12+00:00",
-    "text": "Tenho uma operação de vendas pelo whatsapp",
+    "text": "Tenho uma operaçêo de vendas pelo whatsapp",
     "has_media": false,
     "media_type": null
   },
@@ -2877,7 +2877,7 @@
     "id": 8633,
     "author": "Felipe",
     "date": "2025-06-02T00:25:14+00:00",
-    "text": "Pessoal, estou criando uma atendente pelo Vapi. Ao usar o n8n para fazer a integração com o Google sheets só estou conseguindo armazenar dados na planilha e às vezes falha e na consulta de dados também não funciona. Como posso resolver?",
+    "text": "Pessoal, estou criando uma atendente pelo Vapi. Ao usar o n8n para fazer a integraçêo com o Google sheets só estou conseguindo armazenar dados na planilha e às vezes falha e na consulta de dados também nêo funciona. Como posso resolver?",
     "has_media": false,
     "media_type": null
   },
@@ -3014,7 +3014,7 @@
     "id": 8529,
     "author": "Gabriel",
     "date": "2025-05-28T19:54:14+00:00",
-    "text": "O QR code do evoution não está aparecendo por nada, já atualizei e tentei com outra instancia mas continua sem aparecer, alguém sabe o que pode ser?",
+    "text": "O QR code do evoution nêo está aparecendo por nada, já atualizei e tentei com outra instancia mas continua sem aparecer, alguém sabe o que pode ser?",
     "has_media": true,
     "media_type": "MessageMediaPhoto",
     "media_file": "photo_8529_370.jpg"
@@ -3023,7 +3023,7 @@
     "id": 8522,
     "author": "Gabriel",
     "date": "2025-05-28T16:48:39+00:00",
-    "text": "Boa tarde comunidade, estou precisando de um agente de vendas, que além de conversar e qualificar o lead precisa enviar o link de incrição do evento (será para vender ingressos para um evento de networking que ocorre 1 vez por mês). \nEu sou iniciante no N8N porém já tenho algumas automações básicas de processos internos, então quem tiver algum template pronto ou semi pronto e quiser me ajudar eu ficarei agracedido.",
+    "text": "Boa tarde comunidade, estou precisando de um agente de vendas, que além de conversar e qualificar o lead precisa enviar o link de incriçêo do evento (será para vender ingressos para um evento de networking que ocorre 1 vez por mês). \nEu sou iniciante no N8N porém já tenho algumas automações básicas de processos internos, entêo quem tiver algum template pronto ou semi pronto e quiser me ajudar eu ficarei agracedido.",
     "has_media": false,
     "media_type": null
   },
@@ -3047,7 +3047,7 @@
     "id": 8410,
     "author": "Carlos Renato",
     "date": "2025-05-27T18:44:57+00:00",
-    "text": "Sou iniciante, quero fazer um automação para mandar mensagem para meus clientes no whatsapp onde posso aprender?",
+    "text": "Sou iniciante, quero fazer um automaçêo para mandar mensagem para meus clientes no whatsapp onde posso aprender?",
     "has_media": false,
     "media_type": null
   },
@@ -3071,7 +3071,7 @@
     "id": 8331,
     "author": "GPaolo",
     "date": "2025-05-25T23:55:05+00:00",
-    "text": "É possível criar uma automação onde subo um vídeo de 1h em widescreen de 2k. Ele corta o vídeo em vertical centralizando o corte, no máximo de 1minuto, legenda e posta em 3 redes sociais? É possível?",
+    "text": "É possível criar uma automaçêo onde subo um vídeo de 1h em widescreen de 2k. Ele corta o vídeo em vertical centralizando o corte, no máximo de 1minuto, legenda e posta em 3 redes sociais? É possível?",
     "has_media": false,
     "media_type": null
   },
@@ -3079,7 +3079,7 @@
     "id": 8299,
     "author": "Automatizze",
     "date": "2025-05-24T11:59:51+00:00",
-    "text": "Agendando no Calendly e API free do whatsapp rodando no EC2 da AWS... Essa está fresquinha... \n\nA automação agenda, cancelar, fala com o usuário, tudo com de forma bem profissional... API grátis do Whatsapp, está rodando, passou mais de 500 cliente no dia e manteve o fluxo normal..",
+    "text": "Agendando no Calendly e API free do whatsapp rodando no EC2 da AWS... Essa está fresquinha... \n\nA automaçêo agenda, cancelar, fala com o usuário, tudo com de forma bem profissional... API grátis do Whatsapp, está rodando, passou mais de 500 cliente no dia e manteve o fluxo normal..",
     "has_media": false,
     "media_type": null
   },
@@ -3104,7 +3104,7 @@
     "id": 8231,
     "author": "Jhoni",
     "date": "2025-05-24T04:13:06+00:00",
-    "text": "To precisando de uma ajuda irmão, consegue me ajudar?",
+    "text": "To precisando de uma ajuda irmêo, consegue me ajudar?",
     "has_media": false,
     "media_type": null
   },
@@ -3112,7 +3112,7 @@
     "id": 8230,
     "author": "Jhoni",
     "date": "2025-05-24T04:10:53+00:00",
-    "text": "Eu estou tentando a muito tempo já e não consigo irmão...",
+    "text": "Eu estou tentando a muito tempo já e nêo consigo irmêo...",
     "has_media": false,
     "media_type": null
   },
@@ -3144,7 +3144,7 @@
     "id": 8152,
     "author": "Adalberto",
     "date": "2025-05-23T13:07:16+00:00",
-    "text": "Pessoal, para quem ainda não sabe, a manus liberou acesso sem precisar de convite, basta acessar o site e  se registrar clicando no botão COMEÇAR, ganha a principio créditos de 1000 e mais 300 créditos não acumulativos diários👏",
+    "text": "Pessoal, para quem ainda nêo sabe, a manus liberou acesso sem precisar de convite, basta acessar o site e  se registrar clicando no botêo COMEÇAR, ganha a principio créditos de 1000 e mais 300 créditos nêo acumulativos diários👏",
     "has_media": false,
     "media_type": null
   },
@@ -3185,7 +3185,7 @@
     "id": 8003,
     "author": "Huel",
     "date": "2025-05-20T15:54:35+00:00",
-    "text": "qual automação indicam primeiro para eu iniciar e ir aprimorando ?",
+    "text": "qual automaçêo indicam primeiro para eu iniciar e ir aprimorando ?",
     "has_media": false,
     "media_type": null
   },
@@ -3209,7 +3209,7 @@
     "id": 7998,
     "author": "AmnesiaHz",
     "date": "2025-05-20T14:25:03+00:00",
-    "text": "@INEMAtds esse monte de grupo fica meio bagunçado, não seria melhor organizar separado em um Drive ou um Notion?",
+    "text": "@INEMAtds esse monte de grupo fica meio bagunçado, nêo seria melhor organizar separado em um Drive ou um Notion?",
     "has_media": false,
     "media_type": null
   },
@@ -3249,7 +3249,7 @@
     "id": 7920,
     "author": "Joaquim",
     "date": "2025-05-19T16:56:56+00:00",
-    "text": "Tem alguma automação para fazer videos narrados de historias construidas por ia e publicação automática no youtube?",
+    "text": "Tem alguma automaçêo para fazer videos narrados de historias construidas por ia e publicaçêo automática no youtube?",
     "has_media": false,
     "media_type": null
   },
@@ -3257,7 +3257,7 @@
     "id": 7849,
     "author": "Weslei",
     "date": "2025-05-18T17:55:00+00:00",
-    "text": "fernando.. como vc quer automação para responder comentários do que foi postado no instagram?",
+    "text": "fernando.. como vc quer automaçêo para responder comentários do que foi postado no instagram?",
     "has_media": false,
     "media_type": null
   },
@@ -3265,7 +3265,7 @@
     "id": 7848,
     "author": "Totty",
     "date": "2025-05-18T17:14:46+00:00",
-    "text": "@INEMAtds tem alguma automação com agendamento na microsoft calendar? Ou reuniões do meet da microsoft?",
+    "text": "@INEMAtds tem alguma automaçêo com agendamento na microsoft calendar? Ou reuniões do meet da microsoft?",
     "has_media": false,
     "media_type": null
   },
@@ -3273,7 +3273,7 @@
     "id": 7846,
     "author": "Fernando Martins",
     "date": "2025-05-18T12:36:43+00:00",
-    "text": "Bom dia, tudo bem? Tem alguma automação para postagem de comentários em posts de redes sociais?",
+    "text": "Bom dia, tudo bem? Tem alguma automaçêo para postagem de comentários em posts de redes sociais?",
     "has_media": false,
     "media_type": null
   },
@@ -3281,7 +3281,7 @@
     "id": 7834,
     "author": "Giovanni",
     "date": "2025-05-17T20:27:26+00:00",
-    "text": "Boa tarde a todos. Alguém consegue, por favor, me informar onde encontro essa automação?",
+    "text": "Boa tarde a todos. Alguém consegue, por favor, me informar onde encontro essa automaçêo?",
     "has_media": true,
     "media_type": "MessageMediaPhoto",
     "media_file": "photo_7834_403.jpg"
@@ -3298,7 +3298,7 @@
     "id": 7829,
     "author": "Michael",
     "date": "2025-05-17T18:37:51+00:00",
-    "text": "Boa tarde NEi \nUma Pergunta: \nExiste a possibilidade de utilizar o N8N de forma gratuita ? \nSem precisar fazer a instalação no pc. \n\nFazendo a instalação do app direto na hetzner  ? \nUtilizando um Servidor na nuvem",
+    "text": "Boa tarde NEi \nUma Pergunta: \nExiste a possibilidade de utilizar o N8N de forma gratuita ? \nSem precisar fazer a instalaçêo no pc. \n\nFazendo a instalaçêo do app direto na hetzner  ? \nUtilizando um Servidor na nuvem",
     "has_media": false,
     "media_type": null
   },
@@ -3306,7 +3306,7 @@
     "id": 7784,
     "author": "Dr. Andre Lopes",
     "date": "2025-05-16T22:21:59+00:00",
-    "text": "Quem ainda não conhece o gamma essa é a oportunidade! \n\n200 créditos para testar! \n\nhttps://gamma.app/signup?r=7eq322lhryf7mog",
+    "text": "Quem ainda nêo conhece o gamma essa é a oportunidade! \n\n200 créditos para testar! \n\nhttps://gamma.app/signup?r=7eq322lhryf7mog",
     "has_media": true,
     "media_type": "MessageMediaWebPage"
   },
@@ -3314,7 +3314,7 @@
     "id": 7714,
     "author": "Matheus H",
     "date": "2025-05-15T13:59:28+00:00",
-    "text": "alguém sabe qual sessão aprendo a fazer site/ aplicativos com IA?",
+    "text": "alguém sabe qual sessêo aprendo a fazer site/ aplicativos com IA?",
     "has_media": false,
     "media_type": null
   },
@@ -3347,7 +3347,7 @@
     "id": 7667,
     "author": "Carlos",
     "date": "2025-05-14T03:37:59+00:00",
-    "text": "Pessoal, uma das dificuldades que tive foi achar ferramentas gratuitas, open source, para usar nas automações. Então parti para uma estrutura própria, no caso VPS. Relacionei em um pdf que coloco abaixo. Trata-se de um serviço que estou prestando para quem quiser ter sua estrutura propria com as ferramentas open source que precisar. Um Kit básico engloba n8n, typebot, EvolutionAI e Minio. qualquer coisa chama no privado aqui, ok. Bons estudos e bom trabalho a todos.",
+    "text": "Pessoal, uma das dificuldades que tive foi achar ferramentas gratuitas, open source, para usar nas automações. Entêo parti para uma estrutura própria, no caso VPS. Relacionei em um pdf que coloco abaixo. Trata-se de um serviço que estou prestando para quem quiser ter sua estrutura propria com as ferramentas open source que precisar. Um Kit básico engloba n8n, typebot, EvolutionAI e Minio. qualquer coisa chama no privado aqui, ok. Bons estudos e bom trabalho a todos.",
     "has_media": false,
     "media_type": null
   },
@@ -3363,7 +3363,7 @@
     "id": 7604,
     "author": "Gelson",
     "date": "2025-05-13T12:48:09+00:00",
-    "text": "Já fiz e não deu certo",
+    "text": "Já fiz e nêo deu certo",
     "has_media": false,
     "media_type": null
   },
@@ -3371,7 +3371,7 @@
     "id": 7557,
     "author": "SEM NOME",
     "date": "2025-05-12T21:15:37+00:00",
-    "text": "Opa Gelson! Creio eu que dependendo da sua necessidade, a opção mais viável seria criar um agente simples somente para fazer buscas na planilha",
+    "text": "Opa Gelson! Creio eu que dependendo da sua necessidade, a opçêo mais viável seria criar um agente simples somente para fazer buscas na planilha",
     "has_media": false,
     "media_type": null
   },
@@ -3395,7 +3395,7 @@
     "id": 7531,
     "author": "Taylor",
     "date": "2025-05-12T00:33:56+00:00",
-    "text": "Queria saber se tem alguma Automação de compartilhamento de storys do insta para o Facebook e para um Instagram , no caso os dois serão uma página de cortes .",
+    "text": "Queria saber se tem alguma Automaçêo de compartilhamento de storys do insta para o Facebook e para um Instagram , no caso os dois serêo uma página de cortes .",
     "has_media": false,
     "media_type": null
   },
@@ -3419,7 +3419,7 @@
     "id": 7528,
     "author": "Carlos",
     "date": "2025-05-11T23:05:22+00:00",
-    "text": "Fiz alguns testes com a PIAPI. Custo médio de geração de vídeos foi de US$ 0,25 para cada 5 segundos gerados",
+    "text": "Fiz alguns testes com a PIAPI. Custo médio de geraçêo de vídeos foi de US$ 0,25 para cada 5 segundos gerados",
     "has_media": false,
     "media_type": null
   },
@@ -3427,7 +3427,7 @@
     "id": 7527,
     "author": "Carlos",
     "date": "2025-05-11T22:58:53+00:00",
-    "text": "API pra vídeo acredito que não vai achar grátis. Se achar me conta",
+    "text": "API pra vídeo acredito que nêo vai achar grátis. Se achar me conta",
     "has_media": false,
     "media_type": null
   },
@@ -3459,7 +3459,7 @@
     "id": 7521,
     "author": "Bruno Neves",
     "date": "2025-05-11T21:14:22+00:00",
-    "text": "Acho que nesse caso vc possa estar se referindo a API de WhatsApp por exemplo. Essas sim são pagas. Mas em geral, grande maioria é gratuita, fora especificamente esse caso de uso",
+    "text": "Acho que nesse caso vc possa estar se referindo a API de WhatsApp por exemplo. Essas sim sêo pagas. Mas em geral, grande maioria é gratuita, fora especificamente esse caso de uso",
     "has_media": false,
     "media_type": null
   },
@@ -3467,7 +3467,7 @@
     "id": 7514,
     "author": "Carlos",
     "date": "2025-05-11T18:02:05+00:00",
-    "text": "A principal API é a das LLMs, que deve resolver uma parte uso, que pode ser o chatgpt, Claude, mistral, etc, mas é bem barato. \n\nAPI na verdade é a conexão que em alguns casos pode ocorrer de forma gratuita, como por exemplo conectar ao Google calendário ou ao gmail, que não tem custo para isso.",
+    "text": "A principal API é a das LLMs, que deve resolver uma parte uso, que pode ser o chatgpt, Claude, mistral, etc, mas é bem barato. \n\nAPI na verdade é a conexêo que em alguns casos pode ocorrer de forma gratuita, como por exemplo conectar ao Google calendário ou ao gmail, que nêo tem custo para isso.",
     "has_media": false,
     "media_type": null
   },
@@ -3475,7 +3475,7 @@
     "id": 7513,
     "author": "Cleber Monteiro",
     "date": "2025-05-11T16:48:26+00:00",
-    "text": "Opa boa tarde pessoal, feliz dia das mães. \nTenho uma pergunta , quer puder me ajudar.\nVejo que para muitos objetivos, são necessários muitas APIs para desenvolver qualquer automação.  Gostaria de uma dica de uso. Existe uma forma de economizar no contrato dessas APIs? Alguém com alguma dica?",
+    "text": "Opa boa tarde pessoal, feliz dia das mêes. \nTenho uma pergunta , quer puder me ajudar.\nVejo que para muitos objetivos, sêo necessários muitas APIs para desenvolver qualquer automaçêo.  Gostaria de uma dica de uso. Existe uma forma de economizar no contrato dessas APIs? Alguém com alguma dica?",
     "has_media": false,
     "media_type": null
   },
@@ -3491,7 +3491,7 @@
     "id": 7393,
     "author": "...",
     "date": "2025-05-08T00:18:45+00:00",
-    "text": "Boa noite galera, me tirem uma dúvida sobre a licença do n8n que não ficou tão clara pra mim ainda, eu posso criar os workflows e vender por meio de acesso a API, no caso seria um chatbot de assistência jurídica",
+    "text": "Boa noite galera, me tirem uma dúvida sobre a licença do n8n que nêo ficou têo clara pra mim ainda, eu posso criar os workflows e vender por meio de acesso a API, no caso seria um chatbot de assistência jurídica",
     "has_media": false,
     "media_type": null
   },
@@ -3523,7 +3523,7 @@
     "id": 7335,
     "author": "Lucas",
     "date": "2025-05-07T18:56:30+00:00",
-    "text": "Boa tarde meu amigos, pesquisei lá nos grupos e sub grupos sobre automação de canal dark no YouTube, porém só achei os de shorts não de vídeos logos",
+    "text": "Boa tarde meu amigos, pesquisei lá nos grupos e sub grupos sobre automaçêo de canal dark no YouTube, porém só achei os de shorts nêo de vídeos logos",
     "has_media": false,
     "media_type": null
   },
@@ -3555,7 +3555,7 @@
     "id": 7145,
     "author": "Paulo",
     "date": "2025-05-03T12:49:47+00:00",
-    "text": "Não estou encontrando como fazer esse \"Functions\" no N8N",
+    "text": "Nêo estou encontrando como fazer esse \"Functions\" no N8N",
     "has_media": false,
     "media_type": null
   },
@@ -3571,7 +3571,7 @@
     "id": 7143,
     "author": "Paulo",
     "date": "2025-05-03T12:48:58+00:00",
-    "text": "Não...",
+    "text": "Nêo...",
     "has_media": false,
     "media_type": null
   },
@@ -3677,7 +3677,7 @@
     "id": 7123,
     "author": "Paulo",
     "date": "2025-05-02T18:49:42+00:00",
-    "text": "Boa tarde! Estou configurando um assistente no N8N e tem uma função do Chat GPT para acionar um webhook... já usava no make, vou mandar o print abaixo, se alguém souber como configurar no N8N me ajuda por favor...",
+    "text": "Boa tarde! Estou configurando um assistente no N8N e tem uma funçêo do Chat GPT para acionar um webhook... já usava no make, vou mandar o print abaixo, se alguém souber como configurar no N8N me ajuda por favor...",
     "has_media": false,
     "media_type": null
   },
@@ -3693,7 +3693,7 @@
     "id": 6855,
     "author": "Rômulo",
     "date": "2025-04-28T21:52:59+00:00",
-    "text": "Oi, alguém tem uma automação para converter arquivos html para pdf?",
+    "text": "Oi, alguém tem uma automaçêo para converter arquivos html para pdf?",
     "has_media": false,
     "media_type": null
   },
@@ -3701,7 +3701,7 @@
     "id": 6823,
     "author": "Paulo",
     "date": "2025-04-28T13:02:40+00:00",
-    "text": "Bom dia pessoal,\nSe alguém tiver disponibilidade para atuar em uma demanda de nossa empresa.\n\n[Briefing]\nAtualmente temos uma rotina interna em um de nossos sistemas de consulta que busca movimentações de processos. Nós baixamos as movimentações e os documentos, mas o que importa mesmo são os documentos (despachos, decisões e etc) que convertemos em texto assim que baixamos eles.\n\nO texto é enviado para uma automação que criei (muito, mas muito simples) no make via API que faz a interpretação do conteúdo e devolve para nossa aplicação.\n\n[Necessidade]\nPreciso migrar esta automação para o N8N, mas realizar algumas melhorias também:\n\n* Tratar o conteúdo quando muito grande para não topar a quantidade de tokens\n\n* Utilizar múltiplos agentes para processamento em paralelo (Atualmente tenho um clone no ChatGPT, mas não estou utilizando), mas o objetivo é utilizar GROK e GEMINI tbm.\n\n* Melhorar os prompts.\n\n@INEMAtds Já trocamos uma ideia há alguns dias atrás que me sugeriu compartilhar aqui no grupo para ver se alguém se dispõe.\n\nOBS: Esta é uma primeira demanda e pode se tornar um contrato recorrente, pois atualmente estou precisando de braços para tocar o negócio.\n\nInteressados me chamar no PV por favor.",
+    "text": "Bom dia pessoal,\nSe alguém tiver disponibilidade para atuar em uma demanda de nossa empresa.\n\n[Briefing]\nAtualmente temos uma rotina interna em um de nossos sistemas de consulta que busca movimentações de processos. Nós baixamos as movimentações e os documentos, mas o que importa mesmo sêo os documentos (despachos, decisões e etc) que convertemos em texto assim que baixamos eles.\n\nO texto é enviado para uma automaçêo que criei (muito, mas muito simples) no make via API que faz a interpretaçêo do conteúdo e devolve para nossa aplicaçêo.\n\n[Necessidade]\nPreciso migrar esta automaçêo para o N8N, mas realizar algumas melhorias também:\n\n* Tratar o conteúdo quando muito grande para nêo topar a quantidade de tokens\n\n* Utilizar múltiplos agentes para processamento em paralelo (Atualmente tenho um clone no ChatGPT, mas nêo estou utilizando), mas o objetivo é utilizar GROK e GEMINI tbm.\n\n* Melhorar os prompts.\n\n@INEMAtds Já trocamos uma ideia há alguns dias atrás que me sugeriu compartilhar aqui no grupo para ver se alguém se dispõe.\n\nOBS: Esta é uma primeira demanda e pode se tornar um contrato recorrente, pois atualmente estou precisando de braços para tocar o negócio.\n\nInteressados me chamar no PV por favor.",
     "has_media": false,
     "media_type": null
   },
@@ -3742,7 +3742,7 @@
     "id": 6597,
     "author": "Pedro Victor",
     "date": "2025-04-27T19:14:13+00:00",
-    "text": "Boa tarde, deixa perguntar aqui pra vcs pq n achei ainda na comunidade (até achei porém sempre falta algum detalhe)\n\npreciso criar um agente que conversa com um lead e vai salvando em algum local (supabase, sheets e etc...) os dados do lead (nome, cidade, email e o plano escolhido por ele, eu consigo fazer ele conversar perfeitamente bem, só não consigo é salvar esses dados coletados durante a conversa, consegue dar uma força pfv?",
+    "text": "Boa tarde, deixa perguntar aqui pra vcs pq n achei ainda na comunidade (até achei porém sempre falta algum detalhe)\n\npreciso criar um agente que conversa com um lead e vai salvando em algum local (supabase, sheets e etc...) os dados do lead (nome, cidade, email e o plano escolhido por ele, eu consigo fazer ele conversar perfeitamente bem, só nêo consigo é salvar esses dados coletados durante a conversa, consegue dar uma força pfv?",
     "has_media": false,
     "media_type": null
   },
@@ -3815,7 +3815,7 @@
     "id": 6395,
     "author": "Arthur",
     "date": "2025-04-24T18:11:40+00:00",
-    "text": "Ah deu certo então beleza",
+    "text": "Ah deu certo entêo beleza",
     "has_media": false,
     "media_type": null
   },
@@ -3887,7 +3887,7 @@
     "id": 6301,
     "author": "Davi",
     "date": "2025-04-24T01:34:56+00:00",
-    "text": "Não... Não queridão... Instalei ele localmente... Num Pc servidor que tenho",
+    "text": "Nêo... Nêo queridêo... Instalei ele localmente... Num Pc servidor que tenho",
     "has_media": false,
     "media_type": null
   },
@@ -3903,7 +3903,7 @@
     "id": 6229,
     "author": "Davi",
     "date": "2025-04-23T03:56:07+00:00",
-    "text": "como eu uso o n8n instalado localmente, junto com uma IA própria (baseado no LLM da Groq)... então me fez mais sentido usar ele (até por indicação direta do meu assistente virtual, que me ajudou a configurar tudo) para zerar o máximo de custos.",
+    "text": "como eu uso o n8n instalado localmente, junto com uma IA própria (baseado no LLM da Groq)... entêo me fez mais sentido usar ele (até por indicaçêo direta do meu assistente virtual, que me ajudou a configurar tudo) para zerar o máximo de custos.",
     "has_media": false,
     "media_type": null
   },
@@ -3911,7 +3911,7 @@
     "id": 6228,
     "author": "Davi",
     "date": "2025-04-23T03:54:05+00:00",
-    "text": "Achei uma opção que instalei direto no meu servidor, chamada WPPConnect... vou testar e dou o feed back pra vocês!!!",
+    "text": "Achei uma opçêo que instalei direto no meu servidor, chamada WPPConnect... vou testar e dou o feed back pra vocês!!!",
     "has_media": false,
     "media_type": null
   },
@@ -3919,7 +3919,7 @@
     "id": 6221,
     "author": "Davi",
     "date": "2025-04-23T01:41:54+00:00",
-    "text": "Vou procurar sim e dar uma olhada... Obrigadão queridona... Tmj",
+    "text": "Vou procurar sim e dar uma olhada... Obrigadêo queridona... Tmj",
     "has_media": false,
     "media_type": null
   },
@@ -3927,7 +3927,7 @@
     "id": 6220,
     "author": "Davi",
     "date": "2025-04-23T01:41:22+00:00",
-    "text": "Pode ser que seja pequeno a movimentação no início, mas vai acabar escalando... Mas vou dar uma olhada sim nos limites e ver direitinho.",
+    "text": "Pode ser que seja pequeno a movimentaçêo no início, mas vai acabar escalando... Mas vou dar uma olhada sim nos limites e ver direitinho.",
     "has_media": false,
     "media_type": null
   },
@@ -3967,7 +3967,7 @@
     "id": 6184,
     "author": "Davi",
     "date": "2025-04-22T20:43:59+00:00",
-    "text": "Pessoal... Perdão... Estou lendo aqui a mensagens anteriores e acompanhando o caso da API do whatsapp... Acabou que foi redundante minha postagem acima.",
+    "text": "Pessoal... Perdêo... Estou lendo aqui a mensagens anteriores e acompanhando o caso da API do whatsapp... Acabou que foi redundante minha postagem acima.",
     "has_media": false,
     "media_type": null
   },
@@ -3975,7 +3975,7 @@
     "id": 6183,
     "author": "Davi",
     "date": "2025-04-22T20:40:55+00:00",
-    "text": "Pessoal... Boa tarde.\n\nAlguém tem alguma alternativa para conectar whatsapp de forma gratuita no n8n?\n\nPreciso para um projeto pessoal e ainda não tenho como pagar a api oficial. Se tiver algo postado já aqui e puderem me indicar eu agradeço, pois procurei e não achei ainda.\n\nForte abraço a todos!",
+    "text": "Pessoal... Boa tarde.\n\nAlguém tem alguma alternativa para conectar whatsapp de forma gratuita no n8n?\n\nPreciso para um projeto pessoal e ainda nêo tenho como pagar a api oficial. Se tiver algo postado já aqui e puderem me indicar eu agradeço, pois procurei e nêo achei ainda.\n\nForte abraço a todos!",
     "has_media": false,
     "media_type": null
   },
@@ -3983,7 +3983,7 @@
     "id": 6171,
     "author": "Carlos",
     "date": "2025-04-22T15:32:49+00:00",
-    "text": "é realmente um bug interno deles... informam que existe uma restrição na minha conta, mas ninguém fala o que é a restrição... e o suporte dessa área é todo blindado... difícil chegar em alguém que resolve...",
+    "text": "é realmente um bug interno deles... informam que existe uma restriçêo na minha conta, mas ninguém fala o que é a restriçêo... e o suporte dessa área é todo blindado... difícil chegar em alguém que resolve...",
     "has_media": false,
     "media_type": null
   },
@@ -3991,7 +3991,7 @@
     "id": 6170,
     "author": "Franciele",
     "date": "2025-04-22T14:56:09+00:00",
-    "text": "E antes entrava normal? \nJá tive uns erros assim, mas minha conta do Facebook não estava logada ou estava com outra conta diferente da vinculada ao developers. \nAcredito que vc já tentou de tudo kkk",
+    "text": "E antes entrava normal? \nJá tive uns erros assim, mas minha conta do Facebook nêo estava logada ou estava com outra conta diferente da vinculada ao developers. \nAcredito que vc já tentou de tudo kkk",
     "has_media": false,
     "media_type": null
   },
@@ -3999,7 +3999,7 @@
     "id": 6168,
     "author": "Carlos",
     "date": "2025-04-22T14:48:35+00:00",
-    "text": "simplesmente não consigo acessar a área developers. me encaminha para uma página de erro.",
+    "text": "simplesmente nêo consigo acessar a área developers. me encaminha para uma página de erro.",
     "has_media": false,
     "media_type": null
   },
@@ -4047,7 +4047,7 @@
     "id": 6162,
     "author": "Carlos",
     "date": "2025-04-22T14:25:14+00:00",
-    "text": "aí não consigo falar por lá...",
+    "text": "aí nêo consigo falar por lá...",
     "has_media": false,
     "media_type": null
   },
@@ -4063,7 +4063,7 @@
     "id": 6160,
     "author": "Franciele",
     "date": "2025-04-22T14:23:55+00:00",
-    "text": "Por lá tem suporte? Eu não precisei ainda nessa área.",
+    "text": "Por lá tem suporte? Eu nêo precisei ainda nessa área.",
     "has_media": false,
     "media_type": null
   },
@@ -4071,7 +4071,7 @@
     "id": 6159,
     "author": "Franciele",
     "date": "2025-04-22T14:22:37+00:00",
-    "text": "Sim é o futuro, pq as outras api por não ser oficial não sabemos até quando vai funcionar (essa é minha maior preocupação). \nSobre o meta Tô no aguardo deles melhorar kkk \nÉ que essa função só era usada por programadores e de fato por empresas. É normal ser complexo ainda mais a gente que tá chegando agora. \n\nO business era bem mais simples antes, mas o pessoal foi aprendendo e começou a zoar tudo rodando black e roubar contas, agora é uma burocracia pra fazer coisas básicas.",
+    "text": "Sim é o futuro, pq as outras api por nêo ser oficial nêo sabemos até quando vai funcionar (essa é minha maior preocupaçêo). \nSobre o meta Tô no aguardo deles melhorar kkk \nÉ que essa funçêo só era usada por programadores e de fato por empresas. É normal ser complexo ainda mais a gente que tá chegando agora. \n\nO business era bem mais simples antes, mas o pessoal foi aprendendo e começou a zoar tudo rodando black e roubar contas, agora é uma burocracia pra fazer coisas básicas.",
     "has_media": false,
     "media_type": null
   },
@@ -4103,7 +4103,7 @@
     "id": 6155,
     "author": "Franciele",
     "date": "2025-04-22T13:53:13+00:00",
-    "text": "Sim, trabalhar com o meta é mais complexo. Mas acredito que não terá problemas depois que estiver tudo configurado. \nO bom do business é o suporte, eles até ligam pra vc quando precisa de ajuda. Nessa parte não posso reclamar",
+    "text": "Sim, trabalhar com o meta é mais complexo. Mas acredito que nêo terá problemas depois que estiver tudo configurado. \nO bom do business é o suporte, eles até ligam pra vc quando precisa de ajuda. Nessa parte nêo posso reclamar",
     "has_media": false,
     "media_type": null
   },
@@ -4249,7 +4249,7 @@
     "id": 5903,
     "author": "Mauricio",
     "date": "2025-04-17T17:25:10+00:00",
-    "text": "Boa tarde, como faço para conectar o Agente SDR com Agente Agendamento, fiz de tudo e não envia as informações, sou novato, então tenho conhecimento nem um, estou ai na batalha para fazer isso ai acontecer rs\n\nOBs: roda toda a operação do Agente SDR  pega os dados, como e-mail, telefone etc.. mais não envia para o outro agente (Agendador)",
+    "text": "Boa tarde, como faço para conectar o Agente SDR com Agente Agendamento, fiz de tudo e nêo envia as informações, sou novato, entêo tenho conhecimento nem um, estou ai na batalha para fazer isso ai acontecer rs\n\nOBs: roda toda a operaçêo do Agente SDR  pega os dados, como e-mail, telefone etc.. mais nêo envia para o outro agente (Agendador)",
     "has_media": true,
     "media_type": "MessageMediaPhoto",
     "media_file": "photo_5903_523.jpg"
@@ -4258,7 +4258,7 @@
     "id": 5893,
     "author": "hebert",
     "date": "2025-04-17T13:15:54+00:00",
-    "text": "Bom dia pessoal no AL10 na parte de conectar o GIMINI no **Passo 2**: Usando a API do Gemini Flash, gera-se a história e imagens baseadas no conteúdo da planilha.\nnão estou conseguindo configurar as credenciais alguem consegue me ajudar ?",
+    "text": "Bom dia pessoal no AL10 na parte de conectar o GIMINI no **Passo 2**: Usando a API do Gemini Flash, gera-se a história e imagens baseadas no conteúdo da planilha.\nnêo estou conseguindo configurar as credenciais alguem consegue me ajudar ?",
     "has_media": false,
     "media_type": null
   },
@@ -4282,7 +4282,7 @@
     "id": 5858,
     "author": "Mauricio",
     "date": "2025-04-16T18:04:43+00:00",
-    "text": "quase comprando seu template lá de suplemento, só não sei se conseguiria adpatar para o que eu quero, que e SDR da minha agencia de marketing",
+    "text": "quase comprando seu template lá de suplemento, só nêo sei se conseguiria adpatar para o que eu quero, que e SDR da minha agencia de marketing",
     "has_media": false,
     "media_type": null
   },
@@ -4362,7 +4362,7 @@
     "id": 5846,
     "author": "Carlos",
     "date": "2025-04-16T15:31:09+00:00",
-    "text": "Você precisa criar uma tool... Que é onde está esse http request embaixo do agente... Você pode criar várias tools.\n\nDaí você pode inserir nodes específicos, fazer requisição http ou até mesmo ativar outro workflow.\n\nDaí por exemplo:\nVocê cria uma tool de executar um novo workflow e dá o nome pra ela de 'agendamento'\n\nNo prompt você insere a informação:\nSempre que o cliente quiser agendar ative a tool 'agendamento'\n\nNa tool tem um campo de descrição e você insere:\nAtive essa tool sempre que o cliente quiser agendar",
+    "text": "Você precisa criar uma tool... Que é onde está esse http request embaixo do agente... Você pode criar várias tools.\n\nDaí você pode inserir nodes específicos, fazer requisiçêo http ou até mesmo ativar outro workflow.\n\nDaí por exemplo:\nVocê cria uma tool de executar um novo workflow e dá o nome pra ela de 'agendamento'\n\nNo prompt você insere a informaçêo:\nSempre que o cliente quiser agendar ative a tool 'agendamento'\n\nNa tool tem um campo de descriçêo e você insere:\nAtive essa tool sempre que o cliente quiser agendar",
     "has_media": false,
     "media_type": null
   },
@@ -4370,7 +4370,7 @@
     "id": 5841,
     "author": "Mauricio",
     "date": "2025-04-16T13:14:56+00:00",
-    "text": "Bom dia, esse meu fluxo, está recebendo msg e enviando msg, respondendo numa boa, agora eu preciso que ele ao qualificar o lead, agende uma call, consulta o google agendar, marca no google agenda, cancela, só não estou sabendo como enviar essas informações para ele fazer esse tramite, de consultador, marcar etc...",
+    "text": "Bom dia, esse meu fluxo, está recebendo msg e enviando msg, respondendo numa boa, agora eu preciso que ele ao qualificar o lead, agende uma call, consulta o google agendar, marca no google agenda, cancela, só nêo estou sabendo como enviar essas informações para ele fazer esse tramite, de consultador, marcar etc...",
     "has_media": true,
     "media_type": "MessageMediaPhoto",
     "media_file": "photo_5841_538.jpg"
@@ -4387,7 +4387,7 @@
     "id": 5806,
     "author": "Euclidesbarros",
     "date": "2025-04-15T01:59:12+00:00",
-    "text": "Pessoal como cadastrar meus clientes no meu agente criei no N8N mas não sei como cadastrar o cliente",
+    "text": "Pessoal como cadastrar meus clientes no meu agente criei no N8N mas nêo sei como cadastrar o cliente",
     "has_media": false,
     "media_type": null
   },
@@ -4411,7 +4411,7 @@
     "id": 5749,
     "author": "Arthur",
     "date": "2025-04-13T23:02:09+00:00",
-    "text": "Bonito ver a evolução kkkkkkk",
+    "text": "Bonito ver a evoluçêo kkkkkkk",
     "has_media": false,
     "media_type": null
   },
@@ -4542,7 +4542,7 @@
     "id": 5327,
     "author": "Nilson",
     "date": "2025-04-11T03:08:15+00:00",
-    "text": "Bom dia, sou novo no assunto e velho na idade, preciso  que alguém aqui me ajude em uma direção, preciso de um sdr para o meu negocio local , que use que  o deezeek ou chatgpt como  agente e que ele agende os serviços   Interaja como lead visto que estou sofrendo com a mão de obra humana  . Alguém poderia me mostrar o caminho do inicio porque a jornada é longa e tenho fome e  sede  de aprender.",
+    "text": "Bom dia, sou novo no assunto e velho na idade, preciso  que alguém aqui me ajude em uma direçêo, preciso de um sdr para o meu negocio local , que use que  o deezeek ou chatgpt como  agente e que ele agende os serviços   Interaja como lead visto que estou sofrendo com a mêo de obra humana  . Alguém poderia me mostrar o caminho do inicio porque a jornada é longa e tenho fome e  sede  de aprender.",
     "has_media": false,
     "media_type": null
   },
@@ -4550,7 +4550,7 @@
     "id": 5281,
     "author": "Luiz Carlos",
     "date": "2025-04-10T18:34:21+00:00",
-    "text": "Olá. Alguém já usou o directus.io com N8N ou viu algum conteúdo a respeito dessa integração?",
+    "text": "Olá. Alguém já usou o directus.io com N8N ou viu algum conteúdo a respeito dessa integraçêo?",
     "has_media": false,
     "media_type": null
   },
@@ -4558,7 +4558,7 @@
     "id": 5262,
     "author": "Mooska",
     "date": "2025-04-10T13:48:48+00:00",
-    "text": "Salve familia! Estou precisando usar a minha credencial do google maps porém o assistente não consegue consumir os dados da credencial. alguém com este conhecimento para contribuir co o colega?",
+    "text": "Salve familia! Estou precisando usar a minha credencial do google maps porém o assistente nêo consegue consumir os dados da credencial. alguém com este conhecimento para contribuir co o colega?",
     "has_media": false,
     "media_type": null
   },
@@ -4566,7 +4566,7 @@
     "id": 5261,
     "author": "Imob",
     "date": "2025-04-10T13:40:43+00:00",
-    "text": "Bom dia, preciso de algumas orientações ou dicas para adicionar no meu agente a opção de receber mensagens por partes",
+    "text": "Bom dia, preciso de algumas orientações ou dicas para adicionar no meu agente a opçêo de receber mensagens por partes",
     "has_media": false,
     "media_type": null
   },
@@ -4574,7 +4574,7 @@
     "id": 5254,
     "author": "ALEXANDRE",
     "date": "2025-04-10T11:35:26+00:00",
-    "text": "Bom dia pessoal, quem precisar faço a instalação/configuração de VPS, N8N, Evolution etc. Só chamar no privado. Obrigado",
+    "text": "Bom dia pessoal, quem precisar faço a instalaçêo/configuraçêo de VPS, N8N, Evolution etc. Só chamar no privado. Obrigado",
     "has_media": false,
     "media_type": null
   },
@@ -4614,7 +4614,7 @@
     "id": 5165,
     "author": "Lucas Vinicius",
     "date": "2025-04-09T22:43:27+00:00",
-    "text": "Se olhar na na direita vai ver que está em 1080x1920 do jeito que quero. Mas quando o fluxo entra em ação ele abaixa a qualidade @C_Mataveli_TrilhadoGPT",
+    "text": "Se olhar na na direita vai ver que está em 1080x1920 do jeito que quero. Mas quando o fluxo entra em açêo ele abaixa a qualidade @C_Mataveli_TrilhadoGPT",
     "has_media": false,
     "media_type": null
   },
@@ -4622,7 +4622,7 @@
     "id": 5164,
     "author": "Lucas Vinicius",
     "date": "2025-04-09T22:42:27+00:00",
-    "text": "Essa parte aí é já com o vídeo pronto não tem como mudar.",
+    "text": "Essa parte aí é já com o vídeo pronto nêo tem como mudar.",
     "has_media": false,
     "media_type": null
   },
@@ -4630,7 +4630,7 @@
     "id": 5159,
     "author": "Patrick",
     "date": "2025-04-09T20:09:18+00:00",
-    "text": "Existe alguma ferramenta de envio de msg em massa no WhatsApp? Tenho uma empresa mando muitas msg pro meus clientes... e captação ativa pelo WhatsApp, porém o concorrente está fazendo meus números cair... alguém com alguma sugestão?!",
+    "text": "Existe alguma ferramenta de envio de msg em massa no WhatsApp? Tenho uma empresa mando muitas msg pro meus clientes... e captaçêo ativa pelo WhatsApp, porém o concorrente está fazendo meus números cair... alguém com alguma sugestêo?!",
     "has_media": false,
     "media_type": null
   },
@@ -4638,7 +4638,7 @@
     "id": 5148,
     "author": "Carlos",
     "date": "2025-04-09T18:43:49+00:00",
-    "text": "ajusta para a dimensão que você quer",
+    "text": "ajusta para a dimensêo que você quer",
     "has_media": true,
     "media_type": "MessageMediaPhoto",
     "media_file": "photo_5148_571.jpg"
@@ -4682,7 +4682,7 @@
     "id": 5133,
     "author": "Carlos",
     "date": "2025-04-09T15:00:52+00:00",
-    "text": "conecta diretamente à meta, vc vai pagar aproximadamente R$ 0,50 por disparo inicial. Se o cliente iniciar a conversa, vc não paga. Precisa de cnpj.",
+    "text": "conecta diretamente à meta, vc vai pagar aproximadamente R$ 0,50 por disparo inicial. Se o cliente iniciar a conversa, vc nêo paga. Precisa de cnpj.",
     "has_media": false,
     "media_type": null
   },
@@ -4698,7 +4698,7 @@
     "id": 4965,
     "author": "Deividy",
     "date": "2025-04-08T15:05:48+00:00",
-    "text": "Eu preciso de ajuda, entrei na comunidade por que falaram que era pra quem não sabia nada, pois bem... não sei nem por onde começar rs. alguem me ajuda?",
+    "text": "Eu preciso de ajuda, entrei na comunidade por que falaram que era pra quem nêo sabia nada, pois bem... nêo sei nem por onde começar rs. alguem me ajuda?",
     "has_media": false,
     "media_type": null
   },
@@ -4762,7 +4762,7 @@
     "id": 4863,
     "author": "Mooska",
     "date": "2025-04-06T22:49:12+00:00",
-    "text": "Agora vamos imaginas este fluxo em cada ramificação gerando:\n - Vide-os para: Youtube, Tiktok, Kiwi, Face e Insta\n - Gerando notícias: X, Face , RSS, Portal etc..\n\nEle somado ao conteúdo aqui do grupo tem grade potencial",
+    "text": "Agora vamos imaginas este fluxo em cada ramificaçêo gerando:\n - Vide-os para: Youtube, Tiktok, Kiwi, Face e Insta\n - Gerando notícias: X, Face , RSS, Portal etc..\n\nEle somado ao conteúdo aqui do grupo tem grade potencial",
     "has_media": false,
     "media_type": null
   },
@@ -4815,7 +4815,7 @@
     "id": 4857,
     "author": "Mooska",
     "date": "2025-04-06T22:36:18+00:00",
-    "text": "Salvando resultados\nA etapa final do fluxo de trabalho envolve salvar os artigos e metadados gerados em um banco de dados. O fluxo de trabalho usa o Supabase, minha opção de banco de dados preferida atual.\n\nOs detalhes originais do item RSS\nO conteúdo do artigo gerado por IA\nMetadados associados, como data de publicação, origem e URLs de imagem\nAgendamento de fluxo de trabalho\nPara manter o feed de notícias atualizado, todo o fluxo de trabalho é programado para ser executado periodicamente usando o nó \"Schedule Trigger\" do n8n. Isso garante que novos artigos sejam regularmente buscados, processados e adicionados ao banco de dados.\n\nÊxito?\nEntão, depois disso, pude executar o fluxo de trabalho e revisar os resultados... e fiquei bastante satisfeito. Executei o fluxo de trabalho e observei 53 artigos redigidos a um custo de US$ 0,007 por artigo. Também não notei nenhuma diferença no conteúdo substantivo dos artigos de IA em comparação com o artigo real do editor original ... com isso, não vejo como ou por que continuaria gastando US $ 99 por mês nesses meios de comunicação quando posso simplesmente passar o título e os resultados de uma pesquisa no Google para o modelo básico da OpenAI. Isso realmente levanta a questão sobre o futuro do que é a infraestrutura do jornalismo tradicional.\n\nOutro artigo para outro dia sobre esse assunto.",
+    "text": "Salvando resultados\nA etapa final do fluxo de trabalho envolve salvar os artigos e metadados gerados em um banco de dados. O fluxo de trabalho usa o Supabase, minha opçêo de banco de dados preferida atual.\n\nOs detalhes originais do item RSS\nO conteúdo do artigo gerado por IA\nMetadados associados, como data de publicaçêo, origem e URLs de imagem\nAgendamento de fluxo de trabalho\nPara manter o feed de notícias atualizado, todo o fluxo de trabalho é programado para ser executado periodicamente usando o nó \"Schedule Trigger\" do n8n. Isso garante que novos artigos sejam regularmente buscados, processados e adicionados ao banco de dados.\n\nÊxito?\nEntêo, depois disso, pude executar o fluxo de trabalho e revisar os resultados... e fiquei bastante satisfeito. Executei o fluxo de trabalho e observei 53 artigos redigidos a um custo de US$ 0,007 por artigo. Também nêo notei nenhuma diferença no conteúdo substantivo dos artigos de IA em comparaçêo com o artigo real do editor original ... com isso, nêo vejo como ou por que continuaria gastando US $ 99 por mês nesses meios de comunicaçêo quando posso simplesmente passar o título e os resultados de uma pesquisa no Google para o modelo básico da OpenAI. Isso realmente levanta a questêo sobre o futuro do que é a infraestrutura do jornalismo tradicional.\n\nOutro artigo para outro dia sobre esse assunto.",
     "has_media": false,
     "media_type": null
   },
@@ -4823,7 +4823,7 @@
     "id": 4856,
     "author": "Mooska",
     "date": "2025-04-06T22:36:02+00:00",
-    "text": "Filtragem de conteúdo relacionado à IA\nUm dos aspectos mais interessantes desse fluxo de trabalho é sua capacidade de filtrar conteúdo relacionado à IA. Isso é feito usando os modelos GPT da OpenAI. Para cada artigo no feed RSS:\n\nO título e o snippet de conteúdo são extraídos\nGPT4o-mini é solicitado a determinar se o artigo está relacionado à IA\nSe o artigo for considerado relacionado à IA, ele será passado para o próximo estágio; caso contrário, ele será ignorado\nEssa etapa de filtragem garante que apenas notícias relevantes de IA passem pelo pipeline. Considerei usar o Llama 3.1 70b via Groq, mas embora eu seja um grande fã do Groq, a limitação de taxa torna a plataforma praticamente inutilizável. Eu realmente espero que eles saiam com sua opção paga, que parece estar disponível apenas para contas corporativas pagas.\n\nGerando artigos expandidos\nPara artigos que passam pelo filtro relacionado à IA, o fluxo de trabalho vai um passo além, gerando artigos expandidos e mais detalhados. Isso é feito usando uma combinação de serviços:\n\nJinaAI A pesquisa é usada - o que não posso falar mais bem. Usei o serviço deles em vários projetos sem problemas.\nO trecho do artigo original, juntamente com os resultados da pesquisa, são alimentados no OpenAI GPT4o-mini. Eu testei outros modelos e não observei muita diferença de qualidade na saída do artigo. Claro que o GPT-4o se saiu melhor e o Sonnet também, mas não tanto manteiga, eu pagaria 16x-20x mais.\nA IA então gera um artigo abrangente, completo com:\nUm TL; Seção DR\nFormatação de Markdown\nCitações adequadas\nUma seção de metadados com palavras-chave\nEsta etapa transforma breves trechos de notícias em artigos completos, fornecendo aos leitores (sinceramente) mais contexto e profundidade.",
+    "text": "Filtragem de conteúdo relacionado à IA\nUm dos aspectos mais interessantes desse fluxo de trabalho é sua capacidade de filtrar conteúdo relacionado à IA. Isso é feito usando os modelos GPT da OpenAI. Para cada artigo no feed RSS:\n\nO título e o snippet de conteúdo sêo extraídos\nGPT4o-mini é solicitado a determinar se o artigo está relacionado à IA\nSe o artigo for considerado relacionado à IA, ele será passado para o próximo estágio; caso contrário, ele será ignorado\nEssa etapa de filtragem garante que apenas notícias relevantes de IA passem pelo pipeline. Considerei usar o Llama 3.1 70b via Groq, mas embora eu seja um grande fê do Groq, a limitaçêo de taxa torna a plataforma praticamente inutilizável. Eu realmente espero que eles saiam com sua opçêo paga, que parece estar disponível apenas para contas corporativas pagas.\n\nGerando artigos expandidos\nPara artigos que passam pelo filtro relacionado à IA, o fluxo de trabalho vai um passo além, gerando artigos expandidos e mais detalhados. Isso é feito usando uma combinaçêo de serviços:\n\nJinaAI A pesquisa é usada - o que nêo posso falar mais bem. Usei o serviço deles em vários projetos sem problemas.\nO trecho do artigo original, juntamente com os resultados da pesquisa, sêo alimentados no OpenAI GPT4o-mini. Eu testei outros modelos e nêo observei muita diferença de qualidade na saída do artigo. Claro que o GPT-4o se saiu melhor e o Sonnet também, mas nêo tanto manteiga, eu pagaria 16x-20x mais.\nA IA entêo gera um artigo abrangente, completo com:\nUm TL; Seçêo DR\nFormataçêo de Markdown\nCitações adequadas\nUma seçêo de metadados com palavras-chave\nEsta etapa transforma breves trechos de notícias em artigos completos, fornecendo aos leitores (sinceramente) mais contexto e profundidade.",
     "has_media": false,
     "media_type": null
   },
@@ -4831,7 +4831,7 @@
     "id": 4855,
     "author": "Mooska",
     "date": "2025-04-06T22:35:44+00:00",
-    "text": "Decidi construir um fluxo de trabalho n8n que:\n\nBusque feeds RSS de várias fontes de notícias\nAnalise o conteúdo RSS\nFiltrar artigos relacionados à IA\nFaça uma pesquisa rápida na Internet sobre o assunto\nGere artigos expandidos usando IA com base nos resultados de pesquisa da Internet\nSalvar os resultados em um banco de dados\nPublicar em um site\nVamos detalhar cada componente do fluxo de trabalho.\n\nBuscando feeds RSS\nO fluxo de trabalho começa buscando feeds RSS de várias fontes de notícias de tecnologia proeminentes:\n\nO jornal New York Times (seção de tecnologia)\nFinancial Times\nBBC News (seção de tecnologia)\nThe Washington Post (seção de tecnologia)\nO Wall Street Journal (seção de tecnologia)\nIsso é feito usando os nós \"Solicitação HTTP\", que são configurados para buscar o conteúdo XML de cada URL do feed RSS.\n\nAnalisando conteúdo RSS\nDepois de buscar os feeds RSS, o fluxo de trabalho usa nós \"XML\" para analisar o conteúdo XML em um formato estruturado que pode ser facilmente processado nas etapas subsequentes.",
+    "text": "Decidi construir um fluxo de trabalho n8n que:\n\nBusque feeds RSS de várias fontes de notícias\nAnalise o conteúdo RSS\nFiltrar artigos relacionados à IA\nFaça uma pesquisa rápida na Internet sobre o assunto\nGere artigos expandidos usando IA com base nos resultados de pesquisa da Internet\nSalvar os resultados em um banco de dados\nPublicar em um site\nVamos detalhar cada componente do fluxo de trabalho.\n\nBuscando feeds RSS\nO fluxo de trabalho começa buscando feeds RSS de várias fontes de notícias de tecnologia proeminentes:\n\nO jornal New York Times (seçêo de tecnologia)\nFinancial Times\nBBC News (seçêo de tecnologia)\nThe Washington Post (seçêo de tecnologia)\nO Wall Street Journal (seçêo de tecnologia)\nIsso é feito usando os nós \"Solicitaçêo HTTP\", que sêo configurados para buscar o conteúdo XML de cada URL do feed RSS.\n\nAnalisando conteúdo RSS\nDepois de buscar os feeds RSS, o fluxo de trabalho usa nós \"XML\" para analisar o conteúdo XML em um formato estruturado que pode ser facilmente processado nas etapas subsequentes.",
     "has_media": false,
     "media_type": null
   },
@@ -4839,7 +4839,7 @@
     "id": 4854,
     "author": "Mooska",
     "date": "2025-04-06T22:34:06+00:00",
-    "text": "OBJETIVO:\nMeu objetivo era automatizar o processo de coleta, filtragem e resumo de notícias de IA. \nJunte-se a mim, enquanto exploramos como aproveitei o n8n para domar minha caixa de entrada caótica e ficar por dentro dos últimos desenvolvimentos de IA...\nAgora seja criativo e use para diversas rotas e destino dentro do n8n.\n\nA visão geral do fluxo de trabalho\nNovamente, a tarefa em questão era limpar minha conta do Gmail, e um caso de uso importante que se destacou para mim foi utilizar a IA para resumir todas as principais manchetes de notícias relacionadas à IA. Eu poderia então cancelar a assinatura de todas essas notificações.",
+    "text": "OBJETIVO:\nMeu objetivo era automatizar o processo de coleta, filtragem e resumo de notícias de IA. \nJunte-se a mim, enquanto exploramos como aproveitei o n8n para domar minha caixa de entrada caótica e ficar por dentro dos últimos desenvolvimentos de IA...\nAgora seja criativo e use para diversas rotas e destino dentro do n8n.\n\nA visêo geral do fluxo de trabalho\nNovamente, a tarefa em questêo era limpar minha conta do Gmail, e um caso de uso importante que se destacou para mim foi utilizar a IA para resumir todas as principais manchetes de notícias relacionadas à IA. Eu poderia entêo cancelar a assinatura de todas essas notificações.",
     "has_media": false,
     "media_type": null
   },
@@ -4847,7 +4847,7 @@
     "id": 4853,
     "author": "Mooska",
     "date": "2025-04-06T22:33:46+00:00",
-    "text": "Autor: Joe Taylor\n\nConstruindo um agregador de notícias com inteligência artificial:\n\n\nFUNÇÃO: \nCriar um fluxo de trabalho n8n para agregar e analisar notícias de tecnologia de várias fontes\nO fluxo de trabalho busca feeds RSS, filtra conteúdo relacionado à IA e gera artigos detalhados\nUsa serviços de IA como os modelos GPT da OpenAI para análise de conteúdo e geração de artigos\nDemonstra o poder da automação do fluxo de trabalho para curadoria e criação de conteúdo",
+    "text": "Autor: Joe Taylor\n\nConstruindo um agregador de notícias com inteligência artificial:\n\n\nFUNÇêO: \nCriar um fluxo de trabalho n8n para agregar e analisar notícias de tecnologia de várias fontes\nO fluxo de trabalho busca feeds RSS, filtra conteúdo relacionado à IA e gera artigos detalhados\nUsa serviços de IA como os modelos GPT da OpenAI para análise de conteúdo e geraçêo de artigos\nDemonstra o poder da automaçêo do fluxo de trabalho para curadoria e criaçêo de conteúdo",
     "has_media": false,
     "media_type": null
   },
@@ -4863,7 +4863,7 @@
     "id": 4851,
     "author": "Mooska",
     "date": "2025-04-06T22:12:04+00:00",
-    "text": "Gostaria de compartilhar um Artigo 100% n8n, porém não sei se este é o local ideal.",
+    "text": "Gostaria de compartilhar um Artigo 100% n8n, porém nêo sei se este é o local ideal.",
     "has_media": false,
     "media_type": null
   },
@@ -4895,7 +4895,7 @@
     "id": 4757,
     "author": "Lucas Vinicius",
     "date": "2025-04-05T03:15:18+00:00",
-    "text": "Galera estou usando um fluxo para shorts que tem na comunidade. Mas os vídeos quando vão para edição perdem muito a qualidade, sei disso por que baixei o vídeo e estava perfeito. Alguma diga para os vídeos não perderem a qualidade?",
+    "text": "Galera estou usando um fluxo para shorts que tem na comunidade. Mas os vídeos quando vêo para ediçêo perdem muito a qualidade, sei disso por que baixei o vídeo e estava perfeito. Alguma diga para os vídeos nêo perderem a qualidade?",
     "has_media": false,
     "media_type": null
   },
@@ -4911,7 +4911,7 @@
     "id": 4753,
     "author": "Carlos",
     "date": "2025-04-05T00:09:57+00:00",
-    "text": "Não sei",
+    "text": "Nêo sei",
     "has_media": false,
     "media_type": null
   },
@@ -4919,7 +4919,7 @@
     "id": 4746,
     "author": "🅒🅗🅘🅒🅞",
     "date": "2025-04-04T18:12:23+00:00",
-    "text": "Título: Ajuda para criar um workflow no WhatsApp com Google Sheets\n\nDescrição:\nTenho uma tabela no Google Planilhas chamada dados.xlsx e quero criar um workflow automatizado para consultar e registrar informações através do WhatsApp.\n\nObjetivo do Workflow:\n1️⃣ Buscar informações:\n\nNo grupo do WhatsApp, quero enviar o comando:\nMOSTRE Nome, Turma\nExemplo: MOSTRE João Silva, Enf3\n\nO sistema deve buscar essa pessoa na tabela e responder com todos os dados da linha correspondente.\n\n2️⃣ Registrar novas informações:\n\nNo grupo do WhatsApp, quero enviar o comando:\nREGISTRE Nome, Turma, Telefone\nExemplo: REGISTRE João Silva, Enf3, 11.982414001\n\nO sistema deve adicionar essa nova linha na planilha dados.xlsx.\n\nDúvidas:\n🔹 Qual ferramenta é mais indicada para essa automação: N8N, make ou Typebot?\n🔹 Qual API gratuita ou de baixo custo posso usar para integrar com o WhatsApp (Ultramsg, WATI, Baileys...)?\n🔹 Qual a melhor abordagem para conectar essa automação ao Google Sheets?\n\nBusco uma solução prática e de fácil implementação. Agradeço qualquer ajuda!",
+    "text": "Título: Ajuda para criar um workflow no WhatsApp com Google Sheets\n\nDescriçêo:\nTenho uma tabela no Google Planilhas chamada dados.xlsx e quero criar um workflow automatizado para consultar e registrar informações através do WhatsApp.\n\nObjetivo do Workflow:\n1️⃣ Buscar informações:\n\nNo grupo do WhatsApp, quero enviar o comando:\nMOSTRE Nome, Turma\nExemplo: MOSTRE Joêo Silva, Enf3\n\nO sistema deve buscar essa pessoa na tabela e responder com todos os dados da linha correspondente.\n\n2️⃣ Registrar novas informações:\n\nNo grupo do WhatsApp, quero enviar o comando:\nREGISTRE Nome, Turma, Telefone\nExemplo: REGISTRE Joêo Silva, Enf3, 11.982414001\n\nO sistema deve adicionar essa nova linha na planilha dados.xlsx.\n\nDúvidas:\n🔹 Qual ferramenta é mais indicada para essa automaçêo: N8N, make ou Typebot?\n🔹 Qual API gratuita ou de baixo custo posso usar para integrar com o WhatsApp (Ultramsg, WATI, Baileys...)?\n🔹 Qual a melhor abordagem para conectar essa automaçêo ao Google Sheets?\n\nBusco uma soluçêo prática e de fácil implementaçêo. Agradeço qualquer ajuda!",
     "has_media": false,
     "media_type": null
   },
@@ -4951,7 +4951,7 @@
     "id": 4722,
     "author": "Carlos",
     "date": "2025-04-03T23:59:13+00:00",
-    "text": "Precisa configurar o webhook do seu n8n. Me parece que ele tá sem acesso a conexão externa.",
+    "text": "Precisa configurar o webhook do seu n8n. Me parece que ele tá sem acesso a conexêo externa.",
     "has_media": false,
     "media_type": null
   },
@@ -4975,7 +4975,7 @@
     "id": 4717,
     "author": "lllllllllIIIIIIIIIlI",
     "date": "2025-04-03T23:00:15+00:00",
-    "text": "quando tento ativar da esse erro: O fluxo de trabalho não pôde ser ativado:\nSolicitação incorreta: webhook incorreto: uma URL HTTPS deve ser fornecida para o webhook",
+    "text": "quando tento ativar da esse erro: O fluxo de trabalho nêo pôde ser ativado:\nSolicitaçêo incorreta: webhook incorreto: uma URL HTTPS deve ser fornecida para o webhook",
     "has_media": false,
     "media_type": null
   },
@@ -4999,7 +4999,7 @@
     "id": 4709,
     "author": "lllllllllIIIIIIIIIlI",
     "date": "2025-04-03T21:23:09+00:00",
-    "text": "Tô aprendendo a mexer no n8n agora. Uso outra plataforma para fazer chatbots, mas agora quero começar a automatizar outros processos que na plataforma que uso não dá. Aí, queria ter um bot no Telegram para fazer os testes, só que não tô conseguindo fazer esse trigger funcionar. Não sei por que — se é porque tô usando na minha máquina local ou algo do tipo. Tentei até instalar o ngrok para fazer o tunelamento pra não ficar só localmente na minha máquina, mas também não funcionou.",
+    "text": "Tô aprendendo a mexer no n8n agora. Uso outra plataforma para fazer chatbots, mas agora quero começar a automatizar outros processos que na plataforma que uso nêo dá. Aí, queria ter um bot no Telegram para fazer os testes, só que nêo tô conseguindo fazer esse trigger funcionar. Nêo sei por que — se é porque tô usando na minha máquina local ou algo do tipo. Tentei até instalar o ngrok para fazer o tunelamento pra nêo ficar só localmente na minha máquina, mas também nêo funcionou.",
     "has_media": false,
     "media_type": null
   },
@@ -5048,7 +5048,7 @@
     "id": 4682,
     "author": "Carlos",
     "date": "2025-04-03T14:03:45+00:00",
-    "text": "Nem a API oficial garante que você fique livre de bloqueio. O uso precisa ser consciente.\n\nDicas:\n1) Utilizar um intervalo de 3 a 5 segundos entre mensagens;\n2) Inserir na mensagem a opção de botão que falo no vídeo. Para o cliente clicar caso não queira receber mais mensagens (para ele não te bloquear)\n3) Não disparar segunda mensagem para um mesmo número que nunca respondeu a primeira\n4) Enviar entre 100 e 200 mensagens por dia\n5) Utilizar um número aquecido \n\nOs 2 maiores fatores de bloqueio de número são:\n1) O cliente bloquear seu número após receber a mensagem (se tiver uma porcentagem alta de solicitação de bloqueio), a Meta bloqueia seu número, mesmo se o disparo for da API oficial\n2) no caso de API não oficial, não dar intervalo de tempo entre disparos",
+    "text": "Nem a API oficial garante que você fique livre de bloqueio. O uso precisa ser consciente.\n\nDicas:\n1) Utilizar um intervalo de 3 a 5 segundos entre mensagens;\n2) Inserir na mensagem a opçêo de botêo que falo no vídeo. Para o cliente clicar caso nêo queira receber mais mensagens (para ele nêo te bloquear)\n3) Nêo disparar segunda mensagem para um mesmo número que nunca respondeu a primeira\n4) Enviar entre 100 e 200 mensagens por dia\n5) Utilizar um número aquecido \n\nOs 2 maiores fatores de bloqueio de número sêo:\n1) O cliente bloquear seu número após receber a mensagem (se tiver uma porcentagem alta de solicitaçêo de bloqueio), a Meta bloqueia seu número, mesmo se o disparo for da API oficial\n2) no caso de API nêo oficial, nêo dar intervalo de tempo entre disparos",
     "has_media": false,
     "media_type": null
   },
@@ -5056,7 +5056,7 @@
     "id": 4681,
     "author": "Franciele",
     "date": "2025-04-03T13:44:22+00:00",
-    "text": "Gratidão pela ajuda e reconhecimento.\n\nTudo que aprendi com automação foi aqui na comunidade. \nEntrei sem saber NADA!\n\nJá fica de incentivo pro pessoal novo por aqui! 🤩\n\n\nE só mais uma dúvida, esses clientes menores não teve problemas no dia a dia depois que implementou? \n\nOu se seguir as dicas do seu vídeo evita futuros problemas?",
+    "text": "Gratidêo pela ajuda e reconhecimento.\n\nTudo que aprendi com automaçêo foi aqui na comunidade. \nEntrei sem saber NADA!\n\nJá fica de incentivo pro pessoal novo por aqui! 🤩\n\n\nE só mais uma dúvida, esses clientes menores nêo teve problemas no dia a dia depois que implementou? \n\nOu se seguir as dicas do seu vídeo evita futuros problemas?",
     "has_media": false,
     "media_type": null
   },
@@ -5072,7 +5072,7 @@
     "id": 4679,
     "author": "Carlos",
     "date": "2025-04-03T13:24:01+00:00",
-    "text": "Ei Franciele! Beleza!?\nVejo que está evoluindo bem por aí!! Fico feliz com isso!!!\n\nVocê pode criar um vídeo explicativo com o passo-a-passo de como solicitar a API oficial à Meta e enviar para o cliente. \nDaí você pode dar 2 opções pra ele:\n1) ele faz os procedimentos necessários;\n2) ele te dá o acesso para fazer os procedimentos.\n\nComigo aqui normalmente acontece da seguinte forma:\n1) clientes menores - não querem custear as despesas da api oficial, com isso entrego o projeto com o evolution (VPS);\n2) clientes maiores - normalmente já têm alguém na equipe da empresa que é responsável pelas configurações da Meta. Daí envio o vídeo para essa pessoa responsável.",
+    "text": "Ei Franciele! Beleza!?\nVejo que está evoluindo bem por aí!! Fico feliz com isso!!!\n\nVocê pode criar um vídeo explicativo com o passo-a-passo de como solicitar a API oficial à Meta e enviar para o cliente. \nDaí você pode dar 2 opções pra ele:\n1) ele faz os procedimentos necessários;\n2) ele te dá o acesso para fazer os procedimentos.\n\nComigo aqui normalmente acontece da seguinte forma:\n1) clientes menores - nêo querem custear as despesas da api oficial, com isso entrego o projeto com o evolution (VPS);\n2) clientes maiores - normalmente já têm alguém na equipe da empresa que é responsável pelas configurações da Meta. Daí envio o vídeo para essa pessoa responsável.",
     "has_media": false,
     "media_type": null
   },
@@ -5096,7 +5096,7 @@
     "id": 4653,
     "author": "Franciele",
     "date": "2025-04-03T01:36:00+00:00",
-    "text": "Boa noite pessoal\n\nEu criei um agente de atendimento no WhatsApp usando a api oficialmente e está rodando perfeitamente. \n\nMas quero saber se eu for vender e implementar pra empresas, como faço a parte da configuração feita no meta?  \n\nComo vcs automatizam essa parte? Que é bem trabalhoso e o cliente não saberia fazer. No caso de escalar em questão de tempo e valores fica pesado. \n\nOu vocês usam outro método quando escala as vendas dessa automação? \nTeria que usar ferramentas de bot? \n\nMe dê uma luz, ideias ? 💡",
+    "text": "Boa noite pessoal\n\nEu criei um agente de atendimento no WhatsApp usando a api oficialmente e está rodando perfeitamente. \n\nMas quero saber se eu for vender e implementar pra empresas, como faço a parte da configuraçêo feita no meta?  \n\nComo vcs automatizam essa parte? Que é bem trabalhoso e o cliente nêo saberia fazer. No caso de escalar em questêo de tempo e valores fica pesado. \n\nOu vocês usam outro método quando escala as vendas dessa automaçêo? \nTeria que usar ferramentas de bot? \n\nMe dê uma luz, ideias ? 💡",
     "has_media": false,
     "media_type": null
   },
@@ -5104,7 +5104,7 @@
     "id": 4647,
     "author": "Arthur",
     "date": "2025-04-03T01:16:22+00:00",
-    "text": "🚨 Galera, dúvida técnica rápida sobre estrutura de SaaS com chatbot via WhatsApp:\n\nEstou criando um SaaS e usando a API da Evolution como ponte principal pro WhatsApp.\nQuero blindar o sistema pra evitar dor de cabeça caso a Evolution caia.\n\nA ideia é ter:\n\nUma API principal ativa.\n\nUma API de backup configurada.\n\nE um sistema que troque automaticamente entre elas em caso de instabilidade.\n\n❓Como vocês estruturariam isso tecnicamente? Quero que essa troca seja automática, sem intervenção manual, e que volte pra principal quando ela estiver estável novamente.\nEstou usando o n8n no backend, mas posso integrar outro serviço/microserviço se precisar.\n\nAlguma sugestão prática ou já fizeram algo parecido?\n\nValeu demais 🙌",
+    "text": "🚨 Galera, dúvida técnica rápida sobre estrutura de SaaS com chatbot via WhatsApp:\n\nEstou criando um SaaS e usando a API da Evolution como ponte principal pro WhatsApp.\nQuero blindar o sistema pra evitar dor de cabeça caso a Evolution caia.\n\nA ideia é ter:\n\nUma API principal ativa.\n\nUma API de backup configurada.\n\nE um sistema que troque automaticamente entre elas em caso de instabilidade.\n\n❓Como vocês estruturariam isso tecnicamente? Quero que essa troca seja automática, sem intervençêo manual, e que volte pra principal quando ela estiver estável novamente.\nEstou usando o n8n no backend, mas posso integrar outro serviço/microserviço se precisar.\n\nAlguma sugestêo prática ou já fizeram algo parecido?\n\nValeu demais 🙌",
     "has_media": false,
     "media_type": null
   },
@@ -5112,7 +5112,7 @@
     "id": 4613,
     "author": "Mooska",
     "date": "2025-04-02T20:35:48+00:00",
-    "text": "Boa tarde, Família! Acabei de desembarcar nesta comunidade. Eu sou O @Mooska. alguém pode contribuir em um nó especifico para integração com google maps. quero que este nó calcule a distância entre 2 pontos para cobrar entrega por KM. alguém com este conhecimento para compartilhar. Desde já Obrigado!",
+    "text": "Boa tarde, Família! Acabei de desembarcar nesta comunidade. Eu sou O @Mooska. alguém pode contribuir em um nó especifico para integraçêo com google maps. quero que este nó calcule a distância entre 2 pontos para cobrar entrega por KM. alguém com este conhecimento para compartilhar. Desde já Obrigado!",
     "has_media": false,
     "media_type": null
   },
@@ -5128,7 +5128,7 @@
     "id": 4607,
     "author": "Pedro Victor",
     "date": "2025-04-02T17:38:09+00:00",
-    "text": "galera, tenho uma automação simples no n8n que usa o gpt para buscar dados em um banco supabase (não vetorial) toda a comunicação está ok, porém quando pergunto o total de vendas do dia x por exemplo ele não traz a informação correta, podem me dar um help?",
+    "text": "galera, tenho uma automaçêo simples no n8n que usa o gpt para buscar dados em um banco supabase (nêo vetorial) toda a comunicaçêo está ok, porém quando pergunto o total de vendas do dia x por exemplo ele nêo traz a informaçêo correta, podem me dar um help?",
     "has_media": false,
     "media_type": null
   },
@@ -5154,7 +5154,7 @@
     "id": 4537,
     "author": "Lucas Vinicius",
     "date": "2025-04-01T23:37:39+00:00",
-    "text": "Alguem para ajudar a conectar o (Kling) no meu fluxo? Não esou conseguindo.",
+    "text": "Alguem para ajudar a conectar o (Kling) no meu fluxo? Nêo esou conseguindo.",
     "has_media": false,
     "media_type": null
   },
@@ -5178,7 +5178,7 @@
     "id": 4467,
     "author": "Deyvid",
     "date": "2025-03-31T21:49:08+00:00",
-    "text": "Alguma automação para WordPress",
+    "text": "Alguma automaçêo para WordPress",
     "has_media": false,
     "media_type": null
   },
@@ -5194,7 +5194,7 @@
     "id": 4449,
     "author": "Juninho",
     "date": "2025-03-31T15:46:54+00:00",
-    "text": "alguem sabe a solução para isso ja refiz varias vezes dei todas permissões ta impossivel....node do facebook create container, ja recrei umas mil vezes o token mudei as permissões e nada...ta foda..:\n\nBad request - please check your parameters\n(#10) Application does not have permission for this action\nError details\n\n From Facebook Graph API\nError code\n\n400\n\nFull message\n\n{ \"error\": { \"message\": \"(#10) Application does not have permission for this action\", \"type\": \"OAuthException\", \"code\": 10, \"fbtrace_id\": \"\" } }\n Other info\nNode type\n\nn8n-nodes-base.facebookGraphApi\n\nNode version\n\n1 (Latest)\n\nn8n version\n\n1.84.3 (Self Hosted)\n\nTime\n\n31/03/2025, 12:36:16",
+    "text": "alguem sabe a soluçêo para isso ja refiz varias vezes dei todas permissões ta impossivel....node do facebook create container, ja recrei umas mil vezes o token mudei as permissões e nada...ta foda..:\n\nBad request - please check your parameters\n(#10) Application does not have permission for this action\nError details\n\n From Facebook Graph API\nError code\n\n400\n\nFull message\n\n{ \"error\": { \"message\": \"(#10) Application does not have permission for this action\", \"type\": \"OAuthException\", \"code\": 10, \"fbtrace_id\": \"\" } }\n Other info\nNode type\n\nn8n-nodes-base.facebookGraphApi\n\nNode version\n\n1 (Latest)\n\nn8n version\n\n1.84.3 (Self Hosted)\n\nTime\n\n31/03/2025, 12:36:16",
     "has_media": false,
     "media_type": null
   },
@@ -5315,7 +5315,7 @@
     "id": 4263,
     "author": "Davi",
     "date": "2025-03-30T01:38:48+00:00",
-    "text": "Sim.. sim... Mas é aquilo, vou devagar me acostumando em como estão organizados as paradas aqui. Mas o rogado pela força",
+    "text": "Sim.. sim... Mas é aquilo, vou devagar me acostumando em como estêo organizados as paradas aqui. Mas o rogado pela força",
     "has_media": false,
     "media_type": null
   },
@@ -5323,7 +5323,7 @@
     "id": 4262,
     "author": "Davi",
     "date": "2025-03-30T01:38:04+00:00",
-    "text": "Vou a partir desta semana intensificar e fazer os cursos que estão aqui para me aperfeiçoar mais ainda no n8n.",
+    "text": "Vou a partir desta semana intensificar e fazer os cursos que estêo aqui para me aperfeiçoar mais ainda no n8n.",
     "has_media": false,
     "media_type": null
   },
@@ -5339,7 +5339,7 @@
     "id": 4260,
     "author": "Davi",
     "date": "2025-03-30T01:37:15+00:00",
-    "text": "Fala Carlão... Tudo beleza?",
+    "text": "Fala Carlêo... Tudo beleza?",
     "has_media": false,
     "media_type": null
   },
@@ -5355,7 +5355,7 @@
     "id": 4258,
     "author": "Carlos",
     "date": "2025-03-30T01:27:50+00:00",
-    "text": "Com relação a raspagem posso te dar um panorama de como funciona",
+    "text": "Com relaçêo a raspagem posso te dar um panorama de como funciona",
     "has_media": false,
     "media_type": null
   },
@@ -5379,7 +5379,7 @@
     "id": 4255,
     "author": "Davi",
     "date": "2025-03-30T00:47:05+00:00",
-    "text": "Boa noite pessoal... Estou bem confuso pra procurar ainda modelos no repositório (mas devagar vou conseguir me achar) mas alguém pode me dar uma ajuda!?\n\nPreciso de um fluxo para raspar perfis no Instagram para captar leads e de profissionais (ramos como advogados/médicos/personais/nutricionistas/esteticistas/etc.). E preciso de outro para que faça um primeiro contato, ou até mesmo uma pré venda e agendamento , para venda de serviços.\n\nTem algo já no repositório que possa me ajudar nisso? Tenho n8n instalado num servidor em casa, então acredito que não terei grandes problemas em deixar rodando.\n\nAgradeço desde já a ajuda pessoal.",
+    "text": "Boa noite pessoal... Estou bem confuso pra procurar ainda modelos no repositório (mas devagar vou conseguir me achar) mas alguém pode me dar uma ajuda!?\n\nPreciso de um fluxo para raspar perfis no Instagram para captar leads e de profissionais (ramos como advogados/médicos/personais/nutricionistas/esteticistas/etc.). E preciso de outro para que faça um primeiro contato, ou até mesmo uma pré venda e agendamento , para venda de serviços.\n\nTem algo já no repositório que possa me ajudar nisso? Tenho n8n instalado num servidor em casa, entêo acredito que nêo terei grandes problemas em deixar rodando.\n\nAgradeço desde já a ajuda pessoal.",
     "has_media": false,
     "media_type": null
   },
@@ -5435,7 +5435,7 @@
     "id": 4072,
     "author": "EntropyAI",
     "date": "2025-03-27T21:47:55+00:00",
-    "text": "Olá, gostaria de construir um fluxo de dados automático para o setor financeiro, juntamente com um agente que análise documentos e faça relatórios confiáveis, alguém tem alguma sugestão ou tem um conteúdo específico entre os tópicos do grupo?",
+    "text": "Olá, gostaria de construir um fluxo de dados automático para o setor financeiro, juntamente com um agente que análise documentos e faça relatórios confiáveis, alguém tem alguma sugestêo ou tem um conteúdo específico entre os tópicos do grupo?",
     "has_media": false,
     "media_type": null
   },
@@ -5443,7 +5443,7 @@
     "id": 3952,
     "author": "Arthur",
     "date": "2025-03-26T17:52:02+00:00",
-    "text": "**[Ajuda] CRM com IA para atendimento via WhatsApp**\n\nEstou desenvolvendo um atendimento inteligente com **n8n, Supabase, GPT (OpenAI)** e **API do WhatsApp (Evolution)** para oficinas mecânicas.\n\nPreciso de um **CRM visual (estilo Kanban ou Inbox)** que permita:\n • Ver o **histórico das conversas** (IA + humano).\n • **Responder via WhatsApp** direto pela plataforma.\n • Usar **campos customizados** (veículo, tipo de serviço, status etc).\n • Se integrar com **Supabase/n8n** (via API ou Webhook).\n\nJá pensei em **NocoDB**, **Appsmith** ou **Chatwoot**, mas aceito sugestões melhores!\n\nQual solução vocês recomendam? Preciso de algo simples, personalizável e com bom custo-benefício.",
+    "text": "**[Ajuda] CRM com IA para atendimento via WhatsApp**\n\nEstou desenvolvendo um atendimento inteligente com **n8n, Supabase, GPT (OpenAI)** e **API do WhatsApp (Evolution)** para oficinas mecânicas.\n\nPreciso de um **CRM visual (estilo Kanban ou Inbox)** que permita:\n • Ver o **histórico das conversas** (IA + humano).\n • **Responder via WhatsApp** direto pela plataforma.\n • Usar **campos customizados** (veículo, tipo de serviço, status etc).\n • Se integrar com **Supabase/n8n** (via API ou Webhook).\n\nJá pensei em **NocoDB**, **Appsmith** ou **Chatwoot**, mas aceito sugestões melhores!\n\nQual soluçêo vocês recomendam? Preciso de algo simples, personalizável e com bom custo-benefício.",
     "has_media": false,
     "media_type": null
   },
@@ -5451,7 +5451,7 @@
     "id": 3947,
     "author": "Arthur",
     "date": "2025-03-26T16:54:39+00:00",
-    "text": "Caramba eu uso o mini não alucina tanto por aqui.",
+    "text": "Caramba eu uso o mini nêo alucina tanto por aqui.",
     "has_media": false,
     "media_type": null
   },
@@ -5459,7 +5459,7 @@
     "id": 3946,
     "author": "Júnior",
     "date": "2025-03-26T16:50:03+00:00",
-    "text": "Boa tarde. Qual melhor IA model para usar no N8N. Testei o Gpt4 turbo, gpt4o e gpt4o-Mini.\n\nO turbo e o 4o são muito caros. Gastei 6 dólares em poucas horas. Mas o Mini é alucina muito.",
+    "text": "Boa tarde. Qual melhor IA model para usar no N8N. Testei o Gpt4 turbo, gpt4o e gpt4o-Mini.\n\nO turbo e o 4o sêo muito caros. Gastei 6 dólares em poucas horas. Mas o Mini é alucina muito.",
     "has_media": false,
     "media_type": null
   },
@@ -5516,7 +5516,7 @@
     "id": 3724,
     "author": "Davi",
     "date": "2025-03-24T13:33:39+00:00",
-    "text": "opa... não tenho experiência com Python, mas vou tentar aqui sim. Qualquer cosia posso falar contigo pelo privado meu querido? Muito obrigado desde já.",
+    "text": "opa... nêo tenho experiência com Python, mas vou tentar aqui sim. Qualquer cosia posso falar contigo pelo privado meu querido? Muito obrigado desde já.",
     "has_media": false,
     "media_type": null
   },
@@ -5540,7 +5540,7 @@
     "id": 3721,
     "author": "Arthur",
     "date": "2025-03-24T13:03:56+00:00",
-    "text": "**Como rodar um ChatGPT local com histórico salvo no seu HD (usando Python + API da OpenAI)**\n\n**Passo 1 – Crie uma pasta no seu computador**\n\nEscolha um local fácil, como sua área de trabalho ou documentos, e dê um nome para o projeto. Ex: meu_chatgpt_local.\n\n⸻\n\n**Passo 2 – Instale o Python**\n\nSe ainda não tiver o Python instalado, baixe e instale do site oficial: [https://www.python.org](https://www.python.org/)\n\n⸻\n\n**Passo 3 – Gere uma chave da OpenAI**\n\nAcesse [https://platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys)\nCrie uma conta (se ainda não tiver), gere uma chave secreta e guarde ela.\n\n⸻\n\n**Passo 4 – Abra o terminal (Prompt de Comando ou PowerShell)**\n\nNavegue até a pasta que você criou. Exemplo:\n • No Windows: cd C:\\Users\\SeuNome\\Desktop\\meu_chatgpt_local\n\n⸻\n\n**Passo 5 – Instale a biblioteca do OpenAI**\n\nNo terminal, digite o comando para instalar a biblioteca que se conecta com o ChatGPT.\n\n⸻\n\n**Passo 6 – Crie um arquivo chamado chatgpt_local.py**\n\nAbra o Bloco de Notas ou qualquer editor de texto. Esse será o script principal onde vai rodar a conversa.\n\n⸻\n\n**Passo 7 – Cole o código base do projeto**\n\nDentro desse arquivo, você vai colar o código (posso te passar pronto). Ele vai:\n • Salvar e recuperar o histórico da conversa do seu próprio HD.\n • Enviar a mensagem para o GPT-4.\n • Retornar a resposta direto no terminal.\n\n⸻\n\n**Passo 8 – Coloque sua chave da OpenAI no código**\n\nNo lugar indicado no código, substitua por sua chave secreta gerada no passo 3.\n\n⸻\n\n**Passo 9 – Execute o script**\n\nNo terminal, ainda na pasta do projeto, digite:\n • python chatgpt_local.py\n\nVocê verá o prompt da conversa no terminal. O sistema vai:\n • Buscar o histórico salvo no seu HD\n • Enviar o contexto para a IA\n • Exibir a resposta da IA\n • Salvar tudo automaticamente\n\n⸻\n\n**Pronto!**\n\nVocê agora tem seu próprio **chat com IA**, rodando localmente, com **histórico salvo direto no seu computador**, sem depender de servidores externos para armazenar dados.",
+    "text": "**Como rodar um ChatGPT local com histórico salvo no seu HD (usando Python + API da OpenAI)**\n\n**Passo 1 – Crie uma pasta no seu computador**\n\nEscolha um local fácil, como sua área de trabalho ou documentos, e dê um nome para o projeto. Ex: meu_chatgpt_local.\n\n⸻\n\n**Passo 2 – Instale o Python**\n\nSe ainda nêo tiver o Python instalado, baixe e instale do site oficial: [https://www.python.org](https://www.python.org/)\n\n⸻\n\n**Passo 3 – Gere uma chave da OpenAI**\n\nAcesse [https://platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys)\nCrie uma conta (se ainda nêo tiver), gere uma chave secreta e guarde ela.\n\n⸻\n\n**Passo 4 – Abra o terminal (Prompt de Comando ou PowerShell)**\n\nNavegue até a pasta que você criou. Exemplo:\n • No Windows: cd C:\\Users\\SeuNome\\Desktop\\meu_chatgpt_local\n\n⸻\n\n**Passo 5 – Instale a biblioteca do OpenAI**\n\nNo terminal, digite o comando para instalar a biblioteca que se conecta com o ChatGPT.\n\n⸻\n\n**Passo 6 – Crie um arquivo chamado chatgpt_local.py**\n\nAbra o Bloco de Notas ou qualquer editor de texto. Esse será o script principal onde vai rodar a conversa.\n\n⸻\n\n**Passo 7 – Cole o código base do projeto**\n\nDentro desse arquivo, você vai colar o código (posso te passar pronto). Ele vai:\n • Salvar e recuperar o histórico da conversa do seu próprio HD.\n • Enviar a mensagem para o GPT-4.\n • Retornar a resposta direto no terminal.\n\n⸻\n\n**Passo 8 – Coloque sua chave da OpenAI no código**\n\nNo lugar indicado no código, substitua por sua chave secreta gerada no passo 3.\n\n⸻\n\n**Passo 9 – Execute o script**\n\nNo terminal, ainda na pasta do projeto, digite:\n • python chatgpt_local.py\n\nVocê verá o prompt da conversa no terminal. O sistema vai:\n • Buscar o histórico salvo no seu HD\n • Enviar o contexto para a IA\n • Exibir a resposta da IA\n • Salvar tudo automaticamente\n\n⸻\n\n**Pronto!**\n\nVocê agora tem seu próprio **chat com IA**, rodando localmente, com **histórico salvo direto no seu computador**, sem depender de servidores externos para armazenar dados.",
     "has_media": true,
     "media_type": "MessageMediaWebPage"
   },
@@ -5556,7 +5556,7 @@
     "id": 3717,
     "author": "Davi",
     "date": "2025-03-24T12:00:03+00:00",
-    "text": "Sim queridão... mas ao mesmo tempo, por uma questão sde segurança e futuros projetos, pensei em armazenar as informações num servidor por exemplo. Mas eu penso sim em, independente de tudo, pagar o plus da openAI",
+    "text": "Sim queridêo... mas ao mesmo tempo, por uma questêo sde segurança e futuros projetos, pensei em armazenar as informações num servidor por exemplo. Mas eu penso sim em, independente de tudo, pagar o plus da openAI",
     "has_media": false,
     "media_type": null
   },
@@ -5564,7 +5564,7 @@
     "id": 3714,
     "author": "Arthur",
     "date": "2025-03-24T11:36:27+00:00",
-    "text": "Não é mais fácil pagar os 100 Por mês do chat gpt?",
+    "text": "Nêo é mais fácil pagar os 100 Por mês do chat gpt?",
     "has_media": false,
     "media_type": null
   },
@@ -5572,7 +5572,7 @@
     "id": 3713,
     "author": "Davi",
     "date": "2025-03-24T11:30:00+00:00",
-    "text": "Ahh, se existir um tópico específico para essa postagem (eu não achei), por favor me avise que eu transfiro isso pra lá. abcs",
+    "text": "Ahh, se existir um tópico específico para essa postagem (eu nêo achei), por favor me avise que eu transfiro isso pra lá. abcs",
     "has_media": false,
     "media_type": null
   },
@@ -5580,7 +5580,7 @@
     "id": 3712,
     "author": "Davi",
     "date": "2025-03-24T11:29:24+00:00",
-    "text": "Olá, pessoal!\n\nEstou desenvolvendo uma automação no n8n para que meu assistente do ChatGPT tenha sua memória armazenada localmente em uma pasta no HD. A ideia é evitar o problema de limite de memória do ChatGPT, garantindo que o assistente continue operando sem precisar aguardar o tempo de renovação do histórico.\n\nO ChatGPT seria usado apenas como interface de comunicação, enquanto os dados (memória, registros e contexto das interações) seriam lidos e gravados pelo n8n, mantendo um armazenamento contínuo. Dessa forma, eu consigo independência da limitação da OpenAI, sem precisar rodar um LLM localmente (a máquina que estou usando não suporta um modelo completo de IA).\n\nJá tentei configurar a automação com os nós padrão do n8n, mas não estou conseguindo fazer com que ele acesse, leia e grave corretamente os arquivos na pasta designada no HD. Testei diferentes abordagens, mas até agora sem sucesso.\n\nAlguém já fez algo parecido ou teria um direcionamento sobre quais nós utilizar e como configurá-los corretamente? Existe alguma automação pronta que possa servir de base? Ou será que minha abordagem precisa ser ajustada?\n\nAgradeço qualquer insight ou ajuda! Se precisarem de mais detalhes, estou à disposição.\n\nMuito obrigado e ótima semana a todos!",
+    "text": "Olá, pessoal!\n\nEstou desenvolvendo uma automaçêo no n8n para que meu assistente do ChatGPT tenha sua memória armazenada localmente em uma pasta no HD. A ideia é evitar o problema de limite de memória do ChatGPT, garantindo que o assistente continue operando sem precisar aguardar o tempo de renovaçêo do histórico.\n\nO ChatGPT seria usado apenas como interface de comunicaçêo, enquanto os dados (memória, registros e contexto das interações) seriam lidos e gravados pelo n8n, mantendo um armazenamento contínuo. Dessa forma, eu consigo independência da limitaçêo da OpenAI, sem precisar rodar um LLM localmente (a máquina que estou usando nêo suporta um modelo completo de IA).\n\nJá tentei configurar a automaçêo com os nós padrêo do n8n, mas nêo estou conseguindo fazer com que ele acesse, leia e grave corretamente os arquivos na pasta designada no HD. Testei diferentes abordagens, mas até agora sem sucesso.\n\nAlguém já fez algo parecido ou teria um direcionamento sobre quais nós utilizar e como configurá-los corretamente? Existe alguma automaçêo pronta que possa servir de base? Ou será que minha abordagem precisa ser ajustada?\n\nAgradeço qualquer insight ou ajuda! Se precisarem de mais detalhes, estou à disposiçêo.\n\nMuito obrigado e ótima semana a todos!",
     "has_media": false,
     "media_type": null
   },
@@ -5629,7 +5629,7 @@
     "id": 3590,
     "author": "@PalomaReis",
     "date": "2025-03-21T20:28:29+00:00",
-    "text": "Galera boa tarde. Eu tô fazendo a automação de YT igualzinho tá no passo a passo. Mas eh tô com um erro aqui, já tentei de tudo. Já mudei tudo, já vi vários vídeos e nada resolve. \n\nNo node de criação de vídeo.",
+    "text": "Galera boa tarde. Eu tô fazendo a automaçêo de YT igualzinho tá no passo a passo. Mas eh tô com um erro aqui, já tentei de tudo. Já mudei tudo, já vi vários vídeos e nada resolve. \n\nNo node de criaçêo de vídeo.",
     "has_media": false,
     "media_type": null
   },
@@ -5669,7 +5669,7 @@
     "id": 3581,
     "author": "@PalomaReis",
     "date": "2025-03-21T13:24:16+00:00",
-    "text": "Não dá nenhum erro mas também não vai",
+    "text": "Nêo dá nenhum erro mas também nêo vai",
     "has_media": false,
     "media_type": null
   },
@@ -5733,7 +5733,7 @@
     "id": 3554,
     "author": "@PalomaReis",
     "date": "2025-03-20T14:20:58+00:00",
-    "text": "A mensagem exata do erro:\n\nn8n.cloud não concluiu o processo de verificação do Google. O app está em fase de testes e só pode ser acessado por testadores aprovados pelo desenvolvedor. Se você acha que deveria ter acesso, entre em contato com o desenvolvedor.\nSe você for um desenvolvedor de n8n.cloud, consulte os detalhes do erro.\nErro 403: access_denied",
+    "text": "A mensagem exata do erro:\n\nn8n.cloud nêo concluiu o processo de verificaçêo do Google. O app está em fase de testes e só pode ser acessado por testadores aprovados pelo desenvolvedor. Se você acha que deveria ter acesso, entre em contato com o desenvolvedor.\nSe você for um desenvolvedor de n8n.cloud, consulte os detalhes do erro.\nErro 403: access_denied",
     "has_media": false,
     "media_type": null
   },
@@ -5741,7 +5741,7 @@
     "id": 3553,
     "author": "@PalomaReis",
     "date": "2025-03-20T14:18:49+00:00",
-    "text": "Galera bom dia, tudo bem? Precisando de uma ajuda aqui. to configurando na n8n o fluxo para geracao de videos p youtube.. Só que quando chega nessa etapa :\n\n ### 📂 5. Upload do Áudio para Google Drive\n- N**ó: **\"Google Drive\"\n- A**ção: **\"Upload File\"\n- C**onfiguração: ** \n  - Arquivo: Á**udio gerado\n**  - C**ompartilhar publicamente\n**\n\nDa erro... Ele pede que eu configure com o google cloud. consegui fazer tudo mas quando testei aparece a seguinte mensagem:\n\nO aplicativo ainda não esta autorizado, esta em fase de teste.\n\nAlguem consegue me ajuda?",
+    "text": "Galera bom dia, tudo bem? Precisando de uma ajuda aqui. to configurando na n8n o fluxo para geracao de videos p youtube.. Só que quando chega nessa etapa :\n\n ### 📂 5. Upload do Áudio para Google Drive\n- N**ó: **\"Google Drive\"\n- A**çêo: **\"Upload File\"\n- C**onfiguraçêo: ** \n  - Arquivo: Á**udio gerado\n**  - C**ompartilhar publicamente\n**\n\nDa erro... Ele pede que eu configure com o google cloud. consegui fazer tudo mas quando testei aparece a seguinte mensagem:\n\nO aplicativo ainda nêo esta autorizado, esta em fase de teste.\n\nAlguem consegue me ajuda?",
     "has_media": false,
     "media_type": null
   },
@@ -5749,13 +5749,13 @@
     "id": 3552,
     "author": "Carlos",
     "date": "2025-03-20T14:01:43+00:00",
-    "text": "É aqui mesmo que ficam os fluxos, pode verificar que tem vários tópicos numerados... Cada tópico é um fluxo com sua respectiva explicação do funcionamento...",
+    "text": "É aqui mesmo que ficam os fluxos, pode verificar que tem vários tópicos numerados... Cada tópico é um fluxo com sua respectiva explicaçêo do funcionamento...",
     "has_media": false,
     "media_type": null
   },
   {
     "id": 3545,
-    "author": "Fã",
+    "author": "Fê",
     "date": "2025-03-20T00:59:30+00:00",
     "text": "Boa noite!\n\nTem algum drive com todos os fluxos de N8n? Ou algum lugar organizado?",
     "has_media": false,
@@ -5773,7 +5773,7 @@
     "id": 3397,
     "author": "Adriano",
     "date": "2025-03-17T16:21:05+00:00",
-    "text": "Ahh legal, muito obrigado pela ajuda ta, vou aguardar alguém pra essa questão se tem que estar ligado sempre a máquina. 😁👍",
+    "text": "Ahh legal, muito obrigado pela ajuda ta, vou aguardar alguém pra essa questêo se tem que estar ligado sempre a máquina. 😁👍",
     "has_media": false,
     "media_type": null
   },
@@ -5789,7 +5789,7 @@
     "id": 3395,
     "author": "Franciele",
     "date": "2025-03-17T15:52:14+00:00",
-    "text": "Sim, quando vc instala local vc não paga o n8n. Porém pelo que eu entendi sua máquina tem que sempre estar ligada pra rodar sua automação.\n\nEspera ou procura aqui no grupo pra ver se alguém explica melhor",
+    "text": "Sim, quando vc instala local vc nêo paga o n8n. Porém pelo que eu entendi sua máquina tem que sempre estar ligada pra rodar sua automaçêo.\n\nEspera ou procura aqui no grupo pra ver se alguém explica melhor",
     "has_media": false,
     "media_type": null
   },
@@ -5805,7 +5805,7 @@
     "id": 3393,
     "author": "Adriano",
     "date": "2025-03-17T15:38:09+00:00",
-    "text": "O N8N pelo que entendi tem que instalar na máquina, só então importo os arquivos por la isso?",
+    "text": "O N8N pelo que entendi tem que instalar na máquina, só entêo importo os arquivos por la isso?",
     "has_media": false,
     "media_type": null
   },
@@ -5830,7 +5830,7 @@
     "id": 3388,
     "author": "Adriano",
     "date": "2025-03-17T14:42:51+00:00",
-    "text": "Olá sou novo aki, comentei numa postagem no inema que ainda to boiando kk, gostaria de saber como eu copio os arquivos json ja prontos pra testar a automação do N8N?",
+    "text": "Olá sou novo aki, comentei numa postagem no inema que ainda to boiando kk, gostaria de saber como eu copio os arquivos json ja prontos pra testar a automaçêo do N8N?",
     "has_media": false,
     "media_type": null
   },
@@ -5854,7 +5854,7 @@
     "id": 3365,
     "author": "INEMA",
     "date": "2025-03-17T01:47:08+00:00",
-    "text": "Vamos falar sobre MCP...\n\nSe você esteve online nas últimas 72 horas, talvez tenha visto 'MCP' por toda parte.  \n\nAqui está o resumo:  \n\n#### **LLMs São Limitados**  \n🤖 Modelos de Linguagem de Grande Porte (LLMs) sozinhos apenas preveem texto.  \n🧰 Eles às vezes enfrentam dificuldades quando damos acesso a ferramentas.  \n🥺 É como ter um amigo inteligente que pode falar, mas não consegue realmente fazer nada por você.  \n\n#### **A Integração de Ferramentas Hoje É Bagunçada**  \n🧐 Conectar LLMs a várias ferramentas fica cada vez mais complexo.  \n🌍 É como precisar de um tradutor sempre que quiser falar com alguém em outro idioma.  \n💔 Se uma ferramenta (como o Gmail) muda algo, a automação pode quebrar.  \n\n#### **MCP é um Tradutor Universal**  \n✅ MCP cria uma camada padronizada entre LLMs e serviços.  \n🔌 É como ter um adaptador de energia universal que funciona em qualquer tomada no mundo.  \n🚀 Não importa o que a ferramenta mude, ele continua funcionando E conhece todas as suas capacidades.  \n\n#### **A Arquitetura é no Servidor**  \n🧠 A parte inteligente é que os provedores de serviço (e não as empresas de IA) constroem os servidores MCP.  \n🍔 É como se os restaurantes fornecessem seus próprios cardápios em um formato padrão, para que os apps de entrega possam usá-los facilmente.  \n📧 No nosso exemplo do Gmail, eles seriam os responsáveis por seguir esse padrão.  \n\n#### **O Que Vem a Seguir**  \n🔥 MCP ainda está no início, mas está evoluindo.  \n👀 Ele transfere a responsabilidade para os provedores de serviço, tornando suas ferramentas compatíveis com IA.  \n🤩 Imagine se todos os apps do seu celular funcionassem automaticamente com a Siri, sem esforço extra.  \n🤙 Assim, se o app mudasse, seriam eles que teriam que garantir a compatibilidade com a Siri.  \n\nO MCP vai mudar a forma como construímos aplicações de IA.  \nEle tornará mais fácil criar assistentes que realmente possam agir no mundo.  \n\nEsse padrão **PODE** ser tão transformador quanto o HTTP foi para a web.  \n\nIsso não muda significativamente o que estamos fazendo hoje, então não se preocupe.  \nUsá-lo agora não fará suas automações gerarem mais dinheiro, mas é um desenvolvimento interessante!  \n\nSe quiser usá-lo no **n8n**, por enquanto, é necessário um ambiente **self-hosted**.",
+    "text": "Vamos falar sobre MCP...\n\nSe você esteve online nas últimas 72 horas, talvez tenha visto 'MCP' por toda parte.  \n\nAqui está o resumo:  \n\n#### **LLMs Sêo Limitados**  \n🤖 Modelos de Linguagem de Grande Porte (LLMs) sozinhos apenas preveem texto.  \n🧰 Eles às vezes enfrentam dificuldades quando damos acesso a ferramentas.  \n🥺 É como ter um amigo inteligente que pode falar, mas nêo consegue realmente fazer nada por você.  \n\n#### **A Integraçêo de Ferramentas Hoje É Bagunçada**  \n🧐 Conectar LLMs a várias ferramentas fica cada vez mais complexo.  \n🌍 É como precisar de um tradutor sempre que quiser falar com alguém em outro idioma.  \n💔 Se uma ferramenta (como o Gmail) muda algo, a automaçêo pode quebrar.  \n\n#### **MCP é um Tradutor Universal**  \n✅ MCP cria uma camada padronizada entre LLMs e serviços.  \n🔌 É como ter um adaptador de energia universal que funciona em qualquer tomada no mundo.  \n🚀 Nêo importa o que a ferramenta mude, ele continua funcionando E conhece todas as suas capacidades.  \n\n#### **A Arquitetura é no Servidor**  \n🧠 A parte inteligente é que os provedores de serviço (e nêo as empresas de IA) constroem os servidores MCP.  \n🍔 É como se os restaurantes fornecessem seus próprios cardápios em um formato padrêo, para que os apps de entrega possam usá-los facilmente.  \n📧 No nosso exemplo do Gmail, eles seriam os responsáveis por seguir esse padrêo.  \n\n#### **O Que Vem a Seguir**  \n🔥 MCP ainda está no início, mas está evoluindo.  \n👀 Ele transfere a responsabilidade para os provedores de serviço, tornando suas ferramentas compatíveis com IA.  \n🤩 Imagine se todos os apps do seu celular funcionassem automaticamente com a Siri, sem esforço extra.  \n🤙 Assim, se o app mudasse, seriam eles que teriam que garantir a compatibilidade com a Siri.  \n\nO MCP vai mudar a forma como construímos aplicações de IA.  \nEle tornará mais fácil criar assistentes que realmente possam agir no mundo.  \n\nEsse padrêo **PODE** ser têo transformador quanto o HTTP foi para a web.  \n\nIsso nêo muda significativamente o que estamos fazendo hoje, entêo nêo se preocupe.  \nUsá-lo agora nêo fará suas automações gerarem mais dinheiro, mas é um desenvolvimento interessante!  \n\nSe quiser usá-lo no **n8n**, por enquanto, é necessário um ambiente **self-hosted**.",
     "has_media": false,
     "media_type": null
   },
@@ -5878,7 +5878,7 @@
     "id": 3361,
     "author": "David",
     "date": "2025-03-17T00:40:56+00:00",
-    "text": "Fala well \nA bland ai \nQue faz ligações com IA \nTem uma automação dela aqui do make",
+    "text": "Fala well \nA bland ai \nQue faz ligações com IA \nTem uma automaçêo dela aqui do make",
     "has_media": false,
     "media_type": null
   },
@@ -5894,7 +5894,7 @@
     "id": 3350,
     "author": "David",
     "date": "2025-03-16T21:55:46+00:00",
-    "text": "O bland não funciona tão bem quanto ao elevenlabs, é bem diferente",
+    "text": "O bland nêo funciona têo bem quanto ao elevenlabs, é bem diferente",
     "has_media": false,
     "media_type": null
   },
@@ -5902,7 +5902,7 @@
     "id": 3349,
     "author": "David",
     "date": "2025-03-16T21:50:16+00:00",
-    "text": "Pessoal, fiz a automação do blend ai, deu certo, mas ele não é tão bom quanto ao Elevenlabs conversational. Alguém sabe fazer essa automação com ele? Pois não é tão fácil igual ao blend",
+    "text": "Pessoal, fiz a automaçêo do blend ai, deu certo, mas ele nêo é têo bom quanto ao Elevenlabs conversational. Alguém sabe fazer essa automaçêo com ele? Pois nêo é têo fácil igual ao blend",
     "has_media": false,
     "media_type": null
   },
@@ -5934,7 +5934,7 @@
     "id": 3236,
     "author": "Weskley",
     "date": "2025-03-15T13:02:37+00:00",
-    "text": "Ola pessoal, Quero criar uma automação no N8N para publicar vídeo de um imóvel a venda com a sua descrição em 3 locais ao mesmo tempo. No Instagram,  no site e no YouTube. Alguém já fez ou tem algum fluxo similar a esse?",
+    "text": "Ola pessoal, Quero criar uma automaçêo no N8N para publicar vídeo de um imóvel a venda com a sua descriçêo em 3 locais ao mesmo tempo. No Instagram,  no site e no YouTube. Alguém já fez ou tem algum fluxo similar a esse?",
     "has_media": false,
     "media_type": null
   },
@@ -5950,7 +5950,7 @@
     "id": 3154,
     "author": "Carlos",
     "date": "2025-03-14T04:08:43+00:00",
-    "text": "Não afeta",
+    "text": "Nêo afeta",
     "has_media": false,
     "media_type": null
   },
@@ -5966,7 +5966,7 @@
     "id": 3097,
     "author": "tripexplorer",
     "date": "2025-03-13T18:11:08+00:00",
-    "text": "tem algum tópico, automação sobre criar artigos para postar no wordpress?",
+    "text": "tem algum tópico, automaçêo sobre criar artigos para postar no wordpress?",
     "has_media": false,
     "media_type": null
   },
@@ -5990,7 +5990,7 @@
     "id": 3044,
     "author": "Carlos",
     "date": "2025-03-12T15:32:09+00:00",
-    "text": "Recebi um e-mail dizendo isso… achei estranho mas não avaliei mesmo aí tô adiantando para vê se alguém vive isso",
+    "text": "Recebi um e-mail dizendo isso… achei estranho mas nêo avaliei mesmo aí tô adiantando para vê se alguém vive isso",
     "has_media": false,
     "media_type": null
   },
@@ -5998,7 +5998,7 @@
     "id": 3040,
     "author": "Arthur",
     "date": "2025-03-12T14:40:25+00:00",
-    "text": "Comigo isso nunca aconteceu não",
+    "text": "Comigo isso nunca aconteceu nêo",
     "has_media": false,
     "media_type": null
   },
@@ -6006,7 +6006,7 @@
     "id": 3031,
     "author": "Carlos",
     "date": "2025-03-12T13:37:20+00:00",
-    "text": "Oi povo … tô bem no início . A conta do N8N é deletada depois de alguns dias caso não migre pro pago? Isso mesmo?",
+    "text": "Oi povo … tô bem no início . A conta do N8N é deletada depois de alguns dias caso nêo migre pro pago? Isso mesmo?",
     "has_media": false,
     "media_type": null
   },
@@ -6103,7 +6103,7 @@
     "id": 2120,
     "author": "Arthur",
     "date": "2025-03-06T13:45:10+00:00",
-    "text": "Não funciona de forma alguma",
+    "text": "Nêo funciona de forma alguma",
     "has_media": true,
     "media_type": "MessageMediaPhoto",
     "media_file": "photo_2120_752.jpg"
@@ -6146,7 +6146,7 @@
     "id": 1869,
     "author": "Fábio .·.",
     "date": "2025-02-25T06:04:29+00:00",
-    "text": "Tenho um agente de ia que tem 2 tools: uma para enviar email e outra para gravar dados no mysql.\nAcontece que quando finaliza o fluxo do agente de ia, ele não grava e não envia o e-mail. Alguma sugestão para forçar o agente a fazer isso?",
+    "text": "Tenho um agente de ia que tem 2 tools: uma para enviar email e outra para gravar dados no mysql.\nAcontece que quando finaliza o fluxo do agente de ia, ele nêo grava e nêo envia o e-mail. Alguma sugestêo para forçar o agente a fazer isso?",
     "has_media": false,
     "media_type": null
   },
@@ -6154,7 +6154,7 @@
     "id": 1868,
     "author": "Fábio .·.",
     "date": "2025-02-25T06:02:34+00:00",
-    "text": "Para implementar uma lógica de rotação que distribua os leads de forma alternada entre os vendedores no n8n, você pode seguir os passos abaixo:\n\n1. Manter um Registro do Último Vendedor:\n\nArmazenamento Persistente: Utilize um banco de dados ou um arquivo para armazenar o índice ou identificador do último vendedor que recebeu um lead. Isso garante que, mesmo após reinicializações do sistema, o próximo lead seja atribuído corretamente.\n\n\n\n2. Configurar a Lista de Vendedores:\n\nArray de Vendedores: No seu fluxo do n8n, defina uma lista (array) contendo os identificadores ou nomes dos vendedores. Por exemplo:\n\nconst vendedores = ['Vendedor1', 'Vendedor2', 'Vendedor3'];\n\n\n\n3. Implementar a Lógica de Rotação:\n\nNó de Função: Adicione um \"Function Node\" no seu fluxo para determinar qual vendedor deverá receber o próximo lead. O código pode ser semelhante a este:\n\n// Recupera o índice do último vendedor do armazenamento persistente\nlet ultimoIndice = getData('ultimoIndiceVendedor') || 0;\n\n// Calcula o próximo índice\nconst proximoIndice = (ultimoIndice + 1) % vendedores.length;\n\n// Seleciona o próximo vendedor\nconst vendedorSelecionado = vendedores[proximoIndice];\n\n// Atualiza o índice do último vendedor no armazenamento persistente\nsetData('ultimoIndiceVendedor', proximoIndice);\n\n// Retorna o vendedor selecionado\nreturn {\n  json: {\n    vendedor: vendedorSelecionado,\n  },\n};\n\nNota: getData e setData são funções hipotéticas para ilustrar o armazenamento e recuperação de dados persistentes. No n8n, você pode utilizar o \"Set\" e \"Get\" Nodes ou integrar com um banco de dados externo para essa finalidade.\n\n\n\n4. Enviar as Informações do Lead ao Vendedor:\n\nIntegração com WhatsApp: Após determinar o vendedor, utilize um nó HTTP Request ou uma integração específica para enviar os detalhes do lead para o WhatsApp do vendedor selecionado.",
+    "text": "Para implementar uma lógica de rotaçêo que distribua os leads de forma alternada entre os vendedores no n8n, você pode seguir os passos abaixo:\n\n1. Manter um Registro do Último Vendedor:\n\nArmazenamento Persistente: Utilize um banco de dados ou um arquivo para armazenar o índice ou identificador do último vendedor que recebeu um lead. Isso garante que, mesmo após reinicializações do sistema, o próximo lead seja atribuído corretamente.\n\n\n\n2. Configurar a Lista de Vendedores:\n\nArray de Vendedores: No seu fluxo do n8n, defina uma lista (array) contendo os identificadores ou nomes dos vendedores. Por exemplo:\n\nconst vendedores = ['Vendedor1', 'Vendedor2', 'Vendedor3'];\n\n\n\n3. Implementar a Lógica de Rotaçêo:\n\nNó de Funçêo: Adicione um \"Function Node\" no seu fluxo para determinar qual vendedor deverá receber o próximo lead. O código pode ser semelhante a este:\n\n// Recupera o índice do último vendedor do armazenamento persistente\nlet ultimoIndice = getData('ultimoIndiceVendedor') || 0;\n\n// Calcula o próximo índice\nconst proximoIndice = (ultimoIndice + 1) % vendedores.length;\n\n// Seleciona o próximo vendedor\nconst vendedorSelecionado = vendedores[proximoIndice];\n\n// Atualiza o índice do último vendedor no armazenamento persistente\nsetData('ultimoIndiceVendedor', proximoIndice);\n\n// Retorna o vendedor selecionado\nreturn {\n  json: {\n    vendedor: vendedorSelecionado,\n  },\n};\n\nNota: getData e setData sêo funções hipotéticas para ilustrar o armazenamento e recuperaçêo de dados persistentes. No n8n, você pode utilizar o \"Set\" e \"Get\" Nodes ou integrar com um banco de dados externo para essa finalidade.\n\n\n\n4. Enviar as Informações do Lead ao Vendedor:\n\nIntegraçêo com WhatsApp: Após determinar o vendedor, utilize um nó HTTP Request ou uma integraçêo específica para enviar os detalhes do lead para o WhatsApp do vendedor selecionado.",
     "has_media": false,
     "media_type": null
   },
@@ -6178,7 +6178,7 @@
     "id": 1851,
     "author": "Arthur",
     "date": "2025-02-24T03:49:21+00:00",
-    "text": "1% melhor cada dia!!!\n\njaja ta pronto essa maravilha, incrivel o tanto que aprendi sobre essa plataforma em tao pouco tempo fazendo a minha primeira automação",
+    "text": "1% melhor cada dia!!!\n\njaja ta pronto essa maravilha, incrivel o tanto que aprendi sobre essa plataforma em tao pouco tempo fazendo a minha primeira automaçêo",
     "has_media": true,
     "media_type": "MessageMediaPhoto",
     "media_file": "photo_1851_761.jpg"
@@ -6219,7 +6219,7 @@
     "id": 1804,
     "author": "Paula",
     "date": "2025-02-20T22:42:26+00:00",
-    "text": "🙏🙏 alguem ja fez algo para imobiliaria?? só pra trocarmos uma ideia aceito sucestão estou em duvida de qual plataforma fazer , eu mostri um teste de fluxo de tupybot que tem por ai nada personalizado mostrei como  demonstracao e ele gostou , só to na duvida se teria algo melhor",
+    "text": "🙏🙏 alguem ja fez algo para imobiliaria?? só pra trocarmos uma ideia aceito sucestêo estou em duvida de qual plataforma fazer , eu mostri um teste de fluxo de tupybot que tem por ai nada personalizado mostrei como  demonstracao e ele gostou , só to na duvida se teria algo melhor",
     "has_media": false,
     "media_type": null
   },
@@ -6227,7 +6227,7 @@
     "id": 1668,
     "author": ".",
     "date": "2025-02-19T22:12:02+00:00",
-    "text": "Automatização para interação com o cliente via WhatsApp.\nCominho mais simples para leigo, alguem ajuda?",
+    "text": "Automatizaçêo para interaçêo com o cliente via WhatsApp.\nCominho mais simples para leigo, alguem ajuda?",
     "has_media": false,
     "media_type": null
   },
@@ -6267,7 +6267,7 @@
     "id": 1594,
     "author": "Tiza",
     "date": "2025-02-18T10:53:54+00:00",
-    "text": "ATENÇÃO \n\nPessoal, quando vence a assinatura do INEMA.VIP o bot do telegram retira vocês dos grupos, então não deixe vencer, tentem lembrar de renovar a assinatura antes do vencimento. Ou ative para dois meses, pois ele acumula e não excluí e você não perde nenhuma novidade. \nTenham uma excelente semana.",
+    "text": "ATENÇêO \n\nPessoal, quando vence a assinatura do INEMA.VIP o bot do telegram retira vocês dos grupos, entêo nêo deixe vencer, tentem lembrar de renovar a assinatura antes do vencimento. Ou ative para dois meses, pois ele acumula e nêo excluí e você nêo perde nenhuma novidade. \nTenham uma excelente semana.",
     "has_media": false,
     "media_type": null
   },
@@ -6317,7 +6317,7 @@
     "id": 1404,
     "author": "Arthur",
     "date": "2025-02-10T17:25:02+00:00",
-    "text": "Eu estou usando uma VPS está rodando suave.\n\nSó tá dando um b.o que ele tá respondendo a mensagem que ele mesmo envia.\n\nAi tive que criar um if pra não responder minhas mensagens.\n\nO único problema é que está contando como interação",
+    "text": "Eu estou usando uma VPS está rodando suave.\n\nSó tá dando um b.o que ele tá respondendo a mensagem que ele mesmo envia.\n\nAi tive que criar um if pra nêo responder minhas mensagens.\n\nO único problema é que está contando como interaçêo",
     "has_media": false,
     "media_type": null
   },
@@ -6365,7 +6365,7 @@
     "id": 1199,
     "author": "Arthur",
     "date": "2025-02-04T20:01:59+00:00",
-    "text": "Olá, pessoal tudo bem?? . Estou desenvolvendo um chatbot para minha oficina mecânica que integra interações automatizadas com intervenções humanas via  API do Evolution. No fluxo atual, quando o atendimento precisa de intervenção humana, a conversa é transferida para um agente. Minha dúvida é: como posso configurar, utilizando a API do Evolution, a transição automática de volta para o atendimento automatizado após o agente enviar sua resposta (por exemplo, envio de orçamento)? Desejo que, assim que o agente concluir sua intervenção, o sistema retome automaticamente o fluxo automatizado, captando novas mensagens do cliente e mantendo o contexto e histórico do atendimento, sem intervenção manual para alterar o status. Existe algum método, webhook ou documentação que recomende essa abordagem? Obrigado!",
+    "text": "Olá, pessoal tudo bem?? . Estou desenvolvendo um chatbot para minha oficina mecânica que integra interações automatizadas com intervenções humanas via  API do Evolution. No fluxo atual, quando o atendimento precisa de intervençêo humana, a conversa é transferida para um agente. Minha dúvida é: como posso configurar, utilizando a API do Evolution, a transiçêo automática de volta para o atendimento automatizado após o agente enviar sua resposta (por exemplo, envio de orçamento)? Desejo que, assim que o agente concluir sua intervençêo, o sistema retome automaticamente o fluxo automatizado, captando novas mensagens do cliente e mantendo o contexto e histórico do atendimento, sem intervençêo manual para alterar o status. Existe algum método, webhook ou documentaçêo que recomende essa abordagem? Obrigado!",
     "has_media": false,
     "media_type": null
   },
@@ -6373,7 +6373,7 @@
     "id": 1098,
     "author": "Monica",
     "date": "2025-01-31T21:34:48+00:00",
-    "text": "Boa noite, pessoal. \nVi que no make tem, mas aqui no N8N temos automação para fazer postagem de conteúdo viral no insta?\nOnde gere, o tema, imagens ou avatares?",
+    "text": "Boa noite, pessoal. \nVi que no make tem, mas aqui no N8N temos automaçêo para fazer postagem de conteúdo viral no insta?\nOnde gere, o tema, imagens ou avatares?",
     "has_media": false,
     "media_type": null
   },
@@ -6381,7 +6381,7 @@
     "id": 1090,
     "author": "Wellington",
     "date": "2025-01-31T19:17:17+00:00",
-    "text": "Bacana, tem essa automação no make é isso.",
+    "text": "Bacana, tem essa automaçêo no make é isso.",
     "has_media": false,
     "media_type": null
   },
@@ -6389,7 +6389,7 @@
     "id": 1084,
     "author": "Franciele",
     "date": "2025-01-31T13:34:35+00:00",
-    "text": "Eu vi essa automação com o MAKE",
+    "text": "Eu vi essa automaçêo com o MAKE",
     "has_media": false,
     "media_type": null
   },
@@ -6405,7 +6405,7 @@
     "id": 1080,
     "author": "Wellington",
     "date": "2025-01-31T11:23:49+00:00",
-    "text": "Bom dia, aonde está o template do n8n para restaurante que faz reserva de mesa, não encontrei.",
+    "text": "Bom dia, aonde está o template do n8n para restaurante que faz reserva de mesa, nêo encontrei.",
     "has_media": false,
     "media_type": null
   },
@@ -6413,7 +6413,7 @@
     "id": 1060,
     "author": "Tiza",
     "date": "2025-01-30T23:04:00+00:00",
-    "text": "@INEMAtds está em Live no YouTube inema.tds falando de automação.",
+    "text": "@INEMAtds está em Live no YouTube inema.tds falando de automaçêo.",
     "has_media": false,
     "media_type": null
   },
@@ -6429,7 +6429,7 @@
     "id": 1029,
     "author": "Arthur",
     "date": "2025-01-30T15:30:22+00:00",
-    "text": "atualmente ele esta assim\n\nrecebe a mensagem, verifica se esta cadastrado\n\ncaso esteja cadastrado informa o nome para o chat gpt junto com a mensagem para uma resposta personalizada\n\nfiz um prompt para que ele responda normalmente o cliente ate entender a inteção da mensagem, enquanto nao entende rodara em loop as mensagens.\n\nquando entender vai para o swith para separar os fluxos",
+    "text": "atualmente ele esta assim\n\nrecebe a mensagem, verifica se esta cadastrado\n\ncaso esteja cadastrado informa o nome para o chat gpt junto com a mensagem para uma resposta personalizada\n\nfiz um prompt para que ele responda normalmente o cliente ate entender a inteçêo da mensagem, enquanto nao entende rodara em loop as mensagens.\n\nquando entender vai para o swith para separar os fluxos",
     "has_media": true,
     "media_type": "MessageMediaPhoto",
     "media_file": "photo_1029_792.jpg"
@@ -6504,7 +6504,7 @@
     "id": 277,
     "author": "Madworks",
     "date": "2025-01-16T10:39:07+00:00",
-    "text": "Fala galera alguem poderia me ajudar? onde vejo um tutorial para instalação dos programas na VPS parece que precisa de um dominio ?? eu tenho um dominio na hostinger será que posso usar ele ?",
+    "text": "Fala galera alguem poderia me ajudar? onde vejo um tutorial para instalaçêo dos programas na VPS parece que precisa de um dominio ?? eu tenho um dominio na hostinger será que posso usar ele ?",
     "has_media": false,
     "media_type": null
   },
@@ -6520,7 +6520,7 @@
     "id": 260,
     "author": "Franciele",
     "date": "2025-01-15T15:52:13+00:00",
-    "text": "E como resolvo a limitação de 25mb ?",
+    "text": "E como resolvo a limitaçêo de 25mb ?",
     "has_media": false,
     "media_type": null
   },
@@ -6536,7 +6536,7 @@
     "id": 242,
     "author": "INEMA",
     "date": "2025-01-15T15:34:10+00:00",
-    "text": "Na automação você usa o whisper do gpt",
+    "text": "Na automaçêo você usa o whisper do gpt",
     "has_media": false,
     "media_type": null
   },
@@ -6552,7 +6552,7 @@
     "id": 240,
     "author": "Franciele",
     "date": "2025-01-15T14:41:54+00:00",
-    "text": "Alguém já fez transcrição de vídeos do YouTube, Usando o gpt? \nEx: vídeo > transcreve > gpt cria roteiro (conteúdo) \n\nJá vi no meke no grupo antigo, mas era de TikTok e Instagram fazendo esse processo",
+    "text": "Alguém já fez transcriçêo de vídeos do YouTube, Usando o gpt? \nEx: vídeo > transcreve > gpt cria roteiro (conteúdo) \n\nJá vi no meke no grupo antigo, mas era de TikTok e Instagram fazendo esse processo",
     "has_media": false,
     "media_type": null
   },
@@ -6568,7 +6568,7 @@
     "id": 102,
     "author": "Deyvid",
     "date": "2025-01-05T16:49:24+00:00",
-    "text": "Estou querendo fazer uma automação para blog alguém tem alguma ideia de como posso fazer, procurei no YouTube a maioria só mostra pronta  e não como faz",
+    "text": "Estou querendo fazer uma automaçêo para blog alguém tem alguma ideia de como posso fazer, procurei no YouTube a maioria só mostra pronta  e nêo como faz",
     "has_media": false,
     "media_type": null
   },

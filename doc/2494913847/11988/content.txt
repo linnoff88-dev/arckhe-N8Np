@@ -13,23 +13,23 @@ MENSAGEM 1
 Autor: INEMA
 Data: 2025-07-29T19:39:12+00:00
 Texto:
-**Dois workflows práticos** utilizando os **novos nós Gemini no n8n** (após atualizar para a versão mais recente):
+**Dois workflows práticos** utilizando os **novos nós Gemini no n8n** (após atualizar para a versêo mais recente):
 
 ---
 
 ### **1. Workflow de Análise de Arquivos com Formulário**
 
-Permite o upload de **arquivos ou URLs**, que são analisados automaticamente conforme o tipo (PDF, imagem, áudio ou vídeo).
+Permite o upload de **arquivos ou URLs**, que sêo analisados automaticamente conforme o tipo (PDF, imagem, áudio ou vídeo).
 
 * **Formulário com dois campos:**
 
   * Upload de arquivo (exige o nome exato: `upload_file`)
-  * Inserção de URL
+  * Inserçêo de URL
 * Usa um **nó switch** para detectar o tipo de arquivo:
 
   * Suporta `.pdf`, `.jpg`, `.png`, `.m4a`, `.mp4`, etc.
   * Tipos ausentes (ex: `.wav`) precisam ser adicionados manualmente
-* Processadores específicos são acionados:
+* Processadores específicos sêo acionados:
 
   * PDF → analisado com Gemini 2.5 Pro
   * Áudio → transcrito com Gemini
@@ -38,27 +38,27 @@ Permite o upload de **arquivos ou URLs**, que são analisados automaticamente co
 
 ---
 
-### **2. Chat com Geração de Imagens**
+### **2. Chat com Geraçêo de Imagens**
 
 * Chat simples para comandos como “gerar imagem de um gato codando”
 * Tentativa de usar o nó Gemini para gerar imagem
 
-  * **Problemas de geobloqueio**: a geração de imagem está restrita em alguns países, mesmo com VPN
+  * **Problemas de geobloqueio**: a geraçêo de imagem está restrita em alguns países, mesmo com VPN
 
 ---
 
 ### **Observações importantes:**
 
 * O campo `upload_file` precisa ser escrito corretamente (com `_`)
-* Alguns nós ainda são instáveis (erros 500 ou sem retorno)
+* Alguns nós ainda sêo instáveis (erros 500 ou sem retorno)
 * A estrutura de formulário ajuda a testar antes de integrar com serviços como Dropbox ou Google Drive
 * A flexibilidade permite acionar agentes IA, gerar vídeos, transcrever, analisar documentos etc.
 
 ---
 
-### **Conclusão:**
+### **Conclusêo:**
 
-Esses novos nós **transformam o n8n em uma central de análise e criação com IA**, semelhante à OpenAI, e são ideais para fluxos robustos e personalizados. O vídeo fornece uma boa base para quem quer **automatizar tarefas de mídia com IA**, mesmo com as limitações atuais.
+Esses novos nós **transformam o n8n em uma central de análise e criaçêo com IA**, semelhante à OpenAI, e sêo ideais para fluxos robustos e personalizados. O vídeo fornece uma boa base para quem quer **automatizar tarefas de mídia com IA**, mesmo com as limitações atuais.
 
 ------------------------------
 
@@ -78,12 +78,12 @@ Texto:
 
 Aqui está como usar os novos nós Gemini do n8n.
 
-Veja o que agora é possível com esse fluxo fundamental (ah, atualize para a versão mais recente do n8n antes):
+Veja o que agora é possível com esse fluxo fundamental (ah, atualize para a versêo mais recente do n8n antes):
 → acessar os novos nós Gemini com funcionalidades no nível do OpenAI
 → analisar áudios, PDFs, imagens e vídeos
 → transcrever gravações
 → gerar imagens e vídeos
-→ tudo via API, sem autenticação extra
+→ tudo via API, sem autenticaçêo extra
 
 Criei dois workflows:
 
@@ -92,15 +92,15 @@ Criei dois workflows:
 
 O analisador de arquivos usa um formulário que aceita upload de arquivos **ou** URLs. Em seguida, um nó do tipo **switch** detecta o tipo de arquivo (PDF, imagem, áudio, vídeo) e direciona para o processador Gemini apropriado.
 
-**Pegadinha importante:** arquivos binários precisam ser chamados `"upload_file"` (com underline), e não `"upload file"` – isso me confundiu por um tempo.
+**Pegadinha importante:** arquivos binários precisam ser chamados `"upload_file"` (com underline), e nêo `"upload file"` – isso me confundiu por um tempo.
 
 Alguns nós ainda apresentam falhas:
 
 * o analisador de imagens às vezes retorna erros 500
-* o analisador de vídeo faz o upload, mas não retorna nada
-* a geração de imagens está bloqueada geograficamente em alguns países
+* o analisador de vídeo faz o upload, mas nêo retorna nada
+* a geraçêo de imagens está bloqueada geograficamente em alguns países
 
-Por outro lado, a **transcrição de áudio** e a **análise de PDFs** funcionam perfeitamente – testei com um áudio de 16MB e um PDF de 25 páginas de um workshop.
+Por outro lado, a **transcriçêo de áudio** e a **análise de PDFs** funcionam perfeitamente – testei com um áudio de 16MB e um PDF de 25 páginas de um workshop.
 
 ------------------------------
 
@@ -132,7 +132,7 @@ MENSAGEM 7
 Autor: INEMA
 Data: 2025-07-29T19:18:54+00:00
 Texto:
-M24 - Automação com Nodes Gemini
+M24 - Automaçêo com Nodes Gemini
 
 ------------------------------
 

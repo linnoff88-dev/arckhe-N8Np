@@ -31,15 +31,15 @@ Data: 2025-06-20T23:53:15+00:00
 Texto:
 **Nome:** Node Reference Library
 
-**Descrição:** Workflow de referência visual do n8n que agrupa diversos nós comuns organizados por funcionalidade, como gatilhos, transformação de dados, agentes de IA e integração com serviços externos. Serve como um guia prático para explorar e aprender a usar o n8n, mostrando exemplos de automações reais.
+**Descriçêo:** Workflow de referência visual do n8n que agrupa diversos nós comuns organizados por funcionalidade, como gatilhos, transformaçêo de dados, agentes de IA e integraçêo com serviços externos. Serve como um guia prático para explorar e aprender a usar o n8n, mostrando exemplos de automações reais.
 
-**Categoria:** Automação de tarefas
+**Categoria:** Automaçêo de tarefas
 **Subcategoria:** Ferramentas de desenvolvimento
 
 **Serviços utilizados:** OpenAI, Bitly, Dropbox, Gmail, Google Calendar, Google Docs, Google Sheets, Pushbullet, YouTube, Bluesky, Perplexity, ElevenLabs, Reddit, Calendly, Local File, Gumroad, Google Drive, FTP, Twitter (X), SerpAPI, Wikipedia, Wolfram Alpha, Postgres, Redis
 
 **Complexidade:** Alta
-**Tipo de automação:** Reativa
+**Tipo de automaçêo:** Reativa
 
 **Casos de uso:**
 - Explorar exemplos de automações
@@ -47,7 +47,7 @@ Texto:
 - Construir novos fluxos baseados em modelos
 - Testar ferramentas de IA
 
-**Público-alvo:** Desenvolvedores, profissionais de automação, entusiastas de IA, administradores de sistemas
+**Público-alvo:** Desenvolvedores, profissionais de automaçêo, entusiastas de IA, administradores de sistemas
 
 **Benefícios:**
 - Facilita aprendizado
@@ -55,7 +55,7 @@ Texto:
 - Reúne ferramentas e integrações populares
 - Serve como guia visual para novos fluxos
 
-**Tempo estimado de implementação:** 30-60 minutos
+**Tempo estimado de implementaçêo:** 30-60 minutos
 
 **Pré-requisitos:**
 - Conhecimento básico em n8n

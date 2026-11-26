@@ -69,13 +69,13 @@ MENSAGEM 8
 Autor: INEMA
 Data: 2025-05-23T18:55:37+00:00
 Texto:
-Para **ativar os MCPs (Model Context Protocols)** no **Claude Desktop**, você precisa editar manualmente o arquivo de configuração `desktopconfig.json` e adicionar as URLs dos fluxos do N8N que atuam como MCPs. Aqui está o passo a passo completo:
+Para **ativar os MCPs (Model Context Protocols)** no **Claude Desktop**, você precisa editar manualmente o arquivo de configuraçêo `desktopconfig.json` e adicionar as URLs dos fluxos do N8N que atuam como MCPs. Aqui está o passo a passo completo:
 
 ---
 
 ### **1. Instale o Claude Desktop**
 
-Se ainda não fez isso:
+Se ainda nêo fez isso:
 
 * Acesse: [https://claude.ai/download](https://claude.ai/download)
 * Baixe e instale para seu sistema (Windows ou macOS).
@@ -122,7 +122,7 @@ Após salvar o arquivo, **feche e abra novamente o Claude Desktop** para que as 
 
 No Claude, use comandos como:
 
-> "Crie um evento no Google Calendar para amanhã às 15h chamado Reunião com equipe"
+> "Crie um evento no Google Calendar para amanhê às 15h chamado Reuniêo com equipe"
 
 Se o MCP estiver configurado corretamente no N8N, Claude chamará o fluxo automaticamente.
 
@@ -130,7 +130,7 @@ Se o MCP estiver configurado corretamente no N8N, Claude chamará o fluxo automa
 
 ### **6. Dicas importantes**
 
-* Verifique se os webhooks do N8N estão **ativos e públicos** (use n8n cloud ou expose localmente com ngrok).
+* Verifique se os webhooks do N8N estêo **ativos e públicos** (use n8n cloud ou expose localmente com ngrok).
 * Crie um **gatilho (trigger)** no N8N para cada ferramenta (e-mail, calendário, WhatsApp, etc.).
 * Você pode adicionar quantos MCPs quiser no array `"mcpUrls"`.
 
@@ -160,7 +160,7 @@ MENSAGEM 11
 Autor: Tarcis
 Data: 2025-05-15T16:10:05+00:00
 Texto:
-para fazer a configuração de cada nucleo eu tenho um app para isso ? estou tentando abrir pelo make mas não vai ... por qual app devo usar para executar ?
+para fazer a configuraçêo de cada nucleo eu tenho um app para isso ? estou tentando abrir pelo make mas nêo vai ... por qual app devo usar para executar ?
 
 ------------------------------
 
@@ -194,26 +194,26 @@ MENSAGEM 15
 Autor: INEMA
 Data: 2025-05-13T20:39:14+00:00
 Texto:
-**17. MCPs + Claude = Automação Brutal**
+**17. MCPs + Claude = Automaçêo Brutal**
 
-⚠️ Assista primeiro (se ainda não viu): **MCPs no N8N e Claude**
+⚠️ Assista primeiro (se ainda nêo viu): **MCPs no N8N e Claude**
 
 Aprendemos a conectar MCPs com o Claude e usá-los para executar fluxos avançados sem gastar tokens. Exploramos casos reais onde o Claude se torna uma alternativa poderosa aos agentes de IA tradicionais, realizando ações como enviar e-mails, criar eventos, buscar shows, enviar mensagens no WhatsApp e muito mais, tudo a partir de um único comando.
 
 **🧩 Pontos-chave da aula**
 
-**O que são os MCPs**
-Revisão do conceito e como integrá-los com Claude e N8N.
+**O que sêo os MCPs**
+Revisêo do conceito e como integrá-los com Claude e N8N.
 
 **Vantagens principais:**
 
-* Não consome tokens do OpenAI.
+* Nêo consome tokens do OpenAI.
 * Maior desempenho e flexibilidade.
 * Possibilidade de conectar diversas ferramentas.
 
-**Configuração:**
+**Configuraçêo:**
 
-* Instalamos o Claude na versão desktop.
+* Instalamos o Claude na versêo desktop.
 * Acessamos o arquivo `desktopconfig.json` e adicionamos as URLs dos MCPs geradas no N8N.
 * Recomenda-se criar múltiplos gatilhos (triggers) por ferramenta para maior controle.
 
@@ -222,7 +222,7 @@ Revisão do conceito e como integrá-los com Claude e N8N.
 * Leitura de dados do Oura Ring.
 * Envio de resumos de saúde por Gmail e Telegram.
 * Busca de shows via SerpAPI.
-* Criação de eventos no Google Calendar com convidados.
+* Criaçêo de eventos no Google Calendar com convidados.
 * Notificações automáticas via WhatsApp pela Evolution API.
 
 **Projetos tipo GPT com Claude:**
@@ -231,23 +231,23 @@ Revisão do conceito e como integrá-los com Claude e N8N.
 * O projeto pergunta ao usuário o nome do artista, data e cidade.
 * Realiza a busca, gera os eventos e notifica em vários canais (Telegram, WhatsApp).
 
-**Fluxos inteligentes e verificação com o Thinking Tool:**
+**Fluxos inteligentes e verificaçêo com o Thinking Tool:**
 
 * Adiciona uma camada de raciocínio para garantir que as ações sejam executadas corretamente.
 * Autorregula e corrige erros automaticamente.
 
 * Busca por informações de shows em 3 cidades.
-* Criação de eventos no Google Calendar.
-* Notificação para Iñaki Giner via Telegram e WhatsApp.
+* Criaçêo de eventos no Google Calendar.
+* Notificaçêo para Iñaki Giner via Telegram e WhatsApp.
 
-**Revisão do fluxo por módulos:**
+**Revisêo do fluxo por módulos:**
 
-* Exemplos detalhados de configuração para Telegram, Notion, Gmail, Google Calendar, contatos e outros.
+* Exemplos detalhados de configuraçêo para Telegram, Notion, Gmail, Google Calendar, contatos e outros.
 * Claude gera os textos, descrições e até mesmo os títulos usando IA.
 
-**Recomendação final:**
+**Recomendaçêo final:**
 Essa forma de trabalho pode substituir a maioria dos agentes de IA tradicionais.
-Economiza tokens e permite uma automação muito mais escalável.
+Economiza tokens e permite uma automaçêo muito mais escalável.
 
 **🛠 Ferramentas utilizadas**
 
@@ -274,14 +274,14 @@ MENSAGEM 16
 Autor: INEMA
 Data: 2025-05-13T20:37:02+00:00
 Texto:
-Claude + MCPs + N8N = O FUTURO DA AUTOMAÇÃO 🔥
+Claude + MCPs + N8N = O FUTURO DA AUTOMAÇêO 🔥
 
 
 Como conectar o Claude com o N8N usando MCPs, e o que conseguimos é simplesmente de outro nível:
 ✅ Criar agentes estilo GPT sem gastar tokens
 ✅ Automatizar tarefas no Calendar, Notion, Gmail, WhatsApp, Telegram...
 ✅ Executar fluxos complexos com instruções em linguagem natural
-✅ Adicionar uma camada de verificação inteligente com o Thinking Tool
+✅ Adicionar uma camada de verificaçêo inteligente com o Thinking Tool
 ✅ E sim... tudo isso praticamente sem escrever nada... com os MCPs
 
 Além disso, criar seu próprio assistente que busca shows, cria eventos e notifica em todos os canais em segundos.

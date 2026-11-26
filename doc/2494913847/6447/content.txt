@@ -53,7 +53,7 @@ MENSAGEM 6
 Autor: Marcelo
 Data: 2025-04-27T13:06:43+00:00
 Texto:
-peguei o nome utorization e a key com espaço e coloquei não da certo
+peguei o nome utorization e a key com espaço e coloquei nêo da certo
 
 ------------------------------
 
@@ -78,7 +78,7 @@ MENSAGEM 9
 Autor: Marcelo
 Data: 2025-04-27T13:04:32+00:00
 Texto:
-na hora que vai colocar  a api não da certo
+na hora que vai colocar  a api nêo da certo
 
 ------------------------------
 
@@ -143,47 +143,47 @@ Resumo completo:
 Como a nova API GPT-Image-1 da OpenAI revolucionou o marketing de produtos
 
 
-O vídeo apresenta como foi criado um **sistema automático de geração de conteúdo visual e vídeos comerciais** utilizando a nova **API GPT-Image-1** da OpenAI, o **n8n**, **Google Sheets**, **Supabase** e **Fel AI**.
+O vídeo apresenta como foi criado um **sistema automático de geraçêo de conteúdo visual e vídeos comerciais** utilizando a nova **API GPT-Image-1** da OpenAI, o **n8n**, **Google Sheets**, **Supabase** e **Fel AI**.
 
 Principais pontos:
 
-- A nova API **GPT-Image-1** permite gerar imagens diretamente via automação, sem interação manual.
+- A nova API **GPT-Image-1** permite gerar imagens diretamente via automaçêo, sem interaçêo manual.
 - Um fluxo de trabalho no **n8n** foi construído para:
   - Gerar **fotos de produtos** a partir de prompts em uma planilha do Google Sheets.
   - Fazer o upload automático dessas imagens para o **Supabase**.
   - Atualizar o Google Sheets com os links das imagens.
   - Criar **vídeos comerciais** baseados nas imagens usando o **Fel AI** (modelo Cling V2).
-  - Gerar **infográficos** usando pesquisa no **Perplexity** combinada com a geração de imagens no GPT-Image-1.
+  - Gerar **infográficos** usando pesquisa no **Perplexity** combinada com a geraçêo de imagens no GPT-Image-1.
 
 Demonstrações práticas:
 - Inserindo uma URL e um prompt em uma planilha, o sistema gera quatro imagens de alta qualidade automaticamente.
-- A seleção de uma imagem gera um **vídeo comercial** em poucos minutos.
-- Infográficos são criados a partir de temas de pesquisa, com prós e contras resumidos automaticamente.
+- A seleçêo de uma imagem gera um **vídeo comercial** em poucos minutos.
+- Infográficos sêo criados a partir de temas de pesquisa, com prós e contras resumidos automaticamente.
 
 Configurações:
-- Integração de **Google Sheets** para gerenciar os prompts e armazenar os resultados.
+- Integraçêo de **Google Sheets** para gerenciar os prompts e armazenar os resultados.
 - **Supabase** configurado para armazenar publicamente as imagens geradas.
-- APIs da **OpenAI**, **Fel AI** e **Perplexity** configuradas com autenticação segura.
+- APIs da **OpenAI**, **Fel AI** e **Perplexity** configuradas com autenticaçêo segura.
 
 Observações:
-- Não se recomenda usar logos reais para evitar problemas de direitos autorais.
-- O sistema pode ser usado por solopreneurs, e-commerces e agências para escalar conteúdo visual de forma automática e sem necessidade de codificação.
+- Nêo se recomenda usar logos reais para evitar problemas de direitos autorais.
+- O sistema pode ser usado por solopreneurs, e-commerces e agências para escalar conteúdo visual de forma automática e sem necessidade de codificaçêo.
 
-Conclusão:
+Conclusêo:
 - O tutorial ensina como configurar todo o fluxo no n8n de forma modular, usando apenas arrastar e soltar.
 - O autor disponibilizou o fluxo pronto para download na comunidade dele.
 
 Lista dos tópicos abordados:
 1. Lançamento da API GPT-Image-1
-2. Construção de sistema automático de conteúdo
-3. Geração de imagens de produtos com Google Sheets + OpenAI
+2. Construçêo de sistema automático de conteúdo
+3. Geraçêo de imagens de produtos com Google Sheets + OpenAI
 4. Upload automático das imagens no Supabase
-5. Atualização de links no Google Sheets
-6. Criação automática de vídeos comerciais via Fel AI
-7. Geração de infográficos usando pesquisa no Perplexity
-8. Configuração segura de APIs e autenticação
-9. Boas práticas (não usar logos de marcas)
-10. Disponibilização do fluxo pronto para importação e uso
+5. Atualizaçêo de links no Google Sheets
+6. Criaçêo automática de vídeos comerciais via Fel AI
+7. Geraçêo de infográficos usando pesquisa no Perplexity
+8. Configuraçêo segura de APIs e autenticaçêo
+9. Boas práticas (nêo usar logos de marcas)
+10. Disponibilizaçêo do fluxo pronto para importaçêo e uso
 
 ------------------------------
 
@@ -203,7 +203,7 @@ Um sistema de conteúdo de IA ilimitado com a API GPT-Image-1
 
 O sistema de conteúdo de IA totalmente automatizado usando o novo modelo GPT-Image 1 da OpenAI - e é absolutamente insano. 
 
-Neste vídeo, mostrarei exatamente como funciona, passo a passo, desde a geração de fotos de produtos de IA e infográficos até a criação de scripts e a renderização automática de vídeos comerciais.
+Neste vídeo, mostrarei exatamente como funciona, passo a passo, desde a geraçêo de fotos de produtos de IA e infográficos até a criaçêo de scripts e a renderizaçêo automática de vídeos comerciais.
 
 Usaremos GPT-Image 1 para gerar visuais impressionantes. Seja você um proprietário de marca, um criador ou apenas um nerd de IA, este sistema mostra como automatizar todo o fluxo de trabalho de conteúdo do produto - sem design manual ou sem necessidade de código.
 

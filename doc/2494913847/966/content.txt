@@ -21,7 +21,7 @@ MENSAGEM 2
 Autor: tripexplorer
 Data: 2025-02-11T22:36:46+00:00
 Texto:
-soube que o deepseek tem falhas de LGPD e não envia dados encriptados
+soube que o deepseek tem falhas de LGPD e nêo envia dados encriptados
 
 ------------------------------
 
@@ -111,7 +111,7 @@ MENSAGEM 13
 Autor: Carlos
 Data: 2025-02-02T13:55:54+00:00
 Texto:
-Difícil tá sendo só a Deepseek liberar a API kkkkk... Tô desde quarta e só manutenção...
+Difícil tá sendo só a Deepseek liberar a API kkkkk... Tô desde quarta e só manutençêo...
 
 ------------------------------
 
@@ -121,23 +121,23 @@ Data: 2025-01-29T17:47:46+00:00
 Texto:
 # Como Conectar DeepSeek R1 no Make e N8N 🚀  
 
-Se você busca um modelo poderoso e muito mais barato que o OpenAI para suas automações, o **DeepSeek R1** pode ser a solução perfeita! Neste guia, vou te mostrar como integrá-lo no **Make** e no **N8N** de forma simples e prática.  
+Se você busca um modelo poderoso e muito mais barato que o OpenAI para suas automações, o **DeepSeek R1** pode ser a soluçêo perfeita! Neste guia, vou te mostrar como integrá-lo no **Make** e no **N8N** de forma simples e prática.  
 
 ## 🔎 Por que usar DeepSeek R1?  
 ✅ **Desempenho similar ao GPT-4** ⚡  
-✅ **Custo muito menor** 💰 – Apenas **$0.55 por milhão de tokens** de entrada (comparado aos **$15 do OpenAI**).  
+✅ **Custo muito menor** 💰 – Apenas **$0.55 por milhêo de tokens** de entrada (comparado aos **$15 do OpenAI**).  
 
 ---
 
 ## 🔗 Como conectar no N8N  
-No N8N ainda não há um módulo oficial do DeepSeek, mas existe um truque simples para usá-lo via OpenRouter:  
+No N8N ainda nêo há um módulo oficial do DeepSeek, mas existe um truque simples para usá-lo via OpenRouter:  
 
 1️⃣ Criar um **nodo OpenAI** no N8N.  
-2️⃣ Na configuração, modificar a **Base URL** para a do **OpenRouter**.  
+2️⃣ Na configuraçêo, modificar a **Base URL** para a do **OpenRouter**.  
 3️⃣ Utilizar a **API Key do OpenRouter**.  
 4️⃣ Alterar o modelo para **DeepSeek R1** manualmente.  
 
-🎯 **Resultado:** O DeepSeek R1 funcionará no N8N **como se fosse um modelo da OpenAI**, sem precisar de uma integração oficial.  
+🎯 **Resultado:** O DeepSeek R1 funcionará no N8N **como se fosse um modelo da OpenAI**, sem precisar de uma integraçêo oficial.  
 
 ---
 

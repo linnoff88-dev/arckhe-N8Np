@@ -2,7 +2,7 @@
 
 ## 🎯 O que foi feito?
 
-✅ Site de documentação criado
+✅ Site de documentaçêo criado
 ✅ 532 workflows catalogados
 ✅ Sistema de busca implementado
 ✅ Repositório Git inicializado
@@ -13,7 +13,7 @@
 ## 🚀 Próximos Passos
 
 ### 1. Aguarde o Push Terminar
-O push está em andamento (1.1 GB). Pode levar 5-10 minutos dependendo da conexão.
+O push está em andamento (1.1 GB). Pode levar 5-10 minutos dependendo da conexêo.
 
 Verificar progresso:
 ```bash
@@ -56,9 +56,9 @@ N8Np/
 ├── Ref/              ← Seus 532 workflows
 ├── n8np-docs/        ← Site MkDocs
 │   ├── docs/        ← Conteúdo markdown
-│   └── mkdocs.yml   ← Configuração
-├── generate_docs.py  ← Script de geração
-└── README.md        ← Documentação principal
+│   └── mkdocs.yml   ← Configuraçêo
+├── generate_docs.py  ← Script de geraçêo
+└── README.md        ← Documentaçêo principal
 ```
 
 ---
@@ -101,12 +101,12 @@ mkdocs gh-deploy
 # Verificar SSH
 ssh -T git@github.com
 
-# Se não funcionar, use HTTPS:
+# Se nêo funcionar, use HTTPS:
 git remote set-url origin https://github.com/inematds/N8Np.git
 git push -u origin main
 ```
 
-### Site não aparece
+### Site nêo aparece
 1. Verifique se `mkdocs gh-deploy` rodou com sucesso
 2. Vá em Settings > Pages e configure gh-pages
 3. Aguarde 1-2 minutos
@@ -127,7 +127,7 @@ git push -u origin main
 
 ## 🎉 Pronto!
 
-Seu site de documentação está no ar!
+Seu site de documentaçêo está no ar!
 
 Compartilhe com a comunidade:
 - Link do site: https://inematds.github.io/N8Np/

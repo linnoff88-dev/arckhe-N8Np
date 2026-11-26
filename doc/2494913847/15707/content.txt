@@ -28,7 +28,7 @@ tendencia
 * Configure trigger semanal.
 * O sistema faz tudo sozinho, você só interage via Telegram quando quiser aprovar ou revisar.
 
-💡 *Hack:* Use um IF no final — se não houver resposta do usuário em 48h, publica automaticamente.
+💡 *Hack:* Use um IF no final — se nêo houver resposta do usuário em 48h, publica automaticamente.
 
 ------------------------------
 
@@ -64,7 +64,7 @@ return [
   { json: { tendencia3: data.tendencia3 } }
 ];```
 
-💡 *Hack:* renomeie as variáveis no output para não quebrar o fluxo quando mudar o nome do campo.
+💡 *Hack:* renomeie as variáveis no output para nêo quebrar o fluxo quando mudar o nome do campo.
 
 ---
 
@@ -85,7 +85,7 @@ Use um **Switch node** logo após a escolha do usuário (1/2/3/“mais”).
 * 1, 2, 3 → vai direto para a pesquisa da tendência correspondente.
 * “mais” → volta para o Perplexity e pede novas tendências.
 
-💡 *Hack:* Acrescente limite de 3 loops de “mais” — evita loop infinito se o usuário não gostar de nada.
+💡 *Hack:* Acrescente limite de 3 loops de “mais” — evita loop infinito se o usuário nêo gostar de nada.
 
 ---
 
@@ -97,7 +97,7 @@ Exemplo:
 ```Genera 5 preguntas que permitan al autor aportar su experiencia sobre esta tendencia. 
 Devuélvelas en formato JSON: {"pregunta1": "...", "pregunta2": "..."}```
 
-💡 *Hack:* se quiser áudio, use um nó extra de Telegram para receber voz e adicionar transcrição automática (ex: Whisper API).
+💡 *Hack:* se quiser áudio, use um nó extra de Telegram para receber voz e adicionar transcriçêo automática (ex: Whisper API).
 
 ---
 
@@ -121,11 +121,11 @@ Você pode responder o e-mail com algo como:
 
 > “Me gusta, pero hazlo más inspirador y menos técnico.”
 
-💡 *Hack:* Adicione uma verificação com “IF node” — se a resposta contiver “me gusta” ou “ok”, fecha o loop e vai pro próximo passo.
+💡 *Hack:* Adicione uma verificaçêo com “IF node” — se a resposta contiver “me gusta” ou “ok”, fecha o loop e vai pro próximo passo.
 
 ---
 
-#### **8. Criação de imagem automática e revisão**
+#### **8. Criaçêo de imagem automática e revisêo**
 
 Use OpenAI Image, DALL·E, Cidrim ou Any Diffusion.
 
@@ -152,7 +152,7 @@ Usa etiquetas <h2>, <blockquote> y <p>, imagen en la cabecera.```
 
 ---
 
-#### **10. Publicação automática e SEO**
+#### **10. Publicaçêo automática e SEO**
 
 * Envie via Gmail, Google Drive ou API do WordPress.
 * Opcional: adicione um nó extra com Google Search Console para pingar o novo artigo.
@@ -181,18 +181,18 @@ MENSAGEM 4
 Autor: INEMA
 Data: 2025-11-08T04:36:32+00:00
 Texto:
-**Passo a passo direto – Automação “Sua experiência convertida em conteúdo” (n8n)**
+**Passo a passo direto – Automaçêo “Sua experiência convertida em conteúdo” (n8n)**
 
 1. **Início automático (Schedule Trigger)**
 
    * Executa 1x por semana.
-   * Cria variáveis: tema, autor, público, palavras-chave, região e links.
+   * Cria variáveis: tema, autor, público, palavras-chave, regiêo e links.
 
 2. **Busca de tendências (Perplexity AI)**
 
    * Analisa 3 tendências atuais relacionadas ao tema.
 
-3. **Seleção interativa (Telegram)**
+3. **Seleçêo interativa (Telegram)**
 
    * Envia as 3 tendências.
    * Usuário escolhe 1 ou pede novas.
@@ -203,33 +203,33 @@ Texto:
    * Coleta notícias, contexto, métricas e riscos sobre a tendência escolhida.
    * Gera um **resumo detalhado**.
 
-5. **Participação pessoal (Telegram)**
+5. **Participaçêo pessoal (Telegram)**
 
    * Envia o resumo.
    * Faz **5 perguntas** para o usuário responder com voz ou texto (opiniões e experiências).
 
-6. **Redação do blog (Agente Copywriter IA)**
+6. **Redaçêo do blog (Agente Copywriter IA)**
 
    * Escreve artigo de ±2.000 palavras.
    * Estilo humano, combinando dados + respostas pessoais.
-   * Envia via Gmail para revisão.
+   * Envia via Gmail para revisêo.
 
 7. **Bucle de feedback (Gmail)**
 
-   * Se o usuário não aprovar, responde com feedback.
+   * Se o usuário nêo aprovar, responde com feedback.
    * O **Copywriter Revisor** ajusta o texto.
-   * Repete até a aprovação final.
+   * Repete até a aprovaçêo final.
 
-8. **Geração de imagem (OpenAI / Any Diffusion)**
+8. **Geraçêo de imagem (OpenAI / Any Diffusion)**
 
    * Cria imagem relacionada à tendência.
    * Faz upload automático no imgbb.
 
 9. **Maquetagem em HTML (Agente Maquetador)**
 
-   * Aplica template visual limpo com imagem, citações e formatação profissional.
+   * Aplica template visual limpo com imagem, citações e formataçêo profissional.
 
-10. **Publicação final (opcional)**
+10. **Publicaçêo final (opcional)**
 
     * Envia o artigo formatado por e-mail.
     * Ou publica automaticamente no WordPress.
@@ -238,13 +238,13 @@ Texto:
 
 **Ferramentas usadas:**
 
-* **n8n:** motor principal da automação.
-* **Telegram Bot:** interação e coleta de respostas.
+* **n8n:** motor principal da automaçêo.
+* **Telegram Bot:** interaçêo e coleta de respostas.
 * **Perplexity AI:** busca e análise de tendências.
-* **OpenAI / DALL·E / Any Diffusion:** geração de imagens.
-* **Gmail API:** revisão e loop de feedback.
+* **OpenAI / DALL·E / Any Diffusion:** geraçêo de imagens.
+* **Gmail API:** revisêo e loop de feedback.
 * **imgbb:** hospedagem de imagens.
-* **WordPress (opcional):** publicação automática.
+* **WordPress (opcional):** publicaçêo automática.
 
 ------------------------------
 
@@ -263,17 +263,17 @@ Texto:
 Resumo completo e estruturado:
 
 **Tema central:**
-Criação de uma automação no **n8n** para gerar blogs totalmente personalizados com base em tendências atuais, informações da internet e experiências pessoais do autor, integrando **Telegram, Perplexity, OpenAI e Gmail**.
+Criaçêo de uma automaçêo no **n8n** para gerar blogs totalmente personalizados com base em tendências atuais, informações da internet e experiências pessoais do autor, integrando **Telegram, Perplexity, OpenAI e Gmail**.
 
 ---
 
 ### 1. **Objetivo do projeto**
 
-Criar um **blog de opinião personalizada** e automatizado:
+Criar um **blog de opiniêo personalizada** e automatizado:
 
 * Baseado em **tendências atuais** (via Perplexity).
 * Incorporando **experiências e opiniões pessoais** do autor.
-* Produzindo um texto único, bem formatado e pronto para publicação no **WordPress**.
+* Produzindo um texto único, bem formatado e pronto para publicaçêo no **WordPress**.
 
 **Exemplo:**
 O blog cita o autor (“Ángel Aparicio, especialista em automações”) e usa suas respostas e percepções para gerar conteúdo autêntico.
@@ -287,16 +287,16 @@ O blog cita o autor (“Ángel Aparicio, especialista em automações”) e usa 
 * Pode ser manual (via Telegram) ou automático (por exemplo, 1x por semana).
 * Usa um nó inicial apenas para testar e iniciar o fluxo.
 
-#### b) Definição de variáveis iniciais
+#### b) Definiçêo de variáveis iniciais
 
-* Tema principal (ex: “Automatização de processos em empresas”).
+* Tema principal (ex: “Automatizaçêo de processos em empresas”).
 * Datas (atual e há 3 dias).
 * Nome do autor e cargo.
 * Público-alvo (ex: empresas grandes e PMEs).
 * Palavras-chave principais e secundárias.
 * Links externos opcionais.
 
-*Essas variáveis são passadas adiante para personalizar o texto.*
+*Essas variáveis sêo passadas adiante para personalizar o texto.*
 
 ---
 
@@ -307,13 +307,13 @@ O blog cita o autor (“Ángel Aparicio, especialista em automações”) e usa 
 
 #### Exemplo de resposta:
 
-1. Hiperautomação estratégica
-2. Automação inteligente com IA
-3. Expansão de ferramentas No-code
+1. Hiperautomaçêo estratégica
+2. Automaçêo inteligente com IA
+3. Expansêo de ferramentas No-code
 
 ---
 
-### 4. **Interação com o usuário (Telegram)**
+### 4. **Interaçêo com o usuário (Telegram)**
 
 * O bot envia as 3 tendências.
 * O usuário escolhe uma (1, 2 ou 3) ou pede novas (“dame tres más”).
@@ -342,7 +342,7 @@ Essas respostas tornam o conteúdo único e humano.
 
 ---
 
-### 6. **Geração e revisão do blog**
+### 6. **Geraçêo e revisêo do blog**
 
 * Um agente **Copywriter (GPT)** escreve o texto completo.
 * O texto é enviado por **e-mail** (via Gmail) com um novo **“Send and Wait for Response”**.
@@ -355,17 +355,17 @@ Se o usuário pedir alterações:
 
 ---
 
-### 7. **Geração de imagem e formatação**
+### 7. **Geraçêo de imagem e formataçêo**
 
-* Após aprovação:
+* Após aprovaçêo:
 
   * Gera uma **imagem com OpenAI (ou outro modelo, ex: DALL·E, Midjourney)**.
-  * O **Agente Maquetador** organiza o texto em **HTML estilizado**, com formatação moderna e responsiva.
+  * O **Agente Maquetador** organiza o texto em **HTML estilizado**, com formataçêo moderna e responsiva.
 * O resultado é enviado por e-mail e depois publicado automaticamente no **WordPress**.
 
 ---
 
-### 8. **Próximos passos e versão 2.0**
+### 8. **Próximos passos e versêo 2.0**
 
 * Automatizar as **palavras-chave** com base nas tendências.
 * Conectar com apps que analisem SEO automaticamente.
@@ -377,9 +377,9 @@ Se o usuário pedir alterações:
 
 * **Telegram:** interface interativa com o usuário.
 * **Perplexity:** fonte de pesquisa e tendências.
-* **OpenAI GPT:** geração de conteúdo e imagens.
-* **Gmail:** revisão e feedback.
-* **WordPress:** publicação final.
+* **OpenAI GPT:** geraçêo de conteúdo e imagens.
+* **Gmail:** revisêo e feedback.
+* **WordPress:** publicaçêo final.
 
 ---
 
@@ -390,10 +390,10 @@ Se o usuário pedir alterações:
 3. Escolha da tendência (Telegram) →
 4. Pesquisa detalhada + perguntas →
 5. Resposta do autor →
-6. Geração do blog (GPT) →
-7. Envio e revisão (e-mail) →
-8. Imagem e formatação →
-9. Publicação no WordPress.
+6. Geraçêo do blog (GPT) →
+7. Envio e revisêo (e-mail) →
+8. Imagem e formataçêo →
+9. Publicaçêo no WordPress.
 
 ------------------------------
 
@@ -414,65 +414,65 @@ e59. Sua experiência transformada em conteúdo
 Criar um **sistema completo** para gerar blogs totalmente personalizados e com **sua voz real**, combinando dados atualizados com suas experiências e opiniões.
 O objetivo é que cada artigo seja **único, relevante e coerente** com seu estilo pessoal, integrando **inteligência artificial** com seu conhecimento e autenticidade.
 
-🛠️ O que conquistamos com essa automação?
+🛠️ O que conquistamos com essa automaçêo?
 
-* Criar **blogs de opinião personalizados**, que refletem sua experiência real.
-* Automatizar **todo o processo** de pesquisa, redação, revisão e publicação.
+* Criar **blogs de opiniêo personalizados**, que refletem sua experiência real.
+* Automatizar **todo o processo** de pesquisa, redaçêo, revisêo e publicaçêo.
 * Manter um **tom humano e consistente** com o seu estilo.
-* Validar cada etapa via **interação por Telegram ou e-mail**, com feedback em tempo real.
-* Gerar **imagens personalizadas** para cada post e montar o artigo em **HTML pronto para publicação** no WordPress ou em qualquer outra plataforma.
-* Transformar o processo de criação de conteúdo em algo **100% escalável e autogerenciável**.
+* Validar cada etapa via **interaçêo por Telegram ou e-mail**, com feedback em tempo real.
+* Gerar **imagens personalizadas** para cada post e montar o artigo em **HTML pronto para publicaçêo** no WordPress ou em qualquer outra plataforma.
+* Transformar o processo de criaçêo de conteúdo em algo **100% escalável e autogerenciável**.
 
 🧩 Estrutura do fluxo automatizado
 
 **1. Início automático (Schedule Trigger)**
-Executa-se uma vez por semana. Cria as variáveis base: tema, autor, público, palavras-chave, região e links.
+Executa-se uma vez por semana. Cria as variáveis base: tema, autor, público, palavras-chave, regiêo e links.
 
 **2. Busca de tendências (Perplexity)**
 Analisa três tendências atuais relacionadas ao tema definido.
 
-**3. Seleção interativa (Telegram)**
+**3. Seleçêo interativa (Telegram)**
 Envia as três tendências e permite escolher uma ou solicitar novas.
-Usa o recurso **Send and Wait for Response** para criar uma interação conversacional.
+Usa o recurso **Send and Wait for Response** para criar uma interaçêo conversacional.
 
 **4. Pesquisa avançada (Perplexity)**
 Busca notícias, contexto, métricas e riscos sobre a tendência escolhida, gerando um **resumo detalhado**.
 
-**5. Participação pessoal (Telegram)**
+**5. Participaçêo pessoal (Telegram)**
 Envia o resumo e cinco perguntas-chave para coletar suas opiniões e experiências — por **voz ou texto**.
 
-**6. Redação do blog (Agente Copywriter IA)**
+**6. Redaçêo do blog (Agente Copywriter IA)**
 O agente redige um **artigo completo (~2.000 palavras)** em estilo humano, fundindo dados com suas respostas.
-O resultado é enviado por e-mail (Gmail) para revisão.
+O resultado é enviado por e-mail (Gmail) para revisêo.
 
 **7. Ciclo de feedback (Send & Wait por e-mail)**
-Se não gostar do resultado, basta enviar seu feedback textual.
+Se nêo gostar do resultado, basta enviar seu feedback textual.
 O **Copywriter Revisor** reescreve o texto incorporando apenas seus comentários.
-O ciclo se repete até a sua aprovação final.
+O ciclo se repete até a sua aprovaçêo final.
 
-**8. Geração de imagem (OpenAI Image / Any Diffusion)**
+**8. Geraçêo de imagem (OpenAI Image / Any Diffusion)**
 Cria uma **imagem coerente com a tendência**, automaticamente hospedada no **imgbb**.
 
 **9. Maquetagem em HTML (Agente Maquetador)**
-Aplica um **template visual limpo e adaptável**, com imagem, citações e formatação profissional.
+Aplica um **template visual limpo e adaptável**, com imagem, citações e formataçêo profissional.
 
-**10. Publicação final (opcional)**
+**10. Publicaçêo final (opcional)**
 O artigo é enviado por e-mail ou publicado diretamente no **WordPress** em formato pronto.
 
 🧰 Ferramentas utilizadas
 
-* **n8n** – motor principal de automação.
-* **Telegram Bot** – interação e feedback em tempo real.
+* **n8n** – motor principal de automaçêo.
+* **Telegram Bot** – interaçêo e feedback em tempo real.
 * **Perplexity AI** – pesquisa e análise de tendências.
-* **OpenAI / DALL·E / Cidrim / Banana** – geração de imagens.
-* **Gmail API** – revisão e ciclo de aprovação.
+* **OpenAI / DALL·E / Cidrim / Banana** – geraçêo de imagens.
+* **Gmail API** – revisêo e ciclo de aprovaçêo.
 * **imgbb** – hospedagem pública de imagens.
-* **WordPress (opcional)** – publicação final do blog.
+* **WordPress (opcional)** – publicaçêo final do blog.
 
 🧠 Dicas essenciais aprendidas
 
 * Quanto **mais contexto e experiências pessoais** você compartilhar, **mais único** será o resultado.
-* Usar **Send and Wait for Response** permite que a automação “converse” e ajuste o conteúdo em tempo real.
+* Usar **Send and Wait for Response** permite que a automaçêo “converse” e ajuste o conteúdo em tempo real.
 * Mantenha **nomes de variáveis consistentes** (ex: tendência, conteúdo, feedback) para evitar erros.
 * É possível **escalar o fluxo** para rodar automaticamente toda semana.
 * Evite prompts genéricos: defina **estilo, tom, estrutura e voz** para que a IA escreva realmente “como você”.
@@ -496,24 +496,24 @@ Data: 2025-11-08T04:32:23+00:00
 Texto:
 Crie blogs 100% personalizados com IA e sua voz real!
 
-Sabe aquele momento em que você lê um artigo feito por IA e pensa: “até que está bem escrito... mas não tem nada de mim”?
+Sabe aquele momento em que você lê um artigo feito por IA e pensa: “até que está bem escrito... mas nêo tem nada de mim”?
 Isso acabou.
 
-Como montar uma automação incrível no **n8n** que transforma suas ideias, opiniões e experiências reais em blogs que parecem escritos por você mesmo — mas sem digitar uma única linha.
+Como montar uma automaçêo incrível no **n8n** que transforma suas ideias, opiniões e experiências reais em blogs que parecem escritos por você mesmo — mas sem digitar uma única linha.
 
 🚀 O que exatamente esse sistema faz?
 
 ✅ Detecta as tendências mais atuais com **Perplexity AI**.
-✅ Envia tudo pelo **Telegram**, onde você escolhe o que mais te interessa (e se não gostar de nenhuma, ele busca mais!).
+✅ Envia tudo pelo **Telegram**, onde você escolhe o que mais te interessa (e se nêo gostar de nenhuma, ele busca mais!).
 ✅ Gera um **resumo aprofundado** de notícias sobre essa tendência.
 ✅ Faz **5 perguntas-chave** para você responder com seu ponto de vista — e pode responder por voz!
 ✅ Junta todas as informações e escreve um **blog de mais de 2.000 palavras** com seu tom, suas citações e seu estilo.
-✅ Envia por **e-mail** para revisão e melhora automática até você dizer: “Agora sim!”.
+✅ Envia por **e-mail** para revisêo e melhora automática até você dizer: “Agora sim!”.
 ✅ Cria uma **imagem única com IA** e formata o artigo em **HTML profissional**, pronto para publicar no WordPress.
 
 E o melhor de tudo...
 Cada post é **único, pessoal e com real potencial de ranqueamento**.
-Porque não é um texto genérico do ChatGPT, e sim uma fusão de **dados reais + sua experiência + sua opinião**.
+Porque nêo é um texto genérico do ChatGPT, e sim uma fusêo de **dados reais + sua experiência + sua opiniêo**.
 
 💡 Imagine isso:
 Toda semana, o sistema roda sozinho.
@@ -526,7 +526,7 @@ Perfeito se você é **consultor, agência, criador de conteúdo ou SaaS** e que
 
 E como sempre, deixo o passo a passo, os prompts, os scripts e as ideias pra escalar na sua própria estratégia de conteúdo.
 
-🔥 Você vai ver como a IA não substitui sua voz... ela **amplifica**.
+🔥 Você vai ver como a IA nêo substitui sua voz... ela **amplifica**.
 
 ------------------------------
 

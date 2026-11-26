@@ -13,7 +13,7 @@ MENSAGEM 1
 Autor: Ricardo
 Data: 2025-09-18T22:49:28+00:00
 Texto:
-eu ja faço videos no youtube, mas preciso de umas thumbnails mais top como essas, o manus.ai faz as thumbs pra mim, mas não ta tão legal assim
+eu ja faço videos no youtube, mas preciso de umas thumbnails mais top como essas, o manus.ai faz as thumbs pra mim, mas nêo ta têo legal assim
 
 ------------------------------
 
@@ -101,7 +101,7 @@ MENSAGEM 12
 Autor: INEMA
 Data: 2025-09-14T02:59:54+00:00
 Texto:
-## Automação de Atualização de Vídeos no YouTube
+## Automaçêo de Atualizaçêo de Vídeos no YouTube
 
 ### Fluxo Principal
 
@@ -109,11 +109,11 @@ Texto:
 
    * Recebe link ou ID do vídeo via chat.
 
-2. **Extração**
+2. **Extraçêo**
 
    * Extrai ID do vídeo.
-   * Busca título, descrição e metadados via YouTube API.
-   * Obtém transcrição (se não existir, gera com Whisper).
+   * Busca título, descriçêo e metadados via YouTube API.
+   * Obtém transcriçêo (se nêo existir, gera com Whisper).
 
 3. **Processamento**
 
@@ -126,15 +126,15 @@ Texto:
      * Tópicos
    * Cria prompt para thumbnail a partir do resumo.
 
-4. **Geração da Thumbnail**
+4. **Geraçêo da Thumbnail**
 
    * Converte o prompt em imagem (DALL·E 3, 16:9).
    * Ajusta para 1280×720, JPEG qualidade 75.
    * Usa o Code para limpar e padronizar o prompt final.
 
-5. **Atualização no YouTube**
+5. **Atualizaçêo no YouTube**
 
-   * Atualiza descrição com resumo e tópicos.
+   * Atualiza descriçêo com resumo e tópicos.
    * Substitui thumbnail pelo arquivo gerado.
 
 6. **Registro**
@@ -142,26 +142,26 @@ Texto:
    * Salva no Google Sheets:
 
      * ID do vídeo
-     * Data de publicação
+     * Data de publicaçêo
      * Título
-     * Descrição
+     * Descriçêo
      * Resumo
      * Prompt da thumbnail
      * Link da imagem
 
 ---
 
-## Gestão de Conteúdo em Tabela
+## Gestêo de Conteúdo em Tabela
 
 * A planilha já armazena dados essenciais.
 * Você pode expandir adicionando colunas como:
 
   * status\_conteudo (rascunho, publicado…)
   * versao\_resumo (v1, v2…)
-  * persona\_thumbnail (descrição da persona desejada)
+  * persona\_thumbnail (descriçêo da persona desejada)
   * palavras\_chave
   * link\_assets
-  * rag\_incluido (sim/não)
+  * rag\_incluido (sim/nêo)
 
 ---
 
@@ -184,28 +184,28 @@ Texto:
 O agente gera JSON com:
 
 * pessoa\_referencia
-* ação/emoção
+* açêo/emoçêo
 * metáfora visual
 * frase curta (até 5 palavras)
 * fundo temático
-* estilo (foto realista, iluminação cinematográfica)
+* estilo (foto realista, iluminaçêo cinematográfica)
 * cores dominantes
-* composição (regra dos terços, margens seguras)
+* composiçêo (regra dos terços, margens seguras)
 * aspect\_ratio: 16:9
-* itens a não incluir (watermark, bordas, texto longo etc.)
+* itens a nêo incluir (watermark, bordas, texto longo etc.)
 
 ---
 
 ## Como Personalizar o Personagem
 
 * **Hoje**: fixo (homem 60–70 anos, barba branca, óculos pretos).
-* **Opção A**: variável `persona_thumbnail` vinda da planilha (dinâmica por vídeo).
-* **Opção B**: perfis pré-definidos (mentor\_senior, apresentadora\_exec, dev\_junior etc.).
-* **Opção C**: thumbnail sem personagem, apenas símbolos e fundo.
+* **Opçêo A**: variável `persona_thumbnail` vinda da planilha (dinâmica por vídeo).
+* **Opçêo B**: perfis pré-definidos (mentor\_senior, apresentadora\_exec, dev\_junior etc.).
+* **Opçêo C**: thumbnail sem personagem, apenas símbolos e fundo.
 
 ---
 
-## Exemplos de Personalização
+## Exemplos de Personalizaçêo
 
 1. **Persona dinâmica**
 
@@ -236,9 +236,9 @@ MENSAGEM 14
 Autor: INEMA
 Data: 2025-09-14T02:55:43+00:00
 Texto:
-## Objetivo da Automação
+## Objetivo da Automaçêo
 
-Automatizar o fluxo de atualização de vídeos no YouTube: obter informações e transcrição, gerar resumo otimizado, criar thumbnail personalizada com IA, atualizar a descrição e miniatura no YouTube e registrar tudo em planilha do Google Sheets.
+Automatizar o fluxo de atualizaçêo de vídeos no YouTube: obter informações e transcriçêo, gerar resumo otimizado, criar thumbnail personalizada com IA, atualizar a descriçêo e miniatura no YouTube e registrar tudo em planilha do Google Sheets.
 
 ## Fluxo Principal
 
@@ -246,46 +246,46 @@ Automatizar o fluxo de atualização de vídeos no YouTube: obter informações 
 
    * Recebe link ou ID de vídeo via chat.
 
-2. **Extração de Dados**
+2. **Extraçêo de Dados**
 
    * Extrai o ID do vídeo.
-   * Busca título, descrição e metadados do vídeo via API do YouTube.
-   * Coleta transcrição (legenda automática ou gera via Whisper caso não exista).
+   * Busca título, descriçêo e metadados do vídeo via API do YouTube.
+   * Coleta transcriçêo (legenda automática ou gera via Whisper caso nêo exista).
 
 3. **Processamento de Conteúdo**
 
    * Gera resumo estruturado com tópicos, insights e CTA (usando Claude/OpenAI).
    * Cria prompt detalhado para thumbnail baseado no resumo e em um personagem fixo (homem mais velho com barba branca e óculos).
 
-4. **Geração de Imagem**
+4. **Geraçêo de Imagem**
 
    * Converte o prompt em miniatura via **OpenAI DALL·E 3** (formato 16:9).
    * Ajusta imagem (redimensiona para 1280x720).
    * Converte em arquivo binário JPEG.
 
-5. **Atualização no YouTube**
+5. **Atualizaçêo no YouTube**
 
-   * Atualiza descrição do vídeo com o resumo e tópicos.
+   * Atualiza descriçêo do vídeo com o resumo e tópicos.
    * Substitui a thumbnail original pela nova gerada.
 
 6. **Registro e Log**
 
-   * Salva em **Google Sheets**: ID do vídeo, data de publicação, título, descrição, resumo, prompt da thumbnail e link da nova imagem.
+   * Salva em **Google Sheets**: ID do vídeo, data de publicaçêo, título, descriçêo, resumo, prompt da thumbnail e link da nova imagem.
 
 ## Tecnologias/Serviços Usados
 
 * **YouTube API** (OAuth2) → leitura/escrita de vídeos e legendas.
-* **OpenAI Whisper** → transcrição de áudio quando não há legenda.
+* **OpenAI Whisper** → transcriçêo de áudio quando nêo há legenda.
 * **OpenAI GPT e Claude (via OpenRouter)** → gerar resumo e estruturar prompt.
-* **OpenAI DALL·E 3 (gpt-image-1)** → geração da miniatura.
+* **OpenAI DALL·E 3 (gpt-image-1)** → geraçêo da miniatura.
 * **Google Sheets** → registro dos dados.
 * **Google Drive** (em parte do fluxo experimental de imagens).
 
 ## Pontos-Chave
 
 * O personagem da thumbnail é sempre o mesmo, garantindo consistência visual.
-* Resumos já vêm formatados para descrição do YouTube (com Sumário, Pontos Chaves, CTA).
-* O fluxo evita ultrapassar o limite de 5000 caracteres da descrição.
+* Resumos já vêm formatados para descriçêo do YouTube (com Sumário, Pontos Chaves, CTA).
+* O fluxo evita ultrapassar o limite de 5000 caracteres da descriçêo.
 * O log em planilha centraliza todos os dados para controle.
 
 ------------------------------

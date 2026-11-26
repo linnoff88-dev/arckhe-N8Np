@@ -13,11 +13,11 @@ MENSAGEM 1
 Autor: INEMA
 Data: 2025-08-20T04:06:35+00:00
 Texto:
-### **Resumo : Como Captar Clientes no LinkedIn com IA e Automatização 100% Gratuita**
+### **Resumo : Como Captar Clientes no LinkedIn com IA e Automatizaçêo 100% Gratuita**
 
 #### 🎯 Objetivo
 
-Ensinar como montar uma automação gratuita para captar até **1000 leads por dia no LinkedIn**, sem scrapers nem ferramentas pagas, usando **Google Search API**, **Google Sheets**, **n8n** e o **modo agente do ChatGPT (Operator)**.
+Ensinar como montar uma automaçêo gratuita para captar até **1000 leads por dia no LinkedIn**, sem scrapers nem ferramentas pagas, usando **Google Search API**, **Google Sheets**, **n8n** e o **modo agente do ChatGPT (Operator)**.
 
 ---
 
@@ -25,17 +25,17 @@ Ensinar como montar uma automação gratuita para captar até **1000 leads por d
 
 * Simula buscas no Google com o operador `site:linkedin.com/in/`.
 * Utiliza dois parâmetros: início da busca (página) e número de páginas.
-* Cada execução gera até 100 leads com nome, título, URL e descrição.
-* A extração é feita com Google Custom Search API + uma chave CX do Google Programmable Search Engine.
+* Cada execuçêo gera até 100 leads com nome, título, URL e descriçêo.
+* A extraçêo é feita com Google Custom Search API + uma chave CX do Google Programmable Search Engine.
 * Um código em JavaScript filtra os dados relevantes (nome, cargo, resumo, imagem, etc.).
-* Os resultados são gravados no Google Sheets automaticamente, respeitando a ordem e evitando duplicação.
+* Os resultados sêo gravados no Google Sheets automaticamente, respeitando a ordem e evitando duplicaçêo.
 * O loop para automaticamente ao atingir 1000 resultados ou 10 páginas, usando controle com `hasMoreResults`.
 
 ---
 
 ### ⚙️ **Ferramentas Usadas**
 
-* **n8n**: para orquestrar a automação.
+* **n8n**: para orquestrar a automaçêo.
 * **Google Cloud Console**: para gerar a chave da API.
 * **Programmable Search Engine (CX)**: define o domínio (LinkedIn).
 * **Google Sheets**: armazena os leads.
@@ -52,8 +52,8 @@ Ensinar como montar uma automação gratuita para captar até **1000 leads por d
   * Extrair dados como setor, experiência, cargo.
   * Redigir e enviar **mensagens altamente personalizadas** (em 3–4 frases).
 * O agente atua como um navegador autônomo, realiza scroll, clica em seções e envia mensagens.
-* É necessário ter o **Sales Navigator** para enviar mensagens diretas — caso contrário, apenas convites são possíveis.
-* O Operator tem **limite de 15 execuções mensais** (cada execução pode conter múltiplos perfis).
+* É necessário ter o **Sales Navigator** para enviar mensagens diretas — caso contrário, apenas convites sêo possíveis.
+* O Operator tem **limite de 15 execuções mensais** (cada execuçêo pode conter múltiplos perfis).
 
 ---
 
@@ -61,26 +61,26 @@ Ensinar como montar uma automação gratuita para captar até **1000 leads por d
 
 * É possível adaptar o mesmo sistema para buscar dados em **Instagram, Idealista, Fotocasa**, etc., trocando o domínio no parâmetro de busca.
 * O código JS é simples e pronto para usar (copiar e colar).
-* Importante ajustar o tempo de espera entre requisições para não ultrapassar os limites da API.
-* A automação pode ser escalada sem custo, contanto que respeite os limites diários.
+* Importante ajustar o tempo de espera entre requisições para nêo ultrapassar os limites da API.
+* A automaçêo pode ser escalada sem custo, contanto que respeite os limites diários.
 
 ---
 
 ### ✅ **Resultados Demonstrados**
 
-* A coleta automática funcionou bem, preenchendo o Google Sheets com 100 perfis por execução.
+* A coleta automática funcionou bem, preenchendo o Google Sheets com 100 perfis por execuçêo.
 * O modo agente conseguiu visitar perfis, coletar dados e enviar mensagens.
 * Exemplo real: o agente enviou uma mensagem personalizada para um contato chamado "Eric".
 * Funciona, embora o agente seja **lento**, podendo operar em segundo plano.
 
 ---
 
-### 🧠 Conclusão
+### 🧠 Conclusêo
 
 Essa é uma maneira **efetiva, gratuita e escalável** de gerar leads no LinkedIn. Ideal para freelancers, agências, SaaS e consultores B2B. O sistema pode ser ajustado para outros nichos ou plataformas com mudanças simples no código.
 
 **Mensagem final do autor**:
-"Não há desculpas para não encontrar clientes potenciais. Use essa automação para qualquer plataforma e adapte conforme sua necessidade."
+"Nêo há desculpas para nêo encontrar clientes potenciais. Use essa automaçêo para qualquer plataforma e adapte conforme sua necessidade."
 
 ------------------------------
 
@@ -99,48 +99,48 @@ Texto:
 **e39. Leads grátis no LinkedIn com IA**
 
 🎯 **Objetivo da aula**
-Você vai aprender a montar uma automação **100% gratuita** para captar clientes potenciais no LinkedIn, sem precisar de scrapers nem ferramentas pagas.
+Você vai aprender a montar uma automaçêo **100% gratuita** para captar clientes potenciais no LinkedIn, sem precisar de scrapers nem ferramentas pagas.
 Além disso, vai aprender a usar o **modo agente do ChatGPT (Operator)** para entrar em contato automaticamente com esses leads por meio de mensagens personalizadas.
 
-🛠️ **O que conseguimos com essa automação?**
+🛠️ **O que conseguimos com essa automaçêo?**
 • Captar até **1000 leads por dia** no LinkedIn, sem custo.
 • Extrair dados-chave: **nome, cargo, perfil, resumo**, etc.
 • Enviar automaticamente os leads para o **Google Sheets**.
-• Automatizar a criação de **mensagens personalizadas** para cada lead.
+• Automatizar a criaçêo de **mensagens personalizadas** para cada lead.
 • Enviar essas mensagens com o **Operator do ChatGPT**, de forma autônoma.
 • Escalar o sistema **sem pagar por APIs ou ferramentas externas**.
 
 🧩 **Estrutura do fluxo automatizado**
 
-**Parte 1: Extração de leads**
+**Parte 1: Extraçêo de leads**
 • Gatilho manual no **n8n**, com duas variáveis: página inicial e número de páginas para raspar.
 • Chamada para a **API do Google Custom Search**, simulando uma busca manual no Google.
 • Parâmetros dinâmicos: buscas do tipo `site:linkedin.com/in/ “CEO” AND “Valência”`.
 • Processamento dos resultados: limpeza dos dados com código JS (**nome, título, resumo, imagem, URL...**).
 • Envio automático para o **Google Sheets**, mantendo a ordem e sem duplicatas.
-• Loop inteligente com controle de execução por página, até no máximo 10 (100 resultados por execução).
+• Loop inteligente com controle de execuçêo por página, até no máximo 10 (100 resultados por execuçêo).
 
 **Parte 2: Contato automático com o Operator**
-• Preparação da lista de perfis a partir do **Google Sheets**.
-• Criação de **prompt estruturado** para o Operator com instruções claras:
+• Preparaçêo da lista de perfis a partir do **Google Sheets**.
+• Criaçêo de **prompt estruturado** para o Operator com instruções claras:
 
 * Visitar o perfil
 * Extrair informações do perfil
 * Redigir mensagem personalizada com 3 a 4 frases
-  • Ativação do **modo agente no ChatGPT**, com credenciais do LinkedIn carregadas.
-  • Navegação autônoma do agente: rolagem, cliques, envio da mensagem.
+  • Ativaçêo do **modo agente no ChatGPT**, com credenciais do LinkedIn carregadas.
+  • Navegaçêo autônoma do agente: rolagem, cliques, envio da mensagem.
   • Envio personalizado para cada contato (se permitido — exige Sales Navigator para mensagens diretas).
 
 🧰 **Ferramentas utilizadas**
-• **n8n**: orquestrador principal da automação
+• **n8n**: orquestrador principal da automaçêo
 • **Google Custom Search API**: para simular buscas manuais
 • **Google Cloud Console**: para obter as chaves de API e o CX
-• **Google Sheets**: onde os leads são armazenados
-• **ChatGPT Operator (modo agente)**: para navegação e envio automático de mensagens
+• **Google Sheets**: onde os leads sêo armazenados
+• **ChatGPT Operator (modo agente)**: para navegaçêo e envio automático de mensagens
 • **LinkedIn (com ou sem Sales Navigator)**: destino dos leads e das mensagens
 
 🧠 **Dicas importantes que aprendemos**
-• Não é necessário usar scrapers ou ferramentas premium para conseguir leads no LinkedIn.
+• Nêo é necessário usar scrapers ou ferramentas premium para conseguir leads no LinkedIn.
 • Use o **Google Search com **`site:linkedin.com` como fonte gratuita.
 • Utilize **loops controlados por variáveis** para evitar execuções infinitas.
 • O código JS já está pronto para filtrar as informações: **copie e cole**.
@@ -166,7 +166,7 @@ MENSAGEM 5
 Autor: INEMA
 Data: 2025-08-20T04:04:54+00:00
 Texto:
-**Automatize a captação de leads no LinkedIn**
+**Automatize a captaçêo de leads no LinkedIn**
 Você ainda está procurando clientes manualmente no LinkedIn?
 Isso acabou.
 
@@ -212,7 +212,7 @@ MENSAGEM 9
 Autor: INEMA
 Data: 2025-08-20T04:02:37+00:00
 Texto:
-e39 - Captação de Leads no LinkedIn
+e39 - Captaçêo de Leads no LinkedIn
 
 ------------------------------
 

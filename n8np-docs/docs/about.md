@@ -2,7 +2,7 @@
 
 ## 📦 O que é este repositório?
 
-O N8Np é uma coleção completa de workflows n8n, AI agents e automações coletados da comunidade Telegram.
+O N8Np é uma coleçêo completa de workflows n8n, AI agents e automações coletados da comunidade Telegram.
 
 ## 📊 Estatísticas
 
@@ -21,7 +21,7 @@ Este é um arquivo da comunidade. Para adicionar seus workflows:
 
 ## ⚠️ Aviso Legal
 
-- Todos os workflows são compartilhados pela comunidade
+- Todos os workflows sêo compartilhados pela comunidade
 - Credenciais devem ser reconfiguradas ao importar
 - Use por sua conta e risco
-- Sempre revise os workflows antes de usar em produção
+- Sempre revise os workflows antes de usar em produçêo

@@ -13,7 +13,7 @@ MENSAGEM 1
 Autor: INEMA
 Data: 2025-03-17T23:02:12+00:00
 Texto:
-Tem o ap5 com informações e no va versão
+Tem o ap5 com informações e no va versêo
 
 ------------------------------
 
@@ -21,7 +21,7 @@ MENSAGEM 2
 Autor: INEMA
 Data: 2025-03-12T06:27:56+00:00
 Texto:
-"Descrição do vídeo",
+"Descriçêo do vídeo",
   "width": 1080,
   "height": 1920
 }
@@ -29,7 +29,7 @@ Texto:
 
 ---
 
-### **🎥 3. Transformação de Imagens em Vídeos com Runway**
+### **🎥 3. Transformaçêo de Imagens em Vídeos com Runway**
 - **Nó:** "HTTP Request"  
 - **Método:** POST  
 - **URL:** `https://api.runwayml.com/v1/generate-video`  
@@ -47,7 +47,7 @@ Texto:
 
 ---
 
-### 🎵 4. Geração de Áudio com 11 Labs
+### 🎵 4. Geraçêo de Áudio com 11 Labs
 - N**ó: **"HTTP Request"  
 - M**étodo: **POST  
 - U**RL: **h`ttps://api.elevenlabs.io/v1/generate-sound ` 
@@ -64,8 +64,8 @@ Texto:
 
 ### 📂 5. Upload do Áudio para Google Drive
 - N**ó: **"Google Drive"
-- A**ção: **"Upload File"
-- C**onfiguração: ** 
+- A**çêo: **"Upload File"
+- C**onfiguraçêo: ** 
   - Arquivo: Á**udio gerado
 **  - C**ompartilhar publicamente
 **
@@ -89,27 +89,27 @@ Texto:
 
 ### 📤 7. Upload para YouTube
 - N**ó: **"YouTube"
-- A**ção: **"Upload Video"
-- C**onfiguração: ** 
+- A**çêo: **"Upload Video"
+- C**onfiguraçêo: ** 
   - Vídeo: A**rquivo renderizado
-**  - Status: "**Não listado"
+**  - Status: "**Nêo listado"
 **  - Título: T**ítulo do vídeo
 **
 ---
 
-### 📩 8. Notificação e Atualização da Planilha
+### 📩 8. Notificaçêo e Atualizaçêo da Planilha
 - N**ó: **"Google Sheets" → Atualizar status para "**Processado" ** 
-- N**ó: **"Email" → Enviar notificação de vídeo publicado.
+- N**ó: **"Email" → Enviar notificaçêo de vídeo publicado.
 
 ---
 
-## ✅** Conclusão
+## ✅** Conclusêo
 **Com esse fluxo, seu canal do YouTube pode p**ublicar vídeos automáticos enquanto você dorme! **😴💡  
 
 Se quiser personalizar, pode:  
 ✅ Melhorar os prompts para IA  
 ✅ Criar vídeos mais longos  
-✅ Automatizar a geração de ideias de vídeos  
+✅ Automatizar a geraçêo de ideias de vídeos  
 
 Agora é só testar! 🚀
 
@@ -119,14 +119,14 @@ MENSAGEM 3
 Autor: INEMA
 Data: 2025-03-12T06:27:56+00:00
 Texto:
-Aqui está o **passo a passo detalhado** para você automatizar a criação e publicação de vídeos **Shorts sem rosto** no YouTube usando **n8n, IA e automação**.
+Aqui está o **passo a passo detalhado** para você automatizar a criaçêo e publicaçêo de vídeos **Shorts sem rosto** no YouTube usando **n8n, IA e automaçêo**.
 
 ---
 
 ## **🔧 Ferramentas e Serviços Necessários**
 Antes de começar, você precisará configurar algumas ferramentas:
 
-1. **n8n** – Plataforma de automação  
+1. **n8n** – Plataforma de automaçêo  
    - Acesse: [https://n8n.io](https://n8n.io/)  
    - Pode ser usado na nuvem (n8n.cloud) ou instalado localmente.  
    
@@ -170,25 +170,25 @@ No Google Sheets, crie uma planilha chamada **Shorts Automáticos** com as colun
 
 ---
 
-### **2️⃣ Criar o Fluxo de Automação no n8n**
+### **2️⃣ Criar o Fluxo de Automaçêo no n8n**
 Agora, vamos criar um fluxo no **n8n** para conectar todos os serviços.
 
 1. **📌 Criar um novo fluxo no n8n**
    - Acesse o n8n e crie um novo fluxo de trabalho.
 
 2. **📄 Adicionar um nó de "Google Sheets"**
-   - Configurar **conexão com o Google Sheets**.
+   - Configurar **conexêo com o Google Sheets**.
    - Configurar para buscar a **primeira linha com Status = "A fazer"**.
 
-3. **🤖 Criar um nó de "Geração de Imagem com IA (Flux via Pi API)"**
-   - Enviar a descrição do vídeo para a API **Flux**.
+3. **🤖 Criar um nó de "Geraçêo de Imagem com IA (Flux via Pi API)"**
+   - Enviar a descriçêo do vídeo para a API **Flux**.
    - Receber **URLs das imagens** geradas.
 
-4. **🎥 Criar um nó de "Geração de Vídeo com Runway"**
+4. **🎥 Criar um nó de "Geraçêo de Vídeo com Runway"**
    - Enviar **as imagens** para a API **Runway**.
    - Receber **URLs dos vídeos curtos**.
 
-5. **🎵 Criar um nó de "Geração de Áudio com 11 Labs"**
+5. **🎵 Criar um nó de "Geraçêo de Áudio com 11 Labs"**
    - Enviar **o estilo do vídeo** para gerar um áudio correspondente.
    - Receber **URL do arquivo de áudio**.
 
@@ -196,19 +196,19 @@ Agora, vamos criar um fluxo no **n8n** para conectar todos os serviços.
    - Enviar o **áudio gerado** para o Drive.
    - **Compartilhar o link publicamente**.
 
-7. **🖼️ Criar um nó de "Edição Final no Creatomate"**
+7. **🖼️ Criar um nó de "Ediçêo Final no Creatomate"**
    - Unir **os vídeos curtos e o áudio**.
    - Renderizar o **vídeo final**.
 
 8. **📤 Criar um nó de "Upload no YouTube"**
    - Enviar o vídeo final para o YouTube.
-   - Definir **título, descrição e privacidade (não listado).**
+   - Definir **título, descriçêo e privacidade (nêo listado).**
 
 9. **📊 Atualizar a Planilha do Google**
    - Mudar o status para **"Processado"**.
    - Adicionar o **link do vídeo publicado**.
 
-10. **📩 Enviar notificação por e-mail**
+10. **📩 Enviar notificaçêo por e-mail**
    - Enviar um e-mail avisando que o **Short foi publicado**.
 
 ---
@@ -217,14 +217,14 @@ Agora, vamos criar um fluxo no **n8n** para conectar todos os serviços.
 
 ### **📄 1. Google Sheets**
 - **Nó:** "Google Sheets"
-- **Ação:** "Read Row"
-- **Configuração:**  
+- **Açêo:** "Read Row"
+- **Configuraçêo:**  
   - Planilha: **Shorts Automáticos**  
   - Buscar **a primeira linha onde "Status" = "A fazer"**  
 
 ---
 
-### **🤖 2. Geração de Imagens com Flux**
+### **🤖 2. Geraçêo de Imagens com Flux**
 - **Nó:** "HTTP Request"  
 - **Método:** POST  
 - **URL:** `https://api.piapi.xyz/v1/task/image/generate`  
@@ -254,27 +254,27 @@ Data: 2025-03-12T06:27:28+00:00
 Texto:
 Trabalho**
 1. **Planilha do Google** → Obtém ideias para vídeos  
-2. **Geração de imagem** → Converte os prompts em imagens usando **Flux**  
-3. **Conversão de imagens para vídeos** → Utiliza **Runway** para criar vídeos animados  
-4. **Geração de áudio** → **11 Labs** cria efeitos sonoros de acordo com o estilo do vídeo  
+2. **Geraçêo de imagem** → Converte os prompts em imagens usando **Flux**  
+3. **Conversêo de imagens para vídeos** → Utiliza **Runway** para criar vídeos animados  
+4. **Geraçêo de áudio** → **11 Labs** cria efeitos sonoros de acordo com o estilo do vídeo  
 5. **Upload no Google Drive** → Para armazenar os arquivos de áudio  
-6. **Renderização do vídeo final** → Utiliza **Creatomate** para combinar vídeo e áudio  
-7. **Upload automático no YouTube** → O vídeo é enviado para o canal e listado como **não listado**  
-8. **Atualização da planilha** → Registra o status do vídeo e adiciona o link final  
-9. **Notificação por e-mail** → Informa que um novo short foi criado e está pronto para revisão  
+6. **Renderizaçêo do vídeo final** → Utiliza **Creatomate** para combinar vídeo e áudio  
+7. **Upload automático no YouTube** → O vídeo é enviado para o canal e listado como **nêo listado**  
+8. **Atualizaçêo da planilha** → Registra o status do vídeo e adiciona o link final  
+9. **Notificaçêo por e-mail** → Informa que um novo short foi criado e está pronto para revisêo  
 
 ---
 
 ### **Oportunidades de Melhoria**
 - **Aprimorar os prompts** para gerar imagens mais precisas  
-- **Aumentar a duração dos vídeos** (atualmente são 20 segundos)  
+- **Aumentar a duraçêo dos vídeos** (atualmente sêo 20 segundos)  
 - **Gerar ideias de vídeos automaticamente** para preencher a planilha do Google  
-- **Testar modelos alternativos** para geração de imagens e vídeos  
+- **Testar modelos alternativos** para geraçêo de imagens e vídeos  
 
 ### **Custo por Vídeo**
-- **Geração de imagens**: **~$0,06**  
-- **Geração de vídeos**: **~$1,00**  
-- **Geração de áudio (11 Labs)**: **Incluso no plano de $5/mês**  
+- **Geraçêo de imagens**: **~$0,06**  
+- **Geraçêo de vídeos**: **~$1,00**  
+- **Geraçêo de áudio (11 Labs)**: **Incluso no plano de $5/mês**  
 - **Creatomate**: **Plano gratuito cobre boa parte dos usos**  
 
 Se você pretende criar um canal automatizado de shorts no YouTube, este fluxo de trabalho pode ser um ótimo ponto de partida!  
@@ -292,26 +292,26 @@ Texto:
 
 Hoje estou muito animado para compartilhar este fluxo de trabalho que desenvolvi e que vai te ajudar a gerar e publicar shorts sem rosto com IA no piloto automático. Assim que isso estiver rodando, você poderá gerar quantos shorts quiser por dia. Basicamente, você poderá crescer um canal do YouTube enquanto dorme.  
 
-E a melhor parte é que estou fornecendo todos os recursos que você precisa para configurar isso gratuitamente! Basta entrar na minha comunidade gratuita no **Skool** e todos os recursos estarão lá.  
+E a melhor parte é que estou fornecendo todos os recursos que você precisa para configurar isso gratuitamente! Basta entrar na minha comunidade gratuita no **Skool** e todos os recursos estarêo lá.  
 
-Vamos direto para uma demonstração e depois destrinchamos cada nó do fluxo de trabalho para entender como funciona.  
+Vamos direto para uma demonstraçêo e depois destrinchamos cada nó do fluxo de trabalho para entender como funciona.  
 
 Aqui está a aparência do fluxo de trabalho. Antes de testá-lo, vamos dar uma olhada nesta planilha do Google que contém todas as ideias que acionam o fluxo. Aqui está ela:  
 
 - Já criamos quatro vídeos diferentes (vamos ver daqui a pouco).  
-- O status dos vídeos está como "criado", o status de publicação está como "processado" e o link final do vídeo está aqui também.  
+- O status dos vídeos está como "criado", o status de publicaçêo está como "processado" e o link final do vídeo está aqui também.  
 
 Para rodar o fluxo de trabalho, sua planilha precisa estar configurada exatamente assim. Você poderá baixar esse modelo para garantir que tudo seja mapeado corretamente.  
 
 Quando rodamos o fluxo, ele pega a linha com status "a fazer" e gera um vídeo baseado nos temas definidos. No nosso exemplo, ele está gerando um vídeo sobre "Futuristic Cyberpunk Rebels" com os animais **tigre, urso, rinoceronte e porco**.  
 
- Agora, de volta ao n8n, ao rodar o fluxo de teste, ele extrai essa linha da planilha e insere os quatro animais e o estilo no agente de geração de prompts para imagens.  
+ Agora, de volta ao n8n, ao rodar o fluxo de teste, ele extrai essa linha da planilha e insere os quatro animais e o estilo no agente de geraçêo de prompts para imagens.  
 
-Estou usando um **agente** para testar diferentes modelos de geração de imagens. Atualmente, estou rodando com o **Flux**, que gera as imagens a partir do texto.  
+Estou usando um **agente** para testar diferentes modelos de geraçêo de imagens. Atualmente, estou rodando com o **Flux**, que gera as imagens a partir do texto.  
 
-Depois que os prompts são limpos (removendo quebras de linha e pontuações desnecessárias), os enviamos para a API de **texto para imagem**. A geração das imagens leva cerca de **90 segundos**.  
+Depois que os prompts sêo limpos (removendo quebras de linha e pontuações desnecessárias), os enviamos para a API de **texto para imagem**. A geraçêo das imagens leva cerca de **90 segundos**.  
 
-Assim que as imagens são geradas, elas são alimentadas em um **gerador de vídeo a partir de imagens**. O processo de conversão leva mais **2 minutos**.  
+Assim que as imagens sêo geradas, elas sêo alimentadas em um **gerador de vídeo a partir de imagens**. O processo de conversêo leva mais **2 minutos**.  
 
 Agora que as imagens foram processadas, passamos para o nó seguinte, que cria os vídeos a partir delas.  
 
@@ -326,20 +326,20 @@ Agora, voltamos ao fluxo para verificar o progresso. O sistema está baixando os
 
  O áudio está sendo criado pela **11 Labs** e será adicionado ao vídeo. Em seguida, o arquivo é enviado ao **Google Drive** e compartilhado publicamente.  
 
-Depois disso, combinamos tudo e renderizamos o vídeo final com o serviço **Creatomate**. O tempo de renderização é de **25 segundos**.  
+Depois disso, combinamos tudo e renderizamos o vídeo final com o serviço **Creatomate**. O tempo de renderizaçêo é de **25 segundos**.  
 
 Por fim, baixamos o vídeo e fazemos o upload automático para o **YouTube**.  
 
 ### **Resultado Final**
 - **Vídeo gerado**: ✅  
 - **Planilha do Google atualizada**: ✅  
-- **Notificação por e-mail enviada**: ✅  
+- **Notificaçêo por e-mail enviada**: ✅  
 
 Podemos acessar a planilha para ver que o status foi atualizado para "processado" e o link do vídeo final foi adicionado.  
 
 Agora podemos clicar no link e conferir o vídeo.  
 
- Aqui estão alguns exemplos dos vídeos finalizados:  
+ Aqui estêo alguns exemplos dos vídeos finalizados:  
 
 - **Cyberpunk Futurista**  
 - **Guerreiros Egípcios** (esse teve alguns efeitos sonoros estranhos 😅)  
@@ -347,12 +347,12 @@ Agora podemos clicar no link e conferir o vídeo.
 Os primeiros vídeos foram gerados com **Cling**, enquanto os últimos usaram **Runway**.  
 
 **Diferença entre Cling e Runway:**  
-- **Cling** tem maior qualidade, mas leva **6 minutos** para processar um vídeo e tem limitação de taxa de requisição na API.  
+- **Cling** tem maior qualidade, mas leva **6 minutos** para processar um vídeo e tem limitaçêo de taxa de requisiçêo na API.  
 - **Runway** é **mais rápido** e tem menos restrições.  
 
-No final, decidimos usar **Runway** para otimizar o tempo de geração.  
+No final, decidimos usar **Runway** para otimizar o tempo de geraçêo.  
 
- Agora, vamos conferir nossa caixa de e-mails. Recebemos uma notificação com o título do short processado e o link para o vídeo no YouTube.  
+ Agora, vamos conferir nossa caixa de e-mails. Recebemos uma notificaçêo com o título do short processado e o link para o vídeo no YouTube.  
 
 ### **Resumo do Fluxo de
 
@@ -538,9 +538,9 @@ MENSAGEM 12
 Autor: INEMA
 Data: 2025-03-12T04:03:15+00:00
 Texto:
-Criação e Publicação de Shorts no YouTube 📺
+Criaçêo e Publicaçêo de Shorts no YouTube 📺
 
-Como automatizar a criação de conteúdo configurando um fluxo de trabalho para gerar vídeo e áudio, renderizar tudo junto e postar automaticamente no YouTube – totalmente sem intervenção manual.
+Como automatizar a criaçêo de conteúdo configurando um fluxo de trabalho para gerar vídeo e áudio, renderizar tudo junto e postar automaticamente no YouTube – totalmente sem intervençêo manual.
 
 ------------------------------
 
@@ -548,7 +548,7 @@ MENSAGEM 13
 Autor: INEMA
 Data: 2025-03-12T04:02:51+00:00
 Texto:
-Incorporado geração de Imagens junto
+Incorporado geraçêo de Imagens junto
 
 ------------------------------
 

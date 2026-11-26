@@ -29,7 +29,7 @@ MENSAGEM 3
 Autor: INEMA
 Data: 2025-06-14T05:06:20+00:00
 Texto:
-Abaixo estão **dicas avançadas e práticas**, como se fossem ditas por um especialista que testou intensivamente, quebrou limites e **sabe exatamente o que funciona no n8n com modelos de IA**. Essas são dicas quentes mesmo — de bastidores.
+Abaixo estêo **dicas avançadas e práticas**, como se fossem ditas por um especialista que testou intensivamente, quebrou limites e **sabe exatamente o que funciona no n8n com modelos de IA**. Essas sêo dicas quentes mesmo — de bastidores.
 
 ---
 
@@ -40,23 +40,23 @@ Abaixo estão **dicas avançadas e práticas**, como se fossem ditas por um espe
 
    * Temperature: 1.1
    * Top P: 0.7
-     *Para:* brainstorms que não saem do tema.
+     *Para:* brainstorms que nêo saem do tema.
 
-2. **Presence Penalty entre 1.5 e 2.0 é o segredo para textos que não se repetem e surpreendem**
+2. **Presence Penalty entre 1.5 e 2.0 é o segredo para textos que nêo se repetem e surpreendem**
    *Ideal para títulos, slogans e frases de impacto.*
 
 3. **Quer resumos perfeitos? Use Temperature 0.3, Top P 0.8, Max Tokens 300**
    *Isso evita firulas e entrega o que importa com clareza.*
 
 4. **Combine o n8n com webhooks + OpenAI para criar assistentes contextuais com memória leve**
-   *Inclua histórico de perguntas como "system prompt" no corpo da requisição.*
+   *Inclua histórico de perguntas como "system prompt" no corpo da requisiçêo.*
 
 5. **Crie 3 variações com temperaturas diferentes em paralelo e compare as saídas**
    *Temperature: 0.4, 0.7, 1.0*
    *Isso simula teste A/B interno e melhora suas entregas.*
 
 6. **Use JSON como formato de saída quando for alimentar outro nó do n8n**
-   *Evita quebras e interpretações erradas na automação.*
+   *Evita quebras e interpretações erradas na automaçêo.*
 
 7. **Timeout baixo (ex: 2000ms) é ótimo para bots de chat em tempo real, mas cuidado com perguntas longas!**
 
@@ -66,13 +66,13 @@ Abaixo estão **dicas avançadas e práticas**, como se fossem ditas por um espe
 
 10. **Evite mudar Temperature e Top P juntos — isso pode tornar o resultado imprevisível e desbalanceado.**
 
-11. **Incremente contexto oculto no prompt usando `hidden fields` nos Webhooks do n8n — personalização oculta que muda tudo.**
+11. **Incremente contexto oculto no prompt usando `hidden fields` nos Webhooks do n8n — personalizaçêo oculta que muda tudo.**
 
 12. **Automatize feedbacks de usuários para ajustar dinamicamente os parâmetros (ex: aumentar temperatura se resposta estiver “fria”).**
 
 13. **Sempre salve os prompts enviados e as respostas em uma tabela (como Airtable ou Supabase) para auditar e refinar.**
 
-14. **Crie perfis de uso por tipo de tarefa (ex: criativo, técnico, analítico) e carregue o preset automaticamente antes da execução.**
+14. **Crie perfis de uso por tipo de tarefa (ex: criativo, técnico, analítico) e carregue o preset automaticamente antes da execuçêo.**
 
 15. **Quer gerar código limpo? Use: Temperature 0.1, Top P 0.8, Presence e Frequency em 0.0, com Max Tokens 800.**
 
@@ -80,7 +80,7 @@ Abaixo estão **dicas avançadas e práticas**, como se fossem ditas por um espe
 
 17. **Documente suas melhores combinações como presets nomeados no n8n para reuso rápido.**
 
-18. **Inclua perguntas do tipo "você entendeu a instrução?" antes da tarefa real para garantir contexto afiado em longas execuções.**
+18. **Inclua perguntas do tipo "você entendeu a instruçêo?" antes da tarefa real para garantir contexto afiado em longas execuções.**
 
 19. **Use Top P 1.0 + Frequency Penalty 0.8 para respostas criativas que ainda mantêm coerência.**
 
@@ -102,14 +102,14 @@ MENSAGEM 5
 Autor: INEMA
 Data: 2025-06-14T05:05:10+00:00
 Texto:
-Aqui estão **20 exemplos de aplicação prática** dos parâmetros de modelo de IA no **n8n**, com sugestões de **como compor essas configurações** conforme o uso:
+Aqui estêo **20 exemplos de aplicaçêo prática** dos parâmetros de modelo de IA no **n8n**, com sugestões de **como compor essas configurações** conforme o uso:
 
 ---
 
 1. **Chatbot de Atendimento**
 
    * *Uso:* Respostas diretas e repetíveis
-   * *Composição:*
+   * *Composiçêo:*
 
      * Temperature: 0.3
      * Top P: 0.8
@@ -119,7 +119,7 @@ Aqui estão **20 exemplos de aplicação prática** dos parâmetros de modelo de
 2. **Gerador de Postagens para Instagram**
 
    * *Uso:* Textos criativos e variados
-   * *Composição:*
+   * *Composiçêo:*
 
      * Temperature: 0.9
      * Top P: 1.0
@@ -128,16 +128,16 @@ Aqui estão **20 exemplos de aplicação prática** dos parâmetros de modelo de
 3. **Assistente para Resumo de Textos**
 
    * *Uso:* Respostas curtas e objetivas
-   * *Composição:*
+   * *Composiçêo:*
 
      * Max Tokens: 150
      * Temperature: 0.2
      * Top P: 0.7
 
-4. **Geração de Histórias Infantis**
+4. **Geraçêo de Histórias Infantis**
 
    * *Uso:* Criatividade, variedade e leveza
-   * *Composição:*
+   * *Composiçêo:*
 
      * Temperature: 1.0
      * Top P: 1.0
@@ -146,7 +146,7 @@ Aqui estão **20 exemplos de aplicação prática** dos parâmetros de modelo de
 5. **Email Marketing Automatizado**
 
    * *Uso:* Textos claros e com boa estrutura
-   * *Composição:*
+   * *Composiçêo:*
 
      * Temperature: 0.7
      * Top P: 0.9
@@ -155,7 +155,7 @@ Aqui estão **20 exemplos de aplicação prática** dos parâmetros de modelo de
 6. **Análise Técnica de Documentos**
 
    * *Uso:* Linguagem formal e repetível
-   * *Composição:*
+   * *Composiçêo:*
 
      * Temperature: 0.3
      * Top P: 0.8
@@ -164,43 +164,43 @@ Aqui estão **20 exemplos de aplicação prática** dos parâmetros de modelo de
 7. **Sugestões de Nome para Marcas**
 
    * *Uso:* Criatividade com originalidade
-   * *Composição:*
+   * *Composiçêo:*
 
      * Temperature: 1.2
      * Top P: 0.95
      * Presence Penalty: 2.0
 
-8. **Geração de Código em Python**
+8. **Geraçêo de Código em Python**
 
    * *Uso:* Clareza e consistência
-   * *Composição:*
+   * *Composiçêo:*
 
      * Temperature: 0.2
      * Top P: 0.85
      * Presence Penalty: 0.0
 
-9. **Geração de Resumos Acadêmicos**
+9. **Geraçêo de Resumos Acadêmicos**
 
-   * *Uso:* Concisão e precisão
-   * *Composição:*
+   * *Uso:* Concisêo e precisêo
+   * *Composiçêo:*
 
      * Max Tokens: 300
      * Temperature: 0.3
      * Top P: 0.75
 
-10. **Tradução com Adaptação de Estilo**
+10. **Traduçêo com Adaptaçêo de Estilo**
 
     * *Uso:* Flexibilidade sem perder o sentido
-    * *Composição:*
+    * *Composiçêo:*
 
       * Temperature: 0.6
       * Top P: 0.95
       * Presence Penalty: 0.5
 
-11. **Criação de Títulos para Vídeos**
+11. **Criaçêo de Títulos para Vídeos**
 
     * *Uso:* Impacto com criatividade
-    * *Composição:*
+    * *Composiçêo:*
 
       * Temperature: 1.0
       * Top P: 1.0
@@ -209,7 +209,7 @@ Aqui estão **20 exemplos de aplicação prática** dos parâmetros de modelo de
 12. **Roteiros de Vídeo**
 
     * *Uso:* Conteúdo longo e narrativo
-    * *Composição:*
+    * *Composiçêo:*
 
       * Max Tokens: 1000
       * Temperature: 0.8
@@ -218,15 +218,15 @@ Aqui estão **20 exemplos de aplicação prática** dos parâmetros de modelo de
 13. **Pesquisa de Palavras-chave**
 
     * *Uso:* Consistência e lógica
-    * *Composição:*
+    * *Composiçêo:*
 
       * Temperature: 0.3
       * Top P: 0.8
 
-14. **Geração de FAQs para Produtos**
+14. **Geraçêo de FAQs para Produtos**
 
-    * *Uso:* Clareza e repetição permitida
-    * *Composição:*
+    * *Uso:* Clareza e repetiçêo permitida
+    * *Composiçêo:*
 
       * Frequency Penalty: 0.1
       * Max Tokens: 400
@@ -235,7 +235,7 @@ Aqui estão **20 exemplos de aplicação prática** dos parâmetros de modelo de
 15. **Brainstorming de Ideias**
 
     * *Uso:* Liberdade criativa
-    * *Composição:*
+    * *Composiçêo:*
 
       * Temperature: 1.2
       * Top P: 1.0
@@ -244,7 +244,7 @@ Aqui estão **20 exemplos de aplicação prática** dos parâmetros de modelo de
 16. **Respostas para Chat GPT customizado**
 
     * *Uso:* Controle completo do tom e tamanho
-    * *Composição:*
+    * *Composiçêo:*
 
       * Response Format: Text
       * Max Tokens: 500
@@ -253,7 +253,7 @@ Aqui estão **20 exemplos de aplicação prática** dos parâmetros de modelo de
 17. **Script de Vendas**
 
     * *Uso:* Impacto com foco
-    * *Composição:*
+    * *Composiçêo:*
 
       * Temperature: 0.6
       * Top P: 0.85
@@ -262,7 +262,7 @@ Aqui estão **20 exemplos de aplicação prática** dos parâmetros de modelo de
 18. **Resumo de Reuniões**
 
     * *Uso:* Clareza e objetividade
-    * *Composição:*
+    * *Composiçêo:*
 
       * Max Tokens: 300
       * Temperature: 0.3
@@ -270,7 +270,7 @@ Aqui estão **20 exemplos de aplicação prática** dos parâmetros de modelo de
 19. **Notificações automáticas via WhatsApp**
 
     * *Uso:* Respostas curtas e diretas
-    * *Composição:*
+    * *Composiçêo:*
 
       * Max Tokens: 100
       * Temperature: 0.2
@@ -278,7 +278,7 @@ Aqui estão **20 exemplos de aplicação prática** dos parâmetros de modelo de
 20. **Rascunho de Artigos para Blog**
 
     * *Uso:* Texto fluido e criativo
-    * *Composição:*
+    * *Composiçêo:*
 
       * Temperature: 0.9
       * Top P: 0.95
@@ -300,9 +300,9 @@ Data: 2025-06-14T04:59:49+00:00
 Texto:
 **n8n AI Model Options**
 
-**Explicação das Opções de Modelo de IA**
+**Explicaçêo das Opções de Modelo de IA**
 
-A seguir está o que cada opção da tela do n8n faz, junto com exemplos de quando você pode querer alterá-las:
+A seguir está o que cada opçêo da tela do n8n faz, junto com exemplos de quando você pode querer alterá-las:
 
 ---
 
@@ -310,7 +310,7 @@ A seguir está o que cada opção da tela do n8n faz, junto com exemplos de quan
 
 * O que faz: Desencoraja o modelo de repetir as mesmas palavras ou frases.
 * Valores mais altos (até 2.0) reduzem repetições; valores negativos incentivam repetições.
-* Quando alterar: Aumente se as saídas estiverem muito repetitivas (ex: “muito muito importante”). Diminua para poesia ou escrita técnica que exige repetição.
+* Quando alterar: Aumente se as saídas estiverem muito repetitivas (ex: “muito muito importante”). Diminua para poesia ou escrita técnica que exige repetiçêo.
 
 ---
 
@@ -324,7 +324,7 @@ A seguir está o que cada opção da tela do n8n faz, junto com exemplos de quan
 **Response Format**
 
 * O que faz: Define o formato da saída (ex: texto simples, JSON, etc.).
-* Quando alterar: Use “Texto” para respostas naturais ou outro formato para integração com sistemas.
+* Quando alterar: Use “Texto” para respostas naturais ou outro formato para integraçêo com sistemas.
 
 ---
 
@@ -338,7 +338,7 @@ A seguir está o que cada opção da tela do n8n faz, junto com exemplos de quan
 **Sampling Temperature**
 
 * O que faz: Controla a aleatoriedade da resposta. Valores baixos (<1) geram respostas mais previsíveis; altos (>1) aumentam a criatividade.
-* Quando alterar: Use valores baixos (ex: 0.2–0.5) para precisão factual. Use valores altos (0.8–1.2) para criatividade e brainstorming.
+* Quando alterar: Use valores baixos (ex: 0.2–0.5) para precisêo factual. Use valores altos (0.8–1.2) para criatividade e brainstorming.
 
 ---
 
@@ -360,7 +360,7 @@ A seguir está o que cada opção da tela do n8n faz, junto com exemplos de quan
 
 * O que faz: Controla a diversidade da saída ao considerar somente o conjunto mínimo de palavras com probabilidade acumulada acima do valor p (ex: 0.9–1.0).
 * Quando alterar: Use valores baixos (ex: 0.8) para saídas focadas e valores altos (1.0) para mais criatividade.
-* OBS: Em geral, altere apenas **temperature** ou **top P**, não ambos ao mesmo tempo.
+* OBS: Em geral, altere apenas **temperature** ou **top P**, nêo ambos ao mesmo tempo.
 
 ---
 
@@ -395,17 +395,17 @@ MENSAGEM 9
 Autor: INEMA
 Data: 2025-06-14T04:59:05+00:00
 Texto:
-Aqui está a lista com os tópicos e uma explicação curta ao lado de cada um:
+Aqui está a lista com os tópicos e uma explicaçêo curta ao lado de cada um:
 
 * **Frequency Penalty** – penaliza repetições excessivas de palavras
 * **Maximum Number of Tokens** – define o tamanho máximo da resposta
 * **Response Format** – escolhe o tipo de saída (texto, JSON etc.)
-* **Presence Penalty** – evita reutilização de palavras já usadas
+* **Presence Penalty** – evita reutilizaçêo de palavras já usadas
 * **Sampling Temperature** – controla a criatividade e aleatoriedade
 * **Timeout** – tempo limite de espera pela resposta da IA
 * **Max Retries** – número de tentativas após falha na resposta
 * **Top P** – controla diversidade de palavras com base em probabilidade
-* **Summary Table** – resumo prático de como usar cada opção
+* **Summary Table** – resumo prático de como usar cada opçêo
 * **Example Scenario** – exemplos de ajustes conforme o uso (criativo ou técnico)
 
 ------------------------------
@@ -426,7 +426,7 @@ Texto:
 
 Uma dica rápida para quando você estiver conectando modelos de bate-papo de IA aos seus agentes de IA no n8n:
 
-Existem várias opções de configuração ocultas que podem impactar seriamente o comportamento dos seus agentes e a qualidade dos seus resultados. A maioria das pessoas as ignora, mas elas podem fazer uma grande diferença.
+Existem várias opções de configuraçêo ocultas que podem impactar seriamente o comportamento dos seus agentes e a qualidade dos seus resultados. A maioria das pessoas as ignora, mas elas podem fazer uma grande diferença.
 
 ------------------------------
 

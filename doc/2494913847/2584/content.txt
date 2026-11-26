@@ -32,24 +32,24 @@ Data: 2025-03-10T08:39:34+00:00
 Texto:
 ### **Licenças do n8n 🪪**  
 
-Olá, pessoal! Hoje de manhã tive uma conversa rápida com Bart, da equipe do n8n, e falamos sobre algumas áreas cinzentas em relação à licença do n8n—especialmente quando se trata de **white labeling** e trabalhos para clientes. Para resumir, aqui está o que descobri:  
+Olá, pessoal! Hoje de manhê tive uma conversa rápida com Bart, da equipe do n8n, e falamos sobre algumas áreas cinzentas em relaçêo à licença do n8n—especialmente quando se trata de **white labeling** e trabalhos para clientes. Para resumir, aqui está o que descobri:  
 
 ---
 
 ### **💻 White Labeling de Workflows no n8n**  
-Se você deseja fazer um **white label** completo de uma solução backend do n8n, é necessário obter uma **licença embedded**. A **licença enterprise não cobre isso**.  
+Se você deseja fazer um **white label** completo de uma soluçêo backend do n8n, é necessário obter uma **licença embedded**. A **licença enterprise nêo cobre isso**.  
 
-#### **🚫 O que não pode ser feito:**  
-- Criar sua própria versão do **n8n Cloud** ou cobrar clientes diretamente pelo acesso ao n8n.  
+#### **🚫 O que nêo pode ser feito:**  
+- Criar sua própria versêo do **n8n Cloud** ou cobrar clientes diretamente pelo acesso ao n8n.  
 
 #### **✅ O que pode ser feito:**  
-- **Instalar o n8n** em um servidor para um cliente, manter esse servidor e cobrar **taxas de manutenção**—desde que **não cobre pelo acesso ao n8n em si**.  
-- **Usar e modificar o n8n** para **fins internos da sua empresa**, como automação de fluxos de trabalho ou integração de sistemas internos.  
-- **Oferecer consultoria e suporte** relacionados ao n8n, incluindo a configuração de instâncias, criação de workflows e desenvolvimento de recursos personalizados para clientes.  
+- **Instalar o n8n** em um servidor para um cliente, manter esse servidor e cobrar **taxas de manutençêo**—desde que **nêo cobre pelo acesso ao n8n em si**.  
+- **Usar e modificar o n8n** para **fins internos da sua empresa**, como automaçêo de fluxos de trabalho ou integraçêo de sistemas internos.  
+- **Oferecer consultoria e suporte** relacionados ao n8n, incluindo a configuraçêo de instâncias, criaçêo de workflows e desenvolvimento de recursos personalizados para clientes.  
 
 ---
 
-O n8n está trabalhando para **tornar sua estrutura de licenciamento mais clara**, facilitando a compreensão dessas distinções. Se você está utilizando o **n8n para clientes**, **fique atento a essas regras!**
+O n8n está trabalhando para **tornar sua estrutura de licenciamento mais clara**, facilitando a compreensêo dessas distinções. Se você está utilizando o **n8n para clientes**, **fique atento a essas regras!**
 
 ------------------------------
 
@@ -92,21 +92,21 @@ O n8n é licenciado sob a **Sustainable Use License (SUL)**, que é **baseada na
 ### **1️⃣ Uso Gratuito e Open-Source (Auto-Hospedado)**
 ✔ **Pode ser usado gratuitamente** se você estiver rodando o **n8n em seus próprios servidores** para **uso interno** ou **projetos pessoais**.  
 ✔ Você pode **modificá-lo, criar automações e integrá-lo a seus próprios sistemas**.  
-✔ Não há restrições para usar o n8n **internamente dentro da sua empresa**.  
+✔ Nêo há restrições para usar o n8n **internamente dentro da sua empresa**.  
 
 ---
 
 ### **2️⃣ Uso Comercial e Restrições**
-O n8n impõe **restrições para monetização direta**. Aqui estão algumas regras importantes:  
+O n8n impõe **restrições para monetizaçêo direta**. Aqui estêo algumas regras importantes:  
 
-🚫 **Não é permitido criar sua própria versão do n8n Cloud** e vender acesso a terceiros.  
-🚫 **Não pode vender n8n como um SaaS (Software as a Service)**, ou seja, você não pode hospedar o n8n e cobrar pelo uso.  
-🚫 **Não pode usar o nome "n8n" para vender soluções sem autorização**.  
+🚫 **Nêo é permitido criar sua própria versêo do n8n Cloud** e vender acesso a terceiros.  
+🚫 **Nêo pode vender n8n como um SaaS (Software as a Service)**, ou seja, você nêo pode hospedar o n8n e cobrar pelo uso.  
+🚫 **Nêo pode usar o nome "n8n" para vender soluções sem autorizaçêo**.  
 
 ✅ **Pode oferecer consultoria, suporte e personalizações**, incluindo:
 - Instalar o n8n para clientes em seus servidores.  
 - Criar workflows personalizados.  
-- Prestar suporte técnico e manutenção.  
+- Prestar suporte técnico e manutençêo.  
 
 ⚠ **White Labeling (Remover a marca n8n)**  
 - **Somente permitido com uma licença embedded paga**, voltada para integrações em produtos comerciais.  
@@ -118,14 +118,14 @@ O n8n oferece **planos empresariais e comerciais**, que liberam recursos avança
 
 - **n8n Cloud** → Serviço gerenciado oficial do n8n.  
 - **Enterprise License** → Para grandes empresas que precisam de suporte dedicado, segurança e conformidade.  
-- **Embedded License** → Permite **white labeling** e integração direta em produtos comerciais.  
+- **Embedded License** → Permite **white labeling** e integraçêo direta em produtos comerciais.  
 
 ---
 
 ### **Resumo**
 - **Sim, o n8n é open-source e gratuito**, mas seu licenciamento limita **certos usos comerciais**.  
 - Você pode usá-lo **livremente para fins internos** ou **auto-hospedado**.  
-- **Não pode revendê-lo como SaaS** sem uma licença específica.  
+- **Nêo pode revendê-lo como SaaS** sem uma licença específica.  
 - Para **white labeling**, você precisa de uma **Embedded License**.  
 
 Se for apenas para **uso próprio ou consultoria**, **você pode rodá-lo sem problemas!** 🚀

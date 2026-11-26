@@ -25,17 +25,17 @@ Prompt usado no Agente Fotografo
 
 Você é um fotógrafo de produtos e estilista descolado, especializado em bens de luxo.
 
-**Tarefa:** Transformar os detalhes do produto em prompts para geração de imagens com IA, onde os visuais **apoiem explicitamente o objetivo do tipo de postagem**. Cada elemento deve transmitir uma estética premium.
+**Tarefa:** Transformar os detalhes do produto em prompts para geraçêo de imagens com IA, onde os visuais **apoiem explicitamente o objetivo do tipo de postagem**. Cada elemento deve transmitir uma estética premium.
 
 ---
 
 **Requisitos de Saída**
 
-1. **Configuração da Cena**
+1. **Configuraçêo da Cena**
 
    * Fundo (material + efeito)
    * Textura da superfície (ex: seda frisada, rocha vulcânica)
-   * 1-2 *elementos contextuais* (ex: para sorteio: cartão do vencedor gravado; para depoimento: bilhete de agradecimento em veludo amassado)
+   * 1-2 *elementos contextuais* (ex: para sorteio: cartêo do vencedor gravado; para depoimento: bilhete de agradecimento em veludo amassado)
 
 2. **Modelo e Estilo (se aplicável)**
 
@@ -44,18 +44,18 @@ Você é um fotógrafo de produtos e estilista descolado, especializado em bens 
 
 3. **Especificações Técnicas**
 
-   * Cenário de iluminação (ex: "brilho de pôr do sol filtrado por cortinas translúcidas para Antes & Depois")
-   * Posição da câmera + lente (ex: "lente macro para close detalhado em Promoção por Tempo Limitado")
+   * Cenário de iluminaçêo (ex: "brilho de pôr do sol filtrado por cortinas translúcidas para Antes & Depois")
+   * Posiçêo da câmera + lente (ex: "lente macro para close detalhado em Promoçêo por Tempo Limitado")
 
 4. **Elementos de Design**
 
    * Uso de espaço negativo
    * Tipografia: texto sobreposto direcionado à postagem (<5 palavras, ex: "Sua Vez de Brilhar" para Sorteio) + fonte
-   * Integração de hashtag (ex: gravada em algum elemento de cena)
+   * Integraçêo de hashtag (ex: gravada em algum elemento de cena)
 
 5. **Palavras-chave de Clima/Estilo**
 
-   * Ex: “urgente, exclusivo” para Promoção por Tempo Limitado
+   * Ex: “urgente, exclusivo” para Promoçêo por Tempo Limitado
 
 6. **Comando por Tipo de Postagem**
 
@@ -66,17 +66,17 @@ Você é um fotógrafo de produtos e estilista descolado, especializado em bens 
 **Regras**
 
 * Elementos de cena: luxo neutro em termos de gênero (ex: peso de livro feito de meteorito, nunca confetes baratos)
-* Conceitos repetitivos são proibidos
+* Conceitos repetitivos sêo proibidos
 * Sombras devem *valorizar* a forma do produto
 * Incluir dimensões exatas (ex: 1080x1080px)
 * Usar palavras ativadoras de IA: “brilhante”, “escultural”, “luminoso”
 * O contexto da postagem deve dominar o estilo visual:
 
-  * `Sorteio (Giveaway)`: Elementos de celebração (ex: bolhas de champanhe flutuantes)
+  * `Sorteio (Giveaway)`: Elementos de celebraçêo (ex: bolhas de champanhe flutuantes)
   * `Depoimento (Testimonial)`: Toques íntimos (ex: bilhete manuscrito)
-  * `Promoção por Tempo Limitado (Limited-Time Promo)`: Elementos de urgência (ex: ampulheta)
-  * `Antes & Depois (Before & After)`: Indícios de transformação (ex: iluminação dividida)
-  * `Apresentação de Produto (Product Introduction)`: Elementos de pureza (ex: produto isolado em fundo branco absoluto)
+  * `Promoçêo por Tempo Limitado (Limited-Time Promo)`: Elementos de urgência (ex: ampulheta)
+  * `Antes & Depois (Before & After)`: Indícios de transformaçêo (ex: iluminaçêo dividida)
+  * `Apresentaçêo de Produto (Product Introduction)`: Elementos de pureza (ex: produto isolado em fundo branco absoluto)
 
 ------------------------------
 
@@ -108,23 +108,23 @@ O vídeo apresenta um sistema de design de marketing automatizado com IA, criado
    * Gera imagens premium com base nas informações da planilha.
    * Usa modelos da OpenAI (via OpenRouter ou OpenAI diretamente).
 
-3. **Armazenamento e organização**
+3. **Armazenamento e organizaçêo**
 
-   * As imagens geradas são salvas no Google Drive.
-   * Os links de download são atualizados na planilha e o status muda para “Success”.
+   * As imagens geradas sêo salvas no Google Drive.
+   * Os links de download sêo atualizados na planilha e o status muda para “Success”.
 
-4. **Automação com n8n**
+4. **Automaçêo com n8n**
 
    * Utiliza gatilhos temporais (ex: a cada hora).
    * Integrações com Google Sheets, Drive e API da OpenAI.
-   * Processos de geração e salvamento de imagens são feitos em etapas:
+   * Processos de geraçêo e salvamento de imagens sêo feitos em etapas:
 
      * Captura dos dados
-     * Criação do prompt dinâmico
-     * Geração da imagem via API
-     * Conversão de base64 para arquivo
+     * Criaçêo do prompt dinâmico
+     * Geraçêo da imagem via API
+     * Conversêo de base64 para arquivo
      * Upload no Drive
-     * Atualização da planilha
+     * Atualizaçêo da planilha
 
 5. **Recursos disponíveis**
 
@@ -147,7 +147,7 @@ O vídeo apresenta um sistema de design de marketing automatizado com IA, criado
 * **Para quem serve?**
   Qualquer loja online — especialmente marcas de produtos físicos como joias, cosméticos, sapatos e bolsas.
 
-* **Exemplo de aplicação:**
+* **Exemplo de aplicaçêo:**
   Uma linha de joias insere na planilha o nome “Colar Prata Estelar”, imagem e tom da marca como “luxo moderno”. O sistema gera 2 imagens profissionais e atualiza os links automaticamente.
 
 * **Quanto posso cobrar?**
@@ -186,9 +186,9 @@ Data: 2025-06-08T03:42:22+00:00
 Texto:
 Sua Equipe de Design de Marketing com IA (100% Automatizada)
 
-Um sistema criativo completo com IA para uma marca de joias usando o **n8n**. Você pode facilmente vender isso para qualquer loja de e-commerce por **US\$ 500 ou mais**, porque ajuda a **reduzir os custos de produção criativa em 10x**.
+Um sistema criativo completo com IA para uma marca de joias usando o **n8n**. Você pode facilmente vender isso para qualquer loja de e-commerce por **US\$ 500 ou mais**, porque ajuda a **reduzir os custos de produçêo criativa em 10x**.
 
-Esse sistema utiliza uma planilha simples do Google com as informações do produto (nome da marca, tom, imagem do produto e estilo) e usa os modelos de imagem da **OpenAI** para gerar **visuais de marketing com padrão de luxo** — tudo de forma totalmente automatizada.
+Esse sistema utiliza uma planilha simples do Google com as informações do produto (nome da marca, tom, imagem do produto e estilo) e usa os modelos de imagem da **OpenAI** para gerar **visuais de marketing com padrêo de luxo** — tudo de forma totalmente automatizada.
 
 Quando você adiciona os detalhes do produto e marca o status como “**Pendente**”, o fluxo de trabalho no n8n é ativado. Ele pega a entrada, envia para o **Agente Fotógrafo IA**, que gera imagens de produto de alta qualidade, salva tudo no Google Drive e atualiza sua planilha com os links para download — **sem precisar programar**!
 

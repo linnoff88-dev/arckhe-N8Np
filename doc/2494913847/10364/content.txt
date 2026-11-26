@@ -28,7 +28,7 @@ Para descobrir o seu **chat ID** no Telegram (necessário para o *Human-in-the-L
 
 ### **Passo a passo para descobrir o chat ID no Telegram**
 
-#### **Opção 1: Usando o Bot ****@userinfobot**** (mais fácil)**
+#### **Opçêo 1: Usando o Bot ****@userinfobot**** (mais fácil)**
 
 1. Abra o Telegram no celular ou desktop.
 2. Pesquise e inicie uma conversa com o bot:
@@ -44,11 +44,11 @@ Para descobrir o seu **chat ID** no Telegram (necessário para o *Human-in-the-L
 
 ---
 
-#### O**pção 2: Para grupos ou canais (caso esteja usando com equipe)
+#### O**pçêo 2: Para grupos ou canais (caso esteja usando com equipe)
 **
 1. Adicione seu bot ao grupo.
 2. Envie uma mensagem qualquer no grupo.
-3. Vá até o n**8n ou use um webhook **com a função "esperar por mensagem".
+3. Vá até o n**8n ou use um webhook **com a funçêo "esperar por mensagem".
 4. A mensagem capturada trará algo como:
 
     ```  "chat": {
@@ -91,13 +91,13 @@ MENSAGEM 5
 Autor: INEMA
 Data: 2025-06-23T21:44:20+00:00
 Texto:
-Aqui estão **hacks e boas práticas** para otimizar seu fluxo *Human-in-the-Loop* com n8n, baseado no vídeo e nas melhores implementações:
+Aqui estêo **hacks e boas práticas** para otimizar seu fluxo *Human-in-the-Loop* com n8n, baseado no vídeo e nas melhores implementações:
 
 ---
 
 ### **1. Use `Set` para normalizar dados**
 
-Antes de enviar qualquer informação à IA, use um nó **Set** para:
+Antes de enviar qualquer informaçêo à IA, use um nó **Set** para:
 
 * Padronizar campos (`from`, `subject`, `snippet`, etc.).
 * Remover ruídos desnecessários no input da IA.
@@ -109,14 +109,14 @@ Antes de enviar qualquer informação à IA, use um nó **Set** para:
 
 Em vez de duplicar lógica:
 
-* Use o nó *Execute Workflow* para **reativar o fluxo original** com novas variáveis (ex: nova sugestão de resposta).
+* Use o nó *Execute Workflow* para **reativar o fluxo original** com novas variáveis (ex: nova sugestêo de resposta).
 * Isso evita complexidade e mantém o sistema escalável.
 
 ---
 
 ### **3. Estruture a saída da IA com `Structured Output Parser`**
 
-Sempre ative a opção:
+Sempre ative a opçêo:
 
 * `Require Specific Output Format`
 * Escolha `Structured Output Parser` e defina um **modelo JSON fixo**.
@@ -137,12 +137,12 @@ Isso garante que você sempre tenha os dados certos para uso posterior.
 
 ---
 
-### **4. Faça a validação com `If` baseado no texto “ok”**
+### **4. Faça a validaçêo com `If` baseado no texto “ok”**
 
 * Use o nó `If` com:
 
   * `{{ $json.text }}` igual a `"ok"`
-* **Lembrete:** o valor é **case sensitive**. Faça uma transformação `.toLowerCase()` se quiser aceitar variações.
+* **Lembrete:** o valor é **case sensitive**. Faça uma transformaçêo `.toLowerCase()` se quiser aceitar variações.
 
 ---
 
@@ -167,7 +167,7 @@ Isso garante que você sempre tenha os dados certos para uso posterior.
   * E-mail original
   * Resposta da IA
   * Feedback humano
-  * Decisão final
+  * Decisêo final
 
 ---
 
@@ -192,7 +192,7 @@ Isso garante que você sempre tenha os dados certos para uso posterior.
   * Verificar sentimento
   * Validar entrada
   * Reescrever com base em sugestões
-* Isso agiliza a criação de novas automações baseadas nesse modelo.
+* Isso agiliza a criaçêo de novas automações baseadas nesse modelo.
 
 ------------------------------
 
@@ -208,7 +208,7 @@ MENSAGEM 7
 Autor: INEMA
 Data: 2025-06-23T21:43:24+00:00
 Texto:
-Aqui está o **passo a passo completo** para montar a automação *Human-in-the-Loop* com **n8n**, conforme mostrado no vídeo:
+Aqui está o **passo a passo completo** para montar a automaçêo *Human-in-the-Loop* com **n8n**, conforme mostrado no vídeo:
 
 ---
 
@@ -221,7 +221,7 @@ Aqui está o **passo a passo completo** para montar a automação *Human-in-the-
 ### **2. Adicionar o gatilho do Gmail**
 
 * **Nó:** *Gmail → Trigger (New Email)*
-* Configure a autenticação com uma conta do Gmail.
+* Configure a autenticaçêo com uma conta do Gmail.
 * Defina os filtros de recebimento (por exemplo, assunto ou pasta).
 * Este nó detectará automaticamente os e-mails recebidos com feedbacks.
 
@@ -242,7 +242,7 @@ Aqui está o **passo a passo completo** para montar a automação *Human-in-the-
   De: {{ $json.From }}
   Assunto: {{ $json.Subject }}
   Trecho: {{ $json.snippet }}
-  Sugestão anterior: {{ $json.suggestion || 'N/A' }}
+  Sugestêo anterior: {{ $json.suggestion || 'N/A' }}
   ---
 
   1. Determine se o feedback é positivo, negativo ou indefinido.
@@ -267,7 +267,7 @@ Aqui está o **passo a passo completo** para montar a automação *Human-in-the-
 
 ---
 
-### **4. Enviar mensagem no Telegram para revisão**
+### **4. Enviar mensagem no Telegram para revisêo**
 
 * **Nó:** *Telegram → Send & Wait for Response*
 * Configure o Bot do Telegram.
@@ -292,7 +292,7 @@ Aqui está o **passo a passo completo** para montar a automação *Human-in-the-
 * Verifique se a resposta recebida no Telegram é e**xatamente **o`k.`
 
   * S**e sim **→ vá para envio do e-mail.
-  * S**e não **→ vá para reescrita com base na sugestão.
+  * S**e nêo **→ vá para reescrita com base na sugestêo.
 
 ---
 
@@ -304,11 +304,11 @@ Aqui está o **passo a passo completo** para montar a automação *Human-in-the-
   * T**hread ID: **{{ \$json.output.thread\_id }}
   * M**ensagem: **{{ \$json.output.reply\_body }}
   * F**ormato: **Texto simples (`text`)
-* Desative a opção “append attribution” se não quiser a assinatura do n8n.
+* Desative a opçêo “append attribution” se nêo quiser a assinatura do n8n.
 
 ---
 
-### 7**. Se reprovado: coletar sugestão e reexecutar
+### 7**. Se reprovado: coletar sugestêo e reexecutar
 **
 * N**ó: ***Set*
 
@@ -333,9 +333,9 @@ Aqui está o **passo a passo completo** para montar a automação *Human-in-the-
 * Verifique se:
 
   * A IA gera a resposta.
-  * O Telegram recebe a sugestão.
+  * O Telegram recebe a sugestêo.
   * Ao responder “ok”, o e-mail é enviado.
-  * Se responder com sugestão, o fluxo reinicia e apresenta nova resposta.
+  * Se responder com sugestêo, o fluxo reinicia e apresenta nova resposta.
 
 ---
 
@@ -352,7 +352,7 @@ Aqui está o **passo a passo completo** para montar a automação *Human-in-the-
 O modelo pode ser adaptado para:
 
 * WhatsApp, Slack, Discord, Outlook.
-* Outras tarefas como aprovação de artigos, imagens, posts e atendimento.
+* Outras tarefas como aprovaçêo de artigos, imagens, posts e atendimento.
 
 ------------------------------
 
@@ -377,16 +377,16 @@ O vídeo ensina como criar um sistema em n8n que:
 
 1. **Recebe um e-mail de feedback de cliente** (restaurante como exemplo).
 2. **Gera automaticamente uma resposta com IA**.
-3. **Envia a sugestão de resposta para um humano no Telegram**.
-4. **Espera aprovação ou ajustes**.
+3. **Envia a sugestêo de resposta para um humano no Telegram**.
+4. **Espera aprovaçêo ou ajustes**.
 5. **Envia o e-mail final ao cliente se aprovado**.
-6. **Se reprovado, reescreve com base na sugestão humana e reenvia para aprovação**.
+6. **Se reprovado, reescreve com base na sugestêo humana e reenvia para aprovaçêo**.
 
 ---
 
 ### **Etapas e Funcionalidades**
 
-1. **Criação do Agente de E-mail (Email Agent):**
+1. **Criaçêo do Agente de E-mail (Email Agent):**
 
    * Usa um modelo de IA (ex: OpenRouter + GPT-4).
    * Analisa o sentimento do e-mail: positivo, negativo ou indefinido.
@@ -394,16 +394,16 @@ O vídeo ensina como criar um sistema em n8n que:
    * Gera uma resposta com base no tipo de sentimento.
    * Aplica rodapé fixo e assinatura.
 
-2. **Configuração do Human-in-the-Loop:**
+2. **Configuraçêo do Human-in-the-Loop:**
 
    * Envia o rascunho da resposta para o Telegram via n8n.
    * Aguarda o comando "ok" (minúsculo) para continuar.
-   * Se não for “ok”, coleta sugestão e executa nova tentativa com base na sugestão.
+   * Se nêo for “ok”, coleta sugestêo e executa nova tentativa com base na sugestêo.
 
 3. **Estrutura de Fluxo Condicional (If Node):**
 
    * Se a resposta for "ok", envia o e-mail.
-   * Se não, reexecuta o processo com os ajustes feitos.
+   * Se nêo, reexecuta o processo com os ajustes feitos.
 
 4. **Envio de E-mail Final (Gmail Node):**
 
@@ -414,31 +414,31 @@ O vídeo ensina como criar um sistema em n8n que:
 ### **Detalhes Técnicos**
 
 * **Prompt IA:** pré-formatado, com campos para análise e resposta.
-* **Saída em JSON estruturado:** para fácil manipulação posterior.
-* **Reutilização do fluxo via “Execute Workflow”**: permite reaproveitar lógica para reescrever e-mails.
+* **Saída em JSON estruturado:** para fácil manipulaçêo posterior.
+* **Reutilizaçêo do fluxo via “Execute Workflow”**: permite reaproveitar lógica para reescrever e-mails.
 
 ---
 
 ### **Dicas Importantes**
 
 * O sistema é **case-sensitive**: precisa digitar "ok" em minúsculo.
-* **Não use o mesmo e-mail como remetente e destinatário** durante os testes.
+* **Nêo use o mesmo e-mail como remetente e destinatário** durante os testes.
 * O modelo pode ser personalizado e baixado na **comunidade gratuita do autor**.
 
 ---
 
-### **Conclusão**
+### **Conclusêo**
 
-A automação com IA no n8n usando o *Human-in-the-Loop* permite criar um fluxo confiável, onde a IA ajuda a economizar tempo, mas o humano mantém o controle de qualidade.
-É ideal para quem quer automatizar atendimento com personalização e segurança, especialmente em negócios como restaurantes.
+A automaçêo com IA no n8n usando o *Human-in-the-Loop* permite criar um fluxo confiável, onde a IA ajuda a economizar tempo, mas o humano mantém o controle de qualidade.
+É ideal para quem quer automatizar atendimento com personalizaçêo e segurança, especialmente em negócios como restaurantes.
 
 ---
 
-### **Exemplos de Aplicação**
+### **Exemplos de Aplicaçêo**
 
 * Atendimento ao cliente em lojas online.
 * Respostas automáticas a e-mails de suporte.
-* Aprovação de mensagens para redes sociais.
+* Aprovaçêo de mensagens para redes sociais.
 * Respostas a reviews no Google ou TripAdvisor.
 
 ------------------------------
@@ -513,11 +513,11 @@ MENSAGEM 12
 Autor: INEMA
 Data: 2025-06-23T21:39:18+00:00
 Texto:
-Automação de E-mails com Participação Humana usando n8n |
+Automaçêo de E-mails com Participaçêo Humana usando n8n |
 
-Tutorial fundamental de n8n mostrando como usar o recurso "Human-in-the-Loop" para combinar automação com IA e revisão humana 
+Tutorial fundamental de n8n mostrando como usar o recurso "Human-in-the-Loop" para combinar automaçêo com IA e revisêo humana 
 
-— perfeito para qualquer negócio que deseja respostas confiáveis sem entregar tudo nas mãos dos robôs 🤖
+— perfeito para qualquer negócio que deseja respostas confiáveis sem entregar tudo nas mêos dos robôs 🤖
 
 ------------------------------
 

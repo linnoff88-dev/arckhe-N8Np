@@ -22,7 +22,7 @@ MENSAGEM 2
 Autor: INEMA
 Data: 2025-06-15T04:45:26+00:00
 Texto:
-Aqui está o **passo a passo** completo para criar um sistema de **pesquisa e postagem automática de conteúdo** com IA para LinkedIn, X (Twitter) e Threads usando **n8n** e **OpenAI**, sem codificação:
+Aqui está o **passo a passo** completo para criar um sistema de **pesquisa e postagem automática de conteúdo** com IA para LinkedIn, X (Twitter) e Threads usando **n8n** e **OpenAI**, sem codificaçêo:
 
 ---
 
@@ -31,19 +31,19 @@ Aqui está o **passo a passo** completo para criar um sistema de **pesquisa e po
 1. **LinkedIn**
 
    * Acesse o n8n e crie um novo **canal LinkedIn** usando OAuth.
-   * Autentique sua conta no LinkedIn e salve a conexão.
+   * Autentique sua conta no LinkedIn e salve a conexêo.
 
 2. **Threads (via Meta)**
 
-   * Vá para o **Meta Business Suite** e adicione a conta Threads como colaboradora da aplicação.
+   * Vá para o **Meta Business Suite** e adicione a conta Threads como colaboradora da aplicaçêo.
    * Aceite o convite em “Permissões do site da conta” no Threads.
    * Gere o **Access Token** pelo **Meta Graph API Explorer**.
    * Troque por **Long-Lived Token** e salve no banco de dados.
-   * Configure lógica para verificar e renovar o token antes da expiração (recomenda-se 7 dias antes).
+   * Configure lógica para verificar e renovar o token antes da expiraçêo (recomenda-se 7 dias antes).
 
 3. **X (Twitter)**
 
-   * Crie uma aplicação no **Twitter Developer Portal**.
+   * Crie uma aplicaçêo no **Twitter Developer Portal**.
    * Ative permissões: leitura, escrita e mensagens diretas.
    * Gere o **Client ID** e **Client Secret**.
    * Configure OAuth2 no n8n para autenticar e obter o token de acesso.
@@ -57,9 +57,9 @@ Aqui está o **passo a passo** completo para criar um sistema de **pesquisa e po
 * Obter o **Global Short Token**.
 * Trocar por **Long Token** com URL da Meta.
 * Salvar token no banco de dados (p. ex., Supabase).
-* Configurar fluxo de renovação:
+* Configurar fluxo de renovaçêo:
 
-  * Verificar validade do token (expiração em 7 dias).
+  * Verificar validade do token (expiraçêo em 7 dias).
   * Revalidar token e atualizar no banco.
 
 #### **Fluxo 2 – Postagens em Threads e X (Twitter)**
@@ -73,11 +73,11 @@ Aqui está o **passo a passo** completo para criar um sistema de **pesquisa e po
 * Para **X (Twitter)** e **Threads**, usar APIs específicas:
 
   * Inserir token e ID da thread.
-  * Postar conteúdo com formatação adequada.
+  * Postar conteúdo com formataçêo adequada.
 
 #### **Fluxo 3 – Postagem no LinkedIn**
 
-* Não há limite de caracteres significativos.
+* Nêo há limite de caracteres significativos.
 * Enviar o conteúdo completo diretamente usando API do LinkedIn.
 * Simples: apenas um post por vez.
 
@@ -143,7 +143,7 @@ Data: 2025-06-15T04:44:48+00:00
 Texto:
 **Resumo do conteúdo apresentado:**
 
-Um sistema de automação foi criado usando *n8n* e *OpenAI* para pesquisar conteúdos, gerar publicações em formato de threads e postar automaticamente no **LinkedIn**, **X (Twitter)** e **Threads**, sem necessidade de programação.
+Um sistema de automaçêo foi criado usando *n8n* e *OpenAI* para pesquisar conteúdos, gerar publicações em formato de threads e postar automaticamente no **LinkedIn**, **X (Twitter)** e **Threads**, sem necessidade de programaçêo.
 
 **Tópicos principais abordados:**
 
@@ -153,16 +153,16 @@ Um sistema de automação foi criado usando *n8n* e *OpenAI* para pesquisar cont
    * Faz pesquisa de tendências (ex: Google Gemini) usando busca na web.
    * Cria conteúdo formatado para cada rede social com base no resultado da pesquisa.
 
-2. **Fluxos de automação usados:**
+2. **Fluxos de automaçêo usados:**
 
    * **Fluxo 1: Gerenciamento de Tokens (foco no Threads)**
 
-     * Geração de token inicial (Meta Graph API Explorer).
-     * Troca por token de longa duração.
-     * Armazenamento e renovação automática em banco de dados.
-     * Verificação periódica para tokens prestes a expirar.
+     * Geraçêo de token inicial (Meta Graph API Explorer).
+     * Troca por token de longa duraçêo.
+     * Armazenamento e renovaçêo automática em banco de dados.
+     * Verificaçêo periódica para tokens prestes a expirar.
 
-   * **Fluxo 2: Criação de Threads no X e Threads**
+   * **Fluxo 2: Criaçêo de Threads no X e Threads**
 
      * Divide conteúdo em várias partes, transforma em array.
      * Publica sequencialmente mantendo a lógica da thread.
@@ -171,7 +171,7 @@ Um sistema de automação foi criado usando *n8n* e *OpenAI* para pesquisar cont
    * **Fluxo 3: Postagem no LinkedIn**
 
      * Simples e direto, sem limites de caracteres.
-     * Posta o conteúdo gerado em uma única publicação.
+     * Posta o conteúdo gerado em uma única publicaçêo.
 
 3. **Ferramentas e decisões da IA:**
 
@@ -185,14 +185,14 @@ Um sistema de automação foi criado usando *n8n* e *OpenAI* para pesquisar cont
 4. **Formato e lógica das publicações:**
 
    * Conteúdo curto: post simples.
-   * Conteúdo longo: dividido em vários posts com coesão e clareza.
+   * Conteúdo longo: dividido em vários posts com coesêo e clareza.
    * Cada ferramenta tem instruções claras sobre *quando*, *por que* e *como* deve ser usada.
 
 5. **Resultado final:**
 
-   * As postagens são feitas automaticamente nas três redes.
-   * Threads e textos são formatados corretamente.
-   * Todo o processo é feito com IA e automação, sem codificação manual.
+   * As postagens sêo feitas automaticamente nas três redes.
+   * Threads e textos sêo formatados corretamente.
+   * Todo o processo é feito com IA e automaçêo, sem codificaçêo manual.
 
 ------------------------------
 
@@ -204,7 +204,7 @@ Texto:
 
 Agente de IA para Pesquisa de Conteúdo e Postagem Automática no LinkedIn, X/Twitter e Threads 
 
-Como automatizar a criação de conteúdo e a publicação no LinkedIn, X/Twitter e Threads usando o n8n e o OpenAI
+Como automatizar a criaçêo de conteúdo e a publicaçêo no LinkedIn, X/Twitter e Threads usando o n8n e o OpenAI
 
 Este sistema com IA gerencia os tokens, gera conteúdos em formato de thread e agenda as postagens de forma fluida, ajudando você a ampliar sua presença nas redes sociais com facilidade.
 

@@ -29,43 +29,43 @@ Um Agente de IA para Threads que Gerencia Seu Conteúdo (100% Automatizado) - Yo
 O vídeo ensina como criar um **Agente de IA** que reaproveita automaticamente ideias e publica posts no **Threads** usando **n8n**, **OpenAI**, **Google Sheets**, **MySQL** e **conta Threads via Meta**. O processo é totalmente automático.
 
 **Fluxo de Trabalho Explicado em 5 Etapas:**  
-1. **Obter o token de acesso de longa duração (Long-Lived Access Token)** do Meta para conseguir publicar no Threads sem precisar renovar a cada hora.  
+1. **Obter o token de acesso de longa duraçêo (Long-Lived Access Token)** do Meta para conseguir publicar no Threads sem precisar renovar a cada hora.  
 2. **Configurar uma rotina diária (cron job)** para escanear o Google Sheets em busca de posts pendentes a serem publicados.  
 3. **Usar OpenAI para reescrever ou parafrasear** os conteúdos com base nas inspirações salvas.  
 4. **Gerar versões em Inglês e Chinês** para ampliar o alcance.  
 5. **Postar automaticamente no Threads**, usando os dados gerados e armazenados.
 
 **Como Funciona na Prática:**  
-- A automação utiliza o **n8n** para gerenciar tudo.  
+- A automaçêo utiliza o **n8n** para gerenciar tudo.  
 - Um **Google Sheets** é usado como banco de dados de posts:  
   - Coluna A: Inspirações (conteúdo original de outros posts).  
   - Coluna B: Conteúdo reescrito/parafraseado.  
   - Outras colunas: status de postagem, horário da postagem, etc.  
-- Se o conteúdo já estiver pronto na Coluna B, ele é postado diretamente. Se não, o OpenAI reescreve antes de postar.  
+- Se o conteúdo já estiver pronto na Coluna B, ele é postado diretamente. Se nêo, o OpenAI reescreve antes de postar.  
 - Suporta **várias contas do Threads** simultaneamente (armazenando tokens diferentes no banco de dados MySQL).
 
-**Processo de Autenticação e Tokens:**  
+**Processo de Autenticaçêo e Tokens:**  
 - Obtém o primeiro token com validade curta (1 hora).  
-- Troca por um **token de longa duração (2 meses)**.  
-- Implementa automação para **renovar automaticamente** esse token antes do vencimento.
+- Troca por um **token de longa duraçêo (2 meses)**.  
+- Implementa automaçêo para **renovar automaticamente** esse token antes do vencimento.
 
-**Demonstração no Vídeo:**  
+**Demonstraçêo no Vídeo:**  
 - O autor mostra posts sendo criados e publicados automaticamente em duas contas Threads (uma em inglês e outra em chinês).  
-- Mostra também a atualização automática no status de publicação e horários no Google Sheets.
+- Mostra também a atualizaçêo automática no status de publicaçêo e horários no Google Sheets.
 
 **Objetivo:**  
-Facilitar o marketing e a publicação de conteúdos para profissionais, empresas e empreendedores, usando a automação por IA para manter constância nas redes sociais sem esforço manual.
+Facilitar o marketing e a publicaçêo de conteúdos para profissionais, empresas e empreendedores, usando a automaçêo por IA para manter constância nas redes sociais sem esforço manual.
 
 ---
 
 **Resumo em Lista de Tópicos com Exemplos:**
 
 - **Ferramentas usadas:**  
-  - n8n (para automação)  
+  - n8n (para automaçêo)  
   - OpenAI (para reescrita)  
   - Google Sheets (banco de dados de posts)  
   - MySQL (armazenar tokens de múltiplas contas)  
-  - Threads API do Meta (para publicação)
+  - Threads API do Meta (para publicaçêo)
 
 - **Etapas principais:**  
   - Obter e renovar token do Meta para Threads  

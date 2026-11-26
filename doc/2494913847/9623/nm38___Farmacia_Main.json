@@ -252,7 +252,7 @@
         "messages": {
           "values": [
             {
-              "content": "Você é um especialista em análise de receitas médicas. Extraia APENAS os medicamentos prescritos e suas informações. Retorne SEMPRE um JSON válido no formato especificado, mesmo que não encontre medicamentos.",
+              "content": "Você é um especialista em análise de receitas médicas. Extraia APENAS os medicamentos prescritos e suas informações. Retorne SEMPRE um JSON válido no formato especificado, mesmo que nêo encontre medicamentos.",
               "role": "system"
             },
             {

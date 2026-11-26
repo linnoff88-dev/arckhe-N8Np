@@ -35,16 +35,16 @@ Texto:
 
 ---
 
-### 3. Nã**o deixe o agente principal fazer tarefas
+### 3. Nê**o deixe o agente principal fazer tarefas
 
 *** No prompt do agente principal, inclua:
 
-    ```Sua função é apenas delegar tarefas. Não execute nenhuma ação diretamente.
+    ```Sua funçêo é apenas delegar tarefas. Nêo execute nenhuma açêo diretamente.
   
 
 ```---
 
-### 4. Use** logs para identificar falhas com precisão
+### 4. Use** logs para identificar falhas com precisêo
 
 *** Sempre analise os age**nt logs qu**ando algo falhar.
 * Descubra que**m chamou quem, o** q**ue foi enviado e **qua**l parâmetro deu erro.
@@ -58,7 +58,7 @@ Texto:
 
 ---
 
-### 6. Use** o botão “Let model decide” para campos dinâmicos
+### 6. Use** o botêo “Let model decide” para campos dinâmicos
 
 *** Em vez de preencher manualmente os campos, clique em:
 
@@ -70,7 +70,7 @@ Texto:
 
 ### 7. Come**ce simples: 1 agente, 1 ferramenta
 
-* **Evita confusão inicial.
+* **Evita confusêo inicial.
 * Escale gradualmente para múltiplos agentes.
 
 ---
@@ -129,7 +129,7 @@ Texto:
 
   * Criar conta em [openrouter.ai](https://openrouter.ai/)
   * Gerar uma **API Key**
-  * Colar a chave na conexão do modelo no n8n
+  * Colar a chave na conexêo do modelo no n8n
 
 ---
 
@@ -137,7 +137,7 @@ Texto:
 
 * Adicionar um novo AI Agent
 * Nome: `Email Agent`
-* Descrição: “Agente responsável por enviar e-mails”
+* Descriçêo: “Agente responsável por enviar e-mails”
 * Conectar ao mesmo modelo de IA (ou outro, se quiser)
 * Configurar o **User Message** como **dinâmico**, deixando o Main Agent preencher com o que deve ser feito
 
@@ -157,13 +157,13 @@ Texto:
 
 * Mesmo processo do Email Agent
 * Nome: `Calendar Agent`
-* Descrição: “Cria eventos no Google Calendar”
+* Descriçêo: “Cria eventos no Google Calendar”
 * Conectar ao mesmo modelo ou outro
 
 #### Adicionar ferramenta:
 
 * Ferramenta: `Google Calendar`
-* Operação: `Create Event`
+* Operaçêo: `Create Event`
 * Campos configurados:
 
   * Start time
@@ -177,7 +177,7 @@ Texto:
 
 * Adicionar um **system prompt** claro:
 
-  ```  Você é um agente orquestrador. Sua função é decidir qual subagente usar para cada tarefa. Não execute ações diretamente. Apenas repasse o comando ao subagente adequado.
+  ```  Você é um agente orquestrador. Sua funçêo é decidir qual subagente usar para cada tarefa. Nêo execute ações diretamente. Apenas repasse o comando ao subagente adequado.
   ```
 
 ---
@@ -191,7 +191,7 @@ Texto:
 
 ---
 
-### 7. T**estar a comunicação via chat
+### 7. T**estar a comunicaçêo via chat
 **
 * Use um nó de entrada, como T**elegram Trigger **ou W**ebhook,** para simular um usuário
 * Envie mensagens como:
@@ -241,7 +241,7 @@ Data: 2025-07-27T23:28:42+00:00
 Texto:
 exemplos 
 
-Aqui estão os **exemplos práticos citados no vídeo** sobre como usar um enxame de agentes de IA no **n8n**:
+Aqui estêo os **exemplos práticos citados no vídeo** sobre como usar um enxame de agentes de IA no **n8n**:
 
 ---
 
@@ -275,22 +275,22 @@ Aqui estão os **exemplos práticos citados no vídeo** sobre como usar um enxam
 
 ---
 
-### 3. **Criação de evento com falha de data (Exemplo 3)**
+### 3. **Criaçêo de evento com falha de data (Exemplo 3)**
 
 **Comando enviado:**
 “Crie um evento para hoje às 13h chamado almoço.”
 
 **Erro ocorrido:**
 
-* O agente marcou o evento para **27 de abril de 2024** (data antiga) porque **não sabia que “hoje” era 25 de julho de 2025**.
+* O agente marcou o evento para **27 de abril de 2024** (data antiga) porque **nêo sabia que “hoje” era 25 de julho de 2025**.
 
-**Correção feita:**
+**Correçêo feita:**
 
 * Foi adicionado ao prompt a variável **`{{ $now }}`** para informar a data atual aos agentes.
 
 ---
 
-### 4. **Criação de evento com falha de título (Exemplo 4)**
+### 4. **Criaçêo de evento com falha de título (Exemplo 4)**
 
 **Comando enviado:**
 “Crie um evento para hoje às 18h para jantar.”
@@ -299,7 +299,7 @@ Aqui estão os **exemplos práticos citados no vídeo** sobre como usar um enxam
 
 * O evento foi criado, mas **sem título**.
 
-**Correção feita:**
+**Correçêo feita:**
 
 * Adicionado o campo **“summary”** (título do evento) como parâmetro no calendário para o agente preencher com o nome do evento.
 
@@ -312,11 +312,11 @@ Aqui estão os **exemplos práticos citados no vídeo** sobre como usar um enxam
 
 **Erro ocorrido:**
 
-* O **e-mail não foi enviado** porque o agente não entendeu o endereço corretamente.
+* O **e-mail nêo foi enviado** porque o agente nêo entendeu o endereço corretamente.
 
-**Correção feita:**
+**Correçêo feita:**
 
-* Ajustes nos **prompts de sistema** para garantir que o agente principal **não execute a tarefa**, mas sim **delegue** para o subagente de e-mail.
+* Ajustes nos **prompts de sistema** para garantir que o agente principal **nêo execute a tarefa**, mas sim **delegue** para o subagente de e-mail.
 
 ------------------------------
 
@@ -338,7 +338,7 @@ Use quando o sistema **precisa pensar** ou **decidir o que fazer** com base no q
 
 **Exemplos:**
 
-* Entender pedidos em linguagem natural (“avise o João e marque reunião amanhã”)
+* Entender pedidos em linguagem natural (“avise o Joêo e marque reuniêo amanhê”)
 * Escolher qual ferramenta usar
 * Lidar com comandos diferentes a cada vez
 
@@ -375,7 +375,7 @@ MENSAGEM 9
 Autor: INEMA
 Data: 2025-07-27T23:26:15+00:00
 Texto:
-A diferença entre **usar um agente de IA** ou **um workflow tradicional** está principalmente na **necessidade de tomada de decisão, raciocínio dinâmico** e **flexibilidade**. Veja abaixo um resumo prático com exemplos:
+A diferença entre **usar um agente de IA** ou **um workflow tradicional** está principalmente na **necessidade de tomada de decisêo, raciocínio dinâmico** e **flexibilidade**. Veja abaixo um resumo prático com exemplos:
 
 ---
 
@@ -383,8 +383,8 @@ A diferença entre **usar um agente de IA** ou **um workflow tradicional** está
 
 Use um **agente** quando o processo:
 
-* **Não é linear**
-* Exige **interpretação de comandos**
+* **Nêo é linear**
+* Exige **interpretaçêo de comandos**
 * Precisa **escolher entre opções**
 * Envolve **contexto variável**
 * Pode se **adaptar a situações novas**
@@ -394,12 +394,12 @@ Use um **agente** quando o processo:
 1. **Atendimento automatizado multicanal**
 
    * O usuário envia: “Me avise se tiver chuva hoje e envie um e-mail para meu chefe com minha ausência”
-   * O agente entende a mensagem, consulta a previsão do tempo, verifica quem é o chefe e envia o e-mail.
+   * O agente entende a mensagem, consulta a previsêo do tempo, verifica quem é o chefe e envia o e-mail.
 
-2. **Pesquisa e recomendação inteligente**
+2. **Pesquisa e recomendaçêo inteligente**
 
-   * “Me envie 3 vídeos bons sobre marketing no YouTube e agende uma reunião com meu time para revisar.”
-   * O agente busca vídeos, resume, agenda reunião e envia e-mail.
+   * “Me envie 3 vídeos bons sobre marketing no YouTube e agende uma reuniêo com meu time para revisar.”
+   * O agente busca vídeos, resume, agenda reuniêo e envia e-mail.
 
 3. **Assistente pessoal inteligente**
 
@@ -412,15 +412,15 @@ Use um **agente** quando o processo:
 
 ---
 
-## Quando NÃO usar agente (usar WORKFLOW)
+## Quando NêO usar agente (usar WORKFLOW)
 
 Use um **workflow tradicional** quando o processo:
 
 * É **linear e previsível**
-* **Não muda com base no input**
+* **Nêo muda com base no input**
 * Pode ser **modelado com lógica fixa**
 * Precisa de **controle rígido de etapas**
-* Não há necessidade de interpretação complexa
+* Nêo há necessidade de interpretaçêo complexa
 
 ### Exemplos:
 
@@ -432,7 +432,7 @@ Use um **workflow tradicional** quando o processo:
 
    * Recebe formulário > valida campos > grava no Google Sheets.
 
-3. **Responder automaticamente a e-mails com texto padrão**
+3. **Responder automaticamente a e-mails com texto padrêo**
 
    * Se assunto contiver "cancelamento", responde com modelo X.
 
@@ -445,8 +445,8 @@ Use um **workflow tradicional** quando o processo:
 | Tipo de tarefa             | Repetitiva e previsível | Variável e dinâmica                |
 | Lógica                     | Fixa (sequencial)       | Raciocínio com IA                  |
 | Necessidade de contexto    | Baixa                   | Alta                               |
-| Personalização por usuário | Limitada                | Alta (memória, histórico)          |
-| Facilidade de depuração    | Alta                    | Média (precisa ler logs do agente) |
+| Personalizaçêo por usuário | Limitada                | Alta (memória, histórico)          |
+| Facilidade de depuraçêo    | Alta                    | Média (precisa ler logs do agente) |
 | Flexibilidade com comandos | Baixa                   | Alta                               |
 
 ---
@@ -472,9 +472,9 @@ Data: 2025-07-27T23:24:43+00:00
 Texto:
 **Resumo completo  "Construir um enxame de agentes de IA no n8n ficou muito fácil":**
 
-O vídeo ensina, passo a passo, como criar um sistema com múltiplos agentes de IA (enxame de agentes) dentro de um único workflow no **n8n**, usando ferramentas **no-code**. O objetivo é construir um sistema orquestrador (agente principal) que aciona subagentes especializados para tarefas específicas (como e-mail, clima, YouTube, contatos e calendário). O autor demonstra isso em tempo real e compartilha gratuitamente os recursos para replicação.
+O vídeo ensina, passo a passo, como criar um sistema com múltiplos agentes de IA (enxame de agentes) dentro de um único workflow no **n8n**, usando ferramentas **no-code**. O objetivo é construir um sistema orquestrador (agente principal) que aciona subagentes especializados para tarefas específicas (como e-mail, clima, YouTube, contatos e calendário). O autor demonstra isso em tempo real e compartilha gratuitamente os recursos para replicaçêo.
 
-### 1. Demonstração prática do funcionamento
+### 1. Demonstraçêo prática do funcionamento
 
 * O autor envia um comando no Telegram pedindo:
 
@@ -488,15 +488,15 @@ O vídeo ensina, passo a passo, como criar um sistema com múltiplos agentes de 
 
 ### 2. Arquitetura do enxame de agentes
 
-* Todos os subagentes estão no **mesmo fluxo**, o que facilita testes, visualização e depuração.
+* Todos os subagentes estêo no **mesmo fluxo**, o que facilita testes, visualizaçêo e depuraçêo.
 * Cada subagente tem:
 
   * Seu próprio modelo de linguagem (GPT, Google Flash, etc.)
   * Seus próprios prompts e especializações
-  * Pode ou não compartilhar memória via Session ID
+  * Pode ou nêo compartilhar memória via Session ID
 * Permite personalizar modelos por custo e qualidade.
 
-### 3. Segunda demonstração mais complexa
+### 3. Segunda demonstraçêo mais complexa
 
 * Tarefa: buscar ideias de vídeos no banco, fazer pesquisa, enviar e-mail e criar evento no calendário.
 * O sistema:
@@ -513,7 +513,7 @@ O vídeo ensina, passo a passo, como criar um sistema com múltiplos agentes de 
 
   * Agente principal
   * Subagente de e-mail com ferramenta do Gmail
-  * Subagente de calendário com integração ao Google Calendar
+  * Subagente de calendário com integraçêo ao Google Calendar
 * Mostra como configurar prompts e corrigir erros via logs.
 
 ### 5. Boas práticas para construir agentes
@@ -522,13 +522,13 @@ O vídeo ensina, passo a passo, como criar um sistema com múltiplos agentes de 
 
   1. **Ler os logs** para entender falhas e acertos.
   2. **Criar bons prompts**, adicionando instruções claras e específicas.
-  3. **Entender como os agentes usam ferramentas** (e.g. envio de e-mails, criação de eventos).
+  3. **Entender como os agentes usam ferramentas** (e.g. envio de e-mails, criaçêo de eventos).
 
-### 6. Importante distinção: workflow vs agente
+### 6. Importante distinçêo: workflow vs agente
 
-* **Workflows** são melhores para tarefas **determinísticas e previsíveis**.
-* **Agentes** são úteis para tarefas com **decisão, raciocínio e imprevisibilidade**.
-* A maioria das automações simples não precisa de agentes.
+* **Workflows** sêo melhores para tarefas **determinísticas e previsíveis**.
+* **Agentes** sêo úteis para tarefas com **decisêo, raciocínio e imprevisibilidade**.
+* A maioria das automações simples nêo precisa de agentes.
 
 ### 7. Recursos gratuitos disponíveis
 
@@ -542,7 +542,7 @@ O vídeo ensina, passo a passo, como criar um sistema com múltiplos agentes de 
 * Comunidade gratuita com todos os arquivos e tutoriais
 * Comunidade paga com suporte técnico e dois cursos:
 
-  * "Agent Zero" (Fundamentos da Automação com IA)
+  * "Agent Zero" (Fundamentos da Automaçêo com IA)
   * "10 horas para 10 segundos" (Design de automações que economizam tempo)
 
 ---
@@ -568,7 +568,7 @@ O vídeo ensina, passo a passo, como criar um sistema com múltiplos agentes de 
    * E-mail enviado com endereço inválido
    * Evento no calendário marcado com data errada
 
-5. **Boas práticas de criação**
+5. **Boas práticas de criaçêo**
 
    * Comece com poucos agentes e aumente gradualmente
    * Faça testes com prompt simplificado
@@ -584,7 +584,7 @@ O vídeo ensina, passo a passo, como criar um sistema com múltiplos agentes de 
 
 7. **Importância de saber quando usar agentes**
 
-   * Exemplo de quando **não** usar agente: processo fixo como emitir nota fiscal
+   * Exemplo de quando **nêo** usar agente: processo fixo como emitir nota fiscal
    * Exemplo de quando usar: decisões com base em múltiplas variáveis
 
 ------------------------------
@@ -605,9 +605,9 @@ Um Enxame de Agentes de IA no n8n Ficou Muito Fácil**
 
 Como construir um enxame de agentes de IA totalmente funcional usando ferramentas no-code no n8n.
 
-Esse framework permite que um agente principal (pai) acione vários subagentes especializados, cada um com sua própria tarefa. Essa abordagem modular melhora o desempenho, reduz o excesso de informações nos prompts e aumenta a precisão do contexto — especialmente ao lidar com consultas complexas.
+Esse framework permite que um agente principal (pai) acione vários subagentes especializados, cada um com sua própria tarefa. Essa abordagem modular melhora o desempenho, reduz o excesso de informações nos prompts e aumenta a precisêo do contexto — especialmente ao lidar com consultas complexas.
 
-Graças a uma atualização recente do n8n, agora podemos manter tudo dentro de um único fluxo de trabalho, o que facilita depurar, testar e iterar — tudo de forma visual. Também explicarei quando um enxame de agentes não é a melhor escolha e como ele se compara ao uso de fluxos de IA padrão ou subfluxos.
+Graças a uma atualizaçêo recente do n8n, agora podemos manter tudo dentro de um único fluxo de trabalho, o que facilita depurar, testar e iterar — tudo de forma visual. Também explicarei quando um enxame de agentes nêo é a melhor escolha e como ele se compara ao uso de fluxos de IA padrêo ou subfluxos.
 
 **Planilha de Log dos Agentes**
 **Planilha de Ideias para o YouTube**

@@ -165,7 +165,7 @@
       ],
       "webhookId": "54c2ed2f-d07c-45b8-941a-9d3a489980be",
       "parameters": {
-        "text": "=🚀 APOD publicado com sucesso!\n\n📅 Data: {{ $today.format('dd/MM/yyyy') }}\n📝 Título: {{ $('Get APOD').item.json.title }}\n🔗 Link da Publicação: {{ $('Settings').item.json.linkedin_post_base_url }}{{ $('Publish On LinkedIn').item.json.urn }}\n\n✅ Workflow executado às {{ $now.format('HH:mm') }}",
+        "text": "=🚀 APOD publicado com sucesso!\n\n📅 Data: {{ $today.format('dd/MM/yyyy') }}\n📝 Título: {{ $('Get APOD').item.json.title }}\n🔗 Link da Publicaçêo: {{ $('Settings').item.json.linkedin_post_base_url }}{{ $('Publish On LinkedIn').item.json.urn }}\n\n✅ Workflow executado às {{ $now.format('HH:mm') }}",
         "chatId": "={{ $('Settings').item.json.telegram_chat_id }}",
         "additionalFields": {}
       },

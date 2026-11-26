@@ -45,7 +45,7 @@ Texto:
 
 ---
 
-#### 4. **Evite sobrescrita errada com verificação dupla**
+#### 4. **Evite sobrescrita errada com verificaçêo dupla**
 
 * No `IF`, além de verificar se o nome existe, você pode verificar:
 
@@ -92,7 +92,7 @@ Texto:
 
 #### 9. **Crie log local ou em Google Sheets**
 
-* Guarde os metadados de cada execução:
+* Guarde os metadados de cada execuçêo:
 
   * Nome do workflow
   * Data de backup
@@ -101,7 +101,7 @@ Texto:
 
 ---
 
-#### 10. **Automatize a restauração**
+#### 10. **Automatize a restauraçêo**
 
 * Crie um segundo fluxo N8N que:
 
@@ -125,13 +125,13 @@ MENSAGEM 3
 Autor: INEMA
 Data: 2025-08-08T02:48:49+00:00
 Texto:
-**passo a passo detalhado para criar uma automação de backup de workflows no N8N para o GitHub**:
+**passo a passo detalhado para criar uma automaçêo de backup de workflows no N8N para o GitHub**:
 
 ---
 
 ### 🔁 **Objetivo:**
 
-Criar uma automação no **N8N** que salve diariamente todos os workflows ativos como arquivos `.json` em um **repositório privado no GitHub**, com versionamento e histórico de alterações.
+Criar uma automaçêo no **N8N** que salve diariamente todos os workflows ativos como arquivos `.json` em um **repositório privado no GitHub**, com versionamento e histórico de alterações.
 
 ---
 
@@ -155,7 +155,7 @@ Criar uma automação no **N8N** que salve diariamente todos os workflows ativos
 
 * Use o nó **GitHub > List Files**
 
-  * Configure a **autenticação com token pessoal**
+  * Configure a **autenticaçêo com token pessoal**
   * Escolha o repositório criado (ex: `n8n-backup`)
   * Isso retorna a lista de nomes dos arquivos `.json` já existentes no repositório
 
@@ -203,7 +203,7 @@ Criar uma automação no **N8N** que salve diariamente todos os workflows ativos
 
 * Use o nó **If**
 
-  * Condição: Se o nome do arquivo estiver contido na lista de arquivos existentes (concatenada no passo 3)
+  * Condiçêo: Se o nome do arquivo estiver contido na lista de arquivos existentes (concatenada no passo 3)
 
     * **True** ➜ Atualizar
     * **False** ➜ Criar novo
@@ -223,7 +223,7 @@ Criar uma automação no **N8N** que salve diariamente todos os workflows ativos
 
 ---
 
-#### 8B. **Criar novo arquivo no GitHub (se não existe)**
+#### 8B. **Criar novo arquivo no GitHub (se nêo existe)**
 
 * Use o nó **GitHub > Create File**
 
@@ -235,15 +235,15 @@ Criar uma automação no **N8N** que salve diariamente todos os workflows ativos
 #### 9. **Finalizar (opcional)**
 
 * Use um nó **NoOp** ou **Merge** para encerrar o processo
-* Pode adicionar uma notificação (ex: via Telegram, Discord ou email)
+* Pode adicionar uma notificaçêo (ex: via Telegram, Discord ou email)
 
 ---
 
 ### 🟢 **Resultado**
 
-* Todos os dias, seus workflows do N8N são salvos automaticamente como arquivos `.json` no GitHub
+* Todos os dias, seus workflows do N8N sêo salvos automaticamente como arquivos `.json` no GitHub
 * Você tem um histórico completo das versões, podendo restaurar qualquer uma
-* Funciona sem limites de operação (se N8N estiver rodando em servidor próprio)
+* Funciona sem limites de operaçêo (se N8N estiver rodando em servidor próprio)
 
 ---
 
@@ -264,20 +264,20 @@ Texto:
 **Resumo  (backup automático de fluxos no Make e N8N)**
 
 **Objetivo geral:**
-Ensinar como automatizar o backup dos fluxos de automação no **Make** (para Google Drive) e no **N8N** (para GitHub), mantendo cópias atualizadas, seguras e versionadas das automações.
+Ensinar como automatizar o backup dos fluxos de automaçêo no **Make** (para Google Drive) e no **N8N** (para GitHub), mantendo cópias atualizadas, seguras e versionadas das automações.
 
 ---
 
 ### **PARTE 1: Make + Google Drive**
 
-**Resumo da automação:**
+**Resumo da automaçêo:**
 
 * Lista todos os cenários existentes no Make.
 * Usa o módulo **"Get a scenario blueprint"** para obter os dados dos fluxos.
 * Verifica se o arquivo já existe no Google Drive:
 
   * Se existir ➜ **Atualiza (update file)**
-  * Se não ➜ **Cria novo (upload file)**
+  * Se nêo ➜ **Cria novo (upload file)**
 * Armazena tudo em uma pasta chamada `Make Backup`.
 
 **Vantagens:**
@@ -287,14 +287,14 @@ Ensinar como automatizar o backup dos fluxos de automação no **Make** (para Go
 
 **Desvantagem:**
 
-* Cada operação consome créditos do plano do Make.
+* Cada operaçêo consome créditos do plano do Make.
 * Um backup diário de muitos cenários (ex: 200) pode consumir **600 operações por dia**, o que pode esgotar o plano rápido.
 
 ---
 
 ### **PARTE 2: N8N + GitHub**
 
-**Resumo da automação:**
+**Resumo da automaçêo:**
 
 * Usa um trigger (ex: diário à meia-noite).
 * Lista os arquivos do repositório privado no GitHub.
@@ -303,7 +303,7 @@ Ensinar como automatizar o backup dos fluxos de automação no **Make** (para Go
 * Usa loop e condicional para:
 
   * **Atualizar** o arquivo no GitHub se já existir (`edit file`).
-  * **Criar novo** se não existir (`create file`).
+  * **Criar novo** se nêo existir (`create file`).
 * Insere um commit com data e hora do backup.
 
 **Vantagens:**
@@ -319,7 +319,7 @@ Ensinar como automatizar o backup dos fluxos de automação no **Make** (para Go
 * Mantenha **backups em dois lugares** (Drive e GitHub) por segurança.
 * Use **repositórios privados** no GitHub para proteger suas automações.
 * Faça backups **diários** se houver alterações frequentes ou **semanais** se as automações forem mais estáveis.
-* No Make, cuidado com os **limites de operação**.
+* No Make, cuidado com os **limites de operaçêo**.
 * No N8N, aproveite a **gratuidade e liberdade de uso local**.
 
 ---
@@ -360,7 +360,7 @@ Desenhamos um fluxo que extrai todos os *workflows* do N8N, os converte em arqui
 * Usamos um *loop* para cada arquivo:
 
   * Se já existir ➜ *Edit file* com o novo conteúdo.
-  * Se não existir ➜ *Create file* com nome e conteúdo binário.
+  * Se nêo existir ➜ *Create file* com nome e conteúdo binário.
 * Adicionamos uma mensagem de *commit* do tipo: `Backup 07-08-2025 23:15` para rastreabilidade.
 
 🟢 **Vantagens:**
@@ -373,10 +373,10 @@ Desenhamos um fluxo que extrai todos os *workflows* do N8N, os converte em arqui
 **4. 💡 Dicas finais e boas práticas**
 
 * Recomendamos ter backups tanto no Drive quanto no GitHub, se possível.
-* No Make, atenção ao consumo de operações caso faça backups diários.
+* No Make, atençêo ao consumo de operações caso faça backups diários.
 * No N8N, aproveite a possibilidade de operações ilimitadas em servidor próprio.
 * Mantenha sempre os repositórios privados para garantir a segurança das suas automações.
-* Você pode adaptar esse fluxo para fazer backups semanais, caso o volume de alterações não seja alto.
+* Você pode adaptar esse fluxo para fazer backups semanais, caso o volume de alterações nêo seja alto.
 
 ---
 
@@ -397,7 +397,7 @@ Texto:
 **Imprescindible: Backup dos seus fluxos no N8N e Make de forma automática**
 
  Já tínhamos uma aula onde explicávamos como fazer backups dos seus fluxos do N8N no Google Drive…
-🔁 Mas muitos de vocês pediram para fazer isso no GitHub, então aqui está:
+🔁 Mas muitos de vocês pediram para fazer isso no GitHub, entêo aqui está:
 
 Passo a passo para salvar automaticamente todos os seus fluxos do N8N em um repositório privado do GitHub.
 
@@ -409,7 +409,7 @@ Além disso, também uma para o Make, onde automatizamos o salvamento de todos o
 ✅ Versionar suas alterações e restaurar quando necessário.
 
 **📌 Importância:**
-Fazer backup não é opcional. Quando você automatiza processos críticos para clientes ou para o seu negócio, ter uma cópia de segurança diária é **obrigatório**.
+Fazer backup nêo é opcional. Quando você automatiza processos críticos para clientes ou para o seu negócio, ter uma cópia de segurança diária é **obrigatório**.
 Essas aulas permitem deixar tudo funcionando sem precisar se preocupar mais.
 
 **🔗 Veja no Menu:**
@@ -417,7 +417,7 @@ Essas aulas permitem deixar tudo funcionando sem precisar se preocupar mais.
 👉 #🚨Backup no Drive das suas automações 🔴N8N 
 👉 #🚨Backup no Google Drive das suas automações 🟣MAKE
 
-Implemente isso o quanto antes. Esse é o tipo de automação que só é valorizada… quando já é tarde demais 😅
+Implemente isso o quanto antes. Esse é o tipo de automaçêo que só é valorizada… quando já é tarde demais 😅
 
 ------------------------------
 

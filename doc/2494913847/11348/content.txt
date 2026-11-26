@@ -30,14 +30,14 @@ MENSAGEM 3
 Autor: INEMA
 Data: 2025-07-13T05:26:35+00:00
 Texto:
-## 🚀 Hacks para a Primeira Automação (Testar Modelos)
+## 🚀 Hacks para a Primeira Automaçêo (Testar Modelos)
 
 ### 1️⃣ **Evite gastar créditos com modelos repetidos**
 
 * Antes de enviar o prompt para um modelo, verifique se já existe uma resposta para aquele modelo e prompt na planilha:
 
   * **Node: Google Sheets - Lookup Rows**
-  * Condição:
+  * Condiçêo:
 
     * Prompt = atual
     * Modelo = atual
@@ -58,7 +58,7 @@ Texto:
 ### 3️⃣ **Use paralelismo no loop**
 
 * Configure o Loop com **“Execute Concurrently”** para rodar em vários modelos ao mesmo tempo.
-* Coloque um limite (ex: 3 ou 5) para não sobrecarregar a API.
+* Coloque um limite (ex: 3 ou 5) para nêo sobrecarregar a API.
 
 ---
 
@@ -77,25 +77,25 @@ Texto:
 * Salve:
 
   * Nome do modelo
-  * Tempo de execução
+  * Tempo de execuçêo
   * Status da API (200, 429, etc)
   * Erros
-* Assim você identifica quais modelos estão lentos ou dando erro.
+* Assim você identifica quais modelos estêo lentos ou dando erro.
 
 ---
 
 ---
 
-## 🚀 Hacks para a Segunda Automação (Juiz)
+## 🚀 Hacks para a Segunda Automaçêo (Juiz)
 
 ### 6️⃣ **Personalize o Juiz**
 
 * No System Prompt do “Juiz” você pode ajustar o estilo da análise:
   Exemplo:
 
-  > “Você é um especialista técnico e imparcial. Priorize modelos com respostas concisas e aplicáveis para negócios. Não valorize floreios criativos.”
+  > “Você é um especialista técnico e imparcial. Priorize modelos com respostas concisas e aplicáveis para negócios. Nêo valorize floreios criativos.”
 
-* Para avaliação criativa:
+* Para avaliaçêo criativa:
 
   > “Escolha os modelos com respostas mais inovadoras, engraçadas ou surpreendentes.”
 
@@ -105,7 +105,7 @@ Texto:
 
 * Peça ao Juiz para dar os **top 3 por categoria**:
 
-  * Concisão
+  * Concisêo
   * Criatividade
   * Custo-benefício
 * Exemplo de System Prompt:
@@ -114,7 +114,7 @@ Texto:
 
 ---
 
-### 8️⃣ **Comparação por métrica**
+### 8️⃣ **Comparaçêo por métrica**
 
 * No n8n, calcule a média de palavras, emojis, ou tokens das respostas para ajudar o Juiz.
 
@@ -126,9 +126,9 @@ Texto:
 
 ## 💡 Hacks Gerais
 
-### 9️⃣ **Automação contínua**
+### 9️⃣ **Automaçêo contínua**
 
-* Configure o gatilho da primeira automação para rodar quando **um novo prompt for adicionado** à planilha.
+* Configure o gatilho da primeira automaçêo para rodar quando **um novo prompt for adicionado** à planilha.
 * Node: Google Sheets - Trigger → On New Row.
 
 ---
@@ -172,23 +172,23 @@ O **passo a passo completo** para você criar as **duas automações no n8n**:
 
 ---
 
-### 🌟 Visão geral do fluxo
+### 🌟 Visêo geral do fluxo
 
-1. **Primeira automação**:
+1. **Primeira automaçêo**:
 
    * Pega prompts da planilha.
    * Roda o prompt em todos os modelos via OpenRouter API.
    * Salva os resultados no Google Sheets.
 
-2. **Segunda automação (Juiz)**:
+2. **Segunda automaçêo (Juiz)**:
 
    * Analisa os resultados da primeira.
-   * Escolhe os top 3 modelos com explicação.
+   * Escolhe os top 3 modelos com explicaçêo.
    * Salva na aba “Judge” do Google Sheets.
 
 ---
 
-## 🚀 Passo a passo: Primeira automação (Testar modelos)
+## 🚀 Passo a passo: Primeira automaçêo (Testar modelos)
 
 ### 1️⃣ Preparar o ambiente
 
@@ -221,7 +221,7 @@ O **passo a passo completo** para você criar as **duas automações no n8n**:
 
 #### 🔹 Node 1: Google Sheets - Read Rows
 
-* Ação: **Read Rows**
+* Açêo: **Read Rows**
 * Credencial: Sua conta Google Sheets configurada.
 * Planilha: `Prompts`
 * Limite: 1 (pega o último prompt).
@@ -274,7 +274,7 @@ O **passo a passo completo** para você criar as **duas automações no n8n**:
         ]
       }
       ```
-  * Salve resposta, modelo, data e versão.
+  * Salve resposta, modelo, data e versêo.
 
 ---
 
@@ -294,7 +294,7 @@ O **passo a passo completo** para você criar as **duas automações no n8n**:
 
 ---
 
-## 🚀 Passo a passo: Segunda automação (Juiz)
+## 🚀 Passo a passo: Segunda automaçêo (Juiz)
 
 ### 1️⃣ Crie um novo workflow chamado `Judge Best Models`.
 
@@ -326,12 +326,12 @@ O **passo a passo completo** para você criar as **duas automações no n8n**:
       },
       {
         "role": "user",
-        "content": "Aqui estão as respostas dos modelos para o prompt: {{list of responses}}"
+        "content": "Aqui estêo as respostas dos modelos para o prompt: {{list of responses}}"
       }
     ]
   }
   ```
-* Substitua `{{list of responses}}` por uma concatenação das respostas dos modelos.
+* Substitua `{{list of responses}}` por uma concatenaçêo das respostas dos modelos.
 
 ---
 
@@ -368,7 +368,7 @@ MENSAGEM 7
 Autor: INEMA
 Data: 2025-07-13T05:23:58+00:00
 Texto:
-O vídeo mostra como criar uma automação no **n8n** usando o **OpenRouter** para testar e comparar rapidamente diferentes modelos de IA (como GPT-4, Claude, Gemini, LLaMA, etc.) com o mesmo prompt, ajudando a escolher o melhor modelo para um projeto específico.
+O vídeo mostra como criar uma automaçêo no **n8n** usando o **OpenRouter** para testar e comparar rapidamente diferentes modelos de IA (como GPT-4, Claude, Gemini, LLaMA, etc.) com o mesmo prompt, ajudando a escolher o melhor modelo para um projeto específico.
 
 Aqui está o resumo com os pontos principais:
 
@@ -377,9 +377,9 @@ Aqui está o resumo com os pontos principais:
    * Há muitos modelos novos de IA surgindo semanalmente.
    * Testar e comparar manualmente cada modelo é caótico e demorado.
 
-2. **Solução criada**
+2. **Soluçêo criada**
 
-   * Uma automação no n8n que:
+   * Uma automaçêo no n8n que:
 
      * Executa um prompt em todos os modelos disponíveis no OpenRouter.
      * Registra os resultados em uma planilha do Google Sheets.
@@ -387,11 +387,11 @@ Aqui está o resumo com os pontos principais:
 
 3. **Funcionalidade extra: “Juiz”**
 
-   * Uma segunda automação atua como “juiz” e avalia as respostas.
-   * Define os 3 melhores modelos com base em critérios ajustáveis (ex.: concisão, criatividade).
+   * Uma segunda automaçêo atua como “juiz” e avalia as respostas.
+   * Define os 3 melhores modelos com base em critérios ajustáveis (ex.: concisêo, criatividade).
    * Escreve o ranking em uma aba separada na planilha.
 
-4. **Fluxo da automação**
+4. **Fluxo da automaçêo**
 
    * Pega os prompts da planilha.
    * Lista todos os modelos disponíveis no OpenRouter via API.
@@ -409,13 +409,13 @@ Aqui está o resumo com os pontos principais:
 
 6. **Detalhes técnicos**
 
-   * Usa gatilho agendado ou execução manual no n8n.
+   * Usa gatilho agendado ou execuçêo manual no n8n.
    * Integra Google Sheets e OpenRouter com API keys.
    * Pode ser configurado para rodar em novos prompts automaticamente.
 
 7. **Extras oferecidos**
 
-   * Workflow da automação está disponível nos links do vídeo.
+   * Workflow da automaçêo está disponível nos links do vídeo.
    * Acesso ao segundo workflow com hacks está na comunidade paga do autor.
 
 ------------------------------

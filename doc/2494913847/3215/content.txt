@@ -160,7 +160,7 @@ Data: 2025-03-15T04:31:41+00:00
 Texto:
 o Workflow** e teste enviando mensagens para o bot.  
 
-✅ **Agora todas as mensagens recebidas são salvas automaticamente no Google Sheets!**
+✅ **Agora todas as mensagens recebidas sêo salvas automaticamente no Google Sheets!**
 
 ---
 
@@ -184,7 +184,7 @@ Data: 2025-03-15T04:31:41+00:00
 Texto:
 ### **Passo a Passo Detalhado: Configurar um Bot do Telegram (Uso Direto, Sem Grupo)**  
 
-Este guia explica como criar e configurar um bot no Telegram para uso direto (sem grupo), conectá-lo ao **N8N** e ativar a automação.
+Este guia explica como criar e configurar um bot no Telegram para uso direto (sem grupo), conectá-lo ao **N8N** e ativar a automaçêo.
 
 ---
 
@@ -247,7 +247,7 @@ Pa**ra conectar o bot ao N8N**, p**recisamos configurar um Webhook.
 ## 4️⃣** Criar um Workflow no N8N
 1.** Ace**sse o N8N no** navegador (`http://localhost:5678` se estiver rodando localmente).  
 2. Clique em "Ne**w Workflow" pa**ra criar um novo fluxo.  
-3. Clique no botão "+"** e **adicione um nó "Te**legram Trigger".  **
+3. Clique no botêo "+"** e **adicione um nó "Te**legram Trigger".  **
 4. Con**figure o Telegram Trigger:
   ** - No campo "Bo**t Token", c**ole o Tok**en do Bot.
  **  - Em Upd**ate Types, s**elecione "me**ssage" (p**ara receber mensagens diretas).  
@@ -263,7 +263,7 @@ Pa**ra conectar o bot ao N8N**, p**recisamos configurar um Webhook.
 ## 5️⃣** Criar Resposta Automática no Telegram
 Ag**ora vamos configurar o bot para res**ponder automaticamente.
 
-**1. Clique no botão "+"** e **adicione um nó "Te**legram Send Message".  **
+**1. Clique no botêo "+"** e **adicione um nó "Te**legram Send Message".  **
 2. Con**ecte esse nó ao "Telegram Trigger".  **
 3. Con**figure o nó "Telegram Send Message":
  **  - Cha**t ID:  

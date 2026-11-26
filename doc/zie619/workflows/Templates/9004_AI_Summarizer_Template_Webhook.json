@@ -19,7 +19,7 @@
         "color": 7,
         "width": 760,
         "height": 380,
-        "content": "## Template: Resumidor com LLM (pronto para escalar)\n\n- Objetivo: Receber texto e gerar resumo com LLM ou fallback local.\n- Teste rápido:\n```bash\ncurl -X POST http://<SEU_N8N>/webhook/template/ai-summarizer \\\n -H 'Content-Type: application/json' \\\n -d '{\\\"text\\\":\\\"Escreva um parágrafo longo aqui...\\\"}'\n```\n- Produção: habilite o nó OpenAI e configure credenciais.\n- Fallback: 'Local Summarize' funciona sem credenciais."
+        "content": "## Template: Resumidor com LLM (pronto para escalar)\n\n- Objetivo: Receber texto e gerar resumo com LLM ou fallback local.\n- Teste rápido:\n```bash\ncurl -X POST http://<SEU_N8N>/webhook/template/ai-summarizer \\\n -H 'Content-Type: application/json' \\\n -d '{\\\"text\\\":\\\"Escreva um parágrafo longo aqui...\\\"}'\n```\n- Produçêo: habilite o nó OpenAI e configure credenciais.\n- Fallback: 'Local Summarize' funciona sem credenciais."
       },
       "typeVersion": 1
     },

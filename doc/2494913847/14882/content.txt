@@ -40,7 +40,7 @@ Maria no valor de 350€, com IVA.”
   2. O N8N gera o HTML.
   3. O PDF é criado e enviado por e-mail.
   4. A fatura é salva no Drive.
-  5. Os dados são registrados.
+  5. Os dados sêo registrados.
 
 ---
 
@@ -49,7 +49,7 @@ Maria no valor de 350€, com IVA.”
 * O criador mostra que o mesmo fluxo gera também **relatórios automáticos mensais** com análise de entradas e saídas.
 * Tudo é feito **sem gastar tokens**, **sem API externa** e **100% com código local e prompts bem estruturados**.
 * Ele enfatiza:
-  “O segredo não é o nó, é **como você pede para a IA**. Se você der o papel certo, ela entende e entrega o resultado perfeito.”
+  “O segredo nêo é o nó, é **como você pede para a IA**. Se você der o papel certo, ela entende e entrega o resultado perfeito.”
 
 ------------------------------
 
@@ -57,7 +57,7 @@ MENSAGEM 4
 Autor: INEMA
 Data: 2025-10-08T03:50:44+00:00
 Texto:
-Abaixo está o **passo a passo explicado **, com a lógica, a fala prática e a sequência real da automação funcionando dentro do N8N, usando Telegram, Gemini e PDF.co — exatamente como o criador mostrou.
+Abaixo está o **passo a passo explicado **, com a lógica, a fala prática e a sequência real da automaçêo funcionando dentro do N8N, usando Telegram, Gemini e PDF.co — exatamente como o criador mostrou.
 
 ---
 
@@ -85,11 +85,11 @@ Abaixo está o **passo a passo explicado **, com a lógica, a fala prática e a 
 
 * Adiciona um **nó Switch** para detectar o tipo da mensagem.
 * Se for **texto**, o fluxo segue direto.
-* Se for **áudio**, usa o nó de **Transcrição** (pode ser o Whisper ou outro) para transformar o áudio em texto.
+* Se for **áudio**, usa o nó de **Transcriçêo** (pode ser o Whisper ou outro) para transformar o áudio em texto.
 * Depois, tudo é unificado em uma variável única chamada **text**, assim tudo funciona igual.
   Exemplo:
 
-  `  text = "Gerar fatura para João da Silva, valor 500€, sem IVA"
+  `  text = "Gerar fatura para Joêo da Silva, valor 500€, sem IVA"
   `
 
 ---
@@ -104,7 +104,7 @@ Abaixo está o **passo a passo explicado **, com a lógica, a fala prática e a 
 * A saída desse nó deve conter algo como:
 
   ```  {
-    "cliente": "João da Silva",
+    "cliente": "Joêo da Silva",
     "valor": "500",
     "iva": "0",
     "descricao": "Serviço de suporte técnico",
@@ -120,14 +120,14 @@ Abaixo está o **passo a passo explicado **, com a lógica, a fala prática e a 
 * Pede ao Gemini para gerar o **HTML completo da fatura** com base nos dados anteriores.
 * Ele cria dois modelos: um **com IVA** e outro **sem IVA**.
 * É aqui que entra o design: você pode personalizar com seu logotipo, cores e layout.
-* Atenção: todas as imagens devem ser **URLs públicas**, nada de arquivos locais.
+* Atençêo: todas as imagens devem ser **URLs públicas**, nada de arquivos locais.
 
 ---
 
 ### 6. Converter HTML em PDF
 
 * Adiciona o **nó ****PDF.co**.
-* Seleciona a ação **HTML to PDF**.
+* Seleciona a açêo **HTML to PDF**.
 * Cola o HTML vindo do Gemini e gera o arquivo PDF profissional.
 * Dá um nome dinâmico, por exemplo:
 
@@ -147,7 +147,7 @@ Abaixo está o **passo a passo explicado **, com a lógica, a fala prática e a 
   Segue em anexo a sua fatura de {{data}} no valor de {{valor}}€.
   Obrigado pela preferência.
   `
-* Observação:
+* Observaçêo:
   Desative nas opções do N8N a mensagem “enviado via N8N”, que aparece no rodapé.
 
 ---
@@ -195,7 +195,7 @@ MENSAGEM 6
 Autor: INEMA
 Data: 2025-10-08T03:49:51+00:00
 Texto:
-Passo a passo direto da automação de faturas e relatórios financeiros
+Passo a passo direto da automaçêo de faturas e relatórios financeiros
 
 1. Criar o bot no Telegram
 
@@ -225,8 +225,8 @@ Passo a passo direto da automação de faturas e relatórios financeiros
   * Nome do cliente
   * Endereço
   * Valor
-  * Descrição
-  * IVA (sim/não)
+  * Descriçêo
+  * IVA (sim/nêo)
 
 5. Gerar HTML da fatura
 
@@ -237,7 +237,7 @@ Passo a passo direto da automação de faturas e relatórios financeiros
 6. Converter HTML em PDF
 
 * Adicionar o **nó ****PDF.co**
-* Selecionar a opção **HTML to PDF**
+* Selecionar a opçêo **HTML to PDF**
 * Gerar o PDF da fatura
 
 7. Enviar e-mail ao cliente
@@ -287,7 +287,7 @@ MENSAGEM 7
 Autor: INEMA
 Data: 2025-10-08T03:49:44+00:00
 Texto:
-Passo a Passo - Visão Geral
+Passo a Passo - Visêo Geral
 
 ------------------------------
 
@@ -306,9 +306,9 @@ Texto:
 Resumo completo e estruturado 
 
 Tema central
-Criação de uma automação completa para geração de faturas e relatórios financeiros usando Telegram, N8N e Gemini, sem depender de APIs externas nem consumir tokens de IA. O foco é ajudar empresas a automatizar faturamento, reduzir custos e gerar relatórios mensais de forma profissional.
+Criaçêo de uma automaçêo completa para geraçêo de faturas e relatórios financeiros usando Telegram, N8N e Gemini, sem depender de APIs externas nem consumir tokens de IA. O foco é ajudar empresas a automatizar faturamento, reduzir custos e gerar relatórios mensais de forma profissional.
 
-1. Objetivo da automação
+1. Objetivo da automaçêo
    • Permitir que qualquer pessoa envie uma mensagem (texto ou áudio) pelo Telegram solicitando uma fatura.
    • O sistema gera automaticamente uma fatura profissional (com ou sem IVA), converte para PDF e a envia por e-mail.
    • A fatura também é armazenada automaticamente no Google Drive, organizada por mês e ano.
@@ -316,12 +316,12 @@ Criação de uma automação completa para geração de faturas e relatórios fi
 
 2. Estrutura técnica do fluxo
    • Entrada no Telegram: o usuário envia um comando de voz ou texto.
-   • Normalização: o fluxo identifica o tipo de mensagem e converte tudo em texto padronizado.
-   • Interpretação: em vez de usar uma API de IA, um nó de código transforma o texto em dados estruturados.
-   • Geração de HTML: Gemini cria o layout visual da fatura (com design e estrutura definidos).
-   • Conversão para PDF: feita com PDF.co, sem marcas d’água.
+   • Normalizaçêo: o fluxo identifica o tipo de mensagem e converte tudo em texto padronizado.
+   • Interpretaçêo: em vez de usar uma API de IA, um nó de código transforma o texto em dados estruturados.
+   • Geraçêo de HTML: Gemini cria o layout visual da fatura (com design e estrutura definidos).
+   • Conversêo para PDF: feita com PDF.co, sem marcas d’água.
    • Envio por e-mail: o sistema envia automaticamente o PDF com corpo HTML profissional.
-   • Armazenamento: o arquivo é salvo no Google Drive e os dados vão para Supabase/Sheets.
+   • Armazenamento: o arquivo é salvo no Google Drive e os dados vêo para Supabase/Sheets.
    • Relatórios financeiros: mensalmente, um trigger coleta as faturas do mês anterior, faz uma consulta SQL, agrega os dados e gera um relatório HTML analítico.
 
 3. Principais ferramentas usadas
@@ -339,25 +339,25 @@ Criação de uma automação completa para geração de faturas e relatórios fi
    • Desativar a mensagem “enviado via N8N” no Telegram.
    • Pedir com clareza à IA o que se espera de cada parte do processo, definindo o papel e o formato do output.
 
-5. Parte avançada: geração de relatório financeiro
+5. Parte avançada: geraçêo de relatório financeiro
    • O sistema roda no início de cada mês, pega os movimentos do mês anterior e gera um relatório completo.
    • Usa SQL para buscar e filtrar dados automaticamente.
    • Gemini gera o HTML do relatório, que pode ser exibido diretamente ou convertido em PDF.
    • O relatório inclui análise automática dos cinco principais indicadores e resumo visual das receitas e despesas.
 
-6. Conclusão e aprendizado
-   • A automação mostra que é possível criar fluxos potentes sem depender de APIs caras.
+6. Conclusêo e aprendizado
+   • A automaçêo mostra que é possível criar fluxos potentes sem depender de APIs caras.
    • Tudo funciona com prompts bem estruturados e nós de código dentro do N8N.
    • O segredo é aprender a pedir corretamente à IA o resultado desejado.
-   • A execução total de uma fatura leva cerca de 10 a 15 segundos, oferecendo grande economia de tempo para empresas.
+   • A execuçêo total de uma fatura leva cerca de 10 a 15 segundos, oferecendo grande economia de tempo para empresas.
 
 Exemplo de uso prático
 Um cliente envia no Telegram:
-“Gere uma fatura para João da Silva no valor de 500€, sem IVA.”
+“Gere uma fatura para Joêo da Silva no valor de 500€, sem IVA.”
 Em segundos, o sistema gera o PDF, envia por e-mail, salva no Google Drive e registra no banco de dados.
 
 Resultado
-Uma automação empresarial completa, eficiente e sem custo recorrente de APIs, capaz de gerar faturas e relatórios financeiros em segundos, 100% integrada com Telegram, N8N, Gemini e Google Drive.
+Uma automaçêo empresarial completa, eficiente e sem custo recorrente de APIs, capaz de gerar faturas e relatórios financeiros em segundos, 100% integrada com Telegram, N8N, Gemini e Google Drive.
 
 ------------------------------
 
@@ -383,31 +383,31 @@ Data: 2025-10-08T03:47:56+00:00
 Texto:
 e51 - Faturas e relatório financeiro em 1 clique
 
-Você vai aprender a montar uma automação completa que permite gerar e enviar faturas profissionais a partir de mensagens no Telegram (texto ou áudio), sem depender de agentes de IA externos nem consumir APIs. Essa solução é extremamente útil para qualquer empresa que trabalhe com faturamento recorrente, permitindo economizar tempo, reduzir erros e oferecer uma experiência mais profissional aos clientes.
+Você vai aprender a montar uma automaçêo completa que permite gerar e enviar faturas profissionais a partir de mensagens no Telegram (texto ou áudio), sem depender de agentes de IA externos nem consumir APIs. Essa soluçêo é extremamente útil para qualquer empresa que trabalhe com faturamento recorrente, permitindo economizar tempo, reduzir erros e oferecer uma experiência mais profissional aos clientes.
 
-🛠️ O que conseguimos com essa automação
+🛠️ O que conseguimos com essa automaçêo
 • Gerar faturas automaticamente a partir do Telegram, por voz ou texto.
 • Criar PDFs profissionais em segundos sem consumir APIs.
 • Enviar a fatura por e-mail com design HTML personalizado.
 • Salvar automaticamente as faturas no Google Drive, organizadas por mês e ano.
 • Adaptar facilmente o fluxo para faturas com ou sem IVA.
-• Reduzir custos a longo prazo ao não usar agentes de IA externos.
+• Reduzir custos a longo prazo ao nêo usar agentes de IA externos.
 • Aplicar o mesmo conceito a relatórios financeiros pessoais ou empresariais.
 
 🧩 Estrutura do fluxo automatizado
 **Entrada via Telegram**
-O usuário envia uma mensagem (voz ou texto) ao bot solicitando a geração de uma fatura com os dados relevantes.
+O usuário envia uma mensagem (voz ou texto) ao bot solicitando a geraçêo de uma fatura com os dados relevantes.
 
-**Recepção e normalização da entrada**
-Detecta-se se a mensagem é de voz ou texto. Ambos os tipos são normalizados para serem processados da mesma forma.
+**Recepçêo e normalizaçêo da entrada**
+Detecta-se se a mensagem é de voz ou texto. Ambos os tipos sêo normalizados para serem processados da mesma forma.
 
-**Interpretação da mensagem (sem API)**
+**Interpretaçêo da mensagem (sem API)**
 Em vez de usar um agente de IA, utiliza-se um nó de código que transforma a entrada em uma estrutura de dados limpa.
 
-**Geração de HTML personalizado**
+**Geraçêo de HTML personalizado**
 Com ajuda do Gemini, é criado um HTML profissional para a fatura, adaptado com design visual.
 
-**Conversão para PDF**
+**Conversêo para PDF**
 O HTML é convertido em PDF usando o PDF.co, sem marcas d’água nem limitações rígidas.
 
 **Envio da fatura**
@@ -416,8 +416,8 @@ O sistema envia automaticamente o e-mail ao cliente, com corpo em HTML visual e 
 **Armazenamento no Drive**
 O arquivo PDF é enviado para a pasta correspondente (exemplo: /Faturas/2025/Outubro).
 
-**Geração de relatórios financeiros (opcional)**
-Mensalmente, são extraídos os movimentos do mês anterior e criado um relatório visual e analítico.
+**Geraçêo de relatórios financeiros (opcional)**
+Mensalmente, sêo extraídos os movimentos do mês anterior e criado um relatório visual e analítico.
 
 🧰 Ferramentas utilizadas
 • N8N
@@ -432,11 +432,11 @@ Mensalmente, são extraídos os movimentos do mês anterior e criado um relatór
 • Atribuir papéis metafóricos à IA (exemplo: “você é um forno”) melhora a resposta do modelo.
 • Normalizar variáveis e nomes nos nós (como “text”) evita erros entre ramificações.
 • O design HTML da fatura ou do e-mail deve conter apenas imagens públicas (URLs), nunca arquivos locais.
-• Desative a atribuição do N8N para que o Telegram não exiba a mensagem “enviado via N8N”.
+• Desative a atribuiçêo do N8N para que o Telegram nêo exiba a mensagem “enviado via N8N”.
 
 Recursos
-• Geração de faturas
-• Geração de relatórios
+• Geraçêo de faturas
+• Geraçêo de relatórios
 
 ------------------------------
 
@@ -471,7 +471,7 @@ Texto:
 Faturas e Finanças no piloto automático 🧾🔥
 
 
-Apresento uma automação que, sinceramente, pode ser vendida para qualquer empresa que emita faturas. E não só isso… também cria relatórios financeiros mensais totalmente automáticos.
+Apresento uma automaçêo que, sinceramente, pode ser vendida para qualquer empresa que emita faturas. E nêo só isso… também cria relatórios financeiros mensais totalmente automáticos.
 
 Imagina um cliente te mandar uma mensagem no Telegram dizendo:
 – "Gera uma fatura para X no valor de 500€"
@@ -479,7 +479,7 @@ Imagina um cliente te mandar uma mensagem no Telegram dizendo:
 
 Pois é, foi exatamente isso que foi montamos. E  foi além:
 
-🔥 O que essa automação faz exatamente?
+🔥 O que essa automaçêo faz exatamente?
 ✅ Recebe mensagens no Telegram (texto ou áudio) para criar faturas.
 ✅ Interpreta o conteúdo com IA sem usar APIs externas.
 ✅ Gera HTMLs profissionais para as faturas (com ou sem IVA).
@@ -490,9 +490,9 @@ Pois é, foi exatamente isso que foi montamos. E  foi além:
 ✅ E o melhor… cria um relatório financeiro mensal visual e analítico em HTML, sem precisar mover um dedo.
 
 💡 O mais impressionante de tudo:
-Não usa agentes externos.
-Não consome tokens da OpenAI.
-Não há custos ocultos.
+Nêo usa agentes externos.
+Nêo consome tokens da OpenAI.
+Nêo há custos ocultos.
 TUDO é feito por meio de nós de código bem estruturados, e 100% do poder vem do prompt dado ao Gemini para estruturar e gerar o HTML.
 
 Você pode vender isso como serviço se for:

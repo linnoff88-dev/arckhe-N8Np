@@ -29,7 +29,7 @@ MENSAGEM 3
 Autor: D
 Data: 2025-09-01T19:26:56+00:00
 Texto:
-Tem alguma automação que extrai ?
+Tem alguma automaçêo que extrai ?
 
 ------------------------------
 
@@ -61,11 +61,11 @@ Texto:
 
 ## Outros e automações variadas
 
-* Conversão de imagens em modelos 3D com Fal AI Trellis
+* Conversêo de imagens em modelos 3D com Fal AI Trellis
 * Provador virtual de roupas (catálogo WooCommerce) automatizado por IA
 * Afinamento de modelos OpenAI do início ao fim (fine-tuning)
 * Busca web no Telegram usando MCP com Brave Search
-* Assistente personalizado com integração Google Drive e OpenAI
+* Assistente personalizado com integraçêo Google Drive e OpenAI
 
 ---
 
@@ -80,20 +80,20 @@ MENSAGEM 7
 Autor: INEMA
 Data: 2025-08-31T06:42:44+00:00
 Texto:
-Segue a lista **totalmente em português**, separada por categoria, de acordo com os workflows do criador n3witalia no n8n. Está pronta para uso em qualquer apresentação, documentação ou consulta:
+Segue a lista **totalmente em português**, separada por categoria, de acordo com os workflows do criador n3witalia no n8n. Está pronta para uso em qualquer apresentaçêo, documentaçêo ou consulta:
 
 ---
 
 ## Chatbots e agentes
 
 * Chamadas automatizadas – conecta agentes Ultravox a chamadas com Twilio
-* Chatbot de IA escalável com GPT‑4 e Pipedream (integração com Calendly/Gmail)
+* Chatbot de IA escalável com GPT‑4 e Pipedream (integraçêo com Calendly/Gmail)
 * Chatbot multiagente para sites com Flowise
 * Chatbot com backend personalizável usando Langflow
 * Agente Claude 3.7 Sonnet com busca na web (Anthropic)
 * Chatbot pós-venda para WooCommerce com GPT‑4o, RAG e Telegram
 * Chatbot para equipes no Slack com RAG, Claude 3.7 e Drive
-* Chatbot para Telegram com contexto (sessão) usando GPT‑4o-mini e Google Sheets
+* Chatbot para Telegram com contexto (sessêo) usando GPT‑4o-mini e Google Sheets
 * Assistente de compras para WooCommerce com RAG
 * Chatbot empresarial para WhatsApp com RAG e OpenAI
 * Chatbot para WhatsApp (texto, voz, imagens, PDFs) com memória de IA
@@ -101,73 +101,73 @@ Segue a lista **totalmente em português**, separada por categoria, de acordo co
 
 ---
 
-## Geração de mídia com IA
+## Geraçêo de mídia com IA
 
 * Provador virtual para WooCommerce com Fal.ai Nano Banana
-* Geração de podcasts multivozes com Google Sheets, ElevenLabs v3 e Drive
-* Geração de vídeos virais para TikTok com Veo3 Fast e Postiz
-* Geração de efeitos sonoros realistas com CassetteAI
-* Transformação de imagens em vídeos com MiniMax Hailuo 02
+* Geraçêo de podcasts multivozes com Google Sheets, ElevenLabs v3 e Drive
+* Geraçêo de vídeos virais para TikTok com Veo3 Fast e Postiz
+* Geraçêo de efeitos sonoros realistas com CassetteAI
+* Transformaçêo de imagens em vídeos com MiniMax Hailuo 02
 * Provador virtual de roupas com IA (One‑Click)
 * Podcast multivozes com vozes naturais de IA
 * Vídeo gerado por IA a partir de imagem e upload no Drive
 * Vídeos de baixo custo com Veo3 Fast
-* Criação de vídeos com Google Veo3, salvando no Drive e upload para YouTube
-* Transformação de imagens por prompts IA com FLUX Ko.text
+* Criaçêo de vídeos com Google Veo3, salvando no Drive e upload para YouTube
+* Transformaçêo de imagens por prompts IA com FLUX Ko.text
 
 ---
 
 ## Marketing e e-commerce
 
 * Posts de redes sociais otimizados a partir do WordPress com Claude & Postiz
-* Importação de produtos para WooCommerce usando Google Sheet e Yoast SEO
-* Geração de leads presenciais com Google Sheets e SuiteCRM (cupons)
-* Atribuição de cupons únicos QR-code com SuiteCRM
+* Importaçêo de produtos para WooCommerce usando Google Sheet e Yoast SEO
+* Geraçêo de leads presenciais com Google Sheets e SuiteCRM (cupons)
+* Atribuiçêo de cupons únicos QR-code com SuiteCRM
 * SEO automatizado no WooCommerce com Yoast e meta tags por IA
-* Geração automática de conteúdo para WordPress com DeepSeek R1
-* Publicação automatizada de posts SEO para WordPress com Google Sheets e IA
-* Publicação de posts WordPress em X, Facebook, LinkedIn e Instagram
-* Publicação de imagens e vídeos em múltiplas redes sociais (X, Instagram, Facebook)
+* Geraçêo automática de conteúdo para WordPress com DeepSeek R1
+* Publicaçêo automatizada de posts SEO para WordPress com Google Sheets e IA
+* Publicaçêo de posts WordPress em X, Facebook, LinkedIn e Instagram
+* Publicaçêo de imagens e vídeos em múltiplas redes sociais (X, Instagram, Facebook)
 
 ---
 
-## Automação de documentos e e-mails
+## Automaçêo de documentos e e-mails
 
-* Tradução automática de apresentações Google Slides com IA
-* Organização de anexos do Gmail em pastas do Google Drive
+* Traduçêo automática de apresentações Google Slides com IA
+* Organizaçêo de anexos do Gmail em pastas do Google Drive
 * Troca automática de rostos em GIFs com Fal.run AI e Google
-* Validação em massa de e-mails com Google Sheets e Anymail Finder
-* Geração e preenchimento automático de documentos de negócios
+* Validaçêo em massa de e-mails com Google Sheets e Anymail Finder
+* Geraçêo e preenchimento automático de documentos de negócios
 * Resumo de reuniões a partir de transcrições Fireflies por e-mail
-* Geração automática de provas a partir do Google Docs
-* Roteamento e classificação de e-mails por IA
-* Automação de e-mails empresariais (resumos, respostas automáticas)
-* Sistema de resposta de e-mails com revisão humana ("Human in the Loop")
+* Geraçêo automática de provas a partir do Google Docs
+* Roteamento e classificaçêo de e-mails por IA
+* Automaçêo de e-mails empresariais (resumos, respostas automáticas)
+* Sistema de resposta de e-mails com revisêo humana ("Human in the Loop")
 * Análise de e-mails (PDFs, imagens) e salvamento no Drive e Telegram
-* Gestão de e-mails com sumarização e revisão por IA
+* Gestêo de e-mails com sumarizaçêo e revisêo por IA
 
 ---
 
-## Integração com telefonia
+## Integraçêo com telefonia
 
 * Ligações automáticas de lembrete de reserva (restaurantes)
 * Envio de SMS via ClickSend API sem precisar de aparelho físico
 * Envio de chamadas de voz (texto para fala) via ClickSend API
-* Autenticação multifator (MFA) por voz e e-mail com ClickSend e SMTP
+* Autenticaçêo multifator (MFA) por voz e e-mail com ClickSend e SMTP
 * Agente telefônico com Retell e Google Calendar
 * Sistema de lembrete no Google Calendar com GPT‑4o e Telegram
-* Otimização automática de imagens (JPG/PNG para WebP)
+* Otimizaçêo automática de imagens (JPG/PNG para WebP)
 
 ---
 
-## SEO, análises e classificação
+## SEO, análises e classificaçêo
 
 * Análise de sentimento de comentários do YouTube com Gemini e Google Sheets
 * Sistema RAG com citações automáticas
-* Atualização contínua de sistema RAG com Google Drive, Qdrant e Gemini Chat
+* Atualizaçêo contínua de sistema RAG com Google Drive, Qdrant e Gemini Chat
 * Análise gratuita de vídeos do YouTube (resumo e alertas por e-mail)
-* Roteamento dinâmico de modelos IA para otimização de consultas (OpenRouter)
-* Orquestração de modelos baseada no tipo de entrada
+* Roteamento dinâmico de modelos IA para otimizaçêo de consultas (OpenRouter)
+* Orquestraçêo de modelos baseada no tipo de entrada
 * Agente Anthropic Claude Sonnet/Opus com busca web
 * Raspagem e análise de avaliações Trustpilot
 
@@ -199,7 +199,7 @@ Texto:
 70. AI‑Powered WhatsApp Chatbot for Text, Voice, Images & PDFs with memory – 13 nodes – [https://n8n.io/workflows/3586-ai-powered-whatsapp-chatbot-for-text-voice-images-and-pdfs-with-memory/](https://n8n.io/workflows/3586-ai-powered-whatsapp-chatbot-for-text-voice-images-and-pdfs-with-memory/)&#x20;
 71. Generate AI Videos with Google Veo3, Save to Google Drive and Upload to YouTube – 10 nodes – [https://n8n.io/workflows/4846-generate-ai-videos-with-google-veo3-save-to-google-drive-and-upload-to-youtube/](https://n8n.io/workflows/4846-generate-ai-videos-with-google-veo3-save-to-google-drive-and-upload-to-youtube/)&#x20;
 
-Estas URLs foram obtidas diretamente da lista de templates na página do criador, onde cada cartão exibe o link e a contagem de nodes; ao rolar a página com “Load more” é possível ver todos os 71 itens.
+Estas URLs foram obtidas diretamente da lista de templates na página do criador, onde cada cartêo exibe o link e a contagem de nodes; ao rolar a página com “Load more” é possível ver todos os 71 itens.
 Midia: MessageMediaWebPage
 
 ------------------------------
@@ -318,7 +318,7 @@ MENSAGEM 17
 Autor: INEMA
 Data: 2025-08-31T06:23:54+00:00
 Texto:
-Abaixo está a lista das 71 automações criadas pelo usuário **n3witalia** no n8n, com seus respectivos links e número aproximado de “nodes” (soma das etapas representadas por ícones mais o valor “+n” ao lado). Essa coleta foi feita diretamente na página do criador, avançando com o botão “Load more” quando necessário:
+Abaixo está a lista das 71 automações criadas pelo usuário **n3witalia** no n8n, com seus respectivos links e número aproximado de “nodes” (soma das etapas representadas por ícones mais o valor “+n” ao lado). Essa coleta foi feita diretamente na página do criador, avançando com o botêo “Load more” quando necessário:
 
 1. Automated Outbound Calls: connect Ultravox AI Agents to Phone Calls with Twilio – 5 nodes – [https://n8n.io/workflows/7958-automated-outbound-calls-connect-ultravox-ai-agents-to-phone-calls-with-twilio/](https://n8n.io/workflows/7958-automated-outbound-calls-connect-ultravox-ai-agents-to-phone-calls-with-twilio/)
 2. Auto‑Generate Virtual AI Try‑On Images for WooCommerce with Fal.ai Nano Banana – 10 nodes – [https://n8n.io/workflows/8022-auto-generate-virtual-ai-try-on-images-for-woocommerce-with-falai-nano-banana/](https://n8n.io/workflows/8022-auto-generate-virtual-ai-try-on-images-for-woocommerce-with-falai-nano-banana/)
@@ -362,9 +362,9 @@ conteúdo).
 68. AI Automated HR Workflow for CV Analysis and Candidate Evaluation (triagem de currículos).
 69. AI Voice Chatbot with ElevenLabs & OpenAI for Customer Service and Restaurants (atendimento por voz).
 70. AI‑Powered WhatsApp Chatbot for Text, Voice, Images & PDFs com memória (chatbot multicanal).
-71. Generate AI Videos with Google Veo3, Save to Drive and Upload to YouTube (criação de vídeos).
+71. Generate AI Videos with Google Veo3, Save to Drive and Upload to YouTube (criaçêo de vídeos).
 
-Estas automações demonstram a versatilidade do n8n para integrar inteligência artificial, APIs de terceiros (Twilio, ClickSend, Google, Fal.ai etc.) e plataformas de comunicação/marketing. Elas podem ser adaptadas e estendidas conforme a necessidade da sua empresa ou projeto.
+Estas automações demonstram a versatilidade do n8n para integrar inteligência artificial, APIs de terceiros (Twilio, ClickSend, Google, Fal.ai etc.) e plataformas de comunicaçêo/marketing. Elas podem ser adaptadas e estendidas conforme a necessidade da sua empresa ou projeto.
 
 ------------------------------
 
@@ -375,46 +375,46 @@ Texto:
 Chatbot for Websites com Flowise (chatbot multi‑agente personalizado).
 23. Automate WordPress Contact Form Responses com Gemini (respostas automáticas CF7).
 24. Convert Images to 3D Models with Fal AI Trellis (modelos 3D a partir de imagens).
-25. Automated Image Optimizer: convert JPG/PNG to WebP (otimização de imagens).
+25. Automated Image Optimizer: convert JPG/PNG to WebP (otimizaçêo de imagens).
 26. Generate multi‑speaker podcast with AI natural‑sounding voices (podcast com múltiplas vozes).
 27. AI‑Powered Auto‑Generate Exam Questions from Google Docs (provas automáticas).
 28. Send SMS via ClickSend API Worldwide sem telefone (envio de SMS sem aparelho).
 29. AI Virtual TryOn automated generation for WooCommerce catalog (catálogo de roupas).
 30. Create AI‑Powered Website Chatbot com Langflow (chatbot com backend personalizável).
-31. Unique QR‑code coupon assignment with SuiteCRM (cupons únicos para geração de leads).
-32. MFA Multi‑factor authentication with ClickSend and SMTP (autenticação MFA por voz/e‑mail).
+31. Unique QR‑code coupon assignment with SuiteCRM (cupons únicos para geraçêo de leads).
+32. MFA Multi‑factor authentication with ClickSend and SMTP (autenticaçêo MFA por voz/e‑mail).
 33. Send Voice Calls in seconds via ClickSend API (chamadas de texto‑para‑fala).
 34. Claude 3.7 Sonnet AI Chatbot Agent with Anthropic Web Search (assistente Claude com busca web).
-35. AI‑Driven WooCommerce Product Importer using Google Sheet e Yoast SEO meta (importação de produtos).
+35. AI‑Driven WooCommerce Product Importer using Google Sheet e Yoast SEO meta (importaçêo de produtos).
 36. Generate AI‑powered video from image and upload to Drive (vídeo a partir de imagem).
-37. Drive‑To‑Store Lead Generation com Google Sheets & SuiteCRM (atração de clientes com cupons).
+37. Drive‑To‑Store Lead Generation com Google Sheets & SuiteCRM (atraçêo de clientes com cupons).
 38. WooCommerce AI Post‑Sales Chatbot com GPT‑4o, RAG e Telegram (chat pós‑venda).
 39. Automated End‑to‑End Fine‑Tuning of OpenAI Models (afinamento de modelos).
 40. Dynamic AI Model Router for Query Optimization with OpenRouter (roteamento dinâmico).
 41. Build and Update RAG System with Google Drive, Qdrant & Gemini Chat (RAG e atualizações).
 42. Free YouTube Video Analyzer with AI Summaries & Email Alerts (análise gratuita de vídeos).
 43. Modular & Customizable AI‑Powered Email Routing (classificador de e‑mails para e‑commerce).
-44. AI Orchestrator: selects models based on input type (orquestração de modelos).
+44. AI Orchestrator: selects models based on input type (orquestraçêo de modelos).
 45. Automate WooCommerce SEO com Yoast & AI‑Generated Meta Tags (SEO automatizado).
 46. Anthropic AI Agent: Claude Sonnet 4/Opus 4 com Think & Web Search (assistente com pensamento e busca).
 47. Search the Web with MCP‑based Brave Search engine on Telegram (busca web via Telegram).
 48. Slack AI Chatbot for business team com RAG, Claude 3.7 e Drive (assistente no Slack).
 49. Create Low‑Cost AI Videos with Veo3 Fast (vídeos baratos).
-50. AI‑powered email processing autoresponder (respostas automáticas com aprovação).
+50. AI‑powered email processing autoresponder (respostas automáticas com aprovaçêo).
 51. Create a Session‑Based Telegram Chatbot with GPT‑4o‑mini e Google Sheets (chatbot com contexto).
 52. Scrape Trustpilot Reviews com DeepSeek e Analyze Sentiment via OpenAI (análise de avaliações).
 53. Personal Shopper Chatbot for WooCommerce with RAG (assistente de compras).
 54. AI‑Powered Email Automation for Business (resumos e respostas automáticos).
 55. Build an OpenAI Assistant with Google Drive Integration (assistente personalizado).
 56. Build an AI Powered Phone Agent with Retell & Google Calendar (agente telefônico).
-57. “Human in the Loop” Email Response System (sistema de resposta com revisão humana).
+57. “Human in the Loop” Email Response System (sistema de resposta com revisêo humana).
 58. Google Calendar Reminder System with GPT‑4o & Telegram (lembretes de calendário).
 59. AI Email Analyzer: Process PDFs, Images & Save to Drive + Telegram (análise de anexos).
 60. Build a Chatbot, Voice and Phone Agent with Voiceflow & RAG (chatbot multimodal).
-61. Publish image & video to multiple social media (X, Instagram, Facebook) (publicação multiplataforma).
-62. Effortless Email Management with AI‑Powered Summarization & Review (gestão de e‑mails).
+61. Publish image & video to multiple social media (X, Instagram, Facebook) (publicaçêo multiplataforma).
+62. Effortless Email Management with AI‑Powered Summarization & Review (gestêo de e‑mails).
 63. Build a PDF Document RAG System with Mistral OCR, Qdrant & Gemini (RAG para PDFs).
-64. Publish WordPress Posts to Social Media X, Facebook, LinkedIn, Instagram (promoção de posts).
+64. Publish WordPress Posts to Social Media X, Facebook, LinkedIn, Instagram (promoçêo de posts).
 65. Complete business WhatsApp AI‑Powered RAG Chatbot using OpenAI (chatbot empresarial para WhatsApp).
 66. Automate SEO‑Optimized WordPress Posts with AI & Google Sheets (SEO automatizado).
 67. Automate Content Generator for WordPress with DeepSeek R1 (gerador de
@@ -425,34 +425,34 @@ MENSAGEM 22
 Autor: INEMA
 Data: 2025-08-31T05:41:07+00:00
 Texto:
-A página do criador **n3witalia** no n8n contém 71 workflows públicos. Eles cobrem uma ampla gama de aplicações de automação, desde chatbots e agentes de voz até criação de conteúdo, marketing e gerenciamento de e‑commerce. Em resumo, os temas mais recorrentes são:
+A página do criador **n3witalia** no n8n contém 71 workflows públicos. Eles cobrem uma ampla gama de aplicações de automaçêo, desde chatbots e agentes de voz até criaçêo de conteúdo, marketing e gerenciamento de e‑commerce. Em resumo, os temas mais recorrentes sêo:
 
-* **Chatbots e agentes** – Criação de chatbots via GPT‑4, Claude 3.7 ou OpenAI Assistants para websites, WhatsApp, Slack e Telegram, com suporte a RAG (Retrieval‑Augmented Generation), roteamento de modelos, armazenamento no Google Drive, integração com Calendly, Google Calendar e Pipedream.
-* **Geração de mídia com IA** – Criação de vídeos virais e podcasts, vídeos a partir de imagens (Google Veo3 e MiniMax Hailuo 02), sons realistas (CassetteAI), imagens de roupas virtuais e traduções de slides. Essas automações facilitam a produção de conteúdo multimídia otimizado para plataformas como TikTok, YouTube e WooCommerce.
-* **Marketing e e‑commerce** – Automação de posts de WordPress e redes sociais (X, Instagram, Facebook, LinkedIn) com SEO e meta tags otimizadas, importação de produtos para WooCommerce com metadados Yoast, gestão de leads e campanhas (ex.: geração de cupons com QR code), além de sistemas de recomendação de produtos e chats de pós‑venda.
-* **Automação de documentos e e‑mails** – Tradução automática de apresentações, criação de documentos PDF via RAG, análise de e‑mails (resposta automática com aprovação humana opcional), gerenciamento de anexos do Gmail, validação de leads, geração de provas e resumos de reuniões.
-* **Integração com telefonia** – Agentes telefônicos que fazem chamadas de lembrete (reservas de restaurante) ou atendem clientes via voz (Retell) e enviam SMS/WhatsApp, bem como sistemas MFA de autenticação via ligação e e‑mail.
-* **SEO, análises e classificação** – Fluxos para classificar e‑mails, analisar sentimentos de comentários no YouTube e opiniões Trustpilot, geração de posts otimizados para SEO e análise de perfis de candidatos em processos seletivos.
+* **Chatbots e agentes** – Criaçêo de chatbots via GPT‑4, Claude 3.7 ou OpenAI Assistants para websites, WhatsApp, Slack e Telegram, com suporte a RAG (Retrieval‑Augmented Generation), roteamento de modelos, armazenamento no Google Drive, integraçêo com Calendly, Google Calendar e Pipedream.
+* **Geraçêo de mídia com IA** – Criaçêo de vídeos virais e podcasts, vídeos a partir de imagens (Google Veo3 e MiniMax Hailuo 02), sons realistas (CassetteAI), imagens de roupas virtuais e traduções de slides. Essas automações facilitam a produçêo de conteúdo multimídia otimizado para plataformas como TikTok, YouTube e WooCommerce.
+* **Marketing e e‑commerce** – Automaçêo de posts de WordPress e redes sociais (X, Instagram, Facebook, LinkedIn) com SEO e meta tags otimizadas, importaçêo de produtos para WooCommerce com metadados Yoast, gestêo de leads e campanhas (ex.: geraçêo de cupons com QR code), além de sistemas de recomendaçêo de produtos e chats de pós‑venda.
+* **Automaçêo de documentos e e‑mails** – Traduçêo automática de apresentações, criaçêo de documentos PDF via RAG, análise de e‑mails (resposta automática com aprovaçêo humana opcional), gerenciamento de anexos do Gmail, validaçêo de leads, geraçêo de provas e resumos de reuniões.
+* **Integraçêo com telefonia** – Agentes telefônicos que fazem chamadas de lembrete (reservas de restaurante) ou atendem clientes via voz (Retell) e enviam SMS/WhatsApp, bem como sistemas MFA de autenticaçêo via ligaçêo e e‑mail.
+* **SEO, análises e classificaçêo** – Fluxos para classificar e‑mails, analisar sentimentos de comentários no YouTube e opiniões Trustpilot, geraçêo de posts otimizados para SEO e análise de perfis de candidatos em processos seletivos.
 
 A seguir, uma lista completa (resumida) dos 71 workflows, com exemplos de uso e objetivo principal (indicados entre parênteses):
 
 1. Automated Outbound Calls – conecta agentes Ultravox a chamadas com Twilio (ligações automatizadas).
 2. Auto‑Generate Virtual AI Try‑On Images para WooCommerce com Fal.ai Nano Banana (provador virtual de produtos).
-3. Bulk Lead Email Validation com Google Sheets & Anymail Finder (validação de e‑mails em massa).
-4. Create Multi‑Speaker Podcasts usando Google Sheets, ElevenLabs v3 e Drive (geração de podcasts multivozes).
-5. AI‑Powered Auto‑Translate Google Slides Presentation (tradução automática de apresentações).
+3. Bulk Lead Email Validation com Google Sheets & Anymail Finder (validaçêo de e‑mails em massa).
+4. Create Multi‑Speaker Podcasts usando Google Sheets, ElevenLabs v3 e Drive (geraçêo de podcasts multivozes).
+5. AI‑Powered Auto‑Translate Google Slides Presentation (traduçêo automática de apresentações).
 6. Automate Face Swapping for GIFs com Fal.run AI e serviços Google (troca de rostos em GIFs).
 7. Generate Realistic Sound Effects com CassetteAI (efeitos sonoros com IA).
 8. Auto‑Generate Platform‑Optimized Social Media Posts de WordPress com Claude & Postiz (posts automatizados).
 9. Build a Self‑Updating RAG System com OpenAI, Gemini e Qdrant (RAG com atualizações contínuas).
-10. Organize Gmail Attachments in Google Drive Folders (organização de anexos por remetente).
+10. Organize Gmail Attachments in Google Drive Folders (organizaçêo de anexos por remetente).
 11. Build a Scalable AI Chatbot com GPT‑4 e Pipedream (chatbot escalável com Calendly/Gmail).
 12. YouTube Comment Sentiment Analysis com Gemini e Google Sheets (análise de sentimento).
 13. AI‑Powered Reservation Reminder Calls (ligações automáticas de lembrete de reservas).
 14. Automate Meeting Summaries from Fireflies Transcripts (resumos de reuniões por e‑mail).
 15. Generate cheap Viral AI Videos to TikTok com Veo3 Fast e Postiz (vídeos virais).
 16. Auto‑Generate & Auto‑Fill Business Documents (preenchimento automático de documentos).
-17. Automate WooCommerce Image Product Background Removal (remoção de fundo de imagens).
+17. Automate WooCommerce Image Product Background Removal (remoçêo de fundo de imagens).
 18. Build a RAG System with Automatic Citations (RAG com citações automáticas).
 19. Transform Images into AI Videos with MiniMax Hailuo 02 (vídeos a partir de imagens).
 20. AI‑Powered One‑Click Virtual Fitting Room (provador virtual com IA).

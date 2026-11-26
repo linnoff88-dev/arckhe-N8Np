@@ -45,7 +45,7 @@ MENSAGEM 5
 Autor: Taylor
 Data: 2025-04-26T22:29:02+00:00
 Texto:
-Alguma automação para converter pdf  em arquivo no word?
+Alguma automaçêo para converter pdf  em arquivo no word?
 
 ------------------------------
 
@@ -74,17 +74,17 @@ Me deparei com um problema ao configurar um agente chatbot com RAG: quando uso o
 
 Para resolver isso, estou usando **Supabase** como base de dados vetorial e **PostgreSQL** como memória, e agora funciona perfeitamente!
 
- O problema que você mencionou é comum ao configurar agentes **chatbots com RAG** no N8N. O **window buffer nativo** tende a manter informações temporárias em memória, sem necessariamente consultar a base documental, o que leva à **alucinação** das respostas.
+ O problema que você mencionou é comum ao configurar agentes **chatbots com RAG** no N8N. O **window buffer nativo** tende a manter informações temporárias em memória, sem necessariamente consultar a base documental, o que leva à **alucinaçêo** das respostas.
 
-A solução que você adotou – **Supabase para a base de dados vetorial e PostgreSQL como memória** – faz muito sentido! Isso garante que o agente consulte a base antes de responder, evitando inventar informações.
+A soluçêo que você adotou – **Supabase para a base de dados vetorial e PostgreSQL como memória** – faz muito sentido! Isso garante que o agente consulte a base antes de responder, evitando inventar informações.
 
-Aqui estão algumas boas práticas para melhorar ainda mais a configuração:  
+Aqui estêo algumas boas práticas para melhorar ainda mais a configuraçêo:  
 
-✅ **Ajuste o chunk size e overlap** – Dependendo do modelo, testar diferentes tamanhos de fragmentação de texto pode melhorar a recuperação da informação.  
+✅ **Ajuste o chunk size e overlap** – Dependendo do modelo, testar diferentes tamanhos de fragmentaçêo de texto pode melhorar a recuperaçêo da informaçêo.  
 
 ✅ **Use embeddings eficientes** – O Supabase suporta **OpenAI Embeddings**, mas outras opções como Cohere e Hugging Face podem funcionar melhor dependendo do caso.  
 
-✅ **Otimize as consultas vetoriais** – Ajuste a **distância de similaridade** (cosine, dot product, Euclidean) para melhorar a precisão na recuperação.  
+✅ **Otimize as consultas vetoriais** – Ajuste a **distância de similaridade** (cosine, dot product, Euclidean) para melhorar a precisêo na recuperaçêo.  
 
 ✅ **PostgreSQL para cache inteligente** – Você pode configurar o Postgres para armazenar temporariamente respostas frequentes, reduzindo tempo de resposta e carga na base vetorial.  
 🚀
@@ -105,7 +105,7 @@ Data: 2025-03-11T19:12:20+00:00
 Texto:
 ## **Multiagentes Ótimos no N8N**  
 
-Nesta sessão, exploramos a construção de um sistema de multiagentes no **N8N** utilizando **inteligência artificial**. Desmistificamos a ideia de um "agente definitivo" e enfatizamos a importância de estruturar um fluxo de trabalho eficiente.
+Nesta sessêo, exploramos a construçêo de um sistema de multiagentes no **N8N** utilizando **inteligência artificial**. Desmistificamos a ideia de um "agente definitivo" e enfatizamos a importância de estruturar um fluxo de trabalho eficiente.
 
 ---
 
@@ -127,12 +127,12 @@ Nesta sessão, exploramos a construção de um sistema de multiagentes no **N8N*
 
 ### **Desenvolvimento no N8N**  
 
-### **1. Recepção de Mensagens e Processamento**  
+### **1. Recepçêo de Mensagens e Processamento**  
 - Utiliza um **Telegram Trigger** para capturar mensagens.  
-- Configura um **Switch** para categorizar a informação recebida (**texto, áudio ou documentos**).  
+- Configura um **Switch** para categorizar a informaçêo recebida (**texto, áudio ou documentos**).  
 - Unifica as entradas com **Merge**, combinando dados de diferentes fontes.  
 
-### **2. Configuração dos Subagentes**  
+### **2. Configuraçêo dos Subagentes**  
 
 📅 **Calendário:**  
 ✔ Busca contatos no Google Contacts.  
@@ -145,27 +145,27 @@ Nesta sessão, exploramos a construção de um sistema de multiagentes no **N8N*
 ✔ Para estruturas mais complexas, utiliza **reconhecimento de imagem com OpenAI Vision**.  
 
 📩 **E-mails:**  
-✔ Gerencia etiquetas, envio, respostas e organização no Gmail.  
+✔ Gerencia etiquetas, envio, respostas e organizaçêo no Gmail.  
 
 📞 **Chamadas Automatizadas (Retell AI):**  
 ✔ Normaliza números de telefone de acordo com o país.  
 ✔ Gera instruções detalhadas para o **Retell AI**.  
-✔ Realiza chamadas e monitora seu status com **loops de verificação no N8N**.  
+✔ Realiza chamadas e monitora seu status com **loops de verificaçêo no N8N**.  
 
 📌 **Veja ESTE VÍDEO para aprender a construir o assistente do Retell AI!**  
 
 ---
 
-### **Implementação de Inteligência Artificial**  
+### **Implementaçêo de Inteligência Artificial**  
 
-🔹 **Coordenação do Agente Principal:**  
-- Define o contexto e as regras de interação.  
+🔹 **Coordenaçêo do Agente Principal:**  
+- Define o contexto e as regras de interaçêo.  
 - Direciona tarefas para os subagentes corretos.  
 
-🔹 **Otimização de Processos:**  
+🔹 **Otimizaçêo de Processos:**  
 - Utiliza **estruturas JSON** para organizar respostas.  
 - Configura **prompts precisos** para cada agente.  
-- Implementa **ferramentas de IA** para melhorar a extração de dados.  
+- Implementa **ferramentas de IA** para melhorar a extraçêo de dados.  
 
 ---
 
@@ -176,7 +176,7 @@ Nesta sessão, exploramos a construção de um sistema de multiagentes no **N8N*
 ✅ **Assistente de E-mails**  
 ✅ **Assistente de Chamadas**  
 
-Essa estrutura transforma seu **N8N** em um **orquestrador poderoso** de tarefas automatizadas, otimizando seu fluxo de trabalho e tornando sua automação muito mais eficiente! 🚀
+Essa estrutura transforma seu **N8N** em um **orquestrador poderoso** de tarefas automatizadas, otimizando seu fluxo de trabalho e tornando sua automaçêo muito mais eficiente! 🚀
 
 ------------------------------
 
@@ -194,9 +194,9 @@ Data: 2025-03-11T19:11:33+00:00
 Texto:
 ## Multiagentes Ótimos no N8N 🔥
 
-Se vocês já se perderam tentando montar um sistema de multiagentes no N8N e acabaram com um caos absoluto de fluxos desconectados, essa automação é para vocês! 🔥  
+Se vocês já se perderam tentando montar um sistema de multiagentes no N8N e acabaram com um caos absoluto de fluxos desconectados, essa automaçêo é para vocês! 🔥  
 
-Neste novo cenário, vamos ensinar como estruturar corretamente um sistema de multiagentes para que cada um cumpra sua função sem interferências. A estratégia é baseada em um **agente principal**, que age como CEO e distribui tarefas para diferentes agentes especializados:  
+Neste novo cenário, vamos ensinar como estruturar corretamente um sistema de multiagentes para que cada um cumpra sua funçêo sem interferências. A estratégia é baseada em um **agente principal**, que age como CEO e distribui tarefas para diferentes agentes especializados:  
 
 🧠 **Agente Principal** – Coordena todo o sistema, recebe solicitações e decide qual agente deve executá-las.  
 

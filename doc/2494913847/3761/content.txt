@@ -30,9 +30,9 @@ MENSAGEM 3
 Autor: INEMA
 Data: 2025-03-25T01:06:17+00:00
 Texto:
-**Extração de Documentos com OCR da Mistral 📚**  
+**Extraçêo de Documentos com OCR da Mistral 📚**  
 
-O OCR garante uma extração de texto confiável de faturas, procedimentos operacionais padrão (SOPs) e outros documentos, mesmo quando contêm digitalizações ou anotações manuscritas.o 
+O OCR garante uma extraçêo de texto confiável de faturas, procedimentos operacionais padrêo (SOPs) e outros documentos, mesmo quando contêm digitalizações ou anotações manuscritas.o 
 
 Como configurar um sistema que automatiza esse processo para um gerenciamento de dados contínuo.
 

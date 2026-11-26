@@ -25,16 +25,16 @@ e55. Chatbot Pro com Banco de Dados Real
 
 
 Construir um chatbot profissional e escalável, capaz de manter conversas reais com usuários e armazenar todas as informações em um banco de dados relacional (Supabase).
-O objetivo é criar um sistema pronto para produção, não apenas um protótipo: um chatbot que funcione como um nutricionista digital (ou qualquer outro especialista) e que aprenda e atue com base em dados personalizados de cada cliente.
+O objetivo é criar um sistema pronto para produçêo, nêo apenas um protótipo: um chatbot que funcione como um nutricionista digital (ou qualquer outro especialista) e que aprenda e atue com base em dados personalizados de cada cliente.
 
-🛠️ O que conseguimos com essa automação:
+🛠️ O que conseguimos com essa automaçêo:
 
 * Criar um chatbot inteligente com memória persistente para cada usuário.
 * Registrar e atualizar todos os dados (perfil, objetivos, refeições, histórico) em tabelas SQL interconectadas.
 * Automatizar mensagens diárias, semanais e mensais com IA.
-* Simular comportamento humano no WhatsApp (leitura, pausas, encerramento de sessão).
-* Reduzir ao mínimo o consumo de tokens graças à conexão direta com o banco de dados.
-* Ter uma estrutura reutilizável para qualquer negócio (nutrição, fitness, educação, consultoria...).
+* Simular comportamento humano no WhatsApp (leitura, pausas, encerramento de sessêo).
+* Reduzir ao mínimo o consumo de tokens graças à conexêo direta com o banco de dados.
+* Ter uma estrutura reutilizável para qualquer negócio (nutriçêo, fitness, educaçêo, consultoria...).
 
 🧩 Estrutura do fluxo automatizado
 
@@ -45,11 +45,11 @@ O objetivo é criar um sistema pronto para produção, não apenas um protótipo
 * Envia o conteúdo ao agente principal de IA (Gemini ou GPT) junto com o contexto e dados anteriores.
 * Retorna a resposta formatada e limpa para o WhatsApp.
 
-**Agente principal (Onboarding + Conversação)**
+**Agente principal (Onboarding + Conversaçêo)**
 
 * Realiza um processo completo de onboarding (nome, idade, altura, alergias, objetivos, hábitos...).
 * Armazena e atualiza os dados do cliente com consultas SQL dinâmicas geradas pela IA.
-* Controla o tom, as mensagens e a personalização conforme o estado do usuário (novo, ativo, pausado...).
+* Controla o tom, as mensagens e a personalizaçêo conforme o estado do usuário (novo, ativo, pausado...).
 
 **Subagente SQL Query**
 
@@ -61,7 +61,7 @@ O objetivo é criar um sistema pronto para produção, não apenas um protótipo
 
 * **Diário:** envia uma mensagem com lembrete ou plano do dia.
 * **Semanal:** solicita métricas e atualiza o progresso.
-* **Mensal:** gera um relatório em HTML com a evolução e envia ao usuário (via WhatsApp ou e-mail).
+* **Mensal:** gera um relatório em HTML com a evoluçêo e envia ao usuário (via WhatsApp ou e-mail).
 
 **Banco de dados relacional (Supabase)**
 
@@ -70,19 +70,19 @@ O objetivo é criar um sistema pronto para produção, não apenas um protótipo
 
 🧰 Ferramentas utilizadas
 
-* N8N (motor de automação).
+* N8N (motor de automaçêo).
 * Supabase (banco de dados relacional).
 * Gemini 2.5 Flash / GPT 4.1 (IA conversacional e geradora de SQL).
-* Evolution API (integração com WhatsApp).
-* PostgreSQL Query (execução direta de SQL).
+* Evolution API (integraçêo com WhatsApp).
+* PostgreSQL Query (execuçêo direta de SQL).
 * Make / Lovable (para front-ends ou dashboards, opcional).
 
 🧠 Dicas essenciais aprendidas
 
-* Armazenar a memória no banco de dados, não dentro do prompt.
-* Sempre simular comportamentos humanos no WhatsApp (ler, pausar, encerrar sessão).
+* Armazenar a memória no banco de dados, nêo dentro do prompt.
+* Sempre simular comportamentos humanos no WhatsApp (ler, pausar, encerrar sessêo).
 * Estruturar o sistema com subagentes especializados (IA principal + IA SQL).
-* Usar prompts claros: uma ação por execução.
+* Usar prompts claros: uma açêo por execuçêo.
 * Implementar tabelas relacionadas para evitar duplicidades e escalar para centenas de usuários.
 * Se você trabalha em outro setor (fitness, coaching, consultoria...), basta adaptar o conteúdo das tabelas.
 
@@ -109,8 +109,8 @@ Data: 2025-10-24T22:12:27+00:00
 Texto:
 Arquitetura do Chatbot mais Profissional 🚀
 
-O que foi criado aqui é uma verdadeira obra-prima de automação real.
-Um chatbot com memória, banco de dados relacional e comportamento humano, projetado para escalar e entrar em produção.
+O que foi criado aqui é uma verdadeira obra-prima de automaçêo real.
+Um chatbot com memória, banco de dados relacional e comportamento humano, projetado para escalar e entrar em produçêo.
 
 🔥 O que você vai aprender nesta aula insana:
 
@@ -118,8 +118,8 @@ Um chatbot com memória, banco de dados relacional e comportamento humano, proje
 * Como conectar N8N + Supabase + Gemini ou GPT para que a IA crie e execute automaticamente consultas SQL.
 * Como fazer com que seu bot fale pelo WhatsApp, entenda texto, áudios e imagens e responda com empatia humana.
 * Como desenhar fluxos diários, semanais e mensais que acompanhem o cliente com planos personalizados e relatórios automáticos.
-* Como simular um comportamento humano real (ler mensagens, pausar, encerrar sessão) para evitar bloqueios e parecer 100% orgânico.
-* E o melhor... como transformar esse sistema em um produto vendável e adaptável a qualquer setor: nutrição, fitness, educação, consultoria, SaaS… 💥
+* Como simular um comportamento humano real (ler mensagens, pausar, encerrar sessêo) para evitar bloqueios e parecer 100% orgânico.
+* E o melhor... como transformar esse sistema em um produto vendável e adaptável a qualquer setor: nutriçêo, fitness, educaçêo, consultoria, SaaS… 💥
 
 ------------------------------
 

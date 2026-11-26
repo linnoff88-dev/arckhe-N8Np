@@ -47,13 +47,13 @@ MENSAGEM 5
 Autor: INEMA
 Data: 2025-06-21T04:09:49+00:00
 Texto:
-Aqui estão **hacks e dicas úteis** para otimizar seu uso do n8n com agentes de IA rodando localmente via Docker, com base no conteúdo apresentado:
+Aqui estêo **hacks e dicas úteis** para otimizar seu uso do n8n com agentes de IA rodando localmente via Docker, com base no conteúdo apresentado:
 
 ---
 
 **1. Pré-carregue modelos de IA localmente**
 
-* Use o `Ollama` com modelos como **LLaMA**, **Mistral**, **Gemma** ou **LLaVA** localmente para não depender de API externas.
+* Use o `Ollama` com modelos como **LLaMA**, **Mistral**, **Gemma** ou **LLaVA** localmente para nêo depender de API externas.
 * Edite o `docker-compose.yml` e troque a imagem do modelo por outra compatível.
 * Exemplo: substitua `ollama run llama2` por `ollama run mistral`.
 
@@ -61,7 +61,7 @@ Aqui estão **hacks e dicas úteis** para otimizar seu uso do n8n com agentes de
 
 **2. Use o volume para persistir credenciais e workflows**
 
-* Toda configuração feita no n8n (usuários, credenciais, workflows) será salva no **volume docker**.
+* Toda configuraçêo feita no n8n (usuários, credenciais, workflows) será salva no **volume docker**.
 * Hack: faça backup apenas da pasta de volumes para restaurar ou migrar o ambiente facilmente.
 
 ---
@@ -78,7 +78,7 @@ Aqui estão **hacks e dicas úteis** para otimizar seu uso do n8n com agentes de
 
 **4. Conecte n8n com Ollama sem criar credencial**
 
-* Como o modelo já está rodando localmente dentro do container, você pode apontar diretamente para `http://ollama:11434` sem configurar autenticação externa.
+* Como o modelo já está rodando localmente dentro do container, você pode apontar diretamente para `http://ollama:11434` sem configurar autenticaçêo externa.
 
 ---
 
@@ -114,14 +114,14 @@ Aqui estão **hacks e dicas úteis** para otimizar seu uso do n8n com agentes de
 
 **8. Configure múltiplos ambientes com `docker-compose.override.yml`**
 
-* Crie variações do ambiente (produção, teste, desenvolvimento) sem mexer no arquivo principal.
+* Crie variações do ambiente (produçêo, teste, desenvolvimento) sem mexer no arquivo principal.
 * Ideal para separar fluxos com dados sensíveis ou testes.
 
 ---
 
 **9. Use `n8n import` para carregar múltiplos workflows automaticamente**
 
-* O starter kit já usa isso, mas você pode adicionar novos arquivos `.json` em uma pasta e eles serão carregados no boot.
+* O starter kit já usa isso, mas você pode adicionar novos arquivos `.json` em uma pasta e eles serêo carregados no boot.
 
 ---
 
@@ -156,7 +156,7 @@ Segue o **passo a passo completo** para rodar agentes de IA no n8n localmente e 
 **1. Instalar o Docker Desktop:**
 
 * Acesse: [https://www.docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop)
-* Baixe e instale a versão compatível com seu sistema (Windows, Mac ou Linux).
+* Baixe e instale a versêo compatível com seu sistema (Windows, Mac ou Linux).
 * Reinicie o computador, se necessário.
 
 ---
@@ -165,13 +165,13 @@ Segue o **passo a passo completo** para rodar agentes de IA no n8n localmente e 
 
 * Acesse o GitHub do *Self-Hosted AI Starter Kit*.
 
-* Copie o comando de instalação correspondente ao seu sistema:
+* Copie o comando de instalaçêo correspondente ao seu sistema:
 
   * Windows com GPU Nvidia:
 
     ```    bash <(curl -sSL setup.oriondesign.art.br)
     ```
-  * Outros comandos estão disponíveis no repositório para AMD/Linux/Mac.
+  * Outros comandos estêo disponíveis no repositório para AMD/Linux/Mac.
 
 * No terminal (como administrador):
 
@@ -196,15 +196,15 @@ Segue o **passo a passo completo** para rodar agentes de IA no n8n localmente e 
 
 ```docker compose --profile gpu-nvidia up```
 
-(Substitua `gpu-nvidia` conforme sua configuração: `gpu-amd`, `cpu`, etc.)
+(Substitua `gpu-nvidia` conforme sua configuraçêo: `gpu-amd`, `cpu`, etc.)
 
 ---
 
-**5. Aguardar a criação dos containers:**
+**5. Aguardar a criaçêo dos containers:**
 
 * Docker criará e iniciará os seguintes serviços:
 
-  * `n8n` (automação)
+  * `n8n` (automaçêo)
   * `Postgres` (banco de dados)
   * `Ollama` (modelo de IA local)
   * `Quadrant` (serviço auxiliar)
@@ -235,7 +235,7 @@ Segue o **passo a passo completo** para rodar agentes de IA no n8n localmente e 
 **
 * No Docker Desktop:
 
-  * Vá na aba C**ontainers:** veja os serviços em execução.
+  * Vá na aba C**ontainers:** veja os serviços em execuçêo.
   * Vá na aba I**mages:** veja os pacotes baixados (n8n, postgres, etc.).
   * Vá na aba V**olumes:** onde os dados persistem entre reinicializações.
 
@@ -264,7 +264,7 @@ Segue o **passo a passo completo** para rodar agentes de IA no n8n localmente e 
    ``` docker compose up
   
 ```
-Todos os dados (workflows, credenciais) serão mantidos, pois estão salvos nos volumes.
+Todos os dados (workflows, credenciais) serêo mantidos, pois estêo salvos nos volumes.
 Midia: MessageMediaWebPage
 
 ------------------------------
@@ -283,15 +283,15 @@ Data: 2025-06-21T04:07:23+00:00
 Texto:
 Resumo completo:
 
-O conteúdo ensina como executar agentes de IA no *n8n* de forma totalmente gratuita, utilizando um kit inicial de código aberto com Docker. O processo é simplificado e acessível mesmo para quem não tem conhecimento técnico avançado.
+O conteúdo ensina como executar agentes de IA no *n8n* de forma totalmente gratuita, utilizando um kit inicial de código aberto com Docker. O processo é simplificado e acessível mesmo para quem nêo tem conhecimento técnico avançado.
 
 **Passo a passo abordado:**
 
 1. **Pré-requisitos:**
 
-   * Instalação do Docker Desktop no sistema (Windows, Mac ou Linux).
+   * Instalaçêo do Docker Desktop no sistema (Windows, Mac ou Linux).
 
-2. **Instalação do kit:**
+2. **Instalaçêo do kit:**
 
    * Clonar o repositório chamado *self-hosted AI starter kit* via terminal.
    * Entrar na pasta do projeto (`cd`) e rodar o comando `docker compose` correspondente ao seu sistema (Nvidia, AMD, Mac, etc.).
@@ -299,9 +299,9 @@ O conteúdo ensina como executar agentes de IA no *n8n* de forma totalmente grat
 
 3. **Conceitos explicados:**
 
-   * **Imagens:** São como pacotes de software prontos para uso (ex: Postgres, n8n).
-   * **Containers:** São instâncias dessas imagens rodando juntas.
-   * **Volumes:** Guardam dados persistentes (como credenciais e workflows) para não serem perdidos ao reiniciar o container.
+   * **Imagens:** Sêo como pacotes de software prontos para uso (ex: Postgres, n8n).
+   * **Containers:** Sêo instâncias dessas imagens rodando juntas.
+   * **Volumes:** Guardam dados persistentes (como credenciais e workflows) para nêo serem perdidos ao reiniciar o container.
 
 4. **Vantagens e desvantagens do uso local:**
 
@@ -309,22 +309,22 @@ O conteúdo ensina como executar agentes de IA no *n8n* de forma totalmente grat
 
      * Uso ilimitado e gratuito.
      * Total controle dos dados.
-     * Maior personalização.
+     * Maior personalizaçêo.
    * **Desvantagens:**
 
      * Requer gerenciamento do próprio hardware.
-     * Demanda atenção à segurança e manutenção.
+     * Demanda atençêo à segurança e manutençêo.
      * Curva de aprendizado para iniciantes.
 
-5. **Configuração no Docker:**
+5. **Configuraçêo no Docker:**
 
-   * Explicação da interface do Docker: containers, imagens e volumes.
+   * Explicaçêo da interface do Docker: containers, imagens e volumes.
    * Como verificar o arquivo `docker-compose.yml` para ver configurações, variáveis de ambiente e serviços.
-   * Demonstração do acesso ao n8n local via `localhost:5678`.
+   * Demonstraçêo do acesso ao n8n local via `localhost:5678`.
 
-6. **Execução do modelo IA local:**
+6. **Execuçêo do modelo IA local:**
 
-   * Já vem com um workflow de demonstração importado.
+   * Já vem com um workflow de demonstraçêo importado.
    * A imagem do modelo `LLaMA` já está configurada.
    * O modelo responde localmente às interações com IA.
 
@@ -333,7 +333,7 @@ O conteúdo ensina como executar agentes de IA no *n8n* de forma totalmente grat
 * A IA responde via n8n com um modelo rodando localmente: "Como posso ajudar hoje?"
 * Ao desligar o container, o acesso local é perdido; ao religar, o ambiente volta com todos os dados preservados.
 
-**Conclusão:**
+**Conclusêo:**
 
 * O processo mostra que é possível rodar agentes de IA localmente com controle, segurança e sem custo, desde que o ambiente seja corretamente configurado com Docker e o starter kit.
 

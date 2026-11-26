@@ -13,7 +13,7 @@ MENSAGEM 1
 Autor: Totty
 Data: 2025-07-13T03:07:20+00:00
 Texto:
-@INEMAtds muito bom mesmo esse fluxo. O que me deixou intrigado é que não consigo contabilizar quando é o node Information Extractor. Caso tenha alguma informação, agradeço!
+@INEMAtds muito bom mesmo esse fluxo. O que me deixou intrigado é que nêo consigo contabilizar quando é o node Information Extractor. Caso tenha alguma informaçêo, agradeço!
 
 ------------------------------
 
@@ -51,20 +51,20 @@ Aqui está um resumo organizado em tópicos do vídeo **"How I Auto Track AI Age
 
   * Rastrear ações do agente
   * Monitorar uso de tokens
-  * Calcular custo por execução
+  * Calcular custo por execuçêo
   * Registrar logs de sucesso e erro
 
-**3. Demonstração do agente**
+**3. Demonstraçêo do agente**
 
-* Agente recebe instrução via Telegram (ex: enviar e-mail para Michael Scott).
+* Agente recebe instruçêo via Telegram (ex: enviar e-mail para Michael Scott).
 * Usa modelo GPT-4.1-mini via OpenRouter.
 * Executa ações: obter contato, enviar e-mail, registrar no log.
 
-**4. Visualização dos logs**
+**4. Visualizaçêo dos logs**
 
 * Campos registrados:
 
-  * Timestamp da execução
+  * Timestamp da execuçêo
   * Nome do fluxo
   * Entrada e saída do agente
   * Ações executadas (ex: “get\_contact”, “send\_email”)
@@ -81,10 +81,10 @@ Aqui está um resumo organizado em tópicos do vídeo **"How I Auto Track AI Age
 
 **6. Recurso “intermediate steps”**
 
-* Ativar opção no agente: **Return intermediate steps**
+* Ativar opçêo no agente: **Return intermediate steps**
 * Permite visualizar todas as etapas, ferramentas e parâmetros usados.
 
-**7. Configuração de ramificação de erro**
+**7. Configuraçêo de ramificaçêo de erro**
 
 * Em vez de “Stop workflow on error”, usar “Continue on error”
 * Cria dois caminhos: sucesso e erro → melhora controle do fluxo
@@ -106,28 +106,28 @@ Aqui está um resumo organizado em tópicos do vídeo **"How I Auto Track AI Age
   * Entrada (do Telegram)
   * Saída (resposta do agente)
   * Ações (steps) formatadas com `JSON.stringify`
-  * Tokens e custos por ação
-  * Custo total da execução
+  * Tokens e custos por açêo
+  * Custo total da execuçêo
 
 **10. Análise no Google Sheets**
 
-* Permite criação de gráficos e análises por fluxo e período
+* Permite criaçêo de gráficos e análises por fluxo e período
 * Ex: comparar custo total de diferentes fluxos no mês
 
 **11. Tratamento de falhas silenciosas**
 
 * Algumas falhas ocorrem sem erro no agente (ex: e-mail sem credencial válida)
-* Ainda assim, o log é feito com as ações e o custo da execução
+* Ainda assim, o log é feito com as ações e o custo da execuçêo
 
 **12. Como obter o template**
 
   * JSON do workflow do n8n
-  * Template do Google Sheets com campos prontos para conexão
+  * Template do Google Sheets com campos prontos para conexêo
 
-**13. Conclusão**
+**13. Conclusêo**
 
-* Embora não seja visualmente impressionante, o sistema de observabilidade é essencial.
-* Ajuda a evoluir e manter controle sobre agentes de IA em produção.
+* Embora nêo seja visualmente impressionante, o sistema de observabilidade é essencial.
+* Ajuda a evoluir e manter controle sobre agentes de IA em produçêo.
 
 ------------------------------
 
@@ -147,7 +147,7 @@ Como monitorar automaticamente as ações de agentes de IA e o uso de tokens (tu
 
 Quer ter mais visibilidade nos seus fluxos de trabalho com IA no n8n?
 
-Como rastrear as ações que seu agente realiza, registrar as saídas, monitorar o uso de tokens e calcular o custo de cada execução. Esse tipo de observabilidade é essencial ao trabalhar com agentes de IA, especialmente para identificar alucinações e controlar custos, permitindo iterar continuamente no prompt do sistema.
+Como rastrear as ações que seu agente realiza, registrar as saídas, monitorar o uso de tokens e calcular o custo de cada execuçêo. Esse tipo de observabilidade é essencial ao trabalhar com agentes de IA, especialmente para identificar alucinações e controlar custos, permitindo iterar continuamente no prompt do sistema.
 
 Se você está construindo sistemas com agentes no n8n, isso vai te ajudar a manter o controle.
 

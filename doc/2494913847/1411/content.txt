@@ -46,7 +46,7 @@ MENSAGEM 5
 Autor: Willian
 Data: 2025-03-16T14:26:09+00:00
 Texto:
-Da pra fazer essa automação sem depender do make, direto pelo n8n e demais ferramentas? Alguém já testou?
+Da pra fazer essa automaçêo sem depender do make, direto pelo n8n e demais ferramentas? Alguém já testou?
 
 ------------------------------
 
@@ -97,13 +97,13 @@ MENSAGEM 11
 Autor: INEMA
 Data: 2025-02-11T03:47:50+00:00
 Texto:
-Como vender uma automação baseada em **scraping de sites + chatbot de IA** por **$997/mês**. Aqui está um resumo estruturado do conteúdo:   
+Como vender uma automaçêo baseada em **scraping de sites + chatbot de IA** por **$997/mês**. Aqui está um resumo estruturado do conteúdo:   
  
 --- 
  
-### **💰 Automação que você pode vender por $997/mês**   
+### **💰 Automaçêo que você pode vender por $997/mês**   
  
-#### **O que essa automação faz?**   
+#### **O que essa automaçêo faz?**   
 ✅ Raspa e armazena o conteúdo de um site inteiro automaticamente.   
 ✅ Constrói um **chatbot de IA** que responde perguntas sobre esse site.   
 ✅ Embeda o chatbot em qualquer página da web.   
@@ -113,16 +113,16 @@ Como vender uma automação baseada em **scraping de sites + chatbot de IA** por
 --- 
  
 ### **🛠️ Ferramentas utilizadas**   
-💎 **n8n** - Plataforma de automação open-source.   
-🔮 **Make** - Automação visual e scraping de dados.   
+💎 **n8n** - Plataforma de automaçêo open-source.   
+🔮 **Make** - Automaçêo visual e scraping de dados.   
 🌲 **Pinecone** - Banco de dados vetorial para IA.   
 👾 **Apify** - Web scraping profissional.   
-📊 **Airtable** - Gestão dos sites extraídos.   
+📊 **Airtable** - Gestêo dos sites extraídos.   
 📂 **Google Drive** - Armazena os dados raspados.   
  
 --- 
  
-### **📌 Passo a passo da construção da automação**   
+### **📌 Passo a passo da construçêo da automaçêo**   
 1️⃣ **Raspagem de dados do site**   
    - Insira o URL no **Airtable** ou **Google Sheets**.   
    - Use **Apify** para extrair o conteúdo de todas as páginas.   
@@ -132,12 +132,12 @@ Como vender uma automação baseada em **scraping de sites + chatbot de IA** por
    - Envie os textos para um **banco vetorial Pinecone**.   
    - Transforme as informações em conhecimento consultável.   
  
-3️⃣ **Criação do chatbot de IA**   
+3️⃣ **Criaçêo do chatbot de IA**   
    - Configure um agente de IA no **n8n**.   
    - Use **OpenAI** para processamento de linguagem.   
    - Configure **memória e contexto** para respostas inteligentes.   
  
-4️⃣ **Integração do chatbot com websites**   
+4️⃣ **Integraçêo do chatbot com websites**   
    - Gere um link público para o chatbot.   
    - Embeda facilmente em qualquer site.   
    - Personalize a aparência e funcionalidade.   
@@ -151,11 +151,11 @@ Como vender uma automação baseada em **scraping de sites + chatbot de IA** por
    - Envie um e-mail curto e direto para o dono da empresa:   
      👉 "Ei, fiz isso para seu site, veja como funciona!"   
    - Demonstre valor **antes de pedir dinheiro**.   
-   - Feche contratos de **$997/mês** para manutenção e melhorias.   
+   - Feche contratos de **$997/mês** para manutençêo e melhorias.   
  
 --- 
  
-### **📈 Por que essa automação vale $997/mês?**   
+### **📈 Por que essa automaçêo vale $997/mês?**   
 🚀 **Baixo custo para rodar** (uso grátis inicial do Make, Apify e Pinecone).   
 🚀 **Alto valor percebido** (empresas pagam caro por chatbots customizados).   
 🚀 **Lead magnet poderoso** (gera curiosidade e engajamento).   

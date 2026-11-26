@@ -21,7 +21,7 @@ MENSAGEM 2
 Autor: Vinicius Muhammad
 Data: 2025-06-19T18:16:02+00:00
 Texto:
-EU CONSIGO FAZER UM VIDEO DE 5 MIN COM ESSA AUTOMAÇÃO?
+EU CONSIGO FAZER UM VIDEO DE 5 MIN COM ESSA AUTOMAÇêO?
 
 ------------------------------
 
@@ -29,7 +29,7 @@ MENSAGEM 3
 Autor: INEMA
 Data: 2025-06-14T00:22:00+00:00
 Texto:
-Aqui estão os **hacks, truques e dicas práticas** que o criador compartilha ao longo do vídeo:
+Aqui estêo os **hacks, truques e dicas práticas** que o criador compartilha ao longo do vídeo:
 
 ---
 
@@ -42,9 +42,9 @@ Aqui estão os **hacks, truques e dicas práticas** que o criador compartilha ao
 
 ---
 
-#### 2. **Evitar Erros com "Desativação" de Nós Pesados**
+#### 2. **Evitar Erros com "Desativaçêo" de Nós Pesados**
 
-* **Hack**: Desativa nós que geram imagens (como o GPT-Image-1), pois são arquivos grandes e podem quebrar a execução ou sobrecarregar.
+* **Hack**: Desativa nós que geram imagens (como o GPT-Image-1), pois sêo arquivos grandes e podem quebrar a execuçêo ou sobrecarregar.
 * **Dica**: Em vez disso, pinne ou teste apenas os nós finais.
 
 ---
@@ -56,15 +56,15 @@ Aqui estão os **hacks, truques e dicas práticas** que o criador compartilha ao
 
 ---
 
-#### 4. **Sincronização Precisa Áudio-Vídeo**
+#### 4. **Sincronizaçêo Precisa Áudio-Vídeo**
 
 * **Hack matemático**:
 
   * Velocidade do vídeo é calculada com a fórmula:
 
-    ```    velocidade = (duração do áudio em ms / 5000) * 100
+    ```    velocidade = (duraçêo do áudio em ms / 5000) * 100
     ```
-  * Isso sincroniza a duração do vídeo (que tem apenas 5s) com o tempo real do áudio gerado.
+  * Isso sincroniza a duraçêo do vídeo (que tem apenas 5s) com o tempo real do áudio gerado.
 
 ---
 
@@ -78,14 +78,14 @@ Aqui estão os **hacks, truques e dicas práticas** que o criador compartilha ao
 #### 6. U**so de Template JSON Pronto no Creatomate
 **
 * H**ack:** Compartilha um template JSON já pronto com as faixas de vídeo e áudio organizadas.
-* B**enefício:** Poupa tempo de montagem e permite edição visual ou via API rapidamente.
+* B**enefício:** Poupa tempo de montagem e permite ediçêo visual ou via API rapidamente.
 
 ---
 
 #### 7. U**so do `Split Out` e `Aggregate` para Modularizar o Fluxo
 **
 * H**ack:** Divide o JSON com cenas usando S`plit,` depois reagrupa com A`ggregate.`
-* V**antagem:** Permite controle fino e edição modular, cena por cena.
+* V**antagem:** Permite controle fino e ediçêo modular, cena por cena.
 
 ---
 
@@ -95,7 +95,7 @@ Aqui estão os **hacks, truques e dicas práticas** que o criador compartilha ao
 
 ---
 
-#### 9. G**eração de Voz com ID Customizado
+#### 9. G**eraçêo de Voz com ID Customizado
 **
 * H**ack:** Testa diferentes vozes e salva o V**oice ID **favorito para reusar, garantindo identidade de marca (voz constante).
 
@@ -103,7 +103,7 @@ Aqui estão os **hacks, truques e dicas práticas** que o criador compartilha ao
 
 #### 10. T**este com Linhas "Pending" no Google Sheets
 **
-* D**ica:** Trabalha com uma planilha Google que controla os fluxos com status p`ending `e c`ompleted,` permitindo automação contínua e confiável.
+* D**ica:** Trabalha com uma planilha Google que controla os fluxos com status p`ending `e c`ompleted,` permitindo automaçêo contínua e confiável.
 
 ------------------------------
 
@@ -120,15 +120,15 @@ Segue o **passo a passo completo** do sistema automatizado para gerar **vídeos 
 #### **1. Gatilho Inicial**
 
 * **Ferramenta**: `n8n`
-* **Nó**: Trigger manual ou agendado (ex: diário às 1h da manhã)
-* **Função**: Inicia o fluxo automaticamente
+* **Nó**: Trigger manual ou agendado (ex: diário às 1h da manhê)
+* **Funçêo**: Inicia o fluxo automaticamente
 
 ---
 
 #### **2. Buscar Dados no Google Sheets**
 
 * **Nó**: `Google Sheets - Get Rows`
-* **Configuração**:
+* **Configuraçêo**:
 
   * Colunas: `topic`, `reference`, `status`, `result`
   * Filtro: somente linhas com status `pending`
@@ -146,7 +146,7 @@ Segue o **passo a passo completo** do sistema automatizado para gerar **vídeos 
 
   * Gerar JSON com:
 
-    * 11 frases curtas para narração (1 minuto de vídeo)
+    * 11 frases curtas para narraçêo (1 minuto de vídeo)
     * 12 descrições visuais (1 para cada cena)
 * **Mensagem de sistema**:
 
@@ -157,7 +157,7 @@ Segue o **passo a passo completo** do sistema automatizado para gerar **vídeos 
 #### **4. Separar Roteiro em Cenas**
 
 * **Nó**: `Split Out`
-* **Função**: Divide os elementos do JSON para processar cada cena individualmente
+* **Funçêo**: Divide os elementos do JSON para processar cada cena individualmente
 
 ---
 
@@ -166,7 +166,7 @@ Segue o **passo a passo completo** do sistema automatizado para gerar **vídeos 
 * **Nó**: `OpenAI GPT-Image-1`
 * **Prompt**:
 
-  * "Renderização 3D estilo low poly, sombras marcadas, cinematográfico estilo Unreal Engine"
+  * "Renderizaçêo 3D estilo low poly, sombras marcadas, cinematográfico estilo Unreal Engine"
 * **Saída**: 10 imagens .png de cada cena
 
 ---
@@ -188,13 +188,13 @@ Segue o **passo a passo completo** do sistema automatizado para gerar **vídeos 
 * **Parâmetros**:
 
   * Prompt: “Anime essa imagem com movimentos sutis, realistas”
-  * Duração: 5s
-  * Proporção: 16:9
+  * Duraçêo: 5s
+  * Proporçêo: 16:9
   * Output: link para o vídeo animado
 
 ---
 
-#### **8. Gerar Narração com Minimax Speech O2**
+#### **8. Gerar Narraçêo com Minimax Speech O2**
 
 * **Nó**: `HTTP Request (POST)`
 * **Entrada**:
@@ -217,21 +217,21 @@ Segue o **passo a passo completo** do sistema automatizado para gerar **vídeos 
 #### **10. Obter Resultados de Vídeo e Áudio**
 
 * **Nó**: `HTTP Request (GET)`
-* **Função**: Busca os arquivos prontos de vídeo e áudio nos servidores da FEL AI
+* **Funçêo**: Busca os arquivos prontos de vídeo e áudio nos servidores da FEL AI
 
 ---
 
 #### **11. Mesclar Dados**
 
 * **Nó**: `Merge`
-* **Função**: Junta vídeos e áudios correspondentes (1 cena = 1 vídeo + 1 áudio)
+* **Funçêo**: Junta vídeos e áudios correspondentes (1 cena = 1 vídeo + 1 áudio)
 
 ---
 
 #### **12. Agregar Todos em Um Único Bloco**
 
 * **Nó**: `Aggregate`
-* **Função**: Agrupa as 10 cenas em uma lista única para edição final
+* **Funçêo**: Agrupa as 10 cenas em uma lista única para ediçêo final
 
 ---
 
@@ -246,7 +246,7 @@ Segue o **passo a passo completo** do sistema automatizado para gerar **vídeos 
 * **Corpo JSON**:
 
   * Vídeos + áudios organizados por ordem
-  * Duração e velocidade calculados com base no áudio
+  * Duraçêo e velocidade calculados com base no áudio
 
 ---
 
@@ -262,7 +262,7 @@ Segue o **passo a passo completo** do sistema automatizado para gerar **vídeos 
 
 ### **Resultado Final:**
 
-Um vídeo documental em 3D, com narração, cenas animadas e edição completa, tudo feito automaticamente e sem escrever uma linha de código.
+Um vídeo documental em 3D, com narraçêo, cenas animadas e ediçêo completa, tudo feito automaticamente e sem escrever uma linha de código.
 
 ---
 Midia: MessageMediaWebPage
@@ -283,50 +283,50 @@ Andy mostra como criou um sistema totalmente automatizado e sem código para ger
 
 1. **Gatilho Inicial**
 
-   * O processo começa com um gatilho no n8n: manual ou agendado (ex: todo dia 1h da manhã).
+   * O processo começa com um gatilho no n8n: manual ou agendado (ex: todo dia 1h da manhê).
 
 2. **Leitura do Tema no Google Sheets**
 
-   * Tópicos, links da Wikipédia e status ("pending" ou "completed") são lidos da planilha.
+   * Tópicos, links da Wikipédia e status ("pending" ou "completed") sêo lidos da planilha.
 
-3. **Geração do Roteiro com IA**
+3. **Geraçêo do Roteiro com IA**
 
    * Um agente IA (ChatGPT ou OpenRouter) gera:
 
      * Roteiro com 11 frases de 10-20 palavras
      * 12 descrições visuais (uma para cada cena)
 
-4. **Separação das Cenas (Split)**
+4. **Separaçêo das Cenas (Split)**
 
-   * O texto e as imagens são divididos em cenas individuais.
+   * O texto e as imagens sêo divididos em cenas individuais.
 
-5. **Geração das Imagens com GPT-Image-1**
+5. **Geraçêo das Imagens com GPT-Image-1**
 
-   * Imagens 3D estilo videogame são geradas para cada cena.
+   * Imagens 3D estilo videogame sêo geradas para cada cena.
 
 6. **Upload das Imagens no Supabase**
 
-   * Imagens são salvas em um bucket público do Supabase com autenticação por chave API.
+   * Imagens sêo salvas em um bucket público do Supabase com autenticaçêo por chave API.
 
-7. **Geração dos Vídeos com FEL AI (Clank Video)**
+7. **Geraçêo dos Vídeos com FEL AI (Clank Video)**
 
    * Cada imagem é animada para gerar vídeos com movimento sutil.
-   * Duração e velocidade são ajustadas com base na duração do áudio.
+   * Duraçêo e velocidade sêo ajustadas com base na duraçêo do áudio.
 
-8. **Geração da Narração com Minimax Speech Model**
+8. **Geraçêo da Narraçêo com Minimax Speech Model**
 
-   * O script é transformado em narração com voz escolhida.
-   * Parâmetros como pitch e velocidade são definidos.
+   * O script é transformado em narraçêo com voz escolhida.
+   * Parâmetros como pitch e velocidade sêo definidos.
 
 9. **Aguardar Processamento (Wait Node)**
 
    * Aguarda até 6 minutos antes de prosseguir.
 
-10. **Recuperação dos Vídeos e Áudios Gerados**
+10. **Recuperaçêo dos Vídeos e Áudios Gerados**
 
     * HTTP GET para pegar os arquivos resultantes.
 
-11. **Combinação de Vídeo + Áudio**
+11. **Combinaçêo de Vídeo + Áudio**
 
     * Notas de merge e aggregate combinam os fluxos.
 
@@ -335,7 +335,7 @@ Andy mostra como criou um sistema totalmente automatizado e sem código para ger
     * API do Creatomate junta os vídeos e áudios em um vídeo final.
     * Template personalizável com faixas de vídeo e áudio.
 
-13. **Atualização no Google Sheets**
+13. **Atualizaçêo no Google Sheets**
 
     * Status é marcado como "completed" e o link do vídeo final é salvo.
 
@@ -353,15 +353,15 @@ Andy mostra como criou um sistema totalmente automatizado e sem código para ger
 * **Pinagem de dados**: usado para evitar reprocessamentos e economizar créditos.
 * **Supabase**: necessário criar bucket público e usar chaves corretas.
 * **Prompt de Imagem**: estilo “Unreal Engine”, polígonos exagerados, sombras marcadas.
-* **Sincronização Áudio/Vídeo**: cálculo da velocidade do vídeo para encaixar com o tempo do áudio.
-* **Template JSON Creatomate**: fornecido na comunidade, facilita a edição em lote.
-* **Customização sem código**: todos os blocos são drag-and-drop dentro do n8n.
+* **Sincronizaçêo Áudio/Vídeo**: cálculo da velocidade do vídeo para encaixar com o tempo do áudio.
+* **Template JSON Creatomate**: fornecido na comunidade, facilita a ediçêo em lote.
+* **Customizaçêo sem código**: todos os blocos sêo drag-and-drop dentro do n8n.
 
 ---
 
 ### Promessa do Canal:
 
-* Compartilhar sistemas prontos de automação com IA toda semana
+* Compartilhar sistemas prontos de automaçêo com IA toda semana
 * Comunidade com garantia de 90 dias: ou consegue cliente ou recebe reembolso
 * Templates prontos disponíveis para baixar e usar no n8n
 

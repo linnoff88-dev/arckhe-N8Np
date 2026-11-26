@@ -51,10 +51,10 @@ MENSAGEM 3
 Autor: INEMA
 Data: 2025-06-08T18:09:54+00:00
 Texto:
-Como recriar qualquer automação do YouTube usando IA e vídeos**
+Como recriar qualquer automaçêo do YouTube usando IA e vídeos**
 
 **Objetivo:**
-Ensinar como usar vídeos do YouTube como base para recriar fluxos de automação no n8n com ajuda de IA, sem depender apenas de prints ou transcrições.
+Ensinar como usar vídeos do YouTube como base para recriar fluxos de automaçêo no n8n com ajuda de IA, sem depender apenas de prints ou transcrições.
 
 ### Etapas principais:
 
@@ -65,23 +65,23 @@ Ensinar como usar vídeos do YouTube como base para recriar fluxos de automaçã
 5. **Resultado:** A IA gera:
 
    * JSONs de cada nó,
-   * Estrutura completa da automação,
+   * Estrutura completa da automaçêo,
    * Campos e tipos do Airtable,
    * Scripts usados no vídeo,
    * Explicações dos nós de agente de IA (se houver).
 6. **Ferramentas utilizadas:** Claude, Google Studio, n8n, Airtable.
-7. **Benefício:** A IA funciona como **tutor pessoal**, detalhando o vídeo e facilitando a criação da automação completa.
+7. **Benefício:** A IA funciona como **tutor pessoal**, detalhando o vídeo e facilitando a criaçêo da automaçêo completa.
 8. **Extra:** É possível usar Gemini 2.5 Pro para explicações detalhadas de partes específicas.
 
 ### Exemplos e resultados:
 
-* Recriou com sucesso 80% da automação original.
+* Recriou com sucesso 80% da automaçêo original.
 * Gerou automaticamente fluxos com Airtable, OpenAI e agentes.
 * Permite estudar vídeos frame a frame com ajuda da IA, superando tutoriais fechados ou pagos.
 
-### Conclusão:
+### Conclusêo:
 
-Com essa técnica, é possível **recriar automações completas a partir de vídeos**, economizando tempo e evitando depender de quem não compartilha os detalhes. É um verdadeiro “código de trapaça” para aprender e executar projetos no n8n.
+Com essa técnica, é possível **recriar automações completas a partir de vídeos**, economizando tempo e evitando depender de quem nêo compartilha os detalhes. É um verdadeiro “código de trapaça” para aprender e executar projetos no n8n.
 
 ------------------------------
 
@@ -97,29 +97,29 @@ MENSAGEM 5
 Autor: INEMA
 Data: 2025-06-08T18:07:16+00:00
 Texto:
-Versão não-caverna do prompt :
+Versêo nêo-caverna do prompt :
 
-Persona: Você é um engenheiro especialista em automação n8n e um redator técnico de nível internacional, especializado em criar guias claros, abrangentes e fáceis de seguir para sistemas complexos que envolvem integrações de IA e API.
+Persona: Você é um engenheiro especialista em automaçêo n8n e um redator técnico de nível internacional, especializado em criar guias claros, abrangentes e fáceis de seguir para sistemas complexos que envolvem integrações de IA e API.
 
-Objetivo: Apresentarei um vídeo que demonstra um sistema completo para ajuste fino de modelos OpenAI usando n8n e Airtable. Sua missão é analisar este vídeo de ponta a ponta e produzir o guia definitivo, passo a passo, para reconstruir todo o sistema do zero. O resultado final deve ser tão detalhado que um usuário com conhecimento intermediário de n8n possa replicar toda a configuração perfeitamente sem precisar assistir ao vídeo novamente.
+Objetivo: Apresentarei um vídeo que demonstra um sistema completo para ajuste fino de modelos OpenAI usando n8n e Airtable. Sua missêo é analisar este vídeo de ponta a ponta e produzir o guia definitivo, passo a passo, para reconstruir todo o sistema do zero. O resultado final deve ser têo detalhado que um usuário com conhecimento intermediário de n8n possa replicar toda a configuraçêo perfeitamente sem precisar assistir ao vídeo novamente.
 
 Instruções detalhadas:
 
-Desconstrução do Sistema: Primeiro, identifique todos os componentes distintos do sistema. Isso inclui:
+Desconstruçêo do Sistema: Primeiro, identifique todos os componentes distintos do sistema. Isso inclui:
 
-Geração de guia abrangente: para cada componente, crie um passo a passo detalhado e sequencial.
+Geraçêo de guia abrangente: para cada componente, crie um passo a passo detalhado e sequencial.
 
 Capturar nuances e melhores práticas:
 
 Formato de saída e restrições:
 
-Estrutura: Organize toda a saída em um guia único e coeso. Use títulos e subtítulos claros (por exemplo, "Parte 1: Configuração do Airtable", "Parte 2: Ajuste fino do fluxo de trabalho", "Nó 2.1: Airtable - Obter registro").
+Estrutura: Organize toda a saída em um guia único e coeso. Use títulos e subtítulos claros (por exemplo, "Parte 1: Configuraçêo do Airtable", "Parte 2: Ajuste fino do fluxo de trabalho", "Nó 2.1: Airtable - Obter registro").
 
 Tom: O tom deve ser o de um guia paciente e experiente, acompanhando um iniciante em um processo complexo. Seja encorajador e claro.
 
-Completude: O guia deve ser um documento completo e independente. O usuário não deve precisar adivinhar nenhum parâmetro, expressão ou código.
+Completude: O guia deve ser um documento completo e independente. O usuário nêo deve precisar adivinhar nenhum parâmetro, expressêo ou código.
 
-Saída Única: Gere o guia inteiro em uma única resposta. Não peça esclarecimentos no meio do caminho.
+Saída Única: Gere o guia inteiro em uma única resposta. Nêo peça esclarecimentos no meio do caminho.
 
 ------------------------------
 

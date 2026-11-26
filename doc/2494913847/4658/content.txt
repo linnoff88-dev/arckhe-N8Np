@@ -27,7 +27,7 @@ Texto:
 #### 1. **Recursive Text Splitter** (Divisor de Texto Recursivo):
 É uma técnica de **quebrar um texto longo em pedaços menores** (chamados de "chunks") **sem cortar frases no meio**. Ele tenta **manter o contexto** e a **coerência** de cada parte.
 
-#### 2. **Overlap** (Sobreposição):
+#### 2. **Overlap** (Sobreposiçêo):
 Significa que **parte do final de um pedaço aparece também no início do próximo**. Isso evita perder o sentido entre os pedaços.
 
 ---
@@ -43,36 +43,36 @@ Assim:
 - Chunk 2: **linhas 41 a 90**  
 - Chunk 3: **linhas 81 a 100 (ou mais)**
 
-Cada bloco "repete" um pedaço do anterior, mantendo **a conexão entre as ideias**.
+Cada bloco "repete" um pedaço do anterior, mantendo **a conexêo entre as ideias**.
 
 ---
 
 ### Por que isso importa?
 
-Porque **o modelo de IA entende melhor o texto se ele estiver inteiro ou parcialmente conectado**. Se você cortar no meio de uma frase ou ideia, a IA pode não entender corretamente o que aquele pedaço significa.
+Porque **o modelo de IA entende melhor o texto se ele estiver inteiro ou parcialmente conectado**. Se você cortar no meio de uma frase ou ideia, a IA pode nêo entender corretamente o que aquele pedaço significa.
 
 ---
 
 ### Exemplo prático no contexto de IA:
 
 Suponha que o texto original seja:
-> "O plano de evacuação deve ser seguido à risca. Caso contrário, vidas estarão em risco."
+> "O plano de evacuaçêo deve ser seguido à risca. Caso contrário, vidas estarêo em risco."
 
 Se você dividir mal, pode ter:
-- Vetor 1: "O plano de evacuação deve ser seguido à"
-- Vetor 2: "risca. Caso contrário, vidas estarão em risco."
+- Vetor 1: "O plano de evacuaçêo deve ser seguido à"
+- Vetor 2: "risca. Caso contrário, vidas estarêo em risco."
 
 Isso fica estranho para a IA.  
 Com o **Recursive Splitter com overlap**, você teria:
-- Vetor 1: "O plano de evacuação deve ser seguido à risca."
-- Vetor 2: "risca. Caso contrário, vidas estarão em risco."
+- Vetor 1: "O plano de evacuaçêo deve ser seguido à risca."
+- Vetor 2: "risca. Caso contrário, vidas estarêo em risco."
 
 Agora a **frase permanece completa** e faz sentido nos dois vetores.
 
 ---
 
 ### Quando usar:
-- Sempre que for dividir documentos grandes para **não perder sentido entre os trechos**.
+- Sempre que for dividir documentos grandes para **nêo perder sentido entre os trechos**.
 - Quando a **coerência das respostas da IA for importante**, como em atendimento ao cliente, contratos, políticas ou manuais.
 
 ---
@@ -94,7 +94,7 @@ Texto:
 ### Recomendações diretas para otimizar banco vetorial com n8n + Pinecone:
 
 1. **Evitar inserir lixo (como metadados inúteis)**  
-   Use extração seletiva de texto com JSON e filtros para pegar apenas o conteúdo relevante.
+   Use extraçêo seletiva de texto com JSON e filtros para pegar apenas o conteúdo relevante.
 
 2. **Obter vetores limpos e únicos**  
    Prefira carregar como binário, criando apenas 1 vetor por documento.
@@ -102,20 +102,20 @@ Texto:
 3. **Manter o sentido do texto**  
    Use o Recursive Text Splitter, pois ele evita cortar frases e mantém o contexto.
 
-4. **Fazer buscas com mais precisão**  
+4. **Fazer buscas com mais precisêo**  
    Adicione metadados úteis, como o campo `document ID`, para filtrar os resultados depois.
 
 5. **Atualizar documentos depois**  
    Gerencie os IDs dos vetores gerados ou utilize o Supabase (mais simples para esse tipo de tarefa do que o Pinecone).
 
 6. **Evitar erro de compatibilidade**  
-   Sempre combine o embedding correto com o índice configurado no Pinecone (ex: não usar embedding 3-large em índice criado para 3-small).
+   Sempre combine o embedding correto com o índice configurado no Pinecone (ex: nêo usar embedding 3-large em índice criado para 3-small).
 
 7. **Dividir documentos muito grandes**  
    Use o Character Splitter com separador definido (por exemplo: ponto final “.”) para manter a integridade das sentenças.
 
 8. **Evitar perda de contexto entre partes**  
-   Aplique chunk overlap, como por exemplo: dividir em blocos de 60 tokens com 20 de sobreposição, para manter continuidade entre os trechos.
+   Aplique chunk overlap, como por exemplo: dividir em blocos de 60 tokens com 20 de sobreposiçêo, para manter continuidade entre os trechos.
 
 ---
 
@@ -137,14 +137,14 @@ MENSAGEM 6
 Autor: INEMA
 Data: 2025-04-03T10:23:50+00:00
 Texto:
-### Conclusão
+### Conclusêo
 
 O vídeo mostra que a **qualidade dos dados vetorizados** é mais importante que a quantidade. Ao usar **splitting correto**, **metadados úteis** e
 garantir **compatibilidade de embedding**, você:
 
 - Melhora a **eficiência** do agente RAG.
 - Reduz o **custo computacional**.
-- Aumenta a **precisão** da resposta.
+- Aumenta a **precisêo** da resposta.
 
 ------------------------------
 
@@ -154,13 +154,13 @@ Data: 2025-04-03T10:23:50+00:00
 Texto:
 **“Vector Database Optimization with n8n: Metadata, Text Splitting, & Embeddings”**:
 
-Como **otimizar a inserção de dados em um banco vetorial (Pinecone)** usando o **n8n**, com foco em três pilares principais: **metadata (metadados)**, **text splitting (divisão de texto)** e **embeddings (vetorização)**. O objetivo é **garantir uma base de conhecimento eficiente**, para que os agentes de IA possam usar RAG (retrieval augmented generation) de forma eficaz.
+Como **otimizar a inserçêo de dados em um banco vetorial (Pinecone)** usando o **n8n**, com foco em três pilares principais: **metadata (metadados)**, **text splitting (divisêo de texto)** e **embeddings (vetorizaçêo)**. O objetivo é **garantir uma base de conhecimento eficiente**, para que os agentes de IA possam usar RAG (retrieval augmented generation) de forma eficaz.
 
 ---
 
 ### Tópicos com exemplos e explicações:
 
-1. **Configuração Inicial**
+1. **Configuraçêo Inicial**
    - Criar índice no Pinecone (usar embedding `text-embedding-3-small`).
    - Conectar o n8n ao Pinecone via API Key.
    - Escolher um documento PDF simples para testes.
@@ -169,20 +169,20 @@ Como **otimizar a inserção de dados em um banco vetorial (Pinecone)** usando o
 
 ---
 
-2. **Fluxo Básico: Download, Extração e Envio para Pinecone**
+2. **Fluxo Básico: Download, Extraçêo e Envio para Pinecone**
    - Baixar PDF no n8n.
    - Extrair texto com o nó “Extract from file”.
-   - O problema: extrai também informações inúteis (número da versão, rodapé etc).
-   - Resultado: 8 vetores são enviados ao Pinecone, muitos irrelevantes.
+   - O problema: extrai também informações inúteis (número da versêo, rodapé etc).
+   - Resultado: 8 vetores sêo enviados ao Pinecone, muitos irrelevantes.
 
-   *Solução futura: filtrar só o que importa antes de enviar para embedding.*
+   *Soluçêo futura: filtrar só o que importa antes de enviar para embedding.*
 
 ---
 
 3. **Formato de Carregamento: JSON vs. Binário**
    - JSON: pega tudo que vem do PDF, inclusive dados desnecessários.
    - Binário: envia apenas o conteúdo principal.
-   - Resultado com binário: cria 1 vetor (mais limpo, sem lixo), mas ainda mantém metadados como título, versão etc.
+   - Resultado com binário: cria 1 vetor (mais limpo, sem lixo), mas ainda mantém metadados como título, versêo etc.
 
    *Dica:* O formato binário pode ser útil para evitar excessos.
 
@@ -190,14 +190,14 @@ Como **otimizar a inserção de dados em um banco vetorial (Pinecone)** usando o
 
 4. **Erro Comum: Embedding Incompatível**
    - Exemplo de erro ao tentar usar embedding `3-large` com índice configurado para `3-small`.
-   - O embedding não será gerado porque as dimensões não batem (ex: 1536 vs. 2048).
+   - O embedding nêo será gerado porque as dimensões nêo batem (ex: 1536 vs. 2048).
 
-   *Conclusão:* Sempre alinhe o embedding usado no Pinecone com o que está configurado no n8n.
+   *Conclusêo:* Sempre alinhe o embedding usado no Pinecone com o que está configurado no n8n.
 
 ---
 
 5. **Uso de Metadados**
-   - Adicionar campos personalizados (ex: `document ID`) no momento da vetorização.
+   - Adicionar campos personalizados (ex: `document ID`) no momento da vetorizaçêo.
    - Isso permite **filtrar depois** usando metadados no momento da consulta.
 
    *Exemplo:* Adicionar `document ID: 1234` para rastrear origem de cada vetor.
@@ -212,39 +212,39 @@ Como **otimizar a inserção de dados em um banco vetorial (Pinecone)** usando o
 
 ---
 
-7. **Text Splitting (Divisão de Texto)**
+7. **Text Splitting (Divisêo de Texto)**
    - **Recursive character splitter**: divide mantendo coerência sem cortar frases.
      - Ideal para textos maiores com estrutura natural (ex: políticas).
    - **Token splitter**: divide a cada X tokens (ex: 5 tokens por vetor).
      - Útil quando se quer granularidade maior.
    - **Character splitter com separador personalizado**:
      - Permite quebrar em pontos específicos (ex: ponto final, pipe, barra).
-   - **Chunk overlap (sobreposição)**:
-     - Adiciona redundância entre vetores, para não perder contexto entre partes divididas.
+   - **Chunk overlap (sobreposiçêo)**:
+     - Adiciona redundância entre vetores, para nêo perder contexto entre partes divididas.
 
    *Exemplo:* Chunk de 60 com overlap de 20 → mantém parte do final do vetor anterior no próximo.
 
 ---
 
-8. **Atualização de Vetores no Pinecone**
+8. **Atualizaçêo de Vetores no Pinecone**
    - Atualizar vetores no Pinecone é complexo, pois ele gera múltiplos IDs para um único documento.
-   - Não há (ainda) uma forma direta de deletar por metadado no Pinecone.
+   - Nêo há (ainda) uma forma direta de deletar por metadado no Pinecone.
    - Em Supabase, é possível deletar e re-substituir por metadado.
 
-   *Observação:* Atualizações precisam capturar e deletar os múltiplos vector IDs.
+   *Observaçêo:* Atualizações precisam capturar e deletar os múltiplos vector IDs.
 
 ---
 
 9. **Uso de Namespace no Pinecone**
    - Pinecone permite separar dados por namespaces.
    - Exemplo: cada conjunto de vetores pode ser enviado para um namespace diferente.
-   - Ajuda na organização e atualização posterior.
+   - Ajuda na organizaçêo e atualizaçêo posterior.
 
 ---
 
 10. **Filtro por Metadado na Consulta RAG**
    - Você pode filtrar vetores por campos como `document ID` na hora de consultar.
-   - Isso evita buscas inúteis em vetores que não têm relação com a pergunta do usuário.
+   - Isso evita buscas inúteis em vetores que nêo têm relaçêo com a pergunta do usuário.
 
    *Exemplo de filtro:* `document ID = 1234`
 

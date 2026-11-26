@@ -60,45 +60,45 @@ O vídeo mostra como criar um sistema automatizado que gera, renderiza e publica
 
 ### Etapas do Processo Automatizado:
 
-1. **Inspiração**:
+1. **Inspiraçêo**:
    Um canal com poucos vídeos shorts gerados por IA obteve milhões de visualizações, inspirando o autor a replicar o processo.
 
 2. **Planejamento**:
    O sistema usa uma planilha do Google como central de controle. Cada linha tem uma batalha entre dois animais (ex: gorila vs. grandes felinos).
 
-3. **Criação de cenas**:
+3. **Criaçêo de cenas**:
    Um agente de IA cria 8 "cenas de batalha" com base no personagem principal (ex: gorila) e oponente (ex: leões, tigres, etc.).
 
-4. **Geração das imagens close-up**:
-   Para cada luta, são geradas imagens cinematográficas dos dois oponentes usando o modelo **Flux** via **PI API**. São 16 imagens no total.
+4. **Geraçêo das imagens close-up**:
+   Para cada luta, sêo geradas imagens cinematográficas dos dois oponentes usando o modelo **Flux** via **PI API**. Sêo 16 imagens no total.
 
-5. **Geração das imagens dos vencedores**:
+5. **Geraçêo das imagens dos vencedores**:
    Outro prompt decide o vencedor de cada batalha e gera imagens com o resultado final, totalizando mais 8 imagens.
 
 6. **Armazenamento das imagens**:
-   Todas as imagens são armazenadas em uma planilha do Google para facilitar o controle e uso posterior.
+   Todas as imagens sêo armazenadas em uma planilha do Google para facilitar o controle e uso posterior.
 
-7. **Renderização do vídeo**:
-   As 24 imagens (close-ups e vencedores) são montadas usando a ferramenta **Createmate**, que aplica um modelo de vídeo com zoom e transições.
+7. **Renderizaçêo do vídeo**:
+   As 24 imagens (close-ups e vencedores) sêo montadas usando a ferramenta **Createmate**, que aplica um modelo de vídeo com zoom e transições.
 
-8. **Publicação automática**:
+8. **Publicaçêo automática**:
    O vídeo final é enviado automaticamente para YouTube, TikTok e Instagram usando a plataforma **Blotato**, que gerencia agendamento e postagem.
 
 9. **Custos detalhados**:
 
-   * Geração de prompt e imagens: cerca de **0,01 a 0,36 USD**
-   * Renderização de vídeo com Createmate: cerca de **0,35 USD**
+   * Geraçêo de prompt e imagens: cerca de **0,01 a 0,36 USD**
+   * Renderizaçêo de vídeo com Createmate: cerca de **0,35 USD**
    * Total estimado por vídeo: **menos de 1 dólar**
 
 10. **Como usar**:
 
     * O **workflow n8n** (JSON)
     * O **template da planilha**
-    * Guia de configuração com instruções para conectar as APIs (OpenRouter, PI API, Createmate, Blotato)
+    * Guia de configuraçêo com instruções para conectar as APIs (OpenRouter, PI API, Createmate, Blotato)
 
-### Conclusão:
+### Conclusêo:
 
-É possível montar um canal de vídeos curtos 100% automatizado por IA com custo baixíssimo, usando ferramentas no-code. O criador incentiva personalizações nos prompts, fluxos e estilo visual, mostrando o potencial criativo e técnico desse tipo de automação.
+É possível montar um canal de vídeos curtos 100% automatizado por IA com custo baixíssimo, usando ferramentas no-code. O criador incentiva personalizações nos prompts, fluxos e estilo visual, mostrando o potencial criativo e técnico desse tipo de automaçêo.
 
 ------------------------------
 
@@ -116,19 +116,19 @@ Data: 2025-05-13T02:09:45+00:00
 Texto:
 Resumo do Conteúdo:
 
-**Automação Completa com n8n**: O criador demonstra como utilizar a ferramenta de automação sem código n8n para orquestrar todo o processo de geração de vídeos, desde a criação de imagens com IA até a publicação automática nas plataformas YouTube, Instagram e TikTok.
+**Automaçêo Completa com n8n**: O criador demonstra como utilizar a ferramenta de automaçêo sem código n8n para orquestrar todo o processo de geraçêo de vídeos, desde a criaçêo de imagens com IA até a publicaçêo automática nas plataformas YouTube, Instagram e TikTok.
 
 
-**Geração de Conteúdo com IA**: São utilizadas ferramentas de inteligência artificial para gerar imagens e textos que compõem os vídeos, possibilitando a criação de conteúdo sem intervenção manual.
+**Geraçêo de Conteúdo com IA**: Sêo utilizadas ferramentas de inteligência artificial para gerar imagens e textos que compõem os vídeos, possibilitando a criaçêo de conteúdo sem intervençêo manual.
 
 
-**Publicação Multiplataforma**: O sistema é configurado para publicar automaticamente os vídeos gerados nas principais plataformas de mídia social, garantindo presença constante e engajamento com o público.
+**Publicaçêo Multiplataforma**: O sistema é configurado para publicar automaticamente os vídeos gerados nas principais plataformas de mídia social, garantindo presença constante e engajamento com o público.
 
 
-**Custo Baixo**: O processo completo é otimizado para ser econômico, com cada execução custando menos de US$ 1, tornando-o acessível para criadores de conteúdo de todos os tamanhos.
+**Custo Baixo**: O processo completo é otimizado para ser econômico, com cada execuçêo custando menos de US$ 1, tornando-o acessível para criadores de conteúdo de todos os tamanhos.
 
 
-Este tutorial é ideal para quem busca automatizar a produção de conteúdo digital, especialmente vídeos curtos, utilizando ferramentas de inteligência artificial e automação sem código.
+Este tutorial é ideal para quem busca automatizar a produçêo de conteúdo digital, especialmente vídeos curtos, utilizando ferramentas de inteligência artificial e automaçêo sem código.
 
 ------------------------------
 
@@ -147,11 +147,11 @@ Texto:
 Este Sistema de IA Cria e Publica Shorts Sem Rosto 24/7
 
 
-Como automatizar completamente todo o processo de criação, renderização e publicação de Shorts virais gerados por IA, em plataformas como YouTube, Instagram e TikTok, sem escrever uma única linha de código.
+Como automatizar completamente todo o processo de criaçêo, renderizaçêo e publicaçêo de Shorts virais gerados por IA, em plataformas como YouTube, Instagram e TikTok, sem escrever uma única linha de código.
 
-Você verá um passo a passo completo da construção, usando uma poderosa ferramenta de automação sem código chamada **n8n**. Desde a geração de imagens com IA, até a montagem de tudo e a publicação automática nas plataformas, esse fluxo funciona de ponta a ponta no modo automático.
+Você verá um passo a passo completo da construçêo, usando uma poderosa ferramenta de automaçêo sem código chamada **n8n**. Desde a geraçêo de imagens com IA, até a montagem de tudo e a publicaçêo automática nas plataformas, esse fluxo funciona de ponta a ponta no modo automático.
 
-Você mesmo pode configurar isso de forma totalmente gratuita baixando os recursos neste post. Também os cálculos para você: cada execução completa custa menos de US$1, o que é muito bom.
+Você mesmo pode configurar isso de forma totalmente gratuita baixando os recursos neste post. Também os cálculos para você: cada execuçêo completa custa menos de US$1, o que é muito bom.
 
 ------------------------------
 

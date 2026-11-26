@@ -19,33 +19,33 @@ Aula 6
   
 Se preferir, você pode assistir ao vídeo no YouTube: AQUI  
   
-Introdução  
+Introduçêo  
   
-Nesta aula, exploramos como implementar um sistema RAG (Geração Aumentada por Recuperação) no n8n utilizando o Pinecone como base vetorial. Explicamos a funcionalidade do RAG, as vantagens das bases vetoriais e a comparação entre Pinecone e Supabase. Finalmente, realizamos uma implementação prática no n8n para armazenar e recuperar informações a partir de uma base vetorial.  
+Nesta aula, exploramos como implementar um sistema RAG (Geraçêo Aumentada por Recuperaçêo) no n8n utilizando o Pinecone como base vetorial. Explicamos a funcionalidade do RAG, as vantagens das bases vetoriais e a comparaçêo entre Pinecone e Supabase. Finalmente, realizamos uma implementaçêo prática no n8n para armazenar e recuperar informações a partir de uma base vetorial.  
   
 📊 1. Conceitos Chave  
   
 - O que é RAG?  
   
-  RAG é um modelo de IA que combina busca e geração de texto para melhorar a precisão das respostas. Baseia-se na extração de informações de documentos armazenados em uma base vetorial e na geração de respostas com base nesses dados.  
+  RAG é um modelo de IA que combina busca e geraçêo de texto para melhorar a precisêo das respostas. Baseia-se na extraçêo de informações de documentos armazenados em uma base vetorial e na geraçêo de respostas com base nesses dados.  
   
 - Como funciona?  
   
   - Carregamento de documentos em formatos como PDF, DOC, TXT, etc.  
   
-  - Conversão em embeddings utilizando o OpenAI.  
+  - Conversêo em embeddings utilizando o OpenAI.  
   
   - Armazenamento em uma base vetorial como Pinecone ou Supabase.  
   
-  - Consulta e geração de respostas baseadas nas informações armazenadas.  
+  - Consulta e geraçêo de respostas baseadas nas informações armazenadas.  
   
-🔬 2. Comparação entre Pinecone e Supabase  
+🔬 2. Comparaçêo entre Pinecone e Supabase  
   
-O Pinecone oferece integração direta com o n8n, é altamente escalável e está otimizado para buscas semânticas rápidas. Em contraste, o Supabase é mais versátil, permitindo armazenar diferentes tipos de dados, embora requeira configuração manual e seja menos rápido em buscas vetoriais.  
+O Pinecone oferece integraçêo direta com o n8n, é altamente escalável e está otimizado para buscas semânticas rápidas. Em contraste, o Supabase é mais versátil, permitindo armazenar diferentes tipos de dados, embora requeira configuraçêo manual e seja menos rápido em buscas vetoriais.  
   
-Se o objetivo é velocidade e escalabilidade, o Pinecone é a melhor opção. Se há necessidade de armazenar diversos tipos de dados e maior flexibilidade, o Supabase é uma alternativa recomendável.  
+Se o objetivo é velocidade e escalabilidade, o Pinecone é a melhor opçêo. Se há necessidade de armazenar diversos tipos de dados e maior flexibilidade, o Supabase é uma alternativa recomendável.  
   
-🚀 3. Implementação Prática no n8n  
+🚀 3. Implementaçêo Prática no n8n  
   
 3.1 Carregamento de documentos na base vetorial  
   
@@ -55,7 +55,7 @@ Se o objetivo é velocidade e escalabilidade, o Pinecone é a melhor opção. Se
   
 - Salvar embeddings no Pinecone.  
   
-- Dividir o documento em fragmentos (chunks) de 1000 tokens com sobreposição de 100 tokens.  
+- Dividir o documento em fragmentos (chunks) de 1000 tokens com sobreposiçêo de 100 tokens.  
   
 - Armazenar os fragmentos na base vetorial.  
   

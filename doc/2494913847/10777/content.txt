@@ -22,24 +22,24 @@ MENSAGEM 2
 Autor: INEMA
 Data: 2025-07-02T17:48:34+00:00
 Texto:
-Aqui vão **hacks e otimizações práticas** para turbinar o sistema de criação de vídeos ASMR com IA no n8n:
+Aqui vêo **hacks e otimizações práticas** para turbinar o sistema de criaçêo de vídeos ASMR com IA no n8n:
 
 ---
 
 ### **1. Evite refazer partes já processadas**
 
-* Use o botão **“Pin”** em nós como:
+* Use o botêo **“Pin”** em nós como:
 
   * OpenAI (imagem)
   * Upload para Supabase
-  * Geração de vídeo ou áudio com Fai
-* Assim, se der erro nos passos finais, você **não perde créditos nem gera tudo de novo.**
+  * Geraçêo de vídeo ou áudio com Fai
+* Assim, se der erro nos passos finais, você **nêo perde créditos nem gera tudo de novo.**
 
 ---
 
 ### **2. Use `.first` quando processar 1 item por vez**
 
-* Evita erro de “não sei qual item usar”.
+* Evita erro de “nêo sei qual item usar”.
 * Use `.item` **só se for processar múltiplos itens em paralelo.**
 
 ---
@@ -57,7 +57,7 @@ Aqui vão **hacks e otimizações práticas** para turbinar o sistema de criaç�
 
 ---
 
-### **5. Automatize a publicação nas redes**
+### **5. Automatize a publicaçêo nas redes**
 
 * Após gerar o vídeo, conecte com:
 
@@ -83,8 +83,8 @@ Aqui vão **hacks e otimizações práticas** para turbinar o sistema de criaç�
 * Configure alertas no Telegram ou Discord para:
 
   * Erros no workflow
-  * Notificação de vídeo pronto
-  * Acompanhamento de produção diária
+  * Notificaçêo de vídeo pronto
+  * Acompanhamento de produçêo diária
 
 ---
 
@@ -107,7 +107,7 @@ Aqui vão **hacks e otimizações práticas** para turbinar o sistema de criaç�
   * “Before cutting, the object started to shake slightly…”
   * “Suddenly, the knife bends as it touches the surface…”
 
-Esses detalhes criam **curiosidade** e aumentam **retenção**.
+Esses detalhes criam **curiosidade** e aumentam **retençêo**.
 
 ------------------------------
 
@@ -131,7 +131,7 @@ Aqui está o **passo a passo completo** para criar um sistema de **vídeos ASMR 
 
 Crie uma planilha chamada `ASMR AI Video System` com as seguintes colunas:
 
-* `Objeto` → Ex: maçã, pedra
+* `Objeto` → Ex: maçê, pedra
 * `Textura` → Ex: lava, vidro, pedra
 * `Status` → valores: `pending` ou `complete`
 * `Output` → campo para receber a URL final do vídeo
@@ -151,7 +151,7 @@ Crie uma planilha chamada `ASMR AI Video System` com as seguintes colunas:
 * Configure com suas credenciais Google
 * Escolha sua planilha e aba
 * Adicione filtro: `Status = pending`
-* Marque a opção: **"Retornar apenas a primeira linha correspondente"**
+* Marque a opçêo: **"Retornar apenas a primeira linha correspondente"**
 
 ---
 
@@ -175,7 +175,7 @@ Crie uma planilha chamada `ASMR AI Video System` com as seguintes colunas:
 
 * Adicione o nó **OpenAI > Generate Image**
 * Use o campo `prompt_img`
-* Configure resolução: `1024x1024`
+* Configure resoluçêo: `1024x1024`
 * Gere a imagem
 
 ---
@@ -200,7 +200,7 @@ Crie uma planilha chamada `ASMR AI Video System` com as seguintes colunas:
   * `duration`: 5
   * `negative_prompt`: `"blur, distortion, low quality"`
   * `cfg_scale`: 0.5
-* Autenticação via **Header** com chave da API Fai
+* Autenticaçêo via **Header** com chave da API Fai
 
 ---
 
@@ -245,7 +245,7 @@ Crie uma planilha chamada `ASMR AI Video System` com as seguintes colunas:
   }
 }```
 
-* Use sua **API Key do Creatomate** no header de autenticação
+* Use sua **API Key do Creatomate** no header de autenticaçêo
 
 ---
 
@@ -284,7 +284,7 @@ O vídeo ensina passo a passo como criar um sistema automatizado (sem código) c
 
 ### Estrutura do Sistema:
 
-1. **Motivação**
+1. **Motivaçêo**
 
    * Canal com apenas 20 vídeos obteve mais de 27 milhões de visualizações.
    * ASMR com IA está viralizando rapidamente.
@@ -292,47 +292,47 @@ O vídeo ensina passo a passo como criar um sistema automatizado (sem código) c
 2. **Objetivo**
 
    * Criar vídeos de ASMR com imagens, vídeos e sons gerados por IA.
-   * Todo o processo ocorre no **piloto automático com n8n**, sem necessidade de programação.
+   * Todo o processo ocorre no **piloto automático com n8n**, sem necessidade de programaçêo.
 
-3. **Fluxo de automação (n8n):**
+3. **Fluxo de automaçêo (n8n):**
 
    * **Gatilho com agendamento (Scheduler)**
    * **Planilha do Google (Google Sheets):**
 
-     * Colunas: objeto (ex: maçã), textura (ex: lava), status (pendente ou completo), e URL de saída.
-   * **Criação de prompts (Edit Fields):**
+     * Colunas: objeto (ex: maçê), textura (ex: lava), status (pendente ou completo), e URL de saída.
+   * **Criaçêo de prompts (Edit Fields):**
 
-     * Geração de prompts para imagem, vídeo e som com base nos valores da planilha.
-   * **Geração de imagem com OpenAI (DALL·E)**
+     * Geraçêo de prompts para imagem, vídeo e som com base nos valores da planilha.
+   * **Geraçêo de imagem com OpenAI (DALL·E)**
    * **Upload da imagem para Supabase**
 
      * Para obter uma URL pública da imagem.
-   * **Criação de vídeo com IA (Fai + modelo Kling 2.1)**
+   * **Criaçêo de vídeo com IA (Fai + modelo Kling 2.1)**
 
      * Utiliza a imagem para gerar um vídeo curto (5 segundos).
-   * **Geração de som ASMR com IA (modelo de som Fai / ElevenLabs)**
+   * **Geraçêo de som ASMR com IA (modelo de som Fai / ElevenLabs)**
 
      * Converte o prompt em áudio ASMR.
-   * **Combinação de vídeo + som com Creatomate**
+   * **Combinaçêo de vídeo + som com Creatomate**
 
      * API para juntar vídeo e áudio num único arquivo final.
-   * **Atualização da planilha com link final**
+   * **Atualizaçêo da planilha com link final**
 
      * Muda o status para “completo” e adiciona o link gerado.
 
 4. **Ferramentas Utilizadas:**
 
-   * **n8n** (automação)
+   * **n8n** (automaçêo)
    * **Google Sheets** (controle dos dados)
    * **OpenAI DALL·E** (imagem)
    * **Supabase** (armazenamento e URL)
    * **Fai (Fable AI)** (vídeo e som por IA)
-   * **Creatomate** (edição final do vídeo com som)
+   * **Creatomate** (ediçêo final do vídeo com som)
 
 5. **Erros e Soluções**
 
-   * Uso de `.first` vs `.item` para controlar execução em massa ou unitária.
-   * Necessidade de “fixar” (pin) nós que não devem ser executados novamente.
+   * Uso de `.first` vs `.item` para controlar execuçêo em massa ou unitária.
+   * Necessidade de “fixar” (pin) nós que nêo devem ser executados novamente.
 
 6. **Resultado Final**
 
@@ -345,12 +345,12 @@ O vídeo ensina passo a passo como criar um sistema automatizado (sem código) c
 
 | Objeto | Textura        | Status   | URL de saída           |
 | ------ | -------------- | -------- | ---------------------- |
-| Maçã   | Lava derretida | Pendente | (gera o link do vídeo) |
+| Maçê   | Lava derretida | Pendente | (gera o link do vídeo) |
 
 ---
 
-**Conclusão:**
-O criador ensina a montar um sistema completo para criar **vídeos de ASMR com IA** em escala. Ideal para quem quer **monetizar conteúdo viral** com automação total. O modelo está disponível para download em sua comunidade.
+**Conclusêo:**
+O criador ensina a montar um sistema completo para criar **vídeos de ASMR com IA** em escala. Ideal para quem quer **monetizar conteúdo viral** com automaçêo total. O modelo está disponível para download em sua comunidade.
 
 ------------------------------
 
@@ -423,7 +423,7 @@ Texto:
 
 **Preparar Prompt**
 `prompt_img`
-Um(a) {{ \$json.Object }} com textura {{ \$json.Texture }} e um homem prestes a cortar ao meio com uma pequena faca, mas ainda não começou.
+Um(a) {{ \$json.Object }} com textura {{ \$json.Texture }} e um homem prestes a cortar ao meio com uma pequena faca, mas ainda nêo começou.
 
 `prompt_video`
 Um(a) {{ \$json.Object }} com textura {{ \$json.Texture }} e um homem indo cortar ao meio com uma pequena faca.
@@ -470,7 +470,7 @@ Texto:
 Vídeos de ASMR com IA no piloto automático
 (Tendência Viral Inclusa)
 
-O ASMR com IA está bombando no momento — esses sons e visuais estranhamente satisfatórios gerados por inteligência artificial estão viralizando no TikTok, YouTube e Instagram.
+O ASMR com IA está bombando no momento — esses sons e visuais estranhamente satisfatórios gerados por inteligência artificial estêo viralizando no TikTok, YouTube e Instagram.
 
  E aqui está a melhor parte:
 Você pode produzi-los em massa no piloto automático — sem precisar programar. É só arrastar, soltar e deixar rodar.

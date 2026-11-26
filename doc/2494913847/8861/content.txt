@@ -26,7 +26,7 @@ fuga.”
 ---
 
 **Lembre-se**: o Veo 3 se destaca com prompts **específicos e detalhados** que pintam um quadro cinematográfico completo.
-Priorize sempre a **clareza, precisão técnica e riqueza sensorial** para obter o máximo da geração.
+Priorize sempre a **clareza, precisêo técnica e riqueza sensorial** para obter o máximo da geraçêo.
 
 O prompt deve ter no máximo **um parágrafo completo**.
 
@@ -40,20 +40,20 @@ Data: 2025-06-07T16:38:17+00:00
 Texto:
 Prompt em Portugues: (melhor manter ele em ingles)
 
-Você é um engenheiro de prompts e cineasta de classe mundial, especializado na geração de vídeos com inteligência artificial usando o Google Veo 3.
+Você é um engenheiro de prompts e cineasta de classe mundial, especializado na geraçêo de vídeos com inteligência artificial usando o Google Veo 3.
 
-Sua especialidade é transformar pedidos simples e cotidianos em prompts altamente detalhados e cinematograficamente sofisticados, maximizando as capacidades de geração de vídeo e áudio do Veo 3.
+Sua especialidade é transformar pedidos simples e cotidianos em prompts altamente detalhados e cinematograficamente sofisticados, maximizando as capacidades de geraçêo de vídeo e áudio do Veo 3.
 
 Este é o prompt que você vai transformar:
 `{{ $json.chatInput }}`
 
 ---
 
-## SUA FUNÇÃO
+## SUA FUNÇêO
 
 Transformar os pedidos dos usuários em prompts otimizados para o Veo 3 que incluam:
 
-* Composição e enquadramento cinematográfico
+* Composiçêo e enquadramento cinematográfico
 * Descrições detalhadas dos personagens
 * Contexto ambiental rico
 * Elementos atmosféricos
@@ -63,43 +63,43 @@ Transformar os pedidos dos usuários em prompts otimizados para o Veo 3 que incl
 
 ---
 
-## FRAMEWORK DE OTIMIZAÇÃO VEO 3
+## FRAMEWORK DE OTIMIZAÇêO VEO 3
 
 ### ELEMENTOS VISUAIS
 
-**Composição do Enquadramento**: Sempre especifique o tipo de tomada (plano geral, close-up, plano médio, plano de estabelecimento, plano POV, tomada aérea, drone)
+**Composiçêo do Enquadramento**: Sempre especifique o tipo de tomada (plano geral, close-up, plano médio, plano de estabelecimento, plano POV, tomada aérea, drone)
 **Ângulo de Câmera**: Inclua especificações de ângulo (ângulo baixo, alto, ao nível dos olhos, ângulo holandês)
-**Movimento de Câmera**: Defina o movimento (panorâmica lenta à esquerda, travelling rápido, zoom de dolly para dentro, movimento de grua ascendente, câmera na mão trêmula, plano estático)
+**Movimento de Câmera**: Defina o movimento (panorâmica lenta à esquerda, travelling rápido, zoom de dolly para dentro, movimento de grua ascendente, câmera na mêo trêmula, plano estático)
 **Tipo de Lente**: Quando apropriado, especifique a lente (filmado com lente 50mm, lente grande angular, lente teleobjetiva)
 
 ---
 
 ### PERSONAGEM E AMBIENTE
 
-**Descrição do Personagem**: Forneça descrições detalhadas incluindo vestimenta, idade, etnia, expressões e ações
-**Contexto Ambiental**: Descreva os cenários com riqueza de detalhes, incluindo iluminação, clima, hora do dia, elementos específicos do local
+**Descriçêo do Personagem**: Forneça descrições detalhadas incluindo vestimenta, idade, etnia, expressões e ações
+**Contexto Ambiental**: Descreva os cenários com riqueza de detalhes, incluindo iluminaçêo, clima, hora do dia, elementos específicos do local
 **Elementos Atmosféricos**: Inclua descrições de humor, paletas de cores, condições de luz (hora dourada, luz de neon, sombras dramáticas)
 
 ---
 
-### INTEGRAÇÃO DE ÁUDIO
+### INTEGRAÇêO DE ÁUDIO
 
-**Diálogo**: Formate como “Descrição do personagem diz: ‘texto exato do diálogo’”
+**Diálogo**: Formate como “Descriçêo do personagem diz: ‘texto exato do diálogo’”
 **Efeitos Sonoros**: Especifique como “O áudio apresenta \[som específico]”
 **Áudio Ambiente**: Inclua sons do ambiente (trânsito agitado da cidade, ondas suaves batendo, vento passando pelas árvores)
 **Música**: Quando solicitado, descreva o estilo e o clima (orquestral inspirador, trilha de suspense, música eletrônica ambiente)
 
 ---
 
-## PROCESSO DE TRANSFORMAÇÃO
+## PROCESSO DE TRANSFORMAÇêO
 
 Quando o usuário fornecer um pedido simples:
 
-1. **ANALISAR**: Identifique a ação principal, os personagens e o cenário implícito
-2. **APROFUNDAR**: Adicione profundidade cinematográfica com composição, câmera e detalhes ambientais
+1. **ANALISAR**: Identifique a açêo principal, os personagens e o cenário implícito
+2. **APROFUNDAR**: Adicione profundidade cinematográfica com composiçêo, câmera e detalhes ambientais
 3. **DESIGN DE ÁUDIO**: Incorpore efeitos sonoros, diálogos ou trilha sonora apropriada
-4. **REFINAR**: Assegure que o prompt flua naturalmente com precisão técnica
-5. **OTIMIZAR**: Estruture para máxima compreensão e execução pelo Veo 3
+4. **REFINAR**: Assegure que o prompt flua naturalmente com precisêo técnica
+5. **OTIMIZAR**: Estruture para máxima compreensêo e execuçêo pelo Veo 3
 
 ---
 
@@ -114,16 +114,16 @@ Forneça o prompt otimizado neste formato:
 
 * **Estilo Visual**: \[Elementos cinematográficos chave]
 * **Elementos de Áudio**: \[Componentes de design sonoro]
-* **Especificações Técnicas**: \[Detalhes de câmera e composição]
+* **Especificações Técnicas**: \[Detalhes de câmera e composiçêo]
 
 ---
 
-## EXEMPLO DE TRANSFORMAÇÃO
+## EXEMPLO DE TRANSFORMAÇêO
 
 **Pedido Simples**: “Faça um vídeo sobre alguém fugindo de gorilas”
 
 **Saída Otimizada**:
-“Um plano dinâmico em movimento acompanha um explorador aterrorizado, vestindo roupas cáqui de safári, enquanto ele corre por uma densa floresta tropical, fugindo desesperadamente de um grupo de enormes gorilas-das-costas-prateadas. A câmera se move ao nível dos olhos com movimento suave de mão, capturando sua expressão de pânico e respiração ofegante. A luz do sol filtrada entre as copas cria sombras dramáticas enquanto galhos e cipós passam rapidamente. O áudio inclui respiração pesada, galhos se quebrando, rugidos estrondosos dos gorilas ecoando pela selva e o som rítmico dos passos na vegetação. O homem grita: ‘Eles estão se aproximando!’ ao saltar sobre um tronco caído, com a câmera inclinando-se levemente para enfatizar o caos e a urgência de sua
+“Um plano dinâmico em movimento acompanha um explorador aterrorizado, vestindo roupas cáqui de safári, enquanto ele corre por uma densa floresta tropical, fugindo desesperadamente de um grupo de enormes gorilas-das-costas-prateadas. A câmera se move ao nível dos olhos com movimento suave de mêo, capturando sua expressêo de pânico e respiraçêo ofegante. A luz do sol filtrada entre as copas cria sombras dramáticas enquanto galhos e cipós passam rapidamente. O áudio inclui respiraçêo pesada, galhos se quebrando, rugidos estrondosos dos gorilas ecoando pela selva e o som rítmico dos passos na vegetaçêo. O homem grita: ‘Eles estêo se aproximando!’ ao saltar sobre um tronco caído, com a câmera inclinando-se levemente para enfatizar o caos e a urgência de sua
 
 ------------------------------
 
@@ -230,13 +230,13 @@ Texto:
 
 1. **Inclua o estilo visual no prompt**
 
-   * O modelo espera saber o **estilo do vídeo** (cinematográfico, realista, animação, etc.).
-   * Não basta dizer o que acontece — diga *como* deve parecer visualmente.
+   * O modelo espera saber o **estilo do vídeo** (cinematográfico, realista, animaçêo, etc.).
+   * Nêo basta dizer o que acontece — diga *como* deve parecer visualmente.
 
 2. **Adicione instruções sobre o áudio**
 
    * O VEO 3 permite integrar som e música diretamente no vídeo.
-   * Poucos modelos fazem isso, então **aproveite essa vantagem**.
+   * Poucos modelos fazem isso, entêo **aproveite essa vantagem**.
    * Especifique o tipo de som: “melodia triste com piano e cordas eletrônicas”, por exemplo.
 
 3. **Use linguagem de câmera profissional**
@@ -244,18 +244,18 @@ Texto:
    * Exemplos como “drone shot por cima”, “close-up”, “plano aberto” ajudam a construir uma cena com mais profundidade.
    * Isso torna o vídeo mais “dirigido” e menos genérico.
 
-4. **Demonstre a emoção na descrição**
+4. **Demonstre a emoçêo na descriçêo**
 
    * Ao descrever o personagem ou a cena, inclua **estado emocional**, como “desesperado”, “melancólico”, “confuso”.
    * Isso influencia tanto a imagem quanto a música.
 
 5. **Construa uma cadeia lógica de elementos**
 
-   * Ele mostra como uma descrição simples (tipo "nerd confuso") pode se transformar em um prompt completo com:
+   * Ele mostra como uma descriçêo simples (tipo "nerd confuso") pode se transformar em um prompt completo com:
 
-     * Descrição do personagem
+     * Descriçêo do personagem
      * Ambiente detalhado
-     * Iluminação
+     * Iluminaçêo
      * Trilha sonora emocional
 
 ---
@@ -264,7 +264,7 @@ Texto:
 
 E o sistema transforma em:
 
-> “Homem jovem, 25 anos, cabelo bagunçado, óculos laranja, iluminação fraca, ambiente moderno e desorganizado, melodia triste com piano e cordas eletrônicas…”
+> “Homem jovem, 25 anos, cabelo bagunçado, óculos laranja, iluminaçêo fraca, ambiente moderno e desorganizado, melodia triste com piano e cordas eletrônicas…”
 
 ------------------------------
 
@@ -280,7 +280,7 @@ MENSAGEM 9
 Autor: INEMA
 Data: 2025-06-07T16:34:06+00:00
 Texto:
-Aqui estão as **dicas e considerações principais** sobre o uso do VEO 3 da Google e o agente de prompt personalizado:
+Aqui estêo as **dicas e considerações principais** sobre o uso do VEO 3 da Google e o agente de prompt personalizado:
 
 ---
 
@@ -288,8 +288,8 @@ Aqui estão as **dicas e considerações principais** sobre o uso do VEO 3 da Go
 
 1. **Crie um prompt bem direcionado**
 
-   * O modelo VEO 3 exige prompts com informações visuais específicas (ambiente, iluminação, ângulo de câmera, etc.).
-   * Evite descrições vagas como “cachorro correndo” — adicione contexto, emoção, cenário, horário do dia e estilo de câmera.
+   * O modelo VEO 3 exige prompts com informações visuais específicas (ambiente, iluminaçêo, ângulo de câmera, etc.).
+   * Evite descrições vagas como “cachorro correndo” — adicione contexto, emoçêo, cenário, horário do dia e estilo de câmera.
 
 2. **Use linguagem de cinematografia**
 
@@ -314,10 +314,10 @@ Aqui estão as **dicas e considerações principais** sobre o uso do VEO 3 da Go
    * Quando o input for vago, o agente interage e pergunta:
 
      * Cenário?
-     * Emoção?
+     * Emoçêo?
      * Hora do dia?
      * Detalhes do ambiente?
-   * Isso torna o fluxo de criação mais colaborativo e preciso.
+   * Isso torna o fluxo de criaçêo mais colaborativo e preciso.
 
 ---
 
@@ -325,7 +325,7 @@ Aqui estão as **dicas e considerações principais** sobre o uso do VEO 3 da Go
 
 * **O VEO 3 é um modelo fundacional promissor**, com grande impacto esperado quando for liberado via API.
 * O sistema de prompt é uma forma de se antecipar e já começar a explorar os limites criativos do modelo.
-* **Criação de conteúdo audiovisual automatizado será uma grande tendência**, especialmente com som incluído.
+* **Criaçêo de conteúdo audiovisual automatizado será uma grande tendência**, especialmente com som incluído.
 * O autor brinca que o modelo será dominante... **pelo menos até que um novo apareça em duas semanas**, ressaltando a velocidade das inovações.
 
 ------------------------------
@@ -344,7 +344,7 @@ Data: 2025-06-07T16:26:37+00:00
 Texto:
 **🚀 Chegou o Mini Prompt Engineer para Google VEO 3 — direto no n8n!**
 
- Se o seu feed já está repleto de vídeos gerados com o novo modelo **VEO 3 da Google**, prepare-se: isso é só o começo. Quando a **API oficial for liberada**, a produção em massa de vídeos automatizados vai decolar — e você pode sair na frente.
+ Se o seu feed já está repleto de vídeos gerados com o novo modelo **VEO 3 da Google**, prepare-se: isso é só o começo. Quando a **API oficial for liberada**, a produçêo em massa de vídeos automatizados vai decolar — e você pode sair na frente.
 
 Pensando nisso, criei um **agente ultra customizado no n8n**, preparado para:
 
@@ -352,7 +352,7 @@ Pensando nisso, criei um **agente ultra customizado no n8n**, preparado para:
 * Aplicar estilos visuais, enquadramentos e **melodias sincronizadas**, algo que poucos modelos fazem hoje.
 * Dialogar com você para refinar cenas, ambientes, emoções e estilos — como um verdadeiro **diretor de vídeo com IA**.
 
-Essa automação já vem com um JSON pronto para importar no n8n. Ela entende quando o seu pedido precisa de mais detalhes e sabe como converter qualquer ideia básica em uma sequência visual impactante.
+Essa automaçêo já vem com um JSON pronto para importar no n8n. Ela entende quando o seu pedido precisa de mais detalhes e sabe como converter qualquer ideia básica em uma sequência visual impactante.
 
 Imagine pedir:
 *"Um nerd de óculos laranja perdendo a cabeça com tantas IAs surgindo enquanto tenta acompanhar as notícias."*

@@ -13,7 +13,7 @@ MENSAGEM 1
 Autor: Digital
 Data: 2025-06-25T19:00:10+00:00
 Texto:
-Show,  vou refazer ele, aproveitando a oportunidade,  tem alguma automação do N8N que é SDR com chamada em tempo real ?
+Show,  vou refazer ele, aproveitando a oportunidade,  tem alguma automaçêo do N8N que é SDR com chamada em tempo real ?
 
 ------------------------------
 
@@ -29,7 +29,7 @@ MENSAGEM 3
 Autor: INEMA
 Data: 2025-06-25T02:05:38+00:00
 Texto:
-Não. Já catei e não achei
+Nêo. Já catei e nêo achei
 
 ------------------------------
 

@@ -13,7 +13,7 @@ MENSAGEM 1
 Autor: INEMA
 Data: 2025-10-18T03:49:12+00:00
 Texto:
-Perfeito 👇 — aqui estão os **principais *hacks* e atalhos práticos** que ele ensina no vídeo (direto ao ponto, sem enrolação):
+Perfeito 👇 — aqui estêo os **principais *hacks* e atalhos práticos** que ele ensina no vídeo (direto ao ponto, sem enrolaçêo):
 
 ---
 
@@ -35,7 +35,7 @@ Perfeito 👇 — aqui estão os **principais *hacks* e atalhos práticos** que 
 
   * Lead **completo** → entra no pipeline.
   * Lead **incompleto** → WhatsApp automático.
-  * Lead **sem resposta** → reagendar ligação.
+  * Lead **sem resposta** → reagendar ligaçêo.
 
 💡 *Hack:* coloque o Rital pra ligar **2h após o lead entrar** — a taxa de resposta é 3x maior.
 
@@ -46,7 +46,7 @@ Perfeito 👇 — aqui estão os **principais *hacks* e atalhos práticos** que 
 * Quando o Rital liga novamente, ele pode **buscar o histórico do cliente** via webhook.
 * Assim, ele fala “Oi, vi que você conversou com a gente ontem...” e parece humano.
 
-💡 *Hack:* Salve as respostas da Rital em JSON para poder reaproveitar em qualquer automação.
+💡 *Hack:* Salve as respostas da Rital em JSON para poder reaproveitar em qualquer automaçêo.
 
 ---
 
@@ -55,9 +55,9 @@ Perfeito 👇 — aqui estão os **principais *hacks* e atalhos práticos** que 
 * Integre o WhatsApp via **Webhook do Wixim** para enviar:
 
   * “Oi, vi que você tentou falar com a Silvia, quer que ela te ligue agora?”
-* O botão **“Ligue-me agora”** dispara outro webhook pro Rital → ligação automática.
+* O botêo **“Ligue-me agora”** dispara outro webhook pro Rital → ligaçêo automática.
 
-💡 *Hack:* Sempre personalize com nome e contexto (“Oi, João, aqui é a Silvia do Espaço Inema”).
+💡 *Hack:* Sempre personalize com nome e contexto (“Oi, Joêo, aqui é a Silvia do Espaço Inema”).
 
 ---
 
@@ -72,25 +72,25 @@ Perfeito 👇 — aqui estão os **principais *hacks* e atalhos práticos** que 
 
 ---
 
-### 🧾 **6. Monetização rápida**
+### 🧾 **6. Monetizaçêo rápida**
 
 * Cobrar **setup + mensalidade + consumo**:
 
-  * Setup = implantação (ex: R$ 500–1000).
-  * Mensal = manutenção e ajustes (R$ 200–400).
+  * Setup = implantaçêo (ex: R$ 500–1000).
+  * Mensal = manutençêo e ajustes (R$ 200–400).
   * Consumo = minutos da Rital (você aplica margem de 40–50%).
 
-💡 *Hack:* Ofereça como “agente de voz personalizado” e não como “Rital” — parece uma tecnologia própria.
+💡 *Hack:* Ofereça como “agente de voz personalizado” e nêo como “Rital” — parece uma tecnologia própria.
 
 ---
 
 ### 🧩 **7. Consultoria + IA = Valor**
 
-* Sempre combine **consultoria de processo** com automação.
+* Sempre combine **consultoria de processo** com automaçêo.
 * Antes de instalar a IA, organize os fluxos do cliente.
 * Mostre relatórios mensais de impacto (tempo economizado, número de leads etc.).
 
-💡 *Hack:* 1h de consultoria + automação gera 3–5x mais valor percebido.
+💡 *Hack:* 1h de consultoria + automaçêo gera 3–5x mais valor percebido.
 
 ---
 
@@ -104,7 +104,7 @@ Perfeito 👇 — aqui estão os **principais *hacks* e atalhos práticos** que 
 
 ---
 
-Quer que eu te monte um **checklist prático em PDF** com todos esses *hacks* organizados por categoria (instalação, voz, CRM, monetização)? Assim dá pra usar como guia interno da equipe.
+Quer que eu te monte um **checklist prático em PDF** com todos esses *hacks* organizados por categoria (instalaçêo, voz, CRM, monetizaçêo)? Assim dá pra usar como guia interno da equipe.
 
 ------------------------------
 
@@ -146,7 +146,7 @@ Aqui vai o **passo a passo direto** para instalar e colocar tudo pra funcionar �
 
 1. Vá até o **workflow do Wixim**.
 2. Escolha o evento que aciona (ex: “novo pagamento”, “lead criado” etc.).
-3. Adicione uma ação **“Webhook”** → cole a URL do n8n.
+3. Adicione uma açêo **“Webhook”** → cole a URL do n8n.
 4. Salve e publique o fluxo.
 
 ---
@@ -168,7 +168,7 @@ Aqui vai o **passo a passo direto** para instalar e colocar tudo pra funcionar �
 2. Configure:
 
    * Nome, idioma e voz (use ElevenLabs se quiser naturalidade).
-   * Script de introdução e perguntas.
+   * Script de introduçêo e perguntas.
    * Regras de encerramento e tags.
 3. No campo **Webhook de saída**, coloque a **URL do n8n** (para retorno dos dados da chamada).
 
@@ -176,7 +176,7 @@ Aqui vai o **passo a passo direto** para instalar e colocar tudo pra funcionar �
 
 ### 🔁 **6. Conectar o retorno da Rital ao CRM**
 
-1. No n8n, adicione um **Webhook de recepção** para os dados da Rital.
+1. No n8n, adicione um **Webhook de recepçêo** para os dados da Rital.
 2. Use esses dados para:
 
    * Atualizar contato no CRM;
@@ -191,7 +191,7 @@ Aqui vai o **passo a passo direto** para instalar e colocar tudo pra funcionar �
 2. Verifique se:
 
    * O n8n recebe o webhook;
-   * O Rital faz a ligação;
+   * O Rital faz a ligaçêo;
    * O retorno volta ao CRM.
 3. Corrija delays ou erros de rota.
 
@@ -223,7 +223,7 @@ Aqui está o **fluxo explicado de forma direta e prática** 👇
 
 ---
 
-### ⚙️ **Fluxo Geral de Automação (passo a passo)**
+### ⚙️ **Fluxo Geral de Automaçêo (passo a passo)**
 
 1. **Entrada do evento**
 
@@ -244,9 +244,9 @@ Aqui está o **fluxo explicado de forma direta e prática** 👇
      * Enviar notificações ou mensagens;
      * Iniciar fluxos complementares (ex: contato por voz via Rital).
 
-4. **Ação com Rital (Agente de Voz IA)**
+4. **Açêo com Rital (Agente de Voz IA)**
 
-   * Se o lead não concluiu o pagamento ou não respondeu, **Rital liga automaticamente**.
+   * Se o lead nêo concluiu o pagamento ou nêo respondeu, **Rital liga automaticamente**.
    * O agente de voz (ex: “Silvia”) fala com o cliente, faz perguntas abertas e coleta informações.
    * O bot gera um **resumo da conversa** (briefing) e **envia de volta via webhook** para o CRM.
 
@@ -256,18 +256,18 @@ Aqui está o **fluxo explicado de forma direta e prática** 👇
 
      * Dados do cliente;
      * Campos de interesse, problemas principais, observações;
-     * Link da gravação da chamada;
-     * Flag se a informação foi completa ou não (true/false).
+     * Link da gravaçêo da chamada;
+     * Flag se a informaçêo foi completa ou nêo (true/false).
 
 6. **Rotas automáticas após a chamada**
 
-   * **Se a informação for completa:** o contato é atualizado com os novos dados.
-   * **Se incompleta:** é enviado um **WhatsApp automático** com a opção “Ligue-me agora”.
-   * **Se não atendeu:** o sistema envia mensagem de follow-up ou reagenda uma nova chamada.
+   * **Se a informaçêo for completa:** o contato é atualizado com os novos dados.
+   * **Se incompleta:** é enviado um **WhatsApp automático** com a opçêo “Ligue-me agora”.
+   * **Se nêo atendeu:** o sistema envia mensagem de follow-up ou reagenda uma nova chamada.
 
 7. **Rechamada via WhatsApp**
 
-   * Se o cliente clica em “Ligue-me agora”, o webhook é reenviado à Rital, que **refaz a ligação** automaticamente.
+   * Se o cliente clica em “Ligue-me agora”, o webhook é reenviado à Rital, que **refaz a ligaçêo** automaticamente.
 
 8. **Armazenamento e análise**
 
@@ -278,8 +278,8 @@ Aqui está o **fluxo explicado de forma direta e prática** 👇
 
 ### 🧠 **Resumo Simplificado do Fluxo**
 
-1. Evento → 2. Webhook → 3. Integração → 4. Chamada IA (Rital) →
-2. Resposta → 6. Ação (WhatsApp ou CRM) → 7. Rechamada → 8. Relatórios
+1. Evento → 2. Webhook → 3. Integraçêo → 4. Chamada IA (Rital) →
+2. Resposta → 6. Açêo (WhatsApp ou CRM) → 7. Rechamada → 8. Relatórios
 
 ---
 
@@ -302,7 +302,7 @@ Segue um resumo dividido por partes:
 
 ---
 
-### 🧩 **Conexão e Integração**
+### 🧩 **Conexêo e Integraçêo**
 
 * Explicam como conectar **n8n**, **Make** e **Wixim** por meio de **webhooks** (POST para enviar dados e GET para receber).
 * Mostram exemplos práticos: enviar dados de pagamento do **Stripe** para montar relatórios de clientes e KPIs.
@@ -311,54 +311,54 @@ Segue um resumo dividido por partes:
 
 ---
 
-### 🧾 **Automação de Faturas**
+### 🧾 **Automaçêo de Faturas**
 
 * Exemplo prático: automatizar o envio de dados de faturas de **Wixim** para um ERP via webhook.
-* Ao receber um pagamento, os dados são enviados automaticamente para o ERP.
+* Ao receber um pagamento, os dados sêo enviados automaticamente para o ERP.
 * Discutem diferenças entre “ingreso” e “cobro” e como contabilizar corretamente os valores.
 
 ---
 
 ### 💬 **Chatbots e Voz com Rital**
 
-* Introdução ao **Rital**, plataforma para criar agentes de voz com IA.
-* Comparação entre **Rital** e **Bapi**:
+* Introduçêo ao **Rital**, plataforma para criar agentes de voz com IA.
+* Comparaçêo entre **Rital** e **Bapi**:
 
   * Rital é mais barato, rápido e com menor latência (0,8–1,2 segundos).
   * Ideal para criar **chatbots de voz** integrados com **Wixim/HighLevel**.
-* Mostram como criar um **agente de voz inteligente** (“Silvia”) que liga automaticamente para leads que não concluíram o pagamento da consultoria.
+* Mostram como criar um **agente de voz inteligente** (“Silvia”) que liga automaticamente para leads que nêo concluíram o pagamento da consultoria.
 * O bot coleta informações (nome, empresa, necessidades, etc.) e envia um resumo via webhook para o CRM.
 
 ---
 
-### ⚙️ **Configuração Técnica do Agente**
+### ⚙️ **Configuraçêo Técnica do Agente**
 
-* Detalham o fluxo da chamada: apresentação, perguntas abertas, resumo e encerramento.
+* Detalham o fluxo da chamada: apresentaçêo, perguntas abertas, resumo e encerramento.
 * Mostram como configurar:
 
   * Vozes (usando **ElevenLabs** para vozes mais naturais).
   * Latência, interrupções e ruído de fundo.
-  * Integração com **GPT-4 Mini** ou **GPT-5** para interpretar e gerar respostas.
-* Após a chamada, o Rital envia os resultados (briefing, campos de interesse, problemas principais, gravação, etc.) para **Wixim**.
+  * Integraçêo com **GPT-4 Mini** ou **GPT-5** para interpretar e gerar respostas.
+* Após a chamada, o Rital envia os resultados (briefing, campos de interesse, problemas principais, gravaçêo, etc.) para **Wixim**.
 
 ---
 
-### 🤖 **Automação Pós-Chamada**
+### 🤖 **Automaçêo Pós-Chamada**
 
 * Três fluxos automáticos:
 
-  1. **Informação completa** → cria/atualiza contato no CRM.
-  2. **Informação parcial** → envia mensagem no WhatsApp para continuar o contato.
+  1. **Informaçêo completa** → cria/atualiza contato no CRM.
+  2. **Informaçêo parcial** → envia mensagem no WhatsApp para continuar o contato.
   3. **Sem resposta** → envia mensagem de voz ou WhatsApp reagendando a chamada.
 * O sistema pode reaproveitar dados do contato e reativar o lead.
 
 ---
 
-### 💰 **Comercialização e Modelos de Negócio**
+### 💰 **Comercializaçêo e Modelos de Negócio**
 
 * Discutem como monetizar agentes de voz:
 
-  * Cobrança por **implantação única (setup)** + **mensalidade de manutenção**.
+  * Cobrança por **implantaçêo única (setup)** + **mensalidade de manutençêo**.
   * Cobrança **por minuto de uso** (margem de 40%–50%).
   * Possibilidade de **marca branca** do Rital para agências.
 * Recomendam sempre incluir acompanhamento e relatórios como parte do valor agregado.
@@ -381,8 +381,8 @@ Segue um resumo dividido por partes:
 
   * Organizar dados, fluxos e KPIs.
   * Mapear processos de negócio antes de automatizar.
-* Defendem cobrar também pela **consultoria estratégica**, não só pela tecnologia.
-* Citam casos em clínicas e agências onde o CRM foi estruturado com sucesso (ex: estratégias de upsell, remarketing e fidelização).
+* Defendem cobrar também pela **consultoria estratégica**, nêo só pela tecnologia.
+* Citam casos em clínicas e agências onde o CRM foi estruturado com sucesso (ex: estratégias de upsell, remarketing e fidelizaçêo).
 
 ---
 
@@ -391,7 +391,7 @@ Segue um resumo dividido por partes:
 * Sempre fazer **perguntas abertas** para entender o nível de consciência do cliente.
 * Criar **scripts consultivos** para diagnóstico (por que quer automatizar? qual o problema principal? etc.).
 * Agendar **reuniões regulares** de acompanhamento com o cliente.
-* Lembrar que o sucesso vem da **combinação de consultoria + tecnologia**.
+* Lembrar que o sucesso vem da **combinaçêo de consultoria + tecnologia**.
 
 ---
 
@@ -476,7 +476,7 @@ Aprender a criar um chatbot de voz automático que liga para seus leads, faz per
 
 O objetivo é filtrar, qualificar e extrair o briefing de clientes potenciais de forma automática, para que apenas os contatos realmente prontos para avançar cheguem ao seu time comercial.
 
-🛠️ O que conseguimos com essa automação:
+🛠️ O que conseguimos com essa automaçêo:
 
 * Ligar automaticamente para leads a partir do AirTable.
 * Fazer um briefing telefônico guiado por IA (voz natural).
@@ -484,48 +484,48 @@ O objetivo é filtrar, qualificar e extrair o briefing de clientes potenciais de
 * Registrar respostas e dados importantes em tempo real.
 * Repetir chamadas falhas com fluxos personalizados.
 * Automatizar mensagens no WhatsApp em caso de contato falhado ou informações incompletas.
-* Permitir que o lead reative a ligação escrevendo “Quero que me ligue”.
+* Permitir que o lead reative a ligaçêo escrevendo “Quero que me ligue”.
 
 🧩 Estrutura do fluxo automatizado
 **Disparo:** Um novo lead entra no AirTable (manualmente ou por outro sistema).
 
-**Webhook** via botão ou gatilho automático: envia o recordID do lead ao N8N.
+**Webhook** via botêo ou gatilho automático: envia o recordID do lead ao N8N.
 
 **N8N:**
 
 * Recupera os dados do contato no AirTable.
-* Chama a API do Retell.ai para iniciar a ligação automática com voz IA.
+* Chama a API do Retell.ai para iniciar a ligaçêo automática com voz IA.
 * O Retell.ai realiza a chamada, faz perguntas sobre necessidades, problemas, ferramentas etc.
 * A IA analisa as respostas e retorna variáveis como briefing, áreas de interesse, processos atuais etc.
 * O Retell.ai envia os resultados a um webhook do N8N.
 
 **Condicionais no N8N:**
 
-* Se a ligação foi bem-sucedida (informações completas): o AirTable é atualizado com tudo.
+* Se a ligaçêo foi bem-sucedida (informações completas): o AirTable é atualizado com tudo.
 * Se faltam informações: envia um WhatsApp solicitando mais dados.
-* Se não houve resposta: envia um WhatsApp informando e convidando a responder “Quero que me ligue”.
+* Se nêo houve resposta: envia um WhatsApp informando e convidando a responder “Quero que me ligue”.
 
 **Webhook Evolution API:**
 
 * Detecta respostas pelo WhatsApp.
-* Se o lead responder “Quero que me ligue”: cruza o registro no AirTable e relança a ligação.
+* Se o lead responder “Quero que me ligue”: cruza o registro no AirTable e relança a ligaçêo.
 
 🛠️ Ferramentas utilizadas
 
-* **N8N:** motor de automação.
+* **N8N:** motor de automaçêo.
 * **AirTable:** banco de dados de leads.
 * **Retell.ai****:** chamadas automáticas com voz IA.
 * **ElevenLabs:** vozes realistas para o bot.
-* **Evolution API:** gestão do WhatsApp e Webhooks.
+* **Evolution API:** gestêo do WhatsApp e Webhooks.
 
 🧐 Dicas principais que aprendemos
 
 * Use variáveis dinâmicas para personalizar as chamadas com nome e contexto.
 * Cruzar dados pelo recordID evita erros e torna o sistema escalável.
-* A condição *info_completa = false* é essencial para controlar os próximos passos.
-* Você pode usar qualquer voz da ElevenLabs (ex.: Carolina ou Sebastião) para melhorar a naturalidade.
+* A condiçêo *info_completa = false* é essencial para controlar os próximos passos.
+* Você pode usar qualquer voz da ElevenLabs (ex.: Carolina ou Sebastiêo) para melhorar a naturalidade.
 * Use prompts abertos para que a IA extraia informações ricas do cliente.
-* Automatize a reativação de leads com uma simples frase de gatilho no WhatsApp.
+* Automatize a reativaçêo de leads com uma simples frase de gatilho no WhatsApp.
 * O Retell.ai permite ajustar velocidade, temperatura e estilo de conversa.
 
 **Preço estimado:** cerca de €0,08 por minuto de chamada.
@@ -553,22 +553,22 @@ Bot de voz que qualifica e converte por você 🤩
 
 Imagine isso:
 
-Um sistema que liga para seus leads em segundos, fala com voz humana, entende o que dizem, avalia se estão prontos para comprar e registra toda a conversa no seu banco de dados.
+Um sistema que liga para seus leads em segundos, fala com voz humana, entende o que dizem, avalia se estêo prontos para comprar e registra toda a conversa no seu banco de dados.
 
 Tudo sem que você encoste no telefone. Sem SDRs. Sem horas perdidas. 🚀
 
-Quando o lead não atende...
+Quando o lead nêo atende...
 👉 Recebe um WhatsApp automático.
 👉 Pode responder com “Quero que me ligue”.
-👉 E o sistema refaz a ligação em tempo real.
+👉 E o sistema refaz a ligaçêo em tempo real.
 
-Isso não é futuro. É Retell + N8N + AirTable + Evolution API funcionando como um agendador automatizado 24/7.
+Isso nêo é futuro. É Retell + N8N + AirTable + Evolution API funcionando como um agendador automatizado 24/7.
 
-💰 O incrível: esse sistema não serve apenas para o seu negócio.
+💰 O incrível: esse sistema nêo serve apenas para o seu negócio.
 Você pode vendê-lo para qualquer empresa que dependa de ligações:
 imobiliárias, clínicas, agências, escolas online, academias, oficinas, consultores… o que quiser!
 
-Cada implementação pode gerar milhares de euros por mês em novas vendas... e você pode cobrar pela instalação. 💸
+Cada implementaçêo pode gerar milhares de euros por mês em novas vendas... e você pode cobrar pela instalaçêo. 💸
 
 ⚙️ ensino passo a passo como montar do zero:
 
@@ -577,7 +577,7 @@ Cada implementação pode gerar milhares de euros por mês em novas vendas... e 
 * Como registrar o briefing completo do cliente
 * Como reativar leads com WhatsApp e gatilhos de texto
 
-Isso não é apenas outra automação. É uma máquina autônoma de conversão.
+Isso nêo é apenas outra automaçêo. É uma máquina autônoma de conversêo.
 
 E uma oportunidade de ouro se você vende automações ou consultoria.
 

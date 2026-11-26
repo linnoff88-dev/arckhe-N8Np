@@ -29,13 +29,13 @@ MENSAGEM 3
 Autor: INEMA
 Data: 2025-03-30T21:13:19+00:00
 Texto:
-Wikipédia e ferramentas de busca) e nós de formatação, o fluxo não apenas resume o conteúdo, mas também oferece contexto adicional e insights acionáveis.
+Wikipédia e ferramentas de busca) e nós de formataçêo, o fluxo nêo apenas resume o conteúdo, mas também oferece contexto adicional e insights acionáveis.
 
 ---
 
 **Recursos**
 
-- Modelo JSON (não incluído no texto original, mas sugerido como parte do fluxo).
+- Modelo JSON (nêo incluído no texto original, mas sugerido como parte do fluxo).
 
 ------------------------------
 
@@ -45,34 +45,34 @@ Data: 2025-03-30T21:13:19+00:00
 Texto:
 **IA: Resumo de episódio de podcast e enriquecimento com Wikipédia**
 
-**Visão Geral**
+**Visêo Geral**
 
-**Gatilho Manual e Configuração de Entrada:**
+**Gatilho Manual e Configuraçêo de Entrada:**
 
 - **Ao clicar em "Executar Fluxo de Trabalho"**: Um gatilho manual inicia o fluxo de trabalho.
-- **Transcrição do Episódio do Podcast**: Um nó de código simula ou fornece a transcrição bruta de um episódio de podcast. (Em um fluxo real, você provavelmente obteria a transcrição de uma fonte externa.)
+- **Transcriçêo do Episódio do Podcast**: Um nó de código simula ou fornece a transcriçêo bruta de um episódio de podcast. (Em um fluxo real, você provavelmente obteria a transcriçêo de uma fonte externa.)
 
 **Carregamento e Pré-processamento de Dados:**
 
-- **Entrada do Fluxo para Documento JSON**: Este nó converte a transcrição (texto não estruturado) em um documento JSON estruturado, facilitando o processamento pelos nós seguintes.
-- **Divisor Recursivo de Texto por Caracteres**: Após a conversão para JSON, este nó divide o texto em blocos gerenciáveis. Isso evita que chamadas ao modelo de linguagem ultrapassem os limites de tokens e permite o processamento detalhado de textos longos.
+- **Entrada do Fluxo para Documento JSON**: Este nó converte a transcriçêo (texto nêo estruturado) em um documento JSON estruturado, facilitando o processamento pelos nós seguintes.
+- **Divisor Recursivo de Texto por Caracteres**: Após a conversêo para JSON, este nó divide o texto em blocos gerenciáveis. Isso evita que chamadas ao modelo de linguagem ultrapassem os limites de tokens e permite o processamento detalhado de textos longos.
 
-**Resumo e Extração:**
+**Resumo e Extraçêo:**
 
-- **Resumir Transcrição**: Um nó de encadeamento de resumo é usado para condensar a transcrição em um resumo mais curto e compreensível. O foco está nas principais ideias ou destaques do episódio.
+- **Resumir Transcriçêo**: Um nó de encadeamento de resumo é usado para condensar a transcriçêo em um resumo mais curto e compreensível. O foco está nas principais ideias ou destaques do episódio.
 - **Extrair Tópicos e Perguntas**: Outro nó de modelo de linguagem extrai os tópicos e perguntas principais a partir do resumo. Essas informações podem ser usadas para guiar pesquisas ou discussões adicionais. O nó é configurado para gerar uma lista de perguntas e tópicos relevantes.
 
 **Enriquecimento de Dados e Pesquisa:**
 
 - **Pesquisar e Explicar Tópicos**: Este nó de agente utiliza cada tópico (gerado na etapa anterior) e faz pesquisas (por exemplo, via ferramenta da Wikipédia) para explicar os tópicos com mais profundidade.
-- **Analisador de Saída Estruturada**: Este nó organiza as saídas brutas da extração de tópicos e pesquisa em um formato JSON estruturado, seguindo um esquema predefinido com campos como: pergunta, motivo, entre outros.
+- **Analisador de Saída Estruturada**: Este nó organiza as saídas brutas da extraçêo de tópicos e pesquisa em um formato JSON estruturado, seguindo um esquema predefinido com campos como: pergunta, motivo, entre outros.
 
-**Formatação e Entrega:**
+**Formataçêo e Entrega:**
 
-- **Formatar Texto dos Tópicos e Título**: Um nó de código formata os tópicos e perguntas em uma estrutura apropriada, incluindo formatação HTML. Isso torna o resumo visualmente mais atraente para os usuários finais.
-- **Enviar Resumo**: Por fim, um nó do Gmail envia o resumo por e-mail. O e-mail inclui o resumo do episódio, os tópicos discutidos e perguntas para reflexão.
+- **Formatar Texto dos Tópicos e Título**: Um nó de código formata os tópicos e perguntas em uma estrutura apropriada, incluindo formataçêo HTML. Isso torna o resumo visualmente mais atraente para os usuários finais.
+- **Enviar Resumo**: Por fim, um nó do Gmail envia o resumo por e-mail. O e-mail inclui o resumo do episódio, os tópicos discutidos e perguntas para reflexêo.
 
-**Gestão de Memória e Contexto:**
+**Gestêo de Memória e Contexto:**
 
 - **Memória de Janela Deslizante**: Ao longo do fluxo, nós de memória ajudam a manter o contexto e armazenar histórico de conversas ou resultados intermediários. Isso garante que o modelo de linguagem tenha acesso ao contexto necessário para processar informações e gerar respostas adequadas.
 
@@ -80,16 +80,16 @@ Texto:
 
 **Resumo do Fluxo**
 
-**Disparo e Conversão da Entrada:**
-O fluxo começa com um gatilho manual. A transcrição bruta do podcast é convertida em JSON estruturado e dividida em pequenos blocos.
+**Disparo e Conversêo da Entrada:**
+O fluxo começa com um gatilho manual. A transcriçêo bruta do podcast é convertida em JSON estruturado e dividida em pequenos blocos.
 
-**Resumo e Extração de Tópicos:**
-A transcrição é resumida, e tópicos e perguntas principais são extraídos usando um modelo de linguagem. Esse processo é enriquecido com contexto adicional por meio de ferramentas de pesquisa como a Wikipédia.
+**Resumo e Extraçêo de Tópicos:**
+A transcriçêo é resumida, e tópicos e perguntas principais sêo extraídos usando um modelo de linguagem. Esse processo é enriquecido com contexto adicional por meio de ferramentas de pesquisa como a Wikipédia.
 
-**Enriquecimento e Estruturação da Saída:**
-Os tópicos extraídos são aprofundados com pesquisas. A saída final é organizada com base em um esquema JSON consistente.
+**Enriquecimento e Estruturaçêo da Saída:**
+Os tópicos extraídos sêo aprofundados com pesquisas. A saída final é organizada com base em um esquema JSON consistente.
 
-**Formatação e Envio do Resumo:**
+**Formataçêo e Envio do Resumo:**
 A saída estruturada é formatada em HTML e enviada por e-mail, entregando um resumo completo do conteúdo do episódio ao usuário.
 
 ---
@@ -97,7 +97,7 @@ A saída estruturada é formatada em HTML e enviada por e-mail, entregando um re
 **Pontos-Chave**
 
 **Design Modular:**
-O fluxo de trabalho é altamente modular. Cada etapa (transcrição, resumo, extração, enriquecimento, formatação e entrega) é tratada por nós separados, o que facilita atualizações e manutenções.
+O fluxo de trabalho é altamente modular. Cada etapa (transcriçêo, resumo, extraçêo, enriquecimento, formataçêo e entrega) é tratada por nós separados, o que facilita atualizações e manutenções.
 
 **Memória Contextual:**
 Nós de memória mantêm o contexto durante o fluxo, essencial ao lidar com transcrições longas e processamento em várias etapas.
@@ -105,7 +105,7 @@ Nós de memória mantêm o contexto durante o fluxo, essencial ao lidar com tran
 **Saída Estruturada:**
 O uso de um analisador de saída estruturada garante que os dados finais estejam organizados conforme um esquema definido, o que facilita integrações com outros sistemas (como Google Sheets).
 
-**Pesquisa e Formatação Automatizadas:**
+**Pesquisa e Formataçêo Automatizadas:**
 Ao integrar ferramentas de pesquisa (como
 
 ------------------------------

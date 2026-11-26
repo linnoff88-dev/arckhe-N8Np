@@ -21,7 +21,7 @@ MENSAGEM 2
 Autor: INEMA
 Data: 2025-08-03T05:44:10+00:00
 Texto: [Sem texto]
-Midia: MessageMediaDocument -> Documentação - Fluxo ONG Castração Central (n8n v1.104.2).md
+Midia: MessageMediaDocument -> Documentaçêo - Fluxo ONG Castraçêo Central (n8n v1.104.2).md
 
 ------------------------------
 
@@ -32,14 +32,14 @@ Texto:
 **🎯 Estrutura Implementada:
 **
 **Agente Orquestrador Principal:**
-OrquestradorONG com classificação inteligente de intenções
+OrquestradorONG com classificaçêo inteligente de intenções
 Triggers para WhatsApp (EvolutionAPI) e E-mail (IMAP)
 Roteamento automático para agentes especializados
 
 **4 Subagentes Especializados:**
 **AgenteCastracao** - Agendamento com Supabase + Google Calendar
 **AgenteAdocaoDoacao** - Gerenciamento de adoções/doações
-**AgenteAnimaisPerdidos** - Registro com geolocalização
+**AgenteAnimaisPerdidos** - Registro com geolocalizaçêo
 **AgenteDicas** - RAG com base vetorial para dúvidas
 
 **🔧 Funcionalidades Incluídas:**
@@ -47,7 +47,7 @@ Multicanal (WhatsApp + E-mail)
 Logging completo no Supabase
 Tratamento de erros robusto
 Memória Redis e Supabase
-Integração Google Calendar
+Integraçêo Google Calendar
 Sistema RAG para dúvidas frequentes
 
 **📋 Compatibilidade:**

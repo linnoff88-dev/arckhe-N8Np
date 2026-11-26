@@ -61,7 +61,7 @@ MENSAGEM 7
 Autor: Madworks
 Data: 2025-06-08T04:52:26+00:00
 Texto:
-Gratidão prof vc e D+
+Gratidêo prof vc e D+
 
 ------------------------------
 
@@ -88,11 +88,11 @@ Data: 2025-06-08T04:51:13+00:00
 Texto:
 **Resumo completo do vídeo "Sell this \$100k AI Dashboard… Loveable 2.0"**
 
-O vídeo apresenta um tutorial prático e detalhado para construir um **painel de IA avaliado em até US\$ 100 mil**, usando **zero código**, com automações no **Lovable 2.0**, integrado com **Airtable**, **n8n**, **11 Labs** e **Apify**. O foco está em resolver problemas de negócios com sistemas inteligentes e não apenas “vender IA”.
+O vídeo apresenta um tutorial prático e detalhado para construir um **painel de IA avaliado em até US\$ 100 mil**, usando **zero código**, com automações no **Lovable 2.0**, integrado com **Airtable**, **n8n**, **11 Labs** e **Apify**. O foco está em resolver problemas de negócios com sistemas inteligentes e nêo apenas “vender IA”.
 
 ### Etapas e Funcionalidades Demonstradas:
 
-1. **Criação do Painel com Lovable 2.0**
+1. **Criaçêo do Painel com Lovable 2.0**
 
    * Interface construída por comando de texto ou voz.
    * Apresenta gráficos acionáveis e atualizados com dados reais do Airtable.
@@ -100,15 +100,15 @@ O vídeo apresenta um tutorial prático e detalhado para construir um **painel d
 
 2. **Sistema com Métricas de Negócio**
 
-   * Métricas: leads, agendamentos, apresentações, vendas, conversão e foco.
+   * Métricas: leads, agendamentos, apresentações, vendas, conversêo e foco.
    * Dados organizados no Airtable e atualizados em tempo real.
-   * IA gera insights e plano de ação com base nos números.
+   * IA gera insights e plano de açêo com base nos números.
 
-3. **Integração com Agente de Voz (11 Labs)**
+3. **Integraçêo com Agente de Voz (11 Labs)**
 
-   * Criação de um agente chamado “Archer”.
+   * Criaçêo de um agente chamado “Archer”.
    * Capaz de responder perguntas, dar conselhos estratégicos e marcar reuniões.
-   * Integração com voz realista, adaptável por idioma e sotaque.
+   * Integraçêo com voz realista, adaptável por idioma e sotaque.
 
 4. **Uso de RAG (Retrieval-Augmented Generation)**
 
@@ -116,13 +116,13 @@ O vídeo apresenta um tutorial prático e detalhado para construir um **painel d
    * Utiliza **Apify** para extrair todo o conteúdo de websites.
    * IA responde com base no contexto atualizado da empresa.
 
-5. **Automação com n8n**
+5. **Automaçêo com n8n**
 
    * O agente aciona webhooks e executa fluxos conforme comandos do usuário.
-   * Ações possíveis: agendar reunião, buscar dados, enviar e-mail, atualizar registros etc.
+   * Ações possíveis: agendar reuniêo, buscar dados, enviar e-mail, atualizar registros etc.
    * Sistema modular com subagentes especializados.
 
-6. **Design e Personalização**
+6. **Design e Personalizaçêo**
 
    * Dashboard estilizado com logo e cores da marca do cliente.
    * Fontes como "Poppins", design limpo e moderno.
@@ -131,20 +131,20 @@ O vídeo apresenta um tutorial prático e detalhado para construir um **painel d
 7. **Venda do Sistema**
 
    * Estratégia baseada em entrega de valor: mostrar métricas, diagnosticar gargalos e sugerir melhorias.
-   * Modelo escalável: uma única aplicação pode ser personalizada por cliente.
-   * Potencial de venda por US\$ 10 mil a US\$ 100 mil, com custo de manutenção muito baixo.
+   * Modelo escalável: uma única aplicaçêo pode ser personalizada por cliente.
+   * Potencial de venda por US\$ 10 mil a US\$ 100 mil, com custo de manutençêo muito baixo.
 
 ---
 
 ### Aplicações e Exemplos:
 
-* **Exemplo prático de conversão**: 100 leads → 50 agendamentos → 20 apresentações → 6 vendas → 30% conversão.
-* **Ajuste de foco automático**: se a taxa de apresentação for baixa, o sistema sugere ações para aumentar esse índice.
-* **Substitui apresentações estáticas**: o painel com voz e dados vivos torna-se a apresentação.
+* **Exemplo prático de conversêo**: 100 leads → 50 agendamentos → 20 apresentações → 6 vendas → 30% conversêo.
+* **Ajuste de foco automático**: se a taxa de apresentaçêo for baixa, o sistema sugere ações para aumentar esse índice.
+* **Substitui apresentações estáticas**: o painel com voz e dados vivos torna-se a apresentaçêo.
 
 ---
 
-### Conclusão:
+### Conclusêo:
 
 O projeto mostra como combinar ferramentas no-code para criar um painel interativo, inteligente e personalizável, com potencial de alto valor de mercado. A abordagem mostra como transformar dados e IA em uma experiência real para o cliente, indo além do “produto bonito” e focando em **resultados concretos e mensuráveis**.
 
@@ -166,7 +166,7 @@ Texto:
 
 Como construir um painel de controle com IA avaliado em \$100.000 usando automações sem código no Loveable 2.0.
 
-Você aprenderá a configurar um sistema de geração aumentada por recuperação (RAG), integrar agentes de voz personalizados com a tecnologia da Eleven Labs e extrair dados de sites de clientes de forma simples com o Apify — sem necessidade de experiência em programação.
+Você aprenderá a configurar um sistema de geraçêo aumentada por recuperaçêo (RAG), integrar agentes de voz personalizados com a tecnologia da Eleven Labs e extrair dados de sites de clientes de forma simples com o Apify — sem necessidade de experiência em programaçêo.
 
 🧰 **Ferramentas**
 🔥 Loveable: [https://lovable.dev/?via=jack](https://lovable.dev/?via=inematds)

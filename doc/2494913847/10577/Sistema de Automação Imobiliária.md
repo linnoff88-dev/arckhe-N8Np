@@ -1,8 +1,8 @@
-# Sistema de Automação Imobiliária
+# Sistema de Automaçêo Imobiliária
 
-## 🏠 Visão Geral
+## 🏠 Visêo Geral
 
-Sistema completo de automação para imobiliárias usando n8n, integrando WhatsApp Business, E-mail e Telegram com backend Supabase. Oferece atendimento automatizado inteligente com supervisão humana (HITL - Human-in-the-Loop).
+Sistema completo de automaçêo para imobiliárias usando n8n, integrando WhatsApp Business, E-mail e Telegram com backend Supabase. Oferece atendimento automatizado inteligente com supervisêo humana (HITL - Human-in-the-Loop).
 
 ## ✨ Funcionalidades Principais
 
@@ -10,24 +10,24 @@ Sistema completo de automação para imobiliárias usando n8n, integrando WhatsA
 - **Orquestrador Central**: Coordena todas as interações e roteia para agentes especializados
 - **Atendimento Inicial**: Qualifica leads e identifica necessidades
 - **Agendamento de Visitas**: Automatiza agendamentos com confirmações
-- **Captação de Proprietários**: Processa cadastros de imóveis
+- **Captaçêo de Proprietários**: Processa cadastros de imóveis
 - **Relacionamento**: Follow-up automático e newsletter personalizada
 
-### 📱 Canais de Comunicação
+### 📱 Canais de Comunicaçêo
 - **WhatsApp Business API**: Atendimento via WhatsApp com respostas automáticas
 - **E-mail IMAP/SMTP**: Processamento de e-mails com newsletter HTML
-- **Telegram Bot**: Supervisão e controle via comandos
+- **Telegram Bot**: Supervisêo e controle via comandos
 
 ### 🎯 Sistema HITL
-- Supervisão humana inteligente
+- Supervisêo humana inteligente
 - Notificações automáticas para casos complexos
 - Dashboard de controle via Telegram
-- Aprovação e resposta manual quando necessário
+- Aprovaçêo e resposta manual quando necessário
 
 ### 📊 Analytics e Relatórios
 - Métricas em tempo real
 - Relatórios diários e semanais
-- Score de qualificação de clientes
+- Score de qualificaçêo de clientes
 - Monitoramento de performance
 
 ## 🏗️ Arquitetura
@@ -48,7 +48,7 @@ Sistema completo de automação para imobiliárias usando n8n, integrando WhatsA
           ┌──────────────────────┼──────────────────────┐
           │                      │                      │
 ┌─────────┴───────┐    ┌─────────┴───────┐    ┌─────────┴───────┐
-│   Atendimento   │    │   Agendamento   │    │   Captação      │
+│   Atendimento   │    │   Agendamento   │    │   Captaçêo      │
 │    Inicial      │    │   de Visitas    │    │ Proprietários   │
 └─────────────────┘    └─────────────────┘    └─────────────────┘
           │                      │                      │
@@ -60,7 +60,7 @@ Sistema completo de automação para imobiliárias usando n8n, integrando WhatsA
                     └───────────────────────────┘
 ```
 
-## 🚀 Instalação Rápida
+## 🚀 Instalaçêo Rápida
 
 ### Pré-requisitos
 - Conta Supabase
@@ -116,7 +116,7 @@ automacao-imobiliaria/
 └── README.md
 ```
 
-## 🔧 Configuração
+## 🔧 Configuraçêo
 
 ### Variáveis de Ambiente Principais
 
@@ -149,14 +149,14 @@ INTERNAL_API_KEY=sua_chave_interna
 
 ### Principais Indicadores
 - **Tempo de Resposta**: < 60 segundos
-- **Taxa de Resolução Automática**: > 85%
-- **Satisfação do Cliente**: > 4.5/5
-- **Taxa de Conversão**: > 15%
+- **Taxa de Resoluçêo Automática**: > 85%
+- **Satisfaçêo do Cliente**: > 4.5/5
+- **Taxa de Conversêo**: > 15%
 - **Uptime do Sistema**: > 99.5%
 
 ### Dashboard Telegram
 - Status do sistema em tempo real
-- Clientes ativos e score de qualificação
+- Clientes ativos e score de qualificaçêo
 - Visitas agendadas para o dia
 - Solicitações HITL pendentes
 - Relatórios automáticos
@@ -165,17 +165,17 @@ INTERNAL_API_KEY=sua_chave_interna
 
 ### Para Imobiliárias
 - Atendimento 24/7 automatizado
-- Qualificação inteligente de leads
+- Qualificaçêo inteligente de leads
 - Agendamento automático de visitas
 - Follow-up personalizado
-- Captação de novos imóveis
+- Captaçêo de novos imóveis
 
 ### Para Corretores
 - Dashboard de controle via Telegram
 - Notificações de leads qualificados
 - Agenda automatizada
 - Relatórios de performance
-- Supervisão de IA quando necessário
+- Supervisêo de IA quando necessário
 
 ### Para Clientes
 - Atendimento instantâneo
@@ -187,34 +187,34 @@ INTERNAL_API_KEY=sua_chave_interna
 ## 🔒 Segurança
 
 - **Row Level Security (RLS)** no Supabase
-- **Autenticação por tokens** em todas as APIs
+- **Autenticaçêo por tokens** em todas as APIs
 - **Criptografia TLS** em todas as comunicações
 - **Logs auditáveis** de todas as operações
 - **Controle de acesso** granular por usuário
 
 ## 📈 Escalabilidade
 
-- **Arquitetura modular** permite expansão fácil
+- **Arquitetura modular** permite expansêo fácil
 - **Webhooks assíncronos** para alta performance
-- **Cache inteligente** para otimização
-- **Rate limiting** para proteção de APIs
+- **Cache inteligente** para otimizaçêo
+- **Rate limiting** para proteçêo de APIs
 - **Monitoramento** proativo de recursos
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **n8n**: Automação e workflows
+- **n8n**: Automaçêo e workflows
 - **Supabase**: Backend e banco de dados PostgreSQL
-- **WhatsApp Business API**: Comunicação via WhatsApp
-- **Telegram Bot API**: Interface de supervisão
+- **WhatsApp Business API**: Comunicaçêo via WhatsApp
+- **Telegram Bot API**: Interface de supervisêo
 - **SMTP/IMAP**: Processamento de e-mails
 - **JavaScript/Node.js**: Lógica de negócio
 - **SQL**: Consultas e relatórios
 
-## 📚 Documentação
+## 📚 Documentaçêo
 
-- [Manual de Instalação](documentacao/manual-instalacao.md)
+- [Manual de Instalaçêo](documentacao/manual-instalacao.md)
 - [Guia de Uso](documentacao/guia-uso.md)
-- [Configuração de Variáveis](documentacao/configuracao-variaveis.md)
+- [Configuraçêo de Variáveis](documentacao/configuracao-variaveis.md)
 - [Troubleshooting e FAQ](documentacao/troubleshooting-faq.md)
 - [Arquitetura do Sistema](documentacao/arquitetura.md)
 
@@ -223,7 +223,7 @@ INTERNAL_API_KEY=sua_chave_interna
 ### Canais de Suporte
 - **E-mail**: suporte@imobiliaria.com
 - **Telegram**: @suporte_imobiliaria
-- **Documentação**: [Wiki do projeto]
+- **Documentaçêo**: [Wiki do projeto]
 
 ### SLA
 - **Crítico**: 4 horas
@@ -252,9 +252,9 @@ Para contribuir com o projeto:
 
 ---
 
-**Versão**: 1.0.0  
-**Última atualização**: 26/06/2025  
-**Status**: Produção
+**Versêo**: 1.0.0  
+**Última atualizaçêo**: 26/06/2025  
+**Status**: Produçêo
 
-> 💡 **Dica**: Comece pelo [Manual de Instalação](documentacao/manual-instalacao.md) para configurar o sistema passo a passo.
+> 💡 **Dica**: Comece pelo [Manual de Instalaçêo](documentacao/manual-instalacao.md) para configurar o sistema passo a passo.
 

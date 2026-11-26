@@ -13,7 +13,7 @@ MENSAGEM 1
 Autor: INEMA
 Data: 2025-11-07T05:35:23+00:00
 Texto:
-tração de fato.
+traçêo de fato.
    * Resposta: mensura a eficácia do método.
 
 10. Provenance automático
@@ -29,7 +29,7 @@ tração de fato.
 12. Teste large context windows com cuidado
 
     * Ex.: 60k tokens em avaliações.
-    * Resposta: bom para precisão, caro.
+    * Resposta: bom para precisêo, caro.
 
 13. Verificadores automáticos pós-resposta
 
@@ -41,7 +41,7 @@ tração de fato.
     * Ex.: get_user_profile(user_id).
     * Resposta: mais seguro/eficiente.
 
-15. Geração automática de datasets e prompts
+15. Geraçêo automática de datasets e prompts
 
     * Ex.: pedir ao LLM para criar 100 queries de teste.
     * Resposta: útil para prototipagem.
@@ -59,27 +59,27 @@ tag timestamp.
 
 9. Teste com avaliações “needle-in-haystack” e métricas reais
 
-* Hack: crie queries de avaliação específicas (buscar pequeno fato dentro de muitos docs) e meça precisão/recall/latência/custo.
+* Hack: crie queries de avaliaçêo específicas (buscar pequeno fato dentro de muitos docs) e meça precisêo/recall/latência/custo.
 * Exemplo: 100 perguntas sobre fatos pontuais; compare vetores vs full-context vs SQL.
-* Pergunta: quanto devo pagar por essa avaliação?
+* Pergunta: quanto devo pagar por essa avaliaçêo?
 
   * Resposta: depende do modelo; use amostras representativas antes de rodar em larga escala.
 
-10. Tracking de proveniência e verificação em cadeia (provenance)
+10. Tracking de proveniência e verificaçêo em cadeia (provenance)
 
 * Hack: sempre retorne para o usuário a fonte (doc_id, url, timestamp) usada para formar a resposta. Implementar um “footnote” automático.
 * Exemplo: resposta: “Segundo Doc A (video_id X, t=03:12–03:45)…”
 * Pergunta: isso impede hallucinations?
 
-  * Resposta: reduz risco e facilita checagem humana, mas não elimina totalmente.
+  * Resposta: reduz risco e facilita checagem humana, mas nêo elimina totalmente.
 
 11. Estratégias de custo: filtrar antes de passar para LLM
 
 * Hack: aplique filtros/SQL para reduzir o conjunto antes de chamar LLMs caros. Use modelos menores para etapas de triagem.
 * Exemplo: rodar pré-filtros em Supabase, depois chamar LLM só com subset.
-* Pergunta: models menores são seguros?
+* Pergunta: models menores sêo seguros?
 
-  * Resposta: para triagem sim; validação final em modelo maior.
+  * Resposta: para triagem sim; validaçêo final em modelo maior.
 
 12. Use janelas de contexto grandes quando possível (heavy models) — mas com cuidado
 
@@ -87,7 +87,7 @@ tag timestamp.
 * Exemplo: 60k tokens em system prompt funcionou melhor em avaliações do Nate.
 * Pergunta: é sempre melhor?
 
-  * Resposta: não — é caro e lento; bom para casos onde precisão supera custo.
+  * Resposta: nêo — é caro e lento; bom para casos onde precisêo supera custo.
 
 13. Guardrails e checks automatizados pós-resposta
 
@@ -99,13 +99,13 @@ tag timestamp.
 
 14. Ferramentas que ajudam: chain-of-thought control, tool calling, memory
 
-* Hack: use tool-calling para consultas precisas e “memory” para contexto persistente de usuário. Evite expor memória sensível a vetorização sem cuidado.
+* Hack: use tool-calling para consultas precisas e “memory” para contexto persistente de usuário. Evite expor memória sensível a vetorizaçêo sem cuidado.
 * Exemplo: usar tool get_user_profile(user_id) em vez de passar todos os dados no prompt.
 * Pergunta: memory melhora as respostas?
 
-  * Resposta: sim, para personalização; cuidado com privacidade.
+  * Resposta: sim, para personalizaçêo; cuidado com privacidade.
 
-15. Automação de criação de prompts e test dataset pelo próprio ChatGPT
+15. Automaçêo de criaçêo de prompts e test dataset pelo próprio ChatGPT
 
 * Hack: gere exemplos sintéticos e o system prompt via LLM (pede para gerar dados de teste e queries) — economiza tempo para validar agentes.
 * Exemplo: “Gere 50 perguntas típicas que usuários fariam sobre vendas e as respostas esperadas.”
@@ -115,17 +115,17 @@ tag timestamp.
 
 # Lista final — tópicos + exemplos + respostas às perguntas (resumido)
 
-1. Seleção por tipo de pergunta
+1. Seleçêo por tipo de pergunta
 
-   * Ex.: agregação → SQL; resumo → full-context.
-   * Resposta: escolha conforme necessidade de ordem/precisão.
+   * Ex.: agregaçêo → SQL; resumo → full-context.
+   * Resposta: escolha conforme necessidade de ordem/precisêo.
 
 2. Metadata em vetores
 
    * Ex.: {doc_id, t_start, t_end, url}.
    * Resposta: essencial para rastreabilidade.
 
-3. Tabelas → não chunkize
+3. Tabelas → nêo chunkize
 
    * Ex.: vendas em DB → SQL.
    * Resposta: chunk = erro para cálculos.
@@ -152,7 +152,7 @@ tag timestamp.
 
 8. Chunk size & overlap inteligente
 
-   * Ex.: 1 min chunks de transcrição com 5s overlap.
+   * Ex.: 1 min chunks de transcriçêo com 5s overlap.
    * Resposta: reduz perda de contexto.
 
 9. Avaliações needle-in-haystack
@@ -169,7 +169,7 @@ Texto:
 
 # Resumo rápido
 
-O problema não é só o modelo: é **como você entrega contexto**. Existem 4 abordagens principais para dar contexto a um agente: **filtros (filtering)**, **consultas SQL (querying)**, **contexto completo (full-context / tool calls)** e **vetorização (vector store / chunking)**. Cada uma tem trade-offs de custo, velocidade e fidelidade. Escolha a abordagem conforme o tipo de pergunta que seu sistema receberá.
+O problema nêo é só o modelo: é **como você entrega contexto**. Existem 4 abordagens principais para dar contexto a um agente: **filtros (filtering)**, **consultas SQL (querying)**, **contexto completo (full-context / tool calls)** e **vetorizaçêo (vector store / chunking)**. Cada uma tem trade-offs de custo, velocidade e fidelidade. Escolha a abordagem conforme o tipo de pergunta que seu sistema receberá.
 
 # Hacks práticos (com exemplo e resposta)
 
@@ -184,18 +184,18 @@ O problema não é só o modelo: é **como você entrega contexto**. Existem 4 a
 2. Metadata + tagging é obrigatório para vetores
 
 * Hack: ao indexar chunks em vetor store inclua metadata: doc_id, source_url, timestamp, chunk_start_time, chunk_order.
-* Exemplo: transcrição YouTube → chunk + {video_id, t_start, t_end, title}.
+* Exemplo: transcriçêo YouTube → chunk + {video_id, t_start, t_end, title}.
 * Pergunta: metadata resolve tudo?
 
   * Resposta: ajuda muito, mas só se for consistente — sem metadata rica o vetor perde origem/ordem.
 
-3. Para tabelas, NUNCA chunkizar sem razão — use filtros/SQL
+3. Para tabelas, NUNCA chunkizar sem razêo — use filtros/SQL
 
 * Hack: mantenha dados tabulares fora do flow de chunks. Exponha APIs/queries que o agente possa chamar (ou gere SQL pelo modelo).
 * Exemplo: “Qual a semana com maior receita?” → SQL: SELECT week, SUM(revenue) GROUP BY week ORDER BY SUM DESC LIMIT 1.
 * Pergunta: e se eu indexei a tabela em chunks?
 
-  * Resposta: risco alto de resposta errada (só alguns chunks serão consultados). Reindexar como tabela/DB é a correção.
+  * Resposta: risco alto de resposta errada (só alguns chunks serêo consultados). Reindexar como tabela/DB é a correçêo.
 
 4. Use tool calls (documents como “ferramentas”) quando tiver documentos grandes
 
@@ -211,11 +211,11 @@ O problema não é só o modelo: é **como você entrega contexto**. Existem 4 a
 * Exemplo: resumo detalhado de webinar de 1h — full-context com timestamps.
 * Pergunta: e o custo?
 
-  * Resposta: alto em tokens; use somente se precisão/ordem for essencial.
+  * Resposta: alto em tokens; use somente se precisêo/ordem for essencial.
 
 6. Combine métodos (hybrid) — a melhor prática muitas vezes
 
-* Hack: use vetor para recuperar candidatos semânticos, mas rode um SQL/consulta estruturada ou full-context sobre os candidatos filtrados para validação/fact-checking.
+* Hack: use vetor para recuperar candidatos semânticos, mas rode um SQL/consulta estruturada ou full-context sobre os candidatos filtrados para validaçêo/fact-checking.
 * Exemplo: vetor retorna 5 chunks relevantes → agente chama um “verifier” que reconsulta a fonte original ou executa um cálculo preciso.
 * Pergunta: aumenta latência?
 
@@ -232,7 +232,7 @@ O problema não é só o modelo: é **como você entrega contexto**. Existem 4 a
 8. Controle de chunk size e overlap inteligente
 
 * Hack: use chunk sizes alinhadas à unidade lógica (ex.: parágrafos, seções, ou 6 linhas da tabela), com overlap pequeno (10–20%) e metadata de origem.
-* Exemplo: transcrição longa → chunk por minuto com overlap de 5s e tag
+* Exemplo: transcriçêo longa → chunk por minuto com overlap de 5s e tag
 
 ------------------------------
 
@@ -258,7 +258,7 @@ Texto:
 ---
 
 **Resumo final:**
-A precisão de um agente depende menos do modelo e mais de **como o contexto é projetado e entregue**.
+A precisêo de um agente depende menos do modelo e mais de **como o contexto é projetado e entregue**.
 
 A engenharia de contexto é o elo entre o dado bruto e a inteligência do agente — e escolher o método certo (filtro, SQL, full context ou vetores) é o que separa uma resposta correta de uma confusa.
 
@@ -274,9 +274,9 @@ Texto:
 
 ### 1. Motivo 
 
-Muitas pessoas reclamam que seus **agentes RAG** (Retrieval-Augmented Generation) não retornam respostas corretas. Ele mostra que o problema raramente é “o modelo”, mas sim **como o contexto é fornecido**.
+Muitas pessoas reclamam que seus **agentes RAG** (Retrieval-Augmented Generation) nêo retornam respostas corretas. Ele mostra que o problema raramente é “o modelo”, mas sim **como o contexto é fornecido**.
 
-Surge então o conceito central: **Context Engineering** — a engenharia do contexto que alimenta o agente.
+Surge entêo o conceito central: **Context Engineering** — a engenharia do contexto que alimenta o agente.
 
 ---
 
@@ -299,7 +299,7 @@ O segredo é entender **qual tipo de dado o agente precisa** e **como ele deve a
 ### 3. O conceito real de RAG
 
 Muitos pensam que RAG é sinônimo de banco vetorial (Pinecone, Supabase, etc.), mas **RAG é apenas o processo de buscar informações externas e gerar uma resposta com base nelas**.
-O modelo não sabe tudo: ele **recupera, complementa e gera** — como uma pessoa que pesquisa antes de responder.
+O modelo nêo sabe tudo: ele **recupera, complementa e gera** — como uma pessoa que pesquisa antes de responder.
 
 ---
 
@@ -334,7 +334,7 @@ O agente interpreta a linguagem natural e **filtra dados diretamente**, por exem
 Usa **consultas SQL geradas automaticamente** pelo modelo.
 Exemplo:
 
-> “Quais são os 3 produtos com maior receita total?”
+> “Quais sêo os 3 produtos com maior receita total?”
 > O agente gera uma query SQL que soma, agrupa e ordena.
 > Ideal para bases complexas com várias tabelas e funções.
 
@@ -350,13 +350,13 @@ Exemplo:
 
 ---
 
-### 6. Comparação de custos e eficiência
+### 6. Comparaçêo de custos e eficiência
 
 | Método               | Vantagem                                      | Desvantagem                    |
 | -------------------- | --------------------------------------------- | ------------------------------ |
 | **Filtros**          | Barato, rápido, preciso em dados estruturados | Limitado a consultas simples   |
 | **SQL**              | Mais robusto, ótimo para análise e cálculos   | Exige schema bem definido      |
-| **Full Context**     | Compreensão profunda, preserva ordem          | Alto custo de tokens           |
+| **Full Context**     | Compreensêo profunda, preserva ordem          | Alto custo de tokens           |
 | **Vetores (chunks)** | Rápido e barato para busca semântica          | Pode perder coerência e origem |
 
 ---
@@ -367,9 +367,9 @@ Modelos modernos (Gemini, Claude, Llama etc.) possuem **janelas de contexto enor
 
 ---
 
-### 8. Conclusão e boas práticas
+### 8. Conclusêo e boas práticas
 
-* **Não existe um único método “correto”** — depende do tipo de dado e pergunta.
+* **Nêo existe um único método “correto”** — depende do tipo de dado e pergunta.
 * Para perguntas numéricas → use **filtros ou SQL**.
 * Para perguntas semânticas → **vetores** funcionam.
 * Para resumos ou narrativas → use **contexto completo**.
@@ -391,10 +391,10 @@ MENSAGEM 8
 Autor: INEMA
 Data: 2025-11-07T05:29:00+00:00
 Texto:
-Os agentes não estão te dando respostas corretas? Veja isso.
-Quando as pessoas pensam em um agente RAG, normalmente imaginam um agente fazendo recuperação baseada em fragmentos (chunks) a partir de um banco de dados vetorial.
+Os agentes nêo estêo te dando respostas corretas? Veja isso.
+Quando as pessoas pensam em um agente RAG, normalmente imaginam um agente fazendo recuperaçêo baseada em fragmentos (chunks) a partir de um banco de dados vetorial.
 
-A verdade é que, muitas vezes, essa não é a melhor abordagem.
+A verdade é que, muitas vezes, essa nêo é a melhor abordagem.
 
 Eu queria explicar a ideia importante de **engenharia de contexto** — que envolve filtrar dados, fazer consultas SQL, usar o método de contexto completo ou empregar um banco de dados vetorial.
 
@@ -462,7 +462,7 @@ MENSAGEM 16
 Autor: INEMA
 Data: 2025-11-07T05:23:02+00:00
 Texto:
-ap72 - Agentes RAG - Não Funciona ?
+ap72 - Agentes RAG - Nêo Funciona ?
 
 ------------------------------
 

@@ -152,7 +152,7 @@ MENSAGEM 18
 Autor: Humberto
 Data: 2025-09-20T22:34:07+00:00
 Texto:
-Boa noite, [Carlos](tg://user?id=7694564173) eu gostaria da sua ajuda por onde começo ou vejo sobre automação pra fazer postagens automáticas em todas as redes sociais, a partir de um assunto e imagens de uma planilha?
+Boa noite, [Carlos](tg://user?id=7694564173) eu gostaria da sua ajuda por onde começo ou vejo sobre automaçêo pra fazer postagens automáticas em todas as redes sociais, a partir de um assunto e imagens de uma planilha?
 
 ------------------------------
 
@@ -168,7 +168,7 @@ MENSAGEM 20
 Autor: Carlos
 Data: 2025-09-17T20:22:01+00:00
 Texto:
-O que posso te dizer è que vai depender muito de você estudar o assunto que desejar. Você não terá nada de mão beijada, nenhum passo a passo detalhado, mas encontrará quem o ajude. Terá de aprender usando as LLMs e as ferramentas e se dedicar, pois do contrário não sairá do lugar e reclamar não vai ajudar.
+O que posso te dizer è que vai depender muito de você estudar o assunto que desejar. Você nêo terá nada de mêo beijada, nenhum passo a passo detalhado, mas encontrará quem o ajude. Terá de aprender usando as LLMs e as ferramentas e se dedicar, pois do contrário nêo sairá do lugar e reclamar nêo vai ajudar.
 
 ------------------------------
 
@@ -176,7 +176,7 @@ MENSAGEM 21
 Autor: Carlos
 Data: 2025-09-17T20:17:49+00:00
 Texto:
-Tem uma lógica mas não è muito fácil, como quase tudo na vida, de primeira
+Tem uma lógica mas nêo è muito fácil, como quase tudo na vida, de primeira
 
 ------------------------------
 
@@ -232,7 +232,7 @@ MENSAGEM 28
 Autor: Eric
 Data: 2025-09-15T14:52:27+00:00
 Texto:
-@Tizaaltermann Se puder me ajudar tbm, estou na mesma situação dos amigos ai
+@Tizaaltermann Se puder me ajudar tbm, estou na mesma situaçêo dos amigos ai
 
 ------------------------------
 
@@ -272,7 +272,7 @@ MENSAGEM 33
 Autor: Rogério
 Data: 2025-09-09T00:41:05+00:00
 Texto:
-Eu gostaria, quero começar do zero, não tenho conhecimento sobre ainda de como começar
+Eu gostaria, quero começar do zero, nêo tenho conhecimento sobre ainda de como começar
 
 ------------------------------
 
@@ -288,7 +288,7 @@ MENSAGEM 35
 Autor: Rogério
 Data: 2025-09-09T00:36:25+00:00
 Texto:
-Não sei nada sobre, conhecimento zero, qual o caminho que vocês recomendam?
+Nêo sei nada sobre, conhecimento zero, qual o caminho que vocês recomendam?
 
 ------------------------------
 
@@ -312,7 +312,7 @@ MENSAGEM 38
 Autor: OneNode
 Data: 2025-09-07T14:05:47+00:00
 Texto:
-qualquer informação e ajuda serei grato
+qualquer informaçêo e ajuda serei grato
 
 ------------------------------
 
@@ -320,7 +320,7 @@ MENSAGEM 39
 Autor: OneNode
 Data: 2025-09-07T14:04:55+00:00
 Texto:
-Estou criando uma automação para enviar audio.. qual IA voces estao usando para gerar audios?? que não seja robotica?
+Estou criando uma automaçêo para enviar audio.. qual IA voces estao usando para gerar audios?? que nêo seja robotica?
 
 ------------------------------
 
@@ -328,7 +328,7 @@ MENSAGEM 40
 Autor: OneNode
 Data: 2025-09-07T14:04:21+00:00
 Texto:
-queria uma informação por gentileza
+queria uma informaçêo por gentileza
 
 ------------------------------
 
@@ -349,16 +349,16 @@ Texto:
 ------------------------------
 
 MENSAGEM 43
-Autor: Lucimara Guimarães Lopes
+Autor: Lucimara Guimarêes Lopes
 Data: 2025-09-02T21:46:03+00:00
 Texto:
-Estou fazendo um agente de logística e estou usando no n8n o htttp request para colocar essa API mas não consigo configura-lo sempre dá erro ,acredito que seja algo no postman que estou fazendo errado ,não sabendo ler a documentação e também como
+Estou fazendo um agente de logística e estou usando no n8n o htttp request para colocar essa API mas nêo consigo configura-lo sempre dá erro ,acredito que seja algo no postman que estou fazendo errado ,nêo sabendo ler a documentaçêo e também como
 Preencher os dados no HTTP request
 
 ------------------------------
 
 MENSAGEM 44
-Autor: Lucimara Guimarães Lopes
+Autor: Lucimara Guimarêes Lopes
 Data: 2025-09-02T21:42:25+00:00
 Texto:
 Sim no postman
@@ -369,16 +369,16 @@ MENSAGEM 45
 Autor: Automatizze
 Data: 2025-09-02T21:14:23+00:00
 Texto:
-Não ficou muito claro, está onde ?
+Nêo ficou muito claro, está onde ?
 Postmam?
 
 ------------------------------
 
 MENSAGEM 46
-Autor: Lucimara Guimarães Lopes
+Autor: Lucimara Guimarêes Lopes
 Data: 2025-09-01T18:07:57+00:00
 Texto:
-Preciso pegar uma API de um sistema de uma empresa particular que está no postam,mas não sei fazer isso poderia me ajudar?
+Preciso pegar uma API de um sistema de uma empresa particular que está no postam,mas nêo sei fazer isso poderia me ajudar?
 
 ------------------------------
 
@@ -386,7 +386,7 @@ MENSAGEM 47
 Autor: Jose
 Data: 2025-09-01T17:06:33+00:00
 Texto:
-Os primeiros links parecem não estar funcionando
+Os primeiros links parecem nêo estar funcionando
 
 ------------------------------
 
@@ -394,7 +394,7 @@ MENSAGEM 48
 Autor: Marília
 Data: 2025-08-05T23:11:50+00:00
 Texto:
-Para quem paga o plano pró eu não sei se é necessário
+Para quem paga o plano pró eu nêo sei se é necessário
 
 ------------------------------
 
@@ -418,7 +418,7 @@ MENSAGEM 51
 Autor: Marília
 Data: 2025-08-05T23:10:37+00:00
 Texto:
-Para quem usa N8n grátis e não consegue conectar o aplicativo do Google Cloud Console.
+Para quem usa N8n grátis e nêo consegue conectar o aplicativo do Google Cloud Console.
 
 ------------------------------
 
@@ -434,7 +434,7 @@ MENSAGEM 53
 Autor: Psycrazy
 Data: 2025-08-04T01:00:41+00:00
 Texto:
-Marília, gratidão por compartilhar.
+Marília, gratidêo por compartilhar.
 
 ------------------------------
 
@@ -442,11 +442,11 @@ MENSAGEM 54
 Autor: Marília
 Data: 2025-08-01T23:04:26+00:00
 Texto:
-Oi professor Carlos. Você poderia fazer um vídeo mostrando isso na prática lá no canal. Eu não consigo fazer esses tutoriais legais. Exige muita questão de segurança da informação quando aparecem as chaves na tela e necessitamos de ocultar. 
+Oi professor Carlos. Você poderia fazer um vídeo mostrando isso na prática lá no canal. Eu nêo consigo fazer esses tutoriais legais. Exige muita questêo de segurança da informaçêo quando aparecem as chaves na tela e necessitamos de ocultar. 
 
 E gera tempo demais também. Pois cada passo precisa ser feito com cuidado. 
 
-Não sei se é pedir muito. 
+Nêo sei se é pedir muito. 
 Mas eu ia adorar ter um tutorial para fazer sempre que eu precisar novamente com o tutorial como guia.
 
 ------------------------------
@@ -497,7 +497,7 @@ MENSAGEM 60
 Autor: Marília
 Data: 2025-08-01T03:18:02+00:00
 Texto:
-Fiquei só 15 dias procurando essa solução 🫣
+Fiquei só 15 dias procurando essa soluçêo 🫣
 
 ------------------------------
 
@@ -522,9 +522,9 @@ MENSAGEM 63
 Autor: Marília
 Data: 2025-08-01T03:16:26+00:00
 Texto:
-Para que não conseguiu ainda conectar o GMAIL API no N8n
+Para que nêo conseguiu ainda conectar o GMAIL API no N8n
 
-A solução é.
+A soluçêo é.
 
 Fazer um subdomínio no Cloudflare 
 
@@ -532,17 +532,17 @@ Após isso configurar no cloudflare com o seu domínio público.
 (Obs: Compre um domínio na HOSTINGER)
 E redirecione pelo tunelamento no CMD para o subdomínio e cadastre depois no Cloudflare. 
 
-Após configurar isso, Deve ir no N8N nas credenciais que ficam abaixo do botão Criar WORKFLOW. 
+Após configurar isso, Deve ir no N8N nas credenciais que ficam abaixo do botêo Criar WORKFLOW. 
 
 SELECIONA o GMAIL API e conecta o ID E CHAVE SECRETA QUE ESTÁ NO SEU GOOGLE CLOUD. 
 
 POIS O SEU N8N já vai estar configurado para redirecionar para a porta do seu N8n. 
 
-Primeiro eu estava usando o CMD com o Tunelamento aberto pois se fechasse a porta do N8N não seria redirecionado para o Domínio.
+Primeiro eu estava usando o CMD com o Tunelamento aberto pois se fechasse a porta do N8N nêo seria redirecionado para o Domínio.
 
 Mas o chAT GPT me mostrou um comando que permite rodar em segundo plano o tunelamento sem precisar abrir o CMD. 
-Tem essa opção também, se alguém não conseguir o comando, vou deixar logo abaixo. 
-Daí quando testa o Gmail API, vai solicitar que abra as configurações de segurança. Apenas no momento do teste manter a configuração com a opção Sem segurança. Assim, conecta automaticamente o seu Gmail para testar.
+Tem essa opçêo também, se alguém nêo conseguir o comando, vou deixar logo abaixo. 
+Daí quando testa o Gmail API, vai solicitar que abra as configurações de segurança. Apenas no momento do teste manter a configuraçêo com a opçêo Sem segurança. Assim, conecta automaticamente o seu Gmail para testar.
 
 ------------------------------
 
@@ -552,11 +552,11 @@ Data: 2025-08-01T03:09:09+00:00
 Texto:
 https://youtu.be/sg7QGdFtZuw?si=HIx79bdYZ3GuOdJA
 
-N8N - SUPABASE - LOVABLE EDIÇÃO 
+N8N - SUPABASE - LOVABLE EDIÇêO 
 
 DUBLEI NO CAPCUT ESTE VÍDEO QUE ENSINA COMO USAR O SUPABASE COMO BACKEND SIMULTÂNEAMENTE COM O LOVABLE.
 
-MUITO BOM PARA ENTENDER COMO FUNCIONA A CONSTRUÇÃO DAS AUTOMAÇÕES. E SEUS RESULTADOS FINAIS.
+MUITO BOM PARA ENTENDER COMO FUNCIONA A CONSTRUÇêO DAS AUTOMAÇÕES. E SEUS RESULTADOS FINAIS.
 Midia: MessageMediaWebPage
 
 ------------------------------
@@ -661,17 +661,17 @@ MENSAGEM 76
 Autor: INEMA
 Data: 2025-03-16T05:58:39+00:00
 Texto:
-automações simples, elas não oferecem o mesmo nível de controle e personalização do **n8n**.  
+automações simples, elas nêo oferecem o mesmo nível de controle e personalizaçêo do **n8n**.  
 
 🔀 **Fluxos modulares e escaláveis:** A maioria das plataformas segue um fluxo linear (início → fim), sem permitir chamadas de sub-fluxos. O **n8n** possibilita fluxos **reutilizáveis e escaláveis**.  
 
-🧠 **Melhor integração com IA:** A modularidade do **n8n** permite construir **ferramentas dinâmicas** para agentes de IA, tornando as automações mais inteligentes e adaptáveis ao contexto.  
+🧠 **Melhor integraçêo com IA:** A modularidade do **n8n** permite construir **ferramentas dinâmicas** para agentes de IA, tornando as automações mais inteligentes e adaptáveis ao contexto.  
 
 💰 **Custo-benefício:** Como é **open-source**, hospedar o **n8n** pode ser mais barato do que as assinaturas mensais de concorrentes, especialmente para empresas que processam grandes volumes de dados.  
 
 ---
 
-### 5. Por que o n8n é Perfeito para Construção de Fluxos para Agentes de IA  
+### 5. Por que o n8n é Perfeito para Construçêo de Fluxos para Agentes de IA  
 
 O **n8n** permite criar um **ecossistema de fluxos reutilizáveis**, nos quais **agentes de IA** podem acessar ferramentas complexas sem precisar recriá-las em tempo real.  
 
@@ -679,18 +679,18 @@ O **n8n** permite criar um **ecossistema de fluxos reutilizáveis**, nos quais *
 
 🔹 **Modularidade:** Cada ferramenta é um fluxo que executa uma **tarefa específica** (exemplo: coleta de dados, limpeza, chamada de API, etc.).  
 📈 **Escalabilidade:** À medida que novas demandas surgem, é possível criar **novas ferramentas** ou modificar as existentes sem comprometer o sistema.  
-🤖 **Adaptação para IA:** Um agente de IA pode escolher qual ferramenta chamar de acordo com o objetivo. Exemplo: se precisar **resumir um conteúdo**, ele chama um fluxo de **resumo**. Se precisar buscar dados, chama um fluxo de **coleta de dados**.  
+🤖 **Adaptaçêo para IA:** Um agente de IA pode escolher qual ferramenta chamar de acordo com o objetivo. Exemplo: se precisar **resumir um conteúdo**, ele chama um fluxo de **resumo**. Se precisar buscar dados, chama um fluxo de **coleta de dados**.  
 
 ---
 
 ### **Resumo: O Poder do n8n**  
 
-✔ **Personalizável:** Diferente da maioria das plataformas low-code, permite **criação de fluxos altamente customizáveis**.  
-✔ **Open-source e Auto-Hospedado:** Controle total sobre os dados e flexibilidade de implementação.  
+✔ **Personalizável:** Diferente da maioria das plataformas low-code, permite **criaçêo de fluxos altamente customizáveis**.  
+✔ **Open-source e Auto-Hospedado:** Controle total sobre os dados e flexibilidade de implementaçêo.  
 ✔ **Modular e Escalável:** Fluxos reutilizáveis para **criar processos dinâmicos e eficientes**.  
-✔ **Perfeito para IA e Automação:** Facilita **integração com serviços de IA** e criação de fluxos que **agentes inteligentes** podem chamar dinamicamente.  
+✔ **Perfeito para IA e Automaçêo:** Facilita **integraçêo com serviços de IA** e criaçêo de fluxos que **agentes inteligentes** podem chamar dinamicamente.  
 
-O **n8n** oferece uma combinação única de **modularidade, reutilização e integração com IA**, tornando-se a melhor escolha para quem busca **criar automações inteligentes, escaláveis e personalizáveis**.
+O **n8n** oferece uma combinaçêo única de **modularidade, reutilizaçêo e integraçêo com IA**, tornando-se a melhor escolha para quem busca **criar automações inteligentes, escaláveis e personalizáveis**.
 
 ------------------------------
 
@@ -700,18 +700,18 @@ Data: 2025-03-16T05:58:39+00:00
 Texto:
 ### Por que  o n8n?
 
-O **n8n** é uma poderosa ferramenta de automação low-code para a criação de fluxos de trabalho altamente personalizáveis e integrações. Ele é especialmente popular entre desenvolvedores, empresas e entusiastas da automação devido à sua flexibilidade, natureza open-source e capacidade de escalar além das automações básicas. Vamos explorar por que o **n8n** se destaca no universo da automação low-code e como ele é ideal para construir fluxos de trabalho como ferramentas reutilizáveis por agentes de IA.
+O **n8n** é uma poderosa ferramenta de automaçêo low-code para a criaçêo de fluxos de trabalho altamente personalizáveis e integrações. Ele é especialmente popular entre desenvolvedores, empresas e entusiastas da automaçêo devido à sua flexibilidade, natureza open-source e capacidade de escalar além das automações básicas. Vamos explorar por que o **n8n** se destaca no universo da automaçêo low-code e como ele é ideal para construir fluxos de trabalho como ferramentas reutilizáveis por agentes de IA.
 
 ---
 
-### 1. Flexibilidade e Personalização  
+### 1. Flexibilidade e Personalizaçêo  
 
-Diferente de muitas plataformas low-code, o **n8n** foi projetado para oferecer controle total sobre os fluxos de trabalho. Com mais de **700 integrações pré-construídas** e a opção de personalizá-las, você não fica preso a automações padronizadas. Ele permite modificar, expandir e adaptar fluxos conforme necessidades específicas, tornando-se adequado para quase qualquer caso de uso.
+Diferente de muitas plataformas low-code, o **n8n** foi projetado para oferecer controle total sobre os fluxos de trabalho. Com mais de **700 integrações pré-construídas** e a opçêo de personalizá-las, você nêo fica preso a automações padronizadas. Ele permite modificar, expandir e adaptar fluxos conforme necessidades específicas, tornando-se adequado para quase qualquer caso de uso.
 
 #### **Principais benefícios:**
-✅ **Nodos de código personalizado:** Permite escrever código JavaScript diretamente nos fluxos, facilitando a manipulação de lógica complexa.  
-✅ **Opção de auto-hospedagem:** Por ser **open-source**, pode ser hospedado em servidores próprios, garantindo controle total sobre os dados, algo essencial para setores com regras rígidas de privacidade.  
-✅ **Sem dependência de fornecedor:** Diferente de muitas ferramentas low-code que limitam seu ecossistema, o **n8n** possui uma arquitetura aberta, permitindo integração fácil com outros sistemas e garantindo liberdade para movimentar dados.  
+✅ **Nodos de código personalizado:** Permite escrever código JavaScript diretamente nos fluxos, facilitando a manipulaçêo de lógica complexa.  
+✅ **Opçêo de auto-hospedagem:** Por ser **open-source**, pode ser hospedado em servidores próprios, garantindo controle total sobre os dados, algo essencial para setores com regras rígidas de privacidade.  
+✅ **Sem dependência de fornecedor:** Diferente de muitas ferramentas low-code que limitam seu ecossistema, o **n8n** possui uma arquitetura aberta, permitindo integraçêo fácil com outros sistemas e garantindo liberdade para movimentar dados.  
 
 ---
 
@@ -719,24 +719,24 @@ Diferente de muitas plataformas low-code, o **n8n** foi projetado para oferecer 
 
 A flexibilidade do **n8n** permite aplicações diversas, como:
 
-🔄 **Sincronização de Dados**: Automatize a sincronização de informações entre CRMs, bancos de dados e ferramentas de gestão de projetos.  
+🔄 **Sincronizaçêo de Dados**: Automatize a sincronizaçêo de informações entre CRMs, bancos de dados e ferramentas de gestêo de projetos.  
 
-🎯 **Geração de Leads**: Coleta automática de leads integrando com **LinkedIn, Facebook Ads e Google Sheets**.  
+🎯 **Geraçêo de Leads**: Coleta automática de leads integrando com **LinkedIn, Facebook Ads e Google Sheets**.  
 
-🛒 **Automação para E-commerce**: Gerenciamento de estoque, processamento de pedidos e sincronização de clientes com plataformas como **Shopify e WooCommerce**.  
+🛒 **Automaçêo para E-commerce**: Gerenciamento de estoque, processamento de pedidos e sincronizaçêo de clientes com plataformas como **Shopify e WooCommerce**.  
 
 📞 **Suporte ao Cliente**: Automatize o encaminhamento de tickets, follow-ups e integrações com **Zendesk e Slack**.  
 
-🤖 **Integração com IA**: Conecte-se com serviços de IA (**OpenAI, Google AI**) para criar fluxos que **geram respostas, resumem conteúdos ou analisam sentimentos**.  
+🤖 **Integraçêo com IA**: Conecte-se com serviços de IA (**OpenAI, Google AI**) para criar fluxos que **geram respostas, resumem conteúdos ou analisam sentimentos**.  
 
 ---
 
-### 3. Construção de Fluxos de Trabalho como Ferramentas Modulares e Reutilizáveis  
+### 3. Construçêo de Fluxos de Trabalho como Ferramentas Modulares e Reutilizáveis  
 
-Uma das grandes vantagens do **n8n** é sua capacidade de criar **fluxos de trabalho modulares e reutilizáveis**. Eles podem ser chamados como **sub-fluxos** ou **ferramentas** por outros fluxos, incluindo **agentes de IA**. Isso permite a construção de blocos reutilizáveis para tarefas comuns, economizando tempo e reduzindo a redundância.
+Uma das grandes vantagens do **n8n** é sua capacidade de criar **fluxos de trabalho modulares e reutilizáveis**. Eles podem ser chamados como **sub-fluxos** ou **ferramentas** por outros fluxos, incluindo **agentes de IA**. Isso permite a construçêo de blocos reutilizáveis para tarefas comuns, economizando tempo e reduzindo a redundância.
 
 #### **Benefícios dos Fluxos Modulares no n8n:**
-🔁 **Reutilização:** Um fluxo pode ser chamado por outros fluxos como um **subprocesso**. Exemplo: um fluxo de limpeza de dados pode ser reutilizado em vários projetos.  
+🔁 **Reutilizaçêo:** Um fluxo pode ser chamado por outros fluxos como um **subprocesso**. Exemplo: um fluxo de limpeza de dados pode ser reutilizado em vários projetos.  
 📈 **Escalabilidade:** Fluxos modulares podem ser ajustados e expandidos conforme necessário, sem impactar a estrutura geral.  
 ✅ **Menos Erros:** Usar fluxos testados como ferramentas reduz falhas e inconsistências.  
 
@@ -756,9 +756,9 @@ O agente de IA pode chamar essas ferramentas conforme necessário, tornando o pr
 
 ### 4. Por que o n8n Supera Outras Plataformas Low-Code  
 
-Quando comparado a **Zapier, Integromat (Make) ou Microsoft Power Automate**, o **n8n** se destaca pela **personalização, modularidade e auto-hospedagem**.  
+Quando comparado a **Zapier, Integromat (Make) ou Microsoft Power Automate**, o **n8n** se destaca pela **personalizaçêo, modularidade e auto-hospedagem**.  
 
-💪 **Mais flexível que Zapier ou Integromat:** Enquanto essas plataformas são boas para
+💪 **Mais flexível que Zapier ou Integromat:** Enquanto essas plataformas sêo boas para
 
 ------------------------------
 
@@ -777,72 +777,72 @@ Texto:
  
 #### **Módulo 1: Fundamentos do n8n** 
 1. O que é n8n e como ele funciona. 
-2. Instalação e configuração inicial: 
-   - Instalação do **Node.js** e **npm**. 
-   - Configuração do ambiente local e inicialização do n8n. 
+2. Instalaçêo e configuraçêo inicial: 
+   - Instalaçêo do **Node.js** e **npm**. 
+   - Configuraçêo do ambiente local e inicializaçêo do n8n. 
 3. Interface do n8n: 
-   - Navegação básica e principais componentes (nós, fluxos e variáveis). 
+   - Navegaçêo básica e principais componentes (nós, fluxos e variáveis). 
  
 --- 
  
 #### **Módulo 2: Tipos de Nós e Suas Funções** 
 1. **Nós Trigger**: 
    - Exemplos: Webhook, Scheduler e Gmail Trigger. 
-2. **Nós de Ação**: 
+2. **Nós de Açêo**: 
    - Exemplos: Enviar emails, atualizar Google Sheets e gerar relatórios. 
 3. **Nós de Ajuda**: 
    - Exemplos: Split Out, If e Aggregate. 
 4. **Nós Avançados**: 
-   - Exemplos: APIs externas, integração com WhatsApp e análise de texto. 
+   - Exemplos: APIs externas, integraçêo com WhatsApp e análise de texto. 
  
 --- 
  
 #### **Módulo 3: Integrações Avançadas** 
 1. **Google Workspace**: 
-   - Configuração de credenciais OAuth no Google Cloud Console. 
-   - Integração com Google Drive, Docs, Sheets e Gmail. 
+   - Configuraçêo de credenciais OAuth no Google Cloud Console. 
+   - Integraçêo com Google Drive, Docs, Sheets e Gmail. 
 2. **Hugging Face**: 
-   - Registro e criação de tokens de acesso. 
-   - Geração de música instrumental personalizada. 
-   - Configuração de requisições HTTP no n8n. 
+   - Registro e criaçêo de tokens de acesso. 
+   - Geraçêo de música instrumental personalizada. 
+   - Configuraçêo de requisições HTTP no n8n. 
 3. **Apify**: 
-   - Introdução ao Apify Store e criação de fluxos. 
-   - Scraping de comentários no YouTube e organização no Google Sheets. 
+   - Introduçêo ao Apify Store e criaçêo de fluxos. 
+   - Scraping de comentários no YouTube e organizaçêo no Google Sheets. 
  
 --- 
  
 #### **Módulo 4: Casos Práticos** 
-1. **Automatização de Busca de Produtos na Amazon**: 
+1. **Automatizaçêo de Busca de Produtos na Amazon**: 
    - Uso do Apify para scraping de preços, avaliações e características. 
    - Processamento de dados e cálculo de médias ponderadas. 
-   - Organização e validação de dados em Google Sheets. 
-2. **Criação de Workflows Personalizados**: 
-   - Gerenciamento de erros e validação de entradas. 
-   - Geração de URLs dinâmicas para buscas específicas. 
-   - Atualização automática de status e resultados. 
+   - Organizaçêo e validaçêo de dados em Google Sheets. 
+2. **Criaçêo de Workflows Personalizados**: 
+   - Gerenciamento de erros e validaçêo de entradas. 
+   - Geraçêo de URLs dinâmicas para buscas específicas. 
+   - Atualizaçêo automática de status e resultados. 
  
 --- 
  
-#### **Módulo 5: Aplicações Práticas e Expansão** 
+#### **Módulo 5: Aplicações Práticas e Expansêo** 
 1. **Monitoramento de Preços**: 
-   - Configuração de alertas automáticos com base em alterações de preços. 
+   - Configuraçêo de alertas automáticos com base em alterações de preços. 
 2. **Análise de Produtos**: 
-   - Identificação de produtos mais bem avaliados e custo-benefício. 
-3. **Expansão para Outras Plataformas**: 
-   - Adaptação para scraping de dados em LinkedIn, Google Maps e TikTok. 
+   - Identificaçêo de produtos mais bem avaliados e custo-benefício. 
+3. **Expansêo para Outras Plataformas**: 
+   - Adaptaçêo para scraping de dados em LinkedIn, Google Maps e TikTok. 
  
 --- 
  
 #### **Módulo 6: Inteligência Artificial no n8n** 
-1. Introdução ao uso de IA no n8n. 
-2. Criação de agentes e multiagentes. 
-3. Implementação de chatbots para automação avançada. 
+1. Introduçêo ao uso de IA no n8n. 
+2. Criaçêo de agentes e multiagentes. 
+3. Implementaçêo de chatbots para automaçêo avançada. 
  
 --- 
  
 #### **Módulo 7: Boas Práticas e Dicas Avançadas** 
-1. Validação e organização de fluxos complexos. 
-2. Otimização de automações para melhor desempenho. 
+1. Validaçêo e organizaçêo de fluxos complexos. 
+2. Otimizaçêo de automações para melhor desempenho. 
 3. Ferramentas adicionais e recursos gratuitos para potencializar o n8n. 
  
 --- 
@@ -880,7 +880,7 @@ MENSAGEM 83
 Autor: INEMA
 Data: 2025-03-11T22:23:17+00:00
 Texto:
-Introdução N8N
+Introduçêo N8N
 [https://t.me/c/2494913847/18](https://t.me/c/2494913847/18)
 
 Dicas  Basicas
@@ -951,7 +951,7 @@ MENSAGEM 90
 Autor: INEMA
 Data: 2025-03-11T22:20:54+00:00
 Texto:
-Aula 7 - Instalação Local 
+Aula 7 - Instalaçêo Local 
 https://t.me/c/2494913847/2891
 
 ------------------------------
@@ -987,7 +987,7 @@ MENSAGEM 94
 Autor: INEMA
 Data: 2025-03-11T22:18:31+00:00
 Texto:
-Alula 3 - Integração Avançada
+Alula 3 - Integraçêo Avançada
 https://t.me/c/2494913847/2841
 
 ------------------------------
@@ -996,7 +996,7 @@ MENSAGEM 95
 Autor: INEMA
 Data: 2025-03-11T22:18:00+00:00
 Texto:
-Aula 2- Instalação e Configuração
+Aula 2- Instalaçêo e Configuraçêo
 https://t.me/c/2494913847/2841
 
 ------------------------------
@@ -1005,7 +1005,7 @@ MENSAGEM 96
 Autor: INEMA
 Data: 2025-03-11T22:17:16+00:00
 Texto:
-Aula 1 - Introdução Zero a Heroi
+Aula 1 - Introduçêo Zero a Heroi
 https://t.me/c/2494913847/2816
 
 ------------------------------

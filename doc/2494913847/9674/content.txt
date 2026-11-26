@@ -38,14 +38,14 @@ MENSAGEM 4
 Autor: INEMA
 Data: 2025-06-15T03:20:29+00:00
 Texto:
-Você **não deve usar o Google Drive para armazenar imagens no fluxo de postagem automática com n8n** por alguns **motivos técnicos e práticos**:
+Você **nêo deve usar o Google Drive para armazenar imagens no fluxo de postagem automática com n8n** por alguns **motivos técnicos e práticos**:
 
 ---
 
-### **1. Links do Google Drive não são diretos nem públicos verdadeiros**
+### **1. Links do Google Drive nêo sêo diretos nem públicos verdadeiros**
 
-* Os links gerados pelo Drive (mesmo os "compartilháveis") **não apontam diretamente para a imagem em formato bruto**.
-* O link abre uma página do Drive com o visualizador da imagem, e **não a imagem em si**.
+* Os links gerados pelo Drive (mesmo os "compartilháveis") **nêo apontam diretamente para a imagem em formato bruto**.
+* O link abre uma página do Drive com o visualizador da imagem, e **nêo a imagem em si**.
 * Plataformas como o **Facebook Graph API, Instagram e Threads** exigem **um link direto da imagem (.jpg, .png)** para funcionar.
 
 **Exemplo de link inválido:**
@@ -58,10 +58,10 @@ h```ttps://abc.supabase.co/storage/v1/object/public/ai-images/banner1.png
 ```
 ---
 
-### 2.** API do Google Drive exige autenticação para acessar os arquivos
+### 2.** API do Google Drive exige autenticaçêo para acessar os arquivos
 
-*** Mesmo com arquivos compartilhados, muitas vezes o acesso precisa de OA**uth, **token ou autenticação.
-* Isso qu**ebra o fluxo automático d**o n8n se o arquivo não for realmente público e acessível sem login.
+*** Mesmo com arquivos compartilhados, muitas vezes o acesso precisa de OA**uth, **token ou autenticaçêo.
+* Isso qu**ebra o fluxo automático d**o n8n se o arquivo nêo for realmente público e acessível sem login.
 
 ---
 
@@ -92,13 +92,13 @@ MENSAGEM 6
 Autor: INEMA
 Data: 2025-06-15T03:19:10+00:00
 Texto:
-Aqui está o **passo a passo completo** para criar um sistema que gera imagens com **OpenAI 4o**, armazena no **Supabase** e publica automaticamente no **Instagram e Threads** usando **n8n** – sem programação:
+Aqui está o **passo a passo completo** para criar um sistema que gera imagens com **OpenAI 4o**, armazena no **Supabase** e publica automaticamente no **Instagram e Threads** usando **n8n** – sem programaçêo:
 
 ---
 
-### **ETAPA 1: Geração da Imagem com OpenAI 4o**
+### **ETAPA 1: Geraçêo da Imagem com OpenAI 4o**
 
-1. Use o **ChatGPT com acesso à geração de imagens 4o**.
+1. Use o **ChatGPT com acesso à geraçêo de imagens 4o**.
 2. Envie um prompt para gerar a imagem (ex: "crie um banner publicitário em estilo anime").
 3. Baixe a imagem gerada.
 
@@ -112,7 +112,7 @@ Aqui está o **passo a passo completo** para criar um sistema que gera imagens c
    * Nome: `ai-images`
    * Marque como **public bucket**.
 3. Faça upload da imagem.
-4. Clique com o botão direito > **Get Public URL**.
+4. Clique com o botêo direito > **Get Public URL**.
 5. Copie esse link.
 
 ---
@@ -145,7 +145,7 @@ Aqui está o **passo a passo completo** para criar um sistema que gera imagens c
 
    * Adicione o nó `Google Sheets`
    * Autentique com sua conta Google
-   * Operação: `Get Rows`
+   * Operaçêo: `Get Rows`
    * Filtro: `instagram_status` vazio
    * Retornar somente a **primeira linha vazia**
 
@@ -161,12 +161,12 @@ Aqui está o **passo a passo completo** para criar um sistema que gera imagens c
    * Adicione outro nó `HTTP Request` para:
 
      * `https://graph.facebook.com/v21.0/{instagram-business-id}/media_publish`
-     * Com o ID retornado na criação de mídia
+     * Com o ID retornado na criaçêo de mídia
 
 4. **Atualizar o status no Google Sheets**
 
    * Adicione `Google Sheets`
-   * Operação: `Update Row`
+   * Operaçêo: `Update Row`
    * Coluna de status: `instagram_status = posted`
 
 ---
@@ -190,7 +190,7 @@ Aqui está o **passo a passo completo** para criar um sistema que gera imagens c
 
    * Use `graph.threads.net`
    * Método: `POST`
-   * Versão: `v1.0`
+   * Versêo: `v1.0`
    * Parâmetros JSON:
 
      * `"media_type": "image"`
@@ -210,7 +210,7 @@ Aqui está o **passo a passo completo** para criar um sistema que gera imagens c
 
 ### **Considerações Finais**
 
-* Não use Google Drive como armazenamento – **só Supabase**.
+* Nêo use Google Drive como armazenamento – **só Supabase**.
 * Todos os templates e tokens devem estar com permissões atualizadas.
 * Imagens devem estar em formato acessível (ex: `.jpg`, `.png`) e links públicos.
 Midia: MessageMediaWebPage
@@ -221,14 +221,14 @@ MENSAGEM 7
 Autor: INEMA
 Data: 2025-06-15T03:18:06+00:00
 Texto:
-**Resumo  “OpenAI 4o Image Generation: Criação e Publicação Automática de Imagens de Anime, Quadrinhos e Anúncios”**
+**Resumo  “OpenAI 4o Image Generation: Criaçêo e Publicaçêo Automática de Imagens de Anime, Quadrinhos e Anúncios”**
 
-**Visão Geral:**
-Como gerar imagens com o **OpenAI 4o** (personagens animados, quadrinhos e anúncios) e como **postá-las automaticamente no Instagram e Threads** usando **n8n**, sem necessidade de programação.
+**Visêo Geral:**
+Como gerar imagens com o **OpenAI 4o** (personagens animados, quadrinhos e anúncios) e como **postá-las automaticamente no Instagram e Threads** usando **n8n**, sem necessidade de programaçêo.
 
 ---
 
-### **1. Geração de Imagens com OpenAI 4o**
+### **1. Geraçêo de Imagens com OpenAI 4o**
 
 * Gerou 4 imagens com prompts simples.
 * Transformou uma imagem em vídeo com outra ferramenta.
@@ -236,14 +236,14 @@ Como gerar imagens com o **OpenAI 4o** (personagens animados, quadrinhos e anún
 
   * Personagem em estilo anime/cartoon
   * História em quadrinhos com múltiplos painéis (ex: canal no YouTube de IA)
-  * Anúncio de produto (ex: cartão de memória Sandisk)
+  * Anúncio de produto (ex: cartêo de memória Sandisk)
   * Carro de Fórmula 1 em estilo pixelado e depois história de acidente em quadrinhos
 
 **Exemplos:**
 
-* Upload de foto e criação de HQ com falas realistas
+* Upload de foto e criaçêo de HQ com falas realistas
 * Design de banner com estilo personalizado
-* Transformação de cena em narrativa visual de alto nível
+* Transformaçêo de cena em narrativa visual de alto nível
 
 ---
 
@@ -256,25 +256,25 @@ Como gerar imagens com o **OpenAI 4o** (personagens animados, quadrinhos e anún
 
   * Captions
   * Source URL
-  * Status da publicação
-* Upload da imagem no **Supabase** (não funciona com Google Drive)
-* Geração de **link público da imagem**
+  * Status da publicaçêo
+* Upload da imagem no **Supabase** (nêo funciona com Google Drive)
+* Geraçêo de **link público da imagem**
 * Uso do **Facebook Graph API**:
 
-  * Geração do **token de acesso estendido**
-  * Configuração com permissões específicas (Instagram Basic, Publish, etc.)
+  * Geraçêo do **token de acesso estendido**
+  * Configuraçêo com permissões específicas (Instagram Basic, Publish, etc.)
   * Postagem da imagem no Instagram com legenda
-  * Atualização da planilha com status "posted"
+  * Atualizaçêo da planilha com status "posted"
 
 #### **Para Threads:**
 
 * Processo semelhante ao Instagram, com ajustes para a API do Threads:
 
-  * Geração de **token próprio do Threads**
+  * Geraçêo de **token próprio do Threads**
   * API usada: `graph.threads.net`
   * Permissões: `threads_content_publish`, `threads_read_replies`
   * Ajustes no JSON com `JSON.stringify()` para a imagem e texto
-  * Postagem do conteúdo e atualização da planilha
+  * Postagem do conteúdo e atualizaçêo da planilha
 
 ---
 
@@ -298,7 +298,7 @@ Dica
 
 **P: Oi, estou tentando usar o n8n para inserir o rosto de alguém em outra imagem.**
 
-**R:** Para inserir o rosto de alguém em outra imagem usando o n8n, você pode utilizar um nó de manipulação de imagens, como o nó "ImageMagick". Esse nó permite realizar várias tarefas de edição de imagem, incluindo sobrepor uma imagem sobre outra.
+**R:** Para inserir o rosto de alguém em outra imagem usando o n8n, você pode utilizar um nó de manipulaçêo de imagens, como o nó "ImageMagick". Esse nó permite realizar várias tarefas de ediçêo de imagem, incluindo sobrepor uma imagem sobre outra.
 
 Aqui está um guia passo a passo para fazer isso:
 
@@ -306,7 +306,7 @@ Aqui está um guia passo a passo para fazer isso:
 
 2. Use o nó "ImageMagick" para sobrepor essa imagem na imagem de destino.
 
-3. Configure o nó "ImageMagick" para definir a posição e o tamanho da sobreposição.
+3. Configure o nó "ImageMagick" para definir a posiçêo e o tamanho da sobreposiçêo.
 
 4. Execute o fluxo de trabalho para gerar a imagem final com o rosto da pessoa inserido.
 
@@ -324,14 +324,14 @@ MENSAGEM 11
 Autor: INEMA
 Data: 2025-06-15T03:15:10+00:00
 Texto:
-Geração de Imagens OpenAI 4o: 
+Geraçêo de Imagens OpenAI 4o: 
 
-Criação e Publicação Automática de Imagens de Anime, Quadrinhos e Anúncios em Mídias Sociais
+Criaçêo e Publicaçêo Automática de Imagens de Anime, Quadrinhos e Anúncios em Mídias Sociais
 
 Sistema de Agente de IA que usa o OpenAI 4o Image Generation para criar personagens animados, painéis de quadrinhos e banners publicitários profissionais — e, em seguida, publico automaticamente esses recursos criativos no Instagram e no Threads usando o n8n. 
 
 
-(Observações: Para o Excel, NÃO use o formato XML. Sugiro que você apenas copie e cole o conteúdo do nosso Excel na sua planilha do Google)
+(Observações: Para o Excel, NêO use o formato XML. Sugiro que você apenas copie e cole o conteúdo do nosso Excel na sua planilha do Google)
 
 ------------------------------
 

@@ -30,7 +30,7 @@ MENSAGEM 3
 Autor: INEMA
 Data: 2025-06-13T19:56:27+00:00
 Texto:
-Aqui estão os **principais hacks e truques** usados no vídeo para otimizar a automação de geração de vídeos com personagens animados e IA — mesmo sem saber programar:
+Aqui estêo os **principais hacks e truques** usados no vídeo para otimizar a automaçêo de geraçêo de vídeos com personagens animados e IA — mesmo sem saber programar:
 
 ---
 
@@ -45,7 +45,7 @@ Aqui estão os **principais hacks e truques** usados no vídeo para otimizar a a
 
   * Alternância de falas (Stewie pergunta, Peter responde)
   * Estilo de fala dos personagens
-  * Humor + informação
+  * Humor + informaçêo
   * Saída em JSON formatado com `speaker`, `text`, `voice_id`
 
 **Exemplo de saída:**
@@ -57,10 +57,10 @@ Aqui estão os **principais hacks e truques** usados no vídeo para otimizar a a
 
 ---
 
-#### 2. **Divisão automática de falas com **`Loop Over Items`**
+#### 2. **Divisêo automática de falas com **`Loop Over Items`**
 
 *** Evita sobrecarga da API do Fish.audio dividindo as 8 falas em ciclos.
-* Garante envio sequencial das falas para criação de áudios.
+* Garante envio sequencial das falas para criaçêo de áudios.
 
 **Vantagem:** Respeita limites de API sem falhar.
 
@@ -79,9 +79,9 @@ Aqui estão os **principais hacks e truques** usados no vídeo para otimizar a a
 
 ---
 
-#### 4. **Transcrição sincronizada com Whisper**
+#### 4. **Transcriçêo sincronizada com Whisper**
 
-* IA da OpenAI transforma os áudios em texto com marcação de tempo (timestamp).
+* IA da OpenAI transforma os áudios em texto com marcaçêo de tempo (timestamp).
 * Garante que a legenda aparece **sincronizada** com a fala no vídeo.
 
 **Habilite no Whisper:**
@@ -109,11 +109,11 @@ Aqui estão os **principais hacks e truques** usados no vídeo para otimizar a a
 * **Pinning** de nós com dados prontos evita reprocessamento.
 * Ideal para testes sem regenerar textos ou gastar tokens da IA.
 
-**Como fazer:** clique com botão direito no nó > “Pin data”.
+**Como fazer:** clique com botêo direito no nó > “Pin data”.
 
 ---
 
-#### 7. **Criação de pipeline 100% no-code**
+#### 7. **Criaçêo de pipeline 100% no-code**
 
 * Nenhuma linha de código foi usada.
 * Tudo construído com:
@@ -124,24 +124,24 @@ Aqui estão os **principais hacks e truques** usados no vídeo para otimizar a a
 
 ---
 
-#### 8. **Geração viral baseada em temas do momento**
+#### 8. **Geraçêo viral baseada em temas do momento**
 
-* Notícias do **TechCrunch** são extraídas automaticamente para manter o conteúdo atual.
+* Notícias do **TechCrunch** sêo extraídas automaticamente para manter o conteúdo atual.
 * Usa o nome de celebridades e empresas (Zuckerberg, Meta, OpenAI) para atrair cliques.
 
 ---
 
-#### 9. **Importação direta de template **`.json`** no n8n
+#### 9. **Importaçêo direta de template **`.json`** no n8n
 
 *** Permite clonar todo o fluxo com um clique.
-* Basta importar arquivo JSON do projeto no botão “Import from file”.
+* Basta importar arquivo JSON do projeto no botêo “Import from file”.
 
 ---
 
-#### 10. Formatação final de legenda e imagem via IA
+#### 10. Formataçêo final de legenda e imagem via IA
 
-* Duração das falas define tempo que imagem do personagem aparece.
-* Formatação visual (tipo de fonte, sombra, posição) é customizada via Creatomate JSON.
+* Duraçêo das falas define tempo que imagem do personagem aparece.
+* Formataçêo visual (tipo de fonte, sombra, posiçêo) é customizada via Creatomate JSON.
 
 ---
 
@@ -203,7 +203,7 @@ Use uma planilha com as seguintes colunas:
 
 ---
 
-### 4. **Criar automação no n8n**
+### 4. **Criar automaçêo no n8n**
 
 #### Seções principais:
 
@@ -252,12 +252,12 @@ Use uma planilha com as seguintes colunas:
 
 ---
 
-### 6. **Transcrição com OpenAI Whisper**
+### 6. **Transcriçêo com OpenAI Whisper**
 
 * **HTTP Request (POST):** para `https://api.openai.com/v1/audio/transcriptions`
 
   * Body: arquivo de áudio + modelo `whisper-1`
-  * Output: texto + duração de cada palavra
+  * Output: texto + duraçêo de cada palavra
   * Gera legendas sincronizadas
 
 ---
@@ -291,7 +291,7 @@ Use uma planilha com as seguintes colunas:
 
 ### **Ferramentas Usadas**
 
-| Ferramenta     | Função                            |
+| Ferramenta     | Funçêo                            |
 | -------------- | --------------------------------- |
 | Google Sheets  | Gerenciar ideias/status           |
 | Supabase       | Armazenar vídeos, imagens, áudios |
@@ -302,7 +302,7 @@ Use uma planilha com as seguintes colunas:
 
 ---
 
-### **Exemplo de Aplicação**
+### **Exemplo de Aplicaçêo**
 
 * Tema: Notícias de tecnologia
 * Estilo: Humor cômico com personagens conhecidos
@@ -327,38 +327,38 @@ Data: 2025-06-13T19:55:37+00:00
 Texto:
 **Resumo do vídeo "How I Built A 3.3M View Cartoon Character Dialogue Video Generator (Viral & No-Code)"**
 
-O vídeo mostra como Andy construiu um gerador automatizado de vídeos estilo “Family Guy”, com diálogo entre personagens como Peter e Stewie, utilizando apenas ferramentas no-code e APIs, atingindo mais de 3,3 milhões de visualizações. A automação completa é feita no **n8n** e integrando diversas ferramentas.
+O vídeo mostra como Andy construiu um gerador automatizado de vídeos estilo “Family Guy”, com diálogo entre personagens como Peter e Stewie, utilizando apenas ferramentas no-code e APIs, atingindo mais de 3,3 milhões de visualizações. A automaçêo completa é feita no **n8n** e integrando diversas ferramentas.
 
 ---
 
-**1. Conceito da Automação**
+**1. Conceito da Automaçêo**
 
 * Sistema cria vídeos verticais com diálogos cômicos e informativos entre personagens animados.
 * Baseado em notícias reais (como do TechCrunch) convertidas em roteiros estilo “Family Guy”.
 
 ---
 
-**2. Etapas da Automação**
+**2. Etapas da Automaçêo**
 
-**Etapa 1: Preparação**
+**Etapa 1: Preparaçêo**
 
 * Google Sheets armazena as ideias com status “pending”.
 * Campos necessários: vídeo base (ex: gameplay), nomes e imagens dos personagens, IDs de voz, link de artigo e status.
 
-**Etapa 2: Criação do Roteiro**
+**Etapa 2: Criaçêo do Roteiro**
 
 * AI Agent gera diálogo no estilo Peter e Stewie com base em artigos da internet.
-* Utiliza modelo via OpenRouter (padrão: GPT-4 ou 03-Pro).
+* Utiliza modelo via OpenRouter (padrêo: GPT-4 ou 03-Pro).
 * Resposta estruturada em JSON com 8 falas (alternando entre os dois personagens).
 
-**Etapa 3: Geração de Áudio**
+**Etapa 3: Geraçêo de Áudio**
 
 * Cada fala é enviada à API do **Fish.audio** para gerar vozes realistas.
-* Audios são armazenados automaticamente no **Supabase (bucket público)**.
+* Audios sêo armazenados automaticamente no **Supabase (bucket público)**.
 
-**Etapa 4: Geração de Legendas**
+**Etapa 4: Geraçêo de Legendas**
 
-* Utiliza **Whisper API** da OpenAI para transcrição e sincronização das falas com o tempo.
+* Utiliza **Whisper API** da OpenAI para transcriçêo e sincronizaçêo das falas com o tempo.
 
 **Etapa 5: Montagem do Vídeo Final**
 
@@ -370,7 +370,7 @@ O vídeo mostra como Andy construiu um gerador automatizado de vídeos estilo �
   * Legendas transcritas
 * Tudo feito com dados vindos do JSON gerado e template ID.
 
-**Etapa 6: Atualização**
+**Etapa 6: Atualizaçêo**
 
 * Google Sheets é atualizado automaticamente com link final do vídeo e status "completed".
 
@@ -378,12 +378,12 @@ O vídeo mostra como Andy construiu um gerador automatizado de vídeos estilo �
 
 **3. Ferramentas Utilizadas**
 
-* **n8n** (plataforma principal da automação)
+* **n8n** (plataforma principal da automaçêo)
 * **Google Sheets** (entrada e controle de status)
 * **Supabase** (armazenamento de vídeo, imagens e áudios)
-* **OpenRouter/OpenAI** (geração de texto estilo roteiro)
-* **Fish.audio** (geração de voz para personagens)
-* **Whisper API** (transcrição das falas)
+* **OpenRouter/OpenAI** (geraçêo de texto estilo roteiro)
+* **Fish.audio** (geraçêo de voz para personagens)
+* **Whisper API** (transcriçêo das falas)
 * **Creatomate** (montagem do vídeo com template automático)
 
 ---
@@ -399,14 +399,14 @@ O vídeo mostra como Andy construiu um gerador automatizado de vídeos estilo �
 
 * Totalmente **sem código (no-code)**.
 * Pode ser adaptado para qualquer tema, personagem ou estilo.
-* Pode escalar produção de vídeos curtos para redes sociais.
+* Pode escalar produçêo de vídeos curtos para redes sociais.
 
 ---
 
 **6. Aplicações práticas**
 
-* Criação de vídeos virais com foco em conteúdo de notícias.
-* Criação de personagens com falas automatizadas para TikTok, Reels, Shorts.
+* Criaçêo de vídeos virais com foco em conteúdo de notícias.
+* Criaçêo de personagens com falas automatizadas para TikTok, Reels, Shorts.
 * Base para criar uma agência de vídeos animados automáticos com IA.
 
 ------------------------------

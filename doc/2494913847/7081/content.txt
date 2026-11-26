@@ -46,12 +46,12 @@ MENSAGEM 5
 Autor: INEMA
 Data: 2025-05-01T21:22:00+00:00
 Texto:
-Aqui estão as **principais dicas e hacks práticos** compartilhados no vídeo sobre a automação de anúncios da Meta com avatar:
+Aqui estêo as **principais dicas e hacks práticos** compartilhados no vídeo sobre a automaçêo de anúncios da Meta com avatar:
 
 ---
 
 ### **1. Faça tudo em massa**
-- A automação é feita para rodar com **múltiplos concorrentes** de uma vez.
+- A automaçêo é feita para rodar com **múltiplos concorrentes** de uma vez.
 - Isso permite analisar dezenas de marcas em paralelo, economizando tempo.
 
 ---
@@ -62,11 +62,11 @@ Aqui estão as **principais dicas e hacks práticos** compartilhados no vídeo s
 
 ---
 
-### **3. Pegue o vídeo em qualidade SD (baixa resolução)**
-- Ao fazer scraping dos vídeos, escolha a versão **SD** em vez da HD:
+### **3. Pegue o vídeo em qualidade SD (baixa resoluçêo)**
+- Ao fazer scraping dos vídeos, escolha a versêo **SD** em vez da HD:
   - **Evita download desnecessário**
-  - **Permite pré-visualização direta no Google Sheets**
-  - Reduz tamanho e tempo de transcrição
+  - **Permite pré-visualizaçêo direta no Google Sheets**
+  - Reduz tamanho e tempo de transcriçêo
 
 ---
 
@@ -90,12 +90,12 @@ Aqui estão as **principais dicas e hacks práticos** compartilhados no vídeo s
 ---
 
 ### **7. Configure o Heygen com header fixo**
-- Crie uma **credencial de API Header fixa** no n8n/Make para não repetir manualmente o token da API do Heygen em cada requisição.
+- Crie uma **credencial de API Header fixa** no n8n/Make para nêo repetir manualmente o token da API do Heygen em cada requisiçêo.
 
 ---
 
 ### **8. Ajuste a velocidade da voz (Voice Speed)**
-- O valor padrão (1.0) da voz gerada no Heygen é **muito lento**.
+- O valor padrêo (1.0) da voz gerada no Heygen é **muito lento**.
 - Ele recomenda **1.4 ou 1.5** para uma fala mais natural e dinâmica.
 
 ---
@@ -117,12 +117,12 @@ Aqui estão as **principais dicas e hacks práticos** compartilhados no vídeo s
 ### **11. Padronize a saída em JSON**
 - Ele ensina a configurar o prompt para gerar **JSON autocorrigido** com campos fixos:
   - título, gancho, corpo, CTA, público, ângulo
-- Isso facilita leitura, automação e análise posterior.
+- Isso facilita leitura, automaçêo e análise posterior.
 
 ---
 
 ### **12. Atualize o status das fases na planilha**
-- Usa os campos “IDEIA”, “CRIAR”, “COMPLETADO” e “SEM ANÚNCIOS” para acompanhar visualmente cada fase da automação.
+- Usa os campos “IDEIA”, “CRIAR”, “COMPLETADO” e “SEM ANÚNCIOS” para acompanhar visualmente cada fase da automaçêo.
 
 ---
 
@@ -140,7 +140,7 @@ MENSAGEM 7
 Autor: INEMA
 Data: 2025-05-01T21:20:59+00:00
 Texto:
-Aqui está o **passo a passo completo da automação de Scrapeador de Anúncios da Meta com geração de vídeos com avatar**, usando ferramentas como **n8n / Make, OpenAI, RapidAPI, Apify, Heygen e Google Sheets**:
+Aqui está o **passo a passo completo da automaçêo de Scrapeador de Anúncios da Meta com geraçêo de vídeos com avatar**, usando ferramentas como **n8n / Make, OpenAI, RapidAPI, Apify, Heygen e Google Sheets**:
 
 ---
 
@@ -203,7 +203,7 @@ Aqui está o **passo a passo completo da automação de Scrapeador de Anúncios 
 
 ### **ETAPA 6: CRIAR ROTEIRO PERSONALIZADO COM IA**
 1. Enviar para o LLM:
-   - Transcrição do anúncio
+   - Transcriçêo do anúncio
    - Resultado da análise
    - Dados da marca (nome, tom de voz, público, diferenciais)
 2. Gerar JSON com:
@@ -238,7 +238,7 @@ Aqui está o **passo a passo completo da automação de Scrapeador de Anúncios 
    - Concorrente analisado.
    - Anúncio adaptado à sua marca.
    - Vídeo realista com avatar.
-2. Enviar para edição (opcional) ou já usar em campanhas.
+2. Enviar para ediçêo (opcional) ou já usar em campanhas.
 
 ---
 
@@ -270,10 +270,10 @@ MENSAGEM 9
 Autor: INEMA
 Data: 2025-05-01T21:20:15+00:00
 Texto:
-**Resumo do vídeo “Meta Ads Scraper com Avatar (Automação Completa)” – YouTube**
+**Resumo do vídeo “Meta Ads Scraper com Avatar (Automaçêo Completa)” – YouTube**
 
 **Objetivo do projeto:**  
-Criar uma automação completa, sem código, que:
+Criar uma automaçêo completa, sem código, que:
 
 1. **Raspa anúncios ativos** de concorrentes na Meta (Facebook/Instagram).
 2. **Armazena os dados** em Google Sheets.
@@ -283,7 +283,7 @@ Criar uma automação completa, sem código, que:
 
 ---
 
-**Etapas da Automação:**
+**Etapas da Automaçêo:**
 
 1. **Scraping de concorrentes:**
    - Insere a URL do site concorrente.
@@ -297,13 +297,13 @@ Criar uma automação completa, sem código, que:
 3. **Análise dos anúncios:**
    - O usuário marca os melhores com "test".
    - O sistema transcreve o áudio do anúncio com OpenAI.
-   - Analisa o conteúdo: gancho, público, ângulo, persuasão, etc.
+   - Analisa o conteúdo: gancho, público, ângulo, persuasêo, etc.
 
-4. **Geração de roteiro com IA:**
+4. **Geraçêo de roteiro com IA:**
    - IA cria um roteiro de até 40 segundos baseado no anúncio analisado e dados da marca.
    - Output formatado em JSON (gancho, corpo, CTA, etc).
 
-5. **Criação do vídeo com avatar (Heygen):**
+5. **Criaçêo do vídeo com avatar (Heygen):**
    - Usa o avatar (customizável) e uma voz (pré-definida ou clonada).
    - Gera vídeo vertical (720x1280).
    - Faz upload automático no Google Drive.
@@ -315,8 +315,8 @@ Criar uma automação completa, sem código, que:
 
 - Pode ser feito com **Make.com** ou **n8n**.
 - O modelo usado para criar os roteiros foi **Claude Sonnet** (OpenRouter) por produzir textos mais naturais.
-- A automação é modular e escalável: dá para processar múltiplos concorrentes de forma contínua.
-- A integração com Heygen usa a API paga, mas tem créditos gratuitos para testes.
+- A automaçêo é modular e escalável: dá para processar múltiplos concorrentes de forma contínua.
+- A integraçêo com Heygen usa a API paga, mas tem créditos gratuitos para testes.
 
 ---
 
@@ -340,7 +340,7 @@ Texto:
 **16. Scrapeador de Anúncios da Meta**
 
 **🎯 Objetivo**  
-Criar uma automação completa que permite:
+Criar uma automaçêo completa que permite:
 
 - Rastrear (scrapear) anúncios ativos da concorrência na Meta Ads.  
 - Armazenar essas informações no Google Sheets com todos os dados relevantes.  
@@ -353,21 +353,21 @@ Criar uma automação completa que permite:
 
 **1. Raspagem de dados dos concorrentes**  
 - Você insere a URL do site da concorrência.  
-- A automação obtém automaticamente:
+- A automaçêo obtém automaticamente:
   - Página do Facebook.
   - ID da Biblioteca de Anúncios (Ad Library ID).
   - Informações adicionais: e-mails, telefone, redes sociais etc.  
 - Ferramentas usadas: APIs do RapidAPI e Apify.
 
 **2. Coleta e armazenamento dos anúncios**  
-- Se a empresa tiver anúncios ativos, são criadas novas abas no Google Sheets.  
-- São armazenados:
+- Se a empresa tiver anúncios ativos, sêo criadas novas abas no Google Sheets.  
+- Sêo armazenados:
   - Vídeos ou imagens.
   - Texto do anúncio (copy).
-  - Chamada para ação (CTA).
-  - Data de criação e outros dados técnicos.
+  - Chamada para açêo (CTA).
+  - Data de criaçêo e outros dados técnicos.
 
-**3. Seleção e análise dos anúncios**  
+**3. Seleçêo e análise dos anúncios**  
 - Você marca manualmente os anúncios com a tag "test".  
 - O áudio do vídeo selecionado é transcrito (com OpenAI).  
 - A IA gera uma análise criativa com:
@@ -376,19 +376,19 @@ Criar uma automação completa que permite:
   - Perfil do público-alvo.
   - Elementos persuasivos.
 
-**4. Geração do roteiro adaptado**  
+**4. Geraçêo do roteiro adaptado**  
 - A IA cria um roteiro publicitário com base em:
-  - A transcrição.
+  - A transcriçêo.
   - A análise anterior.
   - Dados da sua marca (nome, tom, público).
 - Estrutura do roteiro: 40 segundos com gancho, desenvolvimento e fechamento.  
 - O resultado é gerado em formato JSON com todos os componentes do roteiro.
 
-**5. Criação do vídeo com avatar**  
+**5. Criaçêo do vídeo com avatar**  
 - No Heygen você:
   - Escolhe o avatar.
   - Define a voz (de catálogo ou clonada).
-  - Define a dimensão do vídeo (720x1280).  
+  - Define a dimensêo do vídeo (720x1280).  
 - O vídeo é gerado e baixado.  
 - É enviado automaticamente ao Google Drive e o link é salvo no Google Sheets.
 
@@ -406,14 +406,14 @@ MENSAGEM 12
 Autor: INEMA
 Data: 2025-05-01T21:18:04+00:00
 Texto:
-**Nova Automatização: Scrapeador de Anúncios da Meta 🥷🏻🔥**  
+**Nova Automatizaçêo: Scrapeador de Anúncios da Meta 🥷🏻🔥**  
 
 🎯 Espione. Aprenda. Crie. Venda.
 
 Vocês agora têm acesso a uma daquelas automatizações que desbloqueiam um superpoder digital. Literalmente, você vai poder:
 
 🚨 Rastrear anúncios ativos de qualquer concorrente na Meta.  
-📥 Raspagem de textos, vídeos, chamadas para ação e datas.  
+📥 Raspagem de textos, vídeos, chamadas para açêo e datas.  
 🧠 Analisar criativamente os melhores anúncios com IA.  
 ✍️ Gerar roteiros adaptados ao estilo da marca em segundos.  
 🎥 Transformar esses roteiros em vídeos com avatares realistas, prontos para campanhas.

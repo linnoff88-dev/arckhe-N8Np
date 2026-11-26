@@ -24,41 +24,41 @@ Texto:
 2. **Funcionamento Geral**:
 
    * O agente gera um conteúdo (como um post para X/Twitter) com base em um pedido via Telegram.
-   * O conteúdo é enviado ao humano para aprovação.
+   * O conteúdo é enviado ao humano para aprovaçêo.
    * O humano pode **aceitar**, **recusar**, ou **fornecer feedback textual**.
    * O agente refaz o conteúdo com base no feedback e envia novamente até ser aprovado.
 
 3. **Ferramentas Usadas**:
 
-   * **Telegram** como interface de comunicação.
+   * **Telegram** como interface de comunicaçêo.
    * **Tavly** para pesquisa em tempo real.
-   * **GPT-4.1** para geração de texto.
-   * **Text Classifier** para decidir se o feedback foi aprovação ou recusa.
+   * **GPT-4.1** para geraçêo de texto.
+   * **Text Classifier** para decidir se o feedback foi aprovaçêo ou recusa.
 
 4. **Detalhes Técnicos**:
 
-   * O processo usa o nó `Send and wait for response` no n8n para pausar e aguardar a ação do humano.
-   * Um `Set node` armazena a versão mais recente do post para facilitar revisões em cadeia.
-   * Um `Decision node` usa IA para classificar a resposta do usuário como “aprovação” ou “negação”.
+   * O processo usa o nó `Send and wait for response` no n8n para pausar e aguardar a açêo do humano.
+   * Um `Set node` armazena a versêo mais recente do post para facilitar revisões em cadeia.
+   * Um `Decision node` usa IA para classificar a resposta do usuário como “aprovaçêo” ou “negaçêo”.
 
 5. **Vantagem**:
 
-   * Permite **revisões ilimitadas** e consecutivas, garantindo que só a versão final aprovada seja postada.
+   * Permite **revisões ilimitadas** e consecutivas, garantindo que só a versêo final aprovada seja postada.
 
-6. **Limitação Atual**:
+6. **Limitaçêo Atual**:
 
-   * O feedback só funciona bem dentro do fluxo principal; usar agentes com ferramentas de espera de resposta ainda não está estável em subfluxos.
+   * O feedback só funciona bem dentro do fluxo principal; usar agentes com ferramentas de espera de resposta ainda nêo está estável em subfluxos.
 
 7. **Exemplo prático demonstrado**:
 
    * Pedido: “Faça um post sobre café à noite”.
    * Resposta da IA: “Beber café à noite pode atrapalhar o sono...”.
    * Feedback humano: “Adicione ‘a menos que seja descafeinado’”.
-   * Agente revisa e envia a nova versão com a alteração.
+   * Agente revisa e envia a nova versêo com a alteraçêo.
 
-8. **Personalização e dinamismo**:
+8. **Personalizaçêo e dinamismo**:
 
-   * O agente pode interpretar respostas como “pode enviar” ou “tá bom” e considerar isso como aprovação.
+   * O agente pode interpretar respostas como “pode enviar” ou “tá bom” e considerar isso como aprovaçêo.
 
 9. **Integrações possíveis**:
 
@@ -73,9 +73,9 @@ Data: 2025-05-09T03:50:14+00:00
 Texto:
 **O segredo para tornar agentes de IA 100% confiáveis no n8n**
 
-Explico uma das partes mais importantes — porém frequentemente negligenciadas — na construção de fluxos de trabalho confiáveis com IA: adicionar o feedback humano no processo (human-in-the-loop).
+Explico uma das partes mais importantes — porém frequentemente negligenciadas — na construçêo de fluxos de trabalho confiáveis com IA: adicionar o feedback humano no processo (human-in-the-loop).
 
-Como configurar um sistema, sem escrever nenhuma linha de código, que permite revisar o conteúdo gerado pela IA, fornecer feedback e fazer com que o agente revise a saída até que esteja perfeita. Seja automatizando e-mails, conteúdos ou mensagens voltadas para clientes, isso garante que nada seja enviado sem sua aprovação. É uma forma simples de manter o controle, aproveitando ao mesmo tempo a velocidade e a escala da automação.
+Como configurar um sistema, sem escrever nenhuma linha de código, que permite revisar o conteúdo gerado pela IA, fornecer feedback e fazer com que o agente revise a saída até que esteja perfeita. Seja automatizando e-mails, conteúdos ou mensagens voltadas para clientes, isso garante que nada seja enviado sem sua aprovaçêo. É uma forma simples de manter o controle, aproveitando ao mesmo tempo a velocidade e a escala da automaçêo.
 
 ------------------------------
 

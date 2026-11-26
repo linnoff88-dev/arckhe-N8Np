@@ -29,7 +29,7 @@ MENSAGEM 3
 Autor: Felipe
 Data: 2025-03-31T03:59:33+00:00
 Texto:
-tem algum fluxo com varias IAS de videos para escolher quais usar para criar tanto shorts quanto vídeos mais longos no formato padrão do youtube?
+tem algum fluxo com varias IAS de videos para escolher quais usar para criar tanto shorts quanto vídeos mais longos no formato padrêo do youtube?
 
 ------------------------------
 
@@ -45,7 +45,7 @@ MENSAGEM 5
 Autor: INEMA
 Data: 2025-03-17T23:02:55+00:00
 Texto:
-Tem o ap5 com informações e nova versão
+Tem o ap5 com informações e nova versêo
 
 ------------------------------
 
@@ -152,7 +152,7 @@ MENSAGEM 10
 Autor: Aquino
 Data: 2025-03-11T01:07:42+00:00
 Texto:
-Onde consigo a explicação de como funciona o fluxo ?
+Onde consigo a explicaçêo de como funciona o fluxo ?
 
 ------------------------------
 
@@ -185,9 +185,9 @@ MENSAGEM 14
 Autor: INEMA
 Data: 2025-03-10T21:37:57+00:00
 Texto:
-Criação e Publicação de Shorts no YouTube sem Rosto 📺
+Criaçêo e Publicaçêo de Shorts no YouTube sem Rosto 📺
 
-Como automatizar a criação de conteúdo configurando um fluxo de trabalho para gerar vídeo e áudio, renderizar tudo junto e postar automaticamente no YouTube – totalmente sem intervenção manual.
+Como automatizar a criaçêo de conteúdo configurando um fluxo de trabalho para gerar vídeo e áudio, renderizar tudo junto e postar automaticamente no YouTube – totalmente sem intervençêo manual.
 
 ------------------------------
 

@@ -28,7 +28,7 @@ O **N8Np** e uma plataforma completa para gerenciar, buscar, classificar e cadas
 | "Nao entendo o que esse workflow faz" | Descricoes claras e visuais |
 | "Nao sei como comecar" | Tutoriais guiados e chatbot assistente |
 | "Quero compartilhar meu workflow" | Sistema de cadastro simplificado |
-| "Sao muitos workflows, me perdi" | Categorização automatica e tags |
+| "Sao muitos workflows, me perdi" | Categorizaçêo automatica e tags |
 
 ### 1.3 Publico-Alvo
 

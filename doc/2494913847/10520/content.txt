@@ -30,13 +30,13 @@ MENSAGEM 3
 Autor: INEMA
 Data: 2025-06-25T07:36:08+00:00
 Texto:
-Aqui estão **hacks e truques avançados** para criar agentes de IA no **Claude 4 + n8n** com mais eficiência e evitar erros comuns:
+Aqui estêo **hacks e truques avançados** para criar agentes de IA no **Claude 4 + n8n** com mais eficiência e evitar erros comuns:
 
 ---
 
 ### **1. Use "Project Knowledge" como base de dados de código**
 
-* Envie seus próprios arquivos `.json` de **templates prontos**, **instruções internas**, **trechos de código**, **nomes de nós**, **descrições padrão**.
+* Envie seus próprios arquivos `.json` de **templates prontos**, **instruções internas**, **trechos de código**, **nomes de nós**, **descrições padrêo**.
 * Isso transforma o Claude em um especialista na sua própria estrutura.
 
 **Exemplo de arquivo:**
@@ -49,27 +49,27 @@ Aqui estão **hacks e truques avançados** para criar agentes de IA no **Claude 
 
 ---
 
-### **2. Inclua regras de validação no prompt**
+### **2. Inclua regras de validaçêo no prompt**
 
 Evita JSON inválido e erros no n8n.
 
 **Adicionar no final do prompt:**
 
-> Certifique-se de que o JSON seja válido, todos os nodes tenham `uuid`, não deixe campos obrigatórios vazios e sempre inclua instruções de uso dentro dos nodes.
+> Certifique-se de que o JSON seja válido, todos os nodes tenham `uuid`, nêo deixe campos obrigatórios vazios e sempre inclua instruções de uso dentro dos nodes.
 
 ---
 
 ### **3. Faça prompts “baseados em resultado” (Outcome-Based Prompting)**
 
-Peça o **resultado final desejado**, não os passos.
+Peça o **resultado final desejado**, nêo os passos.
 
 **Ruim:**
 
-> "Crie um webhook, depois um nó IF, depois uma requisição..."
+> "Crie um webhook, depois um nó IF, depois uma requisiçêo..."
 
 **Melhor:**
 
-> "Quero uma automação que receba leads e me avise no Slack, salvando no Google Sheets. Precisa validar o e-mail e tratar erros."
+> "Quero uma automaçêo que receba leads e me avise no Slack, salvando no Google Sheets. Precisa validar o e-mail e tratar erros."
 
 Claude criará toda a estrutura pensando no objetivo.
 
@@ -84,7 +84,7 @@ Claude aceita prompts do tipo:
 > “Troque o Google Sheets para Airtable.”
 > “Divida em dois fluxos menores com sub-agentes.”
 
-Você não precisa começar do zero — apenas peça ajustes.
+Você nêo precisa começar do zero — apenas peça ajustes.
 
 ---
 
@@ -92,7 +92,7 @@ Você não precisa começar do zero — apenas peça ajustes.
 
 Use prompts como:
 
-> “Crie 3 variações dessa automação: uma simples, uma com IA generativa e outra com delay programado.”
+> “Crie 3 variações dessa automaçêo: uma simples, uma com IA generativa e outra com delay programado.”
 
 Claude vai gerar diferentes versões que você pode combinar ou comparar.
 
@@ -115,9 +115,9 @@ Depois envie como **Project Knowledge**.
 
 Diga:
 
-> "Você é um arquiteto de automações no n8n com 10 anos de experiência. Crie a solução mais escalável possível para onboarding de clientes em múltiplas plataformas."
+> "Você é um arquiteto de automações no n8n com 10 anos de experiência. Crie a soluçêo mais escalável possível para onboarding de clientes em múltiplas plataformas."
 
-Claude vai focar na **estrutura**, **modularização**, e **boas práticas**, e não só no código bruto.
+Claude vai focar na **estrutura**, **modularizaçêo**, e **boas práticas**, e nêo só no código bruto.
 
 ---
 
@@ -127,7 +127,7 @@ Use comandos como:
 
 > “Seja criativo. Surpreenda com um fluxo pouco convencional que engaje o cliente nos 3 primeiros minutos.”
 
-Isso força Claude a buscar soluções mais modernas, como uso de IA para resposta automática, pontuação de leads, etc.
+Isso força Claude a buscar soluções mais modernas, como uso de IA para resposta automática, pontuaçêo de leads, etc.
 
 ---
 
@@ -135,7 +135,7 @@ Isso força Claude a buscar soluções mais modernas, como uso de IA para respos
 
 Adicione ao prompt:
 
-> “Insira uma explicação curta no campo 'notes' de cada nó para facilitar a manutenção.”
+> “Insira uma explicaçêo curta no campo 'notes' de cada nó para facilitar a manutençêo.”
 
 Isso facilita ajustes futuros e uso em equipes.
 
@@ -150,7 +150,7 @@ Claude pode gerar:
 
 **Prompt:**
 
-> “Crie uma automação multicanal entre Slack, Notion e Airtable, que atualize os dados conforme respostas do usuário, e registre tudo em um banco.”
+> “Crie uma automaçêo multicanal entre Slack, Notion e Airtable, que atualize os dados conforme respostas do usuário, e registre tudo em um banco.”
 
 ------------------------------
 
@@ -181,21 +181,21 @@ Aqui está o **passo a passo** detalhado  **"How To INSTANTLY Build AI Agents Us
 ### **1. Crie um projeto no Claude 4**
 
 * Vá para Claude 4 (Anthropic).
-* Clique em **“Projetos”** e crie um novo projeto com um nome descritivo, como `Automação n8n – Slack + Google Sheets`.
+* Clique em **“Projetos”** e crie um novo projeto com um nome descritivo, como `Automaçêo n8n – Slack + Google Sheets`.
 
 ---
 
 ### **2. Baixe os recursos fornecidos**
 
-(Estes arquivos são fornecidos , mas você pode criar ou adaptar os seus)
+(Estes arquivos sêo fornecidos , mas você pode criar ou adaptar os seus)
 
 * **Guia definitivo do n8n (43 páginas)**
 * **Infraestrutura n8n (33 páginas)**
 * **JSONs de mais de 200 cenários n8n**
-* **Regras de validação de JSON**
+* **Regras de validaçêo de JSON**
 * **Exemplos prontos com instruções e prompts**
 
-Esses arquivos são carregados como "conhecimento do projeto" no Claude.
+Esses arquivos sêo carregados como "conhecimento do projeto" no Claude.
 
 ---
 
@@ -213,14 +213,14 @@ Esses arquivos são carregados como "conhecimento do projeto" no Claude.
 * Cole o **prompt base** com instruções detalhadas, como:
 
   * Gerar JSON válido
-  * Criar documentação embutida
+  * Criar documentaçêo embutida
   * Tratar erros
   * Usar lógica clara
   * Explicar o fluxo de forma compreensível
 
 Exemplo de prompt:
 
-> "Crie um cenário no n8n acionado por um webhook que receba nome, email e empresa, salve em uma planilha do Google Sheets e envie notificação via Slack. Adicione tratamento de erros e documentação."
+> "Crie um cenário no n8n acionado por um webhook que receba nome, email e empresa, salve em uma planilha do Google Sheets e envie notificaçêo via Slack. Adicione tratamento de erros e documentaçêo."
 
 ---
 
@@ -229,11 +229,11 @@ Exemplo de prompt:
 * Escreva na janela do Claude o pedido desejado, como:
 
   * "Crie um fluxo de onboarding de clientes com nome, e-mail, orçamento, início e Slack."
-  * "Faça uma automação que capture leads e envie para Google Sheets + Slack."
+  * "Faça uma automaçêo que capture leads e envie para Google Sheets + Slack."
 * Claude gerará:
 
   * JSON completo
-  * Explicação do que cada nó faz
+  * Explicaçêo do que cada nó faz
   * Tratamento de erros
   * Notas e instruções
 
@@ -250,7 +250,7 @@ Exemplo de prompt:
 
 * Acesse o **n8n**.
 * Crie um novo workflow.
-* Clique com o botão direito e selecione **“Import from Clipboard”** ou use a opção no menu para colar o fluxo.
+* Clique com o botêo direito e selecione **“Import from Clipboard”** ou use a opçêo no menu para colar o fluxo.
 * O fluxo será colado e estruturado automaticamente.
 
 ---
@@ -261,7 +261,7 @@ Exemplo de prompt:
 * Reorganize a ordem dos nós, se necessário.
 * Verifique:
 
-  * Validação de dados
+  * Validaçêo de dados
   * Nomes corretos nos campos
   * Conexões com suas credenciais (Google Sheets, Slack etc.)
 
@@ -284,9 +284,9 @@ Exemplo de prompt:
 
 ### Exemplos de Prompts para Claude:
 
-* "Crie uma automação de onboarding que segmente o cliente por orçamento."
+* "Crie uma automaçêo de onboarding que segmente o cliente por orçamento."
 * "Crie um agente com memória e busca na internet, acionado por Slack."
-* "Crie uma automação que capture leads do site e envie para CRM e Slack."
+* "Crie uma automaçêo que capture leads do site e envie para CRM e Slack."
 
 ------------------------------
 
@@ -305,13 +305,13 @@ Texto:
 **Resumo "How To INSTANTLY Build AI Agents Using Claude 4"**
 
 **Objetivo:**
-Mostrar como criar agentes de IA completos e automações no **n8n** usando **Claude 4**, de forma rápida, com geração de fluxos prontos, usando prompts e documentos de apoio.
+Mostrar como criar agentes de IA completos e automações no **n8n** usando **Claude 4**, de forma rápida, com geraçêo de fluxos prontos, usando prompts e documentos de apoio.
 
 ---
 
 **Resumo geral em tópicos com exemplos e aplicações:**
 
-1. **Criação instantânea de agentes no n8n com Claude 4**
+1. **Criaçêo instantânea de agentes no n8n com Claude 4**
 
    * Claude 4 gera agentes completos (em JSON) em **20 segundos**, prontos para colar no n8n.
    * Exemplo: agente que se conecta ao Slack, consulta dados em banco e responde no Slack.
@@ -324,11 +324,11 @@ Mostrar como criar agentes de IA completos e automações no **n8n** usando **Cl
 
 3. **Recursos fornecidos**
 
-   * Prompt mestre para criar qualquer tipo de automação.
+   * Prompt mestre para criar qualquer tipo de automaçêo.
    * JSONs de mais de 200 cenários.
    * Documento de 43 páginas com guia definitivo do n8n.
    * Documento com 33 páginas sobre a infraestrutura n8n.
-   * Regras de validação JSON para garantir que os fluxos gerados funcionem corretamente.
+   * Regras de validaçêo JSON para garantir que os fluxos gerados funcionem corretamente.
 
 4. **Exemplo prático 1: Agente com acesso à internet**
 
@@ -338,40 +338,40 @@ Mostrar como criar agentes de IA completos e automações no **n8n** usando **Cl
 
 5. **Exemplo prático 2: Captura de leads**
 
-   * Prompt: workflow que captura nome/email/empresa de formulário e adiciona ao Google Sheets, depois envia notificação para o Slack.
+   * Prompt: workflow que captura nome/email/empresa de formulário e adiciona ao Google Sheets, depois envia notificaçêo para o Slack.
    * Claude gera fluxo completo com erro básico que foi facilmente ajustado.
    * Mostra como pequenos ajustes tornam o processo robusto.
 
 6. **Exemplo prático 3: Onboarding de clientes**
 
-   * Prompt: "crie uma automação de onboarding épica e criativa".
-   * Claude cria fluxo com segmentação por orçamento, previsão de sucesso, rastreamento de sentimentos, engajamento multicanal etc.
+   * Prompt: "crie uma automaçêo de onboarding épica e criativa".
+   * Claude cria fluxo com segmentaçêo por orçamento, previsêo de sucesso, rastreamento de sentimentos, engajamento multicanal etc.
    * Envolve lógica de espera, análise de dados e follow-ups automáticos.
 
 7. **Vantagens observadas**
 
    * **Economia de tempo:** de 100% de esforço manual para apenas 10-15% de ajustes.
-   * **Criação arquitetural avançada:** Claude propõe lógicas e fluxos bem estruturados.
+   * **Criaçêo arquitetural avançada:** Claude propõe lógicas e fluxos bem estruturados.
    * **Criatividade:** Claude busca na internet tendências e boas práticas atuais.
    * **Utilidade para negócios:** fluxos prontos para adaptar e apresentar a clientes.
 
 8. **Limitações e observações**
 
-   * Nem todos os fluxos vêm perfeitos – pequenos ajustes são necessários.
+   * Nem todos os fluxos vêm perfeitos – pequenos ajustes sêo necessários.
    * Para fluxos muito complexos, pode haver erros de estrutura.
-   * Claude precisa de "encorajamento" quando os prompts são muito longos.
+   * Claude precisa de "encorajamento" quando os prompts sêo muito longos.
 
 9. **Recomendações finais**
 
    * Sempre rodar, testar, editar e repetir.
-   * Usar regras de validação JSON nos seus próprios prompts.
+   * Usar regras de validaçêo JSON nos seus próprios prompts.
    * Focar em prompts orientados a resultados (Outcome-based Prompting).
 
 ---
 
 **Frase destaque:**
 
-> "Hoje, você não cria mais 100% do fluxo com a mão. Claude entrega 85-90%, e você só ajusta o que importa."
+> "Hoje, você nêo cria mais 100% do fluxo com a mêo. Claude entrega 85-90%, e você só ajusta o que importa."
 
 ------------------------------
 
@@ -453,7 +453,7 @@ Texto:
 🔮 Traz três guias MEGA do N8N para usar em seus prompts futuros
 
 Você pode literalmente dar um prompt como:
-*"Crie para mim uma automação épica de onboarding de clientes"*
+*"Crie para mim uma automaçêo épica de onboarding de clientes"*
 
 ------------------------------
 

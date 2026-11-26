@@ -30,19 +30,19 @@ MENSAGEM 3
 Autor: INEMA
 Data: 2025-06-12T20:23:53+00:00
 Texto:
-Os **hacks** (dicas e truques avançados) mostrados no vídeo para usar **Google Gemini + n8n** de forma gratuita e eficiente para análise de vídeos são:
+Os **hacks** (dicas e truques avançados) mostrados no vídeo para usar **Google Gemini + n8n** de forma gratuita e eficiente para análise de vídeos sêo:
 
 ---
 
 ### 1. **Uso de Polling para Garantir Confiabilidade**
 
-* **Hack:** Esperar 5 segundos e fazer nova requisição para verificar se o vídeo foi processado.
-* **Por quê?** Se não esperar, o Gemini pode retornar erro porque o vídeo ainda está "processing".
-* **Aplicação:** Evita falhas, garante que o retorno da análise seja válido.
+* **Hack:** Esperar 5 segundos e fazer nova requisiçêo para verificar se o vídeo foi processado.
+* **Por quê?** Se nêo esperar, o Gemini pode retornar erro porque o vídeo ainda está "processing".
+* **Aplicaçêo:** Evita falhas, garante que o retorno da análise seja válido.
 
 ---
 
-### 2. **Prompt Personalizado na Requisição**
+### 2. **Prompt Personalizado na Requisiçêo**
 
 * **Hack:** Você pode **moldar o comportamento do Gemini** dizendo exatamente o que ele deve fazer com o vídeo.
 * **Exemplos:**
@@ -64,8 +64,8 @@ Os **hacks** (dicas e truques avançados) mostrados no vídeo para usar **Google
 
 ### 4. **Reaproveitamento de API Key com Query Params**
 
-* **Hack:** Usa a autenticação via **query parameter**, com chave `key` no endpoint.
-* **Motivo:** Evita necessidade de configuração complexa de headers ou OAuth.
+* **Hack:** Usa a autenticaçêo via **query parameter**, com chave `key` no endpoint.
+* **Motivo:** Evita necessidade de configuraçêo complexa de headers ou OAuth.
 
 ---
 
@@ -76,7 +76,7 @@ Os **hacks** (dicas e truques avançados) mostrados no vídeo para usar **Google
 
 ---
 
-### 6. **Extração de Dados Binários com Precisão**
+### 6. **Extraçêo de Dados Binários com Precisêo**
 
 * **Hack técnico:** Nomear o campo binário como `video` exatamente igual ao que Gemini espera.
 * **Erro comum evitado:** Nomes errados nos campos causam falhas silenciosas.
@@ -104,7 +104,7 @@ MENSAGEM 5
 Autor: INEMA
 Data: 2025-06-12T20:06:16+00:00
 Texto:
-Segue o **passo a passo completo** para configurar uma automação no **n8n** usando o **Google Gemini** para análise de vídeos gratuitamente:
+Segue o **passo a passo completo** para configurar uma automaçêo no **n8n** usando o **Google Gemini** para análise de vídeos gratuitamente:
 
 ---
 
@@ -136,7 +136,7 @@ Segue o **passo a passo completo** para configurar uma automação no **n8n** us
 * Crie um **HTTP Request Node**
 * Método: `POST`
 * URL do endpoint Gemini de upload de vídeo
-* Autenticação:
+* Autenticaçêo:
 
   * Tipo: **Generic Auth**
   * Forma: **Query**
@@ -156,7 +156,7 @@ Segue o **passo a passo completo** para configurar uma automação no **n8n** us
 * Em seguida, um novo **HTTP Request** para verificar o status
 
   * Endpoint de status da análise
-  * Envie o `URI` retornado anteriormente no corpo da requisição
+  * Envie o `URI` retornado anteriormente no corpo da requisiçêo
   * Inclua novamente a API Key no formato de query
 * Verifique o campo `status == completed`
 
@@ -173,7 +173,7 @@ Segue o **passo a passo completo** para configurar uma automação no **n8n** us
 
 * Use outro **HTTP Request Node**
 * Endpoint de Gemini para análise de **YouTube URL**
-* Corpo da requisição:
+* Corpo da requisiçêo:
 
   ```  {
     "video": {
@@ -190,14 +190,14 @@ Segue o **passo a passo completo** para configurar uma automação no **n8n** us
 
 * Use um **Manual Trigger**
 * Clique em **"Test Workflow"**
-* Resultado será retornado em texto com a descrição ou resumo do vídeo
+* Resultado será retornado em texto com a descriçêo ou resumo do vídeo
 
 ---
 
 ### 9. **Dicas Finais**
 
 * Sempre use polling com vídeos locais (aguarde o processamento antes de buscar resultado)
-* O Gemini pode analisar **elementos visuais** e **transcrição** dos vídeos
+* O Gemini pode analisar **elementos visuais** e **transcriçêo** dos vídeos
 * Pode ser usado para vídeos curtos ou longos
 Midia: MessageMediaWebPage
 
@@ -209,9 +209,9 @@ Data: 2025-06-12T20:05:47+00:00
 Texto:
 Aqui está o resumo completo e estruturado  **"The Simplest Setup for FREE AI Video Analysis (n8n + Google Gemini)"**:
 
-### Visão Geral
+### Visêo Geral
 
-Como configurar uma automação com **n8n** e **Google Gemini** para analisar vídeos gratuitamente, usando arquivos locais ou URLs do YouTube — sem necessidade de código.
+Como configurar uma automaçêo com **n8n** e **Google Gemini** para analisar vídeos gratuitamente, usando arquivos locais ou URLs do YouTube — sem necessidade de código.
 
 ---
 
@@ -220,12 +220,12 @@ Como configurar uma automação com **n8n** e **Google Gemini** para analisar v�
 1. **Envio do Vídeo**
 
    * O usuário seleciona um arquivo `.mp4` local e envia por um formulário.
-   * O n8n envia o arquivo ao Google Gemini via requisição HTTP com autenticação via query parameter (`API key`).
+   * O n8n envia o arquivo ao Google Gemini via requisiçêo HTTP com autenticaçêo via query parameter (`API key`).
 
 2. **Processo de Análise**
 
    * Gemini retorna um URI do vídeo e um status `processing`.
-   * O sistema faz *polling* (verificação em intervalos) para saber quando a análise estiver concluída.
+   * O sistema faz *polling* (verificaçêo em intervalos) para saber quando a análise estiver concluída.
 
 3. **Exemplo de Resultado**
 
@@ -233,16 +233,16 @@ Como configurar uma automação com **n8n** e **Google Gemini** para analisar v�
 
 4. **Manuseio de Erros**
 
-   * Mostra como o processo falha se não houver espera suficiente para o processamento do vídeo.
+   * Mostra como o processo falha se nêo houver espera suficiente para o processamento do vídeo.
    * Após alguns segundos, o processo pode ser reexecutado com sucesso.
 
 5. **Análise de Vídeo do YouTube**
 
    * Também é possível usar uma URL do YouTube.
    * Novo endpoint da API Gemini é usado para aceitar a URL e retornar um resumo em até 3 frases.
-   * Exemplo analisado: vídeo do canal Outdoor Boys com descrição detalhada da cena e do conteúdo.
+   * Exemplo analisado: vídeo do canal Outdoor Boys com descriçêo detalhada da cena e do conteúdo.
 
-6. **Customização dos Prompts**
+6. **Customizaçêo dos Prompts**
 
    * Gemini pode ser instruído para:
 
@@ -259,14 +259,14 @@ Como configurar uma automação com **n8n** e **Google Gemini** para analisar v�
 * A API Key do Gemini é obtida em: [Google AI for Developers](https://ai.google.dev/).
 * Cursos e comunidade pagos para aprofundamento:
 
-  * **Agent Zero**: fundamentos de IA e automação.
+  * **Agent Zero**: fundamentos de IA e automaçêo.
   * **10 horas para 10 segundos**: foco em identificar, projetar e criar automações que economizam tempo.
 
 ---
 
-### Conclusão
+### Conclusêo
 
-A integração entre **n8n** e **Google Gemini** permite análises de vídeo altamente detalhadas, com flexibilidade para personalizar prompts e sem custo. A automação cobre desde o upload até o retorno do resultado — inclusive para vídeos do YouTube — com exemplos práticos e repetição segura por *polling*.
+A integraçêo entre **n8n** e **Google Gemini** permite análises de vídeo altamente detalhadas, com flexibilidade para personalizar prompts e sem custo. A automaçêo cobre desde o upload até o retorno do resultado — inclusive para vídeos do YouTube — com exemplos práticos e repetiçêo segura por *polling*.
 Midia: MessageMediaWebPage
 
 ------------------------------
@@ -275,12 +275,12 @@ MENSAGEM 7
 Autor: INEMA
 Data: 2025-06-12T20:00:19+00:00
 Texto:
-A Configuração Mais Simples para Análise de Vídeo com IA Gratuita (n8n + Google Gemini)
+A Configuraçêo Mais Simples para Análise de Vídeo com IA Gratuita (n8n + Google Gemini)
 
 
 Como usar o Google Gemini no n8n, sem precisar programar, para analisar vídeos de forma gratuita — seja enviando um arquivo local ou apenas informando uma URL do YouTube.
 
-Como configurar toda a automação, incluindo como funciona o polling para garantir que a análise seja executada de forma confiável.
+Como configurar toda a automaçêo, incluindo como funciona o polling para garantir que a análise seja executada de forma confiável.
 
 Também como fazer prompts específicos para o Gemini, permitindo que você controle exatamente como o vídeo será analisado — seja para resumir, extrair insights ou qualquer outra necessidade.
 

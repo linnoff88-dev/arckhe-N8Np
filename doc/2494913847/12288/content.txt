@@ -13,7 +13,7 @@ MENSAGEM 1
 Autor: INEMA
 Data: 2025-08-06T21:38:00+00:00
 Texto:
-### Hacks para automação de roteiros automáticos com IA
+### Hacks para automaçêo de roteiros automáticos com IA
 
 ---
 
@@ -21,19 +21,19 @@ Texto:
 
 * No prompt da busca, adicione:
   “Exclua notícias repetidas, irrelevantes ou de baixa credibilidade. Priorize fontes confiáveis e novidades do setor.”
-* Exemplo: “Inclua apenas notícias de portais .gov, .edu, .org, ou de grande circulação.”
+* Exemplo: “Inclua apenas notícias de portais .gov, .edu, .org, ou de grande circulaçêo.”
 
 ---
 
 #### 2. **Resumos extensos e inteligentes**
 
-* Em vez de pedir o texto completo da notícia (que pode não estar disponível), peça um **resumo extenso** que inclua contexto, causas e consequências.
+* Em vez de pedir o texto completo da notícia (que pode nêo estar disponível), peça um **resumo extenso** que inclua contexto, causas e consequências.
 * Prompt:
   “Gere um resumo detalhado e extenso com contexto, impactos e possíveis tendências.”
 
 ---
 
-#### 3. **Personalização automática do roteiro**
+#### 3. **Personalizaçêo automática do roteiro**
 
 * Faça o prompt citar o guia de marca e exemplos:
   “Use o guia de marca em \[link do Google Docs] e baseie-se nos exemplos de roteiros em \[link].”
@@ -53,7 +53,7 @@ Texto:
 * Crie um fluxo extra para:
 
   * Identificar vídeos publicados com mais engajamento (ex: mais de 10 mil views).
-  * Extrair a transcrição e incluir como exemplo de roteiro de sucesso na base de dados.
+  * Extrair a transcriçêo e incluir como exemplo de roteiro de sucesso na base de dados.
 * Isso faz a IA “aprender” o que realmente funciona.
 
 ---
@@ -66,7 +66,7 @@ Texto:
 
 #### 7. **Notificações automáticas**
 
-* Envie mensagem automática (WhatsApp, Telegram, email) para avisar que os roteiros estão prontos no Notion.
+* Envie mensagem automática (WhatsApp, Telegram, email) para avisar que os roteiros estêo prontos no Notion.
 
 ---
 
@@ -82,7 +82,7 @@ Texto:
 
 #### 9. **Ajuste dinâmico do número de notícias**
 
-* Se não encontrar notícias suficientes, faça nova busca automática com palavras-chave relacionadas.
+* Se nêo encontrar notícias suficientes, faça nova busca automática com palavras-chave relacionadas.
 
 ---
 
@@ -92,12 +92,12 @@ Texto:
 
 ---
 
-### Exemplos de aplicação dos hacks
+### Exemplos de aplicaçêo dos hacks
 
 * **Resumo extenso**:
   “Resumo detalhado: A IA aplicada à saúde está acelerando diagnósticos e tratamentos, segundo estudo publicado nesta semana pelo Ministério da Saúde. O relatório destaca benefícios e desafios éticos.”
 
-* **Notificação automática**:
+* **Notificaçêo automática**:
   “Se 5 roteiros foram gerados, envie uma mensagem via Telegram: ‘Roteiros prontos no Notion, revisar e publicar!’”
 
 ---
@@ -127,7 +127,7 @@ MENSAGEM 3
 Autor: INEMA
 Data: 2025-08-06T21:37:37+00:00
 Texto:
-### Passo a passo para automação de roteiros automáticos de notícias para Instagram ou anúncios
+### Passo a passo para automaçêo de roteiros automáticos de notícias para Instagram ou anúncios
 
 ---
 
@@ -154,7 +154,7 @@ Texto:
 
    * Agende para rodar toda segunda-feira às 10h, ou use trigger manual para testar.
 
-2. **Configuração de variáveis**
+2. **Configuraçêo de variáveis**
 
    * Defina no início do fluxo:
 
@@ -168,7 +168,7 @@ Texto:
      * Configure o endpoint para buscar notícias dos últimos 7 dias sobre o tema.
      * Exemplo de filtro: “marketing digital e SEO últimos 7 dias”.
 
-4. **Filtragem e estruturação**
+4. **Filtragem e estruturaçêo**
 
    * Peça para a IA listar as notícias em JSON, com os campos: título, data, fonte, URL, resumo extenso.
    * Limite para sempre trazer o número exato de notícias.
@@ -177,7 +177,7 @@ Texto:
 
    * Use este node para processar cada notícia individualmente (um roteiro para cada).
 
-6. **Geração dos roteiros**
+6. **Geraçêo dos roteiros**
 
    * Para cada notícia:
 
@@ -195,16 +195,16 @@ Texto:
        * Título: título da notícia
        * Conteúdo: roteiro gerado pela IA
 
-8. **(Opcional) Notificação**
+8. **(Opcional) Notificaçêo**
 
-   * Envie uma notificação para sua equipe (Telegram, WhatsApp ou email) quando os roteiros estiverem prontos.
+   * Envie uma notificaçêo para sua equipe (Telegram, WhatsApp ou email) quando os roteiros estiverem prontos.
 
 ---
 
 #### 4. **Testar e ajustar**
 
 * Rode o workflow.
-* Verifique no Notion se os roteiros estão corretos.
+* Verifique no Notion se os roteiros estêo corretos.
 * Ajuste prompts e filtros conforme o resultado desejado.
 
 ---
@@ -237,8 +237,8 @@ Texto:
 3. **Posso publicar em outras redes?**
    Sim, adapte o roteiro para o formato desejado (TikTok, YouTube, etc).
 
-4. **Precisa de programação?**
-   Não, só arrastar e configurar os nodes no N8N.
+4. **Precisa de programaçêo?**
+   Nêo, só arrastar e configurar os nodes no N8N.
 
 ------------------------------
 
@@ -262,9 +262,9 @@ MENSAGEM 6
 Autor: INEMA
 Data: 2025-08-06T21:37:05+00:00
 Texto:
-### Geração de Roteiros Automáticos para Anúncios ou Instagram – Passo a Passo
+### Geraçêo de Roteiros Automáticos para Anúncios ou Instagram – Passo a Passo
 
-**Introdução**
+**Introduçêo**
 
 * Hoje vou mostrar como gerar roteiros para anúncios ou vídeos do Instagram de forma totalmente automática.
 * Essa ideia veio de uma necessidade real do dia a dia.
@@ -277,8 +277,8 @@ Texto:
 * Define quantas notícias quer buscar (exemplo: 10).
 * O sistema recupera essas notícias usando Brave Search (limite gratuito muito maior que o SerpAPI).
 * Usa GPT-4.1 para processar os textos.
-* Para redação dos roteiros, utiliza Gemini 2.5 Flash, que é gratuito.
-* Tem uma base de dados Notion onde os roteiros prontos são salvos automaticamente.
+* Para redaçêo dos roteiros, utiliza Gemini 2.5 Flash, que é gratuito.
+* Tem uma base de dados Notion onde os roteiros prontos sêo salvos automaticamente.
 
 ---
 
@@ -286,7 +286,7 @@ Texto:
 
 * O processo antes era manual: o editor buscava notícias no Perplexity, pegava a notícia, gerava um contexto, pedia para a IA criar o roteiro, depois copiava para o Notion.
 * Para 10 roteiros era repetitivo, para vários clientes era impossível escalar manualmente.
-* Com a automação, tudo acontece sem intervenção humana, economizando horas de trabalho por semana.
+* Com a automaçêo, tudo acontece sem intervençêo humana, economizando horas de trabalho por semana.
 
 ---
 
@@ -304,29 +304,29 @@ Texto:
 3. **Busca de Notícias**
 
    * Usa Brave Search para encontrar notícias dos últimos 7 dias, no tema escolhido.
-   * Define formatos de data para garantir precisão.
+   * Define formatos de data para garantir precisêo.
    * Prompt para IA pedir apenas notícias relevantes, sem repetições, focando em impacto social, tecnológico, econômico ou ético.
 
 4. **Limite de Iterações**
 
-   * Configure “máximo de iterações” para 30 no N8N (por padrão vem 10) para não travar caso precise buscar mais notícias.
+   * Configure “máximo de iterações” para 30 no N8N (por padrêo vem 10) para nêo travar caso precise buscar mais notícias.
 
-5. **Integração com APIs**
+5. **Integraçêo com APIs**
 
    * Conecte Brave Search ao N8N usando a API Key.
-   * Brave permite buscas só por notícias (não imagens/vídeos).
-   * Não defina o número exato no node, deixe a IA buscar até preencher a quantidade necessária.
+   * Brave permite buscas só por notícias (nêo imagens/vídeos).
+   * Nêo defina o número exato no node, deixe a IA buscar até preencher a quantidade necessária.
 
-6. **Validação e Estrutura**
+6. **Validaçêo e Estrutura**
 
    * Use um output parser estruturado (JSON) para garantir o formato de saída das notícias.
-   * Se alguma notícia não retornar conteúdo, peça um resumo extenso.
+   * Se alguma notícia nêo retornar conteúdo, peça um resumo extenso.
 
-7. **Divisão de Notícias**
+7. **Divisêo de Notícias**
 
    * Use “SplitInBatches” para processar cada notícia individualmente.
 
-8. **Geração dos Roteiros**
+8. **Geraçêo dos Roteiros**
 
    * Cada notícia é enviada ao Gemini 2.5 Flash ou outra IA.
    * Prompt personalizado pede:
@@ -353,7 +353,7 @@ Texto:
 #### 5. **Dicas de melhoria e hacks**
 
 * Monitore vídeos publicados que alcançarem alto número de visualizações.
-* Extraia a transcrição desses vídeos e salve como exemplos de roteiros de sucesso.
+* Extraia a transcriçêo desses vídeos e salve como exemplos de roteiros de sucesso.
 * Use esses exemplos para treinar a IA e melhorar continuamente a qualidade dos próximos roteiros.
 
 ---
@@ -368,7 +368,7 @@ Texto:
 ### **Perguntas Frequentes**
 
 1. **Preciso programar?**
-   Não, basta configurar os nodes e integrações no N8N.
+   Nêo, basta configurar os nodes e integrações no N8N.
 
 2. **Dá para adaptar para outros nichos?**
    Sim, é só trocar o tema e ajustar a guia de marca.
@@ -403,7 +403,7 @@ MENSAGEM 9
 Autor: INEMA
 Data: 2025-08-06T21:35:20+00:00
 Texto:
-### Hacks para automação de roteiros de vídeos a partir de notícias
+### Hacks para automaçêo de roteiros de vídeos a partir de notícias
 
 ---
 
@@ -419,9 +419,9 @@ Texto:
 #### 2. **Personalizar o prompt da IA**
 
 * Adapte o prompt para o estilo desejado, usando exemplos reais de roteiros que funcionaram no passado.
-* Insira no prompt trechos do manual de comunicação da sua marca para padronizar o tom.
+* Insira no prompt trechos do manual de comunicaçêo da sua marca para padronizar o tom.
 * Exemplo:
-  “Siga o padrão dos roteiros salvos neste Google Doc e mantenha sempre o tom educativo e otimista.”
+  “Siga o padrêo dos roteiros salvos neste Google Doc e mantenha sempre o tom educativo e otimista.”
 
 ---
 
@@ -432,10 +432,10 @@ Texto:
 
 ---
 
-#### 4. **Automação de feedback inteligente**
+#### 4. **Automaçêo de feedback inteligente**
 
 * Monitore vídeos publicados com maior engajamento.
-* Crie um fluxo que detecta esses vídeos, extrai a transcrição e salva como exemplo de sucesso para treinar próximos roteiros.
+* Crie um fluxo que detecta esses vídeos, extrai a transcriçêo e salva como exemplo de sucesso para treinar próximos roteiros.
 * Exemplo:
   Node verifica views no Instagram, extrai legendas/transcrições e adiciona à base de referências.
 
@@ -448,9 +448,9 @@ Texto:
 
 ---
 
-#### 6. **Organização avançada no Notion**
+#### 6. **Organizaçêo avançada no Notion**
 
-* Adicione tags de temas, nível de prioridade, e data de publicação sugerida.
+* Adicione tags de temas, nível de prioridade, e data de publicaçêo sugerida.
 * Separe os roteiros em status: “Roteirizado”, “Gravado”, “Publicado”, “Revisar”.
 
 ---
@@ -470,7 +470,7 @@ Texto:
 
 #### 9. **Reaproveite roteiros antigos**
 
-* Se não houver notícias novas suficientes, recicle roteiros antigos ajustando o texto para parecer atual.
+* Se nêo houver notícias novas suficientes, recicle roteiros antigos ajustando o texto para parecer atual.
 
 ---
 
@@ -495,8 +495,8 @@ Texto:
 
 ### Exemplo de hack aplicado
 
-* No workflow, crie uma checagem: se a notícia não trouxer algo novo (exemplo: mesmo título ou tema nos últimos 7 dias), descarte e busque outra.
-* No prompt, insira sempre uma frase de orientação sobre o tom desejado:
+* No workflow, crie uma checagem: se a notícia nêo trouxer algo novo (exemplo: mesmo título ou tema nos últimos 7 dias), descarte e busque outra.
+* No prompt, insira sempre uma frase de orientaçêo sobre o tom desejado:
   “Foque em linguagem simples e positiva, evite termos técnicos e seja direto.”
 
 ------------------------------
@@ -513,30 +513,30 @@ MENSAGEM 11
 Autor: INEMA
 Data: 2025-08-06T21:34:55+00:00
 Texto:
-### **Passo a passo para criar automação de roteiros de vídeos a partir de notícias**
+### **Passo a passo para criar automaçêo de roteiros de vídeos a partir de notícias**
 
 ---
 
 #### 1. **Definir o objetivo**
 
-* Criar roteiros automáticos a partir de notícias atuais para vídeos em redes sociais, prontos para gravação e publicação.
+* Criar roteiros automáticos a partir de notícias atuais para vídeos em redes sociais, prontos para gravaçêo e publicaçêo.
 
 ---
 
 #### 2. **Escolher as ferramentas**
 
-* N8N (orquestração e automação)
+* N8N (orquestraçêo e automaçêo)
 * Brave Search API (busca de notícias)
-* Gemini 2.5 Flash ou GPT-4.1 (geração dos roteiros)
+* Gemini 2.5 Flash ou GPT-4.1 (geraçêo dos roteiros)
 * Notion (armazenamento dos roteiros)
 
 ---
 
 #### 3. **Configurar as integrações**
 
-* Crie contas nas ferramentas se ainda não tiver.
+* Crie contas nas ferramentas se ainda nêo tiver.
 * Pegue as chaves de API para Brave Search, Gemini/GPT e Notion.
-* No N8N, configure cada integração:
+* No N8N, configure cada integraçêo:
 
   * **Brave Search**: insira chave da API
   * **Gemini/GPT**: configure o node HTTP ou plugin correspondente
@@ -570,7 +570,7 @@ Texto:
    * Para cada notícia:
 
      * Enviar resumo para Gemini/GPT gerar um roteiro de até 240 palavras.
-     * Use prompt seguindo o guia de marca (exemplo de prompt: “Crie um roteiro para vídeo em linguagem natural e persuasiva, estilo voz em off, sobre esta notícia, sem introdução ou fechamento artificial”)
+     * Use prompt seguindo o guia de marca (exemplo de prompt: “Crie um roteiro para vídeo em linguagem natural e persuasiva, estilo voz em off, sobre esta notícia, sem introduçêo ou fechamento artificial”)
 
 6. **Salvar no Notion**:
 
@@ -580,7 +580,7 @@ Texto:
      * Título (da notícia)
      * Conteúdo do roteiro
 
-7. **Notificação/Feedback (opcional)**:
+7. **Notificaçêo/Feedback (opcional)**:
 
    * Notifique por email, Telegram ou outro canal quando os roteiros estiverem prontos.
 
@@ -591,7 +591,7 @@ Texto:
 * Tema: “Sustentabilidade e meio ambiente”
 * Notícias buscadas: 10
 * Roteiros gerados automaticamente e salvos no Notion
-* Segunda-feira de manhã, todos os roteiros prontos para o editor revisar, gravar e publicar
+* Segunda-feira de manhê, todos os roteiros prontos para o editor revisar, gravar e publicar
 
 ---
 
@@ -605,13 +605,13 @@ Texto:
 #### 7. **Respostas às dúvidas mais comuns**
 
 1. **Precisa programar?**
-   Não, só configurar nodes e integrações no N8N.
+   Nêo, só configurar nodes e integrações no N8N.
 
 2. **Posso usar outros buscadores ou IAs?**
    Sim, basta adaptar os nodes e os prompts.
 
 3. **Funciona só para Instagram?**
-   Não, você pode adaptar o formato do roteiro para qualquer plataforma.
+   Nêo, você pode adaptar o formato do roteiro para qualquer plataforma.
 
 4. **É preciso revisar os roteiros?**
    Sim, o ideal é o editor revisar, ajustar e marcar como gravado/publicado.
@@ -620,7 +620,7 @@ Texto:
 
 #### **Resumo dos tópicos**
 
-* Definição do objetivo
+* Definiçêo do objetivo
 * Ferramentas e integrações necessárias
 * Estrutura do workflow no N8N
 * Passos detalhados do fluxo
@@ -643,32 +643,32 @@ Autor: INEMA
 Data: 2025-08-06T21:34:25+00:00
 Texto:
 voz de marca e exemplos reais
-* Economia de tempo, escalabilidade e adaptação para qualquer nicho
+* Economia de tempo, escalabilidade e adaptaçêo para qualquer nicho
 * Dica extra para autoaprendizado do sistema baseado no sucesso dos vídeos publicados
 
 **Exemplo prático:**
 
 1. Configurar tema de interesse (ex: tecnologia verde)
 2. Definir número de notícias por ciclo (ex: 10)
-3. Rodar automação no N8N: busca notícias via Brave Search, faz resumos com IA, cria roteiros seguindo o guia da marca
+3. Rodar automaçêo no N8N: busca notícias via Brave Search, faz resumos com IA, cria roteiros seguindo o guia da marca
 4. Roteiros enviados automaticamente para o Notion
 5. O editor só precisa revisar, marcar como gravado/publicado
 
 **Perguntas e respostas:**
 
-1. **Para que serve essa automação?**
+1. **Para que serve essa automaçêo?**
    Para gerar roteiros prontos para vídeos baseados em notícias atuais, de forma totalmente automática.
 
 2. **Posso usar com outros formatos além do Instagram?**
    Sim, basta adaptar o roteiro conforme o formato desejado.
 
 3. **Preciso de conhecimentos técnicos para rodar?**
-   É necessário ter noções de automação com N8N e configurar as APIs, mas o sistema pode ser replicado com orientação.
+   É necessário ter noções de automaçêo com N8N e configurar as APIs, mas o sistema pode ser replicado com orientaçêo.
 
 4. **Dá para usar com outras IAs?**
    Sim, o processo pode ser adaptado para o modelo de IA que preferir, desde que aceite prompts compatíveis.
 
-Se quiser um roteiro de implementação ou um blueprint detalhado, só pedir!
+Se quiser um roteiro de implementaçêo ou um blueprint detalhado, só pedir!
 
 ------------------------------
 
@@ -678,31 +678,31 @@ Data: 2025-08-06T21:34:25+00:00
 Texto:
 e36. Roteiros 100% automáticos a partir de notícias
 
-Resumo : Automação para gerar roteiros de vídeos a partir de notícias
+Resumo : Automaçêo para gerar roteiros de vídeos a partir de notícias
 
 Objetivo
 
-Aprendemos a criar uma automação completa que, a partir de um tema de interesse, gera roteiros prontos para gravar vídeos no Instagram (ou outros formatos) baseados em notícias atuais. O sistema automatiza todo o processo: desde a busca de notícias relevantes até a redação e o envio do roteiro ao Notion, usando ferramentas como N8N, Brave Search, GPT-4.1 e Gemini 2.5 Flash.
+Aprendemos a criar uma automaçêo completa que, a partir de um tema de interesse, gera roteiros prontos para gravar vídeos no Instagram (ou outros formatos) baseados em notícias atuais. O sistema automatiza todo o processo: desde a busca de notícias relevantes até a redaçêo e o envio do roteiro ao Notion, usando ferramentas como N8N, Brave Search, GPT-4.1 e Gemini 2.5 Flash.
 
-Contexto e utilidade da automação
-Esta automação surgiu de uma necessidade real: o processo que o editor do apresentador seguia para gerar roteiros baseados em notícias usando Perplexity, GPT e Notion.
+Contexto e utilidade da automaçêo
+Esta automaçêo surgiu de uma necessidade real: o processo que o editor do apresentador seguia para gerar roteiros baseados em notícias usando Perplexity, GPT e Notion.
 
-O processo manual era repetitivo e não escalava bem ao trabalhar com muitos clientes ou roteiros.
-Com a automação, eliminamos fricções e conseguimos gerar dezenas ou centenas de roteiros semanais sem intervenção humana.
+O processo manual era repetitivo e nêo escalava bem ao trabalhar com muitos clientes ou roteiros.
+Com a automaçêo, eliminamos fricções e conseguimos gerar dezenas ou centenas de roteiros semanais sem intervençêo humana.
 
 Estrutura geral do sistema
 
-* Gatilho automático ou manual: toda segunda-feira às 10h a automação é disparada.
+* Gatilho automático ou manual: toda segunda-feira às 10h a automaçêo é disparada.
 * Variáveis configuráveis:
 
   * Tema da busca (ex: “marketing digital e SEO”, “biohacking e gadgets de saúde”)
-  * Número de notícias a analisar (padrão: 10)
+  * Número de notícias a analisar (padrêo: 10)
 * Busca de notícias relevantes com Brave Search API.
 * Processamento com modelo de IA (GPT-4.1 ou Gemini) para gerar resumos ampliados.
-* Geração dos roteiros com IA, utilizando um guia de marca e exemplos anteriores.
+* Geraçêo dos roteiros com IA, utilizando um guia de marca e exemplos anteriores.
 * Envio final do roteiro para o Notion, com status marcado como “Roteirizado”.
 
-Extração automática de notícias
+Extraçêo automática de notícias
 
 * Usa o Brave Search em vez do SerpAPI devido ao limite gratuito maior (2.000 consultas por mês).
 * O prompt indica claramente:
@@ -710,9 +710,9 @@ Extração automática de notícias
   * Buscar notícias publicadas nos últimos 7 dias.
   * Avaliar a relevância conforme impacto social, econômico, ético, etc.
   * Evitar duplicidades e garantir o número exato de notícias solicitadas.
-* As notícias são processadas em paralelo com o módulo “SplitInBatches” no N8N.
+* As notícias sêo processadas em paralelo com o módulo “SplitInBatches” no N8N.
 
-Redação automatizada dos roteiros
+Redaçêo automatizada dos roteiros
 
 * Cada notícia vira um roteiro de 240 palavras (aprox. 90 segundos).
 * O modelo acessa:
@@ -723,13 +723,13 @@ Redação automatizada dos roteiros
 
   * Estilo de voz adaptado ao cliente.
   * Linguagem persuasiva e natural, como se fosse o próprio criador falando em vídeo.
-  * Formato específico: voz em off, sem introdução nem encerramento artificial.
+  * Formato específico: voz em off, sem introduçêo nem encerramento artificial.
 
 Envio automático ao Notion
 
-* Os roteiros são enviados para um banco de dados no Notion com três colunas:
+* Os roteiros sêo enviados para um banco de dados no Notion com três colunas:
 
-  * Status (por padrão, “Roteirizado”)
+  * Status (por padrêo, “Roteirizado”)
   * Título (extraído da notícia)
   * Conteúdo do roteiro (gerado pela IA)
 * O editor pode depois:
@@ -739,31 +739,31 @@ Envio automático ao Notion
 
 Custo aproximado e modelos usados
 
-* GPT-4.1: cerca de R\$ 0,10 por execução com 10 notícias.
+* GPT-4.1: cerca de R\$ 0,10 por execuçêo com 10 notícias.
 * GPT-4.1 Mini: cerca de R\$ 0,02.
 * Gemini 2.5 Flash: gratuito atualmente.
-* Recomenda-se definir max\_iterations em 30 no agente para evitar bloqueios por limite de iteração.
+* Recomenda-se definir max\_iterations em 30 no agente para evitar bloqueios por limite de iteraçêo.
 
 Dica avançada para aprimorar o sistema
 Você pode adicionar um sistema de feedback automático que:
 
 * Detecta quais vídeos publicados ultrapassam determinado número de visualizações no Instagram.
-* Extrai a transcrição desses vídeos e a adiciona ao banco de exemplos de roteiros.
+* Extrai a transcriçêo desses vídeos e a adiciona ao banco de exemplos de roteiros.
 * Assim, o sistema “aprende” que tipos de roteiros funcionam melhor e os usa como referência para novos roteiros.
 
-Conclusão
-Este sistema permite escalar a criação de conteúdo sem esforço, mantendo coerência de marca, estilo e qualidade dos roteiros. Pode ser adaptado para qualquer nicho, bastando modificar as fontes e o guia de estilo. Se você tem editores ou clientes que precisam de conteúdo recorrente, esta é uma das automações mais poderosas que pode implementar.
+Conclusêo
+Este sistema permite escalar a criaçêo de conteúdo sem esforço, mantendo coerência de marca, estilo e qualidade dos roteiros. Pode ser adaptado para qualquer nicho, bastando modificar as fontes e o guia de estilo. Se você tem editores ou clientes que precisam de conteúdo recorrente, esta é uma das automações mais poderosas que pode implementar.
 
 Recursos
-Blueprint de criação de roteiros
+Blueprint de criaçêo de roteiros
 
 ---
 
 **Resumo dos tópicos principais:**
 
-* Automação completa para geração de roteiros a partir de notícias atuais
-* Busca automática, análise, resumo, roteirização e publicação no Notion
-* Personalização por tema, quantidade de notícias,
+* Automaçêo completa para geraçêo de roteiros a partir de notícias atuais
+* Busca automática, análise, resumo, roteirizaçêo e publicaçêo no Notion
+* Personalizaçêo por tema, quantidade de notícias,
 
 ------------------------------
 
@@ -781,16 +781,16 @@ Data: 2025-08-06T21:32:10+00:00
 Texto:
 **Resumo dos tópicos principais:**
 
-* Criação automática de roteiros para redes sociais usando IA
-* Sistema busca notícias, gera roteiros e publica no Notion sem intervenção manual
+* Criaçêo automática de roteiros para redes sociais usando IA
+* Sistema busca notícias, gera roteiros e publica no Notion sem intervençêo manual
 * Usa Brave Search, Gemini 2.5 Flash e Notion
 * Segue diretrizes de marca e exemplos reais
 * Antes era manual, agora é 100% automatizado
-* Solução para economizar tempo com geração de conteúdo
+* Soluçêo para economizar tempo com geraçêo de conteúdo
 * Permite ter vários roteiros prontos semanalmente
-* Aula disponível para adaptação em qualquer nicho
+* Aula disponível para adaptaçêo em qualquer nicho
 
-**Exemplo de aplicação:**
+**Exemplo de aplicaçêo:**
 
 * Definir um tema (ex: tecnologia)
 * Buscar notícias relevantes com Brave Search
@@ -803,14 +803,14 @@ Texto:
 1. **Como funciona o sistema?**
    Busca notícias relevantes, gera roteiros e publica automaticamente no Notion, tudo usando IA.
 
-2. **Quais ferramentas são usadas?**
+2. **Quais ferramentas sêo usadas?**
    Brave Search, Gemini 2.5 Flash e Notion.
 
 3. **Qual a principal vantagem?**
-   Economia de tempo e escalabilidade na produção de conteúdo para redes sociais.
+   Economia de tempo e escalabilidade na produçêo de conteúdo para redes sociais.
 
 4. **Posso adaptar para qualquer nicho?**
-   Sim, basta ajustar os temas e exemplos conforme sua área de atuação.
+   Sim, basta ajustar os temas e exemplos conforme sua área de atuaçêo.
 
 ------------------------------
 
@@ -833,7 +833,7 @@ O que há de melhor:
 Esse era o processo que meu editor fazia com cada um dos clientes: buscava notícias, redigia os roteiros e subia no Notion… tudo com IA, mas manualmente.
 Agora está 100% automatizado. Imagine a quantidade de horas que você pode economizar se aplicar isso com seus próprios clientes ou projetos.
 
-É uma solução real para um problema real: o tempo perdido gerando ideias, pesquisando e escrevendo roteiros de vídeo um por um.
+É uma soluçêo real para um problema real: o tempo perdido gerando ideias, pesquisando e escrevendo roteiros de vídeo um por um.
 Agora, esse processo é feito pela IA para você. Literalmente, você pode ter 10 roteiros prontos toda segunda-feira sem mexer em nada.
 
 ------------------------------

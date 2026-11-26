@@ -13,7 +13,7 @@ MENSAGEM 1
 Autor: INEMA
 Data: 2025-03-10T09:18:18+00:00
 Texto:
-**Agente de SMS AirBnB: Reestruturação**
+**Agente de SMS AirBnB: Reestruturaçêo**
 
 ------------------------------
 

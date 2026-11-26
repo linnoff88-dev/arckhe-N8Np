@@ -21,7 +21,7 @@ MENSAGEM 2
 Autor: INEMA
 Data: 2025-07-09T02:49:47+00:00
 Texto:
-# Configuração Manual do Workflow N8N - Passo a Passo
+# Configuraçêo Manual do Workflow N8N - Passo a Passo
 
 ## 1. Webhook (incoming data)
 ```Tipo: Webhook
@@ -109,8 +109,8 @@ Response Body:
 2. Edit Fields → AI Agent
 3. AI Agent → Edit Fields 2
 4. Edit Fields 2 → Respond to Webhook
-5. Chat Model → AI Agent (conexão AI)
-6. Output Parser → AI Agent (conexão AI)
+5. Chat Model → AI Agent (conexêo AI)
+6. Output Parser → AI Agent (conexêo AI)
 
 ------------------------------
 
@@ -293,7 +293,7 @@ Texto:
 Criar um **agente de blog provocador e confiante** que:
 
 * Produz posts **minimalistas sobre saúde natural**, denunciando as falhas da medicina convencional.
-* Incentiva os leitores a **questionar o sistema médico** e buscar **alternativas naturais** para prevenção e cura.
+* Incentiva os leitores a **questionar o sistema médico** e buscar **alternativas naturais** para prevençêo e cura.
 * Usa uma linguagem ousada para **despertar consciência** e provocar mudanças no comportamento das pessoas.
 
 ---

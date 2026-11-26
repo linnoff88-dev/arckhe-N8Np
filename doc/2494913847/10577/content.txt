@@ -29,7 +29,7 @@ MENSAGEM 3
 Autor: Igor
 Data: 2025-08-28T20:01:46+00:00
 Texto:
-Alguém implantou esta automação?
+Alguém implantou esta automaçêo?
 
 ------------------------------
 
@@ -77,7 +77,7 @@ MENSAGEM 9
 Autor: Juliano
 Data: 2025-07-30T15:52:18+00:00
 Texto:
-Não sei como procurar entrei ontem na comunidade Não estou conseguindo achar pq estou aprendendo a mexer lá e é muita coisa
+Nêo sei como procurar entrei ontem na comunidade Nêo estou conseguindo achar pq estou aprendendo a mexer lá e é muita coisa
 
 ------------------------------
 
@@ -198,7 +198,7 @@ MENSAGEM 23
 Autor: Taylor
 Data: 2025-06-29T02:16:55+00:00
 Texto:
-@INEMAtds não entendi . Quais tiveram problemas ?
+@INEMAtds nêo entendi . Quais tiveram problemas ?
 
 ------------------------------
 
@@ -216,7 +216,7 @@ Data: 2025-06-26T13:34:10+00:00
 Texto:
 @INEMAtds o ideal para gerar esses fluxos com manus, genspark ou claude é usar aqueles nodes de exemplo (ou nodes atualizados) que você publicou. 
 
-Porque a referência que esses agentes possuem internamente sobre esses nodes são um pouco antigas e muitas delas podem apresentar mal funcionamento mesmo apresentando estarem corretas pós importação.
+Porque a referência que esses agentes possuem internamente sobre esses nodes sêo um pouco antigas e muitas delas podem apresentar mal funcionamento mesmo apresentando estarem corretas pós importaçêo.
 
 ------------------------------
 
@@ -235,62 +235,62 @@ Texto:
 Tecnologias e Arquitetura
 
 ### Stack Tecnológico
-- **n8n**: Orquestração e automação
+- **n8n**: Orquestraçêo e automaçêo
 - **Supabase**: Backend e banco PostgreSQL
-- **WhatsApp Business API**: Comunicação principal
-- **Telegram Bot API**: Interface de supervisão
+- **WhatsApp Business API**: Comunicaçêo principal
+- **Telegram Bot API**: Interface de supervisêo
 - **SMTP/IMAP**: Processamento de e-mails
 - **JavaScript/Node.js**: Lógica de negócio
 
 ### Arquitetura de Segurança
 - **Row Level Security (RLS)** no banco
-- **Autenticação por tokens** em todas as APIs
+- **Autenticaçêo por tokens** em todas as APIs
 - **Criptografia TLS** end-to-end
 - **Logs auditáveis** de todas as operações
 - **Controle de acesso** granular
 
 ### Escalabilidade
 - **Webhooks assíncronos** para alta performance
-- **Cache inteligente** para otimização
-- **Rate limiting** para proteção
+- **Cache inteligente** para otimizaçêo
+- **Rate limiting** para proteçêo
 - **Monitoramento proativo** de recursos
 
-## 📈 Roadmap de Implementação
+## 📈 Roadmap de Implementaçêo
 
 ### Fase 1: Setup Inicial (Semana 1-2)
-- [x] Configuração do Supabase
-- [x] Importação dos workflows n8n
-- [x] Configuração das integrações
+- [x] Configuraçêo do Supabase
+- [x] Importaçêo dos workflows n8n
+- [x] Configuraçêo das integrações
 - [x] Testes básicos de conectividade
 
-### Fase 2: Configuração Avançada (Semana 3)
-- [x] Personalização de templates
-- [x] Configuração do sistema HITL
+### Fase 2: Configuraçêo Avançada (Semana 3)
+- [x] Personalizaçêo de templates
+- [x] Configuraçêo do sistema HITL
 - [x] Treinamento da equipe
 - [x] Testes de carga
 
 ### Fase 3: Go-Live (Semana 4)
-- [ ] Deploy em produção
+- [ ] Deploy em produçêo
 - [ ] Monitoramento intensivo
 - [ ] Ajustes finos
 - [ ] Coleta de feedback
 
-### Fase 4: Otimização (Mês 2)
+### Fase 4: Otimizaçêo (Mês 2)
 - [ ] Análise de métricas
-- [ ] Otimização de performance
-- [ ] Expansão de funcionalidades
-- [ ] Integração com sistemas legados
+- [ ] Otimizaçêo de performance
+- [ ] Expansêo de funcionalidades
+- [ ] Integraçêo com sistemas legados
 
 ## 💼 Benefícios para o Negócio
 
 ### Operacionais
 - **Atendimento 24/7** sem custo adicional
-- **Padronização** do atendimento
-- **Redução de erros** humanos
+- **Padronizaçêo** do atendimento
+- **Reduçêo de erros** humanos
 - **Aumento da produtividade** da equipe
 
 ### Comerciais
-- **Maior conversão** de leads
+- **Maior conversêo** de leads
 - **Ciclo de vendas** mais rápido
 - **Melhor experiência** do cliente
 - **Vantagem competitiva** significativa
@@ -301,7 +301,7 @@ Tecnologias e Arquitetura
 - **Escalabilidade** sem limite
 - **Base para inovações** futuras
 
-## 🎓 Capacitação da Equipe
+## 🎓 Capacitaçêo da Equipe
 
 ### Treinamento Incluído
 - **Workshop de 4 horas** sobre o sistema
@@ -311,51 +311,51 @@ Tecnologias e Arquitetura
 
 ### Competências Desenvolvidas
 - **Uso do dashboard** Telegram
-- **Interpretação de métricas** de performance
-- **Gestão de casos HITL** complexos
-- **Otimização contínua** do sistema
+- **Interpretaçêo de métricas** de performance
+- **Gestêo de casos HITL** complexos
+- **Otimizaçêo contínua** do sistema
 
 ## 🔮 Próximos Passos
 
 ### Imediatos (30 dias)
-1. **Deploy em produção** com acompanhamento
+1. **Deploy em produçêo** com acompanhamento
 2. **Treinamento da equipe** operacional
 3. **Monitoramento intensivo** de métricas
 4. **Ajustes finos** baseados no uso real
 
 ### Médio Prazo (90 dias)
-1. **Integração com CRM** existente
-2. **Expansão para outros canais** (Instagram, Facebook)
+1. **Integraçêo com CRM** existente
+2. **Expansêo para outros canais** (Instagram, Facebook)
 3. **IA mais avançada** com GPT-4
 4. **Relatórios executivos** automáticos
 
 ### Longo Prazo (1 ano)
 1. **Análise preditiva** de mercado
-2. **Automação de contratos** e documentos
-3. **Integração com IoT** para visitas virtuais
-4. **Expansão para outras verticais**
+2. **Automaçêo de contratos** e documentos
+3. **Integraçêo com IoT** para visitas virtuais
+4. **Expansêo para outras verticais**
 
-## 🏆 Conclusão
+## 🏆 Conclusêo
 
-O **Sistema de Automação Imobiliária** entregue representa uma solução completa e inovadora que posiciona a empresa na vanguarda tecnológica do setor. Com arquitetura robusta, funcionalidades avançadas e documentação completa, o sistema está pronto para transformar a operação e gerar resultados excepcionais.
+O **Sistema de Automaçêo Imobiliária** entregue representa uma soluçêo completa e inovadora que posiciona a empresa na vanguarda tecnológica do setor. Com arquitetura robusta, funcionalidades avançadas e documentaçêo completa, o sistema está pronto para transformar a operaçêo e gerar resultados excepcionais.
 
 ### Principais Conquistas
 ✅ **Sistema 100% funcional** e testado  
-✅ **Documentação completa** para operação  
+✅ **Documentaçêo completa** para operaçêo  
 ✅ **Arquitetura escalável** para crescimento  
 ✅ **ROI comprovado** em casos similares  
 ✅ **Suporte técnico** garantido  
 
 ### Impacto Esperado
-🚀 **Transformação digital** completa  
+🚀 **Transformaçêo digital** completa  
 📈 **Aumento significativo** de vendas  
-💰 **Redução de custos** operacionais  
+💰 **Reduçêo de custos** operacionais  
 🎯 **Vantagem competitiva** sustentável  
 🌟 **Experiência do cliente** excepcional  
 
 ---
 
-**O futuro da automação imobiliária começa agora!** 🏠🤖
+**O futuro da automaçêo imobiliária começa agora!** 🏠🤖
 
 ------------------------------
 
@@ -363,31 +363,31 @@ MENSAGEM 28
 Autor: INEMA
 Data: 2025-06-26T03:19:48+00:00
 Texto:
-# Resumo Executivo - Sistema de Automação Imobiliária
+# Resumo Executivo - Sistema de Automaçêo Imobiliária
 
 ## 🎯 Objetivo Alcançado
 
-Criamos um **sistema completo de automação imobiliária** usando n8n como plataforma principal, integrando múltiplos canais de comunicação com inteligência artificial e supervisão humana. O sistema oferece atendimento 24/7 automatizado com qualidade profissional.
+Criamos um **sistema completo de automaçêo imobiliária** usando n8n como plataforma principal, integrando múltiplos canais de comunicaçêo com inteligência artificial e supervisêo humana. O sistema oferece atendimento 24/7 automatizado com qualidade profissional.
 
 ## 🏗️ Componentes Entregues
 
 ### 1. Backend Supabase (PostgreSQL)
 - **15 tabelas** estruturadas com relacionamentos otimizados
 - **Políticas RLS** para segurança granular
-- **Triggers e funções** para automação de dados
+- **Triggers e funções** para automaçêo de dados
 - **Índices otimizados** para performance
 - **Sistema de logs** completo
 
 ### 2. Workflows n8n (9 workflows)
 1. **Orquestrador Central** - Coordena todas as interações
 2. **Monitoramento e Métricas** - Analytics em tempo real
-3. **Atendimento Inicial** - Qualificação inteligente de leads
-4. **Agendamento de Visitas** - Automação completa de agenda
-5. **Captação de Proprietários** - Processamento de novos imóveis
-6. **Relacionamento/Follow-up** - Nutrição automática de leads
-7. **Integração WhatsApp** - API Business completa
-8. **Integração E-mail** - IMAP/SMTP com newsletter HTML
-9. **Sistema HITL Telegram** - Supervisão e controle humano
+3. **Atendimento Inicial** - Qualificaçêo inteligente de leads
+4. **Agendamento de Visitas** - Automaçêo completa de agenda
+5. **Captaçêo de Proprietários** - Processamento de novos imóveis
+6. **Relacionamento/Follow-up** - Nutriçêo automática de leads
+7. **Integraçêo WhatsApp** - API Business completa
+8. **Integraçêo E-mail** - IMAP/SMTP com newsletter HTML
+9. **Sistema HITL Telegram** - Supervisêo e controle humano
 
 ### 3. Integrações Completas
 - **WhatsApp Business API** com webhook bidirecional
@@ -398,38 +398,38 @@ Criamos um **sistema completo de automação imobiliária** usando n8n como plat
 ### 4. Sistema HITL (Human-in-the-Loop)
 - **Dashboard Telegram** com comandos interativos
 - **Notificações automáticas** por prioridade
-- **Aprovação manual** para casos complexos
+- **Aprovaçêo manual** para casos complexos
 - **Métricas em tempo real** de performance
 
-### 5. Documentação Completa
-- **Manual de Instalação** passo a passo
+### 5. Documentaçêo Completa
+- **Manual de Instalaçêo** passo a passo
 - **Guia de Uso** operacional detalhado
 - **Troubleshooting e FAQ** abrangente
-- **Configuração de Variáveis** documentada
+- **Configuraçêo de Variáveis** documentada
 - **Arquitetura do Sistema** explicada
 
 ## 🚀 Funcionalidades Principais
 
 ### Atendimento Automatizado
 - **Resposta instantânea** em WhatsApp e E-mail
-- **Detecção de intenção** com IA
-- **Qualificação automática** de leads
-- **Personalização** baseada no histórico
+- **Detecçêo de intençêo** com IA
+- **Qualificaçêo automática** de leads
+- **Personalizaçêo** baseada no histórico
 
-### Gestão Inteligente
-- **Score de qualificação** dinâmico
-- **Segmentação automática** de clientes
+### Gestêo Inteligente
+- **Score de qualificaçêo** dinâmico
+- **Segmentaçêo automática** de clientes
 - **Follow-up personalizado** por perfil
-- **Reativação** de clientes inativos
+- **Reativaçêo** de clientes inativos
 
 ### Agendamento Avançado
 - **Disponibilidade automática** de corretores
 - **Confirmações e lembretes** automáticos
 - **Reagendamento inteligente** em caso de conflitos
-- **Integração com calendário** dos corretores
+- **Integraçêo com calendário** dos corretores
 
-### Supervisão Humana
-- **Intervenção quando necessário** (HITL)
+### Supervisêo Humana
+- **Intervençêo quando necessário** (HITL)
 - **Dashboard de controle** via Telegram
 - **Alertas por prioridade** configuráveis
 - **Relatórios automáticos** diários/semanais
@@ -439,13 +439,13 @@ Criamos um **sistema completo de automação imobiliária** usando n8n como plat
 ### Performance do Sistema
 - **Tempo de resposta**: < 60 segundos
 - **Disponibilidade**: 99.5% uptime
-- **Taxa de resolução automática**: > 85%
-- **Satisfação do cliente**: > 4.5/5
+- **Taxa de resoluçêo automática**: > 85%
+- **Satisfaçêo do cliente**: > 4.5/5
 
 ### Impacto no Negócio
-- **Redução de 70%** no tempo de resposta
+- **Reduçêo de 70%** no tempo de resposta
 - **Aumento de 300%** na capacidade de atendimento
-- **Melhoria de 50%** na qualificação de leads
+- **Melhoria de 50%** na qualificaçêo de leads
 - **Economia de 60%** em custos operacionais
 
 ### ROI Estimado
@@ -457,28 +457,28 @@ Criamos um **sistema completo de automação imobiliária** usando n8n como plat
 ## 🎯 Diferenciais Competitivos
 
 ### 1. Arquitetura Modular
-- **Agentes especializados** para cada função
+- **Agentes especializados** para cada funçêo
 - **Escalabilidade horizontal** fácil
-- **Manutenção simplificada** por módulo
-- **Integração** com sistemas existentes
+- **Manutençêo simplificada** por módulo
+- **Integraçêo** com sistemas existentes
 
 ### 2. IA Conversacional Avançada
 - **Processamento de linguagem natural** em português
 - **Contexto de conversa** mantido
 - **Aprendizado contínuo** com feedback
-- **Personalização** por cliente
+- **Personalizaçêo** por cliente
 
 ### 3. Sistema HITL Inovador
-- **Supervisão inteligente** apenas quando necessário
+- **Supervisêo inteligente** apenas quando necessário
 - **Dashboard móvel** via Telegram
-- **Escalação automática** por prioridade
+- **Escalaçêo automática** por prioridade
 - **Métricas em tempo real**
 
-### 4. Integração Omnichannel
+### 4. Integraçêo Omnichannel
 - **Múltiplos canais** unificados
 - **Histórico centralizado** por cliente
 - **Experiência consistente** em todos os canais
-- **Sincronização automática** de dados
+- **Sincronizaçêo automática** de dados
 
 ## 🔧
 
@@ -497,7 +497,7 @@ MENSAGEM 30
 Autor: INEMA
 Data: 2025-06-26T03:15:53+00:00
 Texto: [Sem texto]
-Midia: MessageMediaDocument -> Sistema de Automação Imobiliária.md
+Midia: MessageMediaDocument -> Sistema de Automaçêo Imobiliária.md
 
 ------------------------------
 

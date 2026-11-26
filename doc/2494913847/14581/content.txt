@@ -13,7 +13,7 @@ MENSAGEM 1
 Autor: Miranha
 Data: 2025-09-24T12:31:43+00:00
 Texto:
-O link talvez não esteja publico
+O link talvez nêo esteja publico
 Midia: MessageMediaPhoto -> photo_14592_001.jpg
 
 ------------------------------

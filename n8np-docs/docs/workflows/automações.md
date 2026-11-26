@@ -5,7 +5,7 @@ Total de workflows: **66**
 
 ## Tópico 10577
 
-### Integração WhatsApp Business API
+### Integraçêo WhatsApp Business API
 
 - **Nodes:** 16
 - **Integrações:** Supabase

@@ -69,7 +69,7 @@
     "id": 3888,
     "author": "Tiza",
     "date": "2025-03-25T22:54:46+00:00",
-    "text": "Vou te chamar. \nOs números são espaços que deixamos para caso precise ser incluído algo ali.",
+    "text": "Vou te chamar. \nOs números sêo espaços que deixamos para caso precise ser incluído algo ali.",
     "has_media": false,
     "media_type": null
   },
@@ -77,7 +77,7 @@
     "id": 3883,
     "author": "Leandro",
     "date": "2025-03-25T22:49:48+00:00",
-    "text": "E o que são os números 1 2 3 4 ....",
+    "text": "E o que sêo os números 1 2 3 4 ....",
     "has_media": false,
     "media_type": null
   },
@@ -99,7 +99,7 @@
   },
   {
     "id": 3871,
-    "author": "João",
+    "author": "Joêo",
     "date": "2025-03-25T19:23:50+00:00",
     "text": "Mas na imagem q vc mandou tem um erro em um node do google drive",
     "has_media": false,
@@ -107,7 +107,7 @@
   },
   {
     "id": 3870,
-    "author": "João",
+    "author": "Joêo",
     "date": "2025-03-25T19:23:32+00:00",
     "text": "Pode ser",
     "has_media": false,
@@ -139,7 +139,7 @@
   },
   {
     "id": 3864,
-    "author": "João",
+    "author": "Joêo",
     "date": "2025-03-25T16:58:21+00:00",
     "text": "Verifica as permissões, pode ser isso",
     "has_media": false,
@@ -149,7 +149,7 @@
     "id": 3862,
     "author": "Gustavo",
     "date": "2025-03-25T16:26:02+00:00",
-    "text": "Boa tarde, Galera... tudo configurado certinho, quando clico pra testar o fluxo, dá esse erro, a trigger não dispara, mas as configurações no modulo do WhatsApp ta configurada direitinho, alguém sabe o que pode ser?",
+    "text": "Boa tarde, Galera... tudo configurado certinho, quando clico pra testar o fluxo, dá esse erro, a trigger nêo dispara, mas as configurações no modulo do WhatsApp ta configurada direitinho, alguém sabe o que pode ser?",
     "has_media": true,
     "media_type": "MessageMediaPhoto",
     "media_file": "photo_3862_019.jpg"
@@ -158,7 +158,7 @@
     "id": 3861,
     "author": "Jose Carlos",
     "date": "2025-03-25T16:05:17+00:00",
-    "text": "pessoal estou procurando o agende de vendas e não acho",
+    "text": "pessoal estou procurando o agende de vendas e nêo acho",
     "has_media": false,
     "media_type": null
   },
@@ -182,7 +182,7 @@
     "id": 3341,
     "author": "Evan",
     "date": "2025-03-16T16:36:51+00:00",
-    "text": "Meu foco é automação de respostas no WhatsApp com áudio",
+    "text": "Meu foco é automaçêo de respostas no WhatsApp com áudio",
     "has_media": false,
     "media_type": null
   },
@@ -222,7 +222,7 @@
     "id": 3159,
     "author": "mano",
     "date": "2025-03-14T12:34:35+00:00",
-    "text": "Pessoal , pergunta de leigo.\n\nComo eu crio uma crendencial do WhatsApp? No Developers do Facebook, eu já tenho um app criado. Não estou sabendo conectar, caso tenha um vídeo explicando ou se alguém puder me dá um toque, ficarei grato",
+    "text": "Pessoal , pergunta de leigo.\n\nComo eu crio uma crendencial do WhatsApp? No Developers do Facebook, eu já tenho um app criado. Nêo estou sabendo conectar, caso tenha um vídeo explicando ou se alguém puder me dá um toque, ficarei grato",
     "has_media": true,
     "media_type": "MessageMediaPhoto",
     "media_file": "photo_3159_028.jpg"
@@ -239,7 +239,7 @@
     "id": 3157,
     "author": "Anderson Viana",
     "date": "2025-03-14T06:18:21+00:00",
-    "text": "Estou iniciando agora estou pensando em montar uma agenda automática para atendimento no wattsapp tipo agenda de consultório salão de beleza etc tem algum programa pronto na comunidade",
+    "text": "Estou iniciando agora estou pensando em montar uma agenda automática para atendimento no wattsapp tipo agenda de consultório salêo de beleza etc tem algum programa pronto na comunidade",
     "has_media": false,
     "media_type": null
   },
@@ -263,7 +263,7 @@
     "id": 3146,
     "author": "Evan",
     "date": "2025-03-14T02:26:58+00:00",
-    "text": "Boa noite pessoal, entrei recentemente no comunidade,  e estou buscando uma automação para fazer ligações, ouvi falar que já existem isso.",
+    "text": "Boa noite pessoal, entrei recentemente no comunidade,  e estou buscando uma automaçêo para fazer ligações, ouvi falar que já existem isso.",
     "has_media": false,
     "media_type": null
   },
@@ -303,7 +303,7 @@
     "id": 2129,
     "author": "José Adenildo",
     "date": "2025-03-07T02:07:21+00:00",
-    "text": "Pessoal como gerar imagens num fluxo feito em n8n?.... O usuário pede um plano de aula (como, por exemplo, ensinar sobre o sistema solar) o Agente cria o plano e indica umas atividades com imagens....... A questão é essa como gerar essas imagens sugeridas pelo agente, juntá-las ao plano para o agente devolver ao usuário? .... Teria que usar multi-agentes?.... Ou function? E qual API usar? .... Poderiam indicar um caminho para achar essa solução. Obrigado.",
+    "text": "Pessoal como gerar imagens num fluxo feito em n8n?.... O usuário pede um plano de aula (como, por exemplo, ensinar sobre o sistema solar) o Agente cria o plano e indica umas atividades com imagens....... A questêo é essa como gerar essas imagens sugeridas pelo agente, juntá-las ao plano para o agente devolver ao usuário? .... Teria que usar multi-agentes?.... Ou function? E qual API usar? .... Poderiam indicar um caminho para achar essa soluçêo. Obrigado.",
     "has_media": false,
     "media_type": null
   },
@@ -319,7 +319,7 @@
     "id": 1923,
     "author": "William",
     "date": "2025-02-27T20:58:39+00:00",
-    "text": "Gente ainda não entendi , criamos uma máquina virtual e rodamos o n8n , se comercializarmos automação no n8n poderíamos cuida de vários clientes na mesma máquina ?",
+    "text": "Gente ainda nêo entendi , criamos uma máquina virtual e rodamos o n8n , se comercializarmos automaçêo no n8n poderíamos cuida de vários clientes na mesma máquina ?",
     "has_media": false,
     "media_type": null
   },
@@ -335,7 +335,7 @@
     "id": 1850,
     "author": "Imob",
     "date": "2025-02-24T03:14:31+00:00",
-    "text": "Como é essa integração com o botconversa?",
+    "text": "Como é essa integraçêo com o botconversa?",
     "has_media": false,
     "media_type": null
   },
@@ -343,7 +343,7 @@
     "id": 1844,
     "author": "Alex",
     "date": "2025-02-23T22:31:33+00:00",
-    "text": "Boa tarde preciso de algum modelo de automação de atendimento de whatsapp para clínica de estética, e forma de implantação no cliente, é feito através de vps? Alguém poderia me ajudar?",
+    "text": "Boa tarde preciso de algum modelo de automaçêo de atendimento de whatsapp para clínica de estética, e forma de implantaçêo no cliente, é feito através de vps? Alguém poderia me ajudar?",
     "has_media": false,
     "media_type": null
   },
@@ -351,7 +351,7 @@
     "id": 1640,
     "author": "Adalberto",
     "date": "2025-02-18T22:30:03+00:00",
-    "text": "Sugiro não começar pelo N8N, primeiro aprenda o Make que é mais simples, já entrou no repositório do make ? Segue por exemplo um link dentro do grupo do make que fala sobre o whatsapp:  https://t.me/c/2277358326/2088",
+    "text": "Sugiro nêo começar pelo N8N, primeiro aprenda o Make que é mais simples, já entrou no repositório do make ? Segue por exemplo um link dentro do grupo do make que fala sobre o whatsapp:  https://t.me/c/2277358326/2088",
     "has_media": false,
     "media_type": null
   },
@@ -407,7 +407,7 @@
     "id": 1324,
     "author": "Euclidesbarros",
     "date": "2025-02-06T17:23:08+00:00",
-    "text": "Boa tarde galera! \nEstou meio perdido, porém quero aprender fazer automação para vender como serviço.",
+    "text": "Boa tarde galera! \nEstou meio perdido, porém quero aprender fazer automaçêo para vender como serviço.",
     "has_media": false,
     "media_type": null
   },
@@ -415,7 +415,7 @@
     "id": 1319,
     "author": "Igor",
     "date": "2025-02-06T16:19:45+00:00",
-    "text": "N8N... Com API oficial do whatsapp e hoje estou colocando no botconversa..\n Que fica uma solução muito sinistra para equipe de vendas",
+    "text": "N8N... Com API oficial do whatsapp e hoje estou colocando no botconversa..\n Que fica uma soluçêo muito sinistra para equipe de vendas",
     "has_media": false,
     "media_type": null
   },
@@ -463,7 +463,7 @@
     "id": 1239,
     "author": "Mateus",
     "date": "2025-02-05T23:10:43+00:00",
-    "text": "Ainda não parei pra estudar.\nVou tirar um tempo só pra entender o conceito.",
+    "text": "Ainda nêo parei pra estudar.\nVou tirar um tempo só pra entender o conceito.",
     "has_media": false,
     "media_type": null
   },
@@ -487,7 +487,7 @@
     "id": 1225,
     "author": "Camila -",
     "date": "2025-02-05T15:46:55+00:00",
-    "text": "Pessoal, quando tento instalar o porteiner e o tarefik ao final do processo recebo essa mensagem no termius: Ops não foi possivel iniciar o swarm\n\nAlguém sabe o que pode ser?",
+    "text": "Pessoal, quando tento instalar o porteiner e o tarefik ao final do processo recebo essa mensagem no termius: Ops nêo foi possivel iniciar o swarm\n\nAlguém sabe o que pode ser?",
     "has_media": false,
     "media_type": null
   },
@@ -511,7 +511,7 @@
     "id": 1181,
     "author": "Desconhecido",
     "date": "2025-02-04T00:00:34+00:00",
-    "text": "São muito boas as aulas dele.",
+    "text": "Sêo muito boas as aulas dele.",
     "has_media": false,
     "media_type": null
   },
@@ -559,7 +559,7 @@
     "id": 1104,
     "author": "Mateus",
     "date": "2025-01-31T22:13:14+00:00",
-    "text": "Boa noite galera!\nEstou meio perdido, porém quero aprender fazer automação para vender como serviço.",
+    "text": "Boa noite galera!\nEstou meio perdido, porém quero aprender fazer automaçêo para vender como serviço.",
     "has_media": false,
     "media_type": null
   },
@@ -623,7 +623,7 @@
     "id": 1065,
     "author": "Igor",
     "date": "2025-01-30T23:56:17+00:00",
-    "text": "todas as funções estão ok",
+    "text": "todas as funções estêo ok",
     "has_media": false,
     "media_type": null
   },
@@ -639,7 +639,7 @@
     "id": 1063,
     "author": "Igor",
     "date": "2025-01-30T23:56:02+00:00",
-    "text": "A aplicação pelo google estava apontada para o make, só atualizei as informações para o n8n e agora funciona.",
+    "text": "A aplicaçêo pelo google estava apontada para o make, só atualizei as informações para o n8n e agora funciona.",
     "has_media": false,
     "media_type": null
   },
@@ -655,7 +655,7 @@
     "id": 1059,
     "author": "RealizaTec",
     "date": "2025-01-30T22:52:53+00:00",
-    "text": "Se não gerar o permanente, o outro expira com o tempo",
+    "text": "Se nêo gerar o permanente, o outro expira com o tempo",
     "has_media": false,
     "media_type": null
   },
@@ -671,7 +671,7 @@
     "id": 1054,
     "author": "Igor",
     "date": "2025-01-30T19:26:12+00:00",
-    "text": "eu to com esse bug besta, não consigo ativar o cenário, mas o fluxo roda sem erro nos testes..",
+    "text": "eu to com esse bug besta, nêo consigo ativar o cenário, mas o fluxo roda sem erro nos testes..",
     "has_media": false,
     "media_type": null
   },
@@ -729,7 +729,7 @@
     "id": 1047,
     "author": "Igor",
     "date": "2025-01-30T19:17:03+00:00",
-    "text": "Não precisou",
+    "text": "Nêo precisou",
     "has_media": false,
     "media_type": null
   },
@@ -745,7 +745,7 @@
     "id": 1045,
     "author": "Igor",
     "date": "2025-01-30T19:16:21+00:00",
-    "text": "Precisar ter um aplicativo no meta dev, ou criar um... dai você vai precisar cadastrar um chip novo, número que não tenha cadastrado whats..",
+    "text": "Precisar ter um aplicativo no meta dev, ou criar um... dai você vai precisar cadastrar um chip novo, número que nêo tenha cadastrado whats..",
     "has_media": false,
     "media_type": null
   },
@@ -794,7 +794,7 @@
     "id": 1037,
     "author": "Igor",
     "date": "2025-01-30T18:34:15+00:00",
-    "text": "Agora enfrento um novo impedimento... O Fluxo funciona, mas não consigo deixar ativo permanentemete. Alguém sabe dizer?",
+    "text": "Agora enfrento um novo impedimento... O Fluxo funciona, mas nêo consigo deixar ativo permanentemete. Alguém sabe dizer?",
     "has_media": false,
     "media_type": null
   },
@@ -827,7 +827,7 @@
     "id": 957,
     "author": "Igor",
     "date": "2025-01-29T13:38:42+00:00",
-    "text": "as credenciais do whatsapp que cadastro no fluxo do n8n não estão ficando salvas",
+    "text": "as credenciais do whatsapp que cadastro no fluxo do n8n nêo estêo ficando salvas",
     "has_media": false,
     "media_type": null
   },
@@ -884,7 +884,7 @@
     "id": 807,
     "author": "Victor",
     "date": "2025-01-25T14:29:53+00:00",
-    "text": "São 02 arquivos ou um só?\nNo instagra. Ele mostra dois",
+    "text": "Sêo 02 arquivos ou um só?\nNo instagra. Ele mostra dois",
     "has_media": false,
     "media_type": null
   },
@@ -900,7 +900,7 @@
     "id": 804,
     "author": "Felipe Fraul",
     "date": "2025-01-25T14:06:02+00:00",
-    "text": "Eu não consigo ver as automações postadas anteriormente a minha entrada?",
+    "text": "Eu nêo consigo ver as automações postadas anteriormente a minha entrada?",
     "has_media": false,
     "media_type": null
   },
@@ -908,7 +908,7 @@
     "id": 793,
     "author": "Camila -",
     "date": "2025-01-25T11:45:28+00:00",
-    "text": "estão aqui [Victor](tg://user?id=7608758433)",
+    "text": "estêo aqui [Victor](tg://user?id=7608758433)",
     "has_media": false,
     "media_type": null
   },
@@ -924,7 +924,7 @@
     "id": 769,
     "author": "INEMA",
     "date": "2025-01-25T01:58:31+00:00",
-    "text": "### Criar um Agente de IA no WhatsApp com N8N  \n  \nNesta explicação, você aprenderá a configurar um agente de inteligência artificial que interage diretamente no WhatsApp usando N8N. Este agente é capaz de realizar diversas tarefas, como transcrição de áudios, buscas na internet, criação de eventos, gestão de e-mails, e organização de tarefas no ClickUp ou Notion. Abaixo está o passo a passo para configurar e usar essa automação.  \n  \n---  \n  \n### Estrutura do Fluxo  \n  \n#### 1. Recepção de Mensagens  \n- Trigger: Um disparador no N8N detecta mensagens recebidas no WhatsApp.  \n- Tipos de mensagens processadas:  \n  - Texto.  \n  - Áudio (convertido para texto).  \n  - Documentos.  \n  \n#### 2. Processamento de Mensagens  \n- Áudios: São transcritos automaticamente com OpenAI Whisper.  \n- Textos: São enviados diretamente para análise e execução da próxima etapa.  \n  \n#### 3. Interação com o Agente de IA  \n- O texto processado é enviado para o Agente IA configurado no N8N, que utiliza ferramentas integradas para realizar ações específicas.  \n- Este agente pode buscar informações, criar eventos, organizar notas e gerenciar tarefas de forma automatizada.  \n  \n---  \n  \n### Ferramentas Principais Utilizadas  \n  \n1. Google Search: Realiza buscas na internet em tempo real.  \n2. Calendário: Cria e gerencia eventos automaticamente, identificando variáveis como data, horário e participantes.  \n3. E-mails: Busca mensagens específicas usando palavras-chave, datas ou remetentes.  \n4. Notion: Automatiza a criação e organização de notas.  \n5. ClickUp: Gerencia tarefas e projetos de forma ágil.  \n6. Pinecone (Base de Dados Vetorial):  \n   - Armazena informações estruturadas para respostas contextuais.  \n   - Responde perguntas baseadas em conhecimento armazenado.  \n  \n---  \n  \n### Detalhes da Configuração  \n  \n#### Agente de Inteligência Artificial  \n- Modelo: OpenAI GPT-4 (Mini), configurado como motor principal para interpretar as interações.  \n- Memória:  \n  - Armazena o contexto das conversas para respostas mais personalizadas.  \n  - Usa um identificador único (como o ID do WhatsApp do usuário).  \n- Ferramentas (Tools):  \n  - Configuradas no N8N para executar tarefas específicas de acordo com o tipo de interação.  \n  \n#### Conexão com Ferramentas  \n1. Pinecone:  \n   - Armazena e processa grandes volumes de dados vetoriais.  \n   - Fornece respostas rápidas e precisas baseadas em contexto.  \n  \n2. Calendário:  \n   - Detecta automaticamente informações como data, horário e local a partir do texto.  \n   - Automatiza a criação de eventos.  \n  \n3. E-mails:  \n   - Busca e filtra e-mails com base em palavras-chave, datas e remetentes.  \n  \n4. Notion:  \n   - Cria e organiza notas de forma personalizada.  \n  \n5. ClickUp:  \n   - Gerencia tarefas e prazos de maneira integrada.  \n  \n---  \n  \n### Exemplos Práticos  \n  \n#### 1. Buscar Informações e Criar uma Nota no Notion  \n- Exemplo:    \n  *“Busque os melhores restaurantes italianos em São Paulo e crie uma nota no Notion com essas informações.”*  \n  \n#### 2. Buscar E-mails Específicos  \n- Exemplo:    \n  *“Encontre o último e-mail que menciona a palavra ‘fatura’.”*  \n  \n#### 3. Realizar Tarefas Simultâneas  \n- Exemplo:  \n  - Criar um evento no Google Calendar.  \n  - Buscar e-mails relacionados a orçamentos.  \n  - Salvar informações relevantes em uma nota no Notion.  \n  - Criar uma tarefa correspondente no ClickUp.  \n  \n---  \n  \n### Recursos  \n- Agente de IA no N8N: A configuração detalhada está disponível na comunidade N8N.    \n- Gestão de Tarefas no ClickUp: Um fluxo otimizado para organizar e acompanhar tarefas.",
+    "text": "### Criar um Agente de IA no WhatsApp com N8N  \n  \nNesta explicaçêo, você aprenderá a configurar um agente de inteligência artificial que interage diretamente no WhatsApp usando N8N. Este agente é capaz de realizar diversas tarefas, como transcriçêo de áudios, buscas na internet, criaçêo de eventos, gestêo de e-mails, e organizaçêo de tarefas no ClickUp ou Notion. Abaixo está o passo a passo para configurar e usar essa automaçêo.  \n  \n---  \n  \n### Estrutura do Fluxo  \n  \n#### 1. Recepçêo de Mensagens  \n- Trigger: Um disparador no N8N detecta mensagens recebidas no WhatsApp.  \n- Tipos de mensagens processadas:  \n  - Texto.  \n  - Áudio (convertido para texto).  \n  - Documentos.  \n  \n#### 2. Processamento de Mensagens  \n- Áudios: Sêo transcritos automaticamente com OpenAI Whisper.  \n- Textos: Sêo enviados diretamente para análise e execuçêo da próxima etapa.  \n  \n#### 3. Interaçêo com o Agente de IA  \n- O texto processado é enviado para o Agente IA configurado no N8N, que utiliza ferramentas integradas para realizar ações específicas.  \n- Este agente pode buscar informações, criar eventos, organizar notas e gerenciar tarefas de forma automatizada.  \n  \n---  \n  \n### Ferramentas Principais Utilizadas  \n  \n1. Google Search: Realiza buscas na internet em tempo real.  \n2. Calendário: Cria e gerencia eventos automaticamente, identificando variáveis como data, horário e participantes.  \n3. E-mails: Busca mensagens específicas usando palavras-chave, datas ou remetentes.  \n4. Notion: Automatiza a criaçêo e organizaçêo de notas.  \n5. ClickUp: Gerencia tarefas e projetos de forma ágil.  \n6. Pinecone (Base de Dados Vetorial):  \n   - Armazena informações estruturadas para respostas contextuais.  \n   - Responde perguntas baseadas em conhecimento armazenado.  \n  \n---  \n  \n### Detalhes da Configuraçêo  \n  \n#### Agente de Inteligência Artificial  \n- Modelo: OpenAI GPT-4 (Mini), configurado como motor principal para interpretar as interações.  \n- Memória:  \n  - Armazena o contexto das conversas para respostas mais personalizadas.  \n  - Usa um identificador único (como o ID do WhatsApp do usuário).  \n- Ferramentas (Tools):  \n  - Configuradas no N8N para executar tarefas específicas de acordo com o tipo de interaçêo.  \n  \n#### Conexêo com Ferramentas  \n1. Pinecone:  \n   - Armazena e processa grandes volumes de dados vetoriais.  \n   - Fornece respostas rápidas e precisas baseadas em contexto.  \n  \n2. Calendário:  \n   - Detecta automaticamente informações como data, horário e local a partir do texto.  \n   - Automatiza a criaçêo de eventos.  \n  \n3. E-mails:  \n   - Busca e filtra e-mails com base em palavras-chave, datas e remetentes.  \n  \n4. Notion:  \n   - Cria e organiza notas de forma personalizada.  \n  \n5. ClickUp:  \n   - Gerencia tarefas e prazos de maneira integrada.  \n  \n---  \n  \n### Exemplos Práticos  \n  \n#### 1. Buscar Informações e Criar uma Nota no Notion  \n- Exemplo:    \n  *“Busque os melhores restaurantes italianos em Sêo Paulo e crie uma nota no Notion com essas informações.”*  \n  \n#### 2. Buscar E-mails Específicos  \n- Exemplo:    \n  *“Encontre o último e-mail que menciona a palavra ‘fatura’.”*  \n  \n#### 3. Realizar Tarefas Simultâneas  \n- Exemplo:  \n  - Criar um evento no Google Calendar.  \n  - Buscar e-mails relacionados a orçamentos.  \n  - Salvar informações relevantes em uma nota no Notion.  \n  - Criar uma tarefa correspondente no ClickUp.  \n  \n---  \n  \n### Recursos  \n- Agente de IA no N8N: A configuraçêo detalhada está disponível na comunidade N8N.    \n- Gestêo de Tarefas no ClickUp: Um fluxo otimizado para organizar e acompanhar tarefas.",
     "has_media": false,
     "media_type": null
   },
@@ -940,7 +940,7 @@
     "id": 767,
     "author": "INEMA",
     "date": "2025-01-25T01:57:18+00:00",
-    "text": "### Criar um Agente de IA no WhatsApp com N8N  \n  \nNesta explicação, você aprenderá a configurar um agente de inteligência artificial que interage diretamente no WhatsApp usando N8N. Este agente é capaz de realizar diversas tarefas, como transcrição de áudios, buscas na internet, criação de eventos, gestão de e-mails, e organização de tarefas no ClickUp ou Notion. Abaixo está o passo a passo para configurar e usar essa automação.  \n  \n---  \n  \n### Estrutura do Fluxo  \n  \n#### 1. Recepção de Mensagens  \n- Trigger: Um disparador no N8N detecta mensagens recebidas no WhatsApp.  \n- Tipos de mensagens processadas:  \n  - Texto.  \n  - Áudio (convertido para texto).  \n  - Documentos.  \n  \n#### 2. Processamento de Mensagens  \n- Áudios: São transcritos automaticamente com OpenAI Whisper.  \n- Textos: São enviados diretamente para análise e execução da próxima etapa.  \n  \n#### 3. Interação com o Agente de IA  \n- O texto processado é enviado para o Agente IA configurado no N8N, que utiliza ferramentas integradas para realizar ações específicas.  \n- Este agente pode buscar informações, criar eventos, organizar notas e gerenciar tarefas de forma automatizada.  \n  \n---  \n  \n### Ferramentas Principais Utilizadas  \n  \n1. Google Search: Realiza buscas na internet em tempo real.  \n2. Calendário: Cria e gerencia eventos automaticamente, identificando variáveis como data, horário e participantes.  \n3. E-mails: Busca mensagens específicas usando palavras-chave, datas ou remetentes.  \n4. Notion: Automatiza a criação e organização de notas.  \n5. ClickUp: Gerencia tarefas e projetos de forma ágil.  \n6. Pinecone (Base de Dados Vetorial):  \n   - Armazena informações estruturadas para respostas contextuais.  \n   - Responde perguntas baseadas em conhecimento armazenado.  \n  \n---  \n  \n### Detalhes da Configuração  \n  \n#### Agente de Inteligência Artificial  \n- Modelo: OpenAI GPT-4 (Mini), configurado como motor principal para interpretar as interações.  \n- Memória:  \n  - Armazena o contexto das conversas para respostas mais personalizadas.  \n  - Usa um identificador único (como o ID do WhatsApp do usuário).  \n- Ferramentas (Tools):  \n  - Configuradas no N8N para executar tarefas específicas de acordo com o tipo de interação.  \n  \n#### Conexão com Ferramentas  \n1. Pinecone:  \n   - Armazena e processa grandes volumes de dados vetoriais.  \n   - Fornece respostas rápidas e precisas baseadas em contexto.  \n  \n2. Calendário:  \n   - Detecta automaticamente informações como data, horário e local a partir do texto.  \n   - Automatiza a criação de eventos.  \n  \n3. E-mails:  \n   - Busca e filtra e-mails com base em palavras-chave, datas e remetentes.  \n  \n4. Notion:  \n   - Cria e organiza notas de forma personalizada.  \n  \n5. ClickUp:  \n   - Gerencia tarefas e prazos de maneira integrada.  \n  \n---  \n  \n### Exemplos Práticos  \n  \n#### 1. Buscar Informações e Criar uma Nota no Notion  \n- Exemplo:    \n  *“Busque os melhores restaurantes italianos em São Paulo e crie uma nota no Notion com essas informações.”*  \n  \n#### 2. Buscar E-mails Específicos  \n- Exemplo:    \n  *“Encontre o último e-mail que menciona a palavra ‘fatura’.”*  \n  \n#### 3. Realizar Tarefas Simultâneas  \n- Exemplo:  \n  - Criar um evento no Google Calendar.  \n  - Buscar e-mails relacionados a orçamentos.  \n  - Salvar informações relevantes em uma nota no Notion.  \n  - Criar uma tarefa correspondente no ClickUp.  \n  \n---  \n  \n### Recursos  \n- Agente de IA no N8N: A configuração detalhada está disponível na comunidade N8N.    \n- Gestão de Tarefas no ClickUp: Um fluxo otimizado para organizar e acompanhar tarefas.",
+    "text": "### Criar um Agente de IA no WhatsApp com N8N  \n  \nNesta explicaçêo, você aprenderá a configurar um agente de inteligência artificial que interage diretamente no WhatsApp usando N8N. Este agente é capaz de realizar diversas tarefas, como transcriçêo de áudios, buscas na internet, criaçêo de eventos, gestêo de e-mails, e organizaçêo de tarefas no ClickUp ou Notion. Abaixo está o passo a passo para configurar e usar essa automaçêo.  \n  \n---  \n  \n### Estrutura do Fluxo  \n  \n#### 1. Recepçêo de Mensagens  \n- Trigger: Um disparador no N8N detecta mensagens recebidas no WhatsApp.  \n- Tipos de mensagens processadas:  \n  - Texto.  \n  - Áudio (convertido para texto).  \n  - Documentos.  \n  \n#### 2. Processamento de Mensagens  \n- Áudios: Sêo transcritos automaticamente com OpenAI Whisper.  \n- Textos: Sêo enviados diretamente para análise e execuçêo da próxima etapa.  \n  \n#### 3. Interaçêo com o Agente de IA  \n- O texto processado é enviado para o Agente IA configurado no N8N, que utiliza ferramentas integradas para realizar ações específicas.  \n- Este agente pode buscar informações, criar eventos, organizar notas e gerenciar tarefas de forma automatizada.  \n  \n---  \n  \n### Ferramentas Principais Utilizadas  \n  \n1. Google Search: Realiza buscas na internet em tempo real.  \n2. Calendário: Cria e gerencia eventos automaticamente, identificando variáveis como data, horário e participantes.  \n3. E-mails: Busca mensagens específicas usando palavras-chave, datas ou remetentes.  \n4. Notion: Automatiza a criaçêo e organizaçêo de notas.  \n5. ClickUp: Gerencia tarefas e projetos de forma ágil.  \n6. Pinecone (Base de Dados Vetorial):  \n   - Armazena informações estruturadas para respostas contextuais.  \n   - Responde perguntas baseadas em conhecimento armazenado.  \n  \n---  \n  \n### Detalhes da Configuraçêo  \n  \n#### Agente de Inteligência Artificial  \n- Modelo: OpenAI GPT-4 (Mini), configurado como motor principal para interpretar as interações.  \n- Memória:  \n  - Armazena o contexto das conversas para respostas mais personalizadas.  \n  - Usa um identificador único (como o ID do WhatsApp do usuário).  \n- Ferramentas (Tools):  \n  - Configuradas no N8N para executar tarefas específicas de acordo com o tipo de interaçêo.  \n  \n#### Conexêo com Ferramentas  \n1. Pinecone:  \n   - Armazena e processa grandes volumes de dados vetoriais.  \n   - Fornece respostas rápidas e precisas baseadas em contexto.  \n  \n2. Calendário:  \n   - Detecta automaticamente informações como data, horário e local a partir do texto.  \n   - Automatiza a criaçêo de eventos.  \n  \n3. E-mails:  \n   - Busca e filtra e-mails com base em palavras-chave, datas e remetentes.  \n  \n4. Notion:  \n   - Cria e organiza notas de forma personalizada.  \n  \n5. ClickUp:  \n   - Gerencia tarefas e prazos de maneira integrada.  \n  \n---  \n  \n### Exemplos Práticos  \n  \n#### 1. Buscar Informações e Criar uma Nota no Notion  \n- Exemplo:    \n  *“Busque os melhores restaurantes italianos em Sêo Paulo e crie uma nota no Notion com essas informações.”*  \n  \n#### 2. Buscar E-mails Específicos  \n- Exemplo:    \n  *“Encontre o último e-mail que menciona a palavra ‘fatura’.”*  \n  \n#### 3. Realizar Tarefas Simultâneas  \n- Exemplo:  \n  - Criar um evento no Google Calendar.  \n  - Buscar e-mails relacionados a orçamentos.  \n  - Salvar informações relevantes em uma nota no Notion.  \n  - Criar uma tarefa correspondente no ClickUp.  \n  \n---  \n  \n### Recursos  \n- Agente de IA no N8N: A configuraçêo detalhada está disponível na comunidade N8N.    \n- Gestêo de Tarefas no ClickUp: Um fluxo otimizado para organizar e acompanhar tarefas.",
     "has_media": false,
     "media_type": null
   },
@@ -956,7 +956,7 @@
     "id": 764,
     "author": "INEMA",
     "date": "2025-01-25T01:56:54+00:00",
-    "text": "Resumo do Agente de IA para WhatsApp com N8N \n  \nEssa automação é uma revolução para a produtividade no WhatsApp, integrando inteligência artificial e diversas ferramentas para facilitar tarefas do dia a dia. Aqui estão as principais funcionalidades:  \n  \n1. Detecção Automática do Tipo de Mensagem  \n   - Identifica se o conteúdo recebido é texto, áudio ou documento e processa automaticamente.  \n   - Exemplo: Transcreve um áudio assim que é recebido.  \n  \n2. Transcrição de Áudios para Texto  \n   - Converte mensagens de voz em texto para leitura ou análise posterior.  \n   - Exemplo: *\"Recebi um áudio longo, transcreva para eu revisar rapidamente.\"*  \n  \n3. Organização de Tarefas e Eventos  \n   - Integra com ClickUp para criar tarefas e com Google Calendar para agendar compromissos automaticamente.  \n   - Exemplo: *\"Adicione uma tarefa no ClickUp chamada 'Revisar orçamento' para amanhã.\"*  \n  \n4. Busca de Informações em Tempo Real  \n   - Faz pesquisas na internet e retorna respostas atualizadas, incluindo recomendações locais.  \n   - Exemplo: *\"Encontre um restaurante japonês próximo a mim.\"* ou *\"Quais são as últimas tendências em inteligência artificial?\"*  \n  \n5. Respostas Automáticas a E-mails  \n   - Responde e-mails com base em suas instruções e personalizações.  \n   - Exemplo: *\"Responda ao e-mail confirmando o envio do contrato.\"*  \n  \n6. Memória Integrada  \n   - Lembra contextos e interações anteriores, permitindo um atendimento mais eficiente e personalizado.  \n   - Exemplo: *\"Você sugeriu um restaurante próximo antes, agora quero algo similar, mas com entrega.\"*  \n  \n### Aplicações:  \n- Gestão Pessoal: Economize tempo organizando sua agenda e automatizando tarefas.  \n- Atendimento ao Cliente: Automatize respostas para melhorar a eficiência.  \n- Trabalho em Equipe: Sincronize tarefas e comunicações com o time de forma prática.  \n  \n---  \nDescrição Direta da Automação \n  \nEssa automação criada com N8N é uma solução completa para gerenciar suas interações no WhatsApp e conectá-las a outras ferramentas essenciais do seu dia a dia. Veja o que ela faz:  \n  \n1. Detecta automaticamente se você recebeu um texto, áudio ou documento.    \n2. Transcreve áudios para texto de forma rápida e precisa.    \n3. Cria tarefas no ClickUp e eventos no Google Calendar com base em suas instruções.    \n4. Busca informações na internet em tempo real, como as melhores recomendações locais.    \n5. Responde e-mails automaticamente, seguindo critérios específicos.    \n6. Lembra contextos anteriores para interações mais inteligentes e personalizadas.    \n  \n### Exemplos de Uso:  \n- Recebeu um áudio longo no WhatsApp? Ele será automaticamente transcrito para você.    \n- Precisa de um restaurante próximo? Basta pedir, e o agente faz a pesquisa por você.    \n- Quer criar uma tarefa ou agendar um compromisso? Diga o que precisa e o agente cuida disso.    \n- Não tem tempo para responder e-mails? Ele pode enviar respostas automáticas personalizadas.    \n  \nEssa ferramenta é ideal para quem busca automatizar processos e aumentar a eficiência em tarefas diárias. Quer saber como configurar?",
+    "text": "Resumo do Agente de IA para WhatsApp com N8N \n  \nEssa automaçêo é uma revoluçêo para a produtividade no WhatsApp, integrando inteligência artificial e diversas ferramentas para facilitar tarefas do dia a dia. Aqui estêo as principais funcionalidades:  \n  \n1. Detecçêo Automática do Tipo de Mensagem  \n   - Identifica se o conteúdo recebido é texto, áudio ou documento e processa automaticamente.  \n   - Exemplo: Transcreve um áudio assim que é recebido.  \n  \n2. Transcriçêo de Áudios para Texto  \n   - Converte mensagens de voz em texto para leitura ou análise posterior.  \n   - Exemplo: *\"Recebi um áudio longo, transcreva para eu revisar rapidamente.\"*  \n  \n3. Organizaçêo de Tarefas e Eventos  \n   - Integra com ClickUp para criar tarefas e com Google Calendar para agendar compromissos automaticamente.  \n   - Exemplo: *\"Adicione uma tarefa no ClickUp chamada 'Revisar orçamento' para amanhê.\"*  \n  \n4. Busca de Informações em Tempo Real  \n   - Faz pesquisas na internet e retorna respostas atualizadas, incluindo recomendações locais.  \n   - Exemplo: *\"Encontre um restaurante japonês próximo a mim.\"* ou *\"Quais sêo as últimas tendências em inteligência artificial?\"*  \n  \n5. Respostas Automáticas a E-mails  \n   - Responde e-mails com base em suas instruções e personalizações.  \n   - Exemplo: *\"Responda ao e-mail confirmando o envio do contrato.\"*  \n  \n6. Memória Integrada  \n   - Lembra contextos e interações anteriores, permitindo um atendimento mais eficiente e personalizado.  \n   - Exemplo: *\"Você sugeriu um restaurante próximo antes, agora quero algo similar, mas com entrega.\"*  \n  \n### Aplicações:  \n- Gestêo Pessoal: Economize tempo organizando sua agenda e automatizando tarefas.  \n- Atendimento ao Cliente: Automatize respostas para melhorar a eficiência.  \n- Trabalho em Equipe: Sincronize tarefas e comunicações com o time de forma prática.  \n  \n---  \nDescriçêo Direta da Automaçêo \n  \nEssa automaçêo criada com N8N é uma soluçêo completa para gerenciar suas interações no WhatsApp e conectá-las a outras ferramentas essenciais do seu dia a dia. Veja o que ela faz:  \n  \n1. Detecta automaticamente se você recebeu um texto, áudio ou documento.    \n2. Transcreve áudios para texto de forma rápida e precisa.    \n3. Cria tarefas no ClickUp e eventos no Google Calendar com base em suas instruções.    \n4. Busca informações na internet em tempo real, como as melhores recomendações locais.    \n5. Responde e-mails automaticamente, seguindo critérios específicos.    \n6. Lembra contextos anteriores para interações mais inteligentes e personalizadas.    \n  \n### Exemplos de Uso:  \n- Recebeu um áudio longo no WhatsApp? Ele será automaticamente transcrito para você.    \n- Precisa de um restaurante próximo? Basta pedir, e o agente faz a pesquisa por você.    \n- Quer criar uma tarefa ou agendar um compromisso? Diga o que precisa e o agente cuida disso.    \n- Nêo tem tempo para responder e-mails? Ele pode enviar respostas automáticas personalizadas.    \n  \nEssa ferramenta é ideal para quem busca automatizar processos e aumentar a eficiência em tarefas diárias. Quer saber como configurar?",
     "has_media": false,
     "media_type": null
   },

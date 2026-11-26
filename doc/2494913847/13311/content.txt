@@ -35,12 +35,12 @@ Ele tem três blocos principais, que juntos formam um ecossistema de conheciment
 1. **Atendimento (Live Chat via Lovable)**
 
    * Usuário acessa o front (Lovable) e escolhe a fonte (YouTube, Docs, Classroom).
-   * Passa por autenticação (senha e sessão salvas no Airtable).
+   * Passa por autenticaçêo (senha e sessêo salvas no Airtable).
    * O texto da pergunta é transformado em embeddings → buscado no **Pinecone** → resposta gerada com **OpenAI**.
    * A resposta final sai sempre no **tom de voz do Jack**, em markdown, com links preservados.
    * Há **guardrails** para bloquear perguntas vulgares ou fora de escopo e mensagens amigáveis para redirecionar.
 
-2. **Sincronização Automática de Conteúdo (YouTube Nightly Sync)**
+2. **Sincronizaçêo Automática de Conteúdo (YouTube Nightly Sync)**
 
    * Um cron job roda toda noite.
    * Lê o feed RSS do canal do Jack no YouTube.
@@ -48,9 +48,9 @@ Ele tem três blocos principais, que juntos formam um ecossistema de conheciment
    * Insere esse conteúdo no **Pinecone** (base vetorial), ficando disponível para perguntas no chat.
    * Mantém flags (`transcriptGotten`, `uploadedToPinecone`) para controle.
 
-3. **Gerenciamento e Exclusão (Delete Classroom)**
+3. **Gerenciamento e Exclusêo (Delete Classroom)**
 
-   * No Airtable, cada registro de aula tem um botão **Delete**.
+   * No Airtable, cada registro de aula tem um botêo **Delete**.
    * Ao clicar, dispara webhook no n8n → remove os embeddings correspondentes do Pinecone → deleta o registro no Airtable.
    * Assim, evita que informações desatualizadas ou incorretas fiquem no sistema.
 
@@ -60,14 +60,14 @@ Ele tem três blocos principais, que juntos formam um ecossistema de conheciment
 
 É um **sistema de perguntas e respostas em tempo real** que:
 
-* Usa **n8n** para orquestrar tudo (webhooks, cron, guardrails, integração com APIs).
+* Usa **n8n** para orquestrar tudo (webhooks, cron, guardrails, integraçêo com APIs).
 * Tem **Airtable** como banco de registros e sessões.
 * Tem **Pinecone** como base de conhecimento vetorial.
 * Tem **OpenAI** para gerar respostas com tom de voz personalizado.
 * Se mantém atualizado automaticamente com **novos vídeos do YouTube**.
 * Permite **excluir conteúdos antigos** com um clique no Airtable.
 
-Ou seja: **um “mini-ChatGPT especializado” na comunidade do Jack**, com memória, atualização automática, segurança básica e controle editorial.
+Ou seja: **um “mini-ChatGPT especializado” na comunidade do Jack**, com memória, atualizaçêo automática, segurança básica e controle editorial.
 
 ------------------------------
 

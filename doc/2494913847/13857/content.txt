@@ -23,7 +23,7 @@ Texto:
    Defina no prompt limites de linhas/caracteres. Exemplo:
 
    * “Resumo em no máximo 7 linhas”
-   * “Cada tópico não pode ultrapassar 80 caracteres”
+   * “Cada tópico nêo pode ultrapassar 80 caracteres”
      → Evita resumos muito longos.
 
 3. **Estilo personalizável**
@@ -66,7 +66,7 @@ Texto:
 
 9. **Resumo privado paralelo**
    Configure para o resumo ser enviado também para você no privado.
-   → Garante que você não perca nada mesmo se alguém apagar no grupo.
+   → Garante que você nêo perca nada mesmo se alguém apagar no grupo.
 
 10. **Resumo em outros canais**
     Publique automaticamente também no Telegram, Slack ou e-mail.
@@ -110,12 +110,12 @@ Texto:
 Mensagem é publicada no grupo de testes.
 
 Erros comuns e correções
-• Webhook não recebe nada: verifique URL na Evolution API, método e autenticação.
-• Filtro não pega o grupo: confirme o ID exato @g.us e espaços extras.
+• Webhook nêo recebe nada: verifique URL na Evolution API, método e autenticaçêo.
+• Filtro nêo pega o grupo: confirme o ID exato @g.us e espaços extras.
 • Mensagens fora de ordem: escolha sempre LPUSH ou RPUSH e mantenha consistente; no join, você pode inverter a lista se precisar.
-• IA volta texto longo demais: ajuste trechos “3–7 bullets” e “resumo curto” no prompt; adicione limite de caracteres por seção.
-• Nomes não aparecem: confira dicionário número→nome; trate formatações com regex.
-• Redis não limpa: confirme DEL na mesma key usada no push.
+• IA volta texto longo demais: ajuste trechos “3–7 bullets” e “resumo curto” no prompt; adicione limite de caracteres por seçêo.
+• Nomes nêo aparecem: confira dicionário número→nome; trate formatações com regex.
+• Redis nêo limpa: confirme DEL na mesma key usada no push.
 
 Extensões úteis
 • Resumo semanal: crie outra agenda no Fluxo 2 e mude o título e o prompt para “Resumo da semana”.
@@ -125,7 +125,7 @@ Extensões úteis
 
 Segurança e privacidade
 • Conteúdos sensíveis: prefira LLM local (ex.: LLaMA/phi) em servidor seu.
-• Registros: limite retenção no Redis apenas ao dia atual.
+• Registros: limite retençêo no Redis apenas ao dia atual.
 • Logs: logue somente metadados necessários e limpe periodicamente.
 
 Exemplo de saída esperada
@@ -134,11 +134,11 @@ Exemplo de saída esperada
 • Voos e hospedagem definidos
 • Sugestões de roteiro na Serra
 • Brincadeiras sobre trilhas “nível hard”
-• Dicas de economia para alimentação
+• Dicas de economia para alimentaçêo
 
 Citações e momentos
 • Ana: “Se chover, a gente dança na chuva.”
-• Carlos: “Eu só vou se tiver chimarrão.”
+• Carlos: “Eu só vou se tiver chimarrêo.”
 
 Decisões e planos
 • Comprar passagens até 6ª
@@ -149,7 +149,7 @@ Menções especiais
 • Maria: indicou 3 trilhas novas
 
 Fechamento
-Até aqui, tudo certo. Amanhã a gente resolve o transporte. Bora!```
+Até aqui, tudo certo. Amanhê a gente resolve o transporte. Bora!```
 
 Perguntas rápidas com respostas
 • Posso mudar o horário do resumo?
@@ -165,7 +165,7 @@ Defina timezone no cron do n8n ou calcule offsets por grupo.
 Depois de enviar o resumo, use DEL na key do Redis; se rodar mais vezes no dia, recomeça vazio.
 
 • Como monitorar falhas da IA?
-Adicione um caminho de fallback (OpenRouter, outro modelo) e um nó de notificação (Telegram/Email) em caso de erro.
+Adicione um caminho de fallback (OpenRouter, outro modelo) e um nó de notificaçêo (Telegram/Email) em caso de erro.
 
 ------------------------------
 
@@ -192,10 +192,10 @@ Fluxo 1 – Captura em tempo real (armazena no Redis)
    • Método POST.
    • URL do webhook copiada para a Evolution API.
 2. Evolution API: em Events, apontar para a URL do webhook.
-   • Evento de mensagens (ex.: message.upsert; ajuste conforme sua versão).
+   • Evento de mensagens (ex.: message.upsert; ajuste conforme sua versêo).
 3. Filtrar somente o grupo alvo.
    • Pegar o remoteId do evento.
-   • Condição: remoteId == "SEU\_GRUPO\_ID@g.us".
+   • Condiçêo: remoteId == "SEU\_GRUPO\_ID@g.us".
 4. Extrair e normalizar dados do evento.
    • Campos úteis: sender (número), content (texto), type, timestamp, messageId.
 5. Filtrar por tipo de mensagem.
@@ -205,7 +205,7 @@ Fluxo 1 – Captura em tempo real (armazena no Redis)
 7. Empurrar para Redis (lista).
    • Key sugerida: whatsapp\:group\:SEU\_GRUPO\_ID.
    • Value sugerido: "NOME: CONTEÚDO".
-   • Operação: LPUSH (ou RPUSH, desde que seja consistente).
+   • Operaçêo: LPUSH (ou RPUSH, desde que seja consistente).
 
 Exemplo de mapeamento número→nome (nó Code JS)
 
@@ -232,7 +232,7 @@ Fluxo 2 – Resumo diário e envio ao grupo
    • Ex.: groupId = "SEU\_GRUPO\_ID@g.us".
    • redisKey = "whatsapp\:group:" + groupId.
 3. Buscar todas as mensagens do dia no Redis.
-   • Operação: LRANGE redisKey 0 -1.
+   • Operaçêo: LRANGE redisKey 0 -1.
    • Juntar as linhas em um único bloco de texto com separador \n.
 4. Validar se há mensagens.
    • Se vazio, encerrar sem enviar.
@@ -240,7 +240,7 @@ Fluxo 2 – Resumo diário e envio ao grupo
    • Modelo: Gemini 2.5 Flash (ou seu LLM local).
    • Entrada: bloco de mensagens + instruções abaixo.
 6. Apagar o buffer diário no Redis.
-   • Operação: DEL redisKey.
+   • Operaçêo: DEL redisKey.
 7. Enviar o resumo ao grupo via Evolution API.
    • Destino: groupId.
    • Mensagem: texto da IA.
@@ -262,10 +262,10 @@ Formato de saída:
 6) Fechamento curto e bem-humorado
 
 Regras:
-• Use os nomes mapeados nos dados; se não houver, mostre o número mascarado.
+• Use os nomes mapeados nos dados; se nêo houver, mostre o número mascarado.
 • Resuma somente texto (ignore referências a áudios/imagens/stickers).
 • Evite repetir ideias; agrupe por tema.
-• Se o volume do dia for baixo, reduza a extensão; se alto, mantenha objetivo.
+• Se o volume do dia for baixo, reduza a extensêo; se alto, mantenha objetivo.
 • Nunca inclua dados sensíveis se aparecerem acidentalmente.
 
 Dados do dia (uma linha por mensagem, formato “NOME: TEXTO”):
@@ -306,7 +306,7 @@ Como funciona
 2. Resumo diário: gatilho no n8n (ex.: 15:00) busca mensagens do dia no Redis; envia tudo a um prompt detalhado no Gemini 2.5 Flash; recebe o resumo; apaga o buffer do dia; publica no próprio grupo.
 
 Ferramentas
-n8n (orquestração)
+n8n (orquestraçêo)
 Evolution API (WhatsApp)
 Redis (memória diária)
 Gemini 2.5 Flash via Google ou OpenRouter como fallback
@@ -317,7 +317,7 @@ Privacidade primeiro: usar LLM local se houver conteúdo sensível.
 Mapeie números para nomes reais para legibilidade.
 Use Redis em ciclo diário: acumular → resumir → limpar.
 Prompt claro e seções fixas garantem consistência do resumo.
-Arquitetura em dois fluxos facilita escala e manutenção.
+Arquitetura em dois fluxos facilita escala e manutençêo.
 
 Tópicos com exemplos
 
@@ -339,7 +339,7 @@ Resposta: objeto/tabela JS; se faltar, mostrar número mascarado.
 
 Prompt do resumo
 Exemplo: título; temas; citações; piadas; decisões/planos; menções; fechamento curto.
-Resposta: defina extensão por volume de mensagens e tom do grupo.
+Resposta: defina extensêo por volume de mensagens e tom do grupo.
 
 Limpeza pós-envio
 Exemplo: após publicar, deletar chave Redis do dia.
@@ -351,7 +351,7 @@ Posso resumir vários grupos?
 Sim. Uma chave Redis por grupo e um loop no fluxo diário.
 
 Dá para incluir áudios e imagens?
-Sim. Adicione STT para áudios e OCR/extração para imagens; una tudo antes do prompt.
+Sim. Adicione STT para áudios e OCR/extraçêo para imagens; una tudo antes do prompt.
 
 E se a IA principal falhar?
 Use fallback no OpenRouter; registre erro e tente reenvio.
@@ -386,9 +386,9 @@ Data: 2025-09-05T17:35:45+00:00
 Texto:
 e44. Grupos de WhatsApp Automatizados
 
-Você vai aprender a automatizar a criação de resumos diários em grupos do WhatsApp usando inteligência artificial. Esta aula resolve o problema de perder mensagens importantes em grupos muito ativos e permite ficar em dia de forma rápida e divertida. É uma solução ideal tanto para contextos pessoais (grupos de amigos) quanto profissionais (equipes, comunidades etc.).
+Você vai aprender a automatizar a criaçêo de resumos diários em grupos do WhatsApp usando inteligência artificial. Esta aula resolve o problema de perder mensagens importantes em grupos muito ativos e permite ficar em dia de forma rápida e divertida. É uma soluçêo ideal tanto para contextos pessoais (grupos de amigos) quanto profissionais (equipes, comunidades etc.).
 
-🛠️ O que conseguimos com esta automação?
+🛠️ O que conseguimos com esta automaçêo?
 • Receber um resumo diário automático do que foi mais relevante em um grupo do WhatsApp.
 • Economizar tempo, evitando ler centenas de mensagens.
 • Ter um boletim estilo telejornal com manchetes, temas, piadas internas e menções especiais.
@@ -402,29 +402,29 @@ Você vai aprender a automatizar a criação de resumos diários em grupos do Wh
 🔁 Fluxo 1 – Captura e armazenamento de mensagens (em tempo real)
 • Ativa-se um Webhook na Evolution API para capturar todas as mensagens recebidas.
 • Filtram-se apenas as mensagens de texto que vêm de um grupo específico (identificado por um ID único tipo @g.us).
-• Os dados da mensagem são limpos e estruturados: número, conteúdo, autor, tipo.
-• O número do remetente é mapeado para seu nome real usando uma função personalizada em JavaScript.
-• As mensagens relevantes do dia são acumuladas no Redis usando push para armazená-las em uma lista.
+• Os dados da mensagem sêo limpos e estruturados: número, conteúdo, autor, tipo.
+• O número do remetente é mapeado para seu nome real usando uma funçêo personalizada em JavaScript.
+• As mensagens relevantes do dia sêo acumuladas no Redis usando push para armazená-las em uma lista.
 
-⏰ Fluxo 2 – Geração e envio do resumo (uma vez por dia)
+⏰ Fluxo 2 – Geraçêo e envio do resumo (uma vez por dia)
 • Dispara-se um gatilho diário (ex.: às 15:00).
 • Recuperam-se todas as mensagens acumuladas do Redis por meio de get.
 • Verifica-se se há mensagens.
 • Todo o conteúdo é enviado como um único bloco para o Gemini 2.5 Flash com um prompt ultraespecífico.
 • O prompt estrutura o resumo com manchetes, temas, citações, piadas, menções etc.
-• As mensagens do dia são excluídas do Redis para começar do zero.
+• As mensagens do dia sêo excluídas do Redis para começar do zero.
 • O resumo gerado é enviado automaticamente de volta ao grupo do WhatsApp.
 
 🧰 Ferramentas utilizadas
-• N8N (automação principal)
+• N8N (automaçêo principal)
 • Evolution API (para WhatsApp)
 • Redis (para acumular mensagens temporariamente)
 • Gemini 2.5 Flash (IA que gera o resumo)
 • OpenRouter (IA de fallback)
 
 🧠 Dicas-chave que aprendemos
-• Privacidade acima de tudo: se houver conteúdo sensível, rode a IA localmente (LLaMA é uma opção).
-• Mapear números para nomes melhora a compreensão do resumo e evita confusões.
+• Privacidade acima de tudo: se houver conteúdo sensível, rode a IA localmente (LLaMA é uma opçêo).
+• Mapear números para nomes melhora a compreensêo do resumo e evita confusões.
 • Usar Redis permite salvar e apagar mensagens de forma cíclica, mantendo tudo limpo.
 • O prompt da IA deve ser ultra detalhado para o resultado ser utilizável, divertido e útil.
 • O sistema é adaptável: pode ser usado em Telegram, Slack, Discord etc., trocando apenas a fonte das mensagens.
@@ -462,7 +462,7 @@ Data: 2025-09-05T17:33:27+00:00
 Texto:
 ### Resumo Automático de Grupos do WhatsApp com IA
 
-🚨 **Se o seu grupo vive explodindo de mensagens** — seja de amigos, equipe, comunidade ou clientes — e você não consegue acompanhar tudo… **esta aula é para você!**
+🚨 **Se o seu grupo vive explodindo de mensagens** — seja de amigos, equipe, comunidade ou clientes — e você nêo consegue acompanhar tudo… **esta aula é para você!**
 
 📱 Imagine ter um sistema que **escuta tudo o que é dito** em um grupo e, todos os dias às 15h…
 💥 **BOOM: um resumo automático** com:
@@ -480,8 +480,8 @@ Texto:
 * Tudo **GRÁTIS** e sem escrever uma única linha de código
 
 💡 O melhor:
-✔️ Resume só o que importa (texto, não áudios ou figurinhas)
-✔️ Mostra o **nome real** de quem falou (não números estranhos)
+✔️ Resume só o que importa (texto, nêo áudios ou figurinhas)
+✔️ Mostra o **nome real** de quem falou (nêo números estranhos)
 ✔️ Envia automaticamente ao grupo todos os dias, como se fosse um **apresentador de notícias**
 
 🔥 Serve para qualquer grupo:
@@ -495,7 +495,7 @@ Texto:
 🔒 Grupo muito privado?
 Sem problema: dá para rodar com IA local, sem que nenhum dado saia do seu servidor (explicado em aulas posteriores).
 
-💬 Resultado: você não perde mais as melhores mensagens do dia.
+💬 Resultado: você nêo perde mais as melhores mensagens do dia.
 Vai estar sempre atualizado **sem precisar ler tudo**.
 
 📺 Aula completa disponível aqui:

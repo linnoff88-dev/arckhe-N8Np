@@ -41,7 +41,7 @@ Texto:
    * Por site específico (ex: `reddit.com`)
    * Por palavras no título, URL ou conteúdo
    * Por data (ex: “só de maio de 2025”)
-   * Por idioma, país ou localização
+   * Por idioma, país ou localizaçêo
 
 3. **Extrair o conteúdo completo da página**
 
@@ -65,7 +65,7 @@ Texto:
 
 6. **Falar com o agente usando linguagem natural**
 
-   * Exemplo: “Me encontre 5 artigos com ‘IA e automação’ no título no Reddit”
+   * Exemplo: “Me encontre 5 artigos com ‘IA e automaçêo’ no título no Reddit”
    * Ele entende e executa sozinho
 
 ---
@@ -113,20 +113,20 @@ Esse agente de IA descrito é um sistema **sem código (no-code)** criado usando
 * Agente de busca de tendências em tempo real
 * Coletor de dados para análise de concorrentes
 * Captura automatizada de provas/documentos online
-* Criação de datasets para IA com conteúdo real e atualizado
+* Criaçêo de datasets para IA com conteúdo real e atualizado
 
 ---
 
 ### **Vantagens**
 
-* **Sem necessidade de programação**
+* **Sem necessidade de programaçêo**
 * Pode ser **agendado no n8n**
 * Ideal para fluxos **autônomos de IA** e **sistemas RAG**
-* Exportação direta para banco vetorial, Notion, Google Drive, etc.
+* Exportaçêo direta para banco vetorial, Notion, Google Drive, etc.
 
 ---
 
-### **Passos resumidos do projeto padrão no n8n**
+### **Passos resumidos do projeto padrêo no n8n**
 
 1. **Disparo (Trigger)** manual, webhook ou agendamento
 2. **Node HTTP Request** com Firecrawl `/search`
@@ -139,8 +139,8 @@ Esse agente de IA descrito é um sistema **sem código (no-code)** criado usando
 3. **Node HTTP Request** com Firecrawl `/extract` ou `/screenshot`
 
    * Extrai conteúdo ou imagem da página encontrada
-4. **Formatação dos dados** (Markdown, JSON, etc.)
-5. **Exportação/armazenamento**
+4. **Formataçêo dos dados** (Markdown, JSON, etc.)
+5. **Exportaçêo/armazenamento**
 
    * Pode ser enviado para email, Discord, Google Drive, Notion ou base vetorial
 

@@ -20,16 +20,16 @@ Perguntas rápidas respondidas
 
 * Q: Quanto diminuir o threshold do Gemini?
 
-  * A: Comece em 0.8; se tiver muitos falsos negativos, reduza para 0.7 e compense com heurísticas/validação.
+  * A: Comece em 0.8; se tiver muitos falsos negativos, reduza para 0.7 e compense com heurísticas/validaçêo.
 * Q: Melhor para volume alto: n8n ou Make?
 
-  * A: n8n é mais adequado para self-host (maior controle) e para integração com filas/worker. Make é mais rápido de prototipar mas pode custar mais em escala.
+  * A: n8n é mais adequado para self-host (maior controle) e para integraçêo com filas/worker. Make é mais rápido de prototipar mas pode custar mais em escala.
 * Q: Token/custo com Gemini?
 
   * A: Minimize contexto enviando texto OCR filtrado e prompts enxutos; batch requests quando possível.
 * Q: Como provar confiabilidade ao cliente?
 
-  * A: apresentar relatório piloto com métricas (precisão por campo, tempo médio, economia estimada).
+  * A: apresentar relatório piloto com métricas (precisêo por campo, tempo médio, economia estimada).
 
 ------------------------------
 
@@ -37,30 +37,30 @@ MENSAGEM 2
 Autor: INEMA
 Data: 2025-10-07T03:53:43+00:00
 Texto:
-m fila de revisão, histórico, download e export CSV.
-    * Contrato de SLA: uptime, tempo de resposta e precisão mínima.
+m fila de revisêo, histórico, download e export CSV.
+    * Contrato de SLA: uptime, tempo de resposta e precisêo mínima.
 
-16. Redução de falsos positivos
+16. Reduçêo de falsos positivos
 
     * Marcar e-mails com palavras-chave comuns (newsletter, promo) para triagem.
     * Usar header analysis (From/Subject) para priorizar.
 
-17. Extração avançada: template matching + embeddings
+17. Extraçêo avançada: template matching + embeddings
 
-    * Para clientes com faturas padronizadas, criar templates e usar matching por layout + embeddings para mapear campos com maior precisão.
+    * Para clientes com faturas padronizadas, criar templates e usar matching por layout + embeddings para mapear campos com maior precisêo.
 
-18. Localização e multilíngue
+18. Localizaçêo e multilíngue
 
     * Ajustar prompt e regex para idiomas (ES/PT/EN).
     * Detectar idioma e usar modelo/regex adequado.
 
 19. Backup e rollback automático
 
-    * Ao mover/renomear, faça cópia temporária até confirmação de dados salvos no DB; rollback se falha.
+    * Ao mover/renomear, faça cópia temporária até confirmaçêo de dados salvos no DB; rollback se falha.
 
 20. Monitor de custo
 
-    * Medir chamadas à API Gemini por documento; usar sumarização/compactação de prompts para reduzir tokens.
+    * Medir chamadas à API Gemini por documento; usar sumarizaçêo/compactaçêo de prompts para reduzir tokens.
 
 Tópicos listados com exemplos e respostas às perguntas frequentes
 
@@ -69,7 +69,7 @@ Tópicos listados com exemplos e respostas às perguntas frequentes
    * Exemplo: imagem 200dpi → deskew → despeckle → OCR → PDF/A.
    * Pergunta: E se o PDF for só imagem?
 
-     * Resposta: Force OCR; se texto extrído for curto ou vazio, encaminhar para fila humana. Use aumento de dpi e binarização.
+     * Resposta: Force OCR; se texto extrído for curto ou vazio, encaminhar para fila humana. Use aumento de dpi e binarizaçêo.
 
 2. Como evitar duplicados?
 
@@ -80,19 +80,19 @@ Tópicos listados com exemplos e respostas às perguntas frequentes
 
 3. Quando usar heurísticas vs IA?
 
-   * Exemplo: usar heurística para confirmação quando Gemini score entre 0.5 e 0.8.
+   * Exemplo: usar heurística para confirmaçêo quando Gemini score entre 0.5 e 0.8.
    * Pergunta: Posso confiar apenas na IA?
 
-     * Resposta: Não em produção; combine com heurísticas e validações.
+     * Resposta: Nêo em produçêo; combine com heurísticas e validações.
 
-4. Prompt ideal para extração com Gemini
+4. Prompt ideal para extraçêo com Gemini
 
    * Exemplo de prompt:
 
-     * "Extrai do documento: emisor, nif, data_emissao (YYYY-MM-DD), subtotal, impuestos, valor_total, moeda, numero_factura. Retorna JSON com esses campos; se não encontrado, retorna null."
+     * "Extrai do documento: emisor, nif, data_emissao (YYYY-MM-DD), subtotal, impuestos, valor_total, moeda, numero_factura. Retorna JSON com esses campos; se nêo encontrado, retorna null."
    * Pergunta: Preciso enviar o PDF inteiro no prompt?
 
-     * Resposta: Envie o texto extraído via OCR (não o PDF binário). Para imagens grandes, resumo das regiões relevantes aumenta eficiência.
+     * Resposta: Envie o texto extraído via OCR (nêo o PDF binário). Para imagens grandes, resumo das regiões relevantes aumenta eficiência.
 
 5. Como tratar erros em massa (alto volume)?
 
@@ -101,7 +101,7 @@ Tópicos listados com exemplos e respostas às perguntas frequentes
 
      * Resposta: implementar backoff, reduzir concorrência e pausar workers temporariamente.
 
-6. Melhores práticas de nomeação e pastas
+6. Melhores práticas de nomeaçêo e pastas
 
    * Exemplo: 2025/09/2025-09-10_ACME_1250.00_INV123.pdf
    * Pergunta: O que incluir no filename?
@@ -117,12 +117,12 @@ Tópicos listados com exemplos e respostas às perguntas frequentes
 
 8. Segurança e conformidade fiscal (VeriFactu)
 
-   * Exemplo: manter logs imutáveis e backups por 7-10 anos conforme legislação.
+   * Exemplo: manter logs imutáveis e backups por 7-10 anos conforme legislaçêo.
    * Pergunta: Como garantir conformidade no Brasil/Espanha?
 
-     * Resposta: adaptar retenção, assinatura digital/registro e certificados conforme a norma local; consultar contador/advogado fiscal.
+     * Resposta: adaptar retençêo, assinatura digital/registro e certificados conforme a norma local; consultar contador/advogado fiscal.
 
-9. Como vender essa solução (argumento comercial)
+9. Como vender essa soluçêo (argumento comercial)
 
    * Exemplo: case: cliente X economizou 13.000€/ano e 600 horas/ano.
    * Pergunta: Qual é o ROI típico?
@@ -134,13 +134,13 @@ Tópicos listados com exemplos e respostas às perguntas frequentes
     * Exemplo: começar com 1 conta piloto, validar 2 semanas, ajustar prompts e thresholds.
     * Pergunta: Como medir qualidade inicial?
 
-      * Resposta: comparar 200 faturas processadas contra revisão humana e medir precisão de campos críticos.
+      * Resposta: comparar 200 faturas processadas contra revisêo humana e medir precisêo de campos críticos.
 
-Prompt de exemplo pronto para copiar (extração JSON)
+Prompt de exemplo pronto para copiar (extraçêo JSON)
 
 * Prompt:
 
-  * Extrai do texto abaixo os campos: emisor, nif, data_emissao (YYYY-MM-DD), numero_factura, subtotal, impuestos, valor_total (float), moeda. Retorna apenas JSON com esses campos. Se não existir um cam
+  * Extrai do texto abaixo os campos: emisor, nif, data_emissao (YYYY-MM-DD), numero_factura, subtotal, impuestos, valor_total (float), moeda. Retorna apenas JSON com esses campos. Se nêo existir um cam
 
 ------------------------------
 
@@ -148,24 +148,24 @@ MENSAGEM 3
 Autor: INEMA
 Data: 2025-10-07T03:53:43+00:00
 Texto:
-Resumo completo (visão rápida)
+Resumo completo (visêo rápida)
 
 * Pré-processamento: converta tudo para PDF+OCR/PNG normalizado antes de enviar para o modelo.
-* Detecção e confiabilidade: combine classificação por IA (Gemini) com heurísticas (regex de IVA/valor/data) e threshold de confiança.
+* Detecçêo e confiabilidade: combine classificaçêo por IA (Gemini) com heurísticas (regex de IVA/valor/data) e threshold de confiança.
 * Idempotência: gere hash/checksum do anexo para evitar processamentos duplicados.
 * Resiliência: use filas, batching, waits, retries exponenciais e circuit breakers.
-* Organização: nomes padronizados e pastas dinâmicas (ANO/MÊS/EMISSOR).
-* Qualidade dos dados: validações (datas, CNPJ/IVA, formato numérico), fallback para revisão humana em baixa confiança.
+* Organizaçêo: nomes padronizados e pastas dinâmicas (ANO/MÊS/EMISSOR).
+* Qualidade dos dados: validações (datas, CNPJ/IVA, formato numérico), fallback para revisêo humana em baixa confiança.
 * Monitoramento e auditoria: logs estruturados, dashboard de falhas e métricas.
-* Segurança e conformidade: criptografia em trânsito/repouso, controle de acesso, retenção e políticas GDPR/Lei de proteção.
-* UX comercial: painel de aprovação, histórico de mudanças e exportações.
+* Segurança e conformidade: criptografia em trânsito/repouso, controle de acesso, retençêo e políticas GDPR/Lei de proteçêo.
+* UX comercial: painel de aprovaçêo, histórico de mudanças e exportações.
 
-Hacks práticos (ação imediata)
+Hacks práticos (açêo imediata)
 
-1. Normalização antes da IA
+1. Normalizaçêo antes da IA
 
    * Converter tudo para PDF/A e rodar OCR (Tesseract ou Google Vision).
-   * Se o PDF for imagem: gerar PNG de alta resolução e aplicar binarização (threshold) antes do OCR.
+   * Se o PDF for imagem: gerar PNG de alta resoluçêo e aplicar binarizaçêo (threshold) antes do OCR.
    * Exemplo: pipeline -> download anexo → imagem 300dpi → deskew → OCR → salvar PDF/A.
 
 2. Dedupe por hash + fingerprint
@@ -174,18 +174,18 @@ Hacks práticos (ação imediata)
    * Armazene hash com timestamp e fonte (email-id).
    * Exemplo: se sha256 existe → marcar como duplicado e arquivar.
 
-3. Classificação híbrida (IA + heurística)
+3. Classificaçêo híbrida (IA + heurística)
 
    * Primeiro, classifier Gemini retorna probabilidade. Se prob < 0.8, aplicar heurísticas (regex para “Factura”, “Invoice”, valores, NIF/CIF/CNPJ).
    * Exemplo de regra: se regex_data AND regex_valor AND (gemini_score > 0.6 ou heurística positiva) → classificar como fatura.
 
-4. Prompt schema para extração (Gemini)
+4. Prompt schema para extraçêo (Gemini)
 
-   * Forneça instrução clara + JSON schema.
+   * Forneça instruçêo clara + JSON schema.
    * Exemplo de prompt curto: “Extrai: emisor, nif, data_emissao (YYYY-MM-DD), valor_total (num), moneda, numero_factura. Retorna JSON puro.”
    * Incluir exemplos de resposta para aumentar consistência.
 
-5. Validação com regex e bibliotecas
+5. Validaçêo com regex e bibliotecas
 
    * Datas: /^\d{2}/\d{2}/\d{4}$/ ou parse com moment.js.
    * Valores: localizar moeda e número com separador decimal.
@@ -193,18 +193,18 @@ Hacks práticos (ação imediata)
 
 6. Fallback humano automático
 
-   * Se confiança < 0.7 ou campos nulos críticos → mover para fila de revisão (Dashboard) com imagem + contexto + botão “confirmar/editar”.
+   * Se confiança < 0.7 ou campos nulos críticos → mover para fila de revisêo (Dashboard) com imagem + contexto + botêo “confirmar/editar”.
    * Exemplo: criar Google Sheet ou Supabase “fila_human_review”.
 
-7. Nomeação padronizada de arquivos
+7. Nomeaçêo padronizada de arquivos
 
    * Formato: ANO-MES_DD-EMISSOR_VALOR_ID.pdf
    * Exemplo: 2025-09_2025-09-10_ACME_1250.00_INV123.pdf
 
-8. Pastas dinâmicas e idempotência de criação
+8. Pastas dinâmicas e idempotência de criaçêo
 
-   * Verificar existência antes de criar; use locks leves (mutex) ou verificação por ID de pasta.
-   * Exemplo: procurar pasta “2025” > se não existe createFolder() e gravar ID.
+   * Verificar existência antes de criar; use locks leves (mutex) ou verificaçêo por ID de pasta.
+   * Exemplo: procurar pasta “2025” > se nêo existe createFolder() e gravar ID.
 
 9. Rate limits e backoff para APIs (Gemini/GDrive)
 
@@ -213,18 +213,18 @@ Hacks práticos (ação imediata)
 
 10. Processamento em lote para alto volume
 
-    * Agrupe N arquivos (ex: 10) e rode extração paralela controlada.
+    * Agrupe N arquivos (ex: 10) e rode extraçêo paralela controlada.
     * Use worker queues (RabbitMQ, Redis Queue, n8n/Make triggers com batch).
 
 11. Logs estruturados e auditoria
 
     * Log JSON: { invoice_id, email_id, hash, status, gemini_score, errors }
-    * Retenção para auditoria fiscal (configurável por país).
+    * Retençêo para auditoria fiscal (configurável por país).
 
 12. Test suite e dados sintéticos
 
     * Monte 50 testes com PDFs reais, PDFs escaneados, imagens desfocadas, diferentes formatos de moeda e idiomas.
-    * Automatize testes de regressão antes de deploy.
+    * Automatize testes de regressêo antes de deploy.
 
 13. Métricas e alertas
 
@@ -235,7 +235,7 @@ Hacks práticos (ação imediata)
 
     * Criptografia at-rest no Drive/DB (use keys KMS).
     * Permissões mínimas (service accounts com escopos restritos).
-    * Políticas de retenção e anonimização quando requerido.
+    * Políticas de retençêo e anonimizaçêo quando requerido.
 
 15. UX e produto vendável
 
@@ -255,9 +255,9 @@ MENSAGEM 5
 Autor: INEMA
 Data: 2025-10-07T03:52:39+00:00
 Texto:
-**Resumo da aula: Automação definitiva de faturas (Make/N8N + Gemini + Google Drive + Supabase)**
+**Resumo da aula: Automaçêo definitiva de faturas (Make/N8N + Gemini + Google Drive + Supabase)**
 
-O criador apresenta uma automação poderosa e muito requisitada por empresas, capaz de **detectar faturas enviadas por e-mail**, classificá-las automaticamente e **armazená-las de forma organizada no Google Drive**, além de **extrair e registrar seus dados principais em uma planilha (Google Sheets ou Supabase)**.
+O criador apresenta uma automaçêo poderosa e muito requisitada por empresas, capaz de **detectar faturas enviadas por e-mail**, classificá-las automaticamente e **armazená-las de forma organizada no Google Drive**, além de **extrair e registrar seus dados principais em uma planilha (Google Sheets ou Supabase)**.
 
 ---
 
@@ -265,16 +265,16 @@ O criador apresenta uma automação poderosa e muito requisitada por empresas, c
 
 Criar duas automações integradas:
 
-* **Automação 1 (Gmail → Drive):** Detecta e-mails com faturas (PDF ou imagem), confirma se o anexo é uma fatura real via IA (Gemini), classifica, renomeia, salva no Google Drive em pastas organizadas por ano e mês e marca o e-mail como processado.
-* **Automação 2 (Drive → Sheets/Supabase):** Quando uma nova fatura entra na pasta, a automação extrai seus dados (data, valor, emissor) via API Gemini, formata em JSON, organiza em pastas dinâmicas (ex: 2025 > Setembro) e registra as informações na base de dados.
+* **Automaçêo 1 (Gmail → Drive):** Detecta e-mails com faturas (PDF ou imagem), confirma se o anexo é uma fatura real via IA (Gemini), classifica, renomeia, salva no Google Drive em pastas organizadas por ano e mês e marca o e-mail como processado.
+* **Automaçêo 2 (Drive → Sheets/Supabase):** Quando uma nova fatura entra na pasta, a automaçêo extrai seus dados (data, valor, emissor) via API Gemini, formata em JSON, organiza em pastas dinâmicas (ex: 2025 > Setembro) e registra as informações na base de dados.
 
 ---
 
 ### 2. Benefícios para as empresas
 
-* **Redução de custos e tempo administrativo:** elimina tarefas manuais e repetitivas.
-* **Diminuição de erros humanos:** a IA classifica e extrai dados com precisão.
-* **Organização automática:** tudo é salvo em pastas com estrutura consistente.
+* **Reduçêo de custos e tempo administrativo:** elimina tarefas manuais e repetitivas.
+* **Diminuiçêo de erros humanos:** a IA classifica e extrai dados com precisêo.
+* **Organizaçêo automática:** tudo é salvo em pastas com estrutura consistente.
 * **Preparo para o sistema VeriFactu (Espanha 2025):** compatível com a futura obrigatoriedade da fatura eletrônica.
 * **Tranquilidade ao gestor:** garante que tudo esteja controlado, evitando retrabalhos e conferências manuais.
 
@@ -284,9 +284,9 @@ Criar duas automações integradas:
 
 * Disparo (trigger) no **Gmail** ao receber e-mails com anexos.
 * Filtros que aceitam apenas **PDF, JPG ou PNG**.
-* Conversão dos arquivos em **base64** para processamento.
-* Classificação com **IA Gemini** (ou Anthropic, opcional).
-* Criação automática de pastas (ano/mês) no **Google Drive**.
+* Conversêo dos arquivos em **base64** para processamento.
+* Classificaçêo com **IA Gemini** (ou Anthropic, opcional).
+* Criaçêo automática de pastas (ano/mês) no **Google Drive**.
 * Registro dos dados extraídos em **Supabase ou Google Sheets**.
 * Uso de **nós “wait” e “loop”** para evitar falhas em empresas com alto volume de documentos.
 
@@ -296,13 +296,13 @@ Criar duas automações integradas:
 
 * Alguns PDFs escaneados podem ser na verdade **imagens (PNG)**, e isso precisa ser tratado para garantir leitura correta.
 * O sistema é **testado e funcional**, comprovado em empresas reais.
-* A automação pode ser **vendida como solução pronta** para qualquer empresa que trabalhe com contabilidade ou assessoria fiscal.
+* A automaçêo pode ser **vendida como soluçêo pronta** para qualquer empresa que trabalhe com contabilidade ou assessoria fiscal.
 
 ---
 
-### 5. Conclusão
+### 5. Conclusêo
 
-Trata-se de uma **automação de alto valor comercial e prático**, que economiza tempo, reduz erros, organiza documentos e prepara as empresas para o futuro da **faturação digital obrigatória**.
+Trata-se de uma **automaçêo de alto valor comercial e prático**, que economiza tempo, reduz erros, organiza documentos e prepara as empresas para o futuro da **faturaçêo digital obrigatória**.
 O instrutor encerra mostrando o fluxo completo funcionando e reforçando que essa é uma das automações mais pedidas por empresas atualmente.
 
 ------------------------------
@@ -319,13 +319,13 @@ MENSAGEM 7
 Autor: INEMA
 Data: 2025-10-07T03:51:33+00:00
 Texto:
-e48. A gestão de faturas DEFINITIVA
+e48. A gestêo de faturas DEFINITIVA
 
-Nesta aula, você aprende a criar um sistema automatizado que detecta faturas enviadas por e-mail (PDF ou imagem), as classifica, salva e organiza automaticamente no Google Drive, e extrai suas informações principais em uma planilha de controle (como Google Sheets ou Supabase). Essa solução reduz erros humanos, economiza tempo administrativo e prepara as empresas para a obrigatoriedade da fatura eletrônica (VeriFactu) na Espanha.
+Nesta aula, você aprende a criar um sistema automatizado que detecta faturas enviadas por e-mail (PDF ou imagem), as classifica, salva e organiza automaticamente no Google Drive, e extrai suas informações principais em uma planilha de controle (como Google Sheets ou Supabase). Essa soluçêo reduz erros humanos, economiza tempo administrativo e prepara as empresas para a obrigatoriedade da fatura eletrônica (VeriFactu) na Espanha.
 
-🛠️ O que conseguimos com essa automação
+🛠️ O que conseguimos com essa automaçêo
 • Detectar faturas em PDF ou imagem recebidas por e-mail.
-• Classificá-las automaticamente (se é fatura ou não).
+• Classificá-las automaticamente (se é fatura ou nêo).
 • Salvá-las no Google Drive, organizadas por ano e mês.
 • Extrair os dados principais da fatura com IA.
 • Registrar essas informações em um banco de dados.
@@ -334,24 +334,24 @@ Nesta aula, você aprende a criar um sistema automatizado que detecta faturas en
 
 🧩 Estrutura do fluxo automatizado
 
-Automação 1: Recepção por e-mail e classificação
+Automaçêo 1: Recepçêo por e-mail e classificaçêo
 • Disparo (trigger) no Gmail quando chega um novo e-mail.
 • Filtro para verificar se há documento anexado (binário).
-• Filtragem por extensão: aceita apenas PDF, JPG, PNG.
-• Conversão do arquivo em base64.
-• Classificação com IA (Gemini): é uma fatura?
+• Filtragem por extensêo: aceita apenas PDF, JPG, PNG.
+• Conversêo do arquivo em base64.
+• Classificaçêo com IA (Gemini): é uma fatura?
 • Se for uma fatura, o e-mail é etiquetado e o arquivo enviado ao Google Drive.
 • O arquivo é renomeado e salvo em pastas estruturadas por ano e mês.
 • O e-mail é marcado como lido para evitar duplicados.
 
-Automação 2: Segmentação + extração de dados no Drive
+Automaçêo 2: Segmentaçêo + extraçêo de dados no Drive
 • Disparo quando um novo arquivo entra na pasta “Faturas”.
-• Conversão do arquivo em base64.
+• Conversêo do arquivo em base64.
 • Chamada à API do Gemini para extrair os dados da fatura.
-• Transformação do texto em JSON legível e estruturado.
-• Formatação de data, emissor e nome do arquivo.
-• Verificação ou criação de pastas dinâmicas no Drive (exemplo: 2025 > setembro).
-• Movimentação do arquivo para a pasta final e renomeação automática.
+• Transformaçêo do texto em JSON legível e estruturado.
+• Formataçêo de data, emissor e nome do arquivo.
+• Verificaçêo ou criaçêo de pastas dinâmicas no Drive (exemplo: 2025 > setembro).
+• Movimentaçêo do arquivo para a pasta final e renomeaçêo automática.
 • Registro dos dados extraídos no Supabase ou no Google Sheets.
 • Uso de nós “wait” e validações para evitar erros em empresas com alto volume de documentos.
 
@@ -360,7 +360,7 @@ Automação 2: Segmentação + extração de dados no Drive
 • Gmail
 • Google Drive
 • Google Sheets ou Supabase
-• Gemini (API para classificação e extração de dados)
+• Gemini (API para classificaçêo e extraçêo de dados)
 
 🧠 Dicas essenciais que aprendemos
 • Sempre filtre o tipo de arquivo antes de processar (evite Excel, TXT, etc).
@@ -396,24 +396,24 @@ MENSAGEM 10
 Autor: INEMA
 Data: 2025-10-07T03:50:32+00:00
 Texto:
-Nova joia: Automação definitiva de faturas😱
+Nova joia: Automaçêo definitiva de faturas😱
 
 🧠 um no Make, que muitos clonaram…
 ⚙️ outro no N8N, funcional, mas mais básico…
 💥 Mas este é outro nível.
 
-Aqui está uma automação real, aprimorada e pronta para vender AGORA MESMO a qualquer cliente que trabalhe com faturas… ou seja, para TODO mundo.
-E não exagero ao dizer que esta é uma das automações mais úteis e vendáveis que você pode ter no seu portfólio.
+Aqui está uma automaçêo real, aprimorada e pronta para vender AGORA MESMO a qualquer cliente que trabalhe com faturas… ou seja, para TODO mundo.
+E nêo exagero ao dizer que esta é uma das automações mais úteis e vendáveis que você pode ter no seu portfólio.
 
 🔥 O que exatamente ela faz?
 ✅ Detecta automaticamente se um e-mail contém uma fatura (PDF ou até imagem escaneada)
-✅ Usa o Gemini para identificar se é ou não uma fatura real
+✅ Usa o Gemini para identificar se é ou nêo uma fatura real
 ✅ Salva os arquivos no Google Drive organizados por ano e mês (2025 > setembro)
 ✅ Extrai todas as informações principais com IA (data, emissor, valor, etc.)
 ✅ Registra os dados no Google Sheets ou Supabase
 ✅ E marca o e-mail para que nunca seja processado duas vezes
 
-🚀 O que traz de novo em relação às versões anteriores?
+🚀 O que traz de novo em relaçêo às versões anteriores?
 Inclui múltiplas validações e condições inteligentes
 Detecta PDFs, PNGs, JPGs… até escaneamentos complexos
 Gerencia erros com elegância (loops + esperas + verificações)
@@ -467,7 +467,7 @@ MENSAGEM 15
 Autor: INEMA
 Data: 2025-10-07T03:44:33+00:00
 Texto:
-e48. A gestão de faturas DEFINITIVA
+e48. A gestêo de faturas DEFINITIVA
 
 ------------------------------
 

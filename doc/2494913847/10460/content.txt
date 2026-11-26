@@ -21,7 +21,7 @@ MENSAGEM 2
 Autor: Carlos
 Data: 2025-06-25T13:34:05+00:00
 Texto:
-Nei, poderia explicar mais sobre o que essa automação faz, por favor? nm55
+Nei, poderia explicar mais sobre o que essa automaçêo faz, por favor? nm55
 
 ------------------------------
 

@@ -24,7 +24,7 @@
         "color": 7,
         "width": 720,
         "height": 380,
-        "content": "## Template: Orquestrador Webhook Escalável\n\n- Objetivo: Roteia ações (ping/process) e responde rápido.\n- Teste rápido (Terminal):\n```bash\ncurl -X POST http://<SEU_N8N>/webhook/template/scalable-orchestrator \\\n  -H 'Content-Type: application/json' \\\n  -d '{\\\"action\\\":\\\"process\\\",\\\"payload\\\":{\\\"id\\\":1,\\\"text\\\":\\\"olá\\\"}}'\n```\n- Produção: Troque 'HTTP Service A' para sua API/serviço com credenciais.\n- Resiliência: HTTP possui retry automático (2x).\n"
+        "content": "## Template: Orquestrador Webhook Escalável\n\n- Objetivo: Roteia ações (ping/process) e responde rápido.\n- Teste rápido (Terminal):\n```bash\ncurl -X POST http://<SEU_N8N>/webhook/template/scalable-orchestrator \\\n  -H 'Content-Type: application/json' \\\n  -d '{\\\"action\\\":\\\"process\\\",\\\"payload\\\":{\\\"id\\\":1,\\\"text\\\":\\\"olá\\\"}}'\n```\n- Produçêo: Troque 'HTTP Service A' para sua API/serviço com credenciais.\n- Resiliência: HTTP possui retry automático (2x).\n"
       },
       "typeVersion": 1
     },

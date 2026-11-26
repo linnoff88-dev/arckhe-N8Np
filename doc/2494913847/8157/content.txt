@@ -30,17 +30,17 @@ Aprendemos a conectar Claude com qualquer ator do Apify através de um único se
 
 * Claude se conecta a um único servidor MCP.
 * Este servidor se comunica com múltiplos atores do Apify (Instagram, TikTok, YouTube, Web Scraper, etc.).
-* A integração permite consultar e fazer scraping de conteúdo diretamente a partir do Claude.
+* A integraçêo permite consultar e fazer scraping de conteúdo diretamente a partir do Claude.
 
 💡 **Casos de uso explicados**
 
 1. **Análise da concorrência**
 
    * Inserimos o nome de um criador de conteúdo.
-   * São rastreadas redes sociais, site oficial e últimas publicações.
+   * Sêo rastreadas redes sociais, site oficial e últimas publicações.
    * Extraímos:
 
-     * Seguidores, frequência de publicação, hashtags, estilo de comunicação.
+     * Seguidores, frequência de publicaçêo, hashtags, estilo de comunicaçêo.
      * 10 postagens recentes por rede social.
      * Relatório detalhado com insights e métricas.
    * 🧪 *Exemplo*: Mago More – Gera um relatório completo com suas métricas no Instagram, TikTok, Twitter e YouTube.
@@ -48,7 +48,7 @@ Aprendemos a conectar Claude com qualquer ator do Apify através de um único se
 2. **Análise de comentários do YouTube**
 
    * Inserimos a URL de um canal ou vídeo.
-   * São extraídos os comentários dos últimos 5 vídeos.
+   * Sêo extraídos os comentários dos últimos 5 vídeos.
    * Gera:
 
      * Análise de temas, interesses do público, perguntas frequentes.
@@ -62,30 +62,30 @@ Aprendemos a conectar Claude com qualquer ator do Apify através de um único se
    * O sistema busca:
 
      * Biografia, entrevistas, artigos, redes sociais e site oficial.
-     * 5 podcasts onde participou + transcrição automática.
+     * 5 podcasts onde participou + transcriçêo automática.
    * Gera:
 
-     * Ficha do convidado: nome, idade, cidade, resumo biográfico, estilo de comunicação.
+     * Ficha do convidado: nome, idade, cidade, resumo biográfico, estilo de comunicaçêo.
      * 10 temas para a entrevista.
      * 20 perguntas virais únicas.
      * 3 perguntas polêmicas justificadas.
-     * Análise de polarização, temas pouco abordados, simulação de viralidade, ajuste por audiência e personagem antagonista.
+     * Análise de polarizaçêo, temas pouco abordados, simulaçêo de viralidade, ajuste por audiência e personagem antagonista.
    * 🧪 *Exemplo*: Mago More – O sistema identifica perguntas impactantes, temas pouco explorados e possíveis pontos de controvérsia.
 
-🛠️ **Configuração técnica**
+🛠️ **Configuraçêo técnica**
 
 * Utiliza-se o ator `actors-mcp-server` do Apify.
 * Configura-se um arquivo `.json` com:
 
   * Token da API do Apify.
   * Lista separada por vírgulas dos atores que queremos conectar (ex: `instagram-scraper`, `youtube-transcript`, etc.).
-* Edita-se o `desktop.json` no Claude para definir essa configuração.
+* Edita-se o `desktop.json` no Claude para definir essa configuraçêo.
 * Reinicia-se o Claude para aplicar as alterações e começar a trabalhar com todos os atores conectados.
 
 ✅ **Vantagens principais**
 
-* Não consome tokens da OpenAI ou de outros LLMs por chamada, pois o Claude gerencia tudo.
-* Compatível com a versão gratuita e paga do Claude.
+* Nêo consome tokens da OpenAI ou de outros LLMs por chamada, pois o Claude gerencia tudo.
+* Compatível com a versêo gratuita e paga do Claude.
 * Pode ser usado tanto em projetos quanto no chat livre do Claude.
 * Ideal para criadores de conteúdo, podcasters, analistas e agências.
 

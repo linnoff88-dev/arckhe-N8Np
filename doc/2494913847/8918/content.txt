@@ -23,7 +23,7 @@ Você é um assistente inteligente de busca de produtos para uma empresa de supr
 
 * Buscas amplas: "fones de ouvido sem fio", "notebooks baratos"
 * Pesquisas por características: "cancelamento de ruído", "caixas de som à prova d’água"
-* Navegação por categoria: "tablets Apple", "acessórios para gamers"
+* Navegaçêo por categoria: "tablets Apple", "acessórios para gamers"
 
 \###Ferramenta Airtable
 
@@ -35,7 +35,7 @@ Você é um assistente inteligente de busca de produtos para uma empresa de supr
 \##Fluxo de Trabalho
 
 * **Descoberta**: Use a Ferramenta Pinecone para realizar uma busca semântica com a consulta do cliente
-* **Verificação**: Use a Ferramenta Airtable com o termo ou categoria específica para verificar estoque e preços dos produtos encontrados
+* **Verificaçêo**: Use a Ferramenta Airtable com o termo ou categoria específica para verificar estoque e preços dos produtos encontrados
 * **Resposta**: Apresente as opções disponíveis com dados em tempo real
 
 \##Exemplos
@@ -59,7 +59,7 @@ Você é um assistente inteligente de busca de produtos para uma empresa de supr
 * Para itens fora de estoque, sugira alternativas disponíveis
 * Mantenha as respostas em tom de conversa e limite a 3 a 5 opções de produtos
 * Lembre-se do **contexto da conversa** para perguntas de acompanhamento
-* **Não** inclua a quantidade em estoque na resposta para o usuário
+* **Nêo** inclua a quantidade em estoque na resposta para o usuário
 
 ------------------------------
 
@@ -85,7 +85,7 @@ Aqui está o **passo a passo detalhado** para criar o agente de Telegram com RAG
 1.2. Copie o *Token de Acesso* fornecido
 1.3. No n8n, adicione o nó **Telegram Trigger**
 1.4. Configure o evento para `On Message`
-1.5. Cole o token do bot no campo de autenticação
+1.5. Cole o token do bot no campo de autenticaçêo
 1.6. Salve e teste enviando uma mensagem para o bot
 
 ---
@@ -113,7 +113,7 @@ Aqui está o **passo a passo detalhado** para criar o agente de Telegram com RAG
 Utilize o Pinecone para buscar itens por similaridade e o Airtable para validar preço e disponibilidade.
 Sempre responda de forma clara e conversacional.```
 
-3.2. Defina os nomes dos *ferramentas* que serão usadas: p`inecone_tool `e a`irtable_tool
+3.2. Defina os nomes dos *ferramentas* que serêo usadas: p`inecone_tool `e a`irtable_tool
 `
 ---
 
@@ -133,9 +133,9 @@ Sempre responda de forma clara e conversacional.```
 **
 5.1. Crie uma conta no A[irtable.com
 ](https://airtable.com/)5.2. Crie uma *base* de dados com colunas: ID, Nome, Categoria, Preço, etc.
-5.3. Gere um token com permissão r`ead
+5.3. Gere um token com permissêo r`ead
 `5.4. No n8n, adicione um A**irtable Tool
-**5.5. Configure a conexão com o token
+**5.5. Configure a conexêo com o token
 5.6. Configure a ferramenta para buscar por:
 
 * Termo de busca
@@ -157,7 +157,7 @@ Sempre responda de forma clara e conversacional.```
 
 * Fazer busca semântica via Pinecone
 * Refinar com filtro no Airtable
-* Exibir nome, preço e descrição do produto ao usuário
+* Exibir nome, preço e descriçêo do produto ao usuário
 
 ---
 
@@ -174,15 +174,15 @@ Sempre responda de forma clara e conversacional.```
 7.3. Ajuste:
 
 * Campos de resposta (remover estoque, se necessário)
-* Formatação da resposta
-* Adição de informações como avaliações ou mais detalhes
+* Formataçêo da resposta
+* Adiçêo de informações como avaliações ou mais detalhes
 
 ---
 
 ### 8**. Melhorias adicionais (opcional)
 **
-* Integração com plataforma de vendas (Shopify, WooCommerce)
-* Adicionar botão de compra no Telegram
+* Integraçêo com plataforma de vendas (Shopify, WooCommerce)
+* Adicionar botêo de compra no Telegram
 * Criar relatórios com logs das buscas
 * Expandir base de produtos
 
@@ -215,15 +215,15 @@ Criar um bot no Telegram que responde a buscas de produtos (como canetas ou cade
 
 ### Etapas do Projeto
 
-1. **Configuração Inicial**
+1. **Configuraçêo Inicial**
 
-   * Integração com Telegram via trigger `on message`
-   * Criação do bot e inserção do token de acesso
-   * Configuração de resposta básica do bot com modelo de chat simples
+   * Integraçêo com Telegram via trigger `on message`
+   * Criaçêo do bot e inserçêo do token de acesso
+   * Configuraçêo de resposta básica do bot com modelo de chat simples
 
-2. **Criação do Contexto do Agente**
+2. **Criaçêo do Contexto do Agente**
 
-   * Adição de mensagem de sistema explicando o papel do agente
+   * Adiçêo de mensagem de sistema explicando o papel do agente
    * Instruções: usar Pinecone para busca semântica e Airtable para verificar disponibilidade e preço
    * Exemplo: cliente pede uma caneta → busca semântica no Pinecone → filtro no Airtable
 
@@ -231,19 +231,19 @@ Criar um bot no Telegram que responde a buscas de produtos (como canetas ou cade
 
    * Pinecone:
 
-     * Dados vetoriais embutidos com metadados (ID, descrição, marca, preço, etc.)
+     * Dados vetoriais embutidos com metadados (ID, descriçêo, marca, preço, etc.)
      * Embedding com modelo do OpenAI
    * Airtable:
 
      * Estrutura parecida, mas com uso de filtros (ex: produtos abaixo de R\$ 45)
      * Usado para validar e complementar a resposta
 
-4. **Criação das Ferramentas**
+4. **Criaçêo das Ferramentas**
 
    * **Ferramenta Pinecone:**
 
      * Nomeada como "pinecone tool"
-     * Faz busca por descrição, marca ou categoria
+     * Faz busca por descriçêo, marca ou categoria
    * **Ferramenta Airtable:**
 
      * Nomeada como "inventory tool"
@@ -260,21 +260,21 @@ Criar um bot no Telegram que responde a buscas de produtos (como canetas ou cade
 
 6. **Exemplos e Testes**
 
-   * Teste com busca de "notebook de couro" → retornou nome, preço e descrição
+   * Teste com busca de "notebook de couro" → retornou nome, preço e descriçêo
    * Teste com "caneta abaixo de 20" → retornou sugestões e perguntou se queria mais informações
    * Ajustes finos: removido o campo de quantidade em estoque da resposta
 
 7. **Possibilidades Futuras**
 
-   * Incluir nota média dos produtos, número de vendas, integração com Shopify para compra
+   * Incluir nota média dos produtos, número de vendas, integraçêo com Shopify para compra
    * Escalabilidade para centenas ou milhares de produtos
 
 ---
 
-### Conclusão
+### Conclusêo
 
-* O sistema combina **busca inteligente (Pinecone)** com **verificação estruturada (Airtable)**.
-* A interação é fluida e pode ser facilmente personalizada.
+* O sistema combina **busca inteligente (Pinecone)** com **verificaçêo estruturada (Airtable)**.
+* A interaçêo é fluida e pode ser facilmente personalizada.
 * Pode ser replicado para outros tipos de atendimento automático, em poucas horas, com ferramentas no-code como o n8n.
 
 ---
@@ -282,7 +282,7 @@ Criar um bot no Telegram que responde a buscas de produtos (como canetas ou cade
 ### Exemplos de uso
 
 * Lojas online com grande catálogo
-* Assistente de recomendação de produtos
+* Assistente de recomendaçêo de produtos
 * Atendimento automatizado via Telegram com IA
 
 ------------------------------
@@ -291,7 +291,7 @@ MENSAGEM 6
 Autor: INEMA
 Data: 2025-06-08T01:38:12+00:00
 Texto:
-Como construir um agente bot no Telegram que utiliza capacidades RAG (recuperação aumentada por geração) e se integra com o Airtable para realizar buscas de estoque. Vamos trabalhar com um banco de dados do Pinecone preenchido com dados de exemplo de estoque de uma empresa de suprimentos para escritório doméstico.
+Como construir um agente bot no Telegram que utiliza capacidades RAG (recuperaçêo aumentada por geraçêo) e se integra com o Airtable para realizar buscas de estoque. Vamos trabalhar com um banco de dados do Pinecone preenchido com dados de exemplo de estoque de uma empresa de suprimentos para escritório doméstico.
 
 Como o bot realiza uma busca no Pinecone e depois verifica as informações no Airtable para recuperar dados precisos e oferecer opções aos clientes.
 

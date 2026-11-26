@@ -27,14 +27,14 @@ Texto:
 O vídeo ensina como criar um agente de IA para transformar podcasts em posts de Threads de forma 100% automática, usando OpenAI, Pinecone e MySQL.  
 O processo é dividido em três workflows principais:
 
-1. **Transcrição automática de podcasts e indexação**
+1. **Transcriçêo automática de podcasts e indexaçêo**
    - Buscar episódios novos via RSS Feed.
    - Editar e revisar os metadados do podcast.
    - Baixar o áudio (MP3) e transcrever com OpenAI.
-   - Armazenar e indexar a transcrição no banco vetorial Pinecone.
-   - Dividir a transcrição em trechos pequenos e pesquisáveis (chunks).
+   - Armazenar e indexar a transcriçêo no banco vetorial Pinecone.
+   - Dividir a transcriçêo em trechos pequenos e pesquisáveis (chunks).
 
-2. **Geração de ideias para Threads a partir dos podcasts**
+2. **Geraçêo de ideias para Threads a partir dos podcasts**
    - Receber perguntas no chat.
    - Buscar dados relevantes no banco Pinecone usando RAG (Retrieval Augmented Generation).
    - Gerar conteúdos otimizados para Threads (formato de postagens).
@@ -44,31 +44,31 @@ O processo é dividido em três workflows principais:
    - Gerar e publicar automaticamente as Threads.
 
 **Tecnologias utilizadas:**
-- **OpenAI** para transcrição e geração de conteúdo.
-- **Pinecone** para armazenamento vetorial e recuperação de trechos relevantes.
+- **OpenAI** para transcriçêo e geraçêo de conteúdo.
+- **Pinecone** para armazenamento vetorial e recuperaçêo de trechos relevantes.
 - **MySQL** para armazenar dados de posts prontos.
-- **n8n** como orquestrador dos fluxos de trabalho (automação sem código).
+- **n8n** como orquestrador dos fluxos de trabalho (automaçêo sem código).
 
-**Demonstração prática:**
+**Demonstraçêo prática:**
 - O autor mostra como o sistema transcreve um podcast sobre o crescimento de marcas próprias no varejo, gera um conteúdo para Threads, e publica automaticamente.
-- Configuração do Pinecone: criar API Key, criar índice usando "text-embedding-3-small", na AWS (região Virginia).
+- Configuraçêo do Pinecone: criar API Key, criar índice usando "text-embedding-3-small", na AWS (regiêo Virginia).
 
 **Notas adicionais:**
-- Explica que o formato "Threads" é tratado internamente como se fosse "Twitter" para manter o padrão de texto.
+- Explica que o formato "Threads" é tratado internamente como se fosse "Twitter" para manter o padrêo de texto.
 - O sistema usa memória de contexto no chat para melhorar a continuidade das respostas.
 
 ---
 
 **Tópicos listados:**
-- Transcrição automática de podcasts.
-- Indexação de conteúdo em banco vetorial.
-- Recuperação aumentada com RAG para respostas mais precisas.
-- Geração automática de posts para Threads.
-- Publicação automática no Threads.
-- Configuração de Pinecone.
-- Integração via n8n sem necessidade de programar.
+- Transcriçêo automática de podcasts.
+- Indexaçêo de conteúdo em banco vetorial.
+- Recuperaçêo aumentada com RAG para respostas mais precisas.
+- Geraçêo automática de posts para Threads.
+- Publicaçêo automática no Threads.
+- Configuraçêo de Pinecone.
+- Integraçêo via n8n sem necessidade de programar.
 
-**Exemplo de Aplicação:**
+**Exemplo de Aplicaçêo:**
 - Buscar insights de um podcast sobre negócios.
 - Gerar 4 ideias principais transformadas em 4 posts de Threads.
 - Publicar os posts automaticamente no perfil.

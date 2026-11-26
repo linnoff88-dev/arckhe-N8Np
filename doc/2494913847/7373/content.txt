@@ -33,11 +33,11 @@ Texto:
 **Resumo do vídeo "j52) Automated YouTube Videos in ANY Language" **
 
 **Objetivo:**
-Automatizar a tradução e dublagem de vídeos do YouTube para qualquer idioma utilizando Make (ou n8n), ElevenLabs e Google Drive (ou YouTube).
+Automatizar a traduçêo e dublagem de vídeos do YouTube para qualquer idioma utilizando Make (ou n8n), ElevenLabs e Google Drive (ou YouTube).
 
 **Resumo em tópicos com etapas práticas:**
 
-1. **Automação principal:**
+1. **Automaçêo principal:**
 
    * Pega um vídeo do YouTube.
    * Usa a API da ElevenLabs para gerar a dublagem no idioma desejado.
@@ -60,7 +60,7 @@ Automatizar a tradução e dublagem de vídeos do YouTube para qualquer idioma u
    * Cria link direto para download.
    * Envia e-mail automático para o usuário com o link do vídeo pronto.
 
-5. **Segunda opção de gatilho:**
+5. **Segunda opçêo de gatilho:**
 
    * Usa RSS Feed de um canal do YouTube.
    * Quando um novo vídeo for postado, o sistema inicia automaticamente a dublagem.
@@ -72,15 +72,15 @@ Automatizar a tradução e dublagem de vídeos do YouTube para qualquer idioma u
 
 7. **Upload para YouTube (opcional):**
 
-   * Tentativa de subir o vídeo dublado direto para YouTube, mas requer credenciais e configuração específicas.
+   * Tentativa de subir o vídeo dublado direto para YouTube, mas requer credenciais e configuraçêo específicas.
    * No vídeo, a parte do upload falha por limite de cota ou credenciais mal configuradas.
 
 8. **Erros tratados:**
 
-   * Capitalização incorreta de códigos de idioma.
+   * Capitalizaçêo incorreta de códigos de idioma.
    * Falta de binário para upload.
    * Webhook sem resposta.
-   * Falha de autenticação com Google/YouTube.
+   * Falha de autenticaçêo com Google/YouTube.
 
 9. **Resultados práticos:**
 
@@ -104,7 +104,7 @@ Texto:
 
 
 
-Crie vídeos multilíngues no YouTube sem esforço usando automação com IA! Esta sessão orienta você a integrar Make, OpenAI e Eleven Labs para gerar roteiros, narrações e conteúdo de vídeo em qualquer idioma. Perfeito para criadores de conteúdo, educadores e profissionais de marketing que desejam escalar a produção de vídeos sem esforço manual.
+Crie vídeos multilíngues no YouTube sem esforço usando automaçêo com IA! Esta sessêo orienta você a integrar Make, OpenAI e Eleven Labs para gerar roteiros, narrações e conteúdo de vídeo em qualquer idioma. Perfeito para criadores de conteúdo, educadores e profissionais de marketing que desejam escalar a produçêo de vídeos sem esforço manual.
 
 Configure uma vez e deixe a IA cuidar do resto!
 
@@ -115,9 +115,9 @@ Configure uma vez e deixe a IA cuidar do resto!
 
 
 **Recursos**
-Tradução de YouTube (Lead 🧲)
+Traduçêo de YouTube (Lead 🧲)
 Cheat Sheet do Eleven Labs 👾
-Tradução para YouTube 🇮🇹🇫🇷🇩🇪
+Traduçêo para YouTube 🇮🇹🇫🇷🇩🇪
 Midia: MessageMediaWebPage
 
 ------------------------------

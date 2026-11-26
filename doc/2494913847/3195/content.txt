@@ -89,52 +89,52 @@ Data: 2025-03-15T01:42:08+00:00
 Texto:
 ### e7n8. Extraia informações de arquivos sem complicações  
 
-Nesta sessão, exploramos a maneira mais eficiente e econômica de extrair informações de arquivos como **PDFs, imagens e documentos em diversos formatos**. Utilizamos um cenário de **faturamento** para demonstrar como automatizar o processo de extração e armazenamento de dados com **N8N e Llama Cloud**.  
+Nesta sessêo, exploramos a maneira mais eficiente e econômica de extrair informações de arquivos como **PDFs, imagens e documentos em diversos formatos**. Utilizamos um cenário de **faturamento** para demonstrar como automatizar o processo de extraçêo e armazenamento de dados com **N8N e Llama Cloud**.  
 
 ---
 
-### **Processo de Extração**  
+### **Processo de Extraçêo**  
 
 #### **1. Recebimento de Arquivos**  
 📌 Uma **fatura** é enviada para um **bot do Telegram**.  
-📌 A automação detecta o tipo de arquivo (**imagem ou PDF**).  
+📌 A automaçêo detecta o tipo de arquivo (**imagem ou PDF**).  
 
 #### **2. Processamento do Arquivo**  
 📌 O arquivo é enviado para uma **API do Llama Cloud**.  
 📌 Ele é carregado na API para processamento.  
-📌 A automação acompanha o status da extração até receber a confirmação da conclusão.  
+📌 A automaçêo acompanha o status da extraçêo até receber a confirmaçêo da conclusêo.  
 
-#### **3. Transformação e Estruturação dos Dados**  
-📌 Os dados extraídos são convertidos para **Markdown**.  
-📌 Em seguida, são transformados em um **JSON** com os seguintes campos:  
+#### **3. Transformaçêo e Estruturaçêo dos Dados**  
+📌 Os dados extraídos sêo convertidos para **Markdown**.  
+📌 Em seguida, sêo transformados em um **JSON** com os seguintes campos:  
    - Número da fatura  
-   - Data de emissão  
+   - Data de emissêo  
    - **CIF/NIF**  
    - Subtotal  
    - IVA  
    - **Valor total**  
 📌 Um modelo da **OpenAI** formata os dados extraídos corretamente.  
 
-#### **4. Armazenamento e Visualização**  
+#### **4. Armazenamento e Visualizaçêo**  
 📌 O arquivo original é **salvo no Google Drive**.  
-📌 As informações estruturadas são **armazenadas no Google Sheets**.  
-📌 Um **mensagem de confirmação** com os dados extraídos é enviada via **Telegram**.  
+📌 As informações estruturadas sêo **armazenadas no Google Sheets**.  
+📌 Um **mensagem de confirmaçêo** com os dados extraídos é enviada via **Telegram**.  
 
 ---
 
-### **Otimizações na Automação**  
+### **Otimizações na Automaçêo**  
 
 ✅ **Uso de um Switch no N8N** → Diferencia documentos e imagens para seguir fluxos específicos.  
 ✅ **Merge de File ID** → Unifica o tratamento dos arquivos, independente do formato.  
 ✅ **Espera dinâmica** → Um loop monitora o status da API até que os dados estejam prontos.  
-✅ **Seleção automática da melhor qualidade de imagem** → Sempre usa a versão de **maior qualidade** das fotos enviadas ao Telegram.  
-✅ **Aproveitamento da versão gratuita do Llama Cloud** → Permite extrair informações de **até 3.333 páginas/mês sem custo**.  
+✅ **Seleçêo automática da melhor qualidade de imagem** → Sempre usa a versêo de **maior qualidade** das fotos enviadas ao Telegram.  
+✅ **Aproveitamento da versêo gratuita do Llama Cloud** → Permite extrair informações de **até 3.333 páginas/mês sem custo**.  
 
 ---
 
-### **Conclusão**  
+### **Conclusêo**  
 
-Com essa abordagem, conseguimos **otimizar a extração de dados de faturas e documentos**, **sem precisar converter formatos ou realizar processos custosos**. Esse método reduz **tempo, esforço e custo**, proporcionando um fluxo de trabalho **mais eficiente e escalável**.  
+Com essa abordagem, conseguimos **otimizar a extraçêo de dados de faturas e documentos**, **sem precisar converter formatos ou realizar processos custosos**. Esse método reduz **tempo, esforço e custo**, proporcionando um fluxo de trabalho **mais eficiente e escalável**.  
 
 ---
 
@@ -158,15 +158,15 @@ Data: 2025-03-15T01:41:19+00:00
 Texto:
 Extraia informações de arquivos sem complicações (Faturamento)  
 
- Essa nova automação simplifica o processo de extração de dados como nunca antes. Muitos me disseram que era um verdadeiro desafio extrair informações de faturas e documentos sem precisar converter formatos... **Pois isso acabou!** 🎉  
+ Essa nova automaçêo simplifica o processo de extraçêo de dados como nunca antes. Muitos me disseram que era um verdadeiro desafio extrair informações de faturas e documentos sem precisar converter formatos... **Pois isso acabou!** 🎉  
 
 Com essa ferramenta, você pode extrair dados de qualquer documento PDF, imagem e vários outros formatos de forma **automática, super simples e bem organizada**. Sem precisar converter de PDF para imagem, sem processos desnecessários e **sem complicações**.  
 
 ✅ Extraia informações com um único passo  
 ✅ Adeus às conversões, olá eficiência  
-✅ **Ultra barato** (muitos nem vão precisar pagar! 💰🔥)  
+✅ **Ultra barato** (muitos nem vêo precisar pagar! 💰🔥)  
 
-Essa é uma daquelas automações que vão te economizar **tempo e dinheiro desde o primeiro minuto**. 🚀
+Essa é uma daquelas automações que vêo te economizar **tempo e dinheiro desde o primeiro minuto**. 🚀
 
 ------------------------------
 
@@ -217,7 +217,7 @@ MENSAGEM 18
 Autor: INEMA
 Data: 2025-03-15T01:38:46+00:00
 Texto:
-e7n8 - Extração de Faturas
+e7n8 - Extraçêo de Faturas
 
 ------------------------------
 

@@ -27,7 +27,7 @@ No terminal (CMD ou PowerShell):
 
 ```node -v```
 
-Se não estiver, instale via [https://nodejs.org](https://nodejs.org/) (versão 18 ou superior recomendada).
+Se nêo estiver, instale via [https://nodejs.org](https://nodejs.org/) (versêo 18 ou superior recomendada).
 
 ---
 
@@ -73,13 +73,13 @@ Se aparecer erro E`BUSY,` t`oken inválido,` t`imeout,` etc., você deve corrigi
 ```
 ---
 
-### ✅ Conclusão
+### ✅ Conclusêo
 
-| Etapa                          | Obrigatório?  | Observação                           |
+| Etapa                          | Obrigatório?  | Observaçêo                           |
 | ------------------------------ | ------------- | ------------------------------------ |
 | Ter Node.js instalado          | Sim           | Para rodar qualquer coisa com n`px ` |
 | Rodar n`px -y n8n-mcp `uma vez | Sim           | Garante que o Claude consiga acessar |
-| Instalar globalmente           | Não, mas útil | Evita erros com cache local do npx   |
+| Instalar globalmente           | Nêo, mas útil | Evita erros com cache local do npx   |
 Midia: MessageMediaWebPage
 
 ------------------------------
@@ -118,7 +118,7 @@ Abra no navegador:
 
 h`ttps://agente.inema.online/rest/workflows
 `
-* Se pedir login ou der erro 401, a **autenticação básica está ativa
+* Se pedir login ou der erro 401, a **autenticaçêo básica está ativa
 *** Se der ti`meout o`u re`fused, `há problemas de rede ou o proxy está bloqueando
 
 ---
@@ -172,7 +172,7 @@ Su```bstitua "SEU`_TOKEN_AQUI" pel`o token copiado da etapa anterior.
 
 ---
 
-## ✅ ETAPA 5 — Teste a conexão com curl`
+## ✅ ETAPA 5 — Teste a conexêo com curl`
 
 No` terminal (CMD ou PowerShell):
 
@@ -184,9 +184,9 @@ curl``` -H "Authorization: Bearer SEU_TOKEN_AQUI" https://agente.inema.online/re
 
 ---
 
-## ✅ ETAPA 6 — Verifique a autenticação básica
+## ✅ ETAPA 6 — Verifique a autenticaçêo básica
 
-Se sua instância exigir logi**n e senha (Basic Auth) alé**m do token, Claude não **vai conseguir se conectar com apenas o token.
+Se sua instância exigir logi**n e senha (Basic Auth) alé**m do token, Claude nêo **vai conseguir se conectar com apenas o token.
 
 #**## Soluções:
 
@@ -245,12 +245,12 @@ Abaixo está o **passo a passo completo e atualizado para configurar do zero o C
 * Claude Desktop
 * `n8n` (pode ser local ou hospedado)
 * Token de API
-* Configuração do `claude.config.json`
-* Validação via terminal
+* Configuraçêo do `claude.config.json`
+* Validaçêo via terminal
 
 ---
 
-## ✅ ETAPA 1 — Subir sua instância do n8n (caso ainda não tenha)
+## ✅ ETAPA 1 — Subir sua instância do n8n (caso ainda nêo tenha)
 
 ### 🖥️ A) **Local (recomendado para testes)**
 
@@ -355,7 +355,7 @@ MCP```: n8n-mcp (39 tools disponíveis)
 
 Exemplo de prompt para testar:
 
-Crie``` uma automação no n8n que:
+Crie``` uma automaçêo no n8n que:
 - Inicia com webhook
 - Recebe nome e e-mail
 - Salva os dados em Google Sheets
@@ -363,11 +363,11 @@ Crie``` uma automação no n8n que:
 
 --```-
 
-### 🧠 Observação:
+### 🧠 Observaçêo:
 
-* n8n-`mcp-docs só `fornece docu**mentação dos nodes
-* n**8n-`mcp per`mite ação** real na sua instância n8n
-* A**mbos são recomendados juntos
+* n8n-`mcp-docs só `fornece docu**mentaçêo dos nodes
+* n**8n-`mcp per`mite açêo** real na sua instância n8n
+* A**mbos sêo recomendados juntos
 
 ---
 
@@ -506,7 +506,7 @@ MENSAGEM 13
 Autor: INEMA
 Data: 2025-07-28T03:21:44+00:00
 Texto:
-Instrução do Projeto
+Instruçêo do Projeto
 
 
 You are an expert in n8n automation software using n8n-MCP tools. Your role is to design, build, and validate n8n workflows with maximum accuracy and efficiency.
@@ -656,7 +656,7 @@ MENSAGEM 20
 Autor: INEMA
 Data: 2025-07-28T03:17:00+00:00
 Texto:
-nm59 - Automação n8n-MCP Github
+nm59 - Automaçêo n8n-MCP Github
 
 ------------------------------
 

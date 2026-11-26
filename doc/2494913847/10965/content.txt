@@ -38,7 +38,7 @@ MENSAGEM 4
 Autor: INEMA
 Data: 2025-07-05T22:39:42+00:00
 Texto:
-Aqui vão os **hacks para deixar seu agente de pesquisa com IA no n8n muito mais inteligente, rápido e útil**:
+Aqui vêo os **hacks para deixar seu agente de pesquisa com IA no n8n muito mais inteligente, rápido e útil**:
 
 ---
 
@@ -114,9 +114,9 @@ Formate o resultado com Markdown:
 
 ---
 
-### 🔐 8.** Proteção de API Keys
+### 🔐 8.** Proteçêo de API Keys
 
-*** Não salve API Keys direto no nó.
+*** Nêo salve API Keys direto no nó.
 * Use n8**n Secrets (**`{{ $env.OPENROUTER_API_KEY }}`).
 * ✅ Evita vazamentos ao compartilhar o workflow.
 
@@ -154,7 +154,7 @@ Texto:
 
   * [OpenRouter](https://openrouter.ai/)
   * [Perplexity](https://perplexity.ai/)
-* Tenha o n8n instalado (ou use a versão em nuvem).
+* Tenha o n8n instalado (ou use a versêo em nuvem).
 
 ---
 
@@ -202,7 +202,7 @@ Texto:
   1. Vá para [Perplexity](https://perplexity.ai/).
   2. Crie uma conta e acesse **Settings > API Keys**.
   3. Gere uma chave, copie e cole no n8n.
-  4. Clique em **Save** e verifique a conexão.
+  4. Clique em **Save** e verifique a conexêo.
 
 ---
 
@@ -223,7 +223,7 @@ Texto:
 
 ---
 
-### 9. **Automação com Google Sheets (Opcional)**
+### 9. **Automaçêo com Google Sheets (Opcional)**
 
 * Substitua o Chat Message por um **gatilho diário** (Schedule Trigger).
 * Adicione um nó **Google Sheets** para buscar uma lista de empresas ou tópicos.
@@ -238,7 +238,7 @@ Texto:
 
   ```  Você é um agente de pesquisa especialista. Use o Perplexity para buscar informações atualizadas e entregue relatórios com fontes citadas.
   ```
-* Isso melhora a precisão e foco das respostas.
+* Isso melhora a precisêo e foco das respostas.
 
 ---
 
@@ -268,22 +268,22 @@ O vídeo ensina a criar um agente de pesquisa com IA no **n8n** sem escrever có
 
 ### Passo a passo resumido:
 
-1. **Introdução**
+1. **Introduçêo**
 
-   * O autor promete montar o agente em 12 minutos, do zero, com explicação detalhada de credenciais e integrações.
+   * O autor promete montar o agente em 12 minutos, do zero, com explicaçêo detalhada de credenciais e integrações.
 
 2. **Conceito geral**
 
    * **OpenRouter**: serve como o “cérebro” do agente, conectando a modelos de IA como GPT-4.
    * **Perplexity**: ferramenta para pesquisa na web em tempo real.
 
-3. **Configuração inicial no n8n**
+3. **Configuraçêo inicial no n8n**
 
    * Adiciona um **gatilho de chat** para enviar mensagens ao agente.
    * Configura o nó **AI Agent** com OpenRouter, criando uma chave de API no site e conectando ao modelo GPT-4.1 Mini.
    * Valida o funcionamento perguntando “Explique as regras do golfe” e recebendo resposta.
 
-4. **Integração com Perplexity**
+4. **Integraçêo com Perplexity**
 
    * Adiciona o nó **Perplexity Tool**.
    * Cria uma chave de API no site do Perplexity e conecta.
@@ -295,13 +295,13 @@ O vídeo ensina a criar um agente de pesquisa com IA no **n8n** sem escrever có
    * Pergunta “Como otimizar meu sono?”
    * O agente faz uma pesquisa profunda, acessa 20 fontes e retorna um relatório completo com dicas, rotina, dieta, etc.
 
-6. **Automação avançada com Google Sheets**
+6. **Automaçêo avançada com Google Sheets**
 
    * Substitui o gatilho de chat por um gatilho diário.
    * Puxa uma lista de concorrentes (Apple, Google, Amazon, Nvidia) do Google Sheets.
    * O agente pesquisa automaticamente sobre cada empresa e grava os resultados de volta na planilha.
 
-7. **Personalização do agente**
+7. **Personalizaçêo do agente**
 
    * Destaca o uso de mensagens de sistema para definir comportamentos (“Você é um agente de pesquisa especializado…”).
    * Mostra como adaptar o agente a processos empresariais, como pipelines de vendas ou marketing.
@@ -309,13 +309,13 @@ O vídeo ensina a criar um agente de pesquisa com IA no **n8n** sem escrever có
 8. **Encerramento e comunidade**
 
    * Convida os espectadores a participar de sua comunidade para aprender automações com IA.
-   * Apresenta cursos “Agent Zero” (fundamentos) e “10 horas para 10 segundos” (automação avançada).
+   * Apresenta cursos “Agent Zero” (fundamentos) e “10 horas para 10 segundos” (automaçêo avançada).
 
 ### Exemplos citados:
 
-* Pesquisa de rotina sobre concorrentes com atualização diária.
-* Geração de relatórios com fontes citadas automaticamente.
-* Integração com outros processos além de chat.
+* Pesquisa de rotina sobre concorrentes com atualizaçêo diária.
+* Geraçêo de relatórios com fontes citadas automaticamente.
+* Integraçêo com outros processos além de chat.
 
 ------------------------------
 

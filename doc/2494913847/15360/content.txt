@@ -23,7 +23,7 @@ MENSAGEM 2
 Autor: INEMA
 Data: 2025-11-02T20:57:52+00:00
 Texto:
-automação em uma **solução que remove dor**, não em uma ferramenta técnica.
+automaçêo em uma **soluçêo que remove dor**, nêo em uma ferramenta técnica.
 
 ---
 
@@ -44,7 +44,7 @@ automação em uma **solução que remove dor**, não em uma ferramenta técnica
 
 ### 14. **Aprendizado de erros**
 
-* Descobriu que o Calendly não permite reservas diretas via API (só consulta).
+* Descobriu que o Calendly nêo permite reservas diretas via API (só consulta).
 * Contornou criando um **link pré-preenchido de agendamento** que o usuário finaliza manualmente.
 * **Hack:** se uma API limita, **automatize até o ponto possível e simule o resto** com mensagens inteligentes.
 
@@ -59,17 +59,17 @@ automação em uma **solução que remove dor**, não em uma ferramenta técnica
 
 ---
 
-## CONCLUSÃO
+## CONCLUSêO
 
 Os hacks mostram três lições fundamentais:
 
-1. **Automação é sobre fluidez, não complexidade.**
+1. **Automaçêo é sobre fluidez, nêo complexidade.**
    Menos inteligência, mais clareza = menos falhas.
 
 2. **Copywriting é o código invisível.**
-   A mensagem define o sucesso da automação.
+   A mensagem define o sucesso da automaçêo.
 
-3. **Ferramentas no-code são superpoderes de negócios.**
+3. **Ferramentas no-code sêo superpoderes de negócios.**
    Quando bem combinadas (Twilio + Sheets + n8n + IA de apoio), transformam qualquer processo manual em uma máquina de vendas autônoma.
 
 ------------------------------
@@ -78,7 +78,7 @@ MENSAGEM 3
 Autor: INEMA
 Data: 2025-11-02T20:57:52+00:00
 Texto:
-## HACKS DE AUTOMAÇÃO (ESTRUTURA E PERFORMANCE)
+## HACKS DE AUTOMAÇêO (ESTRUTURA E PERFORMANCE)
 
 ### 1. **Fluxo Linear = Robustez Total**
 
@@ -88,16 +88,16 @@ Texto:
   * Rápido (sem IA intermediária);
   * Previsível (mesmo resultado toda vez);
   * Mais fácil de debugar e escalar.
-* **Hack:** desenhe o fluxo como uma linha contínua → cada ação leva à próxima etapa lógica.
+* **Hack:** desenhe o fluxo como uma linha contínua → cada açêo leva à próxima etapa lógica.
 
 *Exemplo:*
-📞 “Ligou” → 📨 “SMS” → 📅 “Agendamento” → ✅ “Confirmação” → 🧩 “Enriquecimento”.
+📞 “Ligou” → 📨 “SMS” → 📅 “Agendamento” → ✅ “Confirmaçêo” → 🧩 “Enriquecimento”.
 
 ---
 
 ### 2. **Usar Google Sheets como CRM leve**
 
-* Em vez de usar um CRM pago, ele usou uma planilha com colunas dinâmicas (telefone, status, horário, intenção, CEP, etc).
+* Em vez de usar um CRM pago, ele usou uma planilha com colunas dinâmicas (telefone, status, horário, intençêo, CEP, etc).
 * **n8n** atualiza automaticamente cada linha conforme o cliente responde.
 * **Hack:** use o campo **telefone como chave única**.
   Assim, cada resposta pode localizar e atualizar o mesmo registro via `Get Row` + `Update Row`.
@@ -112,13 +112,13 @@ Texto:
 
 ---
 
-### 4. **Dois horários prontos = menos indecisão**
+### 4. **Dois horários prontos = menos indecisêo**
 
-* Na API do Calendly, ele percebeu que muitos leads **não escolhem horário quando há muitas opções**.
+* Na API do Calendly, ele percebeu que muitos leads **nêo escolhem horário quando há muitas opções**.
 * Criou um node Function que **filtra apenas os dois próximos horários disponíveis**.
 * **Hack:** limitar escolhas aumenta taxa de resposta.
 
-  > “Temos amanhã às 10h ou 14h — qual funciona pra você?”
+  > “Temos amanhê às 10h ou 14h — qual funciona pra você?”
 
 ---
 
@@ -126,16 +126,16 @@ Texto:
 
 * Como copywriter, ele projetou mensagens curtas, empáticas e diretas.
 * Evitou textos robóticos.
-* **Hack:** crie blocos de texto com personalização mínima (ex: nome, horário) e tom de conversa.
+* **Hack:** crie blocos de texto com personalizaçêo mínima (ex: nome, horário) e tom de conversa.
 
-  > “Oi! Vi sua ligação agora há pouco. Podemos marcar amanhã às 14h ou 17h?”
+  > “Oi! Vi sua ligaçêo agora há pouco. Podemos marcar amanhê às 14h ou 17h?”
 
 ---
 
 ### 6. **Fallback de segurança**
 
 * Se o cliente responde fora do horário comercial → mensagem automática com contato alternativo.
-* **Hack:** adicione uma condição de horário (`if`) antes de cada envio de mensagem:
+* **Hack:** adicione uma condiçêo de horário (`if`) antes de cada envio de mensagem:
 
   ```  new Date().getHours() >= 8 && new Date().getHours() <= 18
   ```
@@ -148,7 +148,7 @@ Texto:
 
 ### 7. **Usar o ChatGPT como Dev Partner**
 
-* Ele **não sabia programar**, mas usava o ChatGPT para:
+* Ele **nêo sabia programar**, mas usava o ChatGPT para:
 
   * Escrever scripts dos Function Nodes;
   * Corrigir erros (“Here's the error, help me fix it”);
@@ -161,9 +161,9 @@ Texto:
 
 ---
 
-### 8. **Divisão em “Fases”**
+### 8. **Divisêo em “Fases”**
 
-* Cada parte do sistema (ligação, SMS, agendamento, enriquecimento) foi tratada como **um módulo separado**.
+* Cada parte do sistema (ligaçêo, SMS, agendamento, enriquecimento) foi tratada como **um módulo separado**.
 * **Hack:** nomeie os blocos no n8n como:
 
   ```  0 - Ringless
@@ -174,15 +174,15 @@ Texto:
   5 - Email Followup
   ```
 
-  Isso facilita debug e manutenção — especialmente quando há muitos nós.
+  Isso facilita debug e manutençêo — especialmente quando há muitos nós.
 
 ---
 
 ### 9. **Webhook Reativo**
 
 * Cada mensagem que o usuário envia (SMS de volta) **dispara um webhook**.
-* O n8n então **encontra o registro pelo número de telefone** e **continua o fluxo exatamente no ponto certo**.
-* **Hack:** use a função `router` no n8n com switches “1”, “2”, “outro”.
+* O n8n entêo **encontra o registro pelo número de telefone** e **continua o fluxo exatamente no ponto certo**.
+* **Hack:** use a funçêo `router` no n8n com switches “1”, “2”, “outro”.
   Isso garante que o usuário siga sempre a sequência correta.
 
 ---
@@ -190,14 +190,14 @@ Texto:
 ### 10. **E-mail de “Surpresa Positiva”**
 
 * Após coletar o CEP, o sistema envia automaticamente **comparativos do Zillow/Redfin**.
-* Essa surpresa cria uma percepção de atendimento humano e premium.
-* **Hack:** automatize algo que “pareça feito à mão” — como um e-mail de boas-vindas com links personalizados.
+* Essa surpresa cria uma percepçêo de atendimento humano e premium.
+* **Hack:** automatize algo que “pareça feito à mêo” — como um e-mail de boas-vindas com links personalizados.
 
 ---
 
 ## HACKS DE ESTRATÉGIA E NEGÓCIO
 
-### 11. **“Imagine nunca perder uma ligação novamente”**
+### 11. **“Imagine nunca perder uma ligaçêo novamente”**
 
 * Essa foi a **mensagem central da venda** (pitch).
 * Um título curto, poderoso e emocional.
@@ -209,7 +209,7 @@ MENSAGEM 4
 Autor: INEMA
 Data: 2025-11-02T20:56:42+00:00
 Texto:
-automação.
+automaçêo.
 
 ---
 
@@ -217,14 +217,14 @@ automação.
 
 ### Ferramentas e técnicas usadas
 
-| Recurso            | Função                               | Observação                                 |
+| Recurso            | Funçêo                               | Observaçêo                                 |
 | ------------------ | ------------------------------------ | ------------------------------------------ |
-| **n8n**            | Motor principal da automação         | Orquestra Twilio, Calendly e Google Sheets |
+| **n8n**            | Motor principal da automaçêo         | Orquestra Twilio, Calendly e Google Sheets |
 | **Twilio**         | Canal de entrada e saída de voz/SMS  | Usa webhooks e mensagens automáticas       |
 | **Calendly API**   | Disponibiliza horários em tempo real | Filtrados via Function Node                |
 | **Google Sheets**  | Banco de dados simples               | Facilita monitoramento manual              |
 | **Function Nodes** | Processamento de dados e filtros     | Códigos em JavaScript simples              |
-| **ChatGPT**        | Apoio no desenvolvimento             | Geração e depuração de código              |
+| **ChatGPT**        | Apoio no desenvolvimento             | Geraçêo e depuraçêo de código              |
 
 ---
 
@@ -233,7 +233,7 @@ automação.
 1. **Desenhou o fluxo no papel** (mapa visual das etapas).
 2. **Criou blocos modulares** no n8n:
 
-   * “Receber ligação”
+   * “Receber ligaçêo”
    * “Enviar SMS”
    * “Consultar horários”
    * “Atualizar planilha”
@@ -257,14 +257,14 @@ automação.
 
 ---
 
-## 6. EXEMPLO DE ADAPTAÇÃO
+## 6. EXEMPLO DE ADAPTAÇêO
 
-| Setor          | Exemplo de aplicação                                                          |
+| Setor          | Exemplo de aplicaçêo                                                          |
 | -------------- | ----------------------------------------------------------------------------- |
 | Clínica médica | Paciente liga → SMS com link de agendamento → lembrete automático             |
-| Pet shop       | Dono do pet liga → SMS com horário de banho → atualização via WhatsApp        |
+| Pet shop       | Dono do pet liga → SMS com horário de banho → atualizaçêo via WhatsApp        |
 | Imobiliária    | Interessado em imóvel → coleta de CEP → envio automático de imóveis similares |
-| Academia       | Ligação perdida → resposta imediata → agendamento de aula experimental        |
+| Academia       | Ligaçêo perdida → resposta imediata → agendamento de aula experimental        |
 
 ---
 
@@ -274,7 +274,7 @@ MENSAGEM 5
 Autor: INEMA
 Data: 2025-11-02T20:56:42+00:00
 Texto:
-Aqui está o **passo a passo completo e detalhado** de **como foi construída e como funciona a automação de vendas com n8n** que venceu o hackathon — desde o propósito até a execução prática.
+Aqui está o **passo a passo completo e detalhado** de **como foi construída e como funciona a automaçêo de vendas com n8n** que venceu o hackathon — desde o propósito até a execuçêo prática.
 
 ---
 
@@ -294,28 +294,28 @@ Criar um sistema totalmente automatizado que:
 
 ---
 
-## 2. VISÃO GERAL DA ARQUITETURA
+## 2. VISêO GERAL DA ARQUITETURA
 
 **Plataformas integradas:**
 
-* **n8n** → motor principal da automação;
+* **n8n** → motor principal da automaçêo;
 * **Twilio** → recebe ligações e envia SMS;
 * **Calendly** → fornece horários disponíveis para agendamento;
 * **Google Sheets** → atua como banco de dados e CRM;
-* **ChatGPT (apoio)** → geração e correção de scripts em Function Nodes.
+* **ChatGPT (apoio)** → geraçêo e correçêo de scripts em Function Nodes.
 
 ---
 
-## 3. PASSO A PASSO DA AUTOMAÇÃO
+## 3. PASSO A PASSO DA AUTOMAÇêO
 
-### ETAPA 1 – Captura da ligação (Twilio)
+### ETAPA 1 – Captura da ligaçêo (Twilio)
 
 1. Configure um **número de telefone Twilio**.
 2. Toda vez que alguém liga:
 
    * O Twilio aciona um **Webhook** no **n8n**.
    * O n8n **registra o número e o horário da chamada** em uma planilha do Google Sheets.
-3. Se a chamada não for atendida:
+3. Se a chamada nêo for atendida:
 
    * O sistema envia um **ringless voicemail** (mensagem de voz automática pré-gravada).
 
@@ -323,11 +323,11 @@ Criar um sistema totalmente automatizado que:
 
 ---
 
-### ETAPA 2 – Geração de resposta automática via SMS
+### ETAPA 2 – Geraçêo de resposta automática via SMS
 
 1. Assim que o webhook é acionado, o n8n envia uma **mensagem de texto automática** para o número que ligou.
    Exemplo:
-   “Olá! Acabamos de ver sua ligação. Temos duas vagas abertas para amanhã. Qual horário funciona pra você?”
+   “Olá! Acabamos de ver sua ligaçêo. Temos duas vagas abertas para amanhê. Qual horário funciona pra você?”
 2. A mensagem é redigida com **copywriting acolhedor**, usando o nome do negócio e linguagem natural.
 3. O sistema espera a resposta do cliente (“1”, “2” ou “outro”).
 
@@ -335,44 +335,44 @@ Criar um sistema totalmente automatizado que:
 
 ### ETAPA 3 – Consulta de horários (Calendly)
 
-1. O n8n faz uma **requisição HTTP** à API do Calendly.
+1. O n8n faz uma **requisiçêo HTTP** à API do Calendly.
 
    * Retorna todos os horários disponíveis na semana.
    * Um **Function Node** no n8n filtra os **dois horários mais próximos**.
-2. Esses horários são incluídos na planilha e enviados ao cliente via SMS.
+2. Esses horários sêo incluídos na planilha e enviados ao cliente via SMS.
 3. Quando o cliente escolhe um horário:
 
    * O n8n atualiza o status no Google Sheets (“Agendado”).
-   * Envia mensagem de confirmação:
-     “Perfeito! Sua visita está confirmada para amanhã às 14h.”
+   * Envia mensagem de confirmaçêo:
+     “Perfeito! Sua visita está confirmada para amanhê às 14h.”
 
 ---
 
 ### ETAPA 4 – Enriquecimento do lead
 
-Após a confirmação do agendamento:
+Após a confirmaçêo do agendamento:
 
-1. O fluxo inicia perguntas de **qualificação automática**:
+1. O fluxo inicia perguntas de **qualificaçêo automática**:
 
    * “Você está procurando comprar ou vender?”
    * “Qual o CEP ou endereço do imóvel?”
    * “Qual seu nível de urgência (1–5)?”
-2. As respostas são capturadas via webhook e gravadas em colunas específicas na planilha.
+2. As respostas sêo capturadas via webhook e gravadas em colunas específicas na planilha.
 3. O sistema gera um **resumo personalizado**:
 
-   * Nome, data, intenção, endereço e status.
+   * Nome, data, intençêo, endereço e status.
 
 ---
 
 ### ETAPA 5 – Envio de e-mail automatizado (valor agregado)
 
-1. Com o CEP coletado, o sistema faz uma **requisição HTTP** às APIs de **Zillow** e **Redfin**.
-2. Busca **imóveis vendidos recentemente** na região.
+1. Com o CEP coletado, o sistema faz uma **requisiçêo HTTP** às APIs de **Zillow** e **Redfin**.
+2. Busca **imóveis vendidos recentemente** na regiêo.
 3. Envia um **e-mail automático** com o assunto:
    “Já separei alguns imóveis parecidos na sua área!”
    e o corpo com links e sugestões.
-4. O cliente também recebe um **SMS de confirmação**:
-   “Enviei detalhes do seu bairro por e-mail para ajudar na sua decisão.”
+4. O cliente também recebe um **SMS de confirmaçêo**:
+   “Enviei detalhes do seu bairro por e-mail para ajudar na sua decisêo.”
 
 ---
 
@@ -391,11 +391,11 @@ Após a confirmação do agendamento:
 * Cada lead gera uma **linha única** na planilha do Google Sheets:
 
   * Telefone
-  * Data da ligação
+  * Data da ligaçêo
   * Status do voicemail
-  * Agendamento (sim/não)
+  * Agendamento (sim/nêo)
   * Data e hora escolhidas
-  * Intenção (comprar/vender)
+  * Intençêo (comprar/vender)
   * CEP e urgência
 * Assim, o Sheets funciona como **CRM automático**, alimentado 100% pela
 
@@ -417,17 +417,17 @@ JavaScript simples, gerados com ajuda do ChatGPT   |
 
 ### Estratégia de desenvolvimento
 
-1. **Mapeamento do fluxo manual** de atendimento e das perdas de ligação.
-2. **Divisão por fases** (ringless, SMS, agendamento, enriquecimento).
-3. **Construção modular** no n8n — cada fase como um “bloco independente”.
+1. **Mapeamento do fluxo manual** de atendimento e das perdas de ligaçêo.
+2. **Divisêo por fases** (ringless, SMS, agendamento, enriquecimento).
+3. **Construçêo modular** no n8n — cada fase como um “bloco independente”.
 4. **Uso de ChatGPT** para gerar e depurar códigos nos Function Nodes.
 5. **Testes iterativos**: simular chamadas e respostas em tempo real.
-6. **Validação final** com cenários alternativos (resposta fora do horário, duplicação de número, etc.).
+6. **Validaçêo final** com cenários alternativos (resposta fora do horário, duplicaçêo de número, etc.).
 
 ### Filosofia técnica
 
-* Evitar IA onde não é necessária → fluxo 100% determinístico.
-* Garantir rastreabilidade → cada ação registrada no Google Sheets.
+* Evitar IA onde nêo é necessária → fluxo 100% determinístico.
+* Garantir rastreabilidade → cada açêo registrada no Google Sheets.
 * Criar algo **reutilizável e vendável**: basta trocar mensagens e APIs para adaptar o sistema a outro negócio.
 
 ---
@@ -435,7 +435,7 @@ JavaScript simples, gerados com ajuda do ChatGPT   |
 ## 4. RESULTADO E IMPACTO
 
 * Construído em **duas semanas** e premiado com **US$ 5.000**.
-* Mostrou que **automação no-code pode gerar resultados reais de negócio**, mesmo sem IA.
+* Mostrou que **automaçêo no-code pode gerar resultados reais de negócio**, mesmo sem IA.
 * Tornou-se um **template comercial**, que pode ser:
 
   * Vendido para corretores, clínicas, seguradoras, salões etc.
@@ -443,11 +443,11 @@ JavaScript simples, gerados com ajuda do ChatGPT   |
 
 ---
 
-## 5. CONCLUSÃO: VISÃO DE FUTURO
+## 5. CONCLUSêO: VISêO DE FUTURO
 
-A automação de Brett mostra uma tendência clara:
+A automaçêo de Brett mostra uma tendência clara:
 
-> O futuro da produtividade está em **micro-sistemas inteligentes** — fluxos de automação simples, rápidos e bem pensados, que resolvem um problema real antes de recorrer a IA complexa.
+> O futuro da produtividade está em **micro-sistemas inteligentes** — fluxos de automaçêo simples, rápidos e bem pensados, que resolvem um problema real antes de recorrer a IA complexa.
 
 ------------------------------
 
@@ -455,43 +455,43 @@ MENSAGEM 8
 Autor: INEMA
 Data: 2025-11-02T20:54:00+00:00
 Texto:
-Aqui está uma **abordagem completa** do projeto vencedor do hackathon, detalhando **a automação, o propósito estratégico e o processo de construção** — organizada em três blocos principais.
+Aqui está uma **abordagem completa** do projeto vencedor do hackathon, detalhando **a automaçêo, o propósito estratégico e o processo de construçêo** — organizada em três blocos principais.
 
 ---
 
-## 1. PROPÓSITO DA AUTOMAÇÃO
+## 1. PROPÓSITO DA AUTOMAÇêO
 
 O projeto nasceu de um problema real no funil de vendas:
 
-> “Mais de 60% das ligações comerciais são perdidas — e quem responde primeiro geralmente fecha a venda.”
+> “Mais de 60% das ligações comerciais sêo perdidas — e quem responde primeiro geralmente fecha a venda.”
 
 ### Objetivo principal
 
-Criar uma **automação de vendas que converta ligações perdidas em compromissos agendados automaticamente**, sem necessidade de intervenção humana.
+Criar uma **automaçêo de vendas que converta ligações perdidas em compromissos agendados automaticamente**, sem necessidade de intervençêo humana.
 
 ### Propósito estratégico
 
-* **Aumentar a taxa de conversão** respondendo imediatamente ao contato do cliente.
+* **Aumentar a taxa de conversêo** respondendo imediatamente ao contato do cliente.
 * **Eliminar gargalos de resposta humana** (vendedores ocupados, fora de horário, ou sobrecarregados).
 * **Padronizar a experiência do cliente**, garantindo mensagens simpáticas, rápidas e personalizadas.
-* **Economizar tempo e custo operacional** com uma solução no-code (sem depender de desenvolvedores).
+* **Economizar tempo e custo operacional** com uma soluçêo no-code (sem depender de desenvolvedores).
 
 ### Filosofia
 
 Brett adotou o princípio:
 
-> “Automação primeiro, IA depois.”
+> “Automaçêo primeiro, IA depois.”
 > Ou seja, antes de tentar inserir inteligência artificial, ele buscou **resolver o problema com lógica determinística simples** — criando um sistema previsível, rápido e robusto.
 
 ---
 
-## 2. COMO A AUTOMAÇÃO FUNCIONA
+## 2. COMO A AUTOMAÇêO FUNCIONA
 
-A solução foi construída no **n8n**, integrando **Twilio (ligações e SMS)**, **Calendly (agendamento)** e **Google Sheets (banco de dados tipo CRM)**.
+A soluçêo foi construída no **n8n**, integrando **Twilio (ligações e SMS)**, **Calendly (agendamento)** e **Google Sheets (banco de dados tipo CRM)**.
 
 ### Etapas principais do fluxo
 
-#### Fase 0 – Entrada da ligação
+#### Fase 0 – Entrada da ligaçêo
 
 * Um número virtual do **Twilio** recebe a chamada.
 * Caso ninguém atenda, o sistema dispara:
@@ -503,22 +503,22 @@ A solução foi construída no **n8n**, integrando **Twilio (ligações e SMS)**
 
 * Um webhook no n8n é acionado quando o usuário:
 
-  * Pressiona uma opção (“1” ou “2”) no telefone, ou
-  * Deixa a ligação cair.
+  * Pressiona uma opçêo (“1” ou “2”) no telefone, ou
+  * Deixa a ligaçêo cair.
 * O sistema envia **mensagens automáticas via SMS**, escritas com técnicas de copywriting para parecerem humanas e acolhedoras.
 
 #### Fase 2 – Agendamento automático
 
-* A automação faz um **HTTP POST** para a API do **Calendly**.
+* A automaçêo faz um **HTTP POST** para a API do **Calendly**.
 * Extrai os **dois horários mais próximos disponíveis** e envia ao cliente por mensagem:
 
-  * “Temos duas vagas: amanhã às 10h ou 14h. Qual funciona pra você?”
+  * “Temos duas vagas: amanhê às 10h ou 14h. Qual funciona pra você?”
 * Quando o cliente responde, o sistema:
 
   * **Atualiza a planilha** (com status e horário escolhido);
-  * **Confirma a reserva** e envia mensagem de confirmação.
+  * **Confirma a reserva** e envia mensagem de confirmaçêo.
 
-#### Fase 3 – Enriquecimento e qualificação
+#### Fase 3 – Enriquecimento e qualificaçêo
 
 Após o agendamento:
 
@@ -533,7 +533,7 @@ Após o agendamento:
 
 Ao final:
 
-* O sistema gera um **resumo da interação** (agendamento, endereço, intenção etc.).
+* O sistema gera um **resumo da interaçêo** (agendamento, endereço, intençêo etc.).
 * Envia um **e-mail personalizado** com links do **Zillow e Redfin**, mostrando imóveis similares — um toque “surpresa” que demonstra proatividade e aumenta a confiança do cliente.
 
 #### Fase 5 – Mensagem de fallback
@@ -549,10 +549,10 @@ Se o cliente responde fora do horário:
 
 ### Ferramentas usadas
 
-| Função             | Ferramenta                | Descrição                                                     |
+| Funçêo             | Ferramenta                | Descriçêo                                                     |
 | ------------------ | ------------------------- | ------------------------------------------------------------- |
-| Automação central  | **n8n**                   | Criação do fluxo completo e orquestração de etapas            |
-| Comunicação        | **Twilio**                | Recebimento de chamadas, envio de SMS e gravação de voicemail |
+| Automaçêo central  | **n8n**                   | Criaçêo do fluxo completo e orquestraçêo de etapas            |
+| Comunicaçêo        | **Twilio**                | Recebimento de chamadas, envio de SMS e gravaçêo de voicemail |
 | Agendamento        | **Calendly**              | Consulta e reserva de horários via API                        |
 | Armazenamento      | **Google Sheets**         | Banco de dados leve atuando como CRM                          |
 | Códigos auxiliares | **Function Nodes no n8n** | Scripts em
@@ -587,19 +587,19 @@ Resumo completo do vídeo “This n8n Sales Automation Won $5,000 in Just 14 day
 
 ### 1. Contexto e Premissa
 
-O vídeo apresenta **Brett**, vencedor de um hackathon do n8n que ganhou **US$ 5.000** com um sistema de automação de vendas criado em apenas **14 dias**.
-Embora **não seja programador**, Brett é **copywriter e especialista em marketing e otimização de conversões (CRO)** — o que influenciou fortemente o foco do projeto: **converter ligações e leads perdidos em vendas reais.**
+O vídeo apresenta **Brett**, vencedor de um hackathon do n8n que ganhou **US$ 5.000** com um sistema de automaçêo de vendas criado em apenas **14 dias**.
+Embora **nêo seja programador**, Brett é **copywriter e especialista em marketing e otimizaçêo de conversões (CRO)** — o que influenciou fortemente o foco do projeto: **converter ligações e leads perdidos em vendas reais.**
 
 ---
 
 ### 2. Problema que o sistema resolve
 
-* **62% das ligações comerciais são perdidas**, e quem responde primeiro normalmente fecha o negócio.
-* Brett criou uma solução para **nunca perder uma ligação**, automatizando:
+* **62% das ligações comerciais sêo perdidas**, e quem responde primeiro normalmente fecha o negócio.
+* Brett criou uma soluçêo para **nunca perder uma ligaçêo**, automatizando:
 
-  * **resposta imediata via SMS** quando a ligação é perdida;
+  * **resposta imediata via SMS** quando a ligaçêo é perdida;
   * **agendamento automático** de horários disponíveis;
-  * **seguimento e qualificação de leads** via mensagens interativas.
+  * **seguimento e qualificaçêo de leads** via mensagens interativas.
 
 ---
 
@@ -611,7 +611,7 @@ Embora **não seja programador**, Brett é **copywriter e especialista em market
 * Quando alguém liga:
 
   * O sistema grava data/hora e o número em uma planilha **Google Sheets**.
-  * Verifica se já recebeu mensagem anterior (evita duplicação).
+  * Verifica se já recebeu mensagem anterior (evita duplicaçêo).
   * Envia um **voicemail automático** (mensagem de voz sem toque).
 
 #### Fase 1 – Envio de SMS
@@ -622,9 +622,9 @@ Embora **não seja programador**, Brett é **copywriter e especialista em market
   * Um link com **dois horários disponíveis** puxados via **API do Calendly**;
   * Atualiza a planilha com as opções enviadas.
 
-#### Fase 2 – Interação e agendamento
+#### Fase 2 – Interaçêo e agendamento
 
-* O lead escolhe uma opção (“1”, “2” ou “outro”).
+* O lead escolhe uma opçêo (“1”, “2” ou “outro”).
 * Se “outro”, o sistema busca novos horários.
 * Quando o agendamento é confirmado, um **webhook** é disparado:
 
@@ -634,11 +634,11 @@ Embora **não seja programador**, Brett é **copywriter e especialista em market
 #### Fase 3 – Enriquecimento do lead
 
 * O sistema pergunta se o cliente quer **comprar ou vender**, **endereço/CEP**, e **nível de interesse**.
-* As respostas são armazenadas na planilha.
+* As respostas sêo armazenadas na planilha.
 * Após coletar os dados:
 
-  * Gera um **resumo automático** da interação;
-  * Envia um **e-mail personalizado** com **comparativos de imóveis no Zillow/Redfin**, mostrando atenção e valor extra.
+  * Gera um **resumo automático** da interaçêo;
+  * Envia um **e-mail personalizado** com **comparativos de imóveis no Zillow/Redfin**, mostrando atençêo e valor extra.
 
 ---
 
@@ -654,7 +654,7 @@ Embora **não seja programador**, Brett é **copywriter e especialista em market
 
 ---
 
-### 5. Estratégia de implementação e aprendizado
+### 5. Estratégia de implementaçêo e aprendizado
 
 * Brett usou **ChatGPT** para gerar e depurar códigos nos **Function Nodes** do n8n.
 * Copiava blocos de código de templates, explicava o que queria e ajustava com ajuda do modelo.
@@ -671,28 +671,28 @@ Embora **não seja programador**, Brett é **copywriter e especialista em market
   * Seguradoras
   * Clínicas
   * Qualquer negócio que dependa de ligações rápidas.
-* Demonstra como um profissional **sem conhecimento técnico profundo** pode criar uma **solução comercial funcional e lucrativa** com ferramentas no-code.
+* Demonstra como um profissional **sem conhecimento técnico profundo** pode criar uma **soluçêo comercial funcional e lucrativa** com ferramentas no-code.
 
 ---
 
 ### 7. Frase de venda (pitch final)
 
-> “Imagine nunca mais perder uma ligação.
+> “Imagine nunca mais perder uma ligaçêo.
 > Este sistema converte chamadas perdidas em agendamentos automáticos, preenchendo sua agenda sem esforço.”
 
 ---
 
-### 8. Conclusão e lições
+### 8. Conclusêo e lições
 
-* Simplicidade e clareza vencem complexidade: a automação **não precisa de IA** para gerar impacto.
+* Simplicidade e clareza vencem complexidade: a automaçêo **nêo precisa de IA** para gerar impacto.
 * O projeto serve como **modelo de produto** vendável e escalável.
-* Mostra o poder de combinar **automação (n8n) + marketing inteligente + boas práticas de UX conversacional.**
+* Mostra o poder de combinar **automaçêo (n8n) + marketing inteligente + boas práticas de UX conversacional.**
 
 ---
 
-### Exemplos de aplicação prática
+### Exemplos de aplicaçêo prática
 
-1. **Clínica médica:** ligação perdida → SMS → agendamento automático via Calendly → lembrete.
+1. **Clínica médica:** ligaçêo perdida → SMS → agendamento automático via Calendly → lembrete.
 2. **Imobiliária:** interessado em imóvel → conversa por SMS → coleta CEP → envio automático de comparativos de imóveis.
 3. **Pet shop:** cliente liga fora do horário → mensagem
 

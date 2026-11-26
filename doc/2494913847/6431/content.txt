@@ -21,17 +21,17 @@ MENSAGEM 2
 Autor: INEMA
 Data: 2025-04-26T03:26:12+00:00
 Texto:
-**e14. RAG Semântico: Precisão no Nível Máximo**
+**e14. RAG Semântico: Precisêo no Nível Máximo**
 
-Aprendemos a construir um RAG Semântico, uma forma avançada de armazenar informações em uma base vetorizada com metadados enriquecidos, que aumentam a precisão na recuperação de dados e respostas contextuais. É feita uma comparação com o RAG tradicional e explicado por que a abordagem semântica é muito mais poderosa.
+Aprendemos a construir um RAG Semântico, uma forma avançada de armazenar informações em uma base vetorizada com metadados enriquecidos, que aumentam a precisêo na recuperaçêo de dados e respostas contextuais. É feita uma comparaçêo com o RAG tradicional e explicado por que a abordagem semântica é muito mais poderosa.
 
-**🧩 Estrutura da Automação**
+**🧩 Estrutura da Automaçêo**
 
 **1. RAG Tradicional**  
 - Extraímos texto de um PDF.  
-- Dividimos o conteúdo em blocos (chunks) de 1000 caracteres com sobreposição de 100.  
+- Dividimos o conteúdo em blocos (chunks) de 1000 caracteres com sobreposiçêo de 100.  
 - Armazenamos apenas o conteúdo e um metadado mínimo: o ID do arquivo.  
-- **Problemas**: pouca estruturação, sem seções ou subseções, menor contexto.
+- **Problemas**: pouca estruturaçêo, sem seções ou subseções, menor contexto.
 
 **2. RAG Semântico**  
 - Usamos o GPT-4.1 da OpenAI para analisar o texto completo do documento.  
@@ -44,31 +44,31 @@ Aprendemos a construir um RAG Semântico, uma forma avançada de armazenar infor
 
 **🛠️ Processo Técnico Passo a Passo**
 
-1. **Extração do Texto**  
+1. **Extraçêo do Texto**  
    - O PDF é baixado e seu texto é extraído por completo.  
 
 2. **Resumo Hierárquico**  
    - O texto é enviado à OpenAI para gerar a estrutura hierárquica (título, seções, subseções).  
 
-3. **Fragmentação Semântica**  
-   - Usamos código para cortar o texto com base em sentido completo, e não por tamanho fixo.  
+3. **Fragmentaçêo Semântica**  
+   - Usamos código para cortar o texto com base em sentido completo, e nêo por tamanho fixo.  
 
-4. **Associação de Blocos com Seções**  
-   - Cada bloco é associado a uma seção e subseção específicas via análise da OpenAI.  
+4. **Associaçêo de Blocos com Seções**  
+   - Cada bloco é associado a uma seçêo e subseçêo específicas via análise da OpenAI.  
 
 5. **Limpeza de Dados**  
-   - Caracteres especiais ou problemáticos são removidos antes do carregamento.  
+   - Caracteres especiais ou problemáticos sêo removidos antes do carregamento.  
 
-6. **Geração de Embeddings**  
+6. **Geraçêo de Embeddings**  
    - Cada bloco é transformado em vetor com a API de embeddings da OpenAI (modelo `text-embedding-3-small`).  
 
 7. **Carga no Supabase**  
-   - Os dados são enviados ao Supabase: conteúdo, metadados (título, seção, subseção, nome do arquivo, ID) e embeddings.
+   - Os dados sêo enviados ao Supabase: conteúdo, metadados (título, seçêo, subseçêo, nome do arquivo, ID) e embeddings.
 
 **📊 Vantagens do RAG Semântico**
 
-- Muito mais precisão na recuperação da informação.  
-- Cada bloco possui seu contexto: seção, subseção e título.  
+- Muito mais precisêo na recuperaçêo da informaçêo.  
+- Cada bloco possui seu contexto: seçêo, subseçêo e título.  
 - Ideal para temas complexos ou documentos extensos com múltiplos tópicos.  
 - Os embeddings permitem buscas semânticas avançadas e respostas mais bem contextualizadas.
 
@@ -76,11 +76,11 @@ Aprendemos a construir um RAG Semântico, uma forma avançada de armazenar infor
 
 - Mais lento para carregar comparado ao RAG tradicional.  
 - Montagem mais complexa (exige código).  
-- Não é necessário se a precisão contextual não for crítica.
+- Nêo é necessário se a precisêo contextual nêo for crítica.
 
-**✅ Conclusão**
+**✅ Conclusêo**
 
-O RAG Semântico oferece uma forma ultra precisa de armazenar e recuperar informações com contexto estruturado. Apesar do processo ser mais lento, o resultado final é muito mais útil e confiável e recomenda usar este método em todos os novos sistemas de recuperação de informação.
+O RAG Semântico oferece uma forma ultra precisa de armazenar e recuperar informações com contexto estruturado. Apesar do processo ser mais lento, o resultado final é muito mais útil e confiável e recomenda usar este método em todos os novos sistemas de recuperaçêo de informaçêo.
 
 **📌 O que vem a seguir**
 

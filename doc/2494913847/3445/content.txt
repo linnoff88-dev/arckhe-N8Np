@@ -40,7 +40,7 @@ Data: 2025-03-18T03:20:19+00:00
 Texto:
 **gente de SMS - Solicitando Ajuda Humana**
 
-Atualização super rápida hoje. O cliente queria que integrássemos uma ferramenta para pedir ajuda humana quando o agente não soubesse a resposta. Super simples, mas boa lógica para entender para fluxos de trabalho futuros.
+Atualizaçêo super rápida hoje. O cliente queria que integrássemos uma ferramenta para pedir ajuda humana quando o agente nêo soubesse a resposta. Super simples, mas boa lógica para entender para fluxos de trabalho futuros.
 
 ------------------------------
 

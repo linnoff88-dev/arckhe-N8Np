@@ -34,7 +34,7 @@ Texto:
 💰 **Melhor custo-benefício** → **Railway ($5 grátis)**
 ⚡️ **Mais rápido** → **Docker local**
 🌍 **Melhor para projetos sérios** → **Hostinger VPS**
-🔒 **Maior controle e personalização** → **Digital Ocean**
+🔒 **Maior controle e personalizaçêo** → **Digital Ocean**
 📦 **Mais fácil de implantar** → **Heroku (Deploy com 1 clique)**
  🚀
 
@@ -271,7 +271,7 @@ MENSAGEM 20
 Autor: Luís Felipe
 Data: 2025-06-14T18:30:55+00:00
 Texto:
-Sou novo na comunidade, não tenho conhecimento nem um em automações e estou vendo vcs falando vps no N8N e tals não tô entendendo alguém pode me ajudar a entender isso? Desde já obrigado!
+Sou novo na comunidade, nêo tenho conhecimento nem um em automações e estou vendo vcs falando vps no N8N e tals nêo tô entendendo alguém pode me ajudar a entender isso? Desde já obrigado!
 
 ------------------------------
 
@@ -354,7 +354,7 @@ Texto:
 **Resumo dos melhores "hacks"**
 🔥 **Melhor para iniciantes** → **Render**💰 **Melhor custo-benefício** → **Railway ($5 grátis)**
 ⚡ **Mais rápido** → **Docker local**🌍 **Melhor para projetos sérios** → **Hostinger VPS**
-🔒 **Maior controle e personalização** → **Digital Ocean**📦 **Mais fácil de implantar** → **Heroku (Deploy com 1 clique)**
+🔒 **Maior controle e personalizaçêo** → **Digital Ocean**📦 **Mais fácil de implantar** → **Heroku (Deploy com 1 clique)**
  🚀
 
 ------------------------------
@@ -371,7 +371,7 @@ MENSAGEM 31
 Autor: INEMA
 Data: 2025-02-20T08:43:28+00:00
 Texto:
-**Conclusão**
+**Conclusêo**
 **Mais fácil**: Render (para quem quer rapidez).
 **Mais personalizável**: Railway e Digital Ocean.
 **Mais barato**: Hospedagem local com Docker.
@@ -392,8 +392,8 @@ MENSAGEM 33
 Autor: Wellington
 Data: 2025-02-18T14:12:49+00:00
 Texto:
-Pessoal, estou com um cliente que desenvolvou um robo pra trade no metatrade, só que ele quer colocar uma validação para usar somente em um pc , para que não seja possivel outra pessoa que conseguiu o arquivo poder usá-lo. Tipo quem comprear precisa de uma senha gerada para que seja usada somente no pc dele. 
-Algúem tem essa informação?
+Pessoal, estou com um cliente que desenvolvou um robo pra trade no metatrade, só que ele quer colocar uma validaçêo para usar somente em um pc , para que nêo seja possivel outra pessoa que conseguiu o arquivo poder usá-lo. Tipo quem comprear precisa de uma senha gerada para que seja usada somente no pc dele. 
+Algúem tem essa informaçêo?
 
 ------------------------------
 
@@ -401,7 +401,7 @@ MENSAGEM 34
 Autor: Camila -
 Data: 2025-02-05T15:47:07+00:00
 Texto:
-Pessoal, quando tento instalar o porteiner e o tarefik ao final do processo recebo essa mensagem no termius: Ops não foi possivel iniciar o swarm
+Pessoal, quando tento instalar o porteiner e o tarefik ao final do processo recebo essa mensagem no termius: Ops nêo foi possivel iniciar o swarm
 
 Alguém sabe o que pode ser?
 

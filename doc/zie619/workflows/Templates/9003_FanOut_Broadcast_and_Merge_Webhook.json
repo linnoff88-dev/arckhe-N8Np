@@ -24,7 +24,7 @@
         "color": 7,
         "width": 740,
         "height": 360,
-        "content": "## Template: Fan-out/merge para broadcast multi-canal\n\n- Objetivo: Disparar em paralelo para múltiplos canais e consolidar.\n- Teste rápido:\n```bash\ncurl -X POST http://<SEU_N8N>/webhook/template/broadcast \\\n -H 'Content-Type: application/json' \\\n -d '{\\\"message\\\":\\\"Hello world\\\"}'\n```\n- Produção: troque 'Broadcast A/B' por Slack/Discord/Telegram (HTTP/API)."
+        "content": "## Template: Fan-out/merge para broadcast multi-canal\n\n- Objetivo: Disparar em paralelo para múltiplos canais e consolidar.\n- Teste rápido:\n```bash\ncurl -X POST http://<SEU_N8N>/webhook/template/broadcast \\\n -H 'Content-Type: application/json' \\\n -d '{\\\"message\\\":\\\"Hello world\\\"}'\n```\n- Produçêo: troque 'Broadcast A/B' por Slack/Discord/Telegram (HTTP/API)."
       },
       "typeVersion": 1
     },

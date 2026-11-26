@@ -13,11 +13,11 @@ MENSAGEM 1
 Autor: INEMA
 Data: 2025-06-13T18:36:19+00:00
 Texto:
-No contexto do [**Lovable.dev**](https://lovable.dev/), quando falamos em **arquivo anexo**, geralmente nos referimos a um **arquivo que é enviado como parte de uma interação com um agente de IA**, especialmente em fluxos de automação ou análise de conteúdo.
+No contexto do [**Lovable.dev**](https://lovable.dev/), quando falamos em **arquivo anexo**, geralmente nos referimos a um **arquivo que é enviado como parte de uma interaçêo com um agente de IA**, especialmente em fluxos de automaçêo ou análise de conteúdo.
 
 ### O que é o "arquivo anexo" no Lovable:
 
-É **um arquivo que o usuário envia** para o sistema (por upload ou link) e que será **processado por um agente de IA dentro do Lovable**. Esse arquivo pode ser de vários tipos, dependendo do objetivo da automação.
+É **um arquivo que o usuário envia** para o sistema (por upload ou link) e que será **processado por um agente de IA dentro do Lovable**. Esse arquivo pode ser de vários tipos, dependendo do objetivo da automaçêo.
 
 ---
 
@@ -29,11 +29,11 @@ No contexto do [**Lovable.dev**](https://lovable.dev/), quando falamos em **arqu
 
 2. **Imagens ou vídeos**
 
-   * Utilizados para tarefas de **reconhecimento de padrões, descrição, transcrição de texto, ou geração de insights visuais**.
+   * Utilizados para tarefas de **reconhecimento de padrões, descriçêo, transcriçêo de texto, ou geraçêo de insights visuais**.
 
 3. **Áudios**
 
-   * Convertidos para texto por meio de **transcrição automática**, para posterior análise de conteúdo ou sentimento.
+   * Convertidos para texto por meio de **transcriçêo automática**, para posterior análise de conteúdo ou sentimento.
 
 4. **JSON ou arquivos estruturados**
 
@@ -55,7 +55,7 @@ MENSAGEM 2
 Autor: INEMA
 Data: 2025-06-13T18:36:13+00:00
 Texto:
-A automação apresentada é um **agente de inteligência artificial com memória persistente**, criado para **lembrar de tudo que foi conversado com o usuário** ao longo do tempo. Diferente de sistemas tradicionais que perdem o contexto, esse agente **salva automaticamente cada interação** em um banco de dados (Airtable) e pode usá-las em conversas futuras.
+A automaçêo apresentada é um **agente de inteligência artificial com memória persistente**, criado para **lembrar de tudo que foi conversado com o usuário** ao longo do tempo. Diferente de sistemas tradicionais que perdem o contexto, esse agente **salva automaticamente cada interaçêo** em um banco de dados (Airtable) e pode usá-las em conversas futuras.
 
 ### Como funciona:
 
@@ -67,9 +67,9 @@ A automação apresentada é um **agente de inteligência artificial com memóri
    * Criar novas memórias.
 3. **Cada conversa é registrada automaticamente** com data no Airtable.
 4. Em novas interações, ele pode **referenciar essas memórias anteriores** para oferecer respostas mais personalizadas e contextuais.
-5. A configuração envolve um **webhook** que conecta o chat à automação no Airtable.
+5. A configuraçêo envolve um **webhook** que conecta o chat à automaçêo no Airtable.
 
-É uma solução prática para criar um assistente virtual que **evolui com base no histórico** do usuário.
+É uma soluçêo prática para criar um assistente virtual que **evolui com base no histórico** do usuário.
 
 ------------------------------
 

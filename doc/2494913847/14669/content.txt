@@ -17,7 +17,7 @@ Texto:
 
 ### 1. Qualificar antes do review
 
-* Pergunta rápida (nota 1–5) antes de pedir avaliação.
+* Pergunta rápida (nota 1–5) antes de pedir avaliaçêo.
 * Só pedir review se nota ≥ 4.
   Exemplo: “De 1 a 5, como foi seu atendimento hoje?”
 
@@ -41,27 +41,27 @@ Texto:
 ### 4. Multi-canal progressivo
 
 * Ordem de envio: WhatsApp → SMS → Email.
-* Se não responder no 1º, tenta o próximo.
+* Se nêo responder no 1º, tenta o próximo.
 
 ---
 
 ### 5. Incentivo leve
 
 * Pequeno benefício, sem ferir políticas.
-  Exemplo: “Deixe sua avaliação e ganhe 5% de desconto na próxima visita.”
+  Exemplo: “Deixe sua avaliaçêo e ganhe 5% de desconto na próxima visita.”
 
 ---
 
-### 6. Personalização pelo contexto
+### 6. Personalizaçêo pelo contexto
 
 * Use nome do atendente, procedimento ou detalhe da consulta.
-  Exemplo: “João, esperamos que o clareamento com a Dra. Ana tenha ficado perfeito!”
+  Exemplo: “Joêo, esperamos que o clareamento com a Dra. Ana tenha ficado perfeito!”
 
 ---
 
 ### 7. Negativos → IA + humano
 
-* IA faz resposta de contenção → abre ticket para humano.
+* IA faz resposta de contençêo → abre ticket para humano.
   Exemplo: “Sentimos muito pela sua experiência. Pode nos ligar em (xx) xxxx-xxxx para resolvermos?”
 
 ---
@@ -87,7 +87,7 @@ Texto:
 ### 10. Respeito ao opt-out (DNC)
 
 * Sempre permitir descadastro simples.
-  Exemplo: “Responda PARAR para não receber mais mensagens.”
+  Exemplo: “Responda PARAR para nêo receber mais mensagens.”
 
 ---
 
@@ -100,14 +100,14 @@ Texto:
 
 ### 12. Upsell inteligente
 
-* Só após avaliação positiva.
-  Exemplo: “Obrigado pela review! Quer 10% de desconto na manutenção?”
+* Só após avaliaçêo positiva.
+  Exemplo: “Obrigado pela review! Quer 10% de desconto na manutençêo?”
 
 ---
 
 ### 13. Logs e auditoria
 
-* Salvar prompt + resposta gerada + ação do cliente.
+* Salvar prompt + resposta gerada + açêo do cliente.
 * Útil para ajustes de copy.
 
 ---
@@ -121,21 +121,21 @@ Texto:
 
 ---
 
-### 15. Auto-resposta com validação humana
+### 15. Auto-resposta com validaçêo humana
 
 * 5 estrelas → responde automático.
-* 3 estrelas → gera rascunho para aprovação.
+* 3 estrelas → gera rascunho para aprovaçêo.
 
 ---
 
-## Resumão em Lista
+## Resumêo em Lista
 
 1. Qualifique antes do review
 2. Limpe números de telefone
 3. Use SEO local nos reviews
 4. Multi-canal progressivo
 5. Incentivo leve
-6. Personalização pelo contexto
+6. Personalizaçêo pelo contexto
 7. Negativos → IA + humano
 8. Teste A/B constante
 9. Micro-templates prontos
@@ -170,9 +170,9 @@ Esse sistema já foi vendido a mais de 90 clientes a cerca de US$ 297–300/mês
 
    * Cliente agenda pelo link (ex: Calendly).
    * Sistema coleta informações: nome, e-mail, telefone, preferências.
-   * Dados vão para CRM (GoHighLevel) e Airtable.
+   * Dados vêo para CRM (GoHighLevel) e Airtable.
 
-2. **Confirmação e Check-in**
+2. **Confirmaçêo e Check-in**
 
    * Envia SMS e WhatsApp automáticos confirmando o agendamento.
    * No local, a equipe marca “compromisso concluído” → isso dispara o fluxo de mensagens.
@@ -180,30 +180,30 @@ Esse sistema já foi vendido a mais de 90 clientes a cerca de US$ 297–300/mês
 3. **Mensagens Automáticas de Acompanhamento**
 
    * Pergunta sobre a experiência (ex: “Como foi seu atendimento hoje?”).
-   * Se positivo → solicita avaliação no Google.
+   * Se positivo → solicita avaliaçêo no Google.
    * Se negativo → coleta feedback estruturado para melhorias.
 
 4. **Agente de Avaliações**
 
-   * Cria respostas automáticas personalizadas para cada avaliação.
+   * Cria respostas automáticas personalizadas para cada avaliaçêo.
    * Usa histórico de conversas, e-mails e banco de dados vetorial (contexto da empresa).
    * Pode redigir textos no mesmo tom de voz do cliente e incluir emojis.
-   * Se não souber responder, aciona um humano (human-in-the-loop).
+   * Se nêo souber responder, aciona um humano (human-in-the-loop).
 
 5. **Controle e Inteligência**
 
    * Campo de “Do Not Contact” para descadastrar contatos.
    * Limpeza automática de números de telefone para funcionar em SMS/WhatsApp.
-   * Criação de notas de IA com resumo de interações.
+   * Criaçêo de notas de IA com resumo de interações.
 
 ---
 
 ## Recursos Adicionais
 
-* Integração com GoHighLevel, Airtable, n8n e WhatsApp Business.
+* Integraçêo com GoHighLevel, Airtable, n8n e WhatsApp Business.
 * Possibilidade de upsell automático após o agendamento (ex: descontos, pacotes extras).
-* Redirecionamento para páginas de vendas após marcação.
-* Logs detalhados em planilhas com avaliação, estrelas e resposta sugerida.
+* Redirecionamento para páginas de vendas após marcaçêo.
+* Logs detalhados em planilhas com avaliaçêo, estrelas e resposta sugerida.
 
 ---
 
@@ -211,8 +211,8 @@ Esse sistema já foi vendido a mais de 90 clientes a cerca de US$ 297–300/mês
 
 * Economia de tempo (automatiza agendamentos, follow-ups e respostas).
 * Mais avaliações positivas → melhora SEO e conversões.
-* Geração de receita recorrente (modelo SaaS a $297/mês por cliente).
-* Aumento de agendamentos e retenção de clientes.
+* Geraçêo de receita recorrente (modelo SaaS a $297/mês por cliente).
+* Aumento de agendamentos e retençêo de clientes.
 
 ------------------------------
 
@@ -283,7 +283,7 @@ Retorno sobre Investimento (ROI):
 💸 Aumenta agendamentos (agente reagenda para você)
 
 Recursos:
-📆 Sistema de agendamento fácil (com hacks de conversão)
+📆 Sistema de agendamento fácil (com hacks de conversêo)
 👋 Acompanhamento pós-consulta (SMS + WhatsApp)
 ⭐️ Agente captura feedback e envia avaliações se o sentimento for positivo
 💸 Faz upsell, atualiza o CRM e pode acionar um humano no processo

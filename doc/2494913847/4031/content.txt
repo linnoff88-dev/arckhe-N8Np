@@ -29,20 +29,20 @@ MENSAGEM 3
 Autor: INEMA
 Data: 2025-03-27T08:22:57+00:00
 Texto:
-O erro **"Client authentication failed"** que você está enfrentando **não tem relação com a Google Docs API em si**, e **nem com a ativação da API no console**.
+O erro **"Client authentication failed"** que você está enfrentando **nêo tem relaçêo com a Google Docs API em si**, e **nem com a ativaçêo da API no console**.
 
-O problema está na **configuração do Google OAuth 2.0**,  (autenticação do cliente) — **não na API**.
+O problema está na **configuraçêo do Google OAuth 2.0**,  (autenticaçêo do cliente) — **nêo na API**.
 
 ### Em resumo:
-> **O erro é do sistema de autenticação (OAuth), não da API do Google Docs.**
+> **O erro é do sistema de autenticaçêo (OAuth), nêo da API do Google Docs.**
 
 ---
 
 ### O que está dando erro:
 - `client_id` ou `client_secret` inválidos
 - Redirecionamento (redirect_uri) incorreto ou ausente
-- Escopos não incluídos na autenticação
-- A credencial usada no n8n não foi aceita pelo sistema de autenticação do Google
+- Escopos nêo incluídos na autenticaçêo
+- A credencial usada no n8n nêo foi aceita pelo sistema de autenticaçêo do Google
 
 ------------------------------
 
@@ -140,7 +140,7 @@ Texto:
 O fluxo de trabalho começa ao receber mensagens no Telegram através de um webhook. Isso significa que, sempre que alguém envia uma mensagem ao seu bot, o processo é iniciado.
 
 **Valida o usuário:**  
-Verifica se o nome, sobrenome e ID do remetente da mensagem correspondem aos valores esperados. Caso contrário, envia uma mensagem de erro informando que não pode processar a mensagem.
+Verifica se o nome, sobrenome e ID do remetente da mensagem correspondem aos valores esperados. Caso contrário, envia uma mensagem de erro informando que nêo pode processar a mensagem.
 
 **Encaminha a mensagem por tipo:**  
 Dependendo se a mensagem contém texto, áudio ou imagem, ela é direcionada para o caminho de processamento correto. Por exemplo, se for uma mensagem de texto, segue para o caminho de processamento de texto.
@@ -152,10 +152,10 @@ Quando uma mensagem de texto é recebida, o agente de IA assume. Ele utiliza ins
 Para tornar a conversa mais pessoal, o fluxo de trabalho recupera memórias passadas armazenadas em um Google Doc e as mescla com o contexto atual. Também utiliza uma memória de curto prazo para acompanhar os detalhes recentes da conversa.
 
 **Envia a resposta da IA de volta:**  
-Assim que o agente de IA formula a resposta, ela é enviada de volta ao usuário no Telegram, criando uma sensação de continuidade e reconhecimento das interações anteriores.
+Assim que o agente de IA formula a resposta, ela é enviada de volta ao usuário no Telegram, criando uma sensaçêo de continuidade e reconhecimento das interações anteriores.
 
 **Salva novas memórias:**  
-Informações importantes da conversa são armazenadas na memória de longo prazo (novamente usando Google Docs), garantindo que o bot possa lembrar de dados relevantes em interações futuras.
+Informações importantes da conversa sêo armazenadas na memória de longo prazo (novamente usando Google Docs), garantindo que o bot possa lembrar de dados relevantes em interações futuras.
 
 ---
 

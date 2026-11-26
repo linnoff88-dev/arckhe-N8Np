@@ -44,7 +44,7 @@ Aqui está o **passo a passo direto** para criar o bot de tarefas com n8n, Teleg
 
 #### 3.1 Criar nó `IF`
 
-* Condição: se a mensagem contém `voice` (áudio).
+* Condiçêo: se a mensagem contém `voice` (áudio).
 
 #### 3.2 Caminho do áudio:
 
@@ -60,8 +60,8 @@ Aqui está o **passo a passo direto** para criar o bot de tarefas com n8n, Teleg
 ### 4. Unificar dados
 
 * Adicione dois nós `Set`.
-* Renomeie o campo para `agentInput` tanto para texto quanto transcrição.
-* Resultado: campo padrão para ambos os caminhos.
+* Renomeie o campo para `agentInput` tanto para texto quanto transcriçêo.
+* Resultado: campo padrêo para ambos os caminhos.
 
 ---
 
@@ -71,14 +71,14 @@ Aqui está o **passo a passo direto** para criar o bot de tarefas com n8n, Teleg
 
 * Modelo: GPT-4o mini (ou outro da OpenAI).
 * Memória: Window buffer.
-* Sessão: use o `chat_id` do Telegram como ID.
+* Sessêo: use o `chat_id` do Telegram como ID.
 * Prompt: instrua a IA a extrair:
 
   * `title`, `description`, `due_date`, `priority`.
 
 #### 5.2 Incluir variável de data
 
-* Use `{{now}}` no prompt para permitir frases como “amanhã”.
+* Use `{{now}}` no prompt para permitir frases como “amanhê”.
 
 ---
 
@@ -93,7 +93,7 @@ Aqui está o **passo a passo direto** para criar o bot de tarefas com n8n, Teleg
 
 #### 6.2 Adicionar nó Airtable
 
-* Operação: `Create Record`.
+* Operaçêo: `Create Record`.
 * Base e Tabela: selecione.
 * Mapear campos:
 
@@ -116,7 +116,7 @@ Aqui está o **passo a passo direto** para criar o bot de tarefas com n8n, Teleg
 
 * Teste com texto e áudio.
 * Ative o workflow.
-* Verifique se os dados estão indo corretamente para o Airtable e retornando no Telegram.
+* Verifique se os dados estêo indo corretamente para o Airtable e retornando no Telegram.
 
 ---
 Midia: MessageMediaWebPage
@@ -139,7 +139,7 @@ Texto:
 
 Vamos criar um bot no Telegram integrado ao n8n, capaz de:
 
-### Função principal:
+### Funçêo principal:
 
 * Receber mensagens de texto ou áudio via Telegram.
 * Extrair tarefas da mensagem (transcrita ou digitada).
@@ -149,12 +149,12 @@ Vamos criar um bot no Telegram integrado ao n8n, capaz de:
 
 ### Etapas do processo:
 
-1. **Criação do Bot no Telegram**
+1. **Criaçêo do Bot no Telegram**
 
    * Usar o BotFather para gerar o token de acesso.
    * Nomear o bot e copiar o token para usar no n8n.
 
-2. **Configuração do fluxo no n8n**
+2. **Configuraçêo do fluxo no n8n**
 
    * Criar gatilho com `Telegram Trigger` (evento: onMessage).
    * Capturar texto ou arquivo de voz.
@@ -165,45 +165,45 @@ Vamos criar um bot no Telegram integrado ao n8n, capaz de:
    * Fazer download do áudio.
    * Transcrever com o modelo Whisper da OpenAI.
 
-4. **Normalização do conteúdo**
+4. **Normalizaçêo do conteúdo**
 
    * Unificar o nome do campo de entrada (`agentInput`) vindo do texto ou do áudio.
-   * Garantir que o agente de IA receba um campo padrão, independente do formato de entrada.
+   * Garantir que o agente de IA receba um campo padrêo, independente do formato de entrada.
 
-5. **Criação do prompt para o agente IA**
+5. **Criaçêo do prompt para o agente IA**
 
    * Instruir a IA para:
 
-     * Extrair **título**, **descrição**, **data de entrega** e **prioridade**.
+     * Extrair **título**, **descriçêo**, **data de entrega** e **prioridade**.
      * Garantir compatibilidade com os campos do Airtable (mesmos nomes e valores válidos, como dropdowns).
-     * Usar a variável `{{now}}` para interpretar datas relativas como “amanhã”.
+     * Usar a variável `{{now}}` para interpretar datas relativas como “amanhê”.
 
-6. **Configuração do modelo de IA**
+6. **Configuraçêo do modelo de IA**
 
    * Usar modelo OpenAI (como GPT-4o mini).
-   * Sessão baseada no chat ID do Telegram.
+   * Sessêo baseada no chat ID do Telegram.
    * Definir memória e janela de contexto.
 
-7. **Integração com Airtable**
+7. **Integraçêo com Airtable**
 
    * Criar token pessoal com permissões de leitura e escrita.
-   * Mapear campos: título, descrição, data e prioridade.
+   * Mapear campos: título, descriçêo, data e prioridade.
    * Passar as respostas da IA para preencher os registros no Airtable.
 
 8. **Resposta ao usuário no Telegram**
 
-   * Enviar mensagem de confirmação com as tarefas detectadas e adicionadas.
+   * Enviar mensagem de confirmaçêo com as tarefas detectadas e adicionadas.
 
 ---
 
-### Resultados da automação:
+### Resultados da automaçêo:
 
 * O áudio com tarefas foi processado, transcrito, e três tarefas foram adicionadas ao Airtable com sucesso.
 * As tarefas retornaram no Telegram com as datas e prioridades já organizadas.
 
 ---
 
-### Possibilidades de expansão:
+### Possibilidades de expansêo:
 
 * Ler tarefas existentes no Airtable e responder ao usuário.
 * Armazenar dados em bancos maiores.
@@ -211,7 +211,7 @@ Vamos criar um bot no Telegram integrado ao n8n, capaz de:
 
 ---
 
-### Conclusão:
+### Conclusêo:
 
 Esse projeto mostra como usar **n8n + Telegram + OpenAI + Airtable** para criar um **organizador pessoal por voz ou texto**, de forma simples e eficiente.
 

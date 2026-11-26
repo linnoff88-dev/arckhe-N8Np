@@ -30,22 +30,22 @@ MENSAGEM 3
 Autor: INEMA
 Data: 2025-04-28T05:48:09+00:00
 Texto:
-**Gerenciar tokens** nesse contexto significa **cuidar dos acessos automáticos** que a automação tem às redes sociais (Threads, X, LinkedIn).
+**Gerenciar tokens** nesse contexto significa **cuidar dos acessos automáticos** que a automaçêo tem às redes sociais (Threads, X, LinkedIn).
 
 Resumindo:
 
-- **Token** é uma chave digital de acesso que autoriza a automação a **publicar** ou **buscar dados** no seu nome, sem você precisar fazer login toda hora.
+- **Token** é uma chave digital de acesso que autoriza a automaçêo a **publicar** ou **buscar dados** no seu nome, sem você precisar fazer login toda hora.
 
 - Esses **tokens**:
   - **Expiram** depois de um tempo (ex: 2 meses no Threads).
-  - Precisam ser **renovados** antes de vencer, para não parar de funcionar.
+  - Precisam ser **renovados** antes de vencer, para nêo parar de funcionar.
 
 - **Gerenciar tokens** é:
-  1. **Obter** o token a primeira vez (fazendo login e autorização).
+  1. **Obter** o token a primeira vez (fazendo login e autorizaçêo).
   2. **Salvar** o token com segurança (normalmente num banco de dados).
   3. **Verificar** se o token está perto de expirar.
   4. **Atualizar** (refrescar) o token automaticamente antes que ele expire.
-  5. **Substituir** o token antigo pelo novo no sistema, sem precisar de ação manual.
+  5. **Substituir** o token antigo pelo novo no sistema, sem precisar de açêo manual.
 
 ---
 
@@ -55,7 +55,7 @@ Resumindo:
 - Esse token dura **60 dias**.
 - O sistema precisa **acompanhar** a validade dele.
 - Faltando, por exemplo, **7 dias para vencer**, o sistema automaticamente **pede um novo token** e **atualiza** no banco de dados.
-- Assim, sua automação continua funcionando **sem parar**.
+- Assim, sua automaçêo continua funcionando **sem parar**.
 
 ---
 
@@ -74,19 +74,19 @@ Autor: INEMA
 Data: 2025-04-28T05:47:34+00:00
 Texto:
 Resumo geral:
-Criar um **Agente de IA** que faz **pesquisa de conteúdo** e **publicação automática** no **LinkedIn**, **X (Twitter)** e **Threads**, usando **n8n** e **OpenAI**, **sem precisar programar**.
+Criar um **Agente de IA** que faz **pesquisa de conteúdo** e **publicaçêo automática** no **LinkedIn**, **X (Twitter)** e **Threads**, usando **n8n** e **OpenAI**, **sem precisar programar**.
 
-Divisão dos principais pontos:
+Divisêo dos principais pontos:
 
-1. **Demonstração inicial**:
-   - Antes da execução: nada estava postado nas redes.
+1. **Demonstraçêo inicial**:
+   - Antes da execuçêo: nada estava postado nas redes.
    - O agente de IA pesquisou tendências sobre o Google Gemini.
    - Depois:
      - Publicou automaticamente no LinkedIn.
      - Publicou um thread de 3 posts no Threads.
      - Publicou um thread de 2 posts no X (Twitter).
 
-2. **Conexão das contas**:
+2. **Conexêo das contas**:
    - **LinkedIn**: Fácil, conectando diretamente no n8n.
    - **Threads**: Mais complexo, precisa criar um app, configurar roles, aceitar convite e configurar permissões.
    - **X (Twitter)**: Precisa criar um projeto no Developer Portal, pegar `Client ID` e `Secret`, configurar permissões (leitura, escrita e mensagens diretas).
@@ -95,12 +95,12 @@ Divisão dos principais pontos:
    
    - **Gerenciamento de Tokens (especialmente Threads)**:
      - Obter primeiro token global.
-     - Trocar por um token de longa duração.
+     - Trocar por um token de longa duraçêo.
      - Salvar e atualizar tokens antes do vencimento.
 
    - **Postagem de Threads no X e Threads**:
      - Dividir conteúdo em partes pequenas (threads).
-     - Publicar cada thread em sequência, mantendo a relação entre os posts.
+     - Publicar cada thread em sequência, mantendo a relaçêo entre os posts.
 
    - **Agente de IA para redes sociais**:
      - Detectar mensagens recebidas no chat (pode ser Telegram, Slack, etc.).
@@ -116,7 +116,7 @@ Divisão dos principais pontos:
    - **Ferramenta de Web Scraping**: Para extrair conteúdo de sites automaticamente.
 
 5. **Observações**:
-   - **LinkedIn** é o mais simples porque não exige separação em threads.
+   - **LinkedIn** é o mais simples porque nêo exige separaçêo em threads.
    - **Tokens do Threads** precisam ser atualizados periodicamente (valem por 2 meses).
    - O agente toma decisões baseado no tipo de conteúdo e na rede escolhida.
 
@@ -148,8 +148,8 @@ Lista dos tópicos com exemplos e respostas:
 
 - **Quais dificuldades principais?**  
   Exemplo:  
-  - Configuração de permissões no Threads.  
-  - Atualização periódica dos tokens de acesso.
+  - Configuraçêo de permissões no Threads.  
+  - Atualizaçêo periódica dos tokens de acesso.
 
 ------------------------------
 
@@ -157,9 +157,9 @@ MENSAGEM 6
 Autor: INEMA
 Data: 2025-04-28T05:45:56+00:00
 Texto:
-Construa um Agente de IA para Pesquisa de Conteúdo + Publicação Automática no LinkedIn, X (Twitter) e Threads (Sem Código)  
+Construa um Agente de IA para Pesquisa de Conteúdo + Publicaçêo Automática no LinkedIn, X (Twitter) e Threads (Sem Código)  
 
-Como automatizar a criação e a publicação de conteúdo no LinkedIn, X/Twitter e Threads usando n8n e OpenAI — sem precisar de programação!  
+Como automatizar a criaçêo e a publicaçêo de conteúdo no LinkedIn, X/Twitter e Threads usando n8n e OpenAI — sem precisar de programaçêo!  
 
 Este sistema movido por IA gerencia tokens, gera conteúdos em formato de threads e agenda publicações de forma fluida, ajudando você a ampliar sua presença nas redes sociais sem esforço.
 
@@ -249,7 +249,7 @@ MENSAGEM 17
 Autor: INEMA
 Data: 2025-04-28T05:33:49+00:00
 Texto:
-als12 - Pesquisa de Conteúdo + Publicação Automática
+als12 - Pesquisa de Conteúdo + Publicaçêo Automática
 
 ------------------------------
 

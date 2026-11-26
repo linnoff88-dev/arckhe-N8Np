@@ -19,7 +19,7 @@ Aqui está o **resumo completo em português** com **todos os passos listados e 
 
 ### **Resumo Geral**
 
-Este processo conecta sua conta do Instagram a uma aplicação personalizada do Facebook via **Facebook Graph API**, permitindo publicar conteúdos automaticamente via ferramentas como o **n8n**.
+Este processo conecta sua conta do Instagram a uma aplicaçêo personalizada do Facebook via **Facebook Graph API**, permitindo publicar conteúdos automaticamente via ferramentas como o **n8n**.
 
 ---
 
@@ -35,13 +35,13 @@ Este processo conecta sua conta do Instagram a uma aplicação personalizada do 
 
    * Preencha:
 
-     * **App Name** (nome da aplicação)
+     * **App Name** (nome da aplicaçêo)
      * **Contact Email** (email de contato)
    * Clique em **“Next”**
 
 3. **Selecionar tipo de app**
 
-   * Selecione a opção **“Other”**
+   * Selecione a opçêo **“Other”**
    * Clique em **“Next”**
 
 4. **Selecionar finalidade**
@@ -55,11 +55,11 @@ Este processo conecta sua conta do Instagram a uma aplicação personalizada do 
 
 ---
 
-### **Habilitar o Instagram na aplicação**
+### **Habilitar o Instagram na aplicaçêo**
 
 6. No painel do app recém-criado:
 
-   * Vá até a seção **“Add Products to Your App”**
+   * Vá até a seçêo **“Add Products to Your App”**
    * Encontre e clique em **“Set Up”** no bloco **Instagram Graph API**
 
 ---

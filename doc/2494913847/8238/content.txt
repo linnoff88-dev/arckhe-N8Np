@@ -13,7 +13,7 @@ MENSAGEM 1
 Autor: INEMA
 Data: 2025-05-24T10:20:27+00:00
 Texto:
-Resumo por tópicos – Vídeo "Contratação da VPS Hetzner":
+Resumo por tópicos – Vídeo "Contrataçêo da VPS Hetzner":
 
 1. **O que é a Hetzner VPS**
 
@@ -24,16 +24,16 @@ Resumo por tópicos – Vídeo "Contratação da VPS Hetzner":
 2. **Motivo da escolha pela Hetzner**
 
    * Melhor performance entre os testados pelo autor.
-   * Não apresentou problemas até o momento.
+   * Nêo apresentou problemas até o momento.
 
-3. **Processo de contratação**
+3. **Processo de contrataçêo**
 
    * Acesse o site da Hetzner, clique em “Cloud”.
-   * Crie um projeto, dê um nome e inicie a criação do servidor.
-   * Cadastro exige cartão de crédito e documento (pode exigir verificação manual pelo suporte).
-   * Cobrança ocorre ao final do período, não é imediata.
+   * Crie um projeto, dê um nome e inicie a criaçêo do servidor.
+   * Cadastro exige cartêo de crédito e documento (pode exigir verificaçêo manual pelo suporte).
+   * Cobrança ocorre ao final do período, nêo é imediata.
 
-4. **Escolha da configuração**
+4. **Escolha da configuraçêo**
 
    * Servidor da Alemanha (Falkenstein) com sistema Ubuntu 22.04.
    * Arquitetura ARM64 com 4GB de RAM (upgrade possível).
@@ -51,18 +51,18 @@ Resumo por tópicos – Vídeo "Contratação da VPS Hetzner":
    * Salvar o fingerprint ao conectar pela primeira vez.
    * Pode ser necessário para futuras conexões seguras.
 
-7. **Instalação de painel de configuração**
+7. **Instalaçêo de painel de configuraçêo**
 
-   * Utilização do script criado pelo canal **Orion Design** (oriondesign.art.br).
+   * Utilizaçêo do script criado pelo canal **Orion Design** (oriondesign.art.br).
    * Código colado no Termius usando `Ctrl + Shift + V`.
 
-8. **Painel de instalação automatizado**
+8. **Painel de instalaçêo automatizado**
 
-   * Compatível com Ubuntu 22.04 (não recomendado o 24.04).
+   * Compatível com Ubuntu 22.04 (nêo recomendado o 24.04).
    * Exibe painel com diversas opções de softwares.
-   * Uso de comandos P1 e P2 para navegação entre páginas.
+   * Uso de comandos P1 e P2 para navegaçêo entre páginas.
 
-9. **Softwares recomendados para instalação**
+9. **Softwares recomendados para instalaçêo**
 
    * Traefik
    * Ptain
@@ -70,10 +70,10 @@ Resumo por tópicos – Vídeo "Contratação da VPS Hetzner":
    * n8n
    * Supabase
 
-10. **Conclusão**
+10. **Conclusêo**
 
-* VPS pronta para uso e instalação dos sistemas.
-* Próximos vídeos tratarão das instalações.
+* VPS pronta para uso e instalaçêo dos sistemas.
+* Próximos vídeos tratarêo das instalações.
 * Convite para participar da comunidade e rede de apoio.
 
 ------------------------------

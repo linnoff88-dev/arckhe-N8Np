@@ -23,7 +23,7 @@
     },
     {
       "parameters": {
-        "content": "## 🔐 Autenticação iFood\n\n**Configure as credenciais OAuth2 para iFood:**\n- Client ID\n- Client Secret\n- Authorization URL\n- Access Token URL\n- Scope necessário para leitura de pedidos\n\n⚠️ **Importante:** Configure o refresh token para renovação automática",
+        "content": "## 🔐 Autenticaçêo iFood\n\n**Configure as credenciais OAuth2 para iFood:**\n- Client ID\n- Client Secret\n- Authorization URL\n- Access Token URL\n- Scope necessário para leitura de pedidos\n\n⚠️ **Importante:** Configure o refresh token para renovaçêo automática",
         "height": 200,
         "width": 300,
         "color": 5
@@ -147,7 +147,7 @@
     },
     {
       "parameters": {
-        "content": "## ✅ Validação de Duplicados\n\n**Antes de gravar:**\n1. Busca todos os IDs existentes na planilha\n2. Compara com o ID do pedido atual\n3. Ignora se já existir\n4. Adiciona se for novo\n\n💡 **Dica:** Considere criar uma coluna auxiliar com hash único",
+        "content": "## ✅ Validaçêo de Duplicados\n\n**Antes de gravar:**\n1. Busca todos os IDs existentes na planilha\n2. Compara com o ID do pedido atual\n3. Ignora se já existir\n4. Adiciona se for novo\n\n💡 **Dica:** Considere criar uma coluna auxiliar com hash único",
         "height": 180,
         "width": 280,
         "color": 3
@@ -259,7 +259,7 @@
     },
     {
       "parameters": {
-        "content": "## 🚨 Tratamento de Erros\n\n**Configurar nó de erro para:**\n- Capturar erros de autenticação\n- Detectar limite de API excedido\n- Aguardar 60 segundos\n- Retentar automaticamente\n\n**Logs importantes:**\n- Total de pedidos processados\n- Pedidos ignorados (duplicados)\n- Erros encontrados",
+        "content": "## 🚨 Tratamento de Erros\n\n**Configurar nó de erro para:**\n- Capturar erros de autenticaçêo\n- Detectar limite de API excedido\n- Aguardar 60 segundos\n- Retentar automaticamente\n\n**Logs importantes:**\n- Total de pedidos processados\n- Pedidos ignorados (duplicados)\n- Erros encontrados",
         "height": 200,
         "width": 300
       },
@@ -315,7 +315,7 @@
     },
     {
       "parameters": {
-        "content": "## 📋 Criação da Planilha\n\n**Se a planilha não existir:**\n1. Use o nó Google Drive para criar\n2. Nome: \"Vendas iFood\"\n3. Adicione cabeçalhos na primeira linha\n4. Configure formatação adequada\n\n**Estrutura:**\n| ID Pedido | Data/Hora | Cliente | Produto | Qtd | Preço Unitário | Valor Total | Status |",
+        "content": "## 📋 Criaçêo da Planilha\n\n**Se a planilha nêo existir:**\n1. Use o nó Google Drive para criar\n2. Nome: \"Vendas iFood\"\n3. Adicione cabeçalhos na primeira linha\n4. Configure formataçêo adequada\n\n**Estrutura:**\n| ID Pedido | Data/Hora | Cliente | Produto | Qtd | Preço Unitário | Valor Total | Status |",
         "height": 180,
         "width": 320,
         "color": 6

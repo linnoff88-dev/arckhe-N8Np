@@ -21,7 +21,7 @@ MENSAGEM 2
 Autor: INEMA
 Data: 2025-06-30T11:47:28+00:00
 Texto:
-Aqui está um **resumo completo e estruturado  sobre o sistema de journaling com N8N, Supabase e integração com vetor/embeddings, ideal para documentar e implementar melhorias práticas.
+Aqui está um **resumo completo e estruturado  sobre o sistema de journaling com N8N, Supabase e integraçêo com vetor/embeddings, ideal para documentar e implementar melhorias práticas.
 
 ---
 
@@ -35,23 +35,23 @@ Anthony criou um sistema automatizado com N8N para:
 * Realizar análise com IA para:
 
   * **Análise de qualidade do texto**
-  * **Gap Analysis** (detecção de lacunas e geração de perguntas complementares)
-  * **Pontuação de produtividade** com base em categorias como aprendizado, construção, organização e saúde.
-  * **Extração de humor e temas**
-  * **Geração de prioridades para o dia seguinte** usando a matriz de Eisenhower.
-* Os dados são armazenados em banco SQL no Supabase.
+  * **Gap Analysis** (detecçêo de lacunas e geraçêo de perguntas complementares)
+  * **Pontuaçêo de produtividade** com base em categorias como aprendizado, construçêo, organizaçêo e saúde.
+  * **Extraçêo de humor e temas**
+  * **Geraçêo de prioridades para o dia seguinte** usando a matriz de Eisenhower.
+* Os dados sêo armazenados em banco SQL no Supabase.
 
 ---
 
 **2. Problema Identificado**
 
-* A estrutura relacional (SQL) não permite **busca semântica eficiente** com IA.
-* A coluna `embedding` existe mas está **vazia e não configurada corretamente** para armazenar vetores.
+* A estrutura relacional (SQL) nêo permite **busca semântica eficiente** com IA.
+* A coluna `embedding` existe mas está **vazia e nêo configurada corretamente** para armazenar vetores.
 * A dúvida central: **como embutir os dados (embeddings) na tabela já existente**, utilizando a coluna `embedding` do tipo `vector`.
 
 ---
 
-**3. Opções de Solução**
+**3. Opções de Soluçêo**
 
 **A. Manter a estrutura atual e embutir os vetores manualmente**
 
@@ -64,18 +64,18 @@ Anthony criou um sistema automatizado com N8N para:
 
 * Abandonar o uso de tabelas SQL convencionais para journaling.
 * Inserir diretamente os dados e embeddings em uma estrutura vetorial.
-* Simples, porém requer migração de dados e mudança de lógica.
+* Simples, porém requer migraçêo de dados e mudança de lógica.
 
 ---
 
-**4. Recomendação de Amando**
+**4. Recomendaçêo de Amando**
 
-* Para evitar duplicação e simplificar, **usar somente banco vetorial** se o objetivo for interagir com o diário via IA (chat com o diário).
+* Para evitar duplicaçêo e simplificar, **usar somente banco vetorial** se o objetivo for interagir com o diário via IA (chat com o diário).
 * Caso queira manter a tabela atual:
 
   * Após salvar os dados, **gerar e armazenar o embedding na coluna existente `embedding`**.
-  * Garantir que o modelo de embedding seja o mesmo para gravação e leitura.
-  * Configurar corretamente a tabela no Supabase com extensão `pgvector`.
+  * Garantir que o modelo de embedding seja o mesmo para gravaçêo e leitura.
+  * Configurar corretamente a tabela no Supabase com extensêo `pgvector`.
 
 ---
 
@@ -84,7 +84,7 @@ Anthony criou um sistema automatizado com N8N para:
 * Após o nó **"Store Daily Reflections"**, adicionar um nó **"Create Embedding"** com os dados da entrada.
 * Usar o **nó "Update Row" do Supabase** para atualizar o campo `embedding` com o vetor gerado.
 * Verificar se a API de vetor do Supabase aceita update individual de coluna do tipo `vector`.
-* Alternativamente, usar o nó `Insert Document in VectorStore`, desde que ele não gere duplicatas.
+* Alternativamente, usar o nó `Insert Document in VectorStore`, desde que ele nêo gere duplicatas.
 
 ---
 
@@ -97,12 +97,12 @@ Anthony criou um sistema automatizado com N8N para:
 
 ---
 
-**7. Conclusão**
+**7. Conclusêo**
 
 * O sistema está avançado e bem estruturado.
-* O próximo passo crítico é definir **onde e como os embeddings serão armazenados**.
+* O próximo passo crítico é definir **onde e como os embeddings serêo armazenados**.
 * A **abordagem com vetor direto (sem SQL relacional)** pode ser mais simples se o foco for apenas IA.
-* Caso queira manter SQL, será necessário **vincular o ID da linha ao vetor gerado** com uma operação de update.
+* Caso queira manter SQL, será necessário **vincular o ID da linha ao vetor gerado** com uma operaçêo de update.
 
 ------------------------------
 
@@ -118,7 +118,7 @@ MENSAGEM 4
 Autor: INEMA
 Data: 2025-06-30T11:45:23+00:00
 Texto:
-A imagem mostra uma visão geral visual e organizada do workflow de automação no N8N para journaling com análise por IA e integração com Supabase. Abaixo está o resumo completo **com base em cada seção destacada do fluxo**:
+A imagem mostra uma visêo geral visual e organizada do workflow de automaçêo no N8N para journaling com análise por IA e integraçêo com Supabase. Abaixo está o resumo completo **com base em cada seçêo destacada do fluxo**:
 
 ---
 
@@ -147,7 +147,7 @@ A imagem mostra uma visão geral visual e organizada do workflow de automação 
 ### **4. QUALITY CONTROL**
 
 * Valida a qualidade da entrada (mínimo de 75%)
-* Se baixa, dispara geração de perguntas complementares (Follow-Up Questions)
+* Se baixa, dispara geraçêo de perguntas complementares (Follow-Up Questions)
 
 ---
 
@@ -155,7 +155,7 @@ A imagem mostra uma visão geral visual e organizada do workflow de automação 
 
 * **Gap Analysis Agent** identifica lacunas
 * Gera perguntas de acompanhamento inteligentes
-* Avalia profundidade, clareza e relevância da reflexão
+* Avalia profundidade, clareza e relevância da reflexêo
 
 ---
 
@@ -179,22 +179,22 @@ A imagem mostra uma visão geral visual e organizada do workflow de automação 
 
 ### **8. STRATEGIC PLANNING**
 
-* Geração das prioridades do próximo dia
+* Geraçêo das prioridades do próximo dia
 * Baseado na Matriz de Eisenhower
-* Foco em Q2 (Importante, Não Urgente)
+* Foco em Q2 (Importante, Nêo Urgente)
 
 ---
 
 ### **9. ENHANCED SCORING SYSTEM**
 
-* Sistema de pontuação em 5 áreas:
+* Sistema de pontuaçêo em 5 áreas:
 
   * Aprendizado
-  * Execução/Construção
-  * Organização
+  * Execuçêo/Construçêo
+  * Organizaçêo
   * Saúde
   * Relacionamentos
-* Indica risco de burnout e satisfação geral
+* Indica risco de burnout e satisfaçêo geral
 
 ---
 
@@ -224,21 +224,21 @@ A imagem mostra uma visão geral visual e organizada do workflow de automação 
   * Vitórias
   * Pontuações
   * Insights
-  * Foco de amanhã
+  * Foco de amanhê
 
 ---
 
 ### **13. SUMMARIZATION**
 
-* Síntese para visualização rápida
-* Base para criar gráfico de evolução ou visualização futura
-* Base para criação futura de chatbot com o diário
+* Síntese para visualizaçêo rápida
+* Base para criar gráfico de evoluçêo ou visualizaçêo futura
+* Base para criaçêo futura de chatbot com o diário
 
 ---
 
 ### **Melhoria Relevante a Ser Implementada**
 
-* **Inserção de embeddings**:
+* **Inserçêo de embeddings**:
 
   * Inserir vetor gerado logo após a persistência dos dados no Supabase
   * Utilizar o ID da linha recém-criada

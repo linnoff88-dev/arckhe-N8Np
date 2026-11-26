@@ -21,7 +21,7 @@ MENSAGEM 2
 Autor: Tiza
 Data: 2025-11-09T00:12:02+00:00
 Texto:
-Esses links são somente a referência do inema.
+Esses links sêo somente a referência do inema.
 
 ------------------------------
 
@@ -29,7 +29,7 @@ MENSAGEM 3
 Autor: Nilson
 Data: 2025-11-08T22:35:12+00:00
 Texto:
-Esse link não está funcionando
+Esse link nêo está funcionando
 
 ------------------------------
 
@@ -154,7 +154,7 @@ Data: 2025-11-05T06:42:55+00:00
 Texto:
 **Resumo completo do vídeo “I Built the Ultimate UGC Content System with AI Agents (Free Template)”**
 
-O criador apresenta um **sistema automatizado de criação de conteúdo UGC (User Generated Content)**, construído **sem código (no-code)** dentro do **n8n**, integrando modelos avançados de IA — **Nano Banana**, **Google Veo 3.1** e **Sora 2** — para gerar **imagens e vídeos publicitários realistas** a partir de informações básicas em uma planilha do Google Sheets.
+O criador apresenta um **sistema automatizado de criaçêo de conteúdo UGC (User Generated Content)**, construído **sem código (no-code)** dentro do **n8n**, integrando modelos avançados de IA — **Nano Banana**, **Google Veo 3.1** e **Sora 2** — para gerar **imagens e vídeos publicitários realistas** a partir de informações básicas em uma planilha do Google Sheets.
 
 ---
 
@@ -169,9 +169,9 @@ O criador apresenta um **sistema automatizado de criação de conteúdo UGC (Use
 * O sistema lê esses dados e automaticamente:
 
   1. Gera **imagens realistas** com o produto sendo usado (via **Nano Banana** ou **Veo 3.1**).
-  2. Analisa a imagem para compreender cenário, estilo e composição.
+  2. Analisa a imagem para compreender cenário, estilo e composiçêo.
   3. Cria **prompts de vídeo** coerentes com a imagem e o contexto (falas, ângulos e tom).
-  4. Envia o prompt e a imagem para **Key AI**, que executa a renderização com o modelo selecionado (Nano+Veo, Veo3.1 ou Sora 2).
+  4. Envia o prompt e a imagem para **Key AI**, que executa a renderizaçêo com o modelo selecionado (Nano+Veo, Veo3.1 ou Sora 2).
   5. Atualiza automaticamente a planilha com o **link do vídeo final** e o status (“finished”).
 
 ---
@@ -204,7 +204,7 @@ O sistema gera vídeos curtos de 8 a 10 segundos, estilo **“selfie de influenc
 * **Switch Node:** direciona o fluxo para o modelo escolhido.
 * **AI Agent (Image Prompt):** cria o prompt descritivo da imagem.
 * **HTTP Request → Key AI:** envia requisições com o prompt e URL da imagem.
-* **Wait + Check Nodes:** aguardam a renderização e verificam o status até o sucesso.
+* **Wait + Check Nodes:** aguardam a renderizaçêo e verificam o status até o sucesso.
 * **Analyze Image (OpenAI):** descreve a imagem gerada para alinhar o vídeo.
 * **AI Agent (Video Prompt):** cria prompt de vídeo + falas.
 * **Upload final:** grava link e status na planilha Google.
@@ -217,7 +217,7 @@ O sistema gera vídeos curtos de 8 a 10 segundos, estilo **“selfie de influenc
   • 2 centavos por imagem + 30 centavos por vídeo (8s) = **US$ 0,32 por conteúdo**
 * **Sora 2:**
   • **US$ 0,15 por vídeo de 10s**
-* **Conclusão do autor:** Sora é 2x mais barato, mas Nano+Veo gera resultados mais realistas e consistentes.
+* **Conclusêo do autor:** Sora é 2x mais barato, mas Nano+Veo gera resultados mais realistas e consistentes.
 
 ---
 
@@ -233,11 +233,11 @@ O sistema gera vídeos curtos de 8 a 10 segundos, estilo **“selfie de influenc
 
 ---
 
-### 7. Conclusão
+### 7. Conclusêo
 
-O sistema apresentado **automatiza completamente a produção de anúncios UGC**, reduzindo o custo e o tempo de criação.
-Com apenas uma imagem e descrição, é possível gerar vídeos autênticos e prontos para campanhas de marketing digital.
-O autor prevê que, com a evolução dos modelos (como **Sora 4 e Veo 4**), a qualidade e o realismo continuarão aumentando enquanto o custo diminui.
+O sistema apresentado **automatiza completamente a produçêo de anúncios UGC**, reduzindo o custo e o tempo de criaçêo.
+Com apenas uma imagem e descriçêo, é possível gerar vídeos autênticos e prontos para campanhas de marketing digital.
+O autor prevê que, com a evoluçêo dos modelos (como **Sora 4 e Veo 4**), a qualidade e o realismo continuarêo aumentando enquanto o custo diminui.
 
 ------------------------------
 
@@ -255,11 +255,11 @@ Data: 2025-11-05T06:40:50+00:00
 Texto:
 Construa o Sistema Definitivo de Conteúdo UGC com Agentes de IA
 
-Como criar um sistema de IA sem código no n8n que gera automaticamente anúncios UGC (conteúdo gerado por usuários), desde fotos de produtos até vídeos completos de divulgação.
+Como criar um sistema de IA sem código no n8n que gera automaticamente anúncios UGC (conteúdo gerado por usuários), desde fotos de produtos até vídeos completos de divulgaçêo.
 
-Esse fluxo utiliza o Nano Banana, o Veo 3.1 e o Sora 2 para geração de imagens e vídeos — tudo o que você precisa fazer é enviar uma imagem do produto, escrever uma breve descrição de suas características e dizer ao sistema o tipo de vídeo que deseja. A partir daí, ele faz tudo automaticamente, gerando visuais UGC realistas, alinhados à marca, e vídeos curtos prontos para usar em suas campanhas de marketing.
+Esse fluxo utiliza o Nano Banana, o Veo 3.1 e o Sora 2 para geraçêo de imagens e vídeos — tudo o que você precisa fazer é enviar uma imagem do produto, escrever uma breve descriçêo de suas características e dizer ao sistema o tipo de vídeo que deseja. A partir daí, ele faz tudo automaticamente, gerando visuais UGC realistas, alinhados à marca, e vídeos curtos prontos para usar em suas campanhas de marketing.
 
-Esse modelo é totalmente gratuito e extremamente fácil de personalizar. À medida que esses modelos de imagem e vídeo baseados em IA continuam evoluindo, você poderá refinar seus prompts para obter resultados ainda melhores e mais naturais ao longo do tempo. É possível gerar vídeos de alta qualidade de 10 segundos por apenas US$ 0,15 cada, tornando esse um dos sistemas de criação de anúncios mais econômicos disponíveis atualmente.
+Esse modelo é totalmente gratuito e extremamente fácil de personalizar. À medida que esses modelos de imagem e vídeo baseados em IA continuam evoluindo, você poderá refinar seus prompts para obter resultados ainda melhores e mais naturais ao longo do tempo. É possível gerar vídeos de alta qualidade de 10 segundos por apenas US$ 0,15 cada, tornando esse um dos sistemas de criaçêo de anúncios mais econômicos disponíveis atualmente.
 
 ------------------------------
 

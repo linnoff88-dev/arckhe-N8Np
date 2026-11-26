@@ -147,7 +147,7 @@
                 <i class="fas fa-robot text-white text-2xl"></i>
             </div>
             <h1 class="text-2xl font-bold text-deepseek-dark">INEMA FTD</h1>
-            <p class="text-deepseek">Projeto de Transformação Digital</p>
+            <p class="text-deepseek">Projeto de Transformaçêo Digital</p>
         </div>
         
         <div class="space-y-4">
@@ -191,7 +191,7 @@
             </div>
             <div>
                 <h1 class="font-bold text-lg">INEMA FTD</h1>
-                <p class="text-xs opacity-80">Assistente Virtual de Transformação Digital</p>
+                <p class="text-xs opacity-80">Assistente Virtual de Transformaçêo Digital</p>
             </div>
             <button id="clear-chat" class="ml-auto text-white/70 hover:text-white" title="Limpar conversa">
                 <i class="fas fa-trash-alt"></i>
@@ -222,7 +222,7 @@
                 </button>
             </div>
             <p class="text-xs text-deepseek mt-2 text-center">
-                Assistente virtual do Projeto de Transformação Digital - INEMA
+                Assistente virtual do Projeto de Transformaçêo Digital - INEMA
             </p>
         </div>
     </div>
@@ -309,7 +309,7 @@
                     if (responseText) {
                         addMessage(responseText, false);
                     } else {
-                        addMessage("Não consegui processar sua solicitação. Por favor, tente novamente.", false);
+                        addMessage("Nêo consegui processar sua solicitaçêo. Por favor, tente novamente.", false);
                     }
                 } catch (error) {
                     hideTypingIndicator();
@@ -341,7 +341,7 @@
                     chatContainer.classList.remove('hidden');
                     
                     // Add welcome message
-                    addMessage(`Olá, ${username}! Sou o assistente virtual do INEMA FTD - Projeto de Transformação Digital. Como posso te ajudar hoje?`, false);
+                    addMessage(`Olá, ${username}! Sou o assistente virtual do INEMA FTD - Projeto de Transformaçêo Digital. Como posso te ajudar hoje?`, false);
                     
                     // Focus input
                     userInput.focus();

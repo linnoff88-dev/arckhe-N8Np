@@ -37,13 +37,13 @@ O que você tem aqui é um **workflow de firewall para IA dentro do n8n**, com c
 
 2. **Pré-processamento e Roteamento**
 
-   * **Intelligent Router v2** → faz cache, deduplicação e limita taxa.
+   * **Intelligent Router v2** → faz cache, deduplicaçêo e limita taxa.
    * **Enhanced Static Rules** → aplica regras fixas de segurança (regex, padrões de vazamento).
-   * **Advanced Risk Classifier** → classifica o risco da mensagem (normal, override, exfiltração, sensível, ilegal, ambíguo).
+   * **Advanced Risk Classifier** → classifica o risco da mensagem (normal, override, exfiltraçêo, sensível, ilegal, ambíguo).
 
-3. **Decisão**
+3. **Decisêo**
 
-   * **Enhanced Decision Switch** → decide o caminho com base na classificação:
+   * **Enhanced Decision Switch** → decide o caminho com base na classificaçêo:
 
      * **Allow Function** → segue para o LLM.
      * **Sanitize Function** → limpa conteúdo suspeito.
@@ -57,7 +57,7 @@ O que você tem aqui é um **workflow de firewall para IA dentro do n8n**, com c
 5. **Pós-processamento**
 
    * **Enhanced Output Guardrail** → aplica checagens na resposta para evitar vazamento.
-   * **Enhanced Logger v2** → registra entrada, classificação, decisão e saída (para auditoria).
+   * **Enhanced Logger v2** → registra entrada, classificaçêo, decisêo e saída (para auditoria).
 
 6. **Saídas**
 
@@ -74,7 +74,7 @@ Ele:
 * Recebe mensagens (email/WhatsApp)
 * Analisa risco (regras + classificador)
 * Decide permitir, sanitizar, negar ou escalar para humano
-* Só então aciona o LLM
+* Só entêo aciona o LLM
 * Valida a saída antes de enviar
 * Gera logs completos de todo o processo
 
@@ -94,7 +94,7 @@ MENSAGEM 5
 Autor: INEMA
 Data: 2025-08-17T23:39:59+00:00
 Texto:
-Vou criar uma versão funcional baseada no seu workflow original, mas com as melhorias essenciais.Agora criei uma **versão funcional** que deve abrir corretamente no n8n! 🎯
+Vou criar uma versêo funcional baseada no seu workflow original, mas com as melhorias essenciais.Agora criei uma **versêo funcional** que deve abrir corretamente no n8n! 🎯
 
 ## 🔧 **O que corrigi:**
 
@@ -125,8 +125,8 @@ curl -X POST http://seu-n8n:5678/webhook/whatsapp-webhook \
 **
 - 🛡️ R**ate limiting **(10 msg/hora por usuário)
 - 🧠 C**ache inteligente **(evita reprocessamento)
-- 🔒 A**nti-bypass **(normalização de texto)
-- 🧹 S**anitização **(remove PII automaticamente)
+- 🔒 A**nti-bypass **(normalizaçêo de texto)
+- 🧹 S**anitizaçêo **(remove PII automaticamente)
 - 📊 L**ogs seguros **(sem dados sensíveis)
 - ⚡ P**erformance **(60% mais rápido)
 

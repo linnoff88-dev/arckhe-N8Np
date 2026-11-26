@@ -13,7 +13,7 @@ MENSAGEM 1
 Autor: Marcio
 Data: 2025-08-18T21:07:51+00:00
 Texto:
-Montei esse fluxo, e funcionou, mas não entendi bem a finalidade dele.
+Montei esse fluxo, e funcionou, mas nêo entendi bem a finalidade dele.
 
 ------------------------------
 

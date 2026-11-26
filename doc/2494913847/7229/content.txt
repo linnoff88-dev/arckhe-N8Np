@@ -30,29 +30,29 @@ MENSAGEM 3
 Autor: INEMA
 Data: 2025-05-06T01:30:22+00:00
 Texto:
-1. Introdução ao vídeo
+1. Introduçêo ao vídeo
    • Proposta de substituir toda a equipe de marketing por um sistema de IA com Lovable 2.0 e ChatGPT API
-   • Benefícios: criação de posts de alta qualidade, no tom de voz desejado, sem necessidade de conhecimento em programação
+   • Benefícios: criaçêo de posts de alta qualidade, no tom de voz desejado, sem necessidade de conhecimento em programaçêo
 
-2. Demonstração rápida do funcionamento
-   • Botão “Autogerar” no Lovable para iniciar o processo
+2. Demonstraçêo rápida do funcionamento
+   • Botêo “Autogerar” no Lovable para iniciar o processo
    • Usuário fornece: setor, público-alvo, tom de voz e tema
    • Agente de IA pesquisa automaticamente os últimos 14 dias de informações relevantes
-   • Geração de três opções de posts e de uma imagem para cada uma
+   • Geraçêo de três opções de posts e de uma imagem para cada uma
 
-3. Configuração do protótipo em Lovable
+3. Configuraçêo do protótipo em Lovable
    • Escolha das plataformas (LinkedIn, Instagram, X etc.)
-   • Definição de campos no formulário: tom de voz, plataforma, avatar, tema, problema a resolver
-   • Edição interativa dos textos e design diretamente na interface
+   • Definiçêo de campos no formulário: tom de voz, plataforma, avatar, tema, problema a resolver
+   • Ediçêo interativa dos textos e design diretamente na interface
 
 4. Montagem do workflow em n8n
    • Recebimento dos dados via webhook do Lovable
    • Uso de um módulo “Set” para armazenar tom de voz, tema, plataforma e avatar
-   • Configuração de um agente de IA (ChatGPT) para pesquisa na web via HTTP request (por exemplo, Tavily)
-   • Prompt do agente: analista de pesquisa, busca de tópicos relevantes, resumo e formatação em JSON
-   • Parsing do JSON e ramificação das três opções de post
+   • Configuraçêo de um agente de IA (ChatGPT) para pesquisa na web via HTTP request (por exemplo, Tavily)
+   • Prompt do agente: analista de pesquisa, busca de tópicos relevantes, resumo e formataçêo em JSON
+   • Parsing do JSON e ramificaçêo das três opções de post
 
-5. Geração de imagens com API de IA
+5. Geraçêo de imagens com API de IA
    • Módulo “Image Prompter” que cria meta-prompt para o gerador de imagens (estilo Ghibli, infográfico etc.)
    • Chamada HTTP à OpenAI para gerar a imagem com o prompt meta
    • Upload automático da imagem gerada para pasta compartilhada no Google Drive
@@ -66,7 +66,7 @@ Texto:
 7. Boas práticas e dicas do criador
    • Priorizar primeiro a funcionalidade do fluxo e depois o design
    • Utilizar agents em vez de chamadas diretas para melhor performance
-   • Aproveitar o recurso de edição granular do Lovable para ajustes rápidos
+   • Aproveitar o recurso de ediçêo granular do Lovable para ajustes rápidos
    • Modularizar o workflow para suportar múltiplas plataformas em paralelo
 
 ------------------------------
@@ -87,7 +87,7 @@ Objetivo do vídeo
 
 * mostrar como substituir uma equipe de marketing de US\$ 50 000 por um fluxo de IA que cria posts e imagens automaticamente, sem precisar saber programar
 
-Como funciona (visão geral)
+Como funciona (visêo geral)
 
 1. o usuário informa na interface Lovable
 
@@ -96,15 +96,15 @@ Como funciona (visão geral)
    * tema e tom de voz
 2. um agente de IA pesquisa automaticamente na web (últimos 14 dias)
 3. gera três opções de texto de post em JSON
-4. gera uma imagem para cada opção via API de IA
+4. gera uma imagem para cada opçêo via API de IA
 5. entrega tudo via painel, webhook ou e-mail
 
-Configuração do protótipo em Lovable
+Configuraçêo do protótipo em Lovable
 
 * importar blueprint ou criar formulário com perguntas:
 
   1. escolha de plataforma
-  2. definição de avatar
+  2. definiçêo de avatar
   3. tema do post
   4. tom de voz
 * editar texto e design diretamente na interface, ajustando cores, fontes e layout
@@ -113,29 +113,29 @@ Montagem do fluxo em n8n
 
 1. webhook de entrada recebe dados do Lovable
 2. módulo “Set” armazena campos: tom de voz, tema, plataforma, avatar
-3. agente de IA (ChatGPT) faz requisição HTTP a um serviço de pesquisa (por exemplo Tavily)
+3. agente de IA (ChatGPT) faz requisiçêo HTTP a um serviço de pesquisa (por exemplo Tavily)
 
-   * sistema define função: analista de pesquisa de notícias, resumo e formatação em JSON
+   * sistema define funçêo: analista de pesquisa de notícias, resumo e formataçêo em JSON
 4. parser JSON separa as três opções de posts
-5. para cada opção, chamar API de geração de imagem
+5. para cada opçêo, chamar API de geraçêo de imagem
 6. converter o resultado em base64 e fazer upload no Google Drive
 7. webhook de resposta retorna JSON com:
 
    * texto dos três posts
    * URLs das imagens geradas
 
-Entrega e integração final
+Entrega e integraçêo final
 
 * painel mostra os três textos prontos e permite baixar cada imagem
-* opção de enviar um rascunho de e-mail via Gmail com links das imagens
+* opçêo de enviar um rascunho de e-mail via Gmail com links das imagens
 * folder compartilhado no Drive para acesso externo
 
 Principais dicas do criador
 
-* priorizar primeiro a lógica e integração antes de trabalhar no design
+* priorizar primeiro a lógica e integraçêo antes de trabalhar no design
 * usar agentes (vs chamadas diretas) para ganhar em velocidade e custo
 * modularizar o fluxo para suportar várias redes em paralelo
-* aproveitar a edição granular do Lovable para ajustes rápidos após o build funcional
+* aproveitar a ediçêo granular do Lovable para ajustes rápidos após o build funcional
 
 ------------------------------
 
@@ -164,21 +164,21 @@ Texto:
 Transforme ideias em POSTS COMPLETOS com imagens incríveis
  (Redes Sociais)
 
-🚨 ATUALIZAÇÃO: Expandi o projeto original para incluir X, Instagram e LinkedIn 
+🚨 ATUALIZAÇêO: Expandi o projeto original para incluir X, Instagram e LinkedIn 
 
 O Loveable 2.0 e a API de imagens do ChatGPT acabaram de ser lançados.
 Vamos combinar essas ferramentas para criar algo incrível para redes sociais.
 
-🔮 Visão:
+🔮 Visêo:
 Criar posts pesquisados e de alta qualidade com um gráfico bonito e no meu tom de voz, apenas dizendo o tema que quero abordar.
 Esta semana vou te mostrar como combinar o Loveable com o ChatGPT para criar posts épicos para qualquer plataforma.
 
 **Entrada**
 💬 Tom de voz
-💼 Setor de atuação
+💼 Setor de atuaçêo
 🔮 Tema
 🦸 Avatar do público-alvo
-🔥 Chamada para ação (se houver)
+🔥 Chamada para açêo (se houver)
 
 **Como funciona**
 🤖 Um agente de IA faz uma pesquisa implacável dos últimos 14 dias

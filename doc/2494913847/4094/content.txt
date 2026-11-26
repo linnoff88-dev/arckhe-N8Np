@@ -15,13 +15,13 @@ Data: 2025-03-28T02:35:40+00:00
 Texto:
 **Como configurar um WebHook de Bot do Telegram**
 
-**Processo de Configuração do WebHook**
+**Processo de Configuraçêo do WebHook**
 
 **Conceito Básico**  
 Um WebHook permite que seu bot do Telegram receba atualizações automaticamente, em vez de buscar manualmente usando a API do bot.
 
-**Método de Configuração**  
-Para configurar um WebHook, faça uma solicitação GET usando esta URL, com este formato:
+**Método de Configuraçêo**  
+Para configurar um WebHook, faça uma solicitaçêo GET usando esta URL, com este formato:
 
 ```https://api.telegram.org/bot<seu_token_do_bot>/setWebhook?url=<sua_url_para_receber_atualizacoes>```
 
@@ -30,8 +30,8 @@ O**nde:
 - <`seu_token_do_bot>:` Seu token obtido no BotFather  
 - <`sua_url_para_receber_atualizacoes>:` Sua URL HTTPS que lida com as atualizações do bot
 
-V**erificação ** 
-Para verificar a configuração do WebHook, use:
+V**erificaçêo ** 
+Para verificar a configuraçêo do WebHook, use:
 
 h```ttps://api.telegram.org/bot<seu_token_do_bot>/getWebhookInfo
 ```
@@ -62,16 +62,16 @@ O que isso faz?
 
 - Valida o Remetente: Verifica se o nome, sobrenome e ID do Telegram do remetente correspondem aos valores esperados antes de processar a mensagem.
 
-- Redireciona Mensagens com Base no Tipo: Um nó de verificação identifica se a mensagem recebida é de texto, voz ou imagem, e a direciona de forma adequada.
+- Redireciona Mensagens com Base no Tipo: Um nó de verificaçêo identifica se a mensagem recebida é de texto, voz ou imagem, e a direciona de forma adequada.
 
 - Processa Diferentes Tipos de Mensagem:
-  - Texto: Classifica e processa mensagens de texto, decidindo se estão relacionadas a tarefas ou se são de outra natureza, e envia uma resposta personalizada.
+  - Texto: Classifica e processa mensagens de texto, decidindo se estêo relacionadas a tarefas ou se sêo de outra natureza, e envia uma resposta personalizada.
   - Áudio: Recupera e transcreve mensagens de voz para extrair seu conteúdo e definir a resposta apropriada.
   - Imagens: Recupera arquivos de imagem, converte para um formato adequado e utiliza IA para analisar o conteúdo da imagem.
 
-- Gerencia Configuração do Webhook: Nós adicionais ajudam a configurar e verificar o status dos webhooks do Telegram, tanto em ambiente de teste quanto de produção.
+- Gerencia Configuraçêo do Webhook: Nós adicionais ajudam a configurar e verificar o status dos webhooks do Telegram, tanto em ambiente de teste quanto de produçêo.
 
-- Envia Respostas no Telegram: Com base no processamento, responde ao usuário no Telegram com mensagens (ou mensagens de erro, se a validação falhar).
+- Envia Respostas no Telegram: Com base no processamento, responde ao usuário no Telegram com mensagens (ou mensagens de erro, se a validaçêo falhar).
 
 Recursos:
 Modelo JSON

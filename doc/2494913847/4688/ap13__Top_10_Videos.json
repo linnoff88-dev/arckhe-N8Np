@@ -231,7 +231,7 @@
         "text": "Generate some ideas",
         "hasOutputParser": true,
         "options": {
-          "systemMessage": "=# Overview\nYou are an AI that generates creative and engaging subject ideas for \"Top Ten Rankings\" videos. Return an array of 10 distinct subject ideas, where each idea is no more than 4 words long. Subjects must be timeless and should not require real-time or current events knowledge. Focus on evergreen topics such as \"Os cães mais queridos do Mundo\", \"Os Gatos mais queridos do Mundo\", or \"Pessoas mais altas do Mundo\".\n\nOutput only the array of subject ideas, with no extra explanation."
+          "systemMessage": "=# Overview\nYou are an AI that generates creative and engaging subject ideas for \"Top Ten Rankings\" videos. Return an array of 10 distinct subject ideas, where each idea is no more than 4 words long. Subjects must be timeless and should not require real-time or current events knowledge. Focus on evergreen topics such as \"Os cêes mais queridos do Mundo\", \"Os Gatos mais queridos do Mundo\", or \"Pessoas mais altas do Mundo\".\n\nOutput only the array of subject ideas, with no extra explanation."
         }
       },
       "type": "@n8n/n8n-nodes-langchain.agent",

@@ -14,7 +14,7 @@ Autor: INEMA
 Data: 2025-04-23T22:43:46+00:00
 Texto:
 ### **Resumo Geral**
-O criador desenvolveu um **editor de vídeo automatizado com IA**, sem necessidade de código, utilizando **n8n**, **MCP Agents**, **FFmpeg**, **Docker**, **ngrok**, **Supabase**, **Together AI** e **OpenAI Whisper**. Tudo é disparado por uma simples mensagem no Telegram, e o fluxo transforma essa mensagem em um **vídeo completo com narração, imagens geradas por IA e música de fundo**.
+O criador desenvolveu um **editor de vídeo automatizado com IA**, sem necessidade de código, utilizando **n8n**, **MCP Agents**, **FFmpeg**, **Docker**, **ngrok**, **Supabase**, **Together AI** e **OpenAI Whisper**. Tudo é disparado por uma simples mensagem no Telegram, e o fluxo transforma essa mensagem em um **vídeo completo com narraçêo, imagens geradas por IA e música de fundo**.
 
 ---
 
@@ -22,23 +22,23 @@ O criador desenvolveu um **editor de vídeo automatizado com IA**, sem necessida
 1. **Gatilho no Telegram**  
    O usuário envia uma mensagem com o pedido da história, por exemplo: "Crie uma história sobre uma raposa laranja".
 
-2. **Transcrição da História**
-   O agente converte a solicitação em um **roteiro narrativo de 15 segundos**.
+2. **Transcriçêo da História**
+   O agente converte a solicitaçêo em um **roteiro narrativo de 15 segundos**.
 
-3. **Narração com IA (Text-to-Speech)**  
+3. **Narraçêo com IA (Text-to-Speech)**  
    O roteiro é transformado em **áudio com voz gerada por IA**, usando o servidor Kokoro.
 
 4. **Imagens com IA (Text-to-Image)**  
    O texto é dividido em partes de 6 segundos e cada trecho gera uma **imagem usando Together AI**.
 
-5. **Renderização do Vídeo**  
-   As imagens e o áudio são combinados em um **vídeo com FFmpeg**. O agente permite:
+5. **Renderizaçêo do Vídeo**  
+   As imagens e o áudio sêo combinados em um **vídeo com FFmpeg**. O agente permite:
    - Escolher entre **modo paisagem ou retrato**
    - Adicionar **legendas automáticas geradas com OpenAI Whisper**
    - Incluir **música de fundo do YouTube (com yt-dlp)**
 
 6. **Upload para Supabase**  
-   Os arquivos (áudio, imagens e vídeo final) são armazenados automaticamente no **Supabase**.
+   Os arquivos (áudio, imagens e vídeo final) sêo armazenados automaticamente no **Supabase**.
 
 7. **Envio automático para Telegram**  
    O vídeo final é **entregue diretamente no chat** com o usuário.
@@ -46,13 +46,13 @@ O criador desenvolveu um **editor de vídeo automatizado com IA**, sem necessida
 ---
 
 ### **Tecnologias Utilizadas**
-- **n8n + Agentes MCP**: Orquestram toda a automação sem código.
+- **n8n + Agentes MCP**: Orquestram toda a automaçêo sem código.
 - **Docker**: Roda n8n e Kokoro localmente.
 - **ngrok**: Expõe o servidor local para a internet.
 - **Supabase**: Armazena os arquivos do vídeo.
 - **Together AI**: Gera imagens a partir do texto.
 - **OpenAI Whisper**: Transcreve áudio para gerar legendas.
-- **FFmpeg**: Faz a renderização completa do vídeo com áudio, imagens e legendas.
+- **FFmpeg**: Faz a renderizaçêo completa do vídeo com áudio, imagens e legendas.
 - **yt-dlp**: Faz o download do áudio da música de fundo do YouTube.
 
 ---
@@ -61,8 +61,8 @@ O criador desenvolveu um **editor de vídeo automatizado com IA**, sem necessida
 - Integrações via **API com JSON**
 - Uso de **múltiplos "Switch nodes" e "IF nodes"** para controle de fluxo
 - Processamento de imagens em lote com controle individual no Telegram
-- **Substituição de funções humanas básicas de edição de vídeo** com IA e automação
-- Toda a lógica e comandos estão disponíveis na **comunidade do criador com templates prontos**
+- **Substituiçêo de funções humanas básicas de ediçêo de vídeo** com IA e automaçêo
+- Toda a lógica e comandos estêo disponíveis na **comunidade do criador com templates prontos**
 
 ---
 

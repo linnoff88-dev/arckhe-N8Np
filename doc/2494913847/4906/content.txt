@@ -67,21 +67,21 @@ Texto:
 
 Como criar **três fluxos de trabalho com inteligência artificial usando a plataforma n8n**, ideal para iniciantes que queiram aprender na prática. 
 
-Todos os fluxos são explicados detalhadamente, com configurações de credenciais, uso de APIs, integração com IA e ferramentas como Google Drive, Gmail, Pinecone, OpenAI, OpenRouter e Tavily.
+Todos os fluxos sêo explicados detalhadamente, com configurações de credenciais, uso de APIs, integraçêo com IA e ferramentas como Google Drive, Gmail, Pinecone, OpenAI, OpenRouter e Tavily.
 
 ### Fluxo 1: Pipeline RAG com Chatbot
 - **Objetivo**: Criar um chatbot que responde com base em documentos armazenados.
 - **Ferramentas usadas**:
   - Google Drive (armazenamento de documentos)
-  - Pinecone (vetorização dos documentos)
+  - Pinecone (vetorizaçêo dos documentos)
   - OpenAI (modelo de embeddings)
   - OpenRouter (modelo de linguagem)
-  - n8n (automação completa)
+  - n8n (automaçêo completa)
 - **Conceito**: Utiliza RAG (Retrieval Augmented Generation) — o bot busca a resposta em documentos vetorizados.
 - **Passos principais**:
-  1. Detecção de novos arquivos no Google Drive.
-  2. Vetorização do conteúdo via Pinecone.
-  3. Criação de um chatbot com modelo via OpenRouter que busca as respostas no vetor.
+  1. Detecçêo de novos arquivos no Google Drive.
+  2. Vetorizaçêo do conteúdo via Pinecone.
+  3. Criaçêo de um chatbot com modelo via OpenRouter que busca as respostas no vetor.
   4. Teste do chatbot consultando, por exemplo, a política de garantia de um documento FAQ.
 
 ### Fluxo 2: Atendimento automático por e-mail (Customer Support)
@@ -89,14 +89,14 @@ Todos os fluxos são explicados detalhadamente, com configurações de credencia
 - **Ferramentas usadas**:
   - Gmail (recebimento e envio de e-mails)
   - Pinecone + OpenAI (mesma base vetorizada do fluxo 1)
-  - n8n (automação com lógica condicional)
+  - n8n (automaçêo com lógica condicional)
 - **Passos principais**:
   1. Receber e-mails automaticamente via Gmail.
   2. Usar IA para classificar se o e-mail é de suporte.
   3. Se for, acionar um agente IA que responde com base no conteúdo da base vetorizada.
   4. A resposta é enviada automaticamente e pode ser etiquetada (ex: “Suporte”).
 
-### Fluxo 3: Geração de conteúdo para LinkedIn
+### Fluxo 3: Geraçêo de conteúdo para LinkedIn
 - **Objetivo**: Criar automaticamente posts para LinkedIn com base em tópicos definidos em uma planilha.
 - **Ferramentas usadas**:
   - Google Sheets (armazenar e atualizar os tópicos e posts)
@@ -112,9 +112,9 @@ Todos os fluxos são explicados detalhadamente, com configurações de credencia
 
 ### Exemplos de resultados esperados:
 
-1. **Chatbot**: Pergunta: *Qual é a política de devolução?* → Resposta com base no documento da empresa.
+1. **Chatbot**: Pergunta: *Qual é a política de devoluçêo?* → Resposta com base no documento da empresa.
 2. **E-mail automático**: E-mail recebido: *Estou preocupado com meus dados* → Resposta personalizada com emojis, política de privacidade e assinatura de um agente fictício.
-3. **Post para LinkedIn**: Tópico: *Geração de imagem com IA* → Post gerado automaticamente com emojis, hashtags e estrutura pronta para publicação.
+3. **Post para LinkedIn**: Tópico: *Geraçêo de imagem com IA* → Post gerado automaticamente com emojis, hashtags e estrutura pronta para publicaçêo.
 
 ------------------------------
 
@@ -138,14 +138,14 @@ MENSAGEM 10
 Autor: INEMA
 Data: 2025-04-07T22:38:08+00:00
 Texto:
-Aqui estão **dicas diretas e práticas para cada fluxo**:
+Aqui estêo **dicas diretas e práticas para cada fluxo**:
 
 ---
 
 ### FLUXO 1 – Chatbot com RAG (Google Drive + Pinecone + IA)
 
-- **Use documentos bem estruturados** (títulos, tópicos claros) para melhor vetorização.
-- **Divida documentos longos em chunks pequenos** (ex: 1000 caracteres) para mais precisão.
+- **Use documentos bem estruturados** (títulos, tópicos claros) para melhor vetorizaçêo.
+- **Divida documentos longos em chunks pequenos** (ex: 1000 caracteres) para mais precisêo.
 - **Dê um prompt claro ao agente**, informando que ele deve usar o "Knowledge Base" para responder.
 - **Mantenha os namespaces organizados no Pinecone** (ex: `faq`, `produtos`, etc).
 - **Teste com perguntas reais** que as pessoas fariam ao chatbot.
@@ -158,7 +158,7 @@ Aqui estão **dicas diretas e práticas para cada fluxo**:
 - **Treine bem o classificador** com exemplos reais de e-mails de suporte.
 - **Use prompts amigáveis e personalizados** com emojis, assinatura e tom humano.
 - **Adicione rótulos no Gmail** para facilitar triagens manuais ou auditorias.
-- **Implemente um fallback** para casos que o agente não saiba responder (ex: "encaminhar para humano").
+- **Implemente um fallback** para casos que o agente nêo saiba responder (ex: "encaminhar para humano").
 
 ---
 
@@ -168,7 +168,7 @@ Aqui estão **dicas diretas e práticas para cada fluxo**:
 - Ev**ite temas genéricos (ex: "IA"), prefira tópicos específicos (ex: "como gerar imagens com IA").
 - Pesquise via Tavily com 2–3 resultados para diversidade de fontes.
 - Inclua instruções no prompt para usar emojis e hashtags.
-- Agende a execução com gatilho diário e status ‘to-do’ para automação contínua.
+- Agende a execuçêo com gatilho diário e status ‘to-do’ para automaçêo contínua.
 
 ---
 
@@ -186,7 +186,7 @@ MENSAGEM 12
 Autor: INEMA
 Data: 2025-04-07T22:37:36+00:00
 Texto:
-Abaixo está o **passo a passo detalhado do Fluxo 3: Geração de conteúdo para LinkedIn com IA e pesquisa web**, usando **n8n**, **Google Sheets**, **Tavily**, **OpenRouter** e **OpenAI**.
+Abaixo está o **passo a passo detalhado do Fluxo 3: Geraçêo de conteúdo para LinkedIn com IA e pesquisa web**, usando **n8n**, **Google Sheets**, **Tavily**, **OpenRouter** e **OpenAI**.
 
 ---
 
@@ -196,7 +196,7 @@ Abaixo está o **passo a passo detalhado do Fluxo 3: Geração de conteúdo para
 ---
 
 ### OBJETIVO:  
-Automatizar a criação de posts para LinkedIn a partir de uma lista de tópicos no Google Sheets, pesquisando na web e gerando o conteúdo com IA.
+Automatizar a criaçêo de posts para LinkedIn a partir de uma lista de tópicos no Google Sheets, pesquisando na web e gerando o conteúdo com IA.
 
 ---
 
@@ -223,7 +223,7 @@ Automatizar a criação de posts para LinkedIn a partir de uma lista de tópicos
    - Ative a **Google Sheets API** no Google Cloud.
 3. Selecione a planilha e aba correta (ex: `LinkedIn_posts`).
 4. Aplique um filtro para buscar apenas linhas com status `to-do`.
-5. Ative a opção **“Return only first matching row”**.
+5. Ative a opçêo **“Return only first matching row”**.
 
 ---
 
@@ -256,7 +256,7 @@ Automatizar a criação de posts para LinkedIn a partir de uma lista de tópicos
 3. No campo **"System Prompt"**, insira algo como:
    - “Você é um redator de posts para LinkedIn. Crie um post claro, criativo e impactante sobre o tema com base nos artigos fornecidos. Use emojis e hashtags.”
 4. Conecte um modelo via **OpenRouter** (ex: Claude 3.5, GPT-4, Gemini, etc.).
-5. Teste a geração do conteúdo.
+5. Teste a geraçêo do conteúdo.
 
 ---
 
@@ -275,19 +275,19 @@ Automatizar a criação de posts para LinkedIn a partir de uma lista de tópicos
   `topic: AI image generation`, `status: to-do`
 - Tavily traz 3 artigos sobre o tema.
 - Agente IA gera:  
-  “✨ A revolução criativa chegou! Com IA, você transforma ideias em imagens únicas. Sem precisar de designers caros. #IA #Design #Criatividade 💡🧠”
+  “✨ A revoluçêo criativa chegou! Com IA, você transforma ideias em imagens únicas. Sem precisar de designers caros. #IA #Design #Criatividade 💡🧠”
 - Linha atualizada na planilha com status `created`.
 
 ---
 
 ### OPCIONAL – Tornar o processo contínuo:
 - Use o nó **Google Sheets > Append Row** para gerar novos tópicos todos os dias.
-- Use um **Webhook** para acionar o fluxo com clique ou integração externa.
+- Use um **Webhook** para acionar o fluxo com clique ou integraçêo externa.
 
 ---
 
 ### BENEFÍCIOS:
-- Geração diária de conteúdo sem esforço.
+- Geraçêo diária de conteúdo sem esforço.
 - Baseado em pesquisa atual e automatizada.
 - Ideal para manter presença ativa e relevante no LinkedIn.
 
@@ -344,7 +344,7 @@ Criar um sistema de atendimento por e-mail automatizado, onde a IA lê o conteú
 
 ---
 
-#### ETAPA 2 – Classificar o e-mail (é suporte ou não?)
+#### ETAPA 2 – Classificar o e-mail (é suporte ou nêo?)
 1. Adicione o nó **Text Classifier (IA)**.
 2. Use o **modelo de linguagem do OpenRouter** (ex: Claude, GPT-4, etc.).
 3. Defina duas categorias:
@@ -374,7 +374,7 @@ Criar um sistema de atendimento por e-mail automatizado, onde a IA lê o conteú
 1. Adicione o nó **Gmail > Reply to Message**.
 2. Pegue o **ID da mensagem original** (do primeiro nó Gmail).
 3. Use o **output do agente de IA** como corpo da resposta.
-4. Marque a opção para **remover a marca de "enviado via n8n"**.
+4. Marque a opçêo para **remover a marca de "enviado via n8n"**.
 
 ---
 
@@ -388,15 +388,15 @@ Criar um sistema de atendimento por e-mail automatizado, onde a IA lê o conteú
 ### EXEMPLO PRÁTICO:
 - E-mail recebido:  
   “Olá, estou preocupado com minha privacidade. Como vocês tratam meus dados?”
-- Classificação: **Customer Support**
+- Classificaçêo: **Customer Support**
 - Resposta automática:  
-  “Olá 😊 Obrigado por entrar em contato! Na Tech Haven, levamos sua privacidade a sério. Seus dados são protegidos conforme nossa política. Veja os detalhes em nosso site. 🛡️”
+  “Olá 😊 Obrigado por entrar em contato! Na Tech Haven, levamos sua privacidade a sério. Seus dados sêo protegidos conforme nossa política. Veja os detalhes em nosso site. 🛡️”
 
 ---
 
 ### BENEFÍCIOS:
 - Atendimento rápido e personalizado 24h.
-- Integração com base de conhecimento vetorizada (RAG).
+- Integraçêo com base de conhecimento vetorizada (RAG).
 - Fluxo modular e expansível (suporte, vendas, finanças etc.).
 Midia: MessageMediaWebPage
 
@@ -467,7 +467,7 @@ Criar um chatbot que responde perguntas com base no conteúdo de documentos PDF 
 #### ETAPA 4 – Configurar a OpenAI
 1. Crie uma conta em [OpenAI](https://platform.openai.com/).
 2. Gere uma chave de API.
-3. Use o modelo `text-embedding-3-small` para vetorização.
+3. Use o modelo `text-embedding-3-small` para vetorizaçêo.
 4. Conecte o modelo de embeddings no nó de Pinecone no n8n.
 
 #### ETAPA 5 – Criar o chatbot
@@ -548,7 +548,7 @@ MENSAGEM 23
 Autor: INEMA
 Data: 2025-04-07T22:28:03+00:00
 Texto:
-Os três fluxos são: um chatbot com base em documentos (RAG), um sistema automático de resposta a e-mails de suporte, e um gerador diário de posts para LinkedIn usando IA e pesquisa web.
+Os três fluxos sêo: um chatbot com base em documentos (RAG), um sistema automático de resposta a e-mails de suporte, e um gerador diário de posts para LinkedIn usando IA e pesquisa web.
 
 ------------------------------
 

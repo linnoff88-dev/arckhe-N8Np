@@ -13,7 +13,7 @@ MENSAGEM 1
 Autor: INEMA
 Data: 2025-04-18T05:57:24+00:00
 Texto:
-Aqui estão os **principais hacks e dicas** extraídos do vídeo **"Crie um exército de agentes MCP definitivo no n8n"**, com foco em acelerar sua implementação e evitar armadilhas:
+Aqui estêo os **principais hacks e dicas** extraídos do vídeo **"Crie um exército de agentes MCP definitivo no n8n"**, com foco em acelerar sua implementaçêo e evitar armadilhas:
 
 ---
 
@@ -24,13 +24,13 @@ Aqui estão os **principais hacks e dicas** extraídos do vídeo **"Crie um exé
 - O **Switch Node** direciona automaticamente o tipo de entrada (texto, imagem, voz, arquivo) para o agente certo.
 
 **Exemplo**:  
-Você pode mandar um áudio no Telegram dizendo “agende uma reunião”, e ele entenderá e processará.
+Você pode mandar um áudio no Telegram dizendo “agende uma reuniêo”, e ele entenderá e processará.
 
 ---
 
-#### 2. **Ative a versão correta do n8n (1.88.0)**
-- Versões antigas não suportam os novos agentes MCP e o recurso de **AI Agent com SSE**.
-- No **n8n Cloud**, vá nas configurações e selecione a versão beta 1.88.0.
+#### 2. **Ative a versêo correta do n8n (1.88.0)**
+- Versões antigas nêo suportam os novos agentes MCP e o recurso de **AI Agent com SSE**.
+- No **n8n Cloud**, vá nas configurações e selecione a versêo beta 1.88.0.
 
 ---
 
@@ -49,7 +49,7 @@ Você pode mandar um áudio no Telegram dizendo “agende uma reunião”, e ele
 ---
 
 #### 5. **Conecte agentes externos com SSE (Server-Sent Events)**
-- A URL do servidor de cada agente segue o padrão:  
+- A URL do servidor de cada agente segue o padrêo:  
   `https://<sua-instância>/mcp/<nome-agente>/sse`
 
 **Exemplos**:
@@ -73,23 +73,23 @@ Você pode mandar um áudio no Telegram dizendo “agende uma reunião”, e ele
 ---
 
 #### 8. **Automatize entrada de dados com mapeamento automático**
-- No Google Sheets ou Docs, use o botão de **preenchimento automático do modelo** para evitar escrever expressões manualmente.
+- No Google Sheets ou Docs, use o botêo de **preenchimento automático do modelo** para evitar escrever expressões manualmente.
 
 ---
 
 #### 9. **Use GPT para gerar conteúdos prontos**
-- No agente de redes sociais, use GPT para gerar automaticamente postagens para Threads ou Facebook com formatação envolvente.
+- No agente de redes sociais, use GPT para gerar automaticamente postagens para Threads ou Facebook com formataçêo envolvente.
 
 ---
 
-#### 10. **Melhore a precisão das imagens enviadas**
-- Quando enviar imagens pelo Telegram, **use sempre a versão de maior resolução**:
+#### 10. **Melhore a precisêo das imagens enviadas**
+- Quando enviar imagens pelo Telegram, **use sempre a versêo de maior resoluçêo**:
   - Pegue o índice `-1` (última imagem da lista JSON) do array `photo` no objeto da mensagem.
 
 ---
 
 ### Exemplos práticos de comandos no Telegram:
-- **"Agende uma reunião para amanhã às 14h"** → aciona o agente de calendário
+- **"Agende uma reuniêo para amanhê às 14h"** → aciona o agente de calendário
 - **"Pesquise os melhores restaurantes de SP"** → agente de pesquisa
 - **"Salve este recibo" (com imagem)** → agente contábil
 - **"Crie uma proposta para nosso cliente de IA"** → agente de documentos
@@ -103,7 +103,7 @@ Data: 2025-04-18T05:56:32+00:00
 Texto:
 **Resumo do vídeo “Crie um exército de agentes MCP definitivo no n8n”**
 
-O vídeo ensina como criar um sistema completo de automação com agentes de IA (MCP Agents) no **n8n**, usando **templates prontos** e **sem programação**, para automatizar tarefas como:
+O vídeo ensina como criar um sistema completo de automaçêo com agentes de IA (MCP Agents) no **n8n**, usando **templates prontos** e **sem programaçêo**, para automatizar tarefas como:
 
 ### 1. **Objetivo**
 Criar um exército de agentes MCP no n8n para automatizar:
@@ -142,7 +142,7 @@ Com exemplos reais no Telegram:
 ### 4. **Como configurar**
 #### n8n Cloud:
 - Acessar https://app.n8n.cloud
-- Atualizar para a versão **1.88.0**
+- Atualizar para a versêo **1.88.0**
 - Importar template do MCP Agent Army
 
 #### n8n Local:
@@ -153,15 +153,15 @@ Com exemplos reais no Telegram:
 ---
 
 ### 5. **Detalhes técnicos**
-- Integração com **Anthropic Claude** como modelo de chat
+- Integraçêo com **Anthropic Claude** como modelo de chat
 - Uso de **memória simples** (últimas 5 interações)
-- Conexão com ferramentas via **MCP Client Tool**
-- Comunicação via **Server-Sent Events (SSE)**
+- Conexêo com ferramentas via **MCP Client Tool**
+- Comunicaçêo via **Server-Sent Events (SSE)**
 
 ---
 
 ### 6. **Servidores MCP (backends de cada agente)**
-| Servidor          | Ferramentas e Função                                                      |
+| Servidor          | Ferramentas e Funçêo                                                      |
 |-------------------|---------------------------------------------------------------------------|
 | Pesquisa          | Web Crawler, Google Maps, YouTube Search, Perplexity AI                  |
 | Vendas (CRM)      | Google Sheets para registrar leads                                        |
@@ -174,7 +174,7 @@ Com exemplos reais no Telegram:
 
 ---
 
-### 7. **Configuração do Telegram**
+### 7. **Configuraçêo do Telegram**
 - Criar bot com **BotFather**
 - Configurar `Access Token` no n8n
 - Roteamento por tipo de mensagem: texto, voz, imagem, arquivo
@@ -182,8 +182,8 @@ Com exemplos reais no Telegram:
 
 ---
 
-### 8. **Importação de templates**
-- Os templates estão disponíveis gratuitamente na comunidade
+### 8. **Importaçêo de templates**
+- Os templates estêo disponíveis gratuitamente na comunidade
 - É possível importar e ativar cada fluxo com poucos cliques
 
 ---
@@ -224,7 +224,7 @@ https://app.n8n.cloud/dashboard
 
 Clique no ícone de Configurações
 
-Altere para a versão 1.88.0
+Altere para a versêo 1.88.0
 
 n8n Local  
 https://dashboard.ngrok.com/domains > Novo Domínio

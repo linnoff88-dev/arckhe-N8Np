@@ -58,7 +58,7 @@
       "credentials": {
         "googlePalmApi": {
           "id": "gVMH2T1624AUVtgA",
-          "name": "GEMINI - PRODUÇÃO"
+          "name": "GEMINI - PRODUÇêO"
         }
       },
       "typeVersion": 1
@@ -117,7 +117,7 @@
       "credentials": {
         "oracleCredentials": {
           "id": "Dj4SbJh38O9fJ7kg",
-          "name": "PROTHEUS - PRODUÇÃO (APPN8N)"
+          "name": "PROTHEUS - PRODUÇêO (APPN8N)"
         }
       },
       "typeVersion": 1

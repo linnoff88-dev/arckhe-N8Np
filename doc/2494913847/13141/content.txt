@@ -30,17 +30,17 @@ MENSAGEM 3
 Autor: INEMA
 Data: 2025-08-25T00:04:31+00:00
 Texto:
-No vídeo e também na prática de quem monta esse tipo de fluxo no **n8n**, aparecem vários "hacks" (atalhos e boas práticas) que aceleram muito a construção de sistemas multiagente. Vou organizar em blocos:
+No vídeo e também na prática de quem monta esse tipo de fluxo no **n8n**, aparecem vários "hacks" (atalhos e boas práticas) que aceleram muito a construçêo de sistemas multiagente. Vou organizar em blocos:
 
 ---
 
-# Hacks sobre construção no n8n
+# Hacks sobre construçêo no n8n
 
-## 1. Organização e higiene do fluxo
+## 1. Organizaçêo e higiene do fluxo
 
 * **Renomear nós sempre** (ex.: “Initial Research”, “Planning Agent”, etc.) → facilita debugar e entender depois.
-* **Pin Data (tecla P)** → trava a saída de um nó; assim você não precisa ficar reexecutando pesquisas/LLM caras cada vez que mexe no fluxo.
-* **Espaçamento e agrupamento visual** → agrupe nós por fase (pesquisa, planejamento, redação, edição, envio).
+* **Pin Data (tecla P)** → trava a saída de um nó; assim você nêo precisa ficar reexecutando pesquisas/LLM caras cada vez que mexe no fluxo.
+* **Espaçamento e agrupamento visual** → agrupe nós por fase (pesquisa, planejamento, redaçêo, ediçêo, envio).
 
 ## 2. Uso de funções e transformações
 
@@ -50,21 +50,21 @@ No vídeo e também na prática de quem monta esse tipo de fluxo no **n8n**, apa
 
 ## 3. Estratégia de agentes especializados
 
-* **Dividir papéis de IA** → um agente só planeja, outro só escreve seção, outro só edita. Isso reduz alucinação e mantém consistência.
-* **Modelos diferentes para funções diferentes** → use `gpt-5-mini` ou equivalente para passos rápidos (planejamento/redação) e um modelo mais robusto (`gpt-5`, `claude`, `gemini`) para a edição final em HTML.
+* **Dividir papéis de IA** → um agente só planeja, outro só escreve seçêo, outro só edita. Isso reduz alucinaçêo e mantém consistência.
+* **Modelos diferentes para funções diferentes** → use `gpt-5-mini` ou equivalente para passos rápidos (planejamento/redaçêo) e um modelo mais robusto (`gpt-5`, `claude`, `gemini`) para a ediçêo final em HTML.
 
 ## 4. Pesquisa otimizada
 
 * **Tavily/SerpAPI/Perplexity com filtros** → defina `topic: news` e `time_range: past_week` para capturar só o que é quente.
-* **Max Results ajustado** → em testes, limite a 3 resultados; em produção, pode aumentar para 6–10 para enriquecer a newsletter.
+* **Max Results ajustado** → em testes, limite a 3 resultados; em produçêo, pode aumentar para 6–10 para enriquecer a newsletter.
 
-## 5. Iteração rápida
+## 5. Iteraçêo rápida
 
 * **Construir em blocos** → teste o fluxo parcial: primeiro só a pesquisa, depois só o planejador, etc.
 * **Salvar versões** → clone workflows em vez de sobrescrever. Assim você testa ajustes sem quebrar o fluxo ativo.
-* **Wireframe antes** (Excalidraw/Miro) → pensar o fluxo fora do n8n ajuda a não travar depois na implementação.
+* **Wireframe antes** (Excalidraw/Miro) → pensar o fluxo fora do n8n ajuda a nêo travar depois na implementaçêo.
 
-## 6. Escalabilidade e manutenção
+## 6. Escalabilidade e manutençêo
 
 * **Executar Split Out + Execute Workflow** → permite processar seções em paralelo e facilita reuso do sub-workflow em outros projetos.
 * **Logs em Google Sheets/Airtable** → registre cada newsletter enviada, links e fontes para ter histórico e feedback.
@@ -77,7 +77,7 @@ No vídeo e também na prática de quem monta esse tipo de fluxo no **n8n**, apa
 * Durante o vídeo ele mostra que **formatar os resultados do Tavily com uma Function** deixa o LLM mais eficaz, em vez de mandar dados crus.
 * Ele explica que **Structured Output Parser** resolve o problema de ter tudo misturado em uma única variável.
 * Ele usa o truque de **`.join('\n\n\n')`** ao agregar seções, para que o Editor Agent saiba onde começa cada parte.
-* Ele reforça a importância de **pinar dados** em cada etapa para não gastar chamadas de API à toa durante o build.
+* Ele reforça a importância de **pinar dados** em cada etapa para nêo gastar chamadas de API à toa durante o build.
 
 ---
 
@@ -147,13 +147,13 @@ Planejador — System
 ```Você é um planejador de newsletter. Com base nos artigos recentes, crie:
 1) newsletter_title criativo e claro
 2) topics: exatamente 3 tópicos (3–5 palavras cada), sem redundância
-Público-alvo: líderes de PMEs interessados em adoção de IA.
+Público-alvo: líderes de PMEs interessados em adoçêo de IA.
 Responda apenas no JSON exigido.```
 
-Redator de Seção — System
+Redator de Seçêo — System
 
 V```ocê é redator sênior de newsletters.
-Escreva UMA seção com H2, 2–4 parágrafos curtos e, se útil, 1 lista.
+Escreva UMA seçêo com H2, 2–4 parágrafos curtos e, se útil, 1 lista.
 Cite fontes inline como [n] após o fato.
 Tom profissional e claro.
 Retorne JSON: {"output": "...", "citations":[{"n":1,"title":"...","url":"..."}]}
@@ -187,11 +187,11 @@ Tópico: fontes nomeadas
 Exemplo: quero que apareça o nome do site em vez de \[source]
 Resposta: ajuste o Redator/Editor para renderizar \[n] como \[Forbes] e no bloco “Fontes” listar “Forbes – URL”.
 
-Tópico: personalização por público
+Tópico: personalizaçêo por público
 Exemplo: meu ICP é saúde sênior
-Resposta: adicione no System do Planejador/Redator/Editor uma seção “Público” com tom, jargões permitidos e tópicos sensíveis.
+Resposta: adicione no System do Planejador/Redator/Editor uma seçêo “Público” com tom, jargões permitidos e tópicos sensíveis.
 
-Tópico: logs e revisão
+Tópico: logs e revisêo
 Exemplo: quero histórico e feedback
 Resposta: após o Editor, acrescente nó Google Sheets Append Row com data, subject, links, status e coluna Feedback. Crie um segundo fluxo que lê feedbacks e re-treina prompts.
 
@@ -235,7 +235,7 @@ return [{ json: { topic: $json, research_pack: pack, sources: results.map(r => (
 * Chat Model: OpenRouter → gpt-5-mini
 * User message:
 ```
-Você vai escrever UMA seção de newsletter.
+Você vai escrever UMA seçêo de newsletter.
 
 Tópico:
 {{$json.topic}}
@@ -246,18 +246,18 @@ Pesquisa (amostras, com trechos):
 ```* System message:
 
 ```Você é redator sênior de newsletters.
-Escreva uma única seção, com:
+Escreva uma única seçêo, com:
 - Heading claro (H2)
 - 2–4 parágrafos curtos
 - 1 lista com bullets se útil
-- Cite fontes inline no formato [n] imediatamente após o dado ou citação.
+- Cite fontes inline no formato [n] imediatamente após o dado ou citaçêo.
 - Priorize dados verificáveis (datas, números, entidades).
-- Tom profissional, claro, sem jargão.
-- Não escreva título geral, introdução nem conclusão da newsletter.
+- Tom profissional, claro, sem jargêo.
+- Nêo escreva título geral, introduçêo nem conclusêo da newsletter.
 Ao final, retorne também uma lista "citations" com [{n, title, url}] na ordem usada.
 Formato de saída:
 {
-  "output": "SEÇÃO EM MARKDOWN OU HTML SIMPLES",
+  "output": "SEÇêO EM MARKDOWN OU HTML SIMPLES",
   "citations": [{"n":1,"title":"...","url":"..."}]
 }
 Responda apenas no JSON pedido.
@@ -293,8 +293,8 @@ Responda apenas no JSON pedido.
 
 * Modo: Aggregate
 * Campo para agregar: output
-* Agregação: Concatenate
-* Resultado: um único item com um array ou string concatenada, conforme a opção.
+* Agregaçêo: Concatenate
+* Resultado: um único item com um array ou string concatenada, conforme a opçêo.
   Se ficar como array, antes do Editor use Set:
 * Campo sections\_joined:
 
@@ -305,7 +305,7 @@ Responda apenas no JSON pedido.
 * Chat Model: OpenRouter → gpt-5
 * User message:
 
-Sub```ject (sugestão): {{$node["Planning Agent"].json["newsletter_title"]}}
+Sub```ject (sugestêo): {{$node["Planning Agent"].json["newsletter_title"]}}
 
 Sections (separadas por linhas em branco):
 {{$json.sections_joined}}
@@ -313,10 +313,10 @@ Sections (separadas por linhas em branco):
 *``` System message:
 
 Você``` é editor-chefe de newsletter. Entregue HTML final pronto, com:
-1) Título da edição (H1) coerente com o subject
-2) Introdução breve (2–3 linhas) com contexto e tese
-3) Sumário com links-âncora para cada seção
-4) Cada seção com H2, parágrafos curtos e bullets quando útil
+1) Título da ediçêo (H1) coerente com o subject
+2) Introduçêo breve (2–3 linhas) com contexto e tese
+3) Sumário com links-âncora para cada seçêo
+4) Cada seçêo com H2, parágrafos curtos e bullets quando útil
 5) Fontes ao final: lista única de URLs clicáveis (sem duplicatas)
 6) Assinatura breve
 
@@ -357,7 +357,7 @@ Responda apenas no JSON exigido.
 
 # Melhorias e variações avançadas
 
-* Anti-alucinação: no Redator, exija ao menos uma \[n] por parágrafo; se faltar fonte, escrever “sem fonte confiável”.
+* Anti-alucinaçêo: no Redator, exija ao menos uma \[n] por parágrafo; se faltar fonte, escrever “sem fonte confiável”.
 * Checagem de links: após o Editor, HTTP Request (HEAD) em cada URL; remova as quebradas antes do Gmail.
 * Logs e feedbac
 
@@ -375,7 +375,7 @@ MENSAGEM 12
 Autor: INEMA
 Data: 2025-08-24T23:59:41+00:00
 Texto:
-,. Abaixo vai um guia direto, replicável e completo para você construir exatamente o sistema do vídeo no n8n: pesquisa inicial → planejamento de tópicos → pesquisas por tópico → redação por seção → edição em HTML → envio como rascunho no Gmail. Incluí prompts prontos, schemas do Structured Output Parser, expressões e funções de apoio.
+,. Abaixo vai um guia direto, replicável e completo para você construir exatamente o sistema do vídeo no n8n: pesquisa inicial → planejamento de tópicos → pesquisas por tópico → redaçêo por seçêo → ediçêo em HTML → envio como rascunho no Gmail. Incluí prompts prontos, schemas do Structured Output Parser, expressões e funções de apoio.
 
 # Resumo completo do fluxo do vídeo
 
@@ -384,9 +384,9 @@ Texto:
 3. Agente Planejador cria título e 3 tópicos a partir da pesquisa.
 4. Split Out divide os 3 tópicos.
 5. Pesquisa aprofundada por tópico com Tavily, agora com raw\_content.
-6. Agente Redator escreve uma seção por tópico, citando fontes.
+6. Agente Redator escreve uma seçêo por tópico, citando fontes.
 7. Aggregate junta as 3 seções.
-8. Agente Editor gera HTML final com introdução, conclusão e bloco de fontes.
+8. Agente Editor gera HTML final com introduçêo, conclusêo e bloco de fontes.
 9. Gmail cria um rascunho com subject e corpo em HTML.
 
 # Pré-requisitos rápidos
@@ -454,8 +454,8 @@ No Planning Agent:
 V```ocê é um planejador de newsletter. Com base nos artigos recentes, crie:
 1) newsletter_title criativo e claro
 2) topics: exatamente 3 tópicos (3–5 palavras cada), sem redundância
-Público-alvo: líderes de PMEs interessados em adoção de IA.
-O título e os tópicos devem cobrir o panorama semanal com conexão lógica entre si.
+Público-alvo: líderes de PMEs interessados em adoçêo de IA.
+O título e os tópicos devem cobrir o panorama semanal com conexêo lógica entre si.
 Responda apenas no formato exigido.
 ```
 * Require specific output format: on
@@ -487,10 +487,10 @@ Responda apenas no formato exigido.
 
 * Renomeie para Research Topics
 * Query: {{\$json}}
-  Dica: substitua por expressão clara:
+  Dica: substitua por expressêo clara:
 
   * Query: {{\$json}}
-  * Em Query, clique em expressão e use: {{\$json}}
+  * Em Query, clique em expressêo e use: {{\$json}}
     (ou simplesmente arraste o campo do Split Out se a UI listar o value)
     Melhor ainda, defina explicitamente:
   * Query: {{\$json}}
@@ -542,19 +542,19 @@ Texto:
 
 * **Planning Agent** (LLM): recebe o tema e cria um **plano editorial** com título e tópicos/seções.
 * Saída estruturada em JSON: lista de seções com key\_points e queries.
-* **Split Out**: divide cada seção em itens separados, para processar em paralelo.
+* **Split Out**: divide cada seçêo em itens separados, para processar em paralelo.
 
 ## 4. Writing Newsletter Sections
 
 * **Research Topics** (HTTP Request): busca específica por cada subtópico planejado.
-* **Section Writer Agent** (LLM): escreve a seção em Markdown, usando resultados da pesquisa e adicionando citações \[1], \[2] etc.
+* **Section Writer Agent** (LLM): escreve a seçêo em Markdown, usando resultados da pesquisa e adicionando citações \[1], \[2] etc.
 * **Memory Tool**: guarda consistência de estilo, evitando contradições entre seções.
 
 ## 5. Editing Final Copy
 
 * **Aggregate**: junta todas as seções escritas em um único objeto.
 * **Editor Agent** (LLM): revisa o texto, adiciona abertura, sumário com âncoras, padroniza estilo e cria bloco de fontes únicas no final.
-* Saída: um rascunho final pronto para publicação.
+* Saída: um rascunho final pronto para publicaçêo.
 
 ## 6. Send Draft
 
@@ -566,17 +566,17 @@ Texto:
 1. Cada etapa usa **LLMs diferentes como agentes especializados**: Planejador, Escritor de Seções, Editor.
 2. Uso de **Structured Output Parser** garante que cada agente retorne JSON válido, evitando bagunça.
 3. O fluxo é modular: você pode rodar só uma parte (ex.: gerar seções sem editor).
-4. O **Split Out** permite processar cada seção em paralelo, acelerando.
+4. O **Split Out** permite processar cada seçêo em paralelo, acelerando.
 5. O **Editor Agent** final é essencial para consistência e profissionalismo no resultado.
 
 # Exemplo de Saída Final
 
 * Título: "Boletim Especial: IA e Saúde em 2025"
-* Abertura: introdução de 2-3 linhas
+* Abertura: introduçêo de 2-3 linhas
 * Sumário: lista com links internos
 * Seções: cada uma com subtítulo, parágrafos curtos, citações
 * Fontes: lista consolidada de links no final
-* Rascunho enviado no Gmail para revisão
+* Rascunho enviado no Gmail para revisêo
 
 ------------------------------
 
@@ -592,11 +592,11 @@ MENSAGEM 16
 Autor: INEMA
 Data: 2025-08-24T23:54:13+00:00
 Texto:
-# Visão geral rápida
+# Visêo geral rápida
 
 1. Você informa o tema do boletim.
 2. Agente Planejador define a estrutura de seções.
-3. Para cada seção: um agente faz pesquisa focada, outro redige a seção com citações.
+3. Para cada seçêo: um agente faz pesquisa focada, outro redige a seçêo com citações.
 4. Agente Editor junta tudo, normaliza estilo, checa links e gera rascunho final.
 5. Sistema envia o rascunho para seu e-mail e/ou salva no Drive.
 
@@ -611,8 +611,8 @@ Texto:
 # Arquitetura dos agentes
 
 * Agente Planejador: transforma o tema em um plano com 4–7 seções.
-* Agente Pesquisador: para cada seção, busca 5–10 fontes de qualidade, devolve título, url e breve síntese.
-* Agente Redator: escreve a seção a partir dos apontamentos do pesquisador, mantendo citações inline e referências.
+* Agente Pesquisador: para cada seçêo, busca 5–10 fontes de qualidade, devolve título, url e breve síntese.
+* Agente Redator: escreve a seçêo a partir dos apontamentos do pesquisador, mantendo citações inline e referências.
 * Agente Editor: une todas as seções, padroniza tom, adiciona sumário e bloco final de fontes.
 
 ------------------------------

@@ -69,7 +69,7 @@ MENSAGEM 8
 Autor: Automatizze
 Data: 2025-08-11T21:13:27+00:00
 Texto:
-O meu ficou assim tbem qua do atualizei a versão do evolution..
+O meu ficou assim tbem qua do atualizei a versêo do evolution..
 
 ------------------------------
 
@@ -77,7 +77,7 @@ MENSAGEM 9
 Autor: Automatizze
 Data: 2025-08-11T21:13:12+00:00
 Texto:
-Isso deve ser o erro da versão.. tem um link por aqui que soluciona isso
+Isso deve ser o erro da versêo.. tem um link por aqui que soluciona isso
 
 ------------------------------
 
@@ -85,7 +85,7 @@ MENSAGEM 10
 Autor: Nicolas
 Data: 2025-08-11T20:48:06+00:00
 Texto:
-Esse é o problema amigo, não está gerando o QR code
+Esse é o problema amigo, nêo está gerando o QR code
 
 ------------------------------
 
@@ -102,7 +102,7 @@ MENSAGEM 12
 Autor: Nicolas
 Data: 2025-08-11T17:11:26+00:00
 Texto:
-Preciso de um vídeo explicando isso pra todos que vi ensina a fazer ela funcionar mas não ensinar o a fazer o QR code funcionar e sem ele não adianta nada
+Preciso de um vídeo explicando isso pra todos que vi ensina a fazer ela funcionar mas nêo ensinar o a fazer o QR code funcionar e sem ele nêo adianta nada
 
 ------------------------------
 
@@ -110,7 +110,7 @@ MENSAGEM 13
 Autor: Nicolas
 Data: 2025-08-11T17:10:14+00:00
 Texto:
-Ainda não, estou tentando instalar a evolution2 em localhost mas não consigo gerar o QR code
+Ainda nêo, estou tentando instalar a evolution2 em localhost mas nêo consigo gerar o QR code
 
 ------------------------------
 
@@ -118,7 +118,7 @@ MENSAGEM 14
 Autor: Diego
 Data: 2025-08-11T17:07:44+00:00
 Texto:
-Conseguiu resolver? Estava usando que versão?
+Conseguiu resolver? Estava usando que versêo?
 
 ------------------------------
 
@@ -134,7 +134,7 @@ MENSAGEM 16
 Autor: Nicolas
 Data: 2025-08-10T21:34:45+00:00
 Texto:
-Boa noite! Alguém tem o script pronto da evo2 pra subir na stak do portainer. A que tenho aqui não gera o QR code
+Boa noite! Alguém tem o script pronto da evo2 pra subir na stak do portainer. A que tenho aqui nêo gera o QR code
 
 ------------------------------
 
@@ -150,28 +150,28 @@ MENSAGEM 18
 Autor: INEMA
 Data: 2025-07-28T03:56:03+00:00
 Texto:
-IMPORTANTE: Atualização Evolution API
+IMPORTANTE: Atualizaçêo Evolution API
 
 
-Recebemos muitas mensagens sobre falhas na Evolution API: o código QR não é gerado, os webhooks não funcionam… Mas já temos a solução.
+Recebemos muitas mensagens sobre falhas na Evolution API: o código QR nêo é gerado, os webhooks nêo funcionam… Mas já temos a soluçêo.
 
 O que aconteceu?
-O WhatsApp alterou uma variável interna usada pela Evolution API para sincronização com o WhatsApp Web, causando erros nas versões antigas.
+O WhatsApp alterou uma variável interna usada pela Evolution API para sincronizaçêo com o WhatsApp Web, causando erros nas versões antigas.
 
 Como resolver?
-Você só precisa atualizar a configuração do seu stack no Portainer seguindo estes passos:
+Você só precisa atualizar a configuraçêo do seu stack no Portainer seguindo estes passos:
 
 PASSO 1: Atualize a imagem do container
 Troque a linha do repositório antigo por esta nova:
 imagem: evoapicloud/evolution-api\:latest
-Esta imagem garante a versão mais recente, compatível com as mudanças do WhatsApp.
+Esta imagem garante a versêo mais recente, compatível com as mudanças do WhatsApp.
 
 PASSO 2: Modifique (ou comente) a variável de ambiente
 Se a variável abaixo estiver presente na sua stack:
 CONFIG\_SESSION\_PHONE\_VERSION=2.2322.14.0
 Substitua por:
 CONFIG\_SESSION\_PHONE\_VERSION=2.3000.1023204200
-Ou, se estiver usando a versão mais nova da Evolution API, apenas comente ou exclua a linha:
+Ou, se estiver usando a versêo mais nova da Evolution API, apenas comente ou exclua a linha:
 
 # CONFIG\_SESSION\_PHONE\_VERSION=2.3000.1023204200
 
@@ -181,7 +181,7 @@ Aguarde alguns segundos para que o serviço volte a funcionar.
 
 Pronto! O sistema estará funcionando normalmente.
 
-Dica : Se não for necessário manter versões antigas, utilize sempre a nova imagem e remova essa variável para evitar erros no futuro.
+Dica : Se nêo for necessário manter versões antigas, utilize sempre a nova imagem e remova essa variável para evitar erros no futuro.
 
 ---
 
@@ -189,25 +189,25 @@ Dica : Se não for necessário manter versões antigas, utilize sempre a nova im
 
 1. **Problema**
 
-   * Falha na Evolution API (QR não gera, webhooks param de funcionar).
+   * Falha na Evolution API (QR nêo gera, webhooks param de funcionar).
 
 2. **Motivo**
 
    * Mudança de variável interna do WhatsApp.
 
-3. **Solução passo a passo**
+3. **Soluçêo passo a passo**
 
    * Atualizar a imagem do container para a mais recente.
 
      * Exemplo: `evoapicloud/evolution-api:latest`
-   * Modificar ou remover a variável de ambiente da sessão.
+   * Modificar ou remover a variável de ambiente da sessêo.
 
      * Exemplo: substituir ou comentar a linha da variável.
    * Atualizar a stack no Portainer.
 
-4. **Recomendação**
+4. **Recomendaçêo**
 
-   * Sempre usar a versão mais atualizada da API e remover variáveis antigas para evitar problemas.
+   * Sempre usar a versêo mais atualizada da API e remover variáveis antigas para evitar problemas.
 
 ------------------------------
 
@@ -274,11 +274,11 @@ Texto:
 tem atualizar
 
  
-image: atendai/evolution-api:latest ## Versão da Evolution API
+image: atendai/evolution-api:latest ## Versêo da Evolution API
 
 para 
 
-image: evoapiclaude/evolution-api:latest ## Versão da Evolution API
+image: evoapiclaude/evolution-api:latest ## Versêo da Evolution API
 
 ------------------------------
 

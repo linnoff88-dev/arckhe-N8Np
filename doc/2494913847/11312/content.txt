@@ -104,27 +104,27 @@ Data: 2025-07-13T02:32:02+00:00
 Texto:
 ### 🚀 Hacks do Pipeline (mostrados no vídeo)
 
-1. **Recycle Bin como “Deleção Simulada”**
+1. **Recycle Bin como “Deleçêo Simulada”**
 
-   * Como o Google Drive API não tem evento de “arquivo excluído”, o autor cria uma pasta “recycling bin” para onde os arquivos são movidos quando precisam ser apagados.
-   * O trigger detecta arquivos criados nessa pasta e executa a exclusão no banco.
-   * ✅ **Vantagem**: evita limitações da API e permite controle manual da deleção.
+   * Como o Google Drive API nêo tem evento de “arquivo excluído”, o autor cria uma pasta “recycling bin” para onde os arquivos sêo movidos quando precisam ser apagados.
+   * O trigger detecta arquivos criados nessa pasta e executa a exclusêo no banco.
+   * ✅ **Vantagem**: evita limitações da API e permite controle manual da deleçêo.
 
 2. **Metadados Inteligentes com `file_ID`**
 
    * Cada vetor é associado ao ID do arquivo original no Drive.
    * Permite localizar e deletar rapidamente todos os vetores relacionados a um arquivo específico.
-   * ✅ **Vantagem**: garante sincronização perfeita entre o Drive e o Vector Store.
+   * ✅ **Vantagem**: garante sincronizaçêo perfeita entre o Drive e o Vector Store.
 
 3. **Text Splitting com Overlap**
 
-   * Ao dividir o conteúdo em blocos de 1000 caracteres com 200 de sobreposição, mantém o contexto entre chunks.
+   * Ao dividir o conteúdo em blocos de 1000 caracteres com 200 de sobreposiçêo, mantém o contexto entre chunks.
    * ✅ **Vantagem**: evita perda de informações em consultas longas.
 
-4. **Atualização Dinâmica**
+4. **Atualizaçêo Dinâmica**
 
    * Antes de reprocessar um arquivo atualizado, o sistema exclui os vetores antigos usando o `file_ID`.
-   * ✅ **Vantagem**: garante que o banco não fique com dados obsoletos.
+   * ✅ **Vantagem**: garante que o banco nêo fique com dados obsoletos.
 
 5. **Fallback Manual de Query**
 
@@ -138,12 +138,12 @@ Texto:
 
 ### 💡 Hacks Extras para Melhorar o Sistema
 
-6. C**ontrole de Versão de Arquivos
+6. C**ontrole de Versêo de Arquivos
 **
    * Adicionar metadado v`ersion_number `para rastrear versões dos documentos.
    * ✅ Assim, você pode manter histórico de alterações.
 
-7. I**ndexação Incremental
+7. I**ndexaçêo Incremental
 **
    * Ao invés de reprocessar todo o documento atualizado, detectar quais trechos foram alterados e atualizar só esses vetores.
    * ✅ Reduz custo de embeddings e aumenta velocidade.
@@ -152,7 +152,7 @@ Texto:
 **
    * Para PDFs: usar OCR (Tesseract ou Google Vision API).
    * Para vídeos: extrair áudio e transcrever com Whisper ou AssemblyAI.
-   * ✅ Permite ingestão de qualquer tipo de conteúdo.
+   * ✅ Permite ingestêo de qualquer tipo de conteúdo.
 
 9. C**hunking Semântico
 **
@@ -212,16 +212,16 @@ Aqui vai o **passo a passo completo e direto** para você replicar o pipeline RA
 
 ---
 
-### 1. **Preparação**
+### 1. **Preparaçêo**
 
 * Crie uma pasta no Google Drive chamada `agentic database`.
-* Crie outra pasta chamada `recycling bin` (para simular deleção).
-* Configure o Superbase com extensão **pgvector** habilitada.
+* Crie outra pasta chamada `recycling bin` (para simular deleçêo).
+* Configure o Superbase com extensêo **pgvector** habilitada.
 * Crie uma tabela chamada `policy` com colunas:
 
   * `id` (chave primária)
   * `content` (JSONB)
-  * `embedding` (vetor de dimensão 1536)
+  * `embedding` (vetor de dimensêo 1536)
   * `metadata` (JSONB, incluir `file_ID`).
 
 ---
@@ -243,10 +243,10 @@ Aqui vai o **passo a passo completo e direto** para você replicar o pipeline RA
 
 * Configure um nó de **Superbase Vector Store**:
 
-  * Ação: “Adicionar documentos ao Vector Store”.
+  * Açêo: “Adicionar documentos ao Vector Store”.
   * Tabela: `policy`.
-  * Embedding Model: OpenAI `text-embedding-3-small` (dimensão 1536).
-  * Data Loader: Binário (não JSON).
+  * Embedding Model: OpenAI `text-embedding-3-small` (dimensêo 1536).
+  * Data Loader: Binário (nêo JSON).
   * Text splitting: cada 1000 caracteres com 200 de overlap.
   * Adicione metadado `file_ID` com o valor do ID do arquivo.
 
@@ -264,7 +264,7 @@ Aqui vai o **passo a passo completo e direto** para você replicar o pipeline RA
 
 ---
 
-### 6. **Detectar Atualização de Arquivo no Google Drive**
+### 6. **Detectar Atualizaçêo de Arquivo no Google Drive**
 
 * Configure um **trigger** para “Arquivo atualizado” na pasta `agentic database`.
 * Pegue o **ID do arquivo atualizado**.
@@ -275,7 +275,7 @@ Aqui vai o **passo a passo completo e direto** para você replicar o pipeline RA
 
 * Adicione um nó de **Superbase Delete Row**:
 
-  * Condição: `metadata->>'file_ID' = {{file_ID atualizado}}`.
+  * Condiçêo: `metadata->>'file_ID' = {{file_ID atualizado}}`.
   * Isso remove todos os vetores relacionados ao arquivo antigo.
 
 ---
@@ -287,7 +287,7 @@ Aqui vai o **passo a passo completo e direto** para você replicar o pipeline RA
 
 ---
 
-### 9. **Detectar Deleção Simulada (Mover para Lixeira)**
+### 9. **Detectar Deleçêo Simulada (Mover para Lixeira)**
 
 * Configure um **trigger** para “Arquivo criado” na pasta `recycling bin`.
 * Pegue o **ID do arquivo** ao ser movido.
@@ -298,22 +298,22 @@ Aqui vai o **passo a passo completo e direto** para você replicar o pipeline RA
 
 * Adicione um nó de **Superbase Delete Row**:
 
-  * Condição: `metadata->>'file_ID' = {{file_ID na lixeira}}`.
+  * Condiçêo: `metadata->>'file_ID' = {{file_ID na lixeira}}`.
 
 ---
 
 ### 11. **Testar o Pipeline**
 
 * Faça upload de um Google Doc na pasta `agentic database`.
-* Atualize o Doc e verifique se os vetores antigos são excluídos e novos adicionados.
-* Mova o Doc para `recycling bin` e confirme a exclusão dos vetores.
+* Atualize o Doc e verifique se os vetores antigos sêo excluídos e novos adicionados.
+* Mova o Doc para `recycling bin` e confirme a exclusêo dos vetores.
 
 ---
 
 ### 12. **Melhorias Futuras (opcional)**
 
-* Suporte a PDFs e vídeos (usar OCR ou transcrição).
-* Controle de versão com campo `version_number`.
+* Suporte a PDFs e vídeos (usar OCR ou transcriçêo).
+* Controle de versêo com campo `version_number`.
 * Filtragem por metadados como dono, data, departamento.
 
 ------------------------------
@@ -334,40 +334,40 @@ Como construir um pipeline **RAG (Retrieval-Augmented Generation)** usando **Goo
 
 Aqui está o resumo completo com tópicos:
 
-1. **Introdução e Objetivo**
+1. **Introduçêo e Objetivo**
 
    * Criar um pipeline RAG que lê arquivos Google Docs de uma pasta no Drive.
-   * Arquivos são convertidos em vetores e armazenados no Superbase.
+   * Arquivos sêo convertidos em vetores e armazenados no Superbase.
    * Atualizações nos Docs refletem no banco vetorial em tempo real.
-   * Sistema também remove os vetores quando os Docs são excluídos (via pasta “lixeira”).
+   * Sistema também remove os vetores quando os Docs sêo excluídos (via pasta “lixeira”).
 
-2. **Por que não Pinecone?**
+2. **Por que nêo Pinecone?**
 
    * O autor prefere Superbase pela facilidade de lidar com dados relacionais e operações SQL.
    * Pinecone é limitado para exclusões dinâmicas por metadados.
 
-3. **Construção do Pipeline – Etapas principais**
+3. **Construçêo do Pipeline – Etapas principais**
 
    * **Trigger 1**: Detecta novos arquivos na pasta “agentic database” do Google Drive.
    * **Download**: Pega o arquivo binário usando o ID do arquivo.
-   * **Vectorização**: Envia o conteúdo para o Superbase com metadados como file\_ID.
+   * **Vectorizaçêo**: Envia o conteúdo para o Superbase com metadados como file\_ID.
    * **Consulta**: IA busca informações nos vetores quando solicitada.
 
-4. **Atualização Automática de Arquivos**
+4. **Atualizaçêo Automática de Arquivos**
 
    * **Trigger 2**: Detecta modificações nos Docs.
-   * **Deleção**: Remove os vetores antigos com base no file\_ID.
+   * **Deleçêo**: Remove os vetores antigos com base no file\_ID.
    * **Reprocessamento**: Re-vectoriza e armazena o arquivo atualizado.
 
-5. **Exclusão de Arquivos**
+5. **Exclusêo de Arquivos**
 
-   * Como o Google Drive API não detecta deleções diretas, o autor usa uma pasta “recycling bin” (lixeira).
+   * Como o Google Drive API nêo detecta deleções diretas, o autor usa uma pasta “recycling bin” (lixeira).
    * Quando um Doc é movido para lá, o sistema deleta os vetores relacionados no Superbase.
 
 6. **Configurações e Ajustes Importantes**
 
-   * Embedding usado: OpenAI text-embedding-3-small (dimensão 1536).
-   * Text splitting com sobreposição de 200 caracteres para manter contexto.
+   * Embedding usado: OpenAI text-embedding-3-small (dimensêo 1536).
+   * Text splitting com sobreposiçêo de 200 caracteres para manter contexto.
    * Metadados podem ser expandidos para versões, donos, departamentos etc.
 
 7. **Problemas e Soluções**
@@ -378,15 +378,15 @@ Aqui está o resumo completo com tópicos:
 8. **Benefícios do Sistema**
 
    * Pipeline dinâmico e fácil de escalar para outros tipos de arquivos (PDFs, vídeos).
-   * Deleção e atualização de vetores baseada em metadados, algo mais difícil com Pinecone.
+   * Deleçêo e atualizaçêo de vetores baseada em metadados, algo mais difícil com Pinecone.
 
 9. **Possíveis Melhorias Futuras**
 
-   * Controle de versão dos documentos.
+   * Controle de versêo dos documentos.
    * Mais metadados para filtragem robusta.
    * Suporte a múltiplos tipos de arquivos.
 
-10. **Conclusão**
+10. **Conclusêo**
 
     * Todo o sistema foi construído em \~20 minutos.
     * Ferramenta poderosa para quem quer construir um RAG com Superbase.
@@ -409,9 +409,9 @@ Texto:
 
 Como criar um pipeline RAG dinâmico e simples que manipula o Google Docs.
 
-Esta configuração atualiza automaticamente seu banco de dados de vetores sempre que um documento é atualizado, e há até uma solução alternativa interessante para remover entradas do banco de dados de vetores se os documentos originais forem excluídos.
+Esta configuraçêo atualiza automaticamente seu banco de dados de vetores sempre que um documento é atualizado, e há até uma soluçêo alternativa interessante para remover entradas do banco de dados de vetores se os documentos originais forem excluídos.
 
-É uma construção leve, mas muito útil. É claro que você vai querer escalá-la para mais tipos de arquivo e metadados mais ricos com base no seu caso de uso, mas espero que isso lhe dê um ponto de partida sólido!
+É uma construçêo leve, mas muito útil. É claro que você vai querer escalá-la para mais tipos de arquivo e metadados mais ricos com base no seu caso de uso, mas espero que isso lhe dê um ponto de partida sólido!
 
 ------------------------------
 

@@ -43,24 +43,24 @@ Resumo completo
 **Guia Completo – Crie QUALQUER COISA com Agentes de IA Sora 2 + n8n (para iniciantes)**
 
 **1. Objetivo do Tutorial**
-Ensinar, de forma simples e prática, como integrar o modelo de geração de vídeo **Sora 2 (OpenAI)** ao **n8n**, permitindo automatizar a criação de vídeos com agentes de IA, sem precisar programar.
+Ensinar, de forma simples e prática, como integrar o modelo de geraçêo de vídeo **Sora 2 (OpenAI)** ao **n8n**, permitindo automatizar a criaçêo de vídeos com agentes de IA, sem precisar programar.
 
 ---
 
 **2. Estrutura do Guia**
 
-**Etapa 1 – Preparação e Conta OpenAI**
+**Etapa 1 – Preparaçêo e Conta OpenAI**
 
 * Crie uma conta na OpenAI e ative o acesso ao modelo Sora 2.
-* Copie sua **API Key** para autenticação.
-* No painel da OpenAI, teste manualmente uma geração simples de vídeo a partir de texto para confirmar o funcionamento.
+* Copie sua **API Key** para autenticaçêo.
+* No painel da OpenAI, teste manualmente uma geraçêo simples de vídeo a partir de texto para confirmar o funcionamento.
 
 **Exemplo de prompt:**
-“Crie um vídeo de 10 segundos mostrando um robô humanoide ensinando crianças em uma sala futurista, iluminação suave e estilo Pixar.”
+“Crie um vídeo de 10 segundos mostrando um robô humanoide ensinando crianças em uma sala futurista, iluminaçêo suave e estilo Pixar.”
 
 ---
 
-**Etapa 2 – Configuração do n8n**
+**Etapa 2 – Configuraçêo do n8n**
 
 * Acesse o n8n local ou em nuvem.
 * Adicione um novo workflow.
@@ -119,11 +119,11 @@ Você pode usar outros modos com pequenas mudanças:
 
 ---
 
-**Etapa 5 – Práticas Recomendadas e Otimização**
+**Etapa 5 – Práticas Recomendadas e Otimizaçêo**
 
-* **Duração curta:** entre 5 e 15 segundos para menor custo.
-* **Prompt descritivo:** use estilo, luz, câmera e emoção.
-* **Automações:** adicione filtros no n8n (ex.: enviar vídeos apenas se “aprovação = true”).
+* **Duraçêo curta:** entre 5 e 15 segundos para menor custo.
+* **Prompt descritivo:** use estilo, luz, câmera e emoçêo.
+* **Automações:** adicione filtros no n8n (ex.: enviar vídeos apenas se “aprovaçêo = true”).
 * **Saída otimizada:** use nó “Move Binary Data” e “Upload” para salvar o vídeo no destino escolhido.
 
 ---
@@ -135,16 +135,16 @@ Você pode usar outros modos com pequenas mudanças:
 3. HTTP Request (envia ao Sora 2) →
 4. Download Output (Binary) →
 5. Armazenamento (Supabase / Drive / Telegram) →
-6. Notificação (mensagem com link do vídeo).
+6. Notificaçêo (mensagem com link do vídeo).
 
 ---
 
 **Etapa 7 – Exemplos de Aplicações**
 
-* Criação automática de vídeos para redes sociais.
+* Criaçêo automática de vídeos para redes sociais.
 * Agentes que respondem e-mails com vídeo personalizado.
 * Campanhas de marketing com vídeos temáticos diários.
-* Produção de vídeo para cursos, promoções ou anúncios.
+* Produçêo de vídeo para cursos, promoções ou anúncios.
 
 ---
 

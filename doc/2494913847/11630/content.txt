@@ -13,7 +13,7 @@ MENSAGEM 1
 Autor: Marília
 Data: 2025-07-25T08:08:25+00:00
 Texto:
-Alguém sabe corrigir o erro do URL ? Porquê não aceitou porta do N8n tem que ser domínio público.
+Alguém sabe corrigir o erro do URL ? Porquê nêo aceitou porta do N8n tem que ser domínio público.
 
 ------------------------------
 
@@ -21,9 +21,9 @@ MENSAGEM 2
 Autor: Marília
 Data: 2025-07-25T08:07:39+00:00
 Texto:
-[25/07, 05:04] Marília Gidrão: Oi. Porquê o Gmail API não aceita a URL do N8n para autenticar no fluxo?
-[25/07, 05:06] Marília Gidrão: Eu até consegui usar um domínio público mas tive que editar por JSON e atualizar o sistema do N8n pois não permite editar o URL. Então eu tive que editar dentro do JSON. O endereço mesmo público não foi aceito quando faltava finalizar no gmail disse que meu domínio estava errado sendo que tava tudo certo
-[25/07, 05:06] Marília Gidrão: Como a galera solucionou esse problema?
+[25/07, 05:04] Marília Gidrêo: Oi. Porquê o Gmail API nêo aceita a URL do N8n para autenticar no fluxo?
+[25/07, 05:06] Marília Gidrêo: Eu até consegui usar um domínio público mas tive que editar por JSON e atualizar o sistema do N8n pois nêo permite editar o URL. Entêo eu tive que editar dentro do JSON. O endereço mesmo público nêo foi aceito quando faltava finalizar no gmail disse que meu domínio estava errado sendo que tava tudo certo
+[25/07, 05:06] Marília Gidrêo: Como a galera solucionou esse problema?
 
 ------------------------------
 
@@ -31,13 +31,13 @@ MENSAGEM 3
 Autor: Marília
 Data: 2025-07-22T06:35:59+00:00
 Texto:
-Eu fiquei sabendo que para gerar patente de ideia de criação na automação ou criação de IA. Devemos desenvolver na raiz o aplicativos com Python. Para ter um arquivo original com poucos acessos, e poder defender a ideia. 
+Eu fiquei sabendo que para gerar patente de ideia de criaçêo na automaçêo ou criaçêo de IA. Devemos desenvolver na raiz o aplicativos com Python. Para ter um arquivo original com poucos acessos, e poder defender a ideia. 
 
-Criei uma ideia vendável. Mas se eu for defender para vender como de minha autoria, a utilização de IAs já pré-existente já tira o meu direito sobre o api. 
+Criei uma ideia vendável. Mas se eu for defender para vender como de minha autoria, a utilizaçêo de IAs já pré-existente já tira o meu direito sobre o api. 
 
 Deve ser por isso que para este tipo de serviço, apenas a oferta de assistência para pessoas e empresas em primeiro momento é o que nos dará mais oportunidades. 
 
-Mas aprender também como funciona o mecanismo de construção dos códigos futuramente ou até atualmente é o que está dando mais vantagem na precificação de serviços.
+Mas aprender também como funciona o mecanismo de construçêo dos códigos futuramente ou até atualmente é o que está dando mais vantagem na precificaçêo de serviços.
 
 ------------------------------
 
@@ -45,7 +45,7 @@ MENSAGEM 4
 Autor: Marília
 Data: 2025-07-22T06:25:26+00:00
 Texto:
-Dá vontade de pagar mais, só não tenho dinheiro ainda. Mas quando o retorno chegar. Com certeza eu vou retribuir a ajuda do INEMA.
+Dá vontade de pagar mais, só nêo tenho dinheiro ainda. Mas quando o retorno chegar. Com certeza eu vou retribuir a ajuda do INEMA.
 
 ------------------------------
 
@@ -53,7 +53,7 @@ MENSAGEM 5
 Autor: Marília
 Data: 2025-07-22T06:24:20+00:00
 Texto:
-Gratidão
+Gratidêo
 
 ------------------------------
 
@@ -89,7 +89,7 @@ Data: 2025-07-21T16:21:37+00:00
 Texto:
 ## 🏆 **10 Hacks para o Agente RAG no N8N**
 
-### 🚀 1. **Atualização automática do banco vetorial**
+### 🚀 1. **Atualizaçêo automática do banco vetorial**
 
 * 🔥 **Hack:** Crie um fluxo que observa uma pasta no Google Drive.
 
@@ -101,7 +101,7 @@ Texto:
 
 ---
 
-### ⚡ 2. **Deleção automática de vetores antigos**
+### ⚡ 2. **Deleçêo automática de vetores antigos**
 
 * 🧽 Quando um documento é deletado do Drive, exclua os vetores relacionados no Supabase.
 * **Por que?** Evita dados obsoletos no banco e mantém a base leve.
@@ -122,7 +122,7 @@ Texto:
 
 * 📎 Adicione metadados ao armazenar vetores (ex.: autor, data, categoria).
 * Permite buscas mais refinadas com filtros no Supabase.
-* **Exemplo:** `metadata: { "source": "Manual de Produto", "versão": "v2.1" }`
+* **Exemplo:** `metadata: { "source": "Manual de Produto", "versêo": "v2.1" }`
 
 ---
 
@@ -133,7 +133,7 @@ Texto:
 
 ---
 
-### 🔄 6. **Fluxo de atualização incremental**
+### 🔄 6. **Fluxo de atualizaçêo incremental**
 
 * 🆕 Quando um documento é alterado:
 
@@ -145,7 +145,7 @@ Texto:
 
 ### 📦 7. **Compacte grandes PDFs**
 
-* 🗜️ Antes de enviar para chunking, use um serviço de compressão para reduzir o tamanho do PDF.
+* 🗜️ Antes de enviar para chunking, use um serviço de compressêo para reduzir o tamanho do PDF.
 * Evita limitações no Google Drive API e melhora a velocidade do pipeline.
 
 ---
@@ -169,7 +169,7 @@ Texto:
 
 ---
 
-### 🧩 10. **Integração com outros apps**
+### 🧩 10. **Integraçêo com outros apps**
 
 * 📡 Conecte o agente a:
 
@@ -184,8 +184,8 @@ Texto:
 ## 🔥 Bônus: Hacks Ninja
 
 ✅ **Chunk Dinâmico:** ajuste o tamanho do chunk com base no tipo de documento (curto = 500, longo = 2000).
-✅ **RAG com Tradução:** adicione um nó de tradução (Google Translate API) antes do embedding para suportar multi-idiomas.
-✅ **Verificação de Fonte:** retorne não só a resposta, mas também o trecho exato do documento como referência.
+✅ **RAG com Traduçêo:** adicione um nó de traduçêo (Google Translate API) antes do embedding para suportar multi-idiomas.
+✅ **Verificaçêo de Fonte:** retorne nêo só a resposta, mas também o trecho exato do documento como referência.
 
 -
 
@@ -206,8 +206,8 @@ Texto:
 ### 🔄 **Etapa 7: Expansões sugeridas**
 
 * **Upload automático**: qualquer PDF adicionado ao Google Drive vai direto para o Supabase.
-* **Atualização automática**: quando o PDF muda, o agente atualiza os vetores.
-* **Deleção automática**: se o arquivo é excluído do Drive, remove os vetores associados.
+* **Atualizaçêo automática**: quando o PDF muda, o agente atualiza os vetores.
+* **Deleçêo automática**: se o arquivo é excluído do Drive, remove os vetores associados.
 
 ---
 
@@ -241,7 +241,7 @@ Criar um Agente RAG (Retrieval-Augmented Generation) que:
 ### 📝 **Etapa 1: Configurar o Supabase**
 
 1. Acesse [https://supabase.com](https://supabase.com/) e crie uma conta (ou faça login).
-2. Clique em **“Start your project”** (botão verde).
+2. Clique em **“Start your project”** (botêo verde).
 3. Nomeie o projeto (ex: `RAG-Agent-Test`) e defina uma senha para o banco de dados.
 4. Aguarde até o status ficar **verde** (projeto ativo).
 5. Salve:
@@ -267,7 +267,7 @@ Criar um Agente RAG (Retrieval-Augmented Generation) que:
 * No NADN, crie um novo workflow.
 * Adicione um **Google Drive Node**:
 
-  * Ação: **Download File**
+  * Açêo: **Download File**
   * Conecte sua conta Google.
   * Escolha o documento (ex.: “Rules of Golf”).
   * Clique em **Execute Step** para confirmar que o arquivo foi carregado.
@@ -276,7 +276,7 @@ Criar um Agente RAG (Retrieval-Augmented Generation) que:
 
 * Adicione um **Supabase Vector Store Node**:
 
-  * Ação: **Add Documents to Vector Store**
+  * Açêo: **Add Documents to Vector Store**
   * Crie uma nova credencial com:
 
     * **Host**: Project URL do Supabase
@@ -307,7 +307,7 @@ Criar um Agente RAG (Retrieval-Augmented Generation) que:
   * **Default Data Loader** (para chunking)
 
     * Tipo: Binary (porque o PDF está em binário)
-    * Configuração padrão: 1000 caracteres com 200 de sobreposição
+    * Configuraçêo padrêo: 1000 caracteres com 200 de sobreposiçêo
   * **Embeddings Node** (OpenAI)
 
     * Conecte com sua API Key do OpenAI
@@ -335,8 +335,8 @@ Criar um Agente RAG (Retrieval-Augmented Generation) que:
 
 * Adicione um **Supabase Vector Store Node**:
 
-  * Ação: **Retrieve Documents as Tool**
-  * Descrição: “Use esta ferramenta para buscar respostas no banco vetorial.”
+  * Açêo: **Retrieve Documents as Tool**
+  * Descriçêo: “Use esta ferramenta para buscar respostas no banco vetorial.”
   * Tabela: `documents`
   * Limite: 4 resultados
 * Conecte o **Embeddings Node** já configurado para vetorizar as perguntas.
@@ -349,7 +349,7 @@ Criar um Agente RAG (Retrieval-Augmented Generation) que:
 
   * Conecte com as credenciais do Supabase:
 
-    * Host, Usuário, Porta (padrão: 6543)
+    * Host, Usuário, Porta (padrêo: 6543)
     * Banco de Dados: `postgres`
     * Senha: mesma usada ao criar o projeto
   * Defina o tamanho da janela de contexto (ex.: 5 interações recentes).
@@ -360,9 +360,9 @@ Criar um Agente RAG (Retrieval-Augmented Generation) que:
 ### ✅ **Etapa 6: Testar o Agente**
 
 1. Execute o workflow.
-2. Pergunte algo sobre o documento (ex.: “Quais são as regras de prática no golfe?”).
+2. Pergunte algo sobre o documento (ex.: “Quais sêo as regras de prática no golfe?”).
 3. O agente deve buscar no Supabase e responder com base no PDF.
-4. Teste memória: Pergunte “Então eu não posso treinar entre buracos?” e veja se ele entende o contexto.
+4. Teste memória: Pergunte “Entêo eu nêo posso treinar entre buracos?” e veja se ele entende o contexto.
 
 ---
 Midia: MessageMediaWebPage
@@ -426,13 +426,13 @@ Texto:
 1. **Trigger**: usuário faz uma pergunta no chat.
 2. **Embeddings**: transforma a pergunta em vetor numérico.
 3. **Busca no Supabase**: encontra vetores mais próximos.
-4. **Geração da resposta**: IA (GPT-4.1 mini) constrói a resposta.
+4. **Geraçêo da resposta**: IA (GPT-4.1 mini) constrói a resposta.
 
 #### Memória:
 
 * Configurada com **PostgreSQL no Supabase**.
-* Lembra as 5 últimas interações por padrão.
-* Exemplo: após perguntar “Qual a missão da empresa X?”, na próxima pergunta “E os valores?” o agente ainda entende o contexto.
+* Lembra as 5 últimas interações por padrêo.
+* Exemplo: após perguntar “Qual a missêo da empresa X?”, na próxima pergunta “E os valores?” o agente ainda entende o contexto.
 
 ---
 
@@ -441,7 +441,7 @@ Texto:
 * Documento: “Regras Simplificadas de Golf” (PDF com 22 páginas).
 * Pergunta: “O que posso fazer para praticar?”
 * Resposta do agente: Retorna as regras diretamente do documento (busca no vetor e gera resposta).
-* Validação: Mostra no log os vetores consultados.
+* Validaçêo: Mostra no log os vetores consultados.
 
 ---
 
@@ -456,7 +456,7 @@ Texto:
 
 ### 7. **Principais Ferramentas**
 
-| Ferramenta            | Função                           |
+| Ferramenta            | Funçêo                           |
 | --------------------- | -------------------------------- |
 | N8N            | Criar workflow no-code           |
 | Supabase Vector Store | Armazenar embeddings vetoriais   |
@@ -469,7 +469,7 @@ Texto:
 
 * **Sem código**: tudo feito com drag & drop no NADN.
 * **Credenciais**: API Key do OpenAI e do Supabase configuradas no workflow.
-* **Customização**: ajuste o tamanho dos chunks, número de vetores retornados e contexto da memória.
+* **Customizaçêo**: ajuste o tamanho dos chunks, número de vetores retornados e contexto da memória.
 * **Multiuso**: funciona com qualquer tipo de dado (PDFs, e-mails, tickets de suporte).
 
 ------------------------------
@@ -490,11 +490,11 @@ Texto:
 
 Pronto para construir seu primeiro agente de IA com conhecimento real dos seus próprios dados?
 
- Neste tutorial passo a passo, mostrarei como ir do zero à construção do seu primeiro agente RAG (Retrieval-Augmented Generation) em apenas 20 minutos — usando n8n e um banco de dados vetorial Supabase.
+ Neste tutorial passo a passo, mostrarei como ir do zero à construçêo do seu primeiro agente RAG (Retrieval-Augmented Generation) em apenas 20 minutos — usando n8n e um banco de dados vetorial Supabase.
 
-Este curso foi desenvolvido para iniciantes. Não requer programação. Você aprenderá o que é RAG, como funcionam os bancos de dados vetoriais e como conectar tudo isso em um sistema funcional que pode responder a perguntas com base nos seus documentos.
+Este curso foi desenvolvido para iniciantes. Nêo requer programaçêo. Você aprenderá o que é RAG, como funcionam os bancos de dados vetoriais e como conectar tudo isso em um sistema funcional que pode responder a perguntas com base nos seus documentos.
 
- Se você tem curiosidade sobre agentes de IA, mas não sabe por onde começar, este é o lugar perfeito para começar.
+ Se você tem curiosidade sobre agentes de IA, mas nêo sabe por onde começar, este é o lugar perfeito para começar.
 
 ------------------------------
 

@@ -126,7 +126,7 @@ MENSAGEM 3
 Autor: INEMA
 Data: 2025-06-08T15:35:52+00:00
 Texto:
-Para fazer uma requisição curl para a API do Fish Audio que funcione no n8n, você precisa configurar alguns elementos importantes. Vou te mostrar como estruturar isso:
+Para fazer uma requisiçêo curl para a API do Fish Audio que funcione no n8n, você precisa configurar alguns elementos importantes. Vou te mostrar como estruturar isso:
 
 ## Estrutura básica do curl para Fish Audio
 
@@ -139,7 +139,7 @@ Para fazer uma requisição curl para a API do Fish Audio que funcione no n8n, v
     "format": "mp3"
   }'```
 
-## Configuração no n8n
+## Configuraçêo no n8n
 
 No n8n, você usará o nó **HTTP Request** com estas configurações:
 
@@ -164,7 +164,7 @@ No n8n, você usará o nó **HTTP Request** com estas configurações:
 
 ### Parâmetros opcionais que você pode adicionar:
 - `reference_id`: ID de referência para clonagem de voz
-- `normalize`: true/false para normalização
+- `normalize`: true/false para normalizaçêo
 - `mp3_bitrate`: qualidade do MP3 (128, 192, 320)
 - `opus_bitrate`: para formato OPUS
 
@@ -195,7 +195,7 @@ O Fish Audio retorna o áudio em base64 ou como stream. No n8n, você pode:
 2. **Processar o base64** se necessário
 3. **Integrar com outros serviços** como Google Drive, Dropbox, etc.
 
-Precisa de mais detalhes sobre alguma parte específica da integração?
+Precisa de mais detalhes sobre alguma parte específica da integraçêo?
 
 ------------------------------
 

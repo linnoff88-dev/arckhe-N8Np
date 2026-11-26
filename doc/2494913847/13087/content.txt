@@ -33,11 +33,11 @@ Aqui está o **passo a passo detalhado** para **recriar o chatbot estilo “Horm
 
 ---
 
-## ⚙️ Etapa 1 – Criar o Pinecone Assistant (sem vetorização manual)
+## ⚙️ Etapa 1 – Criar o Pinecone Assistant (sem vetorizaçêo manual)
 
 ### 1.1 Acesse o Pinecone ([https://app.pinecone.io/](https://app.pinecone.io/))
 
-* Vá em **Assistants** (não “Indexes”)
+* Vá em **Assistants** (nêo “Indexes”)
 * Clique em **Create Assistant**
 * Dê um nome, ex: `mosey` ou `mz`
 
@@ -69,7 +69,7 @@ Exemplo:
 
 ---
 
-## 🔁 Etapa 3 – Requisição via API (para N8n ou GPT customizado)
+## 🔁 Etapa 3 – Requisiçêo via API (para N8n ou GPT customizado)
 
 ### 3.1 Vá em **Assistants > seu assistant > API**
 
@@ -125,13 +125,13 @@ Você pode integrar esse assistant com um G**PT personalizado:**
 
 ---
 
-## 🧠 Etapa 6 – Atualização contínua do conhecimento (RAG)
+## 🧠 Etapa 6 – Atualizaçêo contínua do conhecimento (RAG)
 
 Se quiser adicionar mais conhecimento:
 
 * Converta t**ranscrições de vídeos ou podcasts **em PDF
 * Envie para o mesmo Assistant
-* Sem precisar retreinar, vetorização nem mexer no banco
+* Sem precisar retreinar, vetorizaçêo nem mexer no banco
 
 ---
 
@@ -143,7 +143,7 @@ Exemplo:
 
 ---
 
-## ✅ Conclusão – Você agora tem:
+## ✅ Conclusêo – Você agora tem:
 
 * Um c**hatbot com RAG **que responde com fontes e páginas
 * Rodando e**m 5 minutos,** sem Pinecone Index manual
@@ -158,15 +158,15 @@ MENSAGEM 4
 Autor: INEMA
 Data: 2025-08-23T17:58:02+00:00
 Texto:
-## **O que são os JSON que ele compartilhou?**
+## **O que sêo os JSON que ele compartilhou?**
 
-Eles são **estruturas de requisição HTTP**, no formato **`cURL`** ou **payloads JSON**, usados para:
+Eles sêo **estruturas de requisiçêo HTTP**, no formato **`cURL`** ou **payloads JSON**, usados para:
 
 1. **Chamar a API do Pinecone Assistant**
 2. **Enviar uma pergunta e receber uma resposta com RAG**
 3. **Incluir metadados como nome do assistente, chave da API e prompt customizado**
 
-Ou seja, **são pedaços de configuração**, que ele:
+Ou seja, **sêo pedaços de configuraçêo**, que ele:
 
 * **Transforma em requisições cURL**
 * E **importa para o N8n** usando um nó do tipo **HTTP Request (ou Webhook)**
@@ -190,7 +190,7 @@ Esse **JSON é o corpo do request** enviado via HTTP para o Pinecone Assistant.
 
 ## **Resumo**
 
-* **JSONs = estrutura de chamada à API**, não são fluxos do N8n
+* **JSONs = estrutura de chamada à API**, nêo sêo fluxos do N8n
 * Você **usa esses JSONs dentro de um nó HTTP Request**
 * Ele criou dois exemplos: um para N8n, outro para um GPT customizado (com pequenas diferenças)
 
@@ -213,7 +213,7 @@ Texto:
 O criador mostra como **reconstruir o Hermozi GPT** (um chatbot caro com RAG e LangGraph) de forma simples, barata e rápida usando:
 
 * **Pinecone Assistant** (RAG pronto)
-* **N8n** (automação)
+* **N8n** (automaçêo)
 * **Custom GPT com webhook**
 * Tudo isso feito em **1 hora de trabalho**
 
@@ -236,24 +236,24 @@ O criador mostra como **reconstruir o Hermozi GPT** (um chatbot caro com RAG e L
 
 ---
 
-## **2. Construção no N8n (com API)**
+## **2. Construçêo no N8n (com API)**
 
 ### O que foi feito:
 
-* Criou **requisição cURL** conectando Pinecone ao N8n
+* Criou **requisiçêo cURL** conectando Pinecone ao N8n
 * Workflow recebe a pergunta → envia ao Pinecone Assistant → retorna com resposta e referências
 
 ### Funcionalidades:
 
 * Prompt configurado para "conversar" com o usuário
-* Não aceita qualquer pergunta (ex: “oi”), força clareza
+* Nêo aceita qualquer pergunta (ex: “oi”), força clareza
 * Exemplo de pergunta: "Como melhorar o LTV da minha lavanderia?"
 
 ---
 
-## **3. Integração com GPT customizado**
+## **3. Integraçêo com GPT customizado**
 
-### Integração:
+### Integraçêo:
 
 * Cria GPT que envia as perguntas via webhook para o Pinecone Assistant
 * O nome do assistente e a API key devem ser personalizados
@@ -265,13 +265,13 @@ O criador mostra como **reconstruir o Hermozi GPT** (um chatbot caro com RAG e L
 
 ---
 
-## **4. Atualização de base com transcrições**
+## **4. Atualizaçêo de base com transcrições**
 
 ### Estratégia esperta:
 
-* Pegue uma transcrição de vídeo (ex: 7h de Hormozi)
+* Pegue uma transcriçêo de vídeo (ex: 7h de Hormozi)
 * Converta para PDF e envie para o Assistant
-* Assim, você **atualiza seu RAG sem saber vetorização**
+* Assim, você **atualiza seu RAG sem saber vetorizaçêo**
 
 ---
 
@@ -280,7 +280,7 @@ O criador mostra como **reconstruir o Hermozi GPT** (um chatbot caro com RAG e L
 ### Estilo:
 
 * Busca **resultados rápidos e práticos**
-* Evita complexidade desnecessária (ex: vetorização manual)
+* Evita complexidade desnecessária (ex: vetorizaçêo manual)
 * Prefere pagar barato por ferramentas que economizam tempo
 
 ### Resultado final:
@@ -338,7 +338,7 @@ Texto:
 **Reconstruí o chatbot de US$ 6 mil da Hormozi em 5 minutos... 
 Aproveite 🌹(3 maneiras)**
 
-Muitos pediram para reconstruir o Hormozi GPT - em vez do sofisticado RAG e do LangGraph, obtive o mesmo resultado em 5 minutos com o Pinecone Assistanto que torna isso idêntico à versão de US$ 6.000:
+Muitos pediram para reconstruir o Hormozi GPT - em vez do sofisticado RAG e do LangGraph, obtive o mesmo resultado em 5 minutos com o Pinecone Assistanto que torna isso idêntico à versêo de US$ 6.000:
 
 → citações de páginas exatas quando você clica em referências
 → pesquisas em todos os manuais e recursos
@@ -347,18 +347,18 @@ Muitos pediram para reconstruir o Hormozi GPT - em vez do sofisticado RAG e do L
 
 Criei 3 versões para você (TODOS OS RECURSOS ANEXADOS A ESTA POSTAGEM):
 → Assistente Pinecone (arrastar e soltar PDFs, pronto)
-→ Fluxo de trabalho n8n com integração de API
+→ Fluxo de trabalho n8n com integraçêo de API
 → GPT personalizado com esquema de webhook
 
-O molho secreto: o Pinecone Assistant faz o RAG automaticamente - basta carregar os arquivos e ele cuida da vetorização, sem dores de cabeça
+O molho secreto: o Pinecone Assistant faz o RAG automaticamente - basta carregar os arquivos e ele cuida da vetorizaçêo, sem dores de cabeça
 
-Comparação de custos: US$ 5-10/mês vs US$ 6.000
+Comparaçêo de custos: US$ 5-10/mês vs US$ 6.000
 
 Jogada bônus: pegue os streams de 7 horas do Hormozi no YouTube, converta as transcrições em PDFs, coloque-os - agora você tem ainda mais conhecimento do que o original
 
 Todos os prompts, esquemas e fluxos de trabalho incluídos nesta postagem - você pode literalmente clonar um produto de US$ 6.000 em menos de uma hora
 
-Veja q às vezes as melhores soluções são as mais preguiçosas
+Veja q às vezes as melhores soluções sêo as mais preguiçosas
 
 ------------------------------
 

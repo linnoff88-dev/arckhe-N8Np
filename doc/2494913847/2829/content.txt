@@ -16,11 +16,11 @@ Texto:
 Aula 2 
  
  
-### Resumo do vídeo: Curso n8n: From Zero to Hero - Configuração, Instalação e Primeiro Fluxo  
+### Resumo do vídeo: Curso n8n: From Zero to Hero - Configuraçêo, Instalaçêo e Primeiro Fluxo  
   
-#### Introdução ao n8n  
+#### Introduçêo ao n8n  
 - O que é n8n?  
-  - Plataforma de automação de fluxos de trabalho, similar ao Make ou Zapier.  
+  - Plataforma de automaçêo de fluxos de trabalho, similar ao Make ou Zapier.  
   - Conecta aplicativos para automatizar tarefas repetitivas.  
   - Exemplo: Publicar conteúdo do Airtable no Instagram.  
   
@@ -28,13 +28,13 @@ Aula 2
   - Código aberto e gratuito.  
   - Controle total e privacidade (pode ser instalado localmente).  
   - Interface visual intuitiva.  
-  - Não requer conhecimento de programação, mas permite incluir código.  
+  - Nêo requer conhecimento de programaçêo, mas permite incluir código.  
   
 ---  
   
-#### Instalação do n8n  
+#### Instalaçêo do n8n  
 1. Instalar Node.js:  
-   - Baixar a versão LTS em nodejs .org.  
+   - Baixar a versêo LTS em nodejs .org.  
    - Executar o instalador seguindo as instruções.  
   
 2. Instalar n8n usando npm:  
@@ -48,13 +48,13 @@ Aula 2
   
 ---  
   
-#### Criação do primeiro fluxo: Determinar se um número é par ou ímpar  
+#### Criaçêo do primeiro fluxo: Determinar se um número é par ou ímpar  
 1. Adicionar um formulário como disparador:  
    - Configurar o campo para entrada de número.  
    - Tipo de dado: "número".  
   
 2. Adicionar um condicional (If):  
-   - Verificar se o resto da divisão do número por 2 é igual a 0.  
+   - Verificar se o resto da divisêo do número por 2 é igual a 0.  
    - True: Número é par.  
    - False: Número é ímpar.  
   
@@ -67,11 +67,11 @@ Aula 2
   
 ---  
   
-#### Conclusão  
+#### Conclusêo  
 - O vídeo apresenta o básico sobre:  
-  - Instalação do n8n.  
-  - Configuração inicial.  
-  - Criação de um fluxo simples sem programação.  
+  - Instalaçêo do n8n.  
+  - Configuraçêo inicial.  
+  - Criaçêo de um fluxo simples sem programaçêo.  
 - Próximos passos:  
   - Explorar nodos e conexões mais avançadas.  
   - Criar automatizações mais complexas.    
@@ -88,7 +88,7 @@ MENSAGEM 2
 Autor: INEMA
 Data: 2025-03-11T21:48:56+00:00
 Texto:
-ec2n8 - Curso - Instalação e Configuração
+ec2n8 - Curso - Instalaçêo e Configuraçêo
 
 ------------------------------
 

@@ -47,7 +47,7 @@ Aqui está o **passo a passo completo e organizado** para conectar o Slack ao n8
 #### 1. **Criar um novo workspace no Slack**
 - Acesse o Slack e crie um novo workspace.
 - Dê um nome ao workspace e crie um canal (ex: `YouTube`).
-- Use a versão gratuita se preferir.
+- Use a versêo gratuita se preferir.
 
 #### 2. **Criar um novo app no Slack**
 - Vá em: [https://api.slack.com/apps](https://api.slack.com/apps)
@@ -78,7 +78,7 @@ Aqui está o **passo a passo completo e organizado** para conectar o Slack ao n8
 #### 6. **Testar envio de mensagens**
 - Crie um nó “Slack > Send Message” no n8n.
 - Selecione o canal e digite uma mensagem (ex: “hi”).
-- Caso apareça erro `not_in_channel`, significa que o app ainda não está no canal.
+- Caso apareça erro `not_in_channel`, significa que o app ainda nêo está no canal.
 
 #### 7. **Adicionar o app ao canal**
 - No Slack, vá até o canal (ex: `#youtube`).
@@ -90,19 +90,19 @@ Aqui está o **passo a passo completo e organizado** para conectar o Slack ao n8
 - Copie o Webhook URL gerado.
 - Volte ao painel do app no Slack, vá em `Event Subscriptions`.
 - Ative “Enable Events”.
-- Cole o Webhook URL no campo de Request URL e aguarde a verificação.
+- Cole o Webhook URL no campo de Request URL e aguarde a verificaçêo.
 
-#### 9. **Assinar evento do bot (gatilho de menção)**
+#### 9. **Assinar evento do bot (gatilho de mençêo)**
 - Ainda em `Event Subscriptions`, desça até “Subscribe to Bot Events”.
 - Adicione o evento: `app_mention`.
 - Salve as alterações.
 
 #### 10. **Testar o fluxo completo**
 - No canal do Slack, digite: `@testing hello`.
-- O n8n receberá essa mensagem e poderá executar qualquer ação (ex: acionar IA).
+- O n8n receberá essa mensagem e poderá executar qualquer açêo (ex: acionar IA).
 - Configure a resposta no n8n e envie de volta ao Slack com um nó “Send Message”.
 
-#### 11. **Ativar o workflow em produção**
+#### 11. **Ativar o workflow em produçêo**
 - Ao ativar o workflow no n8n, um novo Webhook URL será gerado.
 - Copie o novo link.
 - Volte ao Slack, vá em `Event Subscriptions`, cole o novo URL e verifique novamente.
@@ -111,7 +111,7 @@ Aqui está o **passo a passo completo e organizado** para conectar o Slack ao n8
 
 ### **Exemplos práticos de uso**
 - Se você digitar `@testing Tell me a joke`, a IA pode responder no Slack com:
-  - "Por que os cientistas não confiam nos átomos? Porque eles inventam tudo."
+  - "Por que os cientistas nêo confiam nos átomos? Porque eles inventam tudo."
 
 -
 Midia: MessageMediaWebPage
@@ -161,7 +161,7 @@ Texto:
   - `chat:write` – Escrever mensagens.
 
 **Por que fazer:**  
-- Sem essas permissões, o app não poderá enviar ou receber mensagens, nem reagir a eventos. Elas definem o que o bot pode ou não fazer no Slack.
+- Sem essas permissões, o app nêo poderá enviar ou receber mensagens, nem reagir a eventos. Elas definem o que o bot pode ou nêo fazer no Slack.
 
 ---
 
@@ -171,7 +171,7 @@ Texto:
 - Autorize as permissões solicitadas.
 
 **Por que fazer:**  
-- Isso finaliza a criação do app e gera o **Bot Token**, que será usado para autenticação no n8n. Sem essa instalação, o app ainda não tem acesso ao Slack.
+- Isso finaliza a criaçêo do app e gera o **Bot Token**, que será usado para autenticaçêo no n8n. Sem essa instalaçêo, o app ainda nêo tem acesso ao Slack.
 
 ---
 
@@ -193,7 +193,7 @@ Texto:
 - Escolha o canal e escreva uma mensagem de teste (ex: “hi”).
 
 **Por que fazer:**  
-- Serve para verificar se a conexão está funcionando e se o bot tem permissão para falar com o canal. Caso apareça erro (`not_in_channel`), é sinal de que o bot ainda não entrou no canal.
+- Serve para verificar se a conexêo está funcionando e se o bot tem permissêo para falar com o canal. Caso apareça erro (`not_in_channel`), é sinal de que o bot ainda nêo entrou no canal.
 
 ---
 
@@ -214,11 +214,11 @@ Texto:
 - Volte ao painel do Slack, vá em `Event Subscriptions`, ative “Enable Events” e cole o URL.
 
 **Por que fazer:**  
-- Esse webhook permite que o Slack avise o n8n quando um evento acontecer (ex: alguém mencionar o bot). Sem isso, o n8n não saberá quando agir.
+- Esse webhook permite que o Slack avise o n8n quando um evento acontecer (ex: alguém mencionar o bot). Sem isso, o n8n nêo saberá quando agir.
 
 ---
 
-### **9. Assinar evento de menção ao bot**
+### **9. Assinar evento de mençêo ao bot**
 **O que fazer:**  
 - Ainda em `Event Subscriptions`, vá até “Subscribe to Bot Events”.
 - Adicione o evento `app_mention`.
@@ -235,17 +235,17 @@ Texto:
 - Envie uma resposta automática (ex: "Olá, como posso ajudar?").
 
 **Por que fazer:**  
-- Aqui você confirma que a integração está funcionando de ponta a ponta: Slack envia → n8n processa → Slack responde.
+- Aqui você confirma que a integraçêo está funcionando de ponta a ponta: Slack envia → n8n processa → Slack responde.
 
 ---
 
-### **11. Ativar o workflow em produção**
+### **11. Ativar o workflow em produçêo**
 **O que fazer:**  
 - Ao ativar o workflow no n8n, um novo Webhook URL será gerado.
 - Volte ao painel de eventos do Slack, cole esse novo link e verifique.
 
 **Por que fazer:**  
-- O link de produção é diferente do link de teste. Se não trocar o URL, o Slack continuará enviando eventos para o endereço antigo e nada funcionará.
+- O link de produçêo é diferente do link de teste. Se nêo trocar o URL, o Slack continuará enviando eventos para o endereço antigo e nada funcionará.
 Midia: MessageMediaWebPage
 
 ------------------------------

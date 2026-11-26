@@ -60,38 +60,38 @@ Data: 2025-04-10T06:34:19+00:00
 Texto:
 **09/04 – MCPs: O Futuro das Automações**
 
-O que são os MCPs, por que estão gerando tanto interesse no mundo da automação e como podemos integrá-los no N8N. Aprender a instalá-los, configurá-los e usá-los para que nossos agentes de IA se conectem automaticamente a diferentes serviços com apenas dois módulos: um para listar ferramentas disponíveis e outro para executar ações.
+O que sêo os MCPs, por que estêo gerando tanto interesse no mundo da automaçêo e como podemos integrá-los no N8N. Aprender a instalá-los, configurá-los e usá-los para que nossos agentes de IA se conectem automaticamente a diferentes serviços com apenas dois módulos: um para listar ferramentas disponíveis e outro para executar ações.
 
 **🧠 Pontos-chave**
 
-**O que são os MCPs:** São como “portas USB” para que os LLMs se conectem a ferramentas externas sem precisar programar cada integração manualmente.
+**O que sêo os MCPs:** Sêo como “portas USB” para que os LLMs se conectem a ferramentas externas sem precisar programar cada integraçêo manualmente.
 
 **Principal vantagem:** Basta usar dois nós (List Tools e Execute Tool) para acessar múltiplas funcionalidades de uma API ou serviço.
 
-**Instalação:** É feita diretamente pelo N8N, ativando os nós da comunidade e adicionando o pacote correspondente (ex: `mcp-nodes`) na seção de configurações.
+**Instalaçêo:** É feita diretamente pelo N8N, ativando os nós da comunidade e adicionando o pacote correspondente (ex: `mcp-nodes`) na seçêo de configurações.
 
-**Requisitos:** É necessário ter um servidor próprio para instalar esses nós; servidores públicos são mais lentos e geram erros com frequência.
+**Requisitos:** É necessário ter um servidor próprio para instalar esses nós; servidores públicos sêo mais lentos e geram erros com frequência.
 
-**Funcionamento com agentes:** Ao conectar MCPs com agentes de IA, conseguimos que eles detectem automaticamente qual ação executar e com quais parâmetros.
+**Funcionamento com agentes:** Ao conectar MCPs com agentes de IA, conseguimos que eles detectem automaticamente qual açêo executar e com quais parâmetros.
 
 **Prompting:** Em APIs complexas (como o Airtable), é essencial escrever bons *prompts* ou mensagens de sistema para orientar o modelo em cada etapa (listar bases, tabelas, etc.).
 
 **Limitações atuais:**
 
-- Execução lenta ao usar servidores públicos.
+- Execuçêo lenta ao usar servidores públicos.
 - Alto consumo de tokens se a API tiver muitos endpoints.
 - Necessidade de prompts mais detalhados quando há múltiplos parâmetros variáveis.
 
 **Casos práticos testados:**
 
 - **Brave:** buscas simples na web.
-- **Airtable:** criação de novos registros em tabelas.
+- **Airtable:** criaçêo de novos registros em tabelas.
 - **Google Maps:** busca de locais com parâmetros geográficos.
 - **Airbnb:** busca de acomodações sem necessidade de chave de API.
 
 **✅ Tarefas recomendadas**
 
-- Instalar MCPs em seu próprio servidor para evitar erros de conexão e aumentar a velocidade.
+- Instalar MCPs em seu próprio servidor para evitar erros de conexêo e aumentar a velocidade.
 - Testar combinações de agentes com diferentes MCPs: Brave, Airtable, Google Maps etc.
 - Criar um *system prompt* que indique a ordem das ações ao trabalhar com APIs complexas.
 - Explorar outros MCPs disponíveis na comunidade do GitHub, como Spotify, Perplexity ou Stripe.
@@ -99,7 +99,7 @@ O que são os MCPs, por que estão gerando tanto interesse no mundo da automaç�
 
 **Recursos**
 
-- Documentação dos MCPs  
+- Documentaçêo dos MCPs  
 - Lista de MCPs disponíveis  
 - Exemplos de uso com MCPs  
 - Arquivo PDF com informações sobre MCPs
@@ -120,7 +120,7 @@ Hoje fala sobre algo MUITO poderoso: os MCPs (Model Context Protocols) e o enorm
 📦  exemplos reais com Brave, Mapas, AirTable, Airbnb e Tavili
 ⚠️ Analisar as limitações atuais (velocidade e tokens) e como solucioná-las para aproveitar ao máximo
 
-Uma ferramenta pela qual, por enquanto, com Introdução— mas que representa um divisor de águas em como trabalhamos com IA e automação.
+Uma ferramenta pela qual, por enquanto, com Introduçêo— mas que representa um divisor de águas em como trabalhamos com IA e automaçêo.
 
 ------------------------------
 

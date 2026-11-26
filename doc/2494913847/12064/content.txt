@@ -13,14 +13,14 @@ MENSAGEM 1
 Autor: INEMA
 Data: 2025-07-30T21:11:58+00:00
 Texto:
-### ⚙️ **HACKS PARA OTIMIZAÇÃO DO SISTEMA**
+### ⚙️ **HACKS PARA OTIMIZAÇêO DO SISTEMA**
 
 #### 1. **Evite gastar tokens com chamadas inválidas**
 
-* **Filtro por duração:** só processe chamadas com mais de 20 segundos para evitar avaliar chamadas perdidas, caixas postais ou testes.
+* **Filtro por duraçêo:** só processe chamadas com mais de 20 segundos para evitar avaliar chamadas perdidas, caixas postais ou testes.
 
   ```  if (duration > 20) {
-     processa a transcrição;
+     processa a transcriçêo;
   } else {
      retorna status 200 e finaliza;
   }
@@ -36,7 +36,7 @@ Texto:
 
 * Crie **blocos de prompts reutilizáveis** com marcações tipo:
 
-  ```  [[TRANSCRIÇÃO]]
+  ```  [[TRANSCRIÇêO]]
   [[TIPO_CHAMADA]]
   [[RESUMO_ANTERIOR]]
   ```
@@ -54,7 +54,7 @@ Texto:
 **
 * Antes da IA avaliar uma nova chamada, use o G`ET /contacts/{id}/notes `e forneça o histórico anterior no prompt.
 
-  * Isso m**elhora precisão da análise,** especialmente em fluxos de suporte, onboarding ou renovação.
+  * Isso m**elhora precisêo da análise,** especialmente em fluxos de suporte, onboarding ou renovaçêo.
 
 #### 6. R**egistre sempre em Google Sheets
 **
@@ -62,7 +62,7 @@ Texto:
 
   * Isso permite auditorias posteriores, estatísticas por operador e análise de padrões.
 
-#### 7. S**eparação visual com `map` + `join`
+#### 7. S**eparaçêo visual com `map` + `join`
 **
 * Para formatar listas da IA (ex: recomendações) como bullet points:
 
@@ -79,9 +79,9 @@ Texto:
 **
 * Um para cada tipo de operador:
 
-  * S`etter:` foca em triagem e qualificação
-  * C`loser:` foca em conversão e fechamento
-  * S`uporte:` foca em resolução de problemas
+  * S`etter:` foca em triagem e qualificaçêo
+  * C`loser:` foca em conversêo e fechamento
+  * S`uporte:` foca em resoluçêo de problemas
   * O`nboarding:` foca em primeiros passos
 
 #### 10. B**ackup automático das transcrições
@@ -120,13 +120,13 @@ Texto:
 📞 Chamada de Venda – 29/07/2025 – 16:53
 
 - Necessidade: ✅ Sim
-- Desejo: ❌ Não identificado
+- Desejo: ❌ Nêo identificado
 - Capacidade Financeira: ✅ Sim
-- Prospecto Qualificado: ❌ Não
+- Prospecto Qualificado: ❌ Nêo
 - Nota do Setter: 5/10
 
 📌 Justificativa:
-Cliente mostrou interesse mas não demonstrou urgência. A objeção orçamentária foi mal explorada.
+Cliente mostrou interesse mas nêo demonstrou urgência. A objeçêo orçamentária foi mal explorada.
 
 ✅ Recomendações:
 - Trabalhar melhor o senso de urgência
@@ -139,13 +139,13 @@ MENSAGEM 4
 Autor: INEMA
 Data: 2025-07-30T21:09:14+00:00
 Texto:
-### 🚀 **Passo a Passo da Automação Inteligente de Avaliação de Chamadas**
+### 🚀 **Passo a Passo da Automaçêo Inteligente de Avaliaçêo de Chamadas**
 
 ---
 
-### 1. **Configuração no CRM (GoHighLevel ou Wixin)**
+### 1. **Configuraçêo no CRM (GoHighLevel ou Wixin)**
 
-1.1 Crie uma **automação** com *trigger* do tipo:
+1.1 Crie uma **automaçêo** com *trigger* do tipo:
 → “**Quando uma chamada for concluída (call status = completed)**”.
 
 1.2 Adicione **filtros**:
@@ -157,7 +157,7 @@ Texto:
 
 ---
 
-### 2. **Criação de Webhook personalizado no N8N**
+### 2. **Criaçêo de Webhook personalizado no N8N**
 
 2.1 No N8N, crie um **Custom Webhook** (trigger de entrada).
 
@@ -168,7 +168,7 @@ Campos enviados:
 * ID da chamada
 * Nome do contato
 * Telefone
-* Duração da chamada
+* Duraçêo da chamada
 * Link do áudio (via Twilio)
 * Nome do operador
 
@@ -177,13 +177,13 @@ Campos enviados:
 ### 3. **Filtragem de chamadas inválidas**
 
 3.1 Adicione uma etapa que verifique:
-→ Se a **duração da chamada > 20 segundos**.
+→ Se a **duraçêo da chamada > 20 segundos**.
 
 3.2 Se for menor, envie um **webhook response com código 200** e finalize o fluxo.
 
 ---
 
-### 4. **Conversão de Áudio para MP3 (via CloudConvert)**
+### 4. **Conversêo de Áudio para MP3 (via CloudConvert)**
 
 4.1 Use o módulo HTTP do N8N para chamar a **API do CloudConvert**:
 
@@ -193,23 +193,23 @@ Campos enviados:
   * Converter para MP3
   * Exportar em URL de download
 
-4.2 Adicione um **loop com espera** (ex: 10s) até que o status da conversão seja `finished`.
+4.2 Adicione um **loop com espera** (ex: 10s) até que o status da conversêo seja `finished`.
 
 ---
 
-### 5. **Transcrição e Avaliação com IA (OpenAI ou Gemini)**
+### 5. **Transcriçêo e Avaliaçêo com IA (OpenAI ou Gemini)**
 
 5.1 Envie o **áudio MP3** para a IA usando o módulo Basic LLM:
 
 Prompt exemplo para avaliar setters:
 
-```Atue como avaliador de vendas. Avalie os seguintes critérios com base na transcrição:
-1. Há necessidade? (Sim/Não)
-2. Há desejo? (Sim/Não)
-3. Há capacidade financeira? (Sim/Não)
+```Atue como avaliador de vendas. Avalie os seguintes critérios com base na transcriçêo:
+1. Há necessidade? (Sim/Nêo)
+2. Há desejo? (Sim/Nêo)
+3. Há capacidade financeira? (Sim/Nêo)
 
 Resultado final:
-- Prospecto qualificado? (Sim/Não)
+- Prospecto qualificado? (Sim/Nêo)
 - Nota de 1 a 10
 - Justificativa
 - 2 a 5 recomendações```
@@ -218,9 +218,9 @@ Resultado final:
 
 ---
 
-### 6. **Registro da avaliação no GoHighLevel (via API)**
+### 6. **Registro da avaliaçêo no GoHighLevel (via API)**
 
-6.1 Crie uma **aplicação no Developer Portal do GoHighLevel** e obtenha:
+6.1 Crie uma **aplicaçêo no Developer Portal do GoHighLevel** e obtenha:
 
 * Client ID
 * Client Secret
@@ -229,13 +229,13 @@ Resultado final:
 
 6.2 Use módulo HTTP do N8N para:
 
-* Fazer autenticação OAuth2
-* Chamar a **API de criação de nota (POST /contacts/{id}****/notes****)**
+* Fazer autenticaçêo OAuth2
+* Chamar a **API de criaçêo de nota (POST /contacts/{id}****/notes****)**
 
 6.3 Envie os seguintes dados formatados:
 
 * Data/hora da chamada
-* Resultado (qualificado ou não)
+* Resultado (qualificado ou nêo)
 * Necessidade / Desejo / Capacidade financeira
 * Nota do operador
 * Justificativa e recomendações (em bullet points)
@@ -255,7 +255,7 @@ Resultado final:
 
 7.2 Use o módulo Google Sheets no N8N:
 
-* Escolha a opção **Append Row**
+* Escolha a opçêo **Append Row**
 * Preencha com os dados do Webhook e IA
 
 ---
@@ -277,17 +277,17 @@ Resultado final:
 
 ---
 
-### 9. **Cenário Avançado: Classificação da chamada**
+### 9. **Cenário Avançado: Classificaçêo da chamada**
 
 9.1 IA classifica a chamada como:
 
-* Prospecção, Venda, Suporte, Onboarding, Upselling ou Renovação
+* Prospecçêo, Venda, Suporte, Onboarding, Upselling ou Renovaçêo
 
 9.2 A resposta da IA define qual **fluxo será executado**, com prompts e análises específicas para cada tipo.
 
 ---
 
-### 10. **Recuperação de histórico e contexto**
+### 10. **Recuperaçêo de histórico e contexto**
 
 10.1 Para chamadas futuras:
 
@@ -316,7 +316,7 @@ Texto:
 
 ### Objetivo 
 
-Criar um sistema **automatizado de avaliação de chamadas** usando **GoHighLevel, N8N e IA**, capaz de:
+Criar um sistema **automatizado de avaliaçêo de chamadas** usando **GoHighLevel, N8N e IA**, capaz de:
 
 * Transcrever chamadas de vendas, suporte ou onboarding;
 * Avaliar com base em critérios (necessidade, desejo, capacidade financeira);
@@ -327,24 +327,24 @@ Criar um sistema **automatizado de avaliação de chamadas** usando **GoHighLeve
 
 ### Estrutura do sistema
 
-#### 1. **Disparo da automação (Trigger)**
+#### 1. **Disparo da automaçêo (Trigger)**
 
 * O fluxo começa quando uma chamada é **marcada como concluída** no GoHighLevel/Wixin.
-* As chamadas são filtradas por tipo (entrante ou saliente) e por **papel do operador** (Setter ou Closer).
+* As chamadas sêo filtradas por tipo (entrante ou saliente) e por **papel do operador** (Setter ou Closer).
 
 #### 2. **Webhook para N8N**
 
 * Um webhook é configurado no N8N para **receber os dados** da chamada:
 
-  * ID, nome do contato, telefone, duração, e **link do áudio via Twilio**.
+  * ID, nome do contato, telefone, duraçêo, e **link do áudio via Twilio**.
 
-#### 3. **Validação da chamada**
+#### 3. **Validaçêo da chamada**
 
 * O sistema **ignora chamadas com menos de 20 segundos** (ex: caixa postal).
 * Utiliza **CloudConvert** para converter o áudio para MP3.
 * Se tudo for válido, o áudio é transcrito com IA (OpenAI ou Gemini).
 
-#### 4. **Avaliação via IA**
+#### 4. **Avaliaçêo via IA**
 
 * A IA atua como **avaliador especializado** e verifica:
 
@@ -355,11 +355,11 @@ Criar um sistema **automatizado de avaliação de chamadas** usando **GoHighLeve
 
   * Um **score de 1 a 10** para o operador (Setter/Closer);
   * **Justificativa** e **recomendações** personalizadas;
-  * Resultado geral: **prospecto qualificado ou não**.
+  * Resultado geral: **prospecto qualificado ou nêo**.
 
 #### 5. **Registro no GoHighLevel**
 
-* Todos os dados da análise são registrados:
+* Todos os dados da análise sêo registrados:
 
   * Em **formato de nota** na ficha do cliente (com bullet points);
   * Incluindo: dor, objetivo, orçamento, red flags, feedback, recomendações e próximos passos.
@@ -368,30 +368,30 @@ Criar um sistema **automatizado de avaliação de chamadas** usando **GoHighLeve
 
 * Um Sheets é preenchido com:
 
-  * Dados da chamada + avaliação da IA + recomendações;
+  * Dados da chamada + avaliaçêo da IA + recomendações;
   * Serve como painel para **auditoria global de chamadas**.
 
 #### 7. **Retorno e alertas**
 
-* Se a chamada **não for qualificada**, o sistema:
+* Se a chamada **nêo for qualificada**, o sistema:
 
-  * Envia **alerta automático interno** (email, WhatsApp ou notificação);
-  * Notifica o diretor ou responsável para revisão manual.
+  * Envia **alerta automático interno** (email, WhatsApp ou notificaçêo);
+  * Notifica o diretor ou responsável para revisêo manual.
 
 ---
 
 ### Segundo fluxo (Avançado)
 
-#### 1. **Classificação automática do tipo de chamada**
+#### 1. **Classificaçêo automática do tipo de chamada**
 
 A IA detecta o tipo:
 
-* Prospecção
+* Prospecçêo
 * Venda
 * Suporte técnico
 * Onboarding
 * Upselling
-* Renovação
+* Renovaçêo
 
 #### 2. **Contexto histórico**
 
@@ -405,9 +405,9 @@ A IA retorna:
 * Setor, dores, objetivos, orçamento, prazo
 * Red flags
 * Feedback para o vendedor (fortalezas e pontos de melhoria)
-* Recomendação de próximos passos
+* Recomendaçêo de próximos passos
 
-#### 4. **Atualização do CRM com histórico completo**
+#### 4. **Atualizaçêo do CRM com histórico completo**
 
 * O sistema insere a nova nota com contexto anterior, criando um histórico conversacional útil para futuras interações.
 
@@ -418,18 +418,18 @@ A IA retorna:
 * **Auditoria contínua** de operadores sem ouvir chamadas manualmente;
 * **Feedback detalhado e acionável** para melhorar desempenho;
 * **Histórico completo de relacionamento** com o cliente no CRM;
-* **Classificação automática** para diferentes departamentos e objetivos.
+* **Classificaçêo automática** para diferentes departamentos e objetivos.
 
 ---
 
 ### Destaques técnicos
 
-* Conversão de áudio com CloudConvert
-* Integração via webhook e resposta automática
-* Transcrição e análise com OpenAI/Gemini
+* Conversêo de áudio com CloudConvert
+* Integraçêo via webhook e resposta automática
+* Transcriçêo e análise com OpenAI/Gemini
 * Registro inteligente no CRM via API
-* Estruturação JSON das respostas da IA
-* Criação de fluxos distintos para Setters e Closers
+* Estruturaçêo JSON das respostas da IA
+* Criaçêo de fluxos distintos para Setters e Closers
 
 ---
 
@@ -442,7 +442,7 @@ A IA retorna:
 
 ---
 
-### Conclusão
+### Conclusêo
 
 Esse sistema oferece **valor extremo**, reduz trabalho manual, melhora decisões comerciais e transforma **interações em dados acionáveis**. Com estrutura modular, é adaptável para qualquer processo de vendas ou atendimento.
 
@@ -471,7 +471,7 @@ Texto:
 ---
 
 🧠 **Próximos passos:**
-Na próxima será incorporado um **prompt especializado para closers**, com critérios de avaliação mais complexos. Também será mostrado como **escalar esse sistema** para analisar grandes volumes de chamadas ou integrá-lo com outros CRMs.
+Na próxima será incorporado um **prompt especializado para closers**, com critérios de avaliaçêo mais complexos. Também será mostrado como **escalar esse sistema** para analisar grandes volumes de chamadas ou integrá-lo com outros CRMs.
 
 ---
 
@@ -493,40 +493,40 @@ Texto:
 
 🎯 **O que aprendemos?**
 
-Aprendemos a construir um sistema automatizado que analisa as chamadas realizadas a partir do nosso CRM (Wixyn/Go High Level), as transcreve, avalia com IA e registra os resultados tanto no CRM quanto em uma planilha do Google Sheets. Tudo isso utilizando o **N8N** como motor de automação.
+Aprendemos a construir um sistema automatizado que analisa as chamadas realizadas a partir do nosso CRM (Wixyn/Go High Level), as transcreve, avalia com IA e registra os resultados tanto no CRM quanto em uma planilha do Google Sheets. Tudo isso utilizando o **N8N** como motor de automaçêo.
 
 🎯 **Objetivo geral**
-Automatizar a avaliação das chamadas feitas por **setters** ou **closers**, com os seguintes objetivos:
+Automatizar a avaliaçêo das chamadas feitas por **setters** ou **closers**, com os seguintes objetivos:
 
 * Detectar se o prospect tem **necessidade**, **desejo** e **capacidade financeira**
 * Obter **notas de desempenho**, **justificativas** e **recomendações** para cada chamada
 * Registrar automaticamente os resultados na ficha do contato e em uma base de dados (como Sheets)
-* Gerar **alertas internos** se a chamada não atender aos padrões mínimos
+* Gerar **alertas internos** se a chamada nêo atender aos padrões mínimos
 
 ---
 
-🛠️ **Cenário 1: Avaliação básica para chamadas de setters**
+🛠️ **Cenário 1: Avaliaçêo básica para chamadas de setters**
 
 **O que fazemos?**
 
 **Disparo (trigger) em Wixyn / GoHighLevel:**
 
-* A automação é iniciada quando uma chamada é marcada como *concluída*
+* A automaçêo é iniciada quando uma chamada é marcada como *concluída*
 * Filtramos por tipo de chamada (entrante ou saliente) e papel do usuário (setter ou closer)
 
 **Envio de dados ao N8N via webhook:**
 
-* Enviamos os dados principais: ID da chamada, nome, telefone, duração e link do áudio (via Twilio)
+* Enviamos os dados principais: ID da chamada, nome, telefone, duraçêo e link do áudio (via Twilio)
 
 **Filtragem de chamadas inválidas:**
 
 * Ignoramos chamadas com menos de 20 segundos (erros, caixa postal, etc.)
 
-**Conversão do áudio para MP3:**
+**Conversêo do áudio para MP3:**
 
 * Utilizamos a API do **CloudConvert** para converter o arquivo de áudio em um formato aceito pela IA
 
-**Transcrição e análise com IA (OpenAI ou Gemini):**
+**Transcriçêo e análise com IA (OpenAI ou Gemini):**
 
 * Transcrevemos a chamada e pedimos que um modelo de linguagem (LLM) avalie:
 
@@ -539,39 +539,39 @@ Automatizar a avaliação das chamadas feitas por **setters** ou **closers**, co
 **Registro de resultados:**
 
 * Uma nota detalhada é adicionada na ficha do contato no GoHighLevel
-* Os dados são enviados para o Google Sheets para análise geral
+* Os dados sêo enviados para o Google Sheets para análise geral
 
 **Alertas internos:**
 
-* Se o prospect não estiver qualificado, é enviada uma **notificação automática** ao responsável ou ao próprio setter
+* Se o prospect nêo estiver qualificado, é enviada uma **notificaçêo automática** ao responsável ou ao próprio setter
 
 ---
 
-🧪 **Cenário 2: Avaliação avançada por tipo de chamada com contexto histórico**
+🧪 **Cenário 2: Avaliaçêo avançada por tipo de chamada com contexto histórico**
 Esse segundo fluxo é mais robusto, pensado para contextos complexos com vários tipos de chamadas (vendas, suporte, onboarding, etc.)
 
 **O que é adicionado?**
 
-**Classificação automática do tipo de chamada:**
+**Classificaçêo automática do tipo de chamada:**
 A IA detecta automaticamente se a chamada é de:
 
-* Prospecção
+* Prospecçêo
 * Venda
 * Suporte técnico
 * Onboarding
-* Renovação
+* Renovaçêo
 * Upselling
 
 **Análise adaptada ao tipo de chamada:**
-Cada tipo tem um tipo de avaliação específico:
+Cada tipo tem um tipo de avaliaçêo específico:
 
 * Em suporte, detecta **incidências, ações tomadas e próximos passos**
 * Em vendas, analisa **setor, dores, objetivos, orçamento, etc.**
 
-**Recuperação do histórico do cliente:**
+**Recuperaçêo do histórico do cliente:**
 
 * Antes da análise, o sistema consulta a ficha do cliente no GoHighLevel
-* Todas as notas anteriores são recuperadas e fornecidas como contexto ao modelo
+* Todas as notas anteriores sêo recuperadas e fornecidas como contexto ao modelo
 
 **Prompt enriquecido para análise profunda:**
 O modelo extrai dados como:
@@ -587,7 +587,7 @@ O modelo extrai dados como:
 
 **Nota detalhada no CRM:**
 
-* Todas as informações são registradas com **formato claro e em bullet points** na ficha do cliente
+* Todas as informações sêo registradas com **formato claro e em bullet points** na ficha do cliente
 
 **Exemplo de saída:**
 
@@ -603,7 +603,7 @@ O modelo extrai dados como:
   * ❌ Poderia ter aprofundado mais no orçamento
 * Próximos passos: Agendar demo e enviar proposta
 
-**Preparação para chamadas futuras:**
+**Preparaçêo para chamadas futuras:**
 
 * Quando uma nova chamada for feita, o sistema incorpora todo o histórico anterior para fornecer um **contexto mais completo e útil**
 
@@ -629,7 +629,7 @@ Se a sua equipe faz chamadas de vendas, acompanhamento ou suporte, isso muda o j
 
 🔥 **O que exatamente montamos?**
 
-✅ **Primeira automação:**
+✅ **Primeira automaçêo:**
 Criamos um sistema que analisa automaticamente cada chamada feita a partir do Wixyn ou GoHighLevel.
 
 * Transcreve a chamada com IA
@@ -638,17 +638,17 @@ Criamos um sistema que analisa automaticamente cada chamada feita a partir do Wi
 * Gera uma justificativa e recomendações
 * E registra tudo na ficha do cliente + Google Sheets
 
-  Além disso, dispara alertas automáticos se a chamada não cumprir os critérios mínimos.
+  Além disso, dispara alertas automáticos se a chamada nêo cumprir os critérios mínimos.
 
-✅ **Segunda automação:**
+✅ **Segunda automaçêo:**
 Aqui demos um passo além. A IA detecta qual é o tipo de chamada:
 
-* Prospecção
+* Prospecçêo
 * Venda
 * Suporte
 * Onboarding
 * Upselling
-* Renovação
+* Renovaçêo
 
 E, com base no tipo, faz uma análise muito mais profunda:
 
@@ -659,11 +659,11 @@ E, com base no tipo, faz uma análise muito mais profunda:
 
 
 A ideia é clara:
-👉 Avaliar cada interação, seja como for
+👉 Avaliar cada interaçêo, seja como for
 👉 Medir. Melhorar. Escalar.
 👉 Transformar conversas em dados acionáveis
 
-**Isso não é apenas sobre automatizar. É sobre dominar cada parte do processo comercial com inteligência real.**
+**Isso nêo é apenas sobre automatizar. É sobre dominar cada parte do processo comercial com inteligência real.**
 
 ---
 
@@ -672,23 +672,23 @@ A ideia é clara:
 1. **Objetivo geral**
    Criar um sistema automatizado de análise de chamadas comerciais com IA.
 
-2. **Funcionalidades principais da primeira automação**
+2. **Funcionalidades principais da primeira automaçêo**
 
-   * Transcrição da chamada por IA
-   * Avaliação de necessidade, desejo e capacidade financeira
+   * Transcriçêo da chamada por IA
+   * Avaliaçêo de necessidade, desejo e capacidade financeira
    * Nota do vendedor e recomendações geradas
    * Registro em CRM + Google Sheets
    * Alerta em caso de chamada ruim
 
-3. **Funcionalidades da segunda automação (mais avançada)**
+3. **Funcionalidades da segunda automaçêo (mais avançada)**
 
-   * Classificação do tipo de chamada (venda, suporte, etc.)
+   * Classificaçêo do tipo de chamada (venda, suporte, etc.)
    * Análise profunda baseada no tipo de chamada
-   * Detecção de setor, dores, orçamento
+   * Detecçêo de setor, dores, orçamento
    * Consulta ao histórico do cliente
    * Resumo estratégico no CRM
 
-4. **Próximos passos (extensão do sistema)**
+4. **Próximos passos (extensêo do sistema)**
 
    * Suporte a chamadas Google Meet
    * Suporte a gravações físicas (gravador externo)
@@ -697,7 +697,7 @@ A ideia é clara:
 
    * Avaliar todas as interações
    * Otimizar processos com dados
-   * Aumentar conversão e performance com inteligência comercial real.
+   * Aumentar conversêo e performance com inteligência comercial real.
 
 ------------------------------
 

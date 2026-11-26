@@ -13,7 +13,7 @@ MENSAGEM 1
 Autor: Carlos
 Data: 2025-03-20T15:33:04+00:00
 Texto:
-@TarcisDomingues [Nicolas](tg://user?id=1187830783) cada numeração tem o fluxo e a explicação... alguns tem vídeos...
+@TarcisDomingues [Nicolas](tg://user?id=1187830783) cada numeraçêo tem o fluxo e a explicaçêo... alguns tem vídeos...
 Midia: MessageMediaPhoto -> photo_3557_001.jpg
 
 ------------------------------
@@ -63,7 +63,7 @@ MENSAGEM 7
 Autor: Mário
 Data: 2025-01-09T19:07:56+00:00
 Texto:
-Amigão boa tarde! Vou te chamar aí no PV
+Amigêo boa tarde! Vou te chamar aí no PV
 
 ------------------------------
 
